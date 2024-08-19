@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="444"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e854"><!-- zef3dd-l3c13 -->
+            <head xml:id="zef3dd-d1e854-Hd1e101">Caput 13</head>
+            <head xml:id="zef3dd-d1e854-Hd1e103" type="question-title">Responsio ad Photinianorum argumenta</head>
+            <p xml:id="zef3dd-d1e854-d1e106">
+               <lb ed="#B" n="73"/>CAPUT XIII. 
+      <lb ed="#B" n="74"/>RESPONSIONEM AD PHOTI 
+      <lb ed="#B" n="75"/>NIANORUM ARGUMENTA EX 
+<lb ed="#B" n="76"/>HIBENS. 
+</p>
+            <p xml:id="zef3dd-d1e854-d1e117">
+               <lb ed="#B" n="77"/>166. Exposuimus hactenus membrum prius nρa 
+      <lb ed="#B" n="78"/>γμαιολογίας, quod fuit κατασκευασιικόν, succedi 
+      <lb ed="#B" n="79"/>membrum posterius, quod erit ἀνασκευαστικόν, 
+      ne<lb ed="#B" n="80" break="no"/>gantibus trinitatis mysterium oppositum. 
+      Photinian<lb ed="#B" n="81" break="no"/>hoc mysterium non solum pertinaciter negant, sed 
+      <lb ed="#B" n="82"/>etiam aeriter impugnant ac impudenter blasphemant 
+      <lb ed="#B" n="83"/>Argumenta ipsorum ad duas referri possunt classe. 
+      <lb ed="#B" n="84"/>1. Quaedam petita sunt ex Scripturae dictis pessim 
+      <lb ed="#B" n="85"/>letortis. 2. Quaedam ex principiis philosophici 
+      <lb ed="#B" n="86"/>pessime applicatis. Dieta Scripturae, quae conti 
+      <lb ed="#B" n="87"/>trinitatem personarum urgent, haec sunt, in quibu 
+      <lb ed="#B" n="88"/>Pater Domini nostri Jesu Christi solus ac unus veru 
+      <lb ed="#B" n="89"/>Deus dicitur Joh. 17, v. 3. Ephes. 4. v. 6. 1. Cor. 8, v. 
+      <lb ed="#B" n="90"/>ete. Sed ostendimus in tract. proxime praecedent 
+      <lb ed="#B" n="91"/>particulas illas exelusivas, unus, aolus, ete. non op 
+      <lb ed="#B" n="92"/>poni reliquis deitatis personis, verum creaturis 
+      e<lb ed="#B" n="93" break="no"/>fictitiis numinibus, quae sunt extra deitatis essen 
+      <lb ed="#B" n="94"/>tiam. Quid in genere ad philosophica principi 
+      <lb ed="#B" n="95"/>huic mysterio pessime applicata respondendum 
+      si<lb ed="#B" n="96" break="no"/>ostendimus superius in προθεωρίᾳ thesi 6. specis 
+      <lb ed="#B" n="97"/>lem argutiarum Photinianorum explicationem 
+      pro<lb ed="#B" n="98" break="no"/>posuimus in loc. de tribus Elohim §. 83; hoc 
+      <lb ed="#B" n="99"/>igitur loco tres duutaxat argutias in specie examina 
+      <lb ed="#B" n="100"/>bimus 
+      </p>
+            <p xml:id="zef3dd-d1e854-d1e172">
+               <lb ed="#B" n="101"/>167. 1. Ab essentiae divinae unitate. Una nu 
+      <lb ed="#B" n="102"/>mero essentia non potest esse pluribus personis 
+      com<lb ed="#B" n="103" break="no"/>munis. Persona enim est intelligens individua sub 
+      <lb ed="#B" n="104"/>stantia. Ergo ubi tres personae, ibi tres easentia 
+      <lb ed="#B" n="105"/>Resp. 1. Galatinus libr. 2. de arcanis cath. veri 
+      <lb ed="#B" n="106"/>c. 2. profort. hanc instantiam: Si una numero es 
+      <lb ed="#B" n="107"/>sentia divina sine sui multiplicatione potest exse in 
+      <lb ed="#B" n="108"/>pluribus locis, utique eadem sine sui multiplication 
+      <!--518.xml-->
+      <pb ed="#B" n="445"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>potest esse pluribus personis communis. Deum (
+      in<lb ed="#B" n="2" break="no"/>quit) ubique esse, Scriptura evidenter asserit et 
+      Ju<lb ed="#B" n="3" break="no"/>daei fatentur. Id autem secundum diversas partes 
+      <lb ed="#B" n="4"/>verificari nequit, quia, cum Deue spiritus sit ac 
+      <lb ed="#B" n="5"/>rumme simplex, omni prorsus partium 
+      diversitat<lb ed="#B" n="6" break="no"/>atque compositione caret, neque etiam auccessive in 
+      <lb ed="#B" n="7"/>divereis locis esse dicendus, quia tunc cecundum 
+      <lb ed="#B" n="8"/>locum mutabilis esset, quod Deo nequaquam 
+      con<lb ed="#B" n="9" break="no"/>venit, quoniam, cum aeternus sit et immensus atque 
+      <lb ed="#B" n="10"/>summe simplex, neque secundum tempus neque 
+      se<lb ed="#B" n="11" break="no"/>cundum locum neque secundum formam mutar 
+      <lb ed="#B" n="12"/>potest. Ea propter fateri eos (Judaeos) oportet 
+      <lb ed="#B" n="13"/>Deum, etei unus sit, totum cum suae unitatis veri 
+      <lb ed="#B" n="14"/>tate simul et semel in diversis locis esse. Quocirco 
+      <lb ed="#B" n="15"/>eos quoque concedere necesse est, ipsam divinitaten 
+      <lb ed="#B" n="16"/>etei una tantum numero exsistat, totam simul in 
+      <lb ed="#B" n="17"/>pluribus esse posse personis. Quod si illud primum 
+      <lb ed="#B" n="18"/>concedunt, cur secundum negant, cum non magi 
+      <lb ed="#B" n="19"/>unum quam alterum concedendum sit? Sed long. 
+      <lb ed="#B" n="20"/>alia ratione Deus est in pluribus locis quam 
+      un<lb ed="#B" n="21" break="no"/>divina essentia in pluribus personis. Deus in 
+      plur<lb ed="#B" n="22" break="no"/>bus, vel, ut rectius dicamus, in omnibus locis prae 
+      <lb ed="#B" n="23"/>sens est libere ac voluntarie, sed divina essentia 
+      <lb ed="#B" n="24"/>non est nec esse potest extra tres personas. Deu 
+      <lb ed="#B" n="25"/>et creaturae, quibus Deus praesens est, realiter 
+      invi<lb ed="#B" n="26" break="no"/>cem distinguuntur, sed divina essentia et tres per 
+      <lb ed="#B" n="27"/>sonae deitatis non distinguuntur realiter, alias fore 
+      <lb ed="#B" n="28"/>quaternitas. 2. Unam numero essentiam non poss 
+      <lb ed="#B" n="29"/>esse in pluribus personis, verum est de essentio 
+      <lb ed="#B" n="30"/>finita, creata, materiae corporeae immersa. Id 
+      ver<lb ed="#B" n="31" break="no"/>ad divinam essentiam, quae est infinita, immense 
+      <lb ed="#B" n="32"/>increata, simplicissima ac prorsus immaterialis, 
+      ap<lb ed="#B" n="33" break="no"/>plicari nequit, ea enim propter infinitatem ac sim 
+      <lb ed="#B" n="34"/>plicitatem absque ulla divisione, compositione, 
+      mul<lb ed="#B" n="35" break="no"/>tiplicatione, ete. in pluribus personis esse potest 
+      <lb ed="#B" n="36"/>3. Fides Christiana simplicissime respondet: Deus 
+      <lb ed="#B" n="37"/>nobis sic agnoscendus, colendus et invocandus es 
+      <lb ed="#B" n="38"/>ut se in verbo patefecit, et contra hanc patefactio 
+      <lb ed="#B" n="39"/>nem in verbo factam non sunt audiendae rationis 
+      <lb ed="#B" n="40"/>humanae argutiae. Jam vero Deus sic se in verbo 
+      <lb ed="#B" n="41"/>patefecit, quod sit unus in essentia et trinus in per 
+      <lb ed="#B" n="42"/>sonis. Ergo etiam sic a nobis agnoscendus et eo 
+      <lb ed="#B" n="43"/>lendus, nec audiendae sunt contra hanc 
+      patefactio<lb ed="#B" n="44" break="no"/>nem humanae rationis argutiae. 4. Justinus quali 
+      <lb ed="#B" n="45"/>cunque similitudine probare nititur τρόπους ὑπάς 
+      <lb ed="#B" n="46"/>ξεως non variare ipsam essentiam. Sic enim scribi 
+      <lb ed="#B" n="47"/>in qq. et respp. q. 139. p. 377: Quemadmodum in 
+      <lb ed="#B" n="48"/>Adamo, Eva et Setho una est essentiae ratio, animo 
+      <lb ed="#B" n="49"/>acilicet rationalis et corpus mortale, modi vero ex 
+      <lb ed="#B" n="50"/>sistentiae variant, nam Adam e terra factus est 
+      <lb ed="#B" n="51"/>Eva ex costa, Seth ex genitali semine et in diversi 
+      <lb ed="#B" n="52"/>exsistentiae modis, manet eadem et una essentia 
+      <lb ed="#B" n="53"/>ratio, in quam distinctio et mutatio non cadit 
+      <lb ed="#B" n="54"/>Sic et in Deo, eo quod eadem sit personarum 
+      <lb ed="#B" n="55"/>essentia, unus Deus creditur, Pater, Filius eo 
+      <lb ed="#B" n="56"/>Spiritus s., εἰς ἐστιν ὁ θεὸς τῇ συνυκάρξει τῶν 
+      <lb ed="#B" n="57"/>τριῶν θείων ὑποστάσεων τῶν διαφερουσῶν ἀλλή. 
+      <lb ed="#B" n="58"/>λων οὐ τῇ οὐσίᾳ ἀλλὰ τοῖς τῆς ὑπάρξεως τρόκοις, 
+      <lb ed="#B" n="59"/>διαφορὰ δὲ τῶν τῆς ὑπάρξεως τρόπων οὐ διαιρεῖ τὸ 
+      <!--518.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>ἐν τῇ οὖσίᾳ. Interim notandum, quod unitas 
+      essentia<lb ed="#B" n="61" break="no"/>humanae in Adamo, Eva et Setho sit duntaxa 
+      <lb ed="#B" n="62"/>specifica; sed unitas essentiae divinae in Patro 
+      <lb ed="#B" n="63"/>Filio et Spiritu s. est numerica, xml:ideo similitudo 
+      <lb ed="#B" n="64"/>lla non adaequat, nec explicat mysterii magnitud 
+      <lb ed="#B" n="65"/>nem 
+      </p>
+            <p xml:id="zef3dd-d1e854-d1e345">
+               <lb ed="#B" n="66"/>168. 2. Ab essentiae divinae eimplicitate. Sim 
+      <lb ed="#B" n="67"/>olicitas divinae essentiae excludit omnem 
+      composi<lb ed="#B" n="68" break="no"/>tionem. Atqui ubi persona et essentia, ibi datur 
+      <lb ed="#B" n="69"/>compositio. Socin. in defens. anim. p. 45: Si ex eo 
+      <lb ed="#B" n="70"/>quod Dei essentia simplicissima sit, necessario 
+      <lb ed="#B" n="71"/>ejusdem essentiae compositio omnis excluditur, se 
+      <lb ed="#B" n="72"/>juitur omnino plures personas in Dei essentia esse 
+      <lb ed="#B" n="73"/>non posse inter se distinctas, nisi Dei essentiam 
+      <lb ed="#B" n="74"/>tanquam speciem seu communem quandam pluribus 
+      <lb ed="#B" n="75"/>individuis naturam accipiamus. Resp. 1. in divinis 
+      <lb ed="#B" n="76"/>essentia et persona non faciunt compositionem, quia 
+      <lb ed="#B" n="77"/>essentia a personis non distinguitur realiter, ut Somm. 
+      <lb ed="#B" n="78"/>in refut. Carolini p. 25. nos sentire calumniatur, sed 
+      <lb ed="#B" n="79"/>res personae divinae realiter nihil aliud sunt quan 
+      <lb ed="#B" n="80"/>ipsa divina essentia tribus personis communis, et 
+      di<lb ed="#B" n="81" break="no"/>vina essentia realiter nihil aliud est quam tres per 
+      <lb ed="#B" n="82"/>sonae divinae, alias pro trinitate introduceretur qua 
+      <lb ed="#B" n="83"/>ternitas. 2. Quamvis vero personae inter se realiter 
+      <lb ed="#B" n="84"/>distinguantur, illud tamen divinae essentiae simpli 
+      <lb ed="#B" n="85"/>citati fraudi esse nequit, quia ut Thom. part. 1. 
+      <lb ed="#B" n="86"/>quaest. 39. art. 1. disputat: Sicut relationes in rebus 
+      <lb ed="#B" n="87"/>creatis accidentaliter insunt, ita in DEO sunt ipse 
+      <lb ed="#B" n="88"/>essentia divina, ex quo sequitur, quod in Deo non 
+      <lb ed="#B" n="89"/>sit aliud essentia, quam persona secundum rem e 
+      <lb ed="#B" n="90"/>tamen quod personae realiter ab invicem 
+      distinquan<lb ed="#B" n="91" break="no"/>tur. Persona enim significat relationem, prout est 
+      <lb ed="#B" n="92"/>subsistens in natura divina. Relatio autem ad essen 
+      <lb ed="#B" n="93"/>tiam comparata non differt re, sed ratione tantum. 
+      <lb ed="#B" n="94"/>comparata autem ad oppositam relationem habet 
+      <lb ed="#B" n="95"/>virtute oppositionis realem distinctionem et sic 
+      re<lb ed="#B" n="96" break="no"/>manet una essentia et tres personae 
+      </p>
+            <p xml:id="zef3dd-d1e854-d1e415">
+               <lb ed="#B" n="97"/>Quidam respondent, relationes praedicamentales 
+      <lb ed="#B" n="98"/>facere compositionem, non autem transscendentales 
+      <lb ed="#B" n="99"/>Jam vero in Deum non cadit relatio 
+      praedicamen<lb ed="#B" n="100" break="no"/>talis, sed transcendentalis. 3. Fides Christiana 
+      <lb ed="#B" n="101"/>simplicissimè respondet. Scriptura utrumque docet 
+      <lb ed="#B" n="102"/>essentiam divinam esse simplicissimam omnis 
+      com<lb ed="#B" n="103" break="no"/>positionis expertem, eandem etiam esse tribus per 
+      <lb ed="#B" n="104"/>bonis realiter inter se distinctis communem. Utrum 
+      <lb ed="#B" n="105"/>que igitur credendum ratione sub fidei obsequium 
+      <lb ed="#B" n="106"/>captivata, quamvis comprehendere non possimus 
+      <lb ed="#B" n="107"/>quomodo essentiae divinae simplicitas cum 
+      persona<lb ed="#B" n="108" break="no"/>rum trinitate consistat. Vid. disp. 10. de glor. Deil 
+      <lb ed="#B" n="109"/>§. 36. loc. de Nat. Dei §. 85. 
+      </p>
+            <p xml:id="zef3dd-d1e854-d1e446">
+               <lb ed="#B" n="110"/>169. 3. A patris coelestis majestate. Confessie 
+      <lb ed="#B" n="111"/>trinitatis labefactat gloriam unius veri Dei, qui es 
+      <lb ed="#B" n="112"/>solus Pater Domini nostri Jesu Christi. Resp. 1. 
+      <lb ed="#B" n="113"/>gloria Dei in eo consistit, ut eo modo a nobis agno 
+      <lb ed="#B" n="114"/>scatur et colatur, quo se in verbo patefecit. Jam 
+      <lb ed="#B" n="115"/>vero Deus in verbo sic se patefecit, quod sit in 
+      <lb ed="#B" n="116"/>essentia unus, in personis trinus. 2. Invertimus igi¬ 
+      <!--519.xml-->
+      <pb ed="#B" n="446"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tur argumentum. Omnes honorificare debent Filium 
+      <lb ed="#B" n="2"/>καθώς, sicut honorant Patrem. Qui non honora 
+      <lb ed="#B" n="3"/>Filium, is nec Patrem honorat, qui misit illum 
+      <lb ed="#B" n="4"/>Joh. 5, v. 2. Ergo per negationem trinitatis gloria 
+      <lb ed="#B" n="5"/>veri Dei labefaetatur. Athanasius: Non recipit Pate 
+      <lb ed="#B" n="6"/>honorem erga se cum Filii sui contumelia. Augus 
+      <lb ed="#B" n="7"/>serm. 51. de verb. Dom.: Cum de Filii contumelia 
+      <lb ed="#B" n="8"/>honoras Patrem, et Filium offendis et Patrem 
+      <lb ed="#B" n="9"/>Prudent.: Nonne Patrem violas, dum Natum scir 
+      <lb ed="#B" n="10"/>recusas. Nec vocitare Patrem potis es, quem ger 
+      <lb ed="#B" n="11"/>mine fraudas. Vid. Disp. 10. de glor. Dei §. 33.
+      <!--519.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="12"/>Ad reliquas Photinianorum argutias ex rationis 
+      hu<lb ed="#B" n="13" break="no"/>manae judicio instar funiculi ex arena nexas respon 
+      <lb ed="#B" n="14"/>demus verbis Augustini lib. 12. de civ. Dei e. 17. 
+      <lb ed="#B" n="15"/>Has argumentationes (contra mysteria fidei in 
+      Scri<lb ed="#B" n="16" break="no"/>pturis patefacta formatas), si ratio refutare non 
+      pos<lb ed="#B" n="17" break="no"/>set, fides irridere deberet, ac Chrysostomi homil.: 
+      <lb ed="#B" n="18"/>in 1. Epist. ad Timoth.: Nihil commune habet 
+      hu<lb ed="#B" n="19" break="no"/>mana ratio collata divinis, xml:ideoque blasphemia eat 
+      <lb ed="#B" n="20"/>rationibus velle divina discutere, in quo et cur 
+      <lb ed="#B" n="21"/>quo pronuntiato tractatum de trinitatis mysterio 
+      <lb ed="#B" n="22"/>finimus 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

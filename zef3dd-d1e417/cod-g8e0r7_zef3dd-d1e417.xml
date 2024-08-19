@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 21</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 21</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="193"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e417"><!-- zef3dd-l1c21 -->
+            <head xml:id="zef3dd-d1e417-Hd1e101">Caput 21</head>
+            <head xml:id="zef3dd-d1e417-Hd1e103" type="question-title">De norma ac regula dogmatum et controversiarum in ecclesia</head>
+            <p xml:id="zef3dd-d1e417-d1e106">
+               <lb ed="#B" n="17"/>CAPUT XXI. 
+      <lb ed="#B" n="18"/>DE NORMA AC REGULA DOGMA 
+      <lb ed="#B" n="19"/>TUM ET CONTROVERSIARUM IN 
+<lb ed="#B" n="20"/>ECCLESIA. 
+</p>
+            <p xml:id="zef3dd-d1e417-d1e117">
+               <lb ed="#B" n="21"/>437. Ex Scripturae perfectione et perspicuitate 
+      <lb ed="#B" n="22"/>resultat hoc αὕχημα, quod ipsa sit sola unica à 
+      <lb ed="#B" n="23"/>perfecta norma et regula, juxta quam de fide et 
+      mor<lb ed="#B" n="24" break="no"/>bus in ecclesia docendum, spiritus omnes probandi 
+      <lb ed="#B" n="25"/>et omnes religionis controversiae dijudicandae, xml:id 
+      <lb ed="#B" n="26"/>quod hisce confirmatum damus argumentis: 1. ex 
+      <lb ed="#B" n="27"/>appellatione. Scriptura sacra vocatur canon et 
+      <lb ed="#B" n="28"/>canonica Scriptura, utique ergo erit norma ac re 
+      <lb ed="#B" n="29"/>gula dogmatum in ecclesia. Ps. 19, v. 5: In omnen 
+      <lb ed="#B" n="30"/>terram exivit C7/2 linea eorum. LXX verterunt 
+      <lb ed="#B" n="31"/>φθόγγος αὐτῶν, legerunt igitur SQVp sonus eorum, 
+      <lb ed="#B" n="32"/>ex quo Bellarm. lib. 2. de verbo Dei c. 2. Hunt. 
+      <lb ed="#B" n="33"/>laeus contr. 1. c. 9. §. 7. corruptelam in textur 
+      <lb ed="#B" n="34"/>Hebraicum irrepsisse colligunt, sed quid huic argu 
+      <lb ed="#B" n="35"/>mento respondendum sit, exposuimus superius 
+      <lb ed="#B" n="36"/>§. 331. Rabbini priorem psalmi partem ac proinde 
+      <lb ed="#B" n="37"/>etiam hunc versiculum de coelo materiali duntaxa 
+      <lb ed="#B" n="38"/>exponunt: Funiculus influentiae ipsorum h. e. oper 
+      <lb ed="#B" n="39"/>orbium et stellarum exiverunt in totam terram. Sed 
+      <lb ed="#B" n="40"/>habemus interpretem omni exceptione majoren 
+      <lb ed="#B" n="41"/>apostolum Paulum, qui hunc versiculum Rom. 10. 
+      <lb ed="#B" n="42"/>v. 18 ad doctrinam apostolicam accommodat, quae 
+      <lb ed="#B" n="43"/>hodie non nisi in libris eorum continetur. Illan 
+      <lb ed="#B" n="44"/>vocat regulam, normam et canonem, *2 enim 
+      pro<lb ed="#B" n="45" break="no"/>prie significat lingulam in trutina, juxta quam aequi 
+      <lb ed="#B" n="46"/>librium constituitur; funiculum tenuem, quem minio 
+      <lb ed="#B" n="47"/>creta aut atramento imbuunt fabri, ut lineam 
+      rectan<lb ed="#B" n="48" break="no"/>ducant, cujus ductum postea sequantur in materis 
+      <lb ed="#B" n="49"/>exaequanda et complananda; perpendiculum h. 
+      e<lb ed="#B" n="50" break="no"/>instrumentum, quo filum plumbo appenso explora 
+      <lb ed="#B" n="51"/>structurae in altum rectitudinem; funiculum 
+      tam<lb ed="#B" n="52" break="no"/>aedificii quam dimensionis, quas significationes pleras 
+      <lb ed="#B" n="53"/>que omnes Schindlerus in lexico notat. Exempla earum 
+      <!--266.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="54"/>Scriptura in se ac per se est lux quaedam claris 
+      <lb ed="#B" n="55"/>sima, sive materiam, sive formam, xml:id est, sive res, sivo 
+      <lb ed="#B" n="56"/>tradendi modum et verba respicias. Sed respect 
+      <lb ed="#B" n="57"/>nostri propter connatas mentis nostrae tenebras re 
+      <lb ed="#B" n="58"/>quiritur Spiritus sancti illuminatio ad salutarem d 
+      <lb ed="#B" n="59"/>vinorum mysteriorum in Scripturis satis clare pro 
+      <lb ed="#B" n="60"/>positorum intelligentiam. Lutherus in lib. de ser 
+      <lb ed="#B" n="61"/>arbitr. tom. 3. Jen. p. 167: Ne unum quidem jot 
+      <lb ed="#B" n="62"/>in Scripturis perspicuum est sine Spiritus s. 
+      luc<lb ed="#B" n="63" break="no"/>omnia enim hac ratione et hoc respectu carni et 
+      <lb ed="#B" n="64"/>acumini hominis sunt obscura. Sol in se ac per a 
+      <lb ed="#B" n="65"/>satis splendidus, interim caecorum oculi eum intuer 
+      <lb ed="#B" n="66"/>nequeunt. 3. Distinguendum esse inter notitiam 
+      <lb ed="#B" n="67"/>literalem ac spiritualem. Possunt quidem nondum 
+      <lb ed="#B" n="68"/>illuminati ac collustrati a Spiritu sancto cognitum 
+      <lb ed="#B" n="69"/>habere exteriorem Scripturae corticem ac fidem hi 
+      <lb ed="#B" n="70"/>storicam per externum verbi ministerium conciper 
+      <lb ed="#B" n="71"/>sed solidam ac salutarem fidei justificantis πληρo 
+      <lb ed="#B" n="72"/>φορίαν absque Spiritu sancto interius mentem 
+      co<lb ed="#B" n="73" break="no"/>lustrante et voluntatem flectente habere 
+      nequeun<lb ed="#B" n="74" break="no"/>4. Distinguendum esse inter illuminationem Spiri 
+      <lb ed="#B" n="75"/>tus mediatam et immediatam. Non est cogitandum 
+      <lb ed="#B" n="76"/>prius a Spiritu sancto immediatos raptus et imme 
+      <lb ed="#B" n="77"/>diatam illuminationem exspectandam, antequam a 
+      <lb ed="#B" n="78"/>Scripturas legendas, meditandas ac perscrutanda 
+      <lb ed="#B" n="79"/>accedamus, sed per ordinarium medium, videlice 
+      <lb ed="#B" n="80"/>per diligentem verbi lectionem et meditationem 
+      <lb ed="#B" n="81"/>Spiritus sancti piis precibus invocatus salutarem di 
+      <lb ed="#B" n="82"/>vinorum mysteriorum intelligentiam nobis vult 
+      la<lb ed="#B" n="83" break="no"/>giri. Ut ex verbo in prima creatione lux naturalis 
+      <lb ed="#B" n="84"/>sic ex verbo in ἀνακτίσει oritur lux spiritualis 
+      <lb ed="#B" n="85"/>Actor. 10, v. 42: Petro adhuc loquente cecidit 
+      Spi<lb ed="#B" n="86" break="no"/>ritus a. super omnes, qui verbum audiebant. 
+      Ga<lb ed="#B" n="87" break="no"/>3, v. 2 ex auditu fidei, xml:id est, ex praedicatior 
+      <lb ed="#B" n="88"/>evangelii Galatae dicuntur accepisse Spiritum can 
+      <lb ed="#B" n="89"/>ctum. 5. Finem non excludere, sed potius includer 
+      <lb ed="#B" n="90"/>media ad finem ducentia, ac proinde finem non de 
+      <lb ed="#B" n="91"/>bere mediis opponi. Frustra igitur colligit Ostore 
+      <lb ed="#B" n="92"/>dus: Si Deus singulari consilio res divinas acris 
+      <lb ed="#B" n="93"/>voluit, ut quilibet eas legere posset, consequens es 
+      <lb ed="#B" n="94"/>Scripturam absque Spiritus a. illuminatione in 
+      <lb ed="#B" n="95"/>telligi posse. Nam finis ille Scripturae, qui in 
+      <lb ed="#B" n="96"/>manifestatione rerum divinarum ad salutem necessa 
+      <lb ed="#B" n="97"/>riarum consistit, non excludit Spiritus sancti illumina 
+      <lb ed="#B" n="98"/>tionem ad hunc finem obtinendum in homine reque 
+      <lb ed="#B" n="99"/>sitam. Posset enim eadem ratione inferri. 
+      Fin<lb ed="#B" n="100" break="no"/>evangelicae historiae est, ut credamus Jesum ess 
+      <lb ed="#B" n="101"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="102"/>Christum, et per fidem in nomen ejus vitam 
+      acte<lb ed="#B" n="103" break="no"/>nam habeamus Joh. 20, v. 31. Ergo sine Spiritu 
+      <lb ed="#B" n="104"/>sancti illuminatione nostrarum duntaxat virium 
+      op<lb ed="#B" n="105" break="no"/>fidem et vitam aeternam obtinere possumus. Prae 
+      <lb ed="#B" n="106"/>terea si hic finis Scripturae excluderet media, ut 
+      <lb ed="#B" n="107"/>que etiam nulla opus foret Scripturae interpreta 
+      <lb ed="#B" n="108"/>tione, frustraneum foret ministerium ecclesiasticum 
+      <lb ed="#B" n="109"/>nec foret necessaria Scripturae lectio et meditatio 
+      <lb ed="#B" n="110"/>quae tamen omnia <name xml:id="zef3dd-d1e417-Nd1e320">Ostorodus</name> suo loco relinquit 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e323">
+               <lb ed="#B" n="111"/>436. 4. Perspicuitatem Scripturae etiam nega 
+      <lb ed="#B" n="112"/>Weigelius, quando eam vocat ambidextram et 
+      flex<lb ed="#B" n="113" break="no"/>loquae atque ambiquae obscuritatis accusat, finc 
+      <lb ed="#B" n="114"/>ac. eo, ut a litera Scripturae ad Spiritum internur 
+      <!--267.xml-->
+      <pb ed="#B" n="194"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>occurrunt, Job. 38, v. 5. Esai. 44. v. 13. Jerem. 31. 
+      <lb ed="#B" n="2"/>v. 39. Ex hoc loco psalmi videtur desumtum dictum 
+      <lb ed="#B" n="3"/>propheticum illi quodammodo parallelum Esai. 2. 
+      <lb ed="#B" n="4"/>v. 10: Praeceptum ad praeceptum 75 7 7° 5 
+      <lb ed="#B" n="5"/>linea super lineam, vel linea post lineam; v. 13. 
+      <lb ed="#B" n="6"/>erit eis verbum Domini praeceptum ad praeceptur 
+      <lb ed="#B" n="7"/>linea ad lineam etc. Quidam illud accommodai 
+      <lb ed="#B" n="8"/>hoc modo: architectus lineam extendit, done 
+      <lb ed="#B" n="9"/>faciat ordinem unum, postea eam transfert et ex 
+      <lb ed="#B" n="10"/>tendit desuper, ut faciat ordinem alium, et ita pau 
+      <lb ed="#B" n="11"/>latim pergit, donec absolvat parietem; sic docend 
+      <lb ed="#B" n="12"/>sunt puerorum instar, qui paulatim parum percipiunt 
+      <lb ed="#B" n="13"/>Aben Ezra refert iX ad praecepta et V ad doctri 
+      <lb ed="#B" n="14"/>nam scriptam, cum pueri discunt legere linear 
+      <lb ed="#B" n="15"/>unam post alteram, ne multitudine obruantu 
+      <lb ed="#B" n="16"/>Quidam sic intelligunt, stupidis illis et caecis hom 
+      <lb ed="#B" n="17"/>nibus praecepta et regulas dari, sed eos tamen 
+      nihi<lb ed="#B" n="18" break="no"/>intelligere, ac perinde esse, ac si quis peregrina e 
+      <lb ed="#B" n="19"/>blaesa lingua illis loquatur. Ex toto context 
+      <lb ed="#B" n="20"/>apparet, sermonem esse de contemtoribus, verbi 
+      con<lb ed="#B" n="21" break="no"/>ciones propheticas irridentibus, μιμητικῶς igitur 
+      im<lb ed="#B" n="22" break="no"/>tatur propheta illas subsannationes impiorum, qu 
+      <lb ed="#B" n="23"/>saepe iteratas prophetarum commonefactiones irride 
+      <lb ed="#B" n="24"/>bant, dicentes, illos nihil crepare praeter mande 
+      <lb ed="#B" n="25"/>tum, mandatum, eodem sensu repetitur vox 
+      linea<lb ed="#B" n="26" break="no"/>Cum enim prophetae ad verbum velut ad lineam 
+      <lb ed="#B" n="27"/>et regulam omnia exanimanda esse dicerent, ac cu 
+      <lb ed="#B" n="28"/>tus extra et praeter verbum excogitatos damnarem 
+      <lb ed="#B" n="29"/>ridebantur hoc nomine a C*x5 ab impiis contem 
+      <lb ed="#B" n="30"/>toribus et subsannatoribus, qui docebant, eos nih 
+      <lb ed="#B" n="31"/>in medium afferre, quam suam illam normam ac re 
+      <lb ed="#B" n="32"/>gulam. Quando igitur verbum Dei scriptum siv 
+      <lb ed="#B" n="33"/>Scriptura per metaphoram ex orarixj sive ponderur 
+      <lb ed="#B" n="34"/>officina, et ex architectura translatam a Davide e 
+      <lb ed="#B" n="35"/>Esaia vocatur  regula; canon, amussis etc. e 
+      <lb ed="#B" n="36"/>ipeo omnium in ecclesia dogmatum norma et regul 
+      <lb ed="#B" n="37"/>constituitu 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e422">
+               <lb ed="#B" n="38"/>438. Vestigiis Davidis et Esaiae insistit Pauli 
+      <lb ed="#B" n="39"/>in N. T. quando accuratam suam de justificationi 
+      <lb ed="#B" n="40"/>articulo dissertationem adeoque totam epistolam 
+      a<lb ed="#B" n="41" break="no"/>Galatas hoc reluti epiphonemate et sigillo concludi 
+      <lb ed="#B" n="42"/>c. 6. v. 16: Quicunque τῷ κανόνι τούτῳ στοιχήσους 
+      <lb ed="#B" n="43"/>hanc regulam seculi fuerint, pax super illos et mi 
+      <lb ed="#B" n="44"/>cericordia et super Ioraël Dei, ubi manifestum es 
+      <lb ed="#B" n="45"/>loqui apostolum de doctrina sua in hac ipsa epistolia 
+      <lb ed="#B" n="46"/>ad Galatas scripta perspicue proposita. Jam vero 
+      <lb ed="#B" n="47"/>quae est natura partis in homogeneis, eadem etian 
+      <lb ed="#B" n="48"/>est natura totius. Si appellatio canonis conveni 
+      <lb ed="#B" n="49"/>huic epistolae Paulinae, utique etiam reliquis V. e 
+      <lb ed="#B" n="50"/>N. T. libris conveniet. Et quia apostolus utiti 
+      <lb ed="#B" n="51"/>verbo στοιχεῖν, videtur nos ad aliam metaphora 
+      <lb ed="#B" n="52"/>hujus rationem deducere; quemadmodum enim acie 
+      <lb ed="#B" n="53"/>castrorum certo ordine instruitur progressura 
+      contr<lb ed="#B" n="54" break="no"/>hostiles incursiones, ita quando ecelesia vestigii 
+      <lb ed="#B" n="55"/>verae fidei vult incedere Rom. 4, v. 12, ut munit 
+      <lb ed="#B" n="56"/>sit contra pericula corruptelarum, opus habet cert 
+      <lb ed="#B" n="57"/>canone seu regula secundum quam incedat, ac intra 
+      <lb ed="#B" n="58"/>cujus limites et terminos sese contineat, ne in erro 
+      <lb ed="#B" n="59"/>rem incidat. Ille vero canon seu regula est do 
+      <lb ed="#B" n="60"/>etrina divinitus patefacta per prophetas et apo 
+      <!--267.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tolos, ac in scriptis eorum comprehensa, qui juxta 
+      <lb ed="#B" n="62"/>hanc normam incedunt, qui in fide et vita hanc re 
+      <lb ed="#B" n="63"/>gulam sequuntur, super illos est pax et misericordio 
+      <lb ed="#B" n="64"/>id est, illi habent Deum propitium; conscientiam 
+      <lb ed="#B" n="65"/>tranquillam et cor securum, et sunt Israël Dei, xml:id 
+      <lb ed="#B" n="66"/>est, spirituales Israëlitae, populus Dei, vera ecclesia 
+      <lb ed="#B" n="67"/>ete. Phil. 3, v. 16: Veruntamen ad quod perven 
+      <lb ed="#B" n="68"/>mus, ut in eadem regula permaneamus τῷ! αὐτο 
+      <lb ed="#B" n="69"/>στοιχεῖν κανόνι, ut xml:idem sapiamus. v. 17: Coimi 
+      <lb ed="#B" n="70"/>tatores mei estote et observate eos, qui ita ambu 
+      <lb ed="#B" n="71"/>lant; sicut habetis formam, vύπον, nos ipsos, ubi 
+      <lb ed="#B" n="72"/>apostolus itidem de doctrina, quam Philippensibus 
+      <lb ed="#B" n="73"/>tradiderat, loquitur, et juxta eam velut fidei e 
+      <lb ed="#B" n="74"/>vitae regulam omnia in ecelesia constituenda ess 
+      <lb ed="#B" n="75"/>praecipit. Quidam etiam huc referunt 2. Corinth. 
+      <lb ed="#B" n="76"/>10, v. 13. 15. et 16. sed ibi apostolus non tam 
+      <lb ed="#B" n="77"/>de canone doctrinae, quam de mensura donorum 
+      <lb ed="#B" n="78"/>loquitur. 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e518">
+               <lb ed="#B" n="79"/>439. Ex hisce Davidis, Esaiae et Pauli dicti 
+      <lb ed="#B" n="80"/>apparet, canonis appellationem non humano arbitrio 
+      <lb ed="#B" n="81"/>sed ab ipso Deo Scripturae attributam et proind 
+      <lb ed="#B" n="82"/>ab ipso Deo Scripturam tanquam unicam fidei e 
+      <lb ed="#B" n="83"/>vitae regulam nobis esse propositam et commenda 
+      <lb ed="#B" n="84"/>tam. Huc pertinent omnia illa dicta Scripturae, in 
+      <lb ed="#B" n="85"/>quibus verbum Dei dicitur Q; rectum et verbus 
+      <lb ed="#B" n="86"/>rectitudinis, xml:ideo enim est et dicitur rectum non 
+      <lb ed="#B" n="87"/>solum, quia in se est rectum, infallibile, immotur 
+      <lb ed="#B" n="88"/>ac firmum, sed etiam quia est norma omnis recti 
+      <lb ed="#B" n="89"/>tudinis in ecclesia. Ps. 19, v. 9: Praecepta Do 
+      <lb ed="#B" n="90"/>mini &amp;W recta, lactificantia cor. Psal. 43, v. 7. 
+      <lb ed="#B" n="91"/>γλύη εQί virga rectitudinis, eceptrum rectum es 
+      <lb ed="#B" n="92"/>sceptrum regni tui. Eccles. 12, v. 12: Quaegivi 
+      <lb ed="#B" n="93"/>Koheleth invenire verba VEII voluntatis, placita, de 
+      <lb ed="#B" n="94"/>lectabilia et Scripturam rectam  23112 Scriptu 
+      <lb ed="#B" n="95"/>ram rectitudinis, ut vertit Bened. Arias Montanus 
+      <lb ed="#B" n="96"/>Quid quaeso aliud est Scriptura sacra quam sermo 
+      <lb ed="#B" n="97"/>Dei et Christi per prophetas, evangelistas et apo 
+      <lb ed="#B" n="98"/>stolos literis consignatus, quia spiritus Christi loet 
+      <lb ed="#B" n="99"/>tus est per prophetas 1. Petr. 1, v. 11. Apostoli a 
+      <lb ed="#B" n="100"/>Christo acceperunt Spiritum sanctum, cujus 
+      inspi<lb ed="#B" n="101" break="no"/>ratu et impulsu docuerunt et scripserunt. Quod a 
+      <lb ed="#B" n="102"/>ergo sermo Christi est sceptrum rectum, serm 
+      <lb ed="#B" n="103"/>rectus, virga rectitudinis, utique etiam Scriptura 
+      <lb ed="#B" n="104"/>sacra erit recta et omnis rectitudinis in ecclesis 
+      <lb ed="#B" n="105"/>norma ac regula τῷ εὐθεῖ ait Philos. 1.1 de anim, 
+      <lb ed="#B" n="106"/>c. ult. καὶ αὐτὸ καὶ τὸ κάμπυλον γινόσκομεν, κρινὴ, 
+      <lb ed="#B" n="107"/>γὰρʼ ἀμφοῖν ὁ κανῶν. Idem lib. 3. Ethic. c. 4. ca 
+      <lb ed="#B" n="108"/>nonis appellatione utitur pro regulis et praeceptis 
+      <lb ed="#B" n="109"/>lib. 2. c. 3. κανονίζειν ipsi est ad regulam aliqued 
+      <lb ed="#B" n="110"/>componere. Quando igitur canonis appellatio 
+      Scri<lb ed="#B" n="111" break="no"/>pturae tribuitur, regula spiritualis aedificii eo ipsc 
+      <lb ed="#B" n="112"/>constituitur. Apud Pontificios creberrimus est hujus 
+      <lb ed="#B" n="113"/>vocabuli usus. Nam decreta pontificum et concilio 
+      <lb ed="#B" n="114"/>rum vocant canones, habent etiam canonem missae, 
+      <lb ed="#B" n="115"/>canonem sanctorum defunctorum, habent canonico 
+      <lb ed="#B" n="116"/>regulares, horas canonicas, canones apostolorum eto 
+      <lb ed="#B" n="117"/>in omnibus hisce exemplis vox canonis regulae e 
+      <lb ed="#B" n="118"/>normae significationem obtinet, agnoscant ergo 
+      <lb ed="#B" n="119"/>eodem sensu Scripturae sacrae eandem tribui.
+  </p>
+            <p xml:id="zef3dd-d1e417-d1e609">
+      <!--268.xml-->
+               <pb ed="#B" n="195"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>440. 2. A divina jussione. Ad quod tanquam 
+      uni<lb ed="#B" n="2" break="no"/>cam regulam et normam omnem omnino cultum 
+      <lb ed="#B" n="3"/>omnemque fidei et vitae rationem exigi propheta 
+      <lb ed="#B" n="4"/>et apostoli volunt, illud est unica fidei et vitae re 
+      <lb ed="#B" n="5"/>gula. Jam vero ad verbum Dei primum quidom 
+      <lb ed="#B" n="6"/>viva voce praedicatum, postea per Dei voluntater 
+      <lb ed="#B" n="7"/>in Scripturas redactum tanquam ad unicam normar 
+      <lb ed="#B" n="8"/>et regulam omnem omnino cultum, omnemque fide 
+      <lb ed="#B" n="9"/>et vitae rationem exigi volunt prophetae et aposto 
+      <lb ed="#B" n="10"/>Ergo, assumtum probatur sequentibus Scriptura 
+      <lb ed="#B" n="11"/>testimoniis. 1. Moyses, cum Dei nomine ad Israël 
+      <lb ed="#B" n="12"/>tas locutus esset ac Dei jussu omnia verba legis 
+      <lb ed="#B" n="13"/>conscripsisset, dicit ad eos Deut. 4. v. 2: Non ad 
+      <lb ed="#B" n="14"/>detis ad verbum, quod vobis loquor, nec 
+      auferet<lb ed="#B" n="15" break="no"/>ex eo, ut custodiatis mandata Domini Dei vestr 
+      <lb ed="#B" n="16"/>quae ego praccipio vobis. c. 5, v. 32: Custodite et 
+      <lb ed="#B" n="17"/>facite, sive observanter facitote, quemadmodum 
+      <lb ed="#B" n="18"/>hovak Deus vester praecepit vobis, non declinabit 
+      <lb ed="#B" n="19"/>neque ad dextram neque ad sinistram. v. 33: Sed 
+      <lb ed="#B" n="20"/>per viam, quam praecepit Dominus Deus vester 
+      <lb ed="#B" n="21"/>ambulabitis, ut vivatis et bene sit vobis. Compara 
+      <lb ed="#B" n="22"/>tur in his verbis verbum Domini viae ad lineas 
+      <lb ed="#B" n="23"/>directae, qua incedendum illis, qui heredes 
+      regn<lb ed="#B" n="24" break="no"/>coelestis sunt futuri, hanc viam apostolus eidem 
+      <lb ed="#B" n="25"/>metaphorae insistens vocat κανόνα Gal. 6, v. 16. 
+      <lb ed="#B" n="26"/>Cum enim exposuisset brevem N. T. et doctrinae 
+      <lb ed="#B" n="27"/>evangelicae epitomen, perinde et Moyses legis s 
+      <lb ed="#B" n="28"/>V. T. summam proposuerat, subjungit: Quotque 
+      <lb ed="#B" n="29"/>secundum hunc canonem incedunt, pax super 
+      eo<lb ed="#B" n="30" break="no"/>et misericordia et super Israël Dei, ex quibus 
+      po<lb ed="#B" n="31" break="no"/>sterioribus verbis apparet, ipsum intendere digitur 
+      <lb ed="#B" n="32"/>ad hunc locum Mosaicum, Deut. 12, v. 28: 
+      Observ<lb ed="#B" n="33" break="no"/>et audi omnia, quae ego praecipio tibi. v. 30: Cave 
+      <lb ed="#B" n="34"/>ne imiteris gentes dicens: Sicut coluerunt gentè 
+      <lb ed="#B" n="35"/>illae Deos suos, ita et ego colam. v. 32: Quando 
+      <lb ed="#B" n="36"/>cunque praccipio tibi, hoc tantum facito, nec addo 
+      <lb ed="#B" n="37"/>quicquam, nec minuas ex eo. c. 27, v. 26: Male 
+      <lb ed="#B" n="38"/>dictus, qui non permanscrit in verbis legie huju 
+      <lb ed="#B" n="39"/>quem locum adducit apostolus Gal. 3, v. 10 
+      hi<lb ed="#B" n="40" break="no"/>verbis: Maledictus, qui von permanserit in his 
+      <lb ed="#B" n="41"/>quae scripta sunt in lege, ostendens legem Dei non 
+      <lb ed="#B" n="42"/>esse extra Scripturam legis quaerendam. Deut. 31. 
+      <lb ed="#B" n="43"/>v. O scripeit Moyses legem et dedit eam sacerdot 
+      <lb ed="#B" n="44"/>bus, filiis Levi. v. 11. praecipiens, ut in solennibus 
+      <lb ed="#B" n="45"/>Ieraëlitarum conventibus legatur. v. 12: ut custo 
+      <lb ed="#B" n="46"/>diant eam, ut juxta eam cultum divinum, vitam e 
+      <lb ed="#B" n="47"/>mores conformarent. 2. Josua senex morti jam vici 
+      <lb ed="#B" n="48"/>nus itidem commendat Israëlitis legem scriptam 
+      <lb ed="#B" n="49"/>tanquam unicam fidei et vitae regulam. c. 23, v. 6 
+      <lb ed="#B" n="50"/>Confortamini valde, ut custodiatis et faciatis omn 
+      <lb ed="#B" n="51"/>quod scriptum in libro legis Moyse et non rec 
+      <lb ed="#B" n="52"/>datis ab ea ad dextram vel ad einistram. 3. Esaia. 
+      <lb ed="#B" n="53"/>ad verbi normam unice nos remittit cap. 8, v. 19. 
+      <lb ed="#B" n="54"/>Cum dicerint ad vos: Quaerite a phytonibus et 
+      <lb ed="#B" n="55"/>scientibus, qui garriunt et sucurrant. Nonne 
+      popu<lb ed="#B" n="56" break="no"/>lus hic Deum suum requiret, pro vivis ad mortuos 
+      <lb ed="#B" n="57"/>v. 20. τ727227 :72 ad legem et ad testimo 
+      <lb ed="#B" n="58"/>nium. Si non dicerint juxta verbum hoc, non 
+      er<lb ed="#B" n="59" break="no"/>eis matutina lux, ubi ab auguribus et incantator 
+      <lb ed="#B" n="60"/>bus populus ad legem revocatur, quae est testimo 
+      <!--268.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>nium seu testificatio divinae voluntatis. 4* Ps. 19. 
+      <lb ed="#B" n="62"/>v. 8. Ps. 78. v. 5. Es. 8, v. 16 lex et testimonium 
+      <lb ed="#B" n="63"/>ἐξηγητεκῶς conjunguntur. Confer. Aug. in Ps. 78. *. 
+      <lb ed="#B" n="64"/>Quidam existimant, ad duo principalia doctrinae 
+      <lb ed="#B" n="65"/>coelestis capita, legem sc. et evangelium, quod es 
+      <lb ed="#B" n="66"/>testimonium de Christo Mediatore, in hoc dicto 
+      au<lb ed="#B" n="67" break="no"/>ditores revocari. Sed res eodem redit, sive testimo 
+      <lb ed="#B" n="68"/>nium generaliter de verbo Dei, sive specialiter de 
+      <lb ed="#B" n="69"/>evangelio accipiatur. Hieron. in comm. h. I. Si vul 
+      <lb ed="#B" n="70"/>tis nosse, quae dubia sunt, magis voa legi et 
+      testi<lb ed="#B" n="71" break="no"/>moniis tradite Scripturarum. Quod si noluerit vestro 
+      <lb ed="#B" n="72"/>congregatio verbum Domini quaerere, non habebit 
+      <lb ed="#B" n="73"/>lucem veritatia, sed versabitur in tenebris errorum 
+      <lb ed="#B" n="74"/>** Tres affert expositiones, quae omnes 
+      proban<lb ed="#B" n="75" break="no"/>nostram sententiam.** Tanta autem est hujus diet 
+      <lb ed="#B" n="76"/>evidentia, ut quorundam etiam Pontificiorum oculo 
+      <lb ed="#B" n="77"/>feriat. Dietenb. in bibliis German. super h. I. sic 
+      <lb ed="#B" n="78"/>commentatur. Ists billiger die Todten fragen denn 
+      <lb ed="#B" n="79"/>die Lebendigen? Ihr aber sollet euch mehr zu den 
+      <lb ed="#B" n="80"/>Gesetz und zu dem Gezeugnüs der H. Schrifft halten 
+      <lb ed="#B" n="81"/>und von denen Rath suchen, bey welchen ihr auch 
+      <lb ed="#B" n="82"/>Raths genug finden werdet, Luc. 16. Daraus z 
+      <lb ed="#B" n="83"/>nehmen ist, daß man in und aus der H. Schriff 
+      <lb ed="#B" n="84"/>gnugsam Bericht findet, zu alle dem, das der Seelen 
+      <lb ed="#B" n="85"/>Heil betrifft. Sanctius in comm. Cum eo venerint 
+      <lb ed="#B" n="86"/>insaniae, ut de pythonibus consulendis cogitaverint 
+      <lb ed="#B" n="87"/>jubet ut mittantur ad legem et ad testimoniam. Qui 
+      <lb ed="#B" n="88"/>non fecerint, juxta verbum hoc praesoriptum, non 
+      <lb ed="#B" n="89"/>erit illis lux clara et matutina, per quam felicita 
+      <lb ed="#B" n="90"/>intelligitur, sed vivent potius in tenebris, vel quio 
+      <lb ed="#B" n="91"/>caecis semper errabunt vestigiis abducti post erro 
+      <lb ed="#B" n="92"/>rem, vel quia nihil illis continget non adversum 
+      <lb ed="#B" n="93"/>Ad hunc locum propheticum digitum intendere vi 
+      <lb ed="#B" n="94"/>detur Petrus, quando 2. Ep. 1. v. 19 scribit: 
+      Habe<lb ed="#B" n="95" break="no"/>mus firmiorem propheticum sermonem, cui benefo 
+      <lb ed="#B" n="96"/>citis attendentes tanquam lucernae lucenti in 
+      loc<lb ed="#B" n="97" break="no"/>caliginoso, donec illucescat dies et lucifer oriatu 
+      <lb ed="#B" n="98"/>in cordibus vestris; ubi illis, qui ad sermonem 
+      pro<lb ed="#B" n="99" break="no"/>phet. in Scripturis sacris propositum diligenter 
+      <lb ed="#B" n="100"/>attendunt, lucem salutaris θεογνωσίας ad vitam 
+      <lb ed="#B" n="101"/>aeternam ex illis obtingere docet. 4. Christus Luo 
+      <lb ed="#B" n="102"/>16, v. 29 ad Moysen et prophetas xml:id est, ad scripti 
+      <lb ed="#B" n="103"/>Mosaica et prophetica divitis epulonis fratres ab 
+      <lb ed="#B" n="104"/>Abrahamo remissos docet, ut ex illis normam e 
+      <lb ed="#B" n="105"/>formam divini cultus, vitae recte formandae et 
+      salu<lb ed="#B" n="106" break="no"/>tis consequendae viam discerent. Joh. 5, v. 39. Scri 
+      <lb ed="#B" n="107"/>pturas nos, scrutari jubet, in quibus sonet testi 
+      <lb ed="#B" n="108"/>monium de promisso Messia et modus consequendi 
+      <lb ed="#B" n="109"/>vitam aeternam proponatur.
+  </p>
+            <p xml:id="zef3dd-d1e417-d1e859">
+               <lb ed="#B" n="110"/>441. 3. Ex cultus divini reformalione. Juxta 
+      <lb ed="#B" n="111"/>quod tanquam normam et regulam reformatio divini 
+      <lb ed="#B" n="112"/>cultus fuit instituta, illud est unica norma fidei ac 
+      <lb ed="#B" n="113"/>dogmatum in ecclesia. Sed in V. T. juxta verbur 
+      <lb ed="#B" n="114"/>Dei scriptum tanquam normam et regulam refor 
+      <lb ed="#B" n="115"/>matio divini cultus fuit instituta. Ergo: major est 
+      <lb ed="#B" n="116"/>manifestae veritatis, quia ex conformatione alicujus 
+      <lb ed="#B" n="117"/>tanquam mensurati et regulati ad alterum tanquam 
+      <lb ed="#B" n="118"/>ad mensuram et regulam colligitur, posterius illud 
+      <lb ed="#B" n="119"/>esse normam ac regulam in illo genere. Assumtum mul¬ 
+      <!--269.xml-->
+      <pb ed="#B" n="196"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tis exemplis confirmari potest. Antequam nempe 
+      Scr<lb ed="#B" n="2" break="no"/>pturae exararentur, corruptelae doctrinae coeles 
+      <lb ed="#B" n="3"/>illatae per repetitas divinas revelationes fuerum 
+      <lb ed="#B" n="4"/>remotae, sed post legem scriptam reformationes di 
+      <lb ed="#B" n="5"/>vini cultus semper institutae sunt juxta normar 
+      <lb ed="#B" n="6"/>scriptae legis, utpote 1. Ezechiae 2. Reg. 18, v. 3. 
+      <lb ed="#B" n="7"/>Fecit Ezechias, quod bonum coram Domino. v. 4. 
+      <lb ed="#B" n="8"/>Dissipavit excelsa, contrivit statuas, succidit lucos 
+      <lb ed="#B" n="9"/>v. 6: Adhaesit Domino et non recessit ab eo, feci 
+      <lb ed="#B" n="10"/>que mandata ejus, quae praeceperat Domini 
+      <lb ed="#B" n="11"/>Moysi. 2. Josiae 2. Reg. 22, v. 2: Josias fecit 
+      <lb ed="#B" n="12"/>quod placitum erat coram Domino et ambulam 
+      <lb ed="#B" n="13"/>per omnes vias David patris sui, non declinavis 
+      <lb ed="#B" n="14"/>ad sinistram neque ad dextram. v. 8 reperitur libe 
+      <lb ed="#B" n="15"/>legis in domo Domini. v. 13 Josias audiens librum 
+      <lb ed="#B" n="16"/>illum praelegi dicit: Consulite Dominum super mi 
+      <lb ed="#B" n="17"/>et super populo et super omni Juda de verbis vo 
+      <lb ed="#B" n="18"/>luminis istius, quod inventum est, magna enim 
+      ir<lb ed="#B" n="19" break="no"/>Domini succensa est contra nos, quia non audie 
+      <lb ed="#B" n="20"/>runt patres nostri verba legis hujus, ut facerem 
+      <lb ed="#B" n="21"/>omne, quod scriptum est nobis. e. 23, v. 3. Rex cui 
+      <lb ed="#B" n="22"/>proceribus percutit foedus coram Domino, ut ambi 
+      <lb ed="#B" n="23"/>larent post Dominum et custodirent ejus praecepto 
+      <lb ed="#B" n="24"/>et testimonia. v. 4. instituitur publica cultus divin 
+      <lb ed="#B" n="25"/>reformatio juxta illum librum repudiata Baalitiea 
+      <lb ed="#B" n="26"/>idololatria. 3. Esdrae et Nehemiae Neh. 8, v. 1. e. 
+      <lb ed="#B" n="27"/>seqq. post reditum ex Babylonica captivitate leg. 
+      <lb ed="#B" n="28"/>tur liber Moysis coram universo populo et cul 
+      <lb ed="#B" n="29"/>tus divinus juxta ejus normam a corruptelis re 
+      <lb ed="#B" n="30"/>purgatur.
+  </p>
+            <p xml:id="zef3dd-d1e417-d1e955">
+               <lb ed="#B" n="31"/>442. 4. A Christi et apostolorum ad Scripturo 
+      <lb ed="#B" n="32"/>provocatione. Ad quodeunque tanquam regulam e 
+      <lb ed="#B" n="33"/>normam unice in controversiis fidei Christus et apo 
+      <lb ed="#B" n="34"/>stoli provocant, illud est unica dogmatum et 
+      con<lb ed="#B" n="35" break="no"/>troversiarum regula in ecclesia. Sed Christus e 
+      <lb ed="#B" n="36"/>apostoli ad scriptum Dei verbum in controversis 
+      <lb ed="#B" n="37"/>fidei unice provocant. Ergo: major sua luce radiat 
+      <lb ed="#B" n="38"/>Minorem in dubium vocant Pontificii. Stultum es 
+      <lb ed="#B" n="39"/>quacrere, inquit Caspar Scioppius in Ecclesias 
+      <lb ed="#B" n="40"/>c. 90. ubi scriptum est, quia sic quaerunt Phart 
+      <lb ed="#B" n="41"/>saei. Joh. 7, v. 32. Christus vero non ad scripti 
+      <lb ed="#B" n="42"/>ras, sed ad opera sua revocavit Joh. 10, v. 25. 
+      <lb ed="#B" n="43"/>Sed resp. Christus non tantum ad opera revocavit 
+      <lb ed="#B" n="44"/>sed etiam ad Scripturas: 1. Matth. 4. v. 4. Luc. 4. 
+      <lb ed="#B" n="45"/>v. 4 in triplici congressu cum Satana semper pro 
+      <lb ed="#B" n="46"/>vocat ad Scripturam et ex ea hostem suum vincit 
+      <lb ed="#B" n="47"/>docens atque instruens nos, quod Scripturae gladi 
+      <lb ed="#B" n="48"/>contra haereticos diaboli organa pugnare debeamus 
+      <lb ed="#B" n="49"/>Scriptura enim utilis est ad ἔλεγχον, ut perfectus s 
+      <lb ed="#B" n="50"/>homo Dei 2. Tim. 3, v. 16. et 17. utique ergo sus 
+      <lb ed="#B" n="51"/>ficit ad refellendas haereses et est perfecta contro 
+      <lb ed="#B" n="52"/>versiarum decidendarum norma. 2. Matth. 19, v. 
+      <lb ed="#B" n="53"/>in quaestione de divortio provocat ad scriptum ver 
+      <lb ed="#B" n="54"/>bum: Non legistis ete. 3. Matth. 22, v. 29 articu 
+      <lb ed="#B" n="55"/>lum resurrectionis contra Sadducaeos demonstrat e 
+      <lb ed="#B" n="56"/>Scripturis: Erratis, inquit, nescientes Scripturas 
+      <lb ed="#B" n="57"/>v. 31: De resurrectione mortuorum non legisti 
+      <lb ed="#B" n="58"/>quod dictum est vobis a Deo dicente: Ego eum 
+      <lb ed="#B" n="59"/>Deus Abraham ete. 4. Capit. ejusd. v. 43 filiur. 
+      <lb ed="#B" n="60"/>hominis esse in personae unitate verum Deum ad 
+      <!--269.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Dominum Davidis probat ex Ps. 110, v. I. 5. Mart 
+      <lb ed="#B" n="62"/>I, v. 12 in controversia de adventu Eliae respondet: 
+      <lb ed="#B" n="63"/>Quomodo scriptum est de filio hominis, quod multo 
+      <lb ed="#B" n="64"/>sit passurus? 6. Luc. 10, v. 26 ad quaestionem de 
+      <lb ed="#B" n="65"/>via consequendae salutis respondet: Quomodo scri 
+      <lb ed="#B" n="66"/>ptam est in lege, quomodo legis? 7. Luc. 24, v. 25 
+      <lb ed="#B" n="67"/>demonstraturus, Messiam debere pati ac mori contra 
+      <lb ed="#B" n="68"/>praeconceptam discipulorum opinionem de regno 
+      <lb ed="#B" n="69"/>ajus terreno, provocat ad testimonia Scripturarum 
+      <lb ed="#B" n="70"/>8. J0h. 5, v. 46. contra Judaeos provocat ad testi 
+      <lb ed="#B" n="71"/>monium Moysis: Si crederetis Moysi, crederetis 
+      <lb ed="#B" n="72"/>etiam mihi, de me enim ille scripsit. Exemplo e 
+      <lb ed="#B" n="73"/>vestigiis Christi fideliter insistunt apostoli: 1. Aet 
+      <lb ed="#B" n="74"/>3, v. 20. provocat Petrus ad oraculum Mosaicum 
+      <lb ed="#B" n="75"/>2. Act. 7, v. 2 et seqq. Stephanus epitomen quan 
+      <lb ed="#B" n="76"/>dam V. T. texit contra Judaeos sibi adversantes 
+      <lb ed="#B" n="77"/>3. Act. 13, v. 33 et seqq. Paulus resurrectionem 
+      <lb ed="#B" n="78"/>Christi contra Judaeos demonstrat ex Scripturis 
+      <lb ed="#B" n="79"/>4. Actor. 18, v. 28 Apollos εὐτόνως, acriter, refellit 
+      <lb ed="#B" n="80"/>Judaeos et probat per Scripturas Jesum esse 
+      Chr<lb ed="#B" n="81" break="no"/>stum. 5. Actor. 26, v. 22 Paulus profitetur, se nihil 
+      <lb ed="#B" n="82"/>dicere extra ea quae prophetae locuti sunt faturo 
+      <lb ed="#B" n="83"/>esse et Moyses. 6. Actor. 28, v. 23 xml:idem 
+      apostolu<lb ed="#B" n="84" break="no"/>ex lege Moysis et prophetis de Jesu auditores suos 
+      <lb ed="#B" n="85"/>instruit. 7. In epistolis suis semper provocant ad 
+      <lb ed="#B" n="86"/>Scripturas propheticas Rom. 4, v. 3. 1. Cor. 15. 
+      <lb ed="#B" n="87"/>v. 3. Gal. 3, v. 6. Hebr. 8. v. 5 ete. unde 
+      laudan<lb ed="#B" n="88" break="no"/>tur Beroënses, quod scrutarentur Scripturas, an hae 
+      <lb ed="#B" n="89"/>ita se haberent, quae a Paulo et Sila docebantur 
+      <lb ed="#B" n="90"/>Ad exemplum Beroënsium respondet Bellarminus 
+      <lb ed="#B" n="91"/>lib. 3. de verbo Dei c. 10, ipsis non constitisse, quod 
+      <lb ed="#B" n="92"/>Paulus esset apostolus et non possit falsam 
+      doctri<lb ed="#B" n="93" break="no"/>nam praedicare, xml:ideoque cum Paulus probaret illi 
+      <lb ed="#B" n="94"/>Christum ec oraculis prophetarum, merito illo 
+      <lb ed="#B" n="95"/>scrutalos fuisse Scripturam, an haec ita se habe 
+      <lb ed="#B" n="96"/>rent, sed Christiani, quibus constat, ecclesiam non 
+      <lb ed="#B" n="97"/>posse errare in doctrina fidei, tenentur eam reca 
+      <lb ed="#B" n="98"/>pere. Resp. Ut Beroënses ex inspectione 
+      oraculo<lb ed="#B" n="99" break="no"/>rum propheticorum discere poterant et debebant 
+      <lb ed="#B" n="100"/>Paulum esse verum apostolum ac veram fidei 
+      do<lb ed="#B" n="101" break="no"/>etrinam proponere, quia sc. praedicabat σύμφωνε 
+      <lb ed="#B" n="102"/>ταῖς γραφαῖς προφητικαῖς, sic et nos veram eccele 
+      <lb ed="#B" n="103"/>iam et veram ecclesiae vocem ex propheticis e 
+      <lb ed="#B" n="104"/>apostolicis unice cognoscere et possumus et 
+      debe<lb ed="#B" n="105" break="no"/>mus. Si licuit Beroënsibus doctrinam apostoli exa 
+      <lb ed="#B" n="106"/>minare juxta normam oraculorum propheticorum 
+      <lb ed="#B" n="107"/>idque Paulo non invito Act. 26, v. 22, utique etiam 
+      <lb ed="#B" n="108"/>nobis licebit doctrinam pontificis examinare juxta 
+      <lb ed="#B" n="109"/>normam scriptorum propheticorum et apostolicorum. 
+      <lb ed="#B" n="110"/>unde vi veritatis coactus tandem fatetur Bellarminus 
+      <lb ed="#B" n="111"/>cum, qui de auctoritate ecclesiae Pontificiae dubitat 
+      <lb ed="#B" n="112"/>non male facere scrutando et examinando, an loco 
+      <lb ed="#B" n="113"/>Scripturae et patrum a concilio Tridentino prolata 
+      <lb ed="#B" n="114"/>ita se habeant, modo xml:id faciat intentione inveniend 
+      <lb ed="#B" n="115"/>veritatem, non calumniandi. Atqui si licet de Tri 
+      <lb ed="#B" n="116"/>dentinis decretis, quae patres illius concilii pro de 
+      <lb ed="#B" n="117"/>cretis ecclesiae venditant, judicare ex Scripturis e 
+      <lb ed="#B" n="118"/>ea examinare juxta Scripturam, utique Scriptura 
+      <lb ed="#B" n="119"/>erit unica norma dogmatum et controversiarum in 
+      <lb ed="#B" n="120"/>ecclesia
+  </p>
+            <p xml:id="zef3dd-d1e417-d1e1157">
+      <!--270.xml-->
+               <pb ed="#B" n="197"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>443. 5. Ex Scripturae encomio et commendo 
+      <lb ed="#B" n="2"/>"-tiona. 1. Apostolus 2. Tim. 3, v. 16 pronuntia 
+      <lb ed="#B" n="3"/>Scripturam eo modo esse utilem ad διδασκαλία 
+      <lb ed="#B" n="4"/>ἔλεγχον, ἐπανόρθωσιν ac παιδείαν, ut perfectus ei 
+      <lb ed="#B" n="5"/>homo Dei ad omne opus bonum instructus, atque 
+      <lb ed="#B" n="6"/>ut hominem sapientem reddere possit ad salutem 
+      <lb ed="#B" n="7"/>Utique ergo est sufficiens norma doctrinae, juxta 
+      <lb ed="#B" n="8"/>queam in ecclesia docendum, juxta quam omnes 
+      <lb ed="#B" n="9"/>haereses refellendae, juxta quam vita et mores 
+      co<lb ed="#B" n="10" break="no"/>riggendi. 2. Quod erit norma extremi judicii, illu 
+      <lb ed="#B" n="11"/>etiam in hac vita potest esse fidei ac vitae norma 
+      <lb ed="#B" n="12"/>Jam vero Scriptura erit norma extremi judicii, juxt 
+      <lb ed="#B" n="13"/>quam in die illa xρirixij pronuntiabitur sententi 
+      <lb ed="#B" n="14"/>absolutoria erga electos et damnatoria contra repri 
+      <lb ed="#B" n="15"/>bos Dan. 7, v. 10. Joh. 12, v. 48. Rom. 2. v. 16 
+      <lb ed="#B" n="16"/>Apoc. 20, v. 2. Utique ergo etiam in hac vita 
+      pote<lb ed="#B" n="17" break="no"/>esse fidei ac vitae sufficiens norma 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e1204">
+               <lb ed="#B" n="18"/>444. 6. Ex normae proprietate et condition 
+      <lb ed="#B" n="19"/>Norma fidei et dogmatum in ecclesia debet esse 
+      <lb ed="#B" n="20"/>s. publica auctoritate recepta; 2. omnibus 
+      commu<lb ed="#B" n="21" break="no"/>nis; 3. certa, immota et infallibilis, nec instar 
+      re<lb ed="#B" n="22" break="no"/>gulae Lesbiae, sed invariabilis suique semper simili 
+      <lb ed="#B" n="23"/>omni ex parte sibi perpetuo constans; 4. prima 
+      <lb ed="#B" n="24"/>5. normato seu mensurato suo undiquaque adae 
+      <lb ed="#B" n="25"/>quata. * Proprietates enim normae sunt: 1. public 
+      <lb ed="#B" n="26"/>auctoritas, oportet eam suprema et divina auctori 
+      <lb ed="#B" n="27"/>tate esse ordinatam; 2. unitas, immutabilitas et in 
+      <lb ed="#B" n="28"/>fallibilitas; 3. principii auctoritas ejusque 
+      gener<lb ed="#B" n="29" break="no"/>litas; normam religionis oportet esse principiur 
+      <lb ed="#B" n="30"/>generale, ad quod omnia in isto genere reducantur 
+      <lb ed="#B" n="31"/>4 ejusdem cum normato ἰσότης sive aequalitas 
+      <lb ed="#B" n="32"/>5. inter normam et normatum sit ὁμογένεια se 
+      <lb ed="#B" n="33"/>identitas.*“ At soli Scripturae hae proprietates 
+      com<lb ed="#B" n="34" break="no"/>petunt. Illa enim 1. est θεόπνευστος et publice i 
+      <lb ed="#B" n="35"/>ecclesia proposita 2. Tim. 3. v. 15; 2. est omnibu 
+      <lb ed="#B" n="36"/>communis, quia omnibus ad eam semper patet a 
+      <lb ed="#B" n="37"/>cessus; 3. est certa et veritatis minime dubiae, qui 
+      <lb ed="#B" n="38"/>a Deo ipso profecta. I. Timoth. 1, v. 15. est 
+      inva<lb ed="#B" n="39" break="no"/>riabilis et ἀκλινής Matth. 5, v. 18. est immota 
+      e<lb ed="#B" n="40" break="no"/>insolubilis Joh. 10, v. 35. est sui semper similis 
+      <lb ed="#B" n="41"/>quia N. T. libri consonant V. T. libris nec ulla in 
+      <lb ed="#B" n="42"/>toto codice biblico specifice sic dicto, xml:id est, in 
+      <lb ed="#B" n="43"/>canonicis libris. est vera contrarietas; 4. est prima 
+      <lb ed="#B" n="44"/>quia in eam tanquam primam veritatem et summum 
+      <lb ed="#B" n="45"/>credendi principium omnia resolvuntur Matth. 17 
+      <lb ed="#B" n="46"/>v. 5. Joh. 5, v. 39. c. 14. v. 6. 5. est mensurato suo 
+      <lb ed="#B" n="47"/>adaequata, quia perfecte et perspicue docet 
+      omni<lb ed="#B" n="48" break="no"/>ad salutem necessaria 2. Timoth. 3, v. 16. Utique 
+      <lb ed="#B" n="49"/>ergo Scriptura agnoscenda est unica fidei regula in 
+      <lb ed="#B" n="50"/>ecclesia 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e1278">
+               <lb ed="#B" n="51"/>445. 7. Ex sufficienti enumeratione. Non es 
+      <lb ed="#B" n="52"/>alius canon certus et infallibilis nobis uspiam 
+      <lb ed="#B" n="53"/>praescriptus. 1. Neque enim hoc competit privat. 
+      <lb ed="#B" n="54"/>et incertis revelationibus. 2. Corinth. 11, v. 13: S. 
+      <lb ed="#B" n="55"/>tanae tranafigurat se in angelum lucis. Hebr. 
+      <lb ed="#B" n="56"/>1 <!-- line coord error --> 
+      <lb ed="#B" n="57"/>v. 1: Postquam Deus olim variis modis locutu 
+      <lb ed="#B" n="58"/>est, novissime locutus est per Filium; 2. nec cor 
+      <lb ed="#B" n="59"/>ruptae rationis judicio. 2. Corinth. 10, v. 5: Capti 
+      <lb ed="#B" n="60"/>vamus omnem intellectum sub obsequium Chrixti 
+      <lb ed="#B" n="61"/>3. nec dubiis traditionibus et verbo ἀγράφῳ. Job 
+      <!--270.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>21, v. 23: Exivit sermo inter fratres, hic discipulu 
+      <lb ed="#B" n="63"/>non moritur; 4. nec voci pastorum absolute, alis 
+      <lb ed="#B" n="64"/>enim non essent probandi spiritus, an sint ex DEt 
+      <lb ed="#B" n="65"/>I. Joh. 4. v. 1. Ergo unicum verbum scriptum est norma 
+      <lb ed="#B" n="66"/>veritatis in ecclesia 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e1322">
+               <lb ed="#B" n="67"/>446. Idem nobiscum docent patres. Justinus in 
+      <lb ed="#B" n="68"/>exposit. rect. fid. p. 294: Dininis responsis in 
+      me<lb ed="#B" n="69" break="no"/>dium proferendis etiam atque etiam mihi dispice, 
+      <lb ed="#B" n="70"/>in quo illa ordine ponendum doceant Filium 
+      e<lb ed="#B" n="71" break="no"/>Spiritum sanctum, siquidem apud ecclesiae alumno 
+      <lb ed="#B" n="72"/>non ad humanas rationes et cogitationes 
+      dirigenda<lb ed="#B" n="73" break="no"/>gunt res divinae, aed ad sensum et voluntatem do 
+      <lb ed="#B" n="74"/>ctrinae Spiritus oratio interpretatioque 
+      accommo<lb ed="#B" n="75" break="no"/>danda. Ac princeps non erudiat David, ete. 
+      no<lb ed="#B" n="76" break="no"/>absimiliter et divinus Paulus. Irenaeus lib. 2. 
+      ad<lb ed="#B" n="77" break="no"/>haeres. c. 2. p. 98: Cui magia credemus de mund 
+      <lb ed="#B" n="78"/>fabricatione? hisne, qui praedicti sunt haereticis 
+      <lb ed="#B" n="79"/>sic fatua et inconstantia garrientibus, an discipulo 
+      <lb ed="#B" n="80"/>Domini et fideli famulo Dei Moysi ac prophetae, 
+      <lb ed="#B" n="81"/>lib. ejusd. cap. 3: Quale enim est, prophetarum 
+      e<lb ed="#B" n="82" break="no"/>Domini et apostolorum relinquentes nos voces at 
+      <lb ed="#B" n="83"/>tendere his nihil sani dicentibus? lib. 3, e. 1. i. 
+      <lb ed="#B" n="84"/>prine. Quod apostoli primum praeconiaverunt, pos, 
+      <lb ed="#B" n="85"/>ea Dei voluntate in Scripturas redegerunt fundo 
+      <lb ed="#B" n="86"/>mentum et columnam fidei nostrae futurum. lib.3 
+      <lb ed="#B" n="87"/>c. 15. apostolorum doctrinam manifestam et firmam 
+      <lb ed="#B" n="88"/>esse dicit nihil subtrahentem. I. 4. e. 69. 
+      Scriptu<lb ed="#B" n="89" break="no"/>ram voeat κανόνα τῆς ἀληθείας ἀκλινῇ. Tert. I. 
+      con<lb ed="#B" n="90" break="no"/>tra Herm. Scripturam vocat regulam veritatis. Orig. 
+      <lb ed="#B" n="91"/>hom. 5. super Levit. docet, quidquid ad res divinas 
+      <lb ed="#B" n="92"/>nostramque religionem pertinet, in Scripturis 
+      sa<lb ed="#B" n="93" break="no"/>cris esse requirendum ex iisque discutiendum atque 
+      <lb ed="#B" n="94"/>inde omnem rerum scientiam capiendam. Homil.t 
+      <lb ed="#B" n="95"/>in Numer. Haereticorum voces si adhibeamus ad 
+      <lb ed="#B" n="96"/>altare Dei, ubi divinus ignis est, ubi vera fide 
+      <lb ed="#B" n="97"/>praedicatio, melius ipsa veritas ex falsorum 
+      com<lb ed="#B" n="98" break="no"/>paratione fulgebit. Homil. 1. in Jerem. Necess 
+      <lb ed="#B" n="99"/>nobis est. Scripturas sacras in testimonium vocare 
+      <lb ed="#B" n="100"/>sensus quippe nostri sine his testibus non haben 
+      <lb ed="#B" n="101"/>fidem. In capite decimo tertio Matth. Ut in 
+      or<lb ed="#B" n="102" break="no"/>duorum triumve aut plurimum testium e Scriptura 
+      <lb ed="#B" n="103"/>citatorum fundemus et confirmemus omne verbum 
+      <lb ed="#B" n="104"/>Dei. Cyprianus serm. de bapt. Inveniet ex hac 
+      <lb ed="#B" n="105"/>(Scriptura) omnium doctrinarum regulas emanass. 
+      <lb ed="#B" n="106"/>et hinc nasci et huc reverti, quicquid ecclesiastico 
+      <lb ed="#B" n="107"/>continet disciplina. Athanasius orat. 2. contra 
+      <lb ed="#B" n="108"/>Arian. Lapidandi sunt haeretici sacrarum 
+      Scriptu<lb ed="#B" n="109" break="no"/>rarum argumentis, quippe, ut xml:idem ait epist. a 
+      <lb ed="#B" n="110"/>Marcellin., illae sunt magistrae virtutis et verae 
+      <lb ed="#B" n="111"/>fidei, ac ut loquitur in Synopsi, ancorae et 
+      susten<lb ed="#B" n="112" break="no"/>tacula, utpote ab ipsis apostolis Christi conscriptae 
+      <lb ed="#B" n="113"/>ac expositae. Hilar. lib. 4. de Trinit. p. 47: Respon 
+      <lb ed="#B" n="114"/>dendum esse existimo haereticorum perversitati e 
+      <lb ed="#B" n="115"/>omnes eorum stultas ac mortiferas institutione 
+      <lb ed="#B" n="116"/>evangelicis atque apostolicis testimoniis 
+      coarquen<lb ed="#B" n="117" break="no"/>das. Basilius in moralibus regul. 26: Quicquid di 
+      <lb ed="#B" n="118"/>cimus vel facimus, xml:id testimonio divinarum litera 
+      <lb ed="#B" n="119"/>rum confirmari debet ad confirmationem fidei bono 
+      <lb ed="#B" n="120"/>rum et confusionem malorum. Lib. 1. contra 
+      <lb ed="#B" n="121"/>Eunom. Scripturam vocat canonem recti et normam 
+      <!--271.xml-->
+      <pb ed="#B" n="198"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>veritatis. Epist. 80. ad Eustath. medicum: ἡ θεό¬ 
+      <lb ed="#B" n="2"/>πνευστος ἡμῖν διαιτησάτω γραφὴ καὶ παρ᾽ οἷς ἂν 
+      <lb ed="#B" n="3"/>εὑρεθῇ τὰ δόγματα συνῳδὰ τοῖς θείοις λόγοις, ἐπὶ 
+      <lb ed="#B" n="4"/>τούιοις ἥξει πάνιως τῆς ἀληθείας ψῆφος. Faustinu 
+      <lb ed="#B" n="5"/>lib. de fid. contra Arian. Scripturae divinae ob 
+      ho<lb ed="#B" n="6" break="no"/>editae sunt, ut secundum illarum sensum fidem 
+      <lb ed="#B" n="7"/>nostram dirigamus. Epiphanius haeres. 65. p. 275. 
+      <lb ed="#B" n="8"/>Quaestionum inventionem, hoc est, ut, quid ac 
+      <lb ed="#B" n="9"/>quamvis quaestionem respondendum sit, sciatur 
+      <lb ed="#B" n="10"/>non ex propriis ratiocinationibus, sed ex Scripti 
+      <lb ed="#B" n="11"/>rarum consequentia petendum esse, asserit. Hieror 
+      <lb ed="#B" n="12"/>adv. Helvid. unicum veritatia fontem sacras litera 
+      <lb ed="#B" n="13"/>vocat. Rufinus in exposit. symb. enumeratis cano 
+      <lb ed="#B" n="14"/>nicis Scripturae s. libris addit: Haec sunt, 
+      qua<lb ed="#B" n="15" break="no"/>patres intra canonem concluserunt, ex quibus fide 
+      <lb ed="#B" n="16"/>nostrae assertiones constare voluerunt. Et postea 
+      <lb ed="#B" n="17"/>Ex his fontibus verbi divini haurienda sunt 
+      po<lb ed="#B" n="18" break="no"/>cula.** Ambros. lib. I. de fid. ad Gratianum c. 4. 
+      <lb ed="#B" n="19"/>Nolo argumento credas S. Imp. et nostrae inter 
+      <lb ed="#B" n="20"/>pretationi. Scripturas interrogemus, interrogemus 
+      <lb ed="#B" n="21"/>apostolos, interrogemus prophetas, interrogemus 
+      <lb ed="#B" n="22"/>Christum.*“ Chrysostomus homil. 12. Genes. 
+      Or<lb ed="#B" n="23" break="no"/>igitur et obtestor, ut ad amussim canonem sacro 
+      <lb ed="#B" n="24"/>Scripturae sequamur. Homil. 13. in 2. Cor. Ho 
+      <lb ed="#B" n="25"/>bemus exactissimam trutinam et qnomonem ac regi 
+      <lb ed="#B" n="26"/>lam ἀπάντων ἀκριβῇ ζυγὸν καὶ γνώμονα καὶ κανόν 
+      <lb ed="#B" n="27"/>divinarum inquam legum assertionem, xml:ideo oro e 
+      <lb ed="#B" n="28"/>obsecro vos, ut relinquatis, quid huic aut illi vt 
+      <lb ed="#B" n="29"/>deatur deque his a Scripturis omnia inquiratis 
+      <lb ed="#B" n="30"/>Constantinus Magnus ad patres synodi Nicena 
+      <lb ed="#B" n="31"/>dixit, ut est apud Theodoret. lib. 1. hist. e. 7. Go 
+      <lb ed="#B" n="32"/>lasium Cycizen. in act. syn. Nicen. c. 5. Triparti 
+      <lb ed="#B" n="33"/>lib. 2. c. 5: Exstant libri evangelici et priscorum 
+      <lb ed="#B" n="34"/>oracula prophetarum, quae evidenter nos 
+      docen<lb ed="#B" n="35" break="no"/>quid de re divina statuendum sit, itaque omiss, 
+      <lb ed="#B" n="36"/>discordia, quae nil nisi contentionum parit, suma 
+      <lb ed="#B" n="37"/>mus ex literis divinitus inspiratis solutionem quad 
+      <lb ed="#B" n="38"/>stionum. Ex Augustini epist. 163 in fin. appare 
+      <lb ed="#B" n="39"/>in disputationibus de religionis articulis controversi 
+      <lb ed="#B" n="40"/>sacras literas fuisse disputationum moderatrice 
+      <lb ed="#B" n="41"/>et ex iis controversias omnes fuisse dijudicatas 
+      <lb ed="#B" n="42"/>** Faciamus, inquit ad Donatistas, codices 
+      can<lb ed="#B" n="43" break="no"/>nicos praesto esse, et si qua proferri potuerint ea 
+      <lb ed="#B" n="44"/>utraque parte documenta, ut postpositis ceteris rer 
+      <lb ed="#B" n="45"/>tantam et bono animo coeptam ad inquisitionis ter 
+      <lb ed="#B" n="46"/>minum perducamus.** De viduitat. c. 1: Sancti 
+      <lb ed="#B" n="47"/>Scriptura doctrinae nostrae regulam figit, ne 
+      au<lb ed="#B" n="48" break="no"/>deamus sapere plus quam oportet sapere, sed sd 
+      <lb ed="#B" n="49"/>piamus, ut apostolus ait, ad temperantiam, 
+      sicu<lb ed="#B" n="50" break="no"/>unicuique Deus partitus est mensuram fidei. Nor 
+      <lb ed="#B" n="51"/>sit ergo mihi aliud te docere, nisi verba tibi docto 
+      <lb ed="#B" n="52"/>ris exponere et de iis quod Dominus dederit dis 
+      <lb ed="#B" n="53"/>putare. lib. 2. contra Donatistas c. 6: Afferamus ad 
+      <lb ed="#B" n="54"/>examen non stateras dolosas, ubi appendamus 
+      <lb ed="#B" n="55"/>quod volumus et quomodo volumus pro arbitrio 
+      <lb ed="#B" n="56"/>nostro, dicentes: hoc grave, hoc leve est; sed 
+      aff<lb ed="#B" n="57" break="no"/>ramus divinam stateram de Scripturis sanctis tar 
+      <lb ed="#B" n="58"/>quam de Dominicis Test. et in illa quid sit gro 
+      <lb ed="#B" n="59"/>vius appendamus, imo non appendamus, sed a 
+      Do<lb ed="#B" n="60" break="no"/>mino appensa recognoscamus. (Ubi Augustinus, 
+      <!--271.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>rationem appellationis, propter quam Scriptura 
+      di<lb ed="#B" n="62" break="no"/>catur canon, pulcherrime expressit, est enim κανώ 
+      <lb ed="#B" n="63"/>pars illa in trutinis, quae in medio librilis lingulae 
+      <lb ed="#B" n="64"/>instar consistit et ostendit vel aequilibrium, vel ex 
+      <lb ed="#B" n="65"/>cessum, vel defectum.) Lib. 2. contra Cresconium 
+      <lb ed="#B" n="66"/>c. 31: Neque enim sine causa tam salubri vigilantio 
+      <lb ed="#B" n="67"/>canon ecclesiasticus constitutus est, ad quam certo 
+      <lb ed="#B" n="68"/>prophetarum et apostolorum libri pertinent, quod 
+      <lb ed="#B" n="69"/>omnino judicare non audeamus et secundum quos 
+      <lb ed="#B" n="70"/>de ceteris libris vel fidelium, vel infidelium. lib. 11. 
+      <lb ed="#B" n="71"/>contra Faust. c. 5: Distincta est a posteriorum 
+      <lb ed="#B" n="72"/>ecelesiasticorum scriptorum) libris excellentia co 
+      <lb ed="#B" n="73"/>nonicae auctoritatis V. ac N. T. quae apostolorum 
+      <lb ed="#B" n="74"/>vonfirmata temporibus per successiones episcoporum 
+      <lb ed="#B" n="75"/>et propagationes ecclesiarum tanquam in sede 
+      qua<lb ed="#B" n="76" break="no"/>dam sublimiter constituta est, cui serviat omni 
+      <lb ed="#B" n="77"/>âdelis et pius intellectus etc., in opusculis autem 
+      <lb ed="#B" n="78"/>posteriorum, quae libris innumerabilibus continen 
+      <lb ed="#B" n="79"/>tur, sed nullo modo isti canonicae sacrarum Scri 
+      <lb ed="#B" n="80"/>pturarum excellentiae coaequantur, etiam in quibus 
+      <lb ed="#B" n="81"/>cunque invenitur eadem veritas, longe tamen impar 
+      <lb ed="#B" n="82"/>est auctoritas, judicamus. de unit. eccles. c... 
+      <lb ed="#B" n="83"/>Sunt certe libri Dominici, quorum auctoritati 
+      utri<lb ed="#B" n="84" break="no"/>que consentimus, utrique credimus, utrique servimus. 
+      <lb ed="#B" n="85"/>ibi quaeramus ecclesiam, ibi discutiamus crucem 
+      <lb ed="#B" n="86"/>nostram c. 6. Legite nobis hoc de lege, de prophe 
+      <lb ed="#B" n="87"/>tis, de pealmis, de ipso evangelio et apostolicis literis. 
+      <lb ed="#B" n="88"/>legite et credemus. traet. 2. in epist. Joh. Contr. 
+      <lb ed="#B" n="89"/>insidiosos errores Deus voluit firmamentum 
+      poner<lb ed="#B" n="90" break="no"/>in Scripturis, contra quas nemo loqui audeat, qui 
+      <lb ed="#B" n="91"/>te quoquo modo vult videri Christianum. Cyrill. 
+      <lb ed="#B" n="92"/>lib. 4. dial. Scripturam vocat canonem fidei rectum 
+      <lb ed="#B" n="93"/>3t perfectum. Leo. ep. 10. ad Flav. In rebus 
+      ob<lb ed="#B" n="94" break="no"/>scuris ad veritatem cognoscendam ad propheticas 
+      <lb ed="#B" n="95"/>poces, ad apost. literas, ad evangelicas auctoritates 
+      <lb ed="#B" n="96"/>recurrendum. Greg. lib. 18. moral. c. 14: Qui ad 
+      <lb ed="#B" n="97"/>verae praedicationis verba se praeparat, necesse es 
+      <lb ed="#B" n="98"/>ut causarum origines a sacria paginis sumat, ut 
+      <lb ed="#B" n="99"/>omne, quod loquitur, ad divinae auctoritatis fundo 
+      <lb ed="#B" n="100"/>mentum revocet atque in eo aedificium locutionis 
+      <lb ed="#B" n="101"/>suae firmet. Carolus Magnus in legibus ecelesiasti 
+      <lb ed="#B" n="102"/>cis Paris. anno 1350. excusis statuit, uti soli 
+      cano<lb ed="#B" n="103" break="no"/>nici bibliorum libri in ecclesiis legerentur, neve epi 
+      <lb ed="#B" n="104"/>scopi figmenta hominum vel quidquam e suo 
+      sensu<lb ed="#B" n="105" break="no"/>sed purum Dei verbum praedicent. Nicephor. lib. 3 
+      <lb ed="#B" n="106"/>ecel. histor. c. 46. Scripta canonica voeat 
+      prin<lb ed="#B" n="107" break="no"/>cipia atque elementa pietatis nostrae sempiterna 
+      <lb ed="#B" n="108"/>Lyranus praefat. in Tobiam: Sicut in disciplinis 
+      <lb ed="#B" n="109"/>philosophicis veritas cognoscitur per reductionem ad 
+      <lb ed="#B" n="110"/>prima principia per se nota: sic in Scripturis e 
+      <lb ed="#B" n="111"/>catholicis doctoribus traditis veritas cognoscitu 
+      <lb ed="#B" n="112"/>quantum ad ea, quae sunt fidei tenenda per 
+      redu<lb ed="#B" n="113" break="no"/>ctionem ad Scripturas canonicas, quae sunt habita 
+      <lb ed="#B" n="114"/>ex divina revelatione, cui nullo modo potest subesse 
+      <lb ed="#B" n="115"/>falsum 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e1704">
+               <lb ed="#B" n="116"/>447. Possumus in hanc sententiam ex ipsis ad 
+      <lb ed="#B" n="117"/>versariis quaedam proferre. Gratianus c. canon 
+      <lb ed="#B" n="118"/>dist. 3. ex Isidoro libr. 6. etymolog. c. 16: Canor 
+      <lb ed="#B" n="119"/>Graece, Latine regula nuncupata inde sic dicta 
+      <lb ed="#B" n="120"/>quod recte ducat, neque aliquando alioreum trahat. 
+      <!--272.xml-->
+      <pb ed="#B" n="199"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>c. Ego solis, dist. 9. allegatur dictum Augustini: 
+      <lb ed="#B" n="2"/>Ego solis eis Scripturarum libris, qui jam cano 
+      <lb ed="#B" n="3"/>nici appellantur, hunc timorem et honorem didio 
+      <lb ed="#B" n="4"/>deferre, ut nullum eorum auctorem scribendo al 
+      <lb ed="#B" n="5"/>quid errasse firmissime credam, alios autem ita lego, u 
+      <lb ed="#B" n="6"/>quantalibet sanctitate, doctrinaque praepolleant, non 
+      <lb ed="#B" n="7"/>ideo verum putem, quia ipsi ita senserunt, sed 
+      qui<lb ed="#B" n="8" break="no"/>mihi vel per illos auctores canonicos vel probabilo 
+      <lb ed="#B" n="9"/>ratione, quod a veritate non abhorreat, persuadere 
+      <lb ed="#B" n="10"/>potuerunt etc. c. Relatum. dist. 37. ex epist. quint 
+      <lb ed="#B" n="11"/>Clementis: Ex ipsis Scripturis sensum capere veri 
+      <lb ed="#B" n="12"/>tatis oportet. Et postea: Cum ex divinis Scripturi 
+      <lb ed="#B" n="13"/>integram quisque et firmam regulam veritatis susce 
+      <lb ed="#B" n="14"/>perit, absurdum non erit, si aliquid etiam ex eru 
+      <lb ed="#B" n="15"/>ditione communi ac liberalibus studiis, quae forto 
+      <lb ed="#B" n="16"/>etiam in pueritia attigit, ad assertionem veri do 
+      <lb ed="#B" n="17"/>qmatis conferat, ita tamen, ut ubi vera 
+      didici<lb ed="#B" n="18" break="no"/>falsa et simulata declinet. e. Non afferamus 24. q. 
+      <lb ed="#B" n="19"/>l. citatur dictum Augustini: Non afferamus statera 
+      <lb ed="#B" n="20"/>dolosas ete. Thomas Aquinas lection. I. in 1. Tim 
+      <lb ed="#B" n="21"/>sexto: Doctrina apostolorum et prophetarum cano 
+      <lb ed="#B" n="22"/>nica dicitur, quia est quasi intellectus nostri regula 
+      <lb ed="#B" n="23"/>Tostatus in capite 4. Genes. pagin. decima sexta 
+      <lb ed="#B" n="24"/>Cum in omni veritate veritas divina sit certior 
+      e<lb ed="#B" n="25" break="no"/>immutabilior, ergo omnes aliae debent regulari 
+      pe<lb ed="#B" n="26" break="no"/>illam, et in quantum conformantur illi, sunt verae 
+      <lb ed="#B" n="27"/>in quantum autem deviant ab illa, deviant a nature 
+      <lb ed="#B" n="28"/>veritatis. Idem in Ind. 177. f. b: Soli sacrae 
+      Scr<lb ed="#B" n="29" break="no"/>pturae et non alii adhibenda est firma fides. 
+      Du<lb ed="#B" n="30" break="no"/>randus libro tertio sent. dist. 25. q. 2: Sacra 
+      Scr<lb ed="#B" n="31" break="no"/>ptura est regula fidei, cui non licet aliquid 
+      adder<lb ed="#B" n="32" break="no"/>vel demere. Gerson. de examin. doctrin. part. 2 
+      <lb ed="#B" n="33"/>num. 17: Scriptura sacra nobis tradita est tanquan 
+      <lb ed="#B" n="34"/>regula sufficiens et infallibilis pro regimine 
+      totiu<lb ed="#B" n="35" break="no"/>ecclesiastici corporis et membrorum usque ad finer 
+      <lb ed="#B" n="36"/>seculi. Auctor libri, cui titulus Onus ecelesiae, ca 
+      <lb ed="#B" n="37"/>pite decimo octavo. §. 13. reprehendit eos, qui non 
+      <lb ed="#B" n="38"/>textui bibliae ceu certae doctrinae et fundamento 
+      <lb ed="#B" n="39"/>stabili et veritati inconcussae incumbunt, sed in sa 
+      <lb ed="#B" n="40"/>bulo dogmata construunt mox ruinosa, ac medullar 
+      <lb ed="#B" n="41"/>divinae sapientiae in sacra et authentica Scripturo 
+      <lb ed="#B" n="42"/>ultro se offerentem pertranseunt et singularibus do 
+      <lb ed="#B" n="43"/>ctrinis innituntur. Andreas Fricius libro quarto di 
+      <lb ed="#B" n="44"/>eceles. c. 7. circa prine. succenset illis, qui Scra 
+      <lb ed="#B" n="45"/>pturam naso cereo in utramque partem flexibilo 
+      <lb ed="#B" n="46"/>comparant, quo pacto et auctoritatem Scriptura 
+      <lb ed="#B" n="47"/>detrahi et majestatem divinorum oraculorum obsen 
+      <lb ed="#B" n="48"/>rari asserit. Joh. Ferus in exam. ordinand. Scriptur. 
+      <lb ed="#B" n="49"/>dicitur canonica, xml:id est regularis, quia a DEt 
+      <lb ed="#B" n="50"/>nobia data vitae et veritatis regula, qua omnia 
+      pro<lb ed="#B" n="51" break="no"/>bemus et jucta quam vivamus. Jac. Payva Audra 
+      <lb ed="#B" n="52"/>dius lib. 3. defens. concil. Trident. scribit minim 
+      <lb ed="#B" n="53"/>tibi displicere eorum sententiam, qui 
+      Scriptura<lb ed="#B" n="54" break="no"/>libros xml:ideo canonicos vocari statuunt, quia pie 
+      <lb ed="#B" n="55"/>tatis et fidei et religionis canonem, xml:id est, regulam 
+      <lb ed="#B" n="56"/>atque normam e coelis summo Deo beneficio ad 
+      no<lb ed="#B" n="57" break="no"/>delatam continent amplissimam. Matthias Breder 
+      <lb ed="#B" n="58"/>bachius in libro de dissidiis ecelesiae componendi 
+      <lb ed="#B" n="59"/>lit. G. 6. Scripturam ecclesiae a Deo traditam ad 
+      <lb ed="#B" n="60"/>lunquam regulam, ad quam tanquam amussim, aut 
+      <!--272.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>quod dici consuevit, lapidem Lydium omnium 
+      homi<lb ed="#B" n="62" break="no"/>num tum vitam, tum fidem, tum doctrinam exiger 
+      <lb ed="#B" n="63"/>atque ecaminare decet. Bellarm. lib. primo de verbi 
+      <lb ed="#B" n="64"/>Dei capite primo et secundo multis argumentis 
+      cor<lb ed="#B" n="65" break="no"/>firmat, propheticos et apostolicos libros esse certam 
+      <lb ed="#B" n="66"/>ac stabilem regulam fidei. Si excipere velit, se 
+      in<lb ed="#B" n="67" break="no"/>telligere regulam partialem, opponimus illi dictum 
+      <lb ed="#B" n="68"/>Basilii lib. primo contra Eunom. Regula et amussis 
+      <lb ed="#B" n="69"/>ibi imperfecta fuerint, ne appellationes quidem 
+      <lb ed="#B" n="70"/>hasce recte susceperint. 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e1880">
+               <lb ed="#B" n="71"/>448. Antithesis 1. Pontificii, quia perfectionem et 
+      <lb ed="#B" n="72"/>perspicuitatem Scripturae negant, inde etiam 
+      ne<lb ed="#B" n="73" break="no"/>gant, eam esse unicam fidei, cultus, vitae, dogmatum. 
+      <lb ed="#B" n="74"/>et controversiarum in ecelesia normam. Quantum 
+      <lb ed="#B" n="75"/>vero momentum in hac quaestione situm sit, 
+      expo<lb ed="#B" n="76" break="no"/>nit Tannerus in relat. de colloq. Ratisbon. pagin. 23 
+      <lb ed="#B" n="77"/>Cum hoc ipsum, an videlicet Scriptura sit unica 
+      <lb ed="#B" n="78"/>norma et judex omnium controversiarum, sit origo 
+      <lb ed="#B" n="79"/>quodammodo et radiaxe aliarum controversiarum 
+      <lb ed="#B" n="80"/>omnium, qua composita alias omnes componi 
+      ne<lb ed="#B" n="81" break="no"/>cessum sit, non autem composita frustra circa alias 
+      <lb ed="#B" n="82"/>consensio tentetur, a ratione prorsus alienum est, 
+      <lb ed="#B" n="83"/>hac controversia praetermissa de aliis velle 
+      dispu<lb ed="#B" n="84" break="no"/>tare. Postea addit: Petere a Catholicis, ut admit 
+      <lb ed="#B" n="85"/>tant, sacram Scripturam solam esse judicem et 
+      un<lb ed="#B" n="86" break="no"/>cam normam omnium controversiarum seclusa eccle 
+      <lb ed="#B" n="87"/>siae auctoritate infallibili, quid aliud est quam 
+      <lb ed="#B" n="88"/>petere, ut sua causa ante omnem conflictum nullo 
+      <lb ed="#B" n="89"/>necessitate sponte cedant. Ceterum abeunt 
+      Ponti<lb ed="#B" n="90" break="no"/>ficii circa hanc controversiam in duas partes 
+      <lb ed="#B" n="91"/>Qui <!-- line coord error --> 
+      <lb ed="#B" n="92"/>dam plane negant, Scripturam esse normam; qui 
+      <lb ed="#B" n="93"/>dam concedunt, eam esse normam, sed negant, esss 
+      <lb ed="#B" n="94"/>solam, unicam, perfectam et totalem normam. Ad 
+      <lb ed="#B" n="95"/>priorem classem pertinent, qui Scripturam 
+      compa<lb ed="#B" n="96" break="no"/>rant naso cereo ac regulae Lesbiae. Cens. Color 
+      <lb ed="#B" n="97"/>cont. Monheim. p. 117. Canisius in opere catech. f. 44. 
+      <lb ed="#B" n="98"/>ete. Quod si enim Scriptura est in omnem parten 
+      <lb ed="#B" n="99"/>flexilis instar cerei nasi et Lesbiae regulae, certe non 
+      <lb ed="#B" n="100"/>poterit esse norma et regula dogmatum in ecclesia 
+      <lb ed="#B" n="101"/>cum normae proprium sit esse certam, infallibilem 
+      <lb ed="#B" n="102"/>invariabilem ete. Ab illis non multum abit Bellarm 
+      <lb ed="#B" n="103"/>quando libri 4. de verbo Dei e. 12. sic disserit: 
+      <lb ed="#B" n="104"/>Scripturae finis proprius et praecipuus non fuit, ut 
+      <lb ed="#B" n="105"/>esset regula fidei, sed ut esset commonitorium quod 
+      <lb ed="#B" n="106"/>dam utile ad conservandam et fovendam doctrinam 
+      <lb ed="#B" n="107"/>ex praedicatione acceptam. At 1. contradicit 
+      Be<lb ed="#B" n="108" break="no"/>larminus expressis Scripturae et patrum dictis, in 
+      <lb ed="#B" n="109"/>quibus Scripturam vocant canonem et regulam, 
+      con<lb ed="#B" n="110" break="no"/>tradicit vulgatissimae in ecelesiae Scripturarum 
+      <lb ed="#B" n="111"/>appellationi, qua dicuntur canonicae; contradiei 
+      <lb ed="#B" n="112"/>sibi ipsi, quia libri 1. de verbo Dei c. 1. et 21. multis 
+      <lb ed="#B" n="113"/>argumentis confirmat, propheticos et apostolicos lo 
+      <lb ed="#B" n="114"/>bros esse certam et stabilem regulam fidei. 2. S. 
+      <lb ed="#B" n="115"/>Scriptura esset duntaxat commonitorium, quorsum 
+      <lb ed="#B" n="116"/>opus fuisset tam multos a prophetis et apostolis 
+      <lb ed="#B" n="117"/>scribi libros, eosque in sedem canonicae auctoritatis 
+      <lb ed="#B" n="118"/>avectos omnibus aliis praeponi. 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e1989">
+               <lb ed="#B" n="119"/>149. Quomodo vero probat Bellarminus suam 
+      a<lb ed="#B" n="120" break="no"/>ertionem? Producit quinque argumenta, sed pon 
+      <lb ed="#B" n="121"/>deris perquam exigui. 1. Si Scriptura esset regula 
+      <!--273.xml-->
+      <pb ed="#B" n="200"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>fidei, tunc continere deberet omnia et sola illa, quae 
+      <lb ed="#B" n="2"/>ad fidem ex se pertinent, sicut videmus factum esse 
+      <lb ed="#B" n="3"/>in symbolo, quod vere dicitur et est compositum, ut 
+      <lb ed="#B" n="4"/>sit brevis quaedam regula fidei. At in Scripturo 
+      <lb ed="#B" n="5"/>plurima sunt, quae ex se non pertinent ad fidem 
+      <lb ed="#B" n="6"/>hoc est, quae non xml:ideo scripta sunt, quia necessari 
+      <lb ed="#B" n="7"/>credenda erant, sed necessario creduntur, quia scri 
+      <lb ed="#B" n="8"/>pta sunt, ut patet de omnibus historiis V. T., d. 
+      <lb ed="#B" n="9"/>multis etiam historiis evangelii et Actuum 
+      apostol<lb ed="#B" n="10" break="no"/>corum. Resp. 1. et Scripturam et symbolum 
+      apo<lb ed="#B" n="11" break="no"/>stolorum a patribus vocari fidei regulam, ostendimus 
+      <lb ed="#B" n="12"/>in tract. de interp. Script. §. 76. et 77. haec igitu 
+      <lb ed="#B" n="13"/>non sunt opposita. 2. Nullas V. T. historias ad 
+      <lb ed="#B" n="14"/>fidem esse necessarias, falso asseritur, quia historis 
+      <lb ed="#B" n="15"/>de creatione mundi, de lapsu primorum parentum 
+      <lb ed="#B" n="16"/>de promulgatione protevangelii, de collectione e 
+      <lb ed="#B" n="17"/>conservatione ecclesiae ete. omnino ad fidem 
+      perti<lb ed="#B" n="18" break="no"/>nent. 3. Quamvis plura in Scripturis tradita sin 
+      <lb ed="#B" n="19"/>quam quae ad salutem omnibus absolute scitu 
+      ne<lb ed="#B" n="20" break="no"/>cessaria, tamen ex eo inferri nequit, Scripturam non 
+      <lb ed="#B" n="21"/>esse editam hoc fine, ut sit regula fidei, quia per 
+      <lb ed="#B" n="22"/>illa, quae uberioris explicationis et confirmationi 
+      <lb ed="#B" n="23"/>gratia adduntur, Scripturae finis proprius et prae 
+      <lb ed="#B" n="24"/>cipuus haudquaquam tollitur. 4. Ipsa appellatio 
+      <lb ed="#B" n="25"/>canonis a Spiritu sancto verbo DEI scripto attributa 
+      <lb ed="#B" n="26"/>ostendit finem Scripturae a sanctis DEI hominibus 
+      <lb ed="#B" n="27"/>editae esse, non ut sit nudum commonitorium, sed 
+      <lb ed="#B" n="28"/>ut sit perpetua dogmatum regula in ecclesia 
+      <lb ed="#B" n="29"/>2. Multa sunt credenda, quae non sunt in Scriptu 
+      <lb ed="#B" n="30"/>ris. Resp. contrarium ostendimus superius. Scri 
+      <lb ed="#B" n="31"/>ptura et fides nostra sunt aequalis latitudinis. 
+      Fide<lb ed="#B" n="32" break="no"/>nec plus nec minus debet amplecti, quam est in 
+      <lb ed="#B" n="33"/>Scripturis revelatum. 3. Scriptura non est unun 
+      <lb ed="#B" n="34"/>continuum corpus, quale esse deberet regula fidei 
+      <lb ed="#B" n="35"/>sed continet varia opera, historias, conciones, vati 
+      <lb ed="#B" n="36"/>cinia, carmina, epistolas etc. Resp. illa omnis 
+      <lb ed="#B" n="37"/>unum continuum Scripturae corpus unum credendo 
+      <lb ed="#B" n="38"/>rum, faciendorum et sperandorum systema consti 
+      <lb ed="#B" n="39"/>tuunt, omnia namque ab uno Spiritu sunt profecta 
+      <lb ed="#B" n="40"/>omnia etiam ad unum eundemque finem tendum 
+      <lb ed="#B" n="41"/>qui est, institutio hominum ad salutem. 4. Rom. 15. 
+      <lb ed="#B" n="42"/>v. 4: Quaecunque scripta sunt, ad nostram doctri 
+      <lb ed="#B" n="43"/>nam scripta sunt. Resp. quomodo omnia ad no 
+      <lb ed="#B" n="44"/>tram doctrinam scripta sint, manifestius et in specie 
+      <lb ed="#B" n="45"/>exponitur 2. Tim. 3, v. 15. 16. et 17, ex quo locè 
+      <lb ed="#B" n="46"/>constat, perfectam doctrinae normam ac regulam in 
+      <lb ed="#B" n="47"/>Scriptura proponi. 5. Petrus 2. epist. 1, v. 12. e. 
+      <lb ed="#B" n="48"/>c. 3, v. 1 dicit, sibi necesse fuisse, ut eos, ad quod 
+      <lb ed="#B" n="49"/>scribebat, commoneret. Respond. Concedimus, finem 
+      <lb ed="#B" n="50"/>et usum Scripturae etiam in commonitione consi 
+      <lb ed="#B" n="51"/>stere, sed ex eo inferri nequit, quod tantum in 
+      com<lb ed="#B" n="52" break="no"/>monitione consistat, ac quod finis ejus principalis 
+      e<lb ed="#B" n="53" break="no"/>proprius non sit necessaria ad salutem docere e 
+      <lb ed="#B" n="54"/>fidei regulam proponere, accessorium enim et secui 
+      <lb ed="#B" n="55"/>darium non tollit principale. Sic Spiritus sanctu 
+      <lb ed="#B" n="56"/>apostolis suggerebat omnia Joh. 14, v. 26; xml:idem 
+      <lb ed="#B" n="57"/>tamen erat ipsorum doctor ducens in omnem veri 
+      <lb ed="#B" n="58"/>tatem Joh. 16. v. 13. Duplicem igitur finem ratione 
+      <lb ed="#B" n="59"/>diversorum objectorum Scriptura obtinet. Ignaro 
+      <lb ed="#B" n="60"/>mysteriorum fidei perfecte informat et instruit, eos 
+      <!--273.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>vero, quibus jamdum fidei mysteria ex praedicatione 
+      <lb ed="#B" n="62"/>verbi cognita, commonefacit 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e2144">
+               <lb ed="#B" n="63"/>450. Ad alteram proinde classem Bellarminus 
+      <lb ed="#B" n="64"/>abit, eorum scilicet, qui concedunt, Scripturam esse 
+      <lb ed="#B" n="65"/>lormam et regulam fidei, sed non solam, unicam e 
+      <lb ed="#B" n="66"/>perfectam normam. Dico (inquit) secundo, 
+      Scriptu<lb ed="#B" n="67" break="no"/>rcam, etei non est facta praecipue, ut sit regulo 
+      <lb ed="#B" n="68"/>fidei, esse tamen regulam fidei non totalem, sed 
+      <lb ed="#B" n="69"/>partialem. Totalis enim regula fidei est verbum 
+      <lb ed="#B" n="70"/>Dei sive revelatio Dei ecclesiae facta, quae 
+      dividi<lb ed="#B" n="71" break="no"/>tur in duas regulas partiales, Scripturam et tradi 
+      <lb ed="#B" n="72"/>tionem. Resp. 1. recte dicitur, verbum Dei esse 
+      <lb ed="#B" n="73"/>unicam et totalem regulam fidei. Sed probet 
+      Bel<lb ed="#B" n="74" break="no"/>larminus post editum Scripturae canonem, illud 
+      par<lb ed="#B" n="75" break="no"/>tim in Scripturis, partim extra Scripturas in 
+      tradi<lb ed="#B" n="76" break="no"/>tionibus proponi. Id vero cum probare non possit 
+      <lb ed="#B" n="77"/>teneat certum, relinquat incertum, h. e. amplectatur 
+      <lb ed="#B" n="78"/>lobiscum verbum Dei scriptum pro unica fidei 
+      re<lb ed="#B" n="79" break="no"/>gula, repudiatis dubiis et incertis traditionibus 
+      <lb ed="#B" n="80"/>2. Scriptura aut est totalis fidei regula, aut plane 
+      <lb ed="#B" n="81"/>ion est fidei regula. Si enim fides nostra est latior 
+      <lb ed="#B" n="82"/>Scriptura, non poterit Scriptura esse fidei regula 
+      <lb ed="#B" n="83"/>quia inter regulam et regulatum oportet esse 
+      aequa<lb ed="#B" n="84" break="no"/>lem latitudinem. Varinus definit cauonem, quod sit 
+      <lb ed="#B" n="85"/>μέτρον ἀδιάιρευστον, πᾶσαν πρόσθεσιν καὶ ἀφαίρεσιν 
+      <lb ed="#B" n="86"/>μηδαμῶς ἐπιδεχόμενον. Basilius lib. I. contra 
+      Eu<lb ed="#B" n="87" break="no"/>nom. Canon et regula, quamdiu ei nihil deest ad xml:id 
+      <lb ed="#B" n="88"/>it eit canon et regula, nullam recipit additionem, 
+      <lb ed="#B" n="89"/>qua accuratior fiat, additio enim fit propter de 
+      <lb ed="#B" n="90"/>ectum, ubi vero defectus, non regula amplius, non 
+      <lb ed="#B" n="91"/>anon appellentur. Theophylactus in c. 3. Philipp. 
+      <lb ed="#B" n="92"/>Regula et amussis nec appositionem habet nec 
+      di<lb ed="#B" n="93" break="no"/>minutionem. 3. Patres Scripturam constituunt 
+      regu<lb ed="#B" n="94" break="no"/>Jam non partialem, sed totalem, absolute enim et 
+      <lb ed="#B" n="95"/>simpliciter vocant regulam κανόνα ἀκριβῇ καὶ ἀκλινi 
+      <lb ed="#B" n="96"/>integram, certam et perfectam. 4. Scriptura et 
+      tra<lb ed="#B" n="97" break="no"/>litiones non sunt partes homogeneae et ejusdem 
+      <lb ed="#B" n="98"/>naturae. Ergo non possunt ad canonem fidei 
+      con<lb ed="#B" n="99" break="no"/>stituendum simul concurrere. Illa divina est, hae 
+      <lb ed="#B" n="100"/>numanae; illa certa, hae dubiae; illa invariabilis 
+      <lb ed="#B" n="101"/>hae mutabiles; illa firmum fidei fundamentum 
+      prae<lb ed="#B" n="102" break="no"/>pet, hae vero nequaquam. 
+  </p>
+            <p xml:id="zef3dd-d1e417-d1e2233">
+               <lb ed="#B" n="103"/>451. Urget Bellarminus et cum ipso complures 
+      <lb ed="#B" n="104"/>llii Pontificii hoc argumentum: Scriptura non pot 
+      <lb ed="#B" n="105"/>st intelligi nisi per Spiritum canctum. At Spiritus 
+      <lb ed="#B" n="106"/>scanctus non invenitur nisi in ecclesia, apud quam 
+      <lb ed="#B" n="107"/>nanet in aeternum Joh. 14, v. 16. Ergo in solo 
+      <lb ed="#B" n="108"/>ecclesia est vera Scripturarum intelligentia et per 
+      <lb ed="#B" n="109"/>consequens non Scriptura, sed ecclesia est norme 
+      <lb ed="#B" n="110"/>judicii in quaestionibus fidei. Resp. 1. Concedimus, 
+      <lb ed="#B" n="111"/>veram Scripturae intelligentiam esse in sola eccle 
+      <lb ed="#B" n="112"/>sia; concedimus etiam Spiritum sanctum promissum 
+      <lb ed="#B" n="113"/>esse ecclesiae, sed quae sit illa vera ecclesia et ubi 
+      <lb ed="#B" n="114"/>sit quaerenda, non nisi ex Scriptura peti ac disci 
+      <lb ed="#B" n="115"/>otest. Illa enim (materialiter pro verbo Dei ac 
+      <lb ed="#B" n="116"/>cepta) est ecelesia prior, ejusque principium et causa 
+      <lb ed="#B" n="117"/>lla nos instruit, eum demum coetum pro vera 
+      <lb ed="#B" n="118"/>ecclesia habendum esse, qui normam ac ductum 
+      <lb ed="#B" n="119"/>verbi sequitur Joh. 8, v. 31. c. 10, v. 27. e. 14. 
+      <lb ed="#B" n="120"/>v. 23 ete. 2. Nec absolute et simpliciter promissa 
+      <!--274.xml-->
+      <pb ed="#B" n="201"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>est illi coetui Spiritus sancti gratiosa praesentia e 
+      <lb ed="#B" n="2"/>Scripturarum vera intelligentia, sed quatenus in sim 
+      <lb ed="#B" n="3"/>plicitate verbi acquiescit et depositum doctrina 
+      <lb ed="#B" n="4"/>coelestis purum atque incorruptum retinet. 3. Si 
+      <lb ed="#B" n="5"/>absolute et simpliciter ab ecclesia quocunque modo 
+      <lb ed="#B" n="6"/>se habente Scripturae intelligentia penderet, 
+      priu<lb ed="#B" n="7" break="no"/>de ecclesia quam de Scriptura sive verbo DEl 
+      <lb ed="#B" n="8"/>juxta leges methodi Pontificii deberent tractare. Sed 
+      <lb ed="#B" n="9"/>Bellarminus, Costerus, Pistorius ete. contrario ordin 
+      <lb ed="#B" n="10"/>progrediuntur ac prius de Scriptura quam de 
+      eccle<lb ed="#B" n="11" break="no"/>sia agunt. Viderunt hoc Eccius ac Torrensis, xml:ideo 
+      <lb ed="#B" n="12"/>in primo statim limine de ecclesia agunt. 4. Ecele 
+      <lb ed="#B" n="13"/>siae nomine Romanenses intelligunt suum 
+      pontificen<lb ed="#B" n="14" break="no"/>eo enim ultima analysis hujus assertionis nos de 
+      <lb ed="#B" n="15"/>ducit. Bellarm. lib. 4. de pontif. c. 2: Ipsa infal 
+      <lb ed="#B" n="16"/>libilitas non est in coetu consiliariorum vel in cor 
+      <lb ed="#B" n="17"/>cilio episcoporum, sed in solo pontifice. Atque 
+      <lb ed="#B" n="18"/>pontifici perpetuam Spiritus sancti assistentiam e 
+      <lb ed="#B" n="19"/>veram Scripturae intelligentiam esse promissam non 
+      <lb ed="#B" n="20"/>potest ex sacris literis demonstrari 5. Argumentum 
+      <lb ed="#B" n="21"/>est a quaestione alienum. Quaerimus enim hoc loco 
+      <lb ed="#B" n="22"/>non ubi quaerenda sit Scriptura et vera Scripturae 
+      <lb ed="#B" n="23"/>intelligentia, quam in ecclesia quaerendam esse neme 
+      <lb ed="#B" n="24"/>Christianorum negat, sed quae sit norma judicandi 
+      <lb ed="#B" n="25"/>de controversiis fidei in ecclesia, quam normam 
+      ess<lb ed="#B" n="26" break="no"/>Scripturam sacram, ex argumentis pro nostra 
+      sen<lb ed="#B" n="27" break="no"/>tentia adductis liquidissime elucescit 
+      </p>
+            <p xml:id="zef3dd-d1e417-d1e2340">
+               <lb ed="#B" n="28"/>452. 2. Calviniani verbis quidem profitentur. 
+      <lb ed="#B" n="29"/>Scripturam sacram esse totalem et unicam fide 
+      <lb ed="#B" n="30"/>normam, sed reipsa illud negant, dum articulos fide 
+      <lb ed="#B" n="31"/>in perspicuis et apertis Scripturae locis propositos 
+      <lb ed="#B" n="32"/>ex principiis philosophicis male intellectis vel 
+      appli<lb ed="#B" n="33" break="no"/>catis oppugnant, et relicto genuino, proprio et lito 
+      <lb ed="#B" n="34"/>rali Scripturae sensu quaerunt διάνοιαν rationi 
+      con<lb ed="#B" n="35" break="no"/>entaneam. 3. Photiniani eidem insistunt methodo 
+      <lb ed="#B" n="36"/>tum et ipsi ex principiis rationis articulos fidei i 
+      <lb ed="#B" n="37"/>Scriptura revelatos praepostere impugnent. 4. 
+      We<lb ed="#B" n="38" break="no"/>jeliani a verbo externo provocant ad internum, negan 
+      <lb ed="#B" n="39"/>tes ex Scriptura, quippe quae sit litera mortua, re 
+      <lb ed="#B" n="40"/>gulam atque normam fidei peti posse 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 24</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 24</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="219"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e472"><!-- zef3dd-l1c24 -->
+            <head xml:id="zef3dd-d1e472-Hd1e101">Caput 24</head>
+            <head xml:id="zef3dd-d1e472-Hd1e103" type="question-title">De versionibus Scripturae sacrae</head>
+            <p xml:id="zef3dd-d1e472-d1e106">
+               <lb ed="#B" n="104"/>CAPUT XXIV 
+      <lb ed="#B" n="105"/>DE VERSIONIBUS SCRIPTURAE 
+<lb ed="#B" n="106"/>SACRAE. 
+</p>
+            <p xml:id="zef3dd-d1e472-d1e115">
+               <lb ed="#B" n="107"/>494. Constat V. T. libros a prophetis Hebraea 
+      <lb ed="#B" n="108"/>V. T. libros ab evangelistis et apostolis Graeo 
+      <lb ed="#B" n="109"/>lingua esse scriptos. Quod si igitur etiam laici a 
+      <lb ed="#B" n="110"/>Scripturae lectionem non solum admittendi, se 
+      <lb ed="#B" n="111"/>etiam invitandi, utique etiam necessarium erit, u 
+      <lb ed="#B" n="112"/>libri sacri in linguas vernaculas transferantur. Cur 
+      <lb ed="#B" n="113"/>enim linguae Hebraeae ac Graecae paucissimi 
+      la<lb ed="#B" n="114" break="no"/>corum gnari sint, xml:ideo ut ad Scripturae lectionem 
+      <!--293.xml-->
+      <pb ed="#B" n="220"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>ipsis pateat aditus, in linguam ipsis vernaculam 
+      <lb ed="#B" n="2"/>eandem transferre non utile solum, sed etiam ne 
+      <lb ed="#B" n="3"/>cessarium erit: quae Scripturarum saerarum versiones 
+      <lb ed="#B" n="4"/>tantum abest, ut sint improbandae, ut, si textui ori 
+      <lb ed="#B" n="5"/>ginali fideliter respondeant, sint potius commen 
+      <lb ed="#B" n="6"/>dandae. Confirmat hoc ipsum perpetua ecelesia 
+      <lb ed="#B" n="7"/>praxis. 1. Moyses et prophetae scripserunt lingus 
+      <lb ed="#B" n="8"/>Hebraeis vulgari et vernacula, ut universus populus 
+      <lb ed="#B" n="9"/>potuerit audire et intelligere verba legis ex libro 
+      <lb ed="#B" n="10"/>praelecta Deut. 31. v. 11. 2. Paral. 34. v. 30. 2. Cum 
+      <lb ed="#B" n="11"/>post reditum ex captivitate Babylonica pura 
+      He<lb ed="#B" n="12" break="no"/>braea lingua non amplius in publico et vulgari usu 
+      <lb ed="#B" n="13"/>esset apud Israëlitas, sed Chaldaico xml:idiomate per 
+      <lb ed="#B" n="14"/>mixta, singulari Dei providentia factum est, ut in 
+      <lb ed="#B" n="15"/>linguam Chaldaicam Israëlitis tunc vulgarem 
+      con<lb ed="#B" n="16" break="no"/>versae fuerint Scripturae, unde triplex Targum 
+      <lb ed="#B" n="17"/>prodiit, Babylonicum, Onkelosii et Hierosolymita 
+      <lb ed="#B" n="18"/>num. 3. Cum progressu temporis sub imperio 
+      Gra<lb ed="#B" n="19" break="no"/>corum lingua Graeca omnibus fere gentibus inno 
+      <lb ed="#B" n="20"/>tesceret, mirabili Dei dispositione factum est, u 
+      <lb ed="#B" n="21"/>libri V. T. in linguam Graecam verterentur 
+      auspi<lb ed="#B" n="22" break="no"/>ciis Ptolemaei regis Aegyptii a 72 senioribus e¬x 
+      <lb ed="#B" n="23"/>Judaea missis. Justinus in dial. cum Tryphon. p. 231. 
+      <lb ed="#B" n="24"/>Augustinus lib. 8. de civit. Dei c. 11. etc. Praeter 
+      <lb ed="#B" n="25"/>hanc 72 interpret. versionem communi ecelesiae ust 
+      <lb ed="#B" n="26"/>receptam, fuerunt etiam aliae versiones, Aquila 
+      <lb ed="#B" n="27"/>Symmachi, Theodotionis ete. 4. Evangelistae e 
+      <lb ed="#B" n="28"/>apostoli libros N. T. non scripserunt lingua Ho 
+      <lb ed="#B" n="29"/>braea, quae non amplius erat toti populo Israël 
+      <lb ed="#B" n="30"/>tico, sed doctioribus tantum usitata, verum lingua 
+      <lb ed="#B" n="31"/>Graeca, quae fuit omnibus fere gentibus communis 
+      <lb ed="#B" n="32"/>Cicer. pro Archia: Graeca leguntur in omnibus 
+      fer<lb ed="#B" n="33" break="no"/>gentibus. Augustin. epist. 200: Haec lingua maxime 
+      <lb ed="#B" n="34"/>excellit in gentibus. Lib. 8. de civit. Dei cap. 2. 
+      <lb ed="#B" n="35"/>Lingua Graeca inter ceteras gentium clarior habe 
+      <lb ed="#B" n="36"/>tur. 5. Cum propter Romani imperii amplitudinem 
+      <lb ed="#B" n="37"/>ingua Romana sive Latina multis gentibus inc 
+      <lb ed="#B" n="38"/>peret esse vernacula, secutae sunt versiones varia 
+      <lb ed="#B" n="39"/>in linguam Latinam. Hieronymus praefat. in 
+      Jo<lb ed="#B" n="40" break="no"/>suam: Tot apud Latinos exemplaria, quot codices 
+      <lb ed="#B" n="41"/>Augustinus lib. 2. de doctr. Christ. c. 11 suo tem 
+      <lb ed="#B" n="42"/>pore innumeras fuisae Latinas versiones testatur 
+      <lb ed="#B" n="43"/>6. Cum doctrina evangelii ad omnes gentes propi 
+      <lb ed="#B" n="44"/>garetur, secutae etiam sunt in varias linguas 
+      Seri<lb ed="#B" n="45" break="no"/>pturarum translationes. Augustinus lib. 2. de do 
+      <lb ed="#B" n="46"/>etrin. Christ. c. 5: Ex quo factum est, ut Scripturo 
+      <lb ed="#B" n="47"/>divina ab una lingua profecta, quae opportune po 
+      <lb ed="#B" n="48"/>tuit per orbem terrarum disseminari, per varias 
+      <lb ed="#B" n="49"/>linguas longe lateque diffusa innotesceret gentibus 
+      <lb ed="#B" n="50"/>ad salutem, quam legentes nihil aliud 
+      appetun<lb ed="#B" n="51" break="no"/>quam cogitationes voluntatemque eorum, a quibus 
+      <lb ed="#B" n="52"/>conscripta est, invenire et per illas voluntatem 
+      <lb ed="#B" n="53"/>Dei, secundum quam tales homines locutos ess. 
+      <lb ed="#B" n="54"/>credimus. Sic Chrysostomus homil. 1. in Joh. tom. 
+      <lb ed="#B" n="55"/>3. col. 15 scribit, Syros, Aegyptios, Indos, 
+      Persa<lb ed="#B" n="56" break="no"/>Aethiopes et alias innumeras gentes divina dogmate 
+      <lb ed="#B" n="57"/>in suam linguam transtulisse, atque ita homine 
+      <lb ed="#B" n="58"/>barbaros philosophari didicisse. Hieronymus in 
+      <lb ed="#B" n="59"/>epitaphio Paulae ait, pealmos a Palaestinis in 
+      fu<lb ed="#B" n="60" break="no"/>nere cantatos fuisse Hebraeo, Graeco, Latino, Sy¬ 
+      <!--293.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>roque sermone per totam hebdomadem. Theodoret 
+      <lb ed="#B" n="62"/>lib. 5. de corrig. Graecor. affection. tom. 2. p. 521. 
+      <lb ed="#B" n="63"/>Hebraici non modo in Graecum xml:idioma converes 
+      <lb ed="#B" n="64"/>gunt, sed Romanam quoque linguam, Aegyptiam 
+      <lb ed="#B" n="65"/>Persicam, Indicam, Armenicam et Scythicam, at 
+      <lb ed="#B" n="66"/>que adeo Sauromaticam, semelque ut dicam, in 
+      <lb ed="#B" n="67"/>linguas omnes, quibus ad hanc diem nationes 
+      utun<lb ed="#B" n="68" break="no"/>tur, εἰς πάσας τὰς γλώττας, αἰς ἅπαντα τὰ ἔθνη κ 
+      <lb ed="#B" n="69"/>χρημένα διατελεῖ. Neque possunt hoc diffiteri ipsi 
+      <lb ed="#B" n="70"/>met Pontificii. Eccius in Enchirid. c. 2. de miss. 
+      <lb ed="#B" n="71"/>Alphonsus de Castro lib. 1. adv. haeres. cap. 13. 
+      <lb ed="#B" n="72"/>fatentur, multos vopulos habuisse Scripturas in 
+      <lb ed="#B" n="73"/>lingua vernacula. Hardingus art. 3. sect. 8: 
+      Ar<lb ed="#B" n="74" break="no"/>meni, Russi, Aethiopes, Dalmatae, Moscovitae 
+      <lb ed="#B" n="75"/>Scripturas legerunt lingua vernacula. Sic 
+      Metho<lb ed="#B" n="76" break="no"/>dius convertit Scripturas in linquam Slavonicam 
+      <lb ed="#B" n="77"/>teste Aventino lib. 4. annal. Hieronym. in linquam 
+      <lb ed="#B" n="78"/>Dalmaticam, consentiente Hosio lib. de sacr. ver 
+      <lb ed="#B" n="79"/>naculo legend. et Alphonso de Castro lib. 1. c. 13. 
+      <lb ed="#B" n="80"/>Chrysostom. in Armenam, consentiente Sixto Senensi 
+      <lb ed="#B" n="81"/>lib. 6. annotat. 151. Ulphilas in Gothicam, teste 
+      <lb ed="#B" n="82"/>Socrate lib. 4. hist. eceles. e. 33. ubi addit, ut bar 
+      <lb ed="#B" n="83"/>bari discerent τὰ λόγια θεῖα. Beda lib. 1. histor 
+      <lb ed="#B" n="84"/>c. 1. dicit, Scripturas fuisse suo tempore in quin 
+      <lb ed="#B" n="85"/>que linguis Britannicis lectas. Ante Lutheri 
+      ver<lb ed="#B" n="86" break="no"/>sionem tria vetusta Germanica bibliorum 
+      exem<lb ed="#B" n="87" break="no"/>plaria exstiterunt, primum impressum est 
+      Norinber<lb ed="#B" n="88" break="no"/>gae ann. 1477, alterum ibidem. ann. 1483, tertium 
+      <lb ed="#B" n="89"/>Augustae anno 1518. (Excipit Bellarm. lib. 2. de 
+      <lb ed="#B" n="90"/>verbo Dei c. 16, ignorare se, utrum Hieronymus 
+      <lb ed="#B" n="91"/>divinas literas in Slavonicam linquam verterit, cum 
+      <lb ed="#B" n="92"/>ipud veteres xml:id non legatur, si tamen fecit, non 
+      <lb ed="#B" n="93"/>ideo fecisse, ut publice legeretur Scriptura 
+      Slavo<lb ed="#B" n="94" break="no"/>nice, sed ad consolationem eorum hominum, qui eo 
+      <lb ed="#B" n="95"/>ine periculo uti poterant. Resp. Ex Scriptura 
+      <lb ed="#B" n="96"/>rum lectione per se et in se nullum ulli hominum 
+      <lb ed="#B" n="97"/>creari potest periculum, sed quaecunque scripte 
+      <lb ed="#B" n="98"/>gunt, ad nostram doctrinam scripta sunt Rom. 15. 
+      <lb ed="#B" n="99"/>v. 4. unde Hieronymus omnibus Christianis eam 
+      vo<lb ed="#B" n="100" break="no"/>uit esse communem. 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e362">
+               <lb ed="#B" n="101"/>495. Antithesis. Vergerius dial. 3. contra Hosium. 
+      <lb ed="#B" n="102"/>tom. 1. operum fol. 201 recitat locum ex Hosio: Es 
+      <lb ed="#B" n="103"/>Lsu compertum, versiones illas literarum sanctarum 
+      <lb ed="#B" n="104"/>in linguam gentis alicujus vernaculam multum in 
+      <lb ed="#B" n="105"/>commodi ecclesiae Dei attulisse. Bellarm. lib. 2. de 
+      <lb ed="#B" n="106"/>verbo Dei c. 15. statum quaestionis sic informat 
+      <lb ed="#B" n="107"/>Catholica ecclesia non quidem prohibet omnino 
+      vul<lb ed="#B" n="108" break="no"/>gares translationes, nam in indice librorum 
+      prohi<lb ed="#B" n="109" break="no"/>bitorum a Pio IV. edito regula 4. videmus, conced 
+      <lb ed="#B" n="110"/>lectionem ejusmodi librorum iis, qui utiliter et cum 
+      <lb ed="#B" n="111"/>fructu ea uti possunt, hoc est, iis, qui facultatem 
+      <lb ed="#B" n="112"/>ab ordinario obtinuerint, prohibetur tamen, n 
+      <lb ed="#B" n="113"/>passim omnibus sine discrimine concedatur, 
+      ejus<lb ed="#B" n="114" break="no"/>modi lectio et ne in publico et communi ecclesiae 
+      <lb ed="#B" n="115"/>Isu Scripturae legantur vel canantur linguis vul 
+      <lb ed="#B" n="116"/>garibus, sed contenti simus tribus illis linquis, quas 
+      <lb ed="#B" n="117"/>Dominus titulo crucis honoravit Johann. 19 et 
+      qua<lb ed="#B" n="118" break="no"/>omnium consensu antiquitate, amplitudine et 
+      gra<lb ed="#B" n="119" break="no"/>ritate omnibus aliis praestant, ac demum quibus 
+      <lb ed="#B" n="120"/>Tipsi libri divini ab auctoribus quia initio scripti 
+      <!--294.xml-->
+      <pb ed="#B" n="221"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>fuerunt, nempe Hebraea, Graeca et Latina. No 
+      <lb ed="#B" n="2"/>tandum vero contra Bellarminum, quomodo Clo 
+      <lb ed="#B" n="3"/>mens VIII. Pii IV. antecessoris sui regulam decla 
+      <lb ed="#B" n="4"/>rarit. Sic enim habet censura Clementis VIII. in 
+      <lb ed="#B" n="5"/>castig. indic. lib. prohibitorum: Animadvertendum 
+      <lb ed="#B" n="6"/>est (inquit) circa suprascriptam quartam 
+      regula<lb ed="#B" n="7" break="no"/>felicie recordationis Pii papae IV. nullam 
+      pe<lb ed="#B" n="8" break="no"/>hanc impressionem et editionem de novo tribui fo 
+      <lb ed="#B" n="9"/>cultatem episcopis, aut inquisitoribus, aut regular 
+      <lb ed="#B" n="10"/>bus superioribus concedi licentiam emendi, legene 
+      <lb ed="#B" n="11"/>aut retinendi biblia vulgaria, aut alias sacra 
+      <lb ed="#B" n="12"/>Scripturae tam N. quam V. T. partes quavis vu 
+      <lb ed="#B" n="13"/>gari lingua editas ac insuper summaria et 
+      com<lb ed="#B" n="14" break="no"/>pendia etiam historica eorundem bibliorum sacra 
+      <lb ed="#B" n="15"/>Scripturae quovis vulguri xml:idiomate conscripto 
+      <lb ed="#B" n="16"/>quod quidem inviolate servandum est 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e450">
+               <lb ed="#B" n="17"/>496. Argumenta, quibus Bellarmin. dict. loc. pro 
+      <lb ed="#B" n="18"/>bare conatur, in publico ecclesiae usu Scriptura 
+      <lb ed="#B" n="19"/>non esse legendas vulgaribus linguis, itidem ex 
+      per<lb ed="#B" n="20" break="no"/>petua ecclesiae praxi sunt desumta. I. A tempor. 
+      <lb ed="#B" n="21"/>bus Esdrae desiit in populo Dei lingua Hebraico 
+      <lb ed="#B" n="22"/>esse vulgaris et Chaldaica seu Syriaca illis fact 
+      <lb ed="#B" n="23"/>fuit vernacula, quod probat ex c. 8. libri Nehemiae 
+      <lb ed="#B" n="24"/>ubi Nehemias, Eadras et Levitae interpretabantur 
+      <lb ed="#B" n="25"/>legem, alioqui populus nihil intellexisset, et ex ver 
+      <lb ed="#B" n="26"/>bis Syriacis N. T. Talitha Marc. 5. Abba Pate 
+      <lb ed="#B" n="27"/>Marc. 14. Hakeldama Matth. 27. Golgatha, Pasche 
+      <lb ed="#B" n="28"/>tandem etiam ex dicto Joh. 7: Turba haec, quae 
+      <lb ed="#B" n="29"/>non novit legem. Resp. 1. Cur Bellarmin. ab ex 
+      <lb ed="#B" n="30"/>guo illo tempore argumentum ducere voluit, 
+      pra<lb ed="#B" n="31" break="no"/>termisso tot seculorum antegresso spatio, in quibu 
+      <lb ed="#B" n="32"/>lingua vulgari et vernacula Scripturae in populo 
+      <lb ed="#B" n="33"/>Israëlitico fuere lectae? 2. Cur statum ecclesis 
+      <lb ed="#B" n="34"/>corruptae potius quam florentis imitandum nobi 
+      <lb ed="#B" n="35"/>proponit? Moyses et prophetae lingua vulgari, ut 
+      <lb ed="#B" n="36"/>docuerunt, ita etiam scripserunt. 3. Cum lingu 
+      <lb ed="#B" n="37"/>Chaldaica inciperet esse vernacula, in eam quoque 
+      <lb ed="#B" n="38"/>linguam facta est Scripturarum translatio. Targun 
+      <lb ed="#B" n="39"/>Jonathan annis 42 circiter ante natum Christum 
+      <lb ed="#B" n="40"/>prodiit. 4. Quamvis tempore Esdrae et Christi pura 
+      <lb ed="#B" n="41"/>Hebraica lingua non esset vernacula, tamen populu 
+      <lb ed="#B" n="42"/>eam adhuc intellexit, ut colligitur ex Luc. 4. v. 17. ub 
+      <lb ed="#B" n="43"/>Christus Esaiam in synagoga ita legit, ut omnius 
+      <lb ed="#B" n="44"/>oculi in ipsum essent intenti. Conf. Joh. 5, v. 3. 
+      <lb ed="#B" n="45"/>Act. 15, v. 21. c. 17, v. 11. c. 21, v. 40. c. 22, v. : 
+      <lb ed="#B" n="46"/>Bellarm. lib. 2. de verb. Dei c. 4: Hebraei, cum 
+      <lb ed="#B" n="47"/>abducti essent in Babylonem, coeperunt oblivise 
+      <lb ed="#B" n="48"/>linguam propriam et addiscere alienam, hoc es 
+      <lb ed="#B" n="49"/>Chaldaicam, quia tamen non perfecte eam pronur 
+      <lb ed="#B" n="50"/>tiare poterant et semper aliquid ex Hebraica reto 
+      <lb ed="#B" n="51"/>nebant, factum est, ut lingua quaedam tertia no 
+      <lb ed="#B" n="52"/>sceretur mixta ex Hebraica et Chaldaica, quae dicto 
+      <lb ed="#B" n="53"/>est Syriaca. Ea vero non tam radicibus et toto 
+      <lb ed="#B" n="54"/>genere, quam inflexione et literarum mutationibu 
+      <lb ed="#B" n="55"/>distat ab Hebraea estque ejus quasi xml:idiotismus 
+      <lb ed="#B" n="56"/>Utique ergo non fuerunt Hebraeae linguae prorst 
+      <lb ed="#B" n="57"/>ignari. 5. Historia Esdrae repugnat Bellarmini 
+      ser<lb ed="#B" n="58" break="no"/>tentiae. Si enim Esdras judicasset, a lectione sacre 
+      <lb ed="#B" n="59"/>rum librorum populum esse arcendum, utique ne 
+      <lb ed="#B" n="60"/>praelegisset eis librum legis, nec expositionem add 
+      <!--294.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>disset. Nec potest ex Esdrae historia probari, 
+      po<lb ed="#B" n="62" break="no"/>pulum Israëliticum non intellexisse scripturam He 
+      <lb ed="#B" n="63"/>braicam. Cap. 8, v. 3 dicitur: Legit Esdras in libri 
+      <lb ed="#B" n="64"/>legis a prima luce usque ad meridiem coram viris 
+      <lb ed="#B" n="65"/>et mulieribus E3727177 et intelligentibus, h. e. qui 
+      <lb ed="#B" n="66"/>intelligenter audiebant, qui per aetatem intelliger 
+      <lb ed="#B" n="67"/>poterant. v. 7: Levitae erant E*372n faciebant in 
+      <lb ed="#B" n="68"/>telligere populum legem. v. 8: et legerunt in 
+      libro<lb ed="#B" n="69" break="no"/>in lege Dei 7D exposita, 521 Srlj et est po 
+      <lb ed="#B" n="70"/>citus intellectus et intellexerunt lectionem 33733. 
+      <lb ed="#B" n="71"/>N3p33 h. e. dederunt intellectum per Scripturam 
+      <lb ed="#B" n="72"/>Sensus igitur est, quod populum excitarint ad 
+      <lb ed="#B" n="73"/>attentionem, quod legerint explanate et distincte, 
+      <lb ed="#B" n="74"/>ae si quis locus obscurior occurrerit, eum ex colla 
+      <lb ed="#B" n="75"/>tione cum aliis perspicuis locis explicarunt. 6. Jol 
+      <lb ed="#B" n="76"/>7, v. 49 Pharisaei non de lingua vel verbis legi 
+      <lb ed="#B" n="77"/>populo ignotis loquuntur, ea enim singulis sabbati 
+      <lb ed="#B" n="78"/>audiebant, sed de genuino legis sensu. Salmeror 
+      <lb ed="#B" n="79"/>tom. 8. traet. 37. p. 295: Num quid qui legem non 
+      <lb ed="#B" n="80"/>norant, facilius credebant aut credunt? minime. Sec 
+      <lb ed="#B" n="81"/>qui legem norant, facillime credunt. Ille enim dixit. 
+      <lb ed="#B" n="82"/>Si crederetis Moysi, crederetis etiam mihi, et agnoscit 
+      <lb ed="#B" n="83"/>finem legis esse Christum ad justitiam omni credenti 
+      <lb ed="#B" n="84"/>Rupert. in h. I. et Luc. Brugens. Profecto turb. 
+      <lb ed="#B" n="85"/>illa verius contra dixisset, istud vanitatis concilium 
+      <lb ed="#B" n="86"/>et haec ecclesia malignantium, quae non facit legem 
+      <lb ed="#B" n="87"/>maledicti sunt. 7. Alii ex Pontificiis xml:id ipsum pro 
+      <lb ed="#B" n="88"/>bare conantur ex eo, quod verba Christi in cruo 
+      <lb ed="#B" n="89"/>prolata Eli, Eli, adstantes non intellexerint, unde 
+      <lb ed="#B" n="90"/>dixerunt: Eliam vocat iste. At rectius illud vel 
+      <lb ed="#B" n="91"/>militibus Romanis vel malitiosae Judaeorum 
+      de<lb ed="#B" n="92" break="no"/>torsioni tribuitur, ut in Harmon. pass. 
+      osten<lb ed="#B" n="93" break="no"/>dimus. 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e624">
+               <lb ed="#B" n="94"/>497. 2. Ex usu apostolorum. Apostoli per totum 
+      <lb ed="#B" n="95"/>orbem praedicarunt evangelium et ecclesias 
+      consti<lb ed="#B" n="96" break="no"/>tuerunt, et tamen non scripserunt evangelia 
+      au<lb ed="#B" n="97" break="no"/>epistolas linguis earum gentium, quibus praedica 
+      <lb ed="#B" n="98"/>bant, sed tantum Hebraice aut Graece, et ut quidam 
+      <lb ed="#B" n="99"/>volunt, Latine. Quod non scripserint ullis aliis lin 
+      <lb ed="#B" n="100"/>guis probat ex eo: 1. quia nullum exstat vestigium 
+      <lb ed="#B" n="101"/>scripti ullius apostolici nisi Graece. 2. Paulus 
+      Ro<lb ed="#B" n="102" break="no"/>manis scripeit Graece, cum tamen Romanis non 
+      <lb ed="#B" n="103"/>Graeca, sed Latina lingua esset vulgaris. Petru 
+      <lb ed="#B" n="104"/>et Jacobus scripserunt Graece Judaeis per orbem 
+      <lb ed="#B" n="105"/>dispersis, cum tamen illis non esset Hebraea vel 
+      <lb ed="#B" n="106"/>Graeca materna, sed lingua ejus regionis, in quo 
+      <lb ed="#B" n="107"/>habitabant. Johannes Gracce scripsit primam epi 
+      <lb ed="#B" n="108"/>stolam Parthis. Resp. 1. Apostoli praedicarunt. 
+      <lb ed="#B" n="109"/>evangelium cuique populo et genti in lingua 
+      ver<lb ed="#B" n="110" break="no"/>nacula. Jam vero eadem, quae apostoli praedica 
+      <lb ed="#B" n="111"/>runt, in scriptis ipsorum continentur. Ergo 
+      piacu<lb ed="#B" n="112" break="no"/>lum nullum, si ea in linguas vernaculas translat 
+      <lb ed="#B" n="113"/>cuilibet populo proponantur. 2. Ideo scripserunt 
+      <lb ed="#B" n="114"/>Graece, quia haec lingua eo tempore erat omnium 
+      com<lb ed="#B" n="115" break="no"/>munissima ac nota illis, ad quos scripserunt. 3. Ec 
+      <lb ed="#B" n="116"/>elesia primitiva apostolica aliquamdiu caruit N. T. 
+      <lb ed="#B" n="117"/>Scripturis, erant enim adhuc in vivis apostoli 
+      im<lb ed="#B" n="118" break="no"/>mediato Spiritus sancti afflatu instructi, a quibus 
+      <lb ed="#B" n="119"/>veritatem discere poterant, quanto magis version 
+      <lb ed="#B" n="120"/>bus Scripturarum in linguam vernaculam carere po¬ 
+      <!--295.xml-->
+      <pb ed="#B" n="222"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tuerunt? 4. Progressu temporis secutae sunt vel 
+      <lb ed="#B" n="2"/>siones variae, ut superius ostendimus. 5. Si ex eo 
+      <lb ed="#B" n="3"/>quod apostoli duntaxat in lingua Graeca scripserint 
+      <lb ed="#B" n="4"/>colligi posset non esse transferendas Scripturas in 
+      <lb ed="#B" n="5"/>linguam vernaculam, utique etiam sequeretur 
+      Rom<lb ed="#B" n="6" break="no"/>nenses non debere Scripturas legere in versionibus 
+      <lb ed="#B" n="7"/>Latinis, cum nemo apostolorum Latine scripserit 
+      <lb ed="#B" n="8"/>Quae enim de evangelio Marci Latine scripto nu 
+      <lb ed="#B" n="9"/>gatur Baronius tom. 1. annal. ann. 45. ad ea re 
+      <lb ed="#B" n="10"/>spondemus verbis ipsius Bellarmini libr. 2. de veri 
+      <lb ed="#B" n="11"/>Dei cap. 4: Quia hujus rei nulla exstat mentio 
+      <lb ed="#B" n="12"/>apud veteres, xml:ideo non facile adduci possumus, u 
+      <lb ed="#B" n="13"/>credoma 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e720">
+               <lb ed="#B" n="14"/>498. 3. Ex usu universalis ecclesiae, quae sem 
+      <lb ed="#B" n="15"/>per his tantum linquia Hebraea, Graeca et Latina 
+      <lb ed="#B" n="16"/>usa est in communi et publico Scripturarum usu 
+      <lb ed="#B" n="17"/>August. libr. 2. de doctr. Christ. c. 11. ad intella 
+      <lb ed="#B" n="18"/>gentiam Scripturarum trium linguarum cognitiones 
+      <lb ed="#B" n="19"/>Hebraeae scil., Graecae et Latinae dicit esse ne 
+      <lb ed="#B" n="20"/>cessariam. Tempore Hieronymi in toto oriente in 
+      <lb ed="#B" n="21"/>publico usu erat tantum editio Graeca LXX inter 
+      <lb ed="#B" n="22"/>pretum. Resp. 1. Si vel maxime demonstrari posse 
+      <lb ed="#B" n="23"/>Scripturas non nisi in lingua Hebraea, Graeca e 
+      <lb ed="#B" n="24"/>Latina aliquamdiu apud quasdam ecclesias exst 
+      <lb ed="#B" n="25"/>tisse, nondum tamen sequeretur, piaculum esse, ea 
+      <lb ed="#B" n="26"/>in linguam vernaculam transferre, a negatione enim 
+      <lb ed="#B" n="27"/>facti ad negationem juris non valet illatio. 2. Jar 
+      <lb ed="#B" n="28"/>vero ostendimus superius, et V. et N. T. libros in 
+      <lb ed="#B" n="29"/>linguas populo cuique vernaculas esse translator 
+      <lb ed="#B" n="30"/>3. Ac repetimus nostrum argumentum: prophetae e 
+      <lb ed="#B" n="31"/>apostoli, ut praedicarunt, ita quoque scripserum 
+      <lb ed="#B" n="32"/>lingua vernacula iis, quibus praedicarunt, et a 
+      <lb ed="#B" n="33"/>quos scripserunt. Ergo etiam scripta eorum in lin 
+      <lb ed="#B" n="34"/>p. gua cuique populo vernacula proponi possunt. 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e768">
+               <lb ed="#B" n="35"/>499. 4. Ex ratione. Convenit ad ecclesiae uni 
+      <lb ed="#B" n="36"/>tatem conservandam, ut publicus usus Scripturarum 
+      <lb ed="#B" n="37"/>sit in aliqua lingua communissima, alias tolletus 
+      <lb ed="#B" n="38"/>ecclesiarum communicatio, nec poterunt fieri ullo 
+      <lb ed="#B" n="39"/>generalia concilia, cum non omnes patres habean 
+      <lb ed="#B" n="40"/>donum linguarum. Resp. 1. Propter eandem eceli 
+      <lb ed="#B" n="41"/>siae unitatem etiam Latina tantum lingua utendum 
+      <lb ed="#B" n="42"/>fuerit. 2. Sufficit vero ad ecclesiae unitatem, quod 
+      <lb ed="#B" n="43"/>Hebraeus textus in V. et Graecus in N. T. est. 
+      <lb ed="#B" n="44"/>manet authenticus, ad cujus normam omnes versio 
+      <lb ed="#B" n="45"/>nes exigendae. 3. Ad concilia convocandi sunt 
+      no<lb ed="#B" n="46" break="no"/>homines rudes et indocti, sed linguarum periti, qu 
+      <lb ed="#B" n="47"/>ex ipsis fontibus possint de controversiis judicare 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e799">
+               <lb ed="#B" n="48"/>506. 5. Ab incommodo. Si ulla esset ratio, cui 
+      <lb ed="#B" n="49"/>Scripturae linqua vulgari in coetu fidelium legi de 
+      <lb ed="#B" n="50"/>bereni, ea certe esset potissima, ut omnes intelliqo 
+      <lb ed="#B" n="51"/>rent. At certe populus non intelligeret prophetas et 
+      <lb ed="#B" n="52"/>psalmos et alia, quae in ecclesiis legerentur, etiam 
+      <lb ed="#B" n="53"/>ei lingua materna legerentur, si non accederet ex 
+      <lb ed="#B" n="54"/>positio. Quid, quod populus non solum non 
+      caper<lb ed="#B" n="55" break="no"/>fructum ex Scripturis, sed etiam detrimentum 
+      ca<lb ed="#B" n="56" break="no"/>peret? acciperet enim facillime occasionem errand 
+      <lb ed="#B" n="57"/>tum in doctrina fidei, tum in praeceptis vitae a 
+      <lb ed="#B" n="58"/>morum. Nam ex Scriptura non intellecta nata 
+      <lb ed="#B" n="59"/>cunt omnes haereses, ut patet ex erroribus 
+      Anthro<lb ed="#B" n="60" break="no"/>pomorphitarum, Thaboritarum, Davidis Georgii eto 
+      <!--295.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Cum hoc Bellarmini discursu congruit illud Alphons 
+      <lb ed="#B" n="62"/>de Castro lib. 3. de juste puniend. haeretic. c. 6. 
+      <lb ed="#B" n="63"/>Scripturarum translatio in linguam vulgarem ea 
+      <lb ed="#B" n="64"/>causa omnium haeresium. Itemque illud Costeri in 
+      <lb ed="#B" n="65"/>Enchir. Non aliunde tot haereses et schismata 
+      <lb ed="#B" n="66"/>quam quod quilibet ad suum judicium Scriptura 
+      <lb ed="#B" n="67"/>interpretatur. Resp. 1. Non possunt quidem primo 
+      <lb ed="#B" n="68"/>intuitu et in cursoria lectione omnia intelligi, sed 
+      <lb ed="#B" n="69"/>requiritur studium, intentio, assidua meditatio. 2. In 
+      <lb ed="#B" n="70"/>terim tamen aliquid salutare ex illa populus 
+      intelli<lb ed="#B" n="71" break="no"/>git, necessaria enim manifesta sunt. 3. Etiam es 
+      <lb ed="#B" n="72"/>quae non statim primo intuitu intelliguntur, legere 
+      <lb ed="#B" n="73"/>expedit, mittet Deus aliquando Philippum aliquem 
+      <lb ed="#B" n="74"/>ad intelligentiam obscuriorum aditum nobis 
+      patefa<lb ed="#B" n="75" break="no"/>cientem Actor. 8, v. 26. 4. Ex Bellarmini ratioci 
+      <lb ed="#B" n="76"/>natione sequeretur, Scripturas plane non esse ver 
+      <lb ed="#B" n="77"/>cendas, ne quidem in Latinam linguam. Ad ob 
+      <lb ed="#B" n="78"/>jectum, quod Scripturae lectio sit causa errorum 
+      <lb ed="#B" n="79"/>et haeresium. Resp. 1. Christus testatur Matth. 22. 
+      <lb ed="#B" n="80"/>v. 29. ignorantiam Scripturarum esse causam haere 
+      <lb ed="#B" n="81"/>sium, quod repetitur in jure canonico e. Si juxt 
+      <lb ed="#B" n="82"/>dist. 38. 2. Nec ex lectione et meditatione, sed 
+      e<lb ed="#B" n="83" break="no"/>detorsione et depravatione Scripturae oriuntur hae 
+      <lb ed="#B" n="84"/>reses, sicut ex rosa apis sugit, unde mel conficiat 
+      <lb ed="#B" n="85"/>aranea, unde virus. Lectionem Scripturae laicis 
+      <lb ed="#B" n="86"/>concedimus, detorsionem prohibemus. 3. Scriptura 
+      <lb ed="#B" n="87"/>est utilis πρὸς ἔλεγχον 2. Tim. 3, v. 16. Ergo Seri 
+      <lb ed="#B" n="88"/>ptura est armatura adversus haereses, tantum abes 
+      <lb ed="#B" n="89"/>ut ex ea haereses errores suos mutuentur. 4. 
+      Ser<lb ed="#B" n="90" break="no"/>ptura fraudes haereticorum detegit et convinci 
+      <lb ed="#B" n="91"/>unde plurimi lectione Scripturarum ab haeresium 
+      <lb ed="#B" n="92"/>vinculis liberati ad veritatis cognitionem aspirarum 
+      <lb ed="#B" n="93"/>5. Aliud est juxta Scripturae normam et fidei ana 
+      <lb ed="#B" n="94"/>logiam in perspicuis Scripturae locis propositam de 
+      <lb ed="#B" n="95"/>controversiis judicare, quod laicis mandatum esse 
+      <lb ed="#B" n="96"/>ostendimus, aliud Scripturam ad suum judicium in 
+      <lb ed="#B" n="97"/>terpretari, quod et laicis et elericis prohibitum esse 
+      <lb ed="#B" n="98"/>dicimus. 6. Nec permittimus laicis de gravissimis 
+      <lb ed="#B" n="99"/>et subtilissimis quibusque quaestionibus temere ju 
+      <lb ed="#B" n="100"/>dicium ferre, sed praecipua ac fundamentalia fides 
+      <lb ed="#B" n="101"/>capita ac vitae regulas ex Scripturis petere jube 
+      <lb ed="#B" n="102"/>mus, atque interim publicae interpretationis et 
+      ecele<lb ed="#B" n="103" break="no"/>siastici ministerii χειραγωγίᾳ uti, et dona Dei in 
+      <lb ed="#B" n="104"/>aliis reverenter agnoscere. Ad objectum, quod 
+      Scr<lb ed="#B" n="105" break="no"/>pturae lectio pariat scandalum vitae ac morum, re 
+      <lb ed="#B" n="106"/>spondimus superius §. 493; hoc loco monemus bri 
+      <lb ed="#B" n="107"/>viter, 1. tollant prius publica lupanaria et notoris 
+      <lb ed="#B" n="108"/>scandala, antequam illi hypocritae colantes culicen 
+      <lb ed="#B" n="109"/>et deglutientes camelum de scandalo ex Scriptura 
+      <lb ed="#B" n="110"/>rum lectione metuendo sint soliciti. Quidam nume 
+      <lb ed="#B" n="111"/>rum scortorum, quem pontifex Romae tolerat, imo 
+      <lb ed="#B" n="112"/>censum ab illis aerario apostolico quotannis infert 
+      <lb ed="#B" n="113"/>contrahunt ad duodecim millia. Campegius 
+      refe<lb ed="#B" n="114" break="no"/>rente Sleidano lib. 4. ad legatos Argentinenses di 
+      <lb ed="#B" n="115"/>cebat, scire se, episcoporum hunc esse morem, u 
+      <lb ed="#B" n="116"/>accepta pecunia scortationem permittant. Ambro 
+      <lb ed="#B" n="117"/>sius Catharinus testatur, suo tempore in Italia 
+      <lb ed="#B" n="118"/>fuisse egregium pictorem Michaëlem Angelum, qui 
+      <lb ed="#B" n="119"/>admirabilis fuerit in exprimendo nuda hominum 
+      <lb ed="#B" n="120"/>corpora et pudenda, atque addit, hanc membrorum 
+      <!--296.xml-->
+      <pb ed="#B" n="223"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>nuditatem indecentissime in aris et praecipuis 
+      De<lb ed="#B" n="2" break="no"/>cacellis ubique conspici. Quod est omnium teterri 
+      <lb ed="#B" n="3"/>mum, inquit, in excelsis templis ac sacellis 
+      ha<lb ed="#B" n="4" break="no"/>tempestate offendes picturas tantae lasciviae, u 
+      <lb ed="#B" n="5"/>quicquid natura occuluit, turpe nostrum, ibi liced 
+      <lb ed="#B" n="6"/>contemplari ad excitandam non devotionem, sec 
+      <lb ed="#B" n="7"/>cujusvis demortuae carnis libidinem, quod tantum 
+      <lb ed="#B" n="8"/>nefas nostra, hoc est, praelatorum culpa contir 
+      <lb ed="#B" n="9"/>gere, qui et haec nedum patiuntur turpissima spe 
+      <lb ed="#B" n="10"/>ctacula, sed eorum etiam nonnunquam auctores 
+      <lb ed="#B" n="11"/>sunt, nemo potest infitiari. Soliciti etiam prius 
+      <lb ed="#B" n="12"/>sint de scandalo ex lectione Amadisii et aliorum 
+      <lb ed="#B" n="13"/>librorum amatoriorum orto, antequam de scandale 
+      <lb ed="#B" n="14"/>ex Scripturae lectione metuendo sanctuli illi 
+      cogi<lb ed="#B" n="15" break="no"/>tent. 2. Quae jussit Deus omnibus scribere, es 
+      <lb ed="#B" n="16"/>etiam ab omnibus legi voluit. Sed quaecunque in 
+      <lb ed="#B" n="17"/>Scripturis exstant, ea jussit Deus omnibus scribere 
+      <lb ed="#B" n="18"/>Rom. 15, v. 4. 1. Cor. 10, v. 11. Ergo etiam a 
+      <lb ed="#B" n="19"/>omnibus ea legi voluit. Si quid vel scandali vel 
+      <lb ed="#B" n="20"/>periculi inde metuendum, culpa in Deum redum 
+      <lb ed="#B" n="21"/>dabit. 3. Illa sanctorum delicta scripta sunt non 
+      <lb ed="#B" n="22"/>ad imitationem, sed ad cautionem, correctionem e 
+      <lb ed="#B" n="23"/>consolationem, immediate enim subjungitur vel per 
+      <lb ed="#B" n="24"/>cantium et in peccatis perseverantium poena, vel 
+      <lb ed="#B" n="25"/>poenitentium in gratiam receptio et peccati venis 
+      <lb ed="#B" n="26"/>Sic ergo Davidem quis secutus est peccantem, se 
+      <lb ed="#B" n="27"/>quatur etiam Davidem poenitentem. Chrysostomu 
+      <lb ed="#B" n="28"/>homil. 29. in Genes. col. 229: Qui in peccatis es 
+      <lb ed="#B" n="29"/>non desperet visis tot, qui resipuerunt et ad sum 
+      <lb ed="#B" n="30"/>mum virtutis apicem pervenire potuerunt. Augusti 
+      <lb ed="#B" n="31"/>nus lib. 3. de doctrin. Christian. cap. 23: Ad 
+      ho<lb ed="#B" n="32" break="no"/>peccata magnorum virorum scripta sunt, ut ubique 
+      <lb ed="#B" n="33"/>apostolica illa sententia tremenda sit, qua ait: Qu 
+      <lb ed="#B" n="34"/>videtur stare, videat, ne cadat. Idem in Psalm. 50. 
+      <lb ed="#B" n="35"/>Multi cadere volunt cum Davide, nolunt autem sut 
+      <lb ed="#B" n="36"/>gere cum Davide. Non cadendi, sed resurgendi 
+      <lb ed="#B" n="37"/>exemplum nobis in illo est propositum. Audiant 
+      <lb ed="#B" n="38"/>qui non ceciderunt, ne cadant; audiant, qui cece 
+      <lb ed="#B" n="39"/>derunt, ut surgant. Non sit delectatio minorum 
+      <lb ed="#B" n="40"/>lapsus majorum, sed sit tremor minorum lapsus 
+      <lb ed="#B" n="41"/>majorum. Vide eund. lib. 22. contra Faust. c. 65. 
+      <lb ed="#B" n="42"/>et lib. 50. homiliarum hom. 21. 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1062">
+               <lb ed="#B" n="43"/>501. 6. A majestate divinorum officiorum. Mo 
+      <lb ed="#B" n="44"/>jestas divinorum officiorum videtur omnino reque 
+      <lb ed="#B" n="45"/>rere linguam magia gravem et venerancdam, quam 
+      <lb ed="#B" n="46"/>sunt illae, quibus vulgo utimur, si xml:id commod 
+      <lb ed="#B" n="47"/>fieri potest. Resp. 1. Ex hac ratione sequeretur 
+      <lb ed="#B" n="48"/>nihil quidquam de mysteriis divinis, ne quidem in 
+      <lb ed="#B" n="49"/>pericopis evangeliorum et epistolarum Dominicalium 
+      <lb ed="#B" n="50"/>in lingua vulgari proponendum. 2. Per usum lin 
+      <lb ed="#B" n="51"/>guae vulgaris nihil decedit divinorum mysteriorum 
+      <lb ed="#B" n="52"/>et officiorum majestati, sed in eorum notitiam 
+      ho<lb ed="#B" n="53" break="no"/>mines perducuntur, quo fine divinitus mysteria sunt 
+      <lb ed="#B" n="54"/>revelata. 3. Invertimus igitur argumentum. Ut 
+      gra<lb ed="#B" n="55" break="no"/>vitas ac majestas divinorum mysteriorum percipia 
+      <lb ed="#B" n="56"/>tur et in eorum notitiam, fidem et admirationem 
+      ho<lb ed="#B" n="57" break="no"/>mines perducantur, vulgari lingua sunt proponenda 
+      <lb ed="#B" n="58"/>Tob. 12, v. 7. 4. DEUS in paradiso non angelica 
+      <lb ed="#B" n="59"/>et incognita, sed vulgari lingua cum primis paren 
+      <lb ed="#B" n="60"/>tibus locutus, promissionem evangelicam edidit e¬ 
+      <!--296.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>divina miracula ultra bis mille annos in lingua Ho 
+      <lb ed="#B" n="62"/>braea Israëlitis vulgari conservavit. 5. Deus omne 
+      <lb ed="#B" n="63"/>omnino linguas consecravit et regni coelestis 
+      min<lb ed="#B" n="64" break="no"/>sterio destinavit. Act. 2, v.. 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1118">
+               <lb ed="#B" n="65"/>502. 7. Eae absurdo. Si Scripturae essent ver 
+      <lb ed="#B" n="66"/>iacula linqua legendae, oporteret singulis aetatibus 
+      <lb ed="#B" n="67"/>novas fieri versiones, quia singulis aetatibus linquae 
+      <lb ed="#B" n="68"/>mutantur. Resp. 1. Ex hoc argumento denuo se 
+      <lb ed="#B" n="69"/>queretur, Scripturas plane non esse vertendas in 
+      <lb ed="#B" n="70"/>alias linguas, quod cum a Chemnicio Pontificiis 
+      <lb ed="#B" n="71"/>esset objectum, Bellarminus dicit, ipsum impudenter 
+      <lb ed="#B" n="72"/>esse mentitum. 2. Primariae linguae non sunt toties, 
+      <lb ed="#B" n="73"/>singulis scil. aetatibus mutatae, licet xml:idiotismi va 
+      <lb ed="#B" n="74"/>rient, jam vero levis inflexio non efficit, ut 
+      prio<lb ed="#B" n="75" break="no"/>idiotismus non amplius intelligatur. 3. Neque quid 
+      <lb ed="#B" n="76"/>quam absurdi inde oritur, si statuatur, versiones 
+      ob<lb ed="#B" n="77" break="no"/>soletiores debere mutari et innovari 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1149">
+               <lb ed="#B" n="78"/>503. 8. Ex Hebraeae, Graecae et Latinae linquae 
+      <lb ed="#B" n="79"/>praestantia. Simus contenti tribus illis linguis, 
+      qua<lb ed="#B" n="80" break="no"/>Dominus in titulo crucis suae honoravit Johan. 1. 
+      <lb ed="#B" n="81"/>v. 20. et quae omnium consensu antiquitate, ampli 
+      <lb ed="#B" n="82"/>fudine et gravitate omnibus aliis praestant, et d 
+      <lb ed="#B" n="83"/>mum quibus ipsi libri divini ab initio scripti 
+      fu<lb ed="#B" n="84" break="no"/>runt, hoc est Hebraea, Graeca et Latina. Resp. I. 
+      <lb ed="#B" n="85"/>Ex allegoriis non ducuntur firma argumenta, nisi 
+      <lb ed="#B" n="86"/>ex ipsis Scripturis earum applicatio et explicatio 
+      <lb ed="#B" n="87"/>monstrari possit. 2. Tres hae linguae principales in 
+      <lb ed="#B" n="88"/>titulo crucis Christi usurpatae significabant 
+      evan<lb ed="#B" n="89" break="no"/>gelium Christi per totum terrarum orbem longe 
+      la<lb ed="#B" n="90" break="no"/>teque propagandum, quia hae linguae gesserunt vi 
+      <lb ed="#B" n="91"/>ces omnium linguarum, ut hoc loc. inquit Cajeta 
+      <lb ed="#B" n="92"/>nus. 3. Nec eo fine tres istae linguae in ἐπιγραφὴ 
+      <lb ed="#B" n="93"/>crucis adhibitae fuerunt, ut solae ad Scripturas 
+      sa<lb ed="#B" n="94" break="no"/>cras et cultum publicum consecrarentur, sed ut fama 
+      <lb ed="#B" n="95"/>de morte Christi per linguas omnibus tunc temporis 
+      <lb ed="#B" n="96"/>notas latissime spargeretur. Confer Harm. passion 
+      <lb ed="#B" n="97"/>in hoc loc. 4. Negamus ullum librum canonicum 
+      <lb ed="#B" n="98"/>lingua Latina ab ejus auctore esse scriptum, 
+      con<lb ed="#B" n="99" break="no"/>sequens ergo fuerit, versionem Scripturae in linguam 
+      <lb ed="#B" n="100"/>Latinam esse improbandam. 5. Si illis linguis de 
+      <lb ed="#B" n="101"/>beremus esse contenti, quibus libri divini ab initio 
+      <lb ed="#B" n="102"/>scripti fuerunt, nec V. T. libri in Graecum sermo 
+      <lb ed="#B" n="103"/>nem debuissent transferri, cum tamen pii veteres 
+      <lb ed="#B" n="104"/>Graecae isti LXX interpp. versioni plurimum, imo 
+      <lb ed="#B" n="105"/>interdum plus aequo tribuant 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1212">
+               <lb ed="#B" n="106"/>504. Quamvis vero Scripturae saerae in alias 
+      lin<lb ed="#B" n="107" break="no"/>guas versiones non improbemus, nullam tamen ver 
+      <lb ed="#B" n="108"/>sionem, quaecunque tandem illa sit, authenticam 
+      <lb ed="#B" n="109"/>agnoscimus, sed ab omnibus versionibus ad textum 
+      <lb ed="#B" n="110"/>priginalem provocari posse asserimus. Probamus 
+      <lb ed="#B" n="111"/>hoc ex eo: 1. quia solus textus Hebraeus in V. et 
+      <lb ed="#B" n="112"/>Graecus in N. T. est authenticus, ut ostendimus 
+      <lb ed="#B" n="113"/>superius c. XIII. §. 311. 2. quia nulla Scripturae 
+      editi<lb ed="#B" n="114" break="no"/>potest esse authentica, nisi sit θεόπνευστος 2. Tim. 
+      <lb ed="#B" n="115"/>3, v. 16. Sed versiones Scripturarum non sunt 
+      <lb ed="#B" n="116"/>θεόηνευστοι. Aliud est esse vatem, aliud inter 
+      <lb ed="#B" n="117"/>pretem, inquit Hieronymus in praefat. Pentateuch. 
+      <lb ed="#B" n="118"/>3. Rivuli non possunt fontibus aequiparari. Versio 
+      <lb ed="#B" n="119"/>nes omnes sunt rivuli. Ergo fontibus veritatis, ind 
+      <lb ed="#B" n="120"/>est textui Hebraeo in V. et Graeco in N. T. aequi 
+      <!--297.xml-->
+      <pb ed="#B" n="224"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>parari nequeunt. 4. Normatum, qua tale, non pot 
+      <lb ed="#B" n="2"/>est esse norma. Versiones omnes ad textum origi 
+      <lb ed="#B" n="3"/>nalem et authenticum habent se ut normatum 
+      a<lb ed="#B" n="4" break="no"/>normam, ut regulatum ad regulam. 5. Praxis eccli 
+      <lb ed="#B" n="5"/>siae Israëliticae et Christianae ostendit, nullas 
+      <lb ed="#B" n="6"/>omnino versionem in authenticae auctoritatis solium 
+      <lb ed="#B" n="7"/>esse collocandam. Atque haec de auctoritate ver 
+      <lb ed="#B" n="8"/>sionum in genere monemus, in specie de potioribi 
+      <lb ed="#B" n="9"/>et usitatioribus paucis disseremus. 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1273">
+               <lb ed="#B" n="10"/>SECTIO I. 
+      <lb ed="#B" n="11"/>DE CHALDAICA V. T. VERSIONE 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1280">
+               <lb ed="#B" n="12"/>505. Diximus in traet. de method. stud. theolog. 
+      <lb ed="#B" n="13"/>part. 2. sect. 1. cap. 3. triplex exstare 
+      Targun<lb ed="#B" n="14" break="no"/>1. Babylonicum, cujus auctor est Jonathan, filiu 
+      <lb ed="#B" n="15"/>Uzielis discipulus Hillelis et Simeonis Justi cor 
+      <lb ed="#B" n="16"/>discipulus, qui ante templi secundi devastationem 
+      <lb ed="#B" n="17"/>annis centum, xml:id est, ante natum Christum anni 
+      <lb ed="#B" n="18"/>circiter 42 V. T. in linguam Chaldaicam transtuli 
+      <lb ed="#B" n="19"/>(** Jonathan totum quidem vertit V. T. corpus testa 
+      <lb ed="#B" n="20"/>Galatino, sed exstat tantum in priores et posteriores 
+      <lb ed="#B" n="21"/>prophetas, xml:id est, Josuam, Judices, Samuelem, Re 
+      <lb ed="#B" n="22"/>ges, Esaiam, Jeremiam, Ezechielem et duodecir 
+      <lb ed="#B" n="23"/>minores **). 2. Onkelosii, cujus auctor est Onkelo 
+      <lb ed="#B" n="24"/>R. Eleazaris magni discipulus, Titi imperatoris e, 
+      <lb ed="#B" n="25"/>sorore nepos, qui post devastationem templi secunc 
+      <lb ed="#B" n="26"/>annis fere centum post Jonathanem paraphrasi 
+      <lb ed="#B" n="27"/>suam conscripsit. ** Onkelosium nonnulli atque in 
+      <lb ed="#B" n="28"/>iis Bellarminus, Adam esse existimant. Sed Gala 
+      <lb ed="#B" n="29"/>tinus distinguit notatque Judaeos hunc asserei 
+      <lb ed="#B" n="30"/>fuisse filium sororis Titi imp. factumque proselytum 
+      <lb ed="#B" n="31"/>Testatur etiam, transtulisse totum V. T., non exstare 
+      <lb ed="#B" n="32"/>tamen nisi Pentateuchum. Reliqua tribui tum Aqui 
+      <lb ed="#B" n="33"/>lae, tum Josepho cuidam caeco, quos fabulis Judai 
+      <lb ed="#B" n="34"/>cis intentiores fuisse docti conqueruntur.** 3. Hics 
+      <lb ed="#B" n="35"/>, rosolymitanum, utroque posterius, commentarii potius 
+      <lb ed="#B" n="36"/>quam paraphraseos locum obtinens. Sed si vers 
+      <lb ed="#B" n="37"/>sunt, quae scribit Reuchlin. lib. 1. de verb. miris. 
+      <lb ed="#B" n="38"/>c. 13. antiquorum philosophorum tempore coepiss. 
+      <lb ed="#B" n="39"/>sacram Hebraeorum Scripturam tanto in honore 
+      <lb ed="#B" n="40"/>l. inque tanta et tam frequenti veneratione apud Bo 
+      <lb ed="#B" n="41"/>bylonios haberi, usque adeo, ut illam ex propri 
+      <lb ed="#B" n="42"/>in Chaldaicam linguam traducere curarent, xml:idque 
+      <lb ed="#B" n="43"/>circa 56. olympladem, hoc est, aetate Thaletis, qu 
+      <lb ed="#B" n="44"/>tempore Esaiae vixisse traditur ab Ottone 
+      Frisin<lb ed="#B" n="45" break="no"/>gensi lib. 2. c. 5. necesse est, aliam exstitisse ver 
+      <lb ed="#B" n="46"/>sionem Chaldaicam omnibus illis tribus Targumii 
+      <lb ed="#B" n="47"/>antiquiorem, quam quae hodie exstat. Confer 
+      He<lb ed="#B" n="48" break="no"/>vicum tractat. de Chaldaic. paraphr. e. 2. pag. 12 
+      <lb ed="#B" n="49"/>ubi probat plures Targumim olim exstitisse 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1365">
+               <lb ed="#B" n="50"/>506. Judaei huic Chaldaicae versioni plurimur 
+      <lb ed="#B" n="51"/>tribuunt, unde in libro Bava Bathra scribitur, quod 
+      <lb ed="#B" n="52"/>in hora, qua Jonathan huic versioni vacabat, si 
+      <lb ed="#B" n="53"/>musca aut quodcunque volatile super eum vel 
+      supe<lb ed="#B" n="54" break="no"/>chartam volasset, ilico absque ulla ejus aut charto 
+      <!--297.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="55"/>laesione caelitus exusta fuerint. Item, quod angel 
+      <lb ed="#B" n="56"/>e coelo advolarint auscultandi causam, quando 
+      stu<lb ed="#B" n="57" break="no"/>diis operam dedit. Libro Succa fol. 28. quin 
+      im<lb ed="#B" n="58" break="no"/>aequalem auctoritatem tribuunt Targumim cum ipse 
+      <lb ed="#B" n="59"/>textu Hebraico, neque ullus Judaeorum audet eis 
+      <lb ed="#B" n="60"/>contradicere. Scribunt enim Thalmudistae allegant 
+      <lb ed="#B" n="61"/>Juchasin fol. 45, quod JJonathan acceperit doctri 
+      <lb ed="#B" n="62"/>nam suam targumicam a Zacharia, Haggaeo e 
+      <lb ed="#B" n="63"/>Malachia prophetis, Onkelos vero a R. Eliezer e 
+      <lb ed="#B" n="64"/>R. Jehosua, qui et ipsi a prophetis acceperint 
+      <lb ed="#B" n="65"/>Item, quod Jonathane interpretante Scripturam 
+      <lb ed="#B" n="66"/>tota Palaestina terrae motu concussa fuerit, et voa 
+      <lb ed="#B" n="67"/>e coelo demissa clamaverit: Quis est iste, qui filii 
+      <lb ed="#B" n="68"/>hominum mea arcana revelet? Jonathas vero re 
+      <lb ed="#B" n="69"/>sponderit: Ego facio, verum non ad gloriam 
+      <lb ed="#B" n="70"/>meam, neque ad gloriam patris mei, sed ad tuam 
+      <lb ed="#B" n="71"/>gloriam. In libr. Megilla c. 1. quin etiam non ve 
+      <lb ed="#B" n="72"/>rentur affirmare, quod a Moyse in monte Sinai 
+      <lb ed="#B" n="73"/>primum fuerit accepta, et senioribus ac prophetis 
+      <lb ed="#B" n="74"/>tradita Chaldaica paraphrasis, sed postquam in 
+      <lb ed="#B" n="75"/>captivitate Babylonica oblivione fuerit sepulta, hoc 
+      <lb ed="#B" n="76"/>paraphrastas eam in lucem iterum revocasse. Nos 
+      <lb ed="#B" n="77"/>contra, quamvis utile esse statuamus, Chaldaicam 
+      <lb ed="#B" n="78"/>versionem Hebraico textui conjungere tum propte 
+      <lb ed="#B" n="79"/>auctoritatem, quam obtinet apud Judaeos, quibus 
+      <lb ed="#B" n="80"/>fortissime opponi potest, tum propter 
+      expositioni<lb ed="#B" n="81" break="no"/>in plerisque locis perspicuitatem, ubicunque enim in 
+      <lb ed="#B" n="82"/>Hebraica veritate tecto nomine de Christo agitur. 
+      <lb ed="#B" n="83"/>ibi fere semper in Chaldaica paraphrasi expresse 
+      <lb ed="#B" n="84"/>nomen Messiae ponitur: tamen negamus, Chaldai 
+      <lb ed="#B" n="85"/>cam versionem esse anthenticam, vel Hebraeo textu 
+      <lb ed="#B" n="86"/>aequiparandam. Nam. I. versio est, proinde minime 
+      <lb ed="#B" n="87"/>authentica. 2. Ex Graeca LXX interpretum versione 
+      <lb ed="#B" n="88"/>non modica sui parte in locis obscurioribus est cor 
+      <lb ed="#B" n="89"/>flata, teste Munstero in praefat. super Jonam 
+      qua<lb ed="#B" n="90" break="no"/>driling. 3. Judaicas quasdam fabulas et corruptela 
+      <lb ed="#B" n="91"/>continet, Num. 21, v. 19 ponitur fabula de puteo, quem 
+      <lb ed="#B" n="92"/>singunt Hebraei descendisse cum filiis Israël ad tor 
+      <lb ed="#B" n="93"/>rentes, et de torrentibus ascendisse cum eis ad colles. 
+      <lb ed="#B" n="94"/>et de collibus rursum descendisse ad valles, quae fabula, 
+      <lb ed="#B" n="95"/>Rabbinica ex falsa loci illius interpretatione nata 
+      <lb ed="#B" n="96"/>4. In quibusdam a fontibus veritatis, xml:id est, a textu 
+      <lb ed="#B" n="97"/>Hebraeo discedit. Genes. 4, 23. dicit, Lamechur 
+      <lb ed="#B" n="98"/>non occidisse virum (Frane. Junius respondet, xml:id 
+      <lb ed="#B" n="99"/>accipiendum esse ἐρωτηματικῶς ut &amp;ò accipiatur po 
+      <lb ed="#B" n="100"/>situm pro &amp;37½ nonne, an non, cujus significationis 
+      <lb ed="#B" n="101"/>exempla recitat Schindl. in lex. p. 929. Helvicu 
+      <lb ed="#B" n="102"/>respondet, Onkelon non simpliciter negare, quod 
+      <lb ed="#B" n="103"/>Lamechus virum occiderit, sed determinate, quod 
+      <lb ed="#B" n="104"/>scilicet non ita occiderit, ut sibi suaeque posteritati 
+      <lb ed="#B" n="105"/>sit damno aut exitio, quomodo etiam Jonathan inter 
+      <lb ed="#B" n="106"/>pretatur) Levit. 10, v. 6. e. 21, v. 20: Ne alatis co 
+      <lb ed="#B" n="107"/>mam in capitibus vestris. In Hebraeo est contra 
+      <lb ed="#B" n="108"/>rium: Ne radatis capita vestra. (Quidam respor 
+      <lb ed="#B" n="109"/>dent, in Hebraeo esse verbum 3O, quod significe 
+      <lb ed="#B" n="110"/>liberum facere, liberum permittere, unde pro aper 
+      <lb ed="#B" n="111"/>tione capitis ponatur Numer. 5, v. 18. et hoc sensu 
+      <lb ed="#B" n="112"/>communiter exponi ab interpretibus Levit. 10, v. 21. 
+      <lb ed="#B" n="113"/>de apertione capitis et remotione pili. Sunt qui e 
+      <lb ed="#B" n="114"/>Hebraeorum traditionibus hoc loco verbum expo 
+      <!--298.xml-->
+      <pb ed="#B" n="225"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>nunt de luxuria comae: Non lucuriari seu nimium 
+      <lb ed="#B" n="2"/>crescere sinetis comam, quia lugentium mos olim 
+      <lb ed="#B" n="3"/>erat alere eomam, et in signum luctus abstinere? 
+      <lb ed="#B" n="4"/>rasura, neglectisque capillis incedere, xml:id quod 
+      <lb ed="#B" n="5"/>summo pontifici non licuisse ajunt) Numer. 28 
+      <lb ed="#B" n="6"/>v. 9, ubi textus Hebraeus habet: Populus 
+      solu<lb ed="#B" n="7" break="no"/>habitabit; Chaldaeus reddidit: Ecce populus possi 
+      <lb ed="#B" n="8"/>debit seculum, xml:id enim illi exspectant, in quo 
+      domi<lb ed="#B" n="9" break="no"/>nentur. Deuter. 4. v. 28. c. 28. v. 64, ubi Scriptur. 
+      <lb ed="#B" n="10"/>praedicit, fore ut Hebraei serviant diis alienia 
+      <lb ed="#B" n="11"/>Chaldaeus hoc scelus ab Hebraeis derivat ad gente 
+      <lb ed="#B" n="12"/>Plura de Targumim vide apud Fagium praefat. in 
+      <lb ed="#B" n="13"/>Chald. paraphr. pentat. a se conversam, Near 
+      <lb ed="#B" n="14"/>drum in erotem. sanct. linguae pag. 108, Helvicur 
+      <lb ed="#B" n="15"/>diet. Iod 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1553">
+               <lb ed="#B" n="16"/>SECTIO II 
+      <lb ed="#B" n="17"/>DE GRAECA V. T. VERSIONE. 
+</p>
+            <p xml:id="zef3dd-d1e472-d1e1560">
+               <lb ed="#B" n="18"/>507. Diximus in tractat. de methodo studii theolog. 
+      <lb ed="#B" n="19"/>part. 2. sect. 1. c. 4 varias olim exstitisse Graeca 
+      <lb ed="#B" n="20"/>V. T. versiones, sed quae succedente celebri illl 
+      <lb ed="#B" n="21"/>LXX interpp. versione usurpari desierint. ** Apu 
+      <lb ed="#B" n="22"/>Clem. Alexandr. legitur Stromat. 1. versas fuisse in 
+      <lb ed="#B" n="23"/>Graecum Scripturas etiam ante tempora Alexandro 
+      <lb ed="#B" n="24"/>indeque Platonem nonnulla hausisse. At hoc 
+      vi<lb ed="#B" n="25" break="no"/>est verisimile. Genebrardus tamen assentitur puta 
+      <lb ed="#B" n="26"/>que translatum duntaxat Pentateuchum, xml:idque in 
+      <lb ed="#B" n="27"/>posuisse iis, qui negarent totum corpus versum 
+      <lb ed="#B" n="28"/>Septuaginta** Augustin. lib. 18. de civ. Dei c. 4. 
+      <lb ed="#B" n="29"/>Cum fuerint et alii interpretes, qui ex Hebraea lis 
+      <lb ed="#B" n="30"/>qua in Graecam sacra eloquia transtulerunt, sicus 
+      <lb ed="#B" n="31"/>Aquila, Symmachus, Theodotion, sicut etiam es 
+      <lb ed="#B" n="32"/>illa interpretatio, cujus auctor non apparet, et oc 
+      <lb ed="#B" n="33"/>hoc sine nomine interpretis quinta editio nuncupa 
+      <lb ed="#B" n="34"/>tur, hanc tamen, quae LXX est, tanquam sola esset 
+      <lb ed="#B" n="35"/>sic recipit ecclesia, eaque utuntur Graeci 
+      popul<lb ed="#B" n="36" break="no"/>Christiani, quorum plerique, utrum aliqua sit alio 
+      <lb ed="#B" n="37"/>ignorant. Occasionem illius versionis ibidem ex 
+      Ari<lb ed="#B" n="38" break="no"/>staeo, Josepho, Philone et Justino exposuimus. 
+      Pri<lb ed="#B" n="39" break="no"/>mitivae ecclesiae Christianae doctores, quia plerique 
+      <lb ed="#B" n="40"/>Hebraeae linguae minus gnari fuerunt, plurimum 
+      <lb ed="#B" n="41"/>omnino Graecae huic versioni tribuunt. August 
+      <lb ed="#B" n="42"/>4. lib. 15. de civit. Dei c. 23: Merito creduntur LX. 
+      <lb ed="#B" n="43"/>interpp. accepisse spiritum propheticum, ut si quio 
+      <lb ed="#B" n="44"/>ejus auctoritate mutarent, atque aliter quam erat, 
+      <lb ed="#B" n="45"/>quod interpretabantur, dicerent, neque hoc divin 
+      <lb ed="#B" n="46"/>tus euse dictum dubitaretur. Irenae. lib. 3. ad 
+      <lb ed="#B" n="47"/>haeres. c. 25. p. 116. secutus Justinum in orat. ex 
+      <lb ed="#B" n="48"/>hortat. ad gent. singulos in singulis cellulis inclusos 
+      <lb ed="#B" n="49"/>et a singulis totam Scripturam iisdem verbis 
+      no<lb ed="#B" n="50" break="no"/>sine miraculo redditam asserit: Ptolemaeus (inquis 
+      <lb ed="#B" n="51"/>experimentum eorum (seniorum) sumere volens e 
+      <lb ed="#B" n="52"/>metuena, ne forte consentientes eam veritatem, qua 
+      <lb ed="#B" n="53"/>csset in Scripturis, absconderent per interpretationem 
+      <lb ed="#B" n="54"/>deparana eos ab invicem juesit omnes eandem inter 
+      <!--298.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="55"/>pretari Scripturam et hoc in omnibus libria feciù 
+      <lb ed="#B" n="56"/>Convenientibus autem ipsis in unum apud 
+      Ptol<lb ed="#B" n="57" break="no"/>maeum et comparantibus suas interpretationes, 
+      <lb ed="#B" n="58"/>Deus glorificatus est, et Scripturae vere divinae 
+      <lb ed="#B" n="59"/>sunt creditae, omnibus eandem et eisdem verbis e 
+      <lb ed="#B" n="60"/>eisdem nominibus recitantibus ab initio usque ac 
+      <lb ed="#B" n="61"/>finem, uti et praesentes gentes cognoscerent, quo 
+      <lb ed="#B" n="62"/>niam per aspirationem Dei interpretatae sunt 
+      Scri<lb ed="#B" n="63" break="no"/>pturae. Petrus et Johannes et Matthaeus et Paulu 
+      <lb ed="#B" n="64"/>et reliqui deinceps et horum sectatores prophetica 
+      <lb ed="#B" n="65"/>omnia ita annuntiaverunt, quemadmodum seniorum 
+      <lb ed="#B" n="66"/>interpretatio continet. Unus enim et xml:idem Spiritus 
+      <lb ed="#B" n="67"/>DEI, qui in prophetis quidem praeconiavit, quis e 
+      <lb ed="#B" n="68"/>qualis esset adventus DOMINI, in senioribus 
+      au<lb ed="#B" n="69" break="no"/>tem interpretatus est bene, quae bene prophetata 
+      fu<lb ed="#B" n="70" break="no"/>rant, ipse et in apostolis annuntiavit plenitudinem 
+      <lb ed="#B" n="71"/>temporum adoptionis venisse. Addit etiam, se vesto 
+      <lb ed="#B" n="72"/>gia istarum cellularum apud Alexandriam vidisse 
+      <lb ed="#B" n="73"/>Justino et Irenaeo assentiuntur Clemens Alexandi 
+      <lb ed="#B" n="74"/>lib. 3. Stromat. Cyrillus Hierosolymitanus catech. 
+      <lb ed="#B" n="75"/>4. et ali¬ 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1693">
+               <lb ed="#B" n="76"/>508. Sed non possumus Graecae isti version 
+      <lb ed="#B" n="77"/>auctoritatem authenticam tribuere vel Hebrae 
+      <lb ed="#B" n="78"/>textui eam aequiparare. Nam. I. versio est, minim 
+      <lb ed="#B" n="79"/>igitur authentica et ejusdem cum Hebraeo textu 
+      <lb ed="#B" n="80"/>auctoritatis. 2. in multis discrepat a fonte Hebraeo 
+      <lb ed="#B" n="81"/>praesertim in Psalmis. Quaedam habet, quae non 
+      <lb ed="#B" n="82"/>sunt in textu Hebraeo; quaedam omittit, quae in 
+      <lb ed="#B" n="83"/>Hebraeo habentur, ut Hieronymus praefat. in Per. 
+      <lb ed="#B" n="84"/>tat. in epist. ad Suniam et alibi passim ostendit; 
+      <lb ed="#B" n="85"/>inde Origenes in suis hexaplis LXX interpp. ver 
+      <lb ed="#B" n="86"/>sionem ita concinnavit, ut ex ea sola uno adspectu 
+      <lb ed="#B" n="87"/>quid omnino in Hebraeo esset, quidve non esset, ju 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1722">
+               <lb ed="#B" n="88"/>Nam quia illi interprete 
+      <lb ed="#B" n="89"/>dicari commode posset. 
+      <lb ed="#B" n="90"/>passim multa de suo addiderunt explicandarum 
+      <lb ed="#B" n="91"/>rerum quae tractantur gratia, multa etiam 
+      tam<lb ed="#B" n="92" break="no"/>quam supervacanea consulto omiserunt, quaecunque 
+      <lb ed="#B" n="93"/>supra xml:id, quod in Hebraeo continebatur, addita ess 
+      <lb ed="#B" n="94"/>videbat, ea additis obeliscis velut jugulavit, quae 
+      <lb ed="#B" n="95"/>detracta erant, ex Theodotionis interpretatione sub 
+      <lb ed="#B" n="96"/>stituit et asteriscis notavit. 3. non fuit semper in 
+      <lb ed="#B" n="97"/>ecclesiae usu, teste enim Sigeberto in Chronic. 
+      pos<lb ed="#B" n="98" break="no"/>Hieronymi versionem in secundis haberi fuit coepta 
+      <lb ed="#B" n="99"/>4. mendas in chronologicis numeris habet 
+      con<lb ed="#B" n="100" break="no"/>plures. Ab Adamo ad diluvium numerat annos 
+      <lb ed="#B" n="101"/>2212, cum in Hebraeo textu tantum habeantur 1656 
+      <lb ed="#B" n="102"/>auni. A diluvio ad Abrahamum numerat annos 
+      <lb ed="#B" n="103"/>1082, cum in Hebraeo sint 292. Adamus dicitur v 
+      <lb ed="#B" n="104"/>xisse 230 (juxta quasdam editiones 330) annos, cum 
+      <lb ed="#B" n="105"/>Sethum genuisset, cum fontes veritatis 130 annos ei 
+      <lb ed="#B" n="106"/>duntaxat tribuant. Mathusalem secundum Graecam 
+      <lb ed="#B" n="107"/>translationem 14 annis post diluvium superstes 
+      <lb ed="#B" n="108"/>mansit, unde magna oritur quaestio, ubi in diluvie 
+      <lb ed="#B" n="109"/>servatus fuerit? in quo nodo solvendo August. lil. 
+      <lb ed="#B" n="110"/>15. de civ. Dei c. 11. plurimum sese torquet; se 
+      <lb ed="#B" n="111"/>ex textu Hebraico colligitur ipsum eodem anne 
+      <lb ed="#B" n="112"/>fuisse mortuum, quo terra diluvio fuit obruta. Jonac 
+      <lb ed="#B" n="113"/>3. in Graeco est: Adhuc tres dies, et destruetu 
+      <lb ed="#B" n="114"/>Ninive. Sed rectius in textu Hebraico authentio 
+      <lb ed="#B" n="115"/>post 40 dies exitium ei denuntiatur, vix enim tribus 
+      <!--299.xml-->
+      <pb ed="#B" n="226"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>diebus Jonas civitatem peragrare potuit. 5. 
+      Som<lb ed="#B" n="2" break="no"/>nium de distinetis cellulis quidam veterum ut incer 
+      <lb ed="#B" n="3"/>tum, quidam ut falsum et confictum repudiant. Jn 
+      <lb ed="#B" n="4"/>stin. et Irenaeus singulos in singulis cellulis a regi 
+      <lb ed="#B" n="5"/>inclusos fuisse memorant, sed Epiphan. in lib. de 
+      <lb ed="#B" n="6"/>mensur. ac ponderibus scribit, binos ac binos in sit 
+      <lb ed="#B" n="7"/>gulis cellulis inclusos fuisse. Augustin. lib. 2. d. 
+      <lb ed="#B" n="8"/>doctr. Christ. c. 15. non audet assertionem de cellu 
+      <lb ed="#B" n="9"/>lis tanquam certam confirmare, quamvis version 
+      <lb ed="#B" n="10"/>huic plurimum tribuat: In Graecis (inquit) septue 
+      <lb ed="#B" n="11"/>ginta interpretum, quod ad V. T. attinet, excelli 
+      <lb ed="#B" n="12"/>auctoritas, qui jam per omnes ecclesias peritiores 
+      <lb ed="#B" n="13"/>tanta praesentia Spiritus sancti interpretati ess 
+      <lb ed="#B" n="14"/>dicuntur, ut os unum tot hominum fuerit. Qui s 
+      <lb ed="#B" n="15"/>ut fertur, multique non indigni fide 
+      praedican<lb ed="#B" n="16" break="no"/>singuli cellis etiam singulis separati, cum interpr 
+      <lb ed="#B" n="17"/>tati essent, nihil in alicujus eorum codice inventur 
+      <lb ed="#B" n="18"/>est, quod non iisdem verbis eodemque verborum 
+      o<lb ed="#B" n="19" break="no"/>dine inveniretur in ceteris, qui huic auctoritati 
+      con<lb ed="#B" n="20" break="no"/>ferre aliquid, nedum praeferre audeat? (In margin 
+      <lb ed="#B" n="21"/>annotavit Erasmus: Illud alii tanquam fabulam ri 
+      <lb ed="#B" n="22"/>dent). Hieronymus confidentior in praefat. Penta 
+      <lb ed="#B" n="23"/>teuch: Nescio quia primus auctor septuaginta cell 
+      <lb ed="#B" n="24"/>las Alexandriae mendacio suo exstruxerit, cum 
+      ne<lb ed="#B" n="25" break="no"/>Aristaeus, qui negotio interfuit, nec Josephus 
+      han<lb ed="#B" n="26" break="no"/>historiam enarrans ullam faciant cellularum me 
+      <lb ed="#B" n="27"/>tionem, cumque aliud sit esse vatem, aliud inter 
+      <lb ed="#B" n="28"/>pretem. 6. Multi dubitant, an Graeca versio, quae 
+      <lb ed="#B" n="29"/>hodie exstat, sit illa a veteribus tantopere celebrat 
+      <lb ed="#B" n="30"/>LXX interpretum versio. Aristaeus enim in histor 
+      <lb ed="#B" n="31"/>hujus versionis et Philo lib. 2. de vita Moysis testas 
+      <lb ed="#B" n="32"/>tur LXX interpretes fidelissime ac propriissime 
+      <lb ed="#B" n="33"/>adeoque ad verbum omnia transtulisse, atque illorus 
+      <lb ed="#B" n="34"/>interpretationem a multis diligenter fuisse exami 
+      <lb ed="#B" n="35"/>natam, antequam in regiam bibliothecam poneretu 
+      <lb ed="#B" n="36"/>atque ab omnibus laudem fidelitatis et proprietati 
+      <lb ed="#B" n="37"/>ipsi datam esse. Sed Graeca versio, quam nunc 
+      <lb ed="#B" n="38"/>habemus, multis in locis a textu Hebraeo dissenti 
+      <lb ed="#B" n="39"/>Adde quod Graeca versio, quae hodie exstat, in 
+      <lb ed="#B" n="40"/>locis multis non possit ulla ratione cum textu 
+      <lb ed="#B" n="41"/>Hebraeo conciliari, nisi removeantur puncta atque 
+      <lb ed="#B" n="42"/>aliter legantur, quam puncta subjecta requirunt. 
+      <lb ed="#B" n="43"/>quod argumento est auctorem illius versionis usum 
+      <lb ed="#B" n="44"/>fuisse bibliis non punctatis, quod de LXX interppi 
+      <lb ed="#B" n="45"/>non est verisimile. Casaub. exercit: Bibliorum edi 
+      <lb ed="#B" n="46"/>tionem Graecam Romae curatam Baronius puta 
+      <lb ed="#B" n="47"/>esse ipsissimam τῶν LXX versionem, quae senter 
+      <lb ed="#B" n="48"/>tia in tirone aliquo studii theologici vix posse 
+      <lb ed="#B" n="49"/>excusari, nedum in tanti nominis viro. Idem statu 
+      <lb ed="#B" n="50"/>unt Drusius lib. 6. observ. c. 9. Witaker. de 
+      Scrip<lb ed="#B" n="51" break="no"/>quaest. c. 3. 7. Versio LXX interpretum jam olim 
+      al<lb ed="#B" n="52" break="no"/>Origene, Luciano, Hesychio, Hieronymo emendar. 
+      <lb ed="#B" n="53"/>coepit, quomodo igitur ab erroribus immunis fuit. 
+      <lb ed="#B" n="54"/>et quis credat, cum primis trecentis annis corrupte 
+      <lb ed="#B" n="55"/>las contraxerit, quod reliquis annis mille trecentis 
+      <lb ed="#B" n="56"/>incorrupta manserit? Justin. in dial. cum 
+      Tryphon<lb ed="#B" n="57" break="no"/>p. 231: Magistri vestri multos et integros 
+      pror<lb ed="#B" n="58" break="no"/>sus locos illarum Scripturarum ex translatione illo 
+      <lb ed="#B" n="59"/>rum, qui cum Ptolemaeo fuere, ceniorum sustulo 
+      <lb ed="#B" n="60"/>runt, in quibus clare hunc ipsum crucificum Deum 
+      <!--299.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>et hominem esse, eumque in cruce pendere et 
+      mor<lb ed="#B" n="62" break="no"/>praenuntiatum esse ostenditur, xml:id quod aliquos 
+      <lb ed="#B" n="63"/>exemplis ibidem probat. 8. Quod evangelistae e 
+      <lb ed="#B" n="64"/>apostoli in N. T. in allegandis V. T. diectis LXX 
+      <lb ed="#B" n="65"/>interpp. versionem sequuntur, propterea factum, quia 
+      <lb ed="#B" n="66"/>eo tempore illa erat in gentibus divulgata, ut mone 
+      <lb ed="#B" n="67"/>Hieronymus in c. 47. Genes. Idem vero in epist. 151. 
+      <lb ed="#B" n="68"/>ad Algasiam hanc ponit regulam: Ubicunque de 
+      Ve<lb ed="#B" n="69" break="no"/>teri Instrumento prophetae et apostoli testimonia 
+      <lb ed="#B" n="70"/>protulerunt, diligentius observandum est non eos 
+      <lb ed="#B" n="71"/>verba secutos esse, sed sensum, et ubicunque Septua 
+      <lb ed="#B" n="72"/>ginta ab Hebraeo discrepant, Hebraeum censum 
+      sui<lb ed="#B" n="73" break="no"/>expressisse sermonibus 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e1954">
+               <lb ed="#B" n="74"/>SECTIO III 
+      <lb ed="#B" n="75"/>DE SYRIACA N. T. VERSIONE 
+</p>
+            <p xml:id="zef3dd-d1e472-d1e1961">
+               <lb ed="#B" n="76"/>509. Qua occasione Syriaca N. T. versio in 
+      Eu<lb ed="#B" n="77" break="no"/>ropam pervenerit, exposuimus in traet. de method 
+      <lb ed="#B" n="78"/>studii theolog. part. 2. sect. 1. cap. 3; xml:id ipsum vero 
+      <lb ed="#B" n="79"/>latius explicat Johannes Balthasar Baumbaehius in 
+      <lb ed="#B" n="80"/>traet. de linguis oriental. c. 13. Qui liber cum in 
+      <lb ed="#B" n="81"/>paucorum manibus versetur, quaedam ex eo huc 
+      <lb ed="#B" n="82"/>referemus: Sub Leone X. pontifice Romano, qui 
+      conc<lb ed="#B" n="83" break="no"/>lium a Julio II. convocatum ad Lateranum habebat 
+      <lb ed="#B" n="84"/>Romam missi ex Syria fuere legati Acurius 
+      Jose<lb ed="#B" n="85" break="no"/>phus sacerdos, Moyses Monachus diaconus et Helias 
+      <lb ed="#B" n="86"/>hypodiaconus, homines docti et eruditi, qui Theseum 
+      <lb ed="#B" n="87"/>Ambrosium Albonesi regulum ICtum literas Syrio 
+      <lb ed="#B" n="88"/>cas tum docuerunt. Is annis postea multis intro 
+      <lb ed="#B" n="89"/>monasticas cellas (erat enim voto suo sancti 
+      Augu<lb ed="#B" n="90" break="no"/>stini canonico instituto obstrictus) meditando tan 
+      <lb ed="#B" n="91"/>tum profecit, ut Syri quoque ingenium ipsius e 
+      <lb ed="#B" n="92"/>acrem praesentemque in eo labore animum 
+      vehe<lb ed="#B" n="93" break="no"/>menter admirarentur. Ceterum cum Johannes 
+      Alber<lb ed="#B" n="94" break="no"/>tus Widmanstadius ICtus et provinciarum Austria 
+      <lb ed="#B" n="95"/>orientalium cancellarius anno 1529. in Caxoli V. 
+      <lb ed="#B" n="96"/>Caesaris sacri diadematis causa Bononiam 
+      profici<lb ed="#B" n="97" break="no"/>scentis comitatu esset et ei contubernalibusque ipsius 
+      <lb ed="#B" n="98"/>Regii Lepidi a metatoribus hospitium juxta coene 
+      <lb ed="#B" n="99"/>bium, ubi Theseus jam senex vitam agebat, fort 
+      <lb ed="#B" n="100"/>attributum fuisset, postridie ejus diei Widmansto 
+      <lb ed="#B" n="101"/>dius templum ingressus venerandum senem caeu 
+      ob<lb ed="#B" n="102" break="no"/>vium salutavit, qui ut ipsum de coenobii bibliotheca 
+      <lb ed="#B" n="103"/>rarisque in ea libris sciscitari intellexit, ex vestigio 
+      <lb ed="#B" n="104"/>in conclave introduxit et arreptis e pluteo sacro 
+      <lb ed="#B" n="105"/>sanctis evangeliis Syriace scriptis: Hospes, inquit 
+      <lb ed="#B" n="106"/>ingemiscens, peregrinis his studiis deditus sur 
+      <lb ed="#B" n="107"/>annis circiter quindecim eaque sine rivali ad hanc 
+      <lb ed="#B" n="108"/>diem amavi. Utinam mihi obveniat aliquando prom 
+      <lb ed="#B" n="109"/>nto paratoque ingenio vir, qui sermonem hunc Jest 
+      <lb ed="#B" n="110"/>Christi sanctissimis labris consecratum posteris 
+      tan<lb ed="#B" n="111" break="no"/>quam per manus tradendum (nam aetas mihi 
+      prop<lb ed="#B" n="112" break="no"/>jam exacta est) a me accipere velit. Cui respondit 
+      <lb ed="#B" n="113"/>Widmanstadius: Pater, si, paucarum horarum ope 
+      <lb ed="#B" n="114"/>rae parcere volueris, auditorem me habebis in hac 
+      <!--300.xml-->
+      <pb ed="#B" n="227"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>ipsa expeditione expeditissimum. Quo audito Theseus 
+      <lb ed="#B" n="2"/>omnes in ea lingua thesauros multo sudore sibi 
+      <lb ed="#B" n="3"/>comparatos protulit manuque sua, quantum angustio 
+      <lb ed="#B" n="4"/>temporis ferebat, ex commentariis suis descripsi 
+      <lb ed="#B" n="5"/>atque ipsi hac obtestatione cuppeditavit, ut quo 
+      <lb ed="#B" n="6"/>ipsum beneficio tum complecteretur, xml:id olim apue 
+      <lb ed="#B" n="7"/>ecclesiam Jesu Christi collocaret. Quarto post anne 
+      <lb ed="#B" n="8"/>in bibliotheca Lactantii Ptolemaei xml:idem reperit quo 
+      <lb ed="#B" n="9"/>tuor evangelistarum libros cum Ephraëmi et Jacol 
+      <lb ed="#B" n="10"/>Syrorum opusculis nonnullis; quae ipse moxe trans 
+      <lb ed="#B" n="11"/>scripsit atque cum Thesei munere 
+      splendidissim<lb ed="#B" n="12" break="no"/>conservavit, usque dum Simeonio Syrorum, qui 
+      jug<lb ed="#B" n="13" break="no"/>Libani incolunt, episcopi et doctissimi viri instito 
+      <lb ed="#B" n="14"/>tione adeo profecit, ut sentiret Thesei desiderium 
+      <lb ed="#B" n="15"/>quod e Christi linqua in Latinam ecclesiam 
+      intro<lb ed="#B" n="16" break="no"/>ducenda capiebat, leniri jam aliquantum posse. 
+      Po<lb ed="#B" n="17" break="no"/>aliquot annos cum Widmanstadius in ea cura 
+      ver<lb ed="#B" n="18" break="no"/>saretur et a conventu principum, qui Heliobrunae 
+      <lb ed="#B" n="19"/>agebatur, rediret, Moyses Meredinaeus ex 
+      Mesopo<lb ed="#B" n="20" break="no"/>tamia sacerdos in Rhaetia Ripensi ei occurrit, qui 
+      <lb ed="#B" n="21"/>ab Iqnatio patriarcha Antiocheno, cum ob alias 
+      <lb ed="#B" n="22"/>causas, tum ut Testamenti volumen praelo excusorio 
+      <lb ed="#B" n="23"/>multiplicatum in Syriam reportaret, Romam missus 
+      <lb ed="#B" n="24"/>orator fuit. Et cum nec Romae nec Venetiis, quam 
+      <lb ed="#B" n="25"/>vis amplissimorum hominum favore et gratia nit 
+      <lb ed="#B" n="26"/>retur, quemquam reperisset, qui magnum hoc et 
+      dif<lb ed="#B" n="27" break="no"/>ficile opus attentare vellet, tandem nonnullorum, qui 
+      <lb ed="#B" n="28"/>eadem fere solicitudine Widmanstadium urgeri 
+      no<lb ed="#B" n="29" break="no"/>rant, consilia sccutus, in comitatu Rainoldi 
+      Pol<lb ed="#B" n="30" break="no"/>qui tum in Britanniam legatus proficiscebatur, ad 
+      <lb ed="#B" n="31"/>ipsum contendit ac in itinere eum offendit. 
+      Quem<lb ed="#B" n="32" break="no"/>Widmanstadius tanquam divinitus sibi oblatum se 
+      <lb ed="#B" n="33"/>cum ad Ferdinandum imperatorem adduxit remque 
+      <lb ed="#B" n="34"/>omnem ei exposuit, qui pro sua pietate benigne lo 
+      <lb ed="#B" n="35"/>beraliterque sumtus se facturum in magnificum hoc 
+      <lb ed="#B" n="36"/>ppus pollicitus fuit, atque ut diligenter emendatur 
+      <lb ed="#B" n="37"/>splendidumque in lucem emitteretur, imperavit, u 
+      <lb ed="#B" n="38"/>Asiaticis Christianis, qui vetere Syrorum linque 
+      <lb ed="#B" n="39"/>partim vulgo, partim in sacris tantum utuntur, e 
+      <lb ed="#B" n="40"/>ob evangelicorum librorum indigentiam praeter bo 
+      <lb ed="#B" n="41"/>ptismum vix ulla religionis vestigia retinent, immor 
+      <lb ed="#B" n="42"/>tale hoc beneficium praestare posset. Dum ad 
+      man<lb ed="#B" n="43" break="no"/>data haec conficienda necessaria omnia apparantu 
+      <lb ed="#B" n="44"/>insperantibus ipsis intervenit Guilielmus Postellus 
+      <lb ed="#B" n="45"/>vir supra multorum captum eruditus, qui parte 
+      <lb ed="#B" n="46"/>Asiae meliore semel atque iterum peragrata magna 
+      <lb ed="#B" n="47"/>et Syriacae et Arabicae linquae opes consectatu 
+      <lb ed="#B" n="48"/>minime vulgare adjumentum attulit. Atque sic 
+      p<lb ed="#B" n="49" break="no"/>imperatoris Ferdinandi beneficio in lucem prodie 
+      <lb ed="#B" n="50"/>runt primo evangelistarum quatuor sanctissima me 
+      <lb ed="#B" n="51"/>numenta Syriacis elementis et sermone Viennae in 
+      <lb ed="#B" n="52"/>pressa et paulo post epistolae apostolorum 
+      subsecu<lb ed="#B" n="53" break="no"/>tae fuerunt. ** Syriacum N. T. editum est cum 
+      a<lb ed="#B" n="54" break="no"/>aliis, tum ab Immanuele Tremellio addita inter 
+      <lb ed="#B" n="55"/>pretatione Latina, a Guidone Fabricio cum version 
+      <lb ed="#B" n="56"/>interlineari. Sed hi characteres Syros mutarunt in 
+      <lb ed="#B" n="57"/>Hebraeos, ut et Raphelengius. Arias Montanus in 
+      <lb ed="#B" n="58"/>magnis bibliis Antuerpiensibus edidit utroque chara 
+      <lb ed="#B" n="59"/>eterum genere. *3 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e2183">
+               <lb ed="#B" n="60"/>5I0. Huic versioni Syriacae Christiani in Syris 
+      <!--300.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>plurimum tribuunt ac ejus originem ad Marcum 
+      <lb ed="#B" n="62"/>evangelistam referunt. ** Albert. Widmanstadiu 
+      <lb ed="#B" n="63"/>ait Syros constanter asserere s. Marcum evangelium 
+      <lb ed="#B" n="64"/>suum lingua patria, h. e. Syra, transtulisse et non 
+      <lb ed="#B" n="65"/>modo evangelium suum, sed etiam ceteros omnes 
+      <lb ed="#B" n="66"/>N. T. libros. Id sibi etiam per literas significasee 
+      <lb ed="#B" n="67"/>Guilielmum Postellum, rem autem ita se habere ex 
+      <lb ed="#B" n="68"/>avita traditione affirmaro. (Staplet. in Antid. Matth. 26 
+      <lb ed="#B" n="69"/>Syri authenticum adhuc retinent.)** Tremellius in 
+      <lb ed="#B" n="70"/>praef. Syriac. paraph.: Veritati prorsus est 
+      consen<lb ed="#B" n="71" break="no"/>taneum intra ipsa ecelesiae Christi initia vel al 
+      <lb ed="#B" n="72"/>apostolis ipsis vel eorum discipulis eam esse 
+      pro<lb ed="#B" n="73" break="no"/>fectam, nisi forte suspicari malimus, eos scribendo 
+      <lb ed="#B" n="74"/>alienigenarum duntaxat rationem habere voluisse 
+      <lb ed="#B" n="75"/>suorum autem gentilium aut nullam aut certe 
+      per<lb ed="#B" n="76" break="no"/>quam exiquam. ** ibid. dicit, quod majori ex parte 
+      <lb ed="#B" n="77"/>ex archetypo Graeco fidelissime expressa sit. i 
+      <lb ed="#B" n="78"/>Frane. Lucas Brugens. in praefat. super N. T. comm. 
+      <lb ed="#B" n="79"/>num. 6: Hoc teneo indubitanter Syriacum N. T. 
+      <lb ed="#B" n="80"/>textum vetustissimi exemplaris Graeci, et quidem 
+      <lb ed="#B" n="81"/>ex primis loco habendum ac venerandum esse. Al 
+      <lb ed="#B" n="82"/>stedius lib. 2. praecognitorum e. 113: Antiochenae 
+      <lb ed="#B" n="83"/>ecclesiae et Christianis primum in ea appellatis 
+      <lb ed="#B" n="84"/>illam adscribendam existimat: &amp;*Bonaventura, Cor 
+      <lb ed="#B" n="85"/>nelius Bertramus, vir harum linguarum peritissimus, 
+      <lb ed="#B" n="86"/>audet ecelesiae Antiochenae nascenti Christianisque 
+      <lb ed="#B" n="87"/>primum in ea appellatis Syriacam versionem adscri 
+      <lb ed="#B" n="88"/>bere, praef. in suam comparationem grammaticae 
+      <lb ed="#B" n="89"/>Syriacae et Arabicae. ** Sed non possumus hanc 
+      <lb ed="#B" n="90"/>versionem habere pro authentica vel Graeco textui 
+      <lb ed="#B" n="91"/>aequiparare, I. quia versio est, proinde minime au 
+      <lb ed="#B" n="92"/>thentica. 2. in quibusdam discedit a textu Graeco 
+      <lb ed="#B" n="93"/>qui solus in N. T. est authenticus. Integri libri 
+      <lb ed="#B" n="94"/>videlicet secunda Petri, secunda et tertia Johannis. 
+      <lb ed="#B" n="95"/>epistola Judae et Apocalypsis in ea desunt; dees 
+      <lb ed="#B" n="96"/>etiam historia de muliere adultera in 
+      principi<lb ed="#B" n="97" break="no"/>c. 8. evang. Johannis. (** Defectus hos nonnullorum 
+      <lb ed="#B" n="98"/>diligentia hactenus supplevit. **) 3. nec de auctor. 
+      <lb ed="#B" n="99"/>nec de antiquitate ejus apostolicis temporibus vicina 
+      <lb ed="#B" n="100"/>certi quid affirmari potest, Tremell. diet. loc.: Syriaco 
+      <lb ed="#B" n="101"/>si forte non tota, majori tamen ex parte ec 
+      arche<lb ed="#B" n="102" break="no"/>typo Graeco fidelissime expressa est, sed quo vel 
+      <lb ed="#B" n="103"/>quibus auctoribus, quo tempore item, cum xml:id nusquam 
+      <lb ed="#B" n="104"/>inquirentibus nobis adhuc occurrerit, non magis de 
+      <lb ed="#B" n="105"/>finiri potest in praesentia, quam Graeca Veteria 
+      <lb ed="#B" n="106"/>Testamenti, et vetus Latina, quibus auctoribus 
+      ver<lb ed="#B" n="107" break="no"/>tit adscribenda. Vergerius dial. 3. contra Hosium 
+      <lb ed="#B" n="108"/>memorat, quod quaesiverit Moysen Meridinaeum 
+      <lb ed="#B" n="109"/>quemnam putaret scripsisse Syra linqua N. T. 
+      <lb ed="#B" n="110"/>ipsum vero respondisse se auctorem ignorare 
+      codi<lb ed="#B" n="111" break="no"/>cem fuisse valde vetustum nec dissentire a Graecis 
+      <lb ed="#B" n="112"/>et Latin. codd. ** Corn. a Lap. in praefat. comm. 
+      <lb ed="#B" n="113"/>opist. Hebr.: Syriaca versio phrasi et xml:idiotismo dis 
+      <lb ed="#B" n="114"/>crepat a lingua Syra, qua loquebantur Judaet 
+      <lb ed="#B" n="115"/>tempore Christi, Pauli et Marci. Nam Matth. 27 
+      <lb ed="#B" n="116"/>v. 8: Pro Haceldama, uti dicebant Judaei 
+      tempor<lb ed="#B" n="117" break="no"/>hristi, Syra jam versio habet aguresa daddemo 
+      <lb ed="#B" n="118"/>ubi graecitat, nam ex ἀγρός, xml:id est ager, format 
+      <lb ed="#B" n="119"/>aguresa. Sic Matth. 21, v. 46 pro Eli, Eli, ut 
+      <lb ed="#B" n="120"/>dicit Christus, Syrus jam habet il, il. Sic pro¬ 
+      <!--301.xml-->
+      <pb ed="#B" n="228"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Jerusalem vertit Ourischelem, pro Kephas Kipho 
+      <lb ed="#B" n="2"/>pro Pascha Pezcho, pro Golgota Golgoulto, 
+      pr<lb ed="#B" n="3" break="no"/>Joseph Jauseph, pro Jacob Jaacoub, pro Messie 
+      <lb ed="#B" n="4"/>. Meschicho.4* 4. Nulla ejus fit mentio apud Cl. 
+      <lb ed="#B" n="5"/>mentem Alexandrinum, Origenem, Eusebium, 
+      Atha<lb ed="#B" n="6" break="no"/>nasium, Theophilum, Epiphanium, Hieronymum, Cy 
+      <lb ed="#B" n="7"/>rillum, Theodoretum et alios, qui vel in Syria ve 
+      <lb ed="#B" n="8"/>in Aegypto docuerunt vel de variis Scripturarum 
+      <lb ed="#B" n="9"/>editionibus disseruerunt. Augustin. lib. 15. de 
+      civ<lb ed="#B" n="10" break="no"/>d. c. 13. Syriacae V. T. versionis mentionem facit 
+      <lb ed="#B" n="11"/>In quibusdam, inquit, codicibus Graecis tribus et 
+      <lb ed="#B" n="12"/>uno Latino et uno etiam Syro inter se 
+      consentien<lb ed="#B" n="13" break="no"/>tibus inventus est Methusalem sex annis ante dile 
+      <lb ed="#B" n="14"/>vium fuisse defunctus. Sed forte per Syrum cod 
+      <lb ed="#B" n="15"/>cem intelligit paraphrasin Chaldaicam. 5. In tituli 
+      <lb ed="#B" n="16"/>et lectionibus capitum mentio fit venerationis 
+      cruci<lb ed="#B" n="17" break="no"/>precum pro defunctis, vigiliarum, memoriae sancto 
+      <lb ed="#B" n="18"/>rum aliarumque ejusmodi rerum, quae temporibu 
+      <lb ed="#B" n="19"/>apostolorum nondum fuerunt in ecclesiam invecto 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e2370">
+               <lb ed="#B" n="20"/>SECTIO IV 
+      <lb ed="#B" n="21"/>DE ARABICA SCRIPTURAE S 
+<lb ed="#B" n="22"/>VERSIONE. 
+</p>
+            <p xml:id="zef3dd-d1e472-d1e2379">
+               <lb ed="#B" n="23"/>511. Ut ex Hebraica lingua originem trahit Chal 
+      <lb ed="#B" n="24"/>daica, (cum enim in Chaldaea lingua Hebraica ali 
+      <lb ed="#B" n="25"/>quamdiu viguisset, postquam Abraham a Deo ve 
+      <lb ed="#B" n="26"/>catus et terra illa excedere jussus esset Genes. 1I. 
+      <lb ed="#B" n="27"/>v. 1, incolae una cum vero cultu divino sensim 
+      <lb ed="#B" n="28"/>linguae puritatem amittere et ea dialecto, quam ab 
+      <lb ed="#B" n="29"/>Aram Aramicam vocarunt, loqui coeperunt, quam 
+      <lb ed="#B" n="30"/>hujus linguae originem recenset Elias Levita, qu 
+      <lb ed="#B" n="31"/>eam voeat linguam canctam corruptam, itemque 
+      <lb ed="#B" n="32"/>prae ceteris linguis sanctae maxime affinem) et ex 
+      <lb ed="#B" n="33"/>Chaldaica Syriaca; (cum enim Judaei juniores 
+      <lb ed="#B" n="34"/>mortuis senioribus in diuturna illa Babylonica 
+      ca<lb ed="#B" n="35" break="no"/>ptivitate ex longa populi illius, cum quo vivebant 
+      <lb ed="#B" n="36"/>consuetudine nativae suae Hebraicae obliti essent 
+      <lb ed="#B" n="37"/>et Chaldaicam sive Syriacam illi genti tunc com 
+      <lb ed="#B" n="38"/>munem didicissent, hanc postea tanquam sibi fam 
+      <lb ed="#B" n="39"/>liarem et longo usu communem factam in patriam 
+      <lb ed="#B" n="40"/>quoque retulerunt ac deinceps ea semper tanquam 
+      <lb ed="#B" n="41"/>vernacula sunt usi, cum Hebraica tantum inte 
+      <lb ed="#B" n="42"/>doctos servaretur, qua lingua Syriaca etiam Christus 
+      <lb ed="#B" n="43"/>in diebus carnis suae, ut a communi populo intelli 
+      <lb ed="#B" n="44"/>geretur, usus est) ita ex duabus illis prodiit Arabica 
+      <lb ed="#B" n="45"/>Agarenis, qui tamen postea Saraceni maluerum 
+      <lb ed="#B" n="46"/>vocari, atque Ismaëlitis, qui ab Abrahamo originem 
+      <lb ed="#B" n="47"/>2. dueunt, prius in usu, nunc vero per totam Asiam 
+      <lb ed="#B" n="48"/>atque Africam Mahumeto auctore, qui ex Ismaëlitio 
+      <lb ed="#B" n="49"/>gente descendit et in hac Coranum suum conseri 
+      <lb ed="#B" n="50"/>psit, usitatum, quam etiam ab Heraclii temporibu 
+      <lb ed="#B" n="51"/>per crebras Turcarum victorias sic propagatam 
+      cer<lb ed="#B" n="52" break="no"/>nimus, ut nulli ceterarum sit inferior, sed alia 
+      <lb ed="#B" n="53"/>omnes usus sui amplitudine superet. Hanc enii
+      <lb ed="#B" n="55"/>qui callent, Asiam atque Africam, nec non magnam <!-- line coord error -->
+      <lb ed="#B" n="54"/>partem Europae absque interprete peragrare possunt. <!-- line coord error -->
+  </p>
+            <p xml:id="zef3dd-d1e472-d1e2457">
+      <!--301.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="56"/>512. <name xml:id="zef3dd-d1e472-Nd1e2465">Nicolaus Clenardus</name> (qui tanto hujus linguae 
+      <lb ed="#B" n="57"/>discendae et propagandae flagravit desiderio, ut non 
+      <lb ed="#B" n="58"/>dubitarit ipsam Africam adire et aliquot annos inter 
+      <lb ed="#B" n="59"/>barbaros illos populos et crucis Christi inimicos non 
+      <lb ed="#B" n="60"/>sine vitae periculo commorari) in fine libr. 1. episto 
+      <lb ed="#B" n="61"/>et <name xml:id="zef3dd-d1e472-Nd1e2478">Guido Fabricius</name> in praefat. N. T. Syriae 
+      <lb ed="#B" n="62"/>pag. ult. probant omnia scripta sacra in Arabies 
+      <lb ed="#B" n="63"/>lingua exstare, **auctore Saadia Gaon. ** non 
+      qui<lb ed="#B" n="64" break="no"/>dem impressa, sed tantum manuscripta. Testis 
+      <lb ed="#B" n="65"/>enim est Rutgerus Spey Bopardianus in praefat 
+      <lb ed="#B" n="66"/>epist. ad Galat. (quam Arabicis characteribus et 
+      <lb ed="#B" n="67"/>sermone descriptam anno 83. in publicum 
+      Heidel<lb ed="#B" n="68" break="no"/>bergae edidit) praeter Augustini Nebiensis episcop. 
+      <lb ed="#B" n="69"/>Psalterium nihil in hae lingua impressum exatare 
+      <lb ed="#B" n="70"/>quod tamen ipsum Psalterium tam negligenter im 
+      <lb ed="#B" n="71"/>pressum eit, ut ipei Arabes vix legere possint. 
+      Post<lb ed="#B" n="72" break="no"/>modum anno 1592. Romae editum est N. T. Ara 
+      <lb ed="#B" n="73"/>bicum, cujus exemplar habetur in bibliotheca nostr. 
+      <lb ed="#B" n="74"/>academica. ** Sixtus Senens. lib. 4. bibl. testatur. 
+      <lb ed="#B" n="75"/>Augustinum Nebiensem in Octaplis suis quintum 
+      <lb ed="#B" n="76"/>locum dedisse Arabicae, ejusque operis se vidisse 
+      <lb ed="#B" n="77"/>duo tantum volumina, nempe Psalterium excusum 
+      <lb ed="#B" n="78"/>et quatuor evangelia ipsius auctoris manu descripta 
+      <lb ed="#B" n="79"/>atramentoque ac minio distincta** Idem vero 
+      ju<lb ed="#B" n="80" break="no"/>dicium esto de versione Arabica, quod protulimus do 
+      <lb ed="#B" n="81"/>paraphrasi Syriaca.**Persicam utriusque T. 
+      versio<lb ed="#B" n="82" break="no"/>nem a Jacobo Tavasio Pavanisque adornatum exstar 
+      <lb ed="#B" n="83"/>testis est Guido Fabricius in praefat. N. T. Syriaci, 
+      <lb ed="#B" n="84"/>tem Syriacam, Armenicam, Aethiopicam.** 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e2531">
+               <lb ed="#B" n="85"/>SECTIO V. 
+      <lb ed="#B" n="86"/>DE VULGATA LATINA 
+      BIBLIO<lb ed="#B" n="87" break="no"/>RUM VERSIONE 
+</p>
+            <p xml:id="zef3dd-d1e472-d1e2540">
+               <lb ed="#B" n="88"/>513. Illam in authenticae auctoritatis fastigium 
+      <lb ed="#B" n="89"/>Pontificii evehunt. Concil. Trident. sess. 4. decernit, 
+      <lb ed="#B" n="90"/>ut vetus vulgata editio in publicis lectionibus, 
+      dispu<lb ed="#B" n="91" break="no"/>tationibus, praedicationibus et expositionibus 
+      pro<lb ed="#B" n="92" break="no"/>authentica habeatur, et ut nemo illam quovis prac 
+      <lb ed="#B" n="93"/>textu rejicere audeat. Plura hujus generis ex Pontificiis 
+      <lb ed="#B" n="94"/>scriptoribus adduximus superius §. 317. Atqui 1. 
+      <lb ed="#B" n="95"/>versio est. Ergo non est authentica. Solus textu 
+      <lb ed="#B" n="96"/>Hebraeus in V. et Graecus in N. T. est authent 
+      <lb ed="#B" n="97"/>cus, ut demonstravimus superius §. 311. et seqq. 
+      <lb ed="#B" n="98"/>Ergo in sublime illud authenticae auctoritatis solium 
+      <lb ed="#B" n="99"/>vulgata translatio evehi nequit. Per pontificis aut 
+      <lb ed="#B" n="100"/>concilii potestatem fieri nequit, ut fiat authenticum 
+      <lb ed="#B" n="101"/>quod in se tale non est, scribit Bellarm. lib. 1. de 
+      <lb ed="#B" n="102"/>verb. Dei c. 10. Subsumo. Versio vulgata non es 
+      <lb ed="#B" n="103"/>authentica vel canonica in se. Ergo per pontificis 
+      <lb ed="#B" n="104"/>aut concilii decretum authentica fieri nequit. 2. Au 
+      <lb ed="#B" n="105"/>ctor ejus non fuit prophetico spiritu illustris. Erg. 
+      <lb ed="#B" n="106"/>non potest esse canonica et authentica. Hieronym. 
+      <lb ed="#B" n="107"/>eam Pontificii plerique tribuunt, sed obstant rationes 
+      <lb ed="#B" n="108"/>non contemnendae, quominus eam Hieronymianam 
+      <lb ed="#B" n="109"/>esse statuamus. Nam primo Hieron. in praef. 
+      Psal<lb ed="#B" n="110" break="no"/>terii ad Sophronium, quae est epist. 133. praefat. 
+      <!--302.xml-->
+      <pb ed="#B" n="229"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>in Pentateuch. praefat. in libros Regum testatur 
+      s<lb ed="#B" n="2" break="no"/>eo modo vertisse Scripturas sacras, ut cum Ho 
+      <lb ed="#B" n="3"/>braica veritate illa versio exactissime consentires 
+      <lb ed="#B" n="4"/>quod ipsum de Hieronymo testantur Augustin. lib. 18 
+      <lb ed="#B" n="5"/>de civ. Dei c. 43. et Isidorus Hispalensis lib. 6. et) 
+      <lb ed="#B" n="6"/>molog. c. 5. Atqui vulgata illa editio Latina i 
+      <lb ed="#B" n="7"/>multis discedit a textu Hebraeo ac propius accedi 
+      <lb ed="#B" n="8"/>ad LXX interpp. versionem Graecam. Secundo His 
+      <lb ed="#B" n="9"/>ronymus multa aliter transtulit et multa improbavit 
+      <lb ed="#B" n="10"/>quae in vulgata editione habentur, ut apparet e 
+      <lb ed="#B" n="11"/>quaestionibus in Genesin, ex commentariis in pro 
+      <lb ed="#B" n="12"/>phetas et ex libro de optimo genere interpretandi 
+      <lb ed="#B" n="13"/>Sic quando vulgata Gen. I, v. 2 habet: Et Spiritu 
+      <lb ed="#B" n="14"/>Domini ferebatur super aquas, Hieronymus anne 
+      <lb ed="#B" n="15"/>tat haberi in Hebraeo vocabulum, quod significe 
+      <lb ed="#B" n="16"/>incubabat, seu confovebat in similitudinem volucri 
+      <lb ed="#B" n="17"/>ova calore animantis. Quando vulgata habet Gen. 4. 
+      <lb ed="#B" n="18"/>v. 4: Et respexit Dominus ad Abel et ad muner 
+      <lb ed="#B" n="19"/>ejus, ad Cain autem non respexit, Hieronymus 
+      si<lb ed="#B" n="20" break="no"/>potius vertendum censet, quemadmodum Theodotior 
+      <lb ed="#B" n="21"/>interpretatus est: Et inflammavit Dominus supe 
+      <lb ed="#B" n="22"/>Abel et sacrificium ejus. Quando vulgata habe 
+      <lb ed="#B" n="23"/>Gen. 4. v. 8: Egrediamur foras, Hieronymus anne 
+      <lb ed="#B" n="24"/>tat, illud esse superfluum et ex volumine Samarita 
+      <lb ed="#B" n="25"/>norum, in quo legitur transeamus in campum, 
+      hu<lb ed="#B" n="26" break="no"/>adductum. Quando vulgata habet Gen. 30, v. 32. 
+      <lb ed="#B" n="27"/>Et cunctum gregem unicolorem, Hieronymus mone 
+      <lb ed="#B" n="28"/>legendum esse non unicolorem, quod ratio ipsa 
+      con<lb ed="#B" n="29" break="no"/>firmat. Ps. 1, v. 1 habet vulgata: In cathedra pest 
+      <lb ed="#B" n="30"/>lentiae; Hieronymus in cathedra derisorum. Ps. 116 
+      <lb ed="#B" n="31"/>v. 3 habet vulgata: Tecum principium; Hierony 
+      <lb ed="#B" n="32"/>mus: Populus tuus spontaneus. Ps. 132, v. 1. 
+      <lb ed="#B" n="33"/>habet vulgata: Viduam ejus benedicam; Hieron, 
+      <lb ed="#B" n="34"/>mus: Venationem ejus benedicam. Esa. 1, v. 12. 
+      <lb ed="#B" n="35"/>habet vulgata: ut ambularetis in atriis meis; Hic 
+      <lb ed="#B" n="36"/>ronymus: Calcare atrium meum non apponetis. C 
+      <lb ed="#B" n="37"/>ejusd. v. 30 habet vulgata: cum fueritis velut 
+      que<lb ed="#B" n="38" break="no"/>cus; Hieronymus: Erunt enim quasi terebinthus. 
+      Ga<lb ed="#B" n="39" break="no"/>1, v. 16 habet vulgata: Non aequievi carni et sat 
+      <lb ed="#B" n="40"/>quini; Hieronymus: Non contuli cum carne et 
+      san<lb ed="#B" n="41" break="no"/>quine. Gal. 3, v. I habet vulgata: non credere 
+      ver<lb ed="#B" n="42" break="no"/>tati; Hieronymus illa verba omisit. Eph. 1, v. 1. 
+      <lb ed="#B" n="43"/>habet vulgata: pignus hereditatis; Hieronymus 
+      ho<lb ed="#B" n="44" break="no"/>reprehendit et arrhabonem fuisse vertendum asseri 
+      <lb ed="#B" n="45"/>Eph. 4. v. 19 habet vulgata: qui desperantes se ipsc 
+      <lb ed="#B" n="46"/>tradiderunt; Hieronymus addidit: Aliter in Graece 
+      <lb ed="#B" n="47"/>legi: Non enim desperant gentes nequaquam ser 
+      <lb ed="#B" n="48"/>tientes ruinam suam, sed tanquam bestiae secuncdum 
+      <lb ed="#B" n="49"/>carnem vivunt. Plura hujus generis ostendit mutu 
+      <lb ed="#B" n="50"/>collatio versionis vulgatae et Hieronymianae. Ex 
+      <lb ed="#B" n="51"/>cipiunt quidem Hieronymum in commentariis judi 
+      <lb ed="#B" n="52"/>casse quaedam perperam esse translata, quae pe 
+      <lb ed="#B" n="53"/>stea, cum editionem illam Latinam vulgaret, rect 
+      <lb ed="#B" n="54"/>versa esse videret, sed commentarii illi in pro 
+      <lb ed="#B" n="55"/>phetas, in quibus vulgatam versionem toties repre 
+      <lb ed="#B" n="56"/>hendit, sunt editione illa posteriores, ut constat 
+      e<lb ed="#B" n="57" break="no"/>fine catalogi. Tertio Hieronymus in scriptis sui 
+      <lb ed="#B" n="58"/>utitur sermone grammatice puro, est enim auctor La 
+      <lb ed="#B" n="59"/>tinitatis non contemnendus, sed vulgata versio in 
+      <lb ed="#B" n="60"/>locis quamplurimis est barbara et soloecismis re 
+      <!--302.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ferta. Gen. 13, v. 11: Divisi sunt alterutrum a fratro 
+      <lb ed="#B" n="62"/>suo. c. 21, v. 26: Non audivi praeter hodic. e. 24. 
+      <lb ed="#B" n="63"/>v. 32: Destravit camelos, pro detraxit clitellas. c. 42. 
+      <lb ed="#B" n="64"/>v. 13: Alius non est super. Psal. 67, v. 20: 
+      Bene<lb ed="#B" n="65" break="no"/>dictus Dominus die quotidie. Psal. 125, v. 1: In 
+      <lb ed="#B" n="66"/>convertendo Domine captivitatem Sion, facti sumus 
+      <lb ed="#B" n="67"/>sicut consolati. Matth. 6. v. 26: Nonne vos magis 
+      <lb ed="#B" n="68"/>plures estis illis. c. 17, v. 19: Quare nos non po 
+      <lb ed="#B" n="69"/>tuimus ejicere illum (daemonium). e. 20, v. 28: Fi 
+      <lb ed="#B" n="70"/>lius hominis non venit ministrari. e. 22. v. 30: 
+      Ne<lb ed="#B" n="71" break="no"/>que nubent neque nubentur. c. 24, v. 6: Opiniones 
+      <lb ed="#B" n="72"/>praeliorum pro rumores. Luc. 7, v. 32: Lamento 
+      <lb ed="#B" n="73"/>vimus vobis. c. 19. v. ult: Omnis populus suspensu 
+      <lb ed="#B" n="74"/>erat audiens illum, pro pendebat ab illo. c. 21 
+      <lb ed="#B" n="75"/>v. 38: Omnis populus manicabat ad eum. Joh. 18 
+      <lb ed="#B" n="76"/>v. 2: ut fructum plus afferat. Act. 3, v. 19: Poeni 
+      <lb ed="#B" n="77"/>temini. e. 12, v. 8: Calcea te caligas tuas, pro sub 
+      <lb ed="#B" n="78"/>liga sandalia tua. c. 18, v. 15: Minavit eoe a 
+      tri<lb ed="#B" n="79" break="no"/>bunali pro abegit. Confer epistolam, quam eru 
+      <lb ed="#B" n="80"/>ditus theologus ad demonstrandos vulgatae versionis 
+      <lb ed="#B" n="81"/>soloecismos et barbarismos ex ea collegit, quae ex 
+      <lb ed="#B" n="82"/>stat apud D. Hunnium in examine 
+      controversia<lb ed="#B" n="83" break="no"/>primae generalis de verbo Dei lib. 2. c. 14. 
+      Alberi<lb ed="#B" n="84" break="no"/>cus Gentilis vulgatae versionis Latinitatem defendere 
+      <lb ed="#B" n="85"/>voluit. Sed notandum, quod non possit haberi C. 
+      <lb ed="#B" n="86"/>ceronianum vel satis Latinum, quod Pacuvii, Naevii 
+      <lb ed="#B" n="87"/>Ennii, aut etiam Vitruvii, Petronii, Apuleji et alio 
+      <lb ed="#B" n="88"/>rum his similium auctoritate probari potest. Si qui 
+      <lb ed="#B" n="89"/>hodie more Ennii poëtaretur, ridiculum se praeberet 
+      <lb ed="#B" n="90"/>quia usus, quem penes arbitrium est et vis et norm 
+      <lb ed="#B" n="91"/>loquendi, hoc poëtandi genus abrogavit. Contra 
+      <lb ed="#B" n="92"/>communem illum loquendi usum insolentia affectare 
+      <lb ed="#B" n="93"/>velle Augustinus imperitam judicat inscitiam. Nec 
+      <lb ed="#B" n="94"/>probari potest cordatis rem sacram et omnium usui 
+      <lb ed="#B" n="95"/>destinatam obsoletis et obscuris tradere velle ar 
+      <lb ed="#B" n="96"/>chaismis. Quarto doctissimi Pontificii agnoscunt 
+      <lb ed="#B" n="97"/>versionem illam non esse Hieronymi, Santes Pagni 
+      <lb ed="#B" n="98"/>nus in praef. suae interpret. Lindanus lib. 3. de 
+      <lb ed="#B" n="99"/>pptim. genere interp. (ubi Graeculum quendam 
+      eju<lb ed="#B" n="100" break="no"/>tuctorem exstitisse suspicatur) Stapulensis in 
+      prae<lb ed="#B" n="101" break="no"/>comm. in epist. Paul. in Apolog. (Omnes, inquit 
+      <lb ed="#B" n="102"/>qui incolumi pollent judicio, negant hanc editionem 
+      <lb ed="#B" n="103"/>esse Hieronymi. Nam Hieronymus eam redarqui 
+      <lb ed="#B" n="104"/>et damnat et auctorem ejus saepe vellicat et insco 
+      <lb ed="#B" n="105"/>tiae accusat, ita opus nominat ut alienum; ita 
+      inter<lb ed="#B" n="106" break="no"/>pretem ejus redarquit ut alium. Est igitur 
+      capu<lb ed="#B" n="107" break="no"/>pertinax, quisquis aliter statuerit) Paulus Burgensis 
+      <lb ed="#B" n="108"/>Johannes Reuchlinus, Laurentius Valla, Driedo lib. 2. 
+      <lb ed="#B" n="109"/>de catal. Scrip. e. 1. Sixtus Senensis lib. 8. biblio 
+      <lb ed="#B" n="110"/>thec. Paulus Forosempronius libr. 2. de die pass 
+      <lb ed="#B" n="111"/>Dom. c. 1. Erasmus in annot. c. 1. Matth. p. 10 
+      <lb ed="#B" n="112"/>(Hic locus: Ecce virgo concipiet, argumentum 
+      pra<lb ed="#B" n="113" break="no"/>bet hanc editionem, qua vulgo utimur, nec in ust 
+      <lb ed="#B" n="114"/>fuisse Hieronymo nec ab illo castigatam. Nam si 
+      <lb ed="#B" n="115"/>usus fuisset, legisset et hîc: habet. Si castigasset 
+      <lb ed="#B" n="116"/>haberemus, quod ille probat ac sequitur. Ita enim 
+      <lb ed="#B" n="117"/>Hieronymus in comm. sup. h. l. Propheta, quio 
+      <lb ed="#B" n="118"/>futura praedicit, significat, quid futurum eit, e 
+      <lb ed="#B" n="119"/>scribit accipiet. Evangelista, quia non de futuro 
+      <lb ed="#B" n="120"/>sed de praeterito narrat historiam, mutavit accipiet 
+      <!--303.xml-->
+      <pb ed="#B" n="230"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>et posuit habet. Qui enim habet, nequaquam acce 
+      <lb ed="#B" n="2"/>pturus est. Idem Hieronymus in epist. Galat 
+      <lb ed="#B" n="3"/>lib. 3. taxat interpretem, quod perperam verteri 
+      <lb ed="#B" n="4"/>locum 1. Cor. 5. et citat ad hunc modum: Modicum 
+      <lb ed="#B" n="5"/>fermentum totam conspersionem fermentat, unde 
+      <lb ed="#B" n="6"/>concludit xml:idem Erasmus in annot. I. Cor. 3. p. 314: 
+      <lb ed="#B" n="7"/>Si N. T. haberemus ab Hieronymo restitutum, u 
+      <lb ed="#B" n="8"/>quidam autumant, quomodo taxat, quod nos hîc 
+      <lb ed="#B" n="9"/>legimus). Bellarmin. lib. 2. de verbo Dei e. 9. sub. 
+      <lb ed="#B" n="10"/>fatetur Psalmos non haberi ex Hieronymi versione 
+      <lb ed="#B" n="11"/>sed duntaxat correctione; et lib. ejusd. c. 11.. ub. 
+      <lb ed="#B" n="12"/>scribit vulgatam editionem non esse unius auctoria 
+      <lb ed="#B" n="13"/>sed quaedam habere ex Hieronymo, quaedam 
+      e<lb ed="#B" n="14" break="no"/>Luciano, quaadam ex Theodotione, quaedam ea 
+      <lb ed="#B" n="15"/>alio quodam interprete innominato). His rationibu 
+      <lb ed="#B" n="16"/>movemur, quo minus eam Hieronymi esse statuamus 
+      <lb ed="#B" n="17"/>Sed demus ex hypothesi Hieronymi eam esse; non 
+      <lb ed="#B" n="18"/>dum tamen propterea erit authentica, cum 
+      Hierony<lb ed="#B" n="19" break="no"/>mus non fuerit prophetico spiritu insignis, ac ipse 
+      <lb ed="#B" n="20"/>met scribat in praefat. Pentateuch. aliud esse vatem. 
+      <lb ed="#B" n="21"/>aliud interpretem 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e2916">
+               <lb ed="#B" n="22"/>514. 3. In locis quamplurimis a fontibus veritatis 
+      <lb ed="#B" n="23"/>h. e. a textu Hebraeo in V. et Graeco in N. T. 
+      <lb ed="#B" n="24"/>discedit, ex quo sic inferimus. Quaecunque versie 
+      <lb ed="#B" n="25"/>discedit a fontibus veritatis, ea hactenus et hoc re 
+      <lb ed="#B" n="26"/>spectu non potest esse authentica. Vulgata versio 
+      <lb ed="#B" n="27"/>Latina in locis quamplurimis discedit a fontibus 
+      <lb ed="#B" n="28"/>veritatis. Ergo. Major est certissimae veritatis 
+      <lb ed="#B" n="29"/>Quia enim verbum Dei in V. T. lingua Hebraes 
+      <lb ed="#B" n="30"/>in N. T. lingua Graeca scriptum est, xml:ideo Scriptura 
+      <lb ed="#B" n="31"/>Hobraea in V. et Graeca in N. T. ab Hieronym. 
+      <lb ed="#B" n="32"/>recte voeantur fontes veritatis, ad illos igitur recur 
+      <lb ed="#B" n="33"/>rendum, si qua in parte versio a textu original 
+      <lb ed="#B" n="34"/>discedit. Omnis enim versio ac proinde etiam vul 
+      <lb ed="#B" n="35"/>gata Latina habet se ad textum originalem, tanquam 
+      <lb ed="#B" n="36"/>normatum ac regulatum ad normam ac regulam, ex 
+      <lb ed="#B" n="37"/>qua corrigenda est, si ab ea vel minimum discedit. 
+      <lb ed="#B" n="38"/>Ecquis monarcha permitteret, si edictum ab ips 
+      <lb ed="#B" n="39"/>editum ex nativa lingua in aliam fuisset transla 
+      <lb ed="#B" n="40"/>tum, illud subditis ea ratione obtrudi, ut versioni 
+      <lb ed="#B" n="41"/>non satis fidae et commodae inhaerere cogantur 
+      <lb ed="#B" n="42"/>etiamsi ad manum habeant nativum exemplar et 
+      <lb ed="#B" n="43"/>videant manifestas versionis corruptelas? Minorem 
+      <lb ed="#B" n="44"/>multis probant Chemnicius, Osiander, Hunnius 
+      <lb ed="#B" n="45"/>
+               <name xml:id="zef3dd-d1e472-Nd1e2970">Witakerus</name>, Schroederus et alii. Quamvis enim 
+      Bel<lb ed="#B" n="46" break="no"/>larminus lib. 2. de verbo Dei c. 12. 13. et 14. 
+      de<lb ed="#B" n="47" break="no"/>fendere conetur illa loca, in quibus editionem 
+      vul<lb ed="#B" n="48" break="no"/>gatam a fontibus discedere demonstramus, notam 
+      <lb ed="#B" n="49"/>dum tamen, I. quod ne quidem sibi ipsi satisfaciat 
+      <lb ed="#B" n="50"/>nedum lectori. 2. quod longe plura habeantur loca 
+      <lb ed="#B" n="51"/>n quibus corruptionis accusamus vulgatam 
+      versio<lb ed="#B" n="52" break="no"/>nem, quam quae vindicare conatur Bellarminus 
+      <lb ed="#B" n="53"/>3. quod Hunnius, Witakerus et alii Bellarminianam 
+      <lb ed="#B" n="54"/>illam defensionem in fumum et cinerem redegerint 
+      <lb ed="#B" n="55"/>I. quod ipsa collatio textus Hebraici in V. et Graeo 
+      <lb ed="#B" n="56"/>in N. T. nostram manifeste confirmet sententiam 
+      <lb ed="#B" n="57"/>5. quod ipsimet saniores Pontificii corruptelas illae 
+      <lb ed="#B" n="58"/>versionis Latinae, in quibus a fontibus discedit, agno 
+      <lb ed="#B" n="59"/>verint et correxerint. Fecerunt hoc Armacanus, 
+      <lb ed="#B" n="60"/>Eugubinus, Johannes Isaacus, Cajetanus, Jacobus 
+      <!--303.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Faber Stapulensis, Laurentius Valla, Pagninus, 
+      <lb ed="#B" n="62"/>Bruno Amerbachius, Benedictus Arias Montanue 
+      <lb ed="#B" n="63"/>sidorus Clarius, Erasmus, Lucas Brugensis et aliis 
+      <lb ed="#B" n="64"/>complures 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e3018">
+               <lb ed="#B" n="65"/>515. 4. Mendas habet complures et fere 
+      innume<lb ed="#B" n="66" break="no"/>ras, ex quo sic inferimus. Quaecunque versio 
+      men<lb ed="#B" n="67" break="no"/>das habet complures et fere innumeras, ea non 
+      <lb ed="#B" n="68"/>potest esse authentica. Vulgata Latina versio 
+      men<lb ed="#B" n="69" break="no"/>das habet complures et fere innumeras. Ergo. 
+      Ma<lb ed="#B" n="70" break="no"/>jor est certae veritatis. Minor probatur inductione. 
+      <lb ed="#B" n="71"/>Habet enim 1. mendas graphicas: Jud. 11, v. 2. 
+      <lb ed="#B" n="72"/>Adultera mater pro altera mater. Luc. 15, v. 8. 
+      <lb ed="#B" n="73"/>Evertit domum pro everrit (Lovanienses erratum vi 
+      <lb ed="#B" n="74"/>derunt, sed non correxerunt Glossa ordin. feminan 
+      <lb ed="#B" n="75"/>hanc interpretatur ecclesiam, quae evertit domum. 
+      <lb ed="#B" n="76"/>quando conscientias hominum de reatu suo pertur. 
+      <lb ed="#B" n="77"/>pat. Dionysius Carthusianus docet, everti domum, 
+      <lb ed="#B" n="78"/>quando contenta in domum transferuntur de loce 
+      <lb ed="#B" n="79"/>in locum) Luc. 15, v. 14: consummasset pro 
+      con<lb ed="#B" n="80" break="no"/>sumsisset. Joh. 21, v. 22: Sic eum volo manere, pro 
+      <lb ed="#B" n="81"/>si eum volo manere (unde aliqui colligere voluerunt. 
+      <lb ed="#B" n="82"/>Johannem nondum esse mortuum. Quidam enim 
+      re<lb ed="#B" n="83" break="no"/>ferente Corn. Jansenio in conc. evang. dixerum 
+      <lb ed="#B" n="84"/>tum vivum translatum in paradisum comitibus 
+      <lb ed="#B" n="85"/>Enocho et Elia, cum quibus etiam sub adventum 
+      <lb ed="#B" n="86"/>Domini sit rediturus ad praedicanclum Christum 
+      <lb ed="#B" n="87"/>trucidandua ab antichristo. Alii teste 
+      Augustin<lb ed="#B" n="88" break="no"/>ppinantur cum in sepulcro suo adhuc jacere 
+      vi<lb ed="#B" n="89" break="no"/>vum, ibi dormire usque ad diem novissimum). Hebi 
+      <lb ed="#B" n="90"/>12, v. 8: Adulteri non filii estis pro adulterini filii 
+      <lb ed="#B" n="91"/>estis. 1. Petr. 2, v. 5: Superaedificamini domos 
+      <lb ed="#B" n="92"/>pirituales pro domus spiritualis. 2. Pet. 1, v. 16: 
+      <lb ed="#B" n="93"/>Dhristi virtutem et praescientiam pro praesentiam. 
+      <lb ed="#B" n="94"/>2. fontibus directe contradictorias. Gen. 19, v. 18: 
+      <lb ed="#B" n="95"/>Quaeso, Domine mi, pro: Ne quaeso, Domine 
+      mi<lb ed="#B" n="96" break="no"/>Gen. 49, v. 24 Jacob ait de Josepho: Et roborato 
+      <lb ed="#B" n="97"/>unt brachia manuum ejus. Vulg. habet contrarium, 
+      <lb ed="#B" n="98"/>issoluta sunt vincula brachiorum et manuum ejus. 
+      <lb ed="#B" n="99"/>Act. 24, v. 42: ut custodias occiderent pro: ut vin 
+      <lb ed="#B" n="100"/>etos occiderent. 1. Cor. 13, v. 51: Omnes quidem 
+      <lb ed="#B" n="101"/>resurgemus, sed non omnes immutabimur pro: Non 
+      <lb ed="#B" n="102"/>omnes quidem obdormiemus, omnes tamen 
+      immuta<lb ed="#B" n="103" break="no"/>bimur. 2. Cor. 7, v. 8: Non me poenitet, etsi 
+      poe<lb ed="#B" n="104" break="no"/>iteret pro: non me poenitet, etsi me poenitebat 
+      <lb ed="#B" n="105"/>Philem. v. 9: Cum sis talis, ut Paulus senex, 
+      pro<lb ed="#B" n="106" break="no"/>cum sim talis, nempe Paulus senex. Hebr. 3, v. 3. 
+      <lb ed="#B" n="107"/>quanto ampliorem honorem habet domus, pro: 
+      <lb ed="#B" n="108"/>Quanto ampliorem honorem habet quam domus, is qui 
+      <lb ed="#B" n="109"/>construxit eam. 1. Petr. 2, v. 23: Tradebat autem 
+      <lb ed="#B" n="110"/>udicanti se injuste pro juste. 2. Petr. 1, v. 16: In 
+      <lb ed="#B" n="111"/>doctas fabulas secuti pro doctas. I. Joh. 5, v. 165 
+      <lb ed="#B" n="112"/>Et est peccatum ad mortem, pro: Et est peccatum 
+      <lb ed="#B" n="113"/>non ad mortem. 3. ellipticas: Gen. 1, v. 3 deside 
+      <lb ed="#B" n="114"/>ratur omnes virides herbas. c. 4. v. 16 
+      profugu<lb ed="#B" n="115" break="no"/>in terra deest; e. 34, v. 29 desiderantur illa 
+      <lb ed="#B" n="116"/>verba: Diruperunt denique quicquid in domo 
+      qua<lb ed="#B" n="117" break="no"/>libet erat. c. 40, v. 5 desiderantur haec omnia: 
+      Pin<lb ed="#B" n="118" break="no"/>cerna ille et pistor ille, qui erant regio Aegyptii 
+      <lb ed="#B" n="119"/>et qui vincti in turri carceris. Matth. 6. v. 4 deest: 
+      <lb ed="#B" n="120"/>In propatulo. c. ejusd. v. 32: Scit Pater vester, 
+      <!--304.xml-->
+      <pb ed="#B" n="231"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>deest coelestis. c. 15, v. 31 deest mancoe sano 
+      <lb ed="#B" n="2"/>c. 18, v. ult. deest offensae illorum. e. 20, v. 15. 
+      <lb ed="#B" n="3"/>Aut non licet mihi, quod volo facere, pro: Anno 
+      <lb ed="#B" n="4"/>licet mihi facere, quod volo in rebus meis. Luc. 2. 
+      <lb ed="#B" n="5"/>v. 40: Puer crescebat et corrobarabatur, deest: 
+      Spi<lb ed="#B" n="6" break="no"/>ritu. Job. 5, v. 16 deest: et studebant illum 
+      interficer<lb ed="#B" n="7" break="no"/>Act. 10, v. 30 post verba: A nudius 4. die ueque 
+      <lb ed="#B" n="8"/>ad hanc horam, deest jejunus eram; c. ejusd. v. 3. 
+      <lb ed="#B" n="9"/>deest: qui cum adfuerit, loquetur sibi. c. 18, v. 2. 
+      <lb ed="#B" n="10"/>deest: Oportet omnino me festum, quod instat, 
+      ager<lb ed="#B" n="11" break="no"/>Hierosolymis. e. 22, v. 12: Vir secundum legem 
+      <lb ed="#B" n="12"/>pro vir pius secundum legem. Rom. 14, v. 6. de 
+      <lb ed="#B" n="13"/>est: Qui non observat diem, Domino non observo 
+      <lb ed="#B" n="14"/>1. Cor. 6, v. ult. deest: Et in spiritu vestro, quae 
+      <lb ed="#B" n="15"/>sunt Dei. c. 15, v. 54 deest: cum corruptibile hoc 
+      <lb ed="#B" n="16"/>induerit incorruptibilitatem 2. Cor. 12, v. 11: 
+      Fa<lb ed="#B" n="17" break="no"/>ctus sum insipiens, deest in gloriando. 1. Tim. 6 
+      <lb ed="#B" n="18"/>v. 5 deest: Secede ab iis, qui ejusmodi sunt. Hebi 
+      <lb ed="#B" n="19"/>1, v. 3: Purgationem peccatorum faciens, deest, 
+      pe<lb ed="#B" n="20" break="no"/>se ipsum. 1. Pet. 4. v. 14 desunt: Quod ad illos qui 
+      <lb ed="#B" n="21"/>dem attinet, blasphematur; quod autem ad vos, glo 
+      <lb ed="#B" n="22"/>rificatur. Apoe. 2. v. 14: Edere et fornicari, pro 
+      <lb ed="#B" n="23"/>edere, quae xml:idolis immolantur, et fornicari. 4. Plec 
+      <lb ed="#B" n="24"/>nasticas: Gen. 4. v. 15 redundat: Nequaquam ito 
+      <lb ed="#B" n="25"/>fiet. c. 5, v. 22 superflua sunt: Et vixit Enoch 
+      <lb ed="#B" n="26"/>c. 6. v. 6 redundant: Praecavens in futurum. e. 27 
+      <lb ed="#B" n="27"/>v. 33 redundant illa verba: Ultra quam credi 
+      po<lb ed="#B" n="28" break="no"/>test, admirans. c. 31, v. 32 redundant: quod autem 
+      <lb ed="#B" n="29"/>furti mecarquis. Exod. 2. v. 17 redundat: Alterum 
+      <lb ed="#B" n="30"/>peperit, quem vocavit Eliezer, dicens: Deus enim 
+      <lb ed="#B" n="31"/>patris mei fuit adjutor meus et eripuit me a 
+      <lb ed="#B" n="32"/>manu Pharaonis, quorum nihil est in Hebraeo 
+      <lb ed="#B" n="33"/>Plura hujusmodi ubivis occurrunt. 5. Chronogro 
+      <lb ed="#B" n="34"/>phicas: Gen. 8, v. 4: Dies 27 pro 17. c. 11, v. 13. 
+      <lb ed="#B" n="35"/>Anni trecenti tres pro quadringentis tribus. Matth. 
+      <lb ed="#B" n="36"/>3, v. 2: Appropinquabit reqnum coelorum pro 
+      <lb ed="#B" n="37"/>appropinquavit. c. 26, v. 61: Poet triduum pro tri 
+      <lb ed="#B" n="38"/>duo. Act. 5, v. 13: Peccatum non imputabatur, cur 
+      <lb ed="#B" n="39"/>lex non esset, pro peccatum non imputatur, cum 
+      <lb ed="#B" n="40"/>nulla lex est. 6. Topographicas: Gen. 2, v. 8 
+      <lb ed="#B" n="41"/>Plantaverat Deus paradisum voluptatis a princi 
+      <lb ed="#B" n="42"/>pio, pro: plantaverat Deus hortum in Eden a 
+      <lb ed="#B" n="43"/>oriente. c. 34, v. 3 vallis silvestris dicitur, quae 
+      <lb ed="#B" n="44"/>Siddim vel campestris dicenda erat, nisi enim pro 
+      <lb ed="#B" n="45"/>prium nomen sit, locum aratum, non silvestrem 
+      <lb ed="#B" n="46"/>significat. Deut. 4. v. 41. 46. 47. 49: Trans Jod 
+      <lb ed="#B" n="47"/>danem. pro: cis Jordanem. 7. Historicas: Gen. &amp; 
+      <lb ed="#B" n="48"/>v. 7: Corvus egrediebatur et non revertebatur 
+      <lb ed="#B" n="49"/>ubi vulgata editio secuta est LXX interpretes, in 
+      <lb ed="#B" n="50"/>Hebraeo est: Corvus ibat et revertebatur in arcan 
+      <lb ed="#B" n="51"/>quousque aquae exaruerunt. c. 24, v. 22 duo siel 
+      <lb ed="#B" n="52"/>leguntur pro dimidio siclo. c. 36, v. 24 ana invo 
+      <lb ed="#B" n="53"/>niuse dicitur aquas calidas, cum invenerit mulos 
+      <lb ed="#B" n="54"/>c. 37, v. 2 Joseph dicitur fuisae annorum sedecim 
+      <lb ed="#B" n="55"/>in Hebraeo est annorum septendecim. Luc. 9, v. 14: 
+      <lb ed="#B" n="56"/>Erant fere viri quinque millia, in Graeco circites 
+      <lb ed="#B" n="57"/>quinquies millia. 8. Dogmaticas: Gen. 3, v. 15: Ipse 
+      <lb ed="#B" n="58"/>conteret caput serpentis (unde Maria pro Christi in 
+      <lb ed="#B" n="59"/>opere redemtionis socia fuit habita). c. 4, v. 13. 
+      <lb ed="#B" n="60"/>Major est iniquitas mea quam ut veniam meream 
+      <!--304.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>(in Hebraeo nihil est, quod vel minimam merit 
+      <lb ed="#B" n="62"/>significationem habeat, vertendum enim erat, ut vel 
+      <lb ed="#B" n="63"/>niam consequar). Matth. 6, v. 7: Nolite multum 
+      lo<lb ed="#B" n="64" break="no"/>qui in precibus (Graeca habent, μὴ βαττολογήσητε, 
+      <lb ed="#B" n="65"/>quod longe aliud est). Rom. 12, v. 19: Non 
+      voe<lb ed="#B" n="66" break="no"/>metipsos defendentes pro ulciscentes. c. 14, v. 5: 
+      <lb ed="#B" n="67"/>Unusquisque in suo sensu abundet, pro unusquis 
+      <lb ed="#B" n="68"/>que in animo plane certus esto. Galat. 3, v. 24. 
+      <lb ed="#B" n="69"/>Lexe paedagogus noster fuit in Christo, pro in 
+      Chri<lb ed="#B" n="70" break="no"/>stum. 8. quaedam conjungenda distrahit et distra 
+      <lb ed="#B" n="71"/>henda conjungit. Luc. 16, v. 22: Mortuus est di 
+      <lb ed="#B" n="72"/>ves et sepultus est in inferno. Elevans autem oculos 
+      <lb ed="#B" n="73"/>quos (cum legendum esset: Mortuus est dives et 
+      se<lb ed="#B" n="74" break="no"/>pultus est. Et in inferno elevans oculos suos. Ex 
+      <lb ed="#B" n="75"/>hac corruptela factum, ut multi interpretes, qui non 
+      <lb ed="#B" n="76"/>inspexerunt Graecum textum, suaviter philosopher 
+      <lb ed="#B" n="77"/>tur de sepultura hujus divitis apud inferos). Act. 2. 
+      <lb ed="#B" n="78"/>v. 42: Et communicatione fractionis panis, pro: et 
+      <lb ed="#B" n="79"/>communicatione et fractione panis. c. 10, v. 30: Usque 
+      <lb ed="#B" n="80"/>id hanc horam eram orans hora nona, pro, usque 
+      <lb ed="#B" n="81"/>ad horam eram jejunans et hora nona precabar. 
+      <lb ed="#B" n="82"/>Gal. 4, v. ult. verba illa: Qua libertate 
+      Christu<lb ed="#B" n="83" break="no"/>tos liberavit, conjungenda sunt cum initio capitis 
+      <lb ed="#B" n="84"/>sequentis. 2. Petr. 2, v. 8: Adspectu enim et auditi 
+      <lb ed="#B" n="85"/>ustus erat, habitans apud eos; qui de die in diem 
+      <lb ed="#B" n="86"/>animam justam iniquis operibus excruciabant, 
+      pro<lb ed="#B" n="87" break="no"/>adspectu enim et auditu justus ille habitans 
+      inte<lb ed="#B" n="88" break="no"/>eos, qui de die in diem animam justam iniquis 
+      <lb ed="#B" n="89"/>actis cruciabant 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e3345">
+               <lb ed="#B" n="90"/>516. 5. Si Latina illa versio fuisset in primitiva 
+      ee<lb ed="#B" n="91" break="no"/>elesia authentica judicata, utique ecclesia Latina et 
+      <lb ed="#B" n="92"/>doctores ecelesiae Latinae mox, ubi prodiit, pro au 
+      <lb ed="#B" n="93"/>thentica eam recepissent, nec ab ea in usu publico 
+      <lb ed="#B" n="94"/>et in scriptis suis discessisent. Sed posterius 
+      dici<lb ed="#B" n="95" break="no"/>nequit. Nam 1. Hieronym. in praefat. super Jos 
+      <lb ed="#B" n="96"/>estatur suo tempore tot fuisse exemplaria, quot 
+      <lb ed="#B" n="97"/>codices. Augustin. libr. 2. de doctr. Christ. c. 11. 
+      <lb ed="#B" n="98"/>scribit numerari non potuisse, qui Scripturas in 
+      <lb ed="#B" n="99"/>linguam Latinam verterint. 2. Platina in vita 
+      Da<lb ed="#B" n="100" break="no"/>masi refert vulgatam illam versionem aliquot pos 
+      <lb ed="#B" n="101"/>Christum annis demum aliquam in ecclesia obti 
+      <lb ed="#B" n="102"/>nuisae auctoritatem. 3. Patres Latini in scriptis 
+      <lb ed="#B" n="103"/>quis multa aliter citant, quam in vulgata versione 
+      <lb ed="#B" n="104"/>exstant. Erasmus in praefat. Hilarii: Translatio, 
+      <lb ed="#B" n="105"/>qua utitur Hilarius, diversa est ab hac, quae nunc 
+      <lb ed="#B" n="106"/>pulgo recepta est. Porro cum Cypriano sua si 
+      <lb ed="#B" n="107"/>translatio, cum Augustino sua, cum Ambrosio sud 
+      <lb ed="#B" n="108"/>cum Hilario sua, cum Tertulliano sua ab omnibus 
+      <lb ed="#B" n="109"/>diversa, satis apparet nullam olim fuisse omnium 
+      <lb ed="#B" n="110"/>communem. Id ipsum multis demonstrari potest 
+      <lb ed="#B" n="111"/>exemplis, utpote I. de Tertulliano. Gal. 6, v. 2. 
+      <lb ed="#B" n="112"/>pabet vulgata: Alter alterius onera portate; Ter 
+      <lb ed="#B" n="113"/>tull. lib. 5. contra Marcion. c. 4. sic citat: Onera 
+      <lb ed="#B" n="114"/>vestra inricem sufferte. 1. Cor. 1, v. 19 habet vul 
+      <lb ed="#B" n="115"/>gata: Prudentiam prudentium reprobabo; Tertul 
+      <lb ed="#B" n="116"/>lianus lib. 5. adv. Marc. c. 5. citat: Irritam faciam 
+      <lb ed="#B" n="117"/>Rom. 1, v. 16 habet vulgata: Non erubesco evange 
+      <lb ed="#B" n="118"/>lium; Tertullianus lib. 5. c. 13. eitat: Non me 
+      pu<lb ed="#B" n="119" break="no"/>det evangelii. 2. De Cypriano. Matth. 3, v. 11. 
+      <lb ed="#B" n="120"/>habet vulgata: Cujus ego non sum dignus portare 
+      <!--305.xml-->
+      <pb ed="#B" n="232"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>calceamenta. Cyprianus ad Quirinum lib. 1. num. 
+      <lb ed="#B" n="2"/>12. citat: Non sum xml:idoneus. Luc. 1, v. 68 habet 
+      <lb ed="#B" n="3"/>vulgata: Quia visitavit et fecit redemtionem plebi 
+      <lb ed="#B" n="4"/>quae. Cyprianus ad Quirinum lib. 2. num. 7. citat. 
+      <lb ed="#B" n="5"/>Quia prospecit redemtionem populo suo. Joh. 1. 
+      <lb ed="#B" n="6"/>v. 1 habet vulgata: In principio erat verbum 
+      <lb ed="#B" n="7"/>Cyprianus d. I. 2. num. 6. citat: In principio erat 
+      <lb ed="#B" n="8"/>sermo. Rom. 2, v. 4 habet vulgata: An divitias 
+      <lb ed="#B" n="9"/>bonitatis ejus et patientiae et longanimitatis 
+      con<lb ed="#B" n="10" break="no"/>temnis? Cyprianus lib. 3. num. 35. citat: An num 
+      <lb ed="#B" n="11"/>quid opulentiam bonitatis ejus et sustinentiam et 
+      <lb ed="#B" n="12"/>patientiam contemnis? Matth. 18, v. 32 habet 
+      vu<lb ed="#B" n="13" break="no"/>gata: Omne debitum dimisi tibi, quoniam rogasti me, 
+      <lb ed="#B" n="14"/>Clerus Romanus tempore Cypriani epist. 31 sic citat. 
+      <lb ed="#B" n="15"/>Donavi tibi omne debitum, quia rogasti me. 3. De 
+      <lb ed="#B" n="16"/>Arnobio 1. Joh. 2. v. 18 vulgata legit: Filioli, no 
+      <lb ed="#B" n="17"/>vissima hora est. Arnobius in Psal. 67. citat: Puer 
+      <lb ed="#B" n="18"/>novissima hora est. Luc. 22, v. 31 vulgata habet. 
+      <lb ed="#B" n="19"/>Ecce Satanas expetivit vos, ut cribraret sicut 
+      triti<lb ed="#B" n="20" break="no"/>cum. v. 32: Ego autem rogavi pro te. Arnobius in 
+      <lb ed="#B" n="21"/>Psal. 106. citat: Satanas expetivit, ut ventilet. Eg. 
+      <lb ed="#B" n="22"/>autem intercessi. 4. De Hilario. Matth. 7, V. 
+      <lb ed="#B" n="23"/>habet vulgata: In quo judicio judicaveritis, judi 
+      <lb ed="#B" n="24"/>cabimini. Hilarius in illum loc. Matth. citat: Jud 
+      <lb ed="#B" n="25"/>cabitur de vobis. c. 11, v. 6 vulgata habet: arus 
+      <lb ed="#B" n="26"/>dinem vento agitatam. Hilarius in Matth. legit vente 
+      <lb ed="#B" n="27"/>quassatam. c. 26, v. 51 vulgata habet: 
+      Extenden<lb ed="#B" n="28" break="no"/>manum exemit gladium suum et percutiens servum 
+      <lb ed="#B" n="29"/>principis sacerdotum amputavit auriculam ejus 
+      <lb ed="#B" n="30"/>Hilarius in Matth. legit: Gladium exserens serve 
+      <lb ed="#B" n="31"/>principis sacerdotum aurem abscidit. 5. De 
+      Am<lb ed="#B" n="32" break="no"/>brosio. Luc. 1, v. 42 vulgata habet: inter mulieres 
+      <lb ed="#B" n="33"/>Ambros. in comm. legit in mulieribus; e. ejusd 
+      <lb ed="#B" n="34"/>v. 39 fiat mihi; Ambrosius legit, contingat mihi 
+      <lb ed="#B" n="35"/>c. 12, v. 22 vulgata habet, quid induamini; Am 
+      <lb ed="#B" n="36"/>brosius legit, quid vestiamini. 6. De 
+      Augustin<lb ed="#B" n="37" break="no"/>idem multis demonstrari potest. 7. Quin imo ne 
+      qui<lb ed="#B" n="38" break="no"/>dem tempore Gregorii papae, qui ducentis et am 
+      <lb ed="#B" n="39"/>plius annis post Hieronymum (quem versionis illiu 
+      <lb ed="#B" n="40"/>auctorem faciunt) vixit, illa editio sola, ne quidem 
+      <lb ed="#B" n="41"/>in ipsa Romana ecclesia obtinere potuit, ut consta 
+      <lb ed="#B" n="42"/>ex praefat. Gregorii in Jobum c. 5. 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e3512">
+               <lb ed="#B" n="43"/>517. Antithesis. Pontificii, ut jam ante diximus 
+      <lb ed="#B" n="44"/>versionem vulgatam habent pro authentica, cuju 
+      <lb ed="#B" n="45"/>rei veram et genuinam causam exponit Albertu 
+      <lb ed="#B" n="46"/>Ingolstadiensis scribens, referente D. Chemnicie 
+      <lb ed="#B" n="47"/>part. 1. Exam. concil. Trid. p. 102 in, veteri liter 
+      <lb ed="#B" n="48"/>vulgatae editionis latere multa mysteria fidei, 
+      inte<lb ed="#B" n="49" break="no"/>lige Pontificiae. Sic Gen. 3, v. 15 legit vulgata 
+      <lb ed="#B" n="50"/>translatio: Ipsa conteret caput serpentis, quod ad 
+      <lb ed="#B" n="51"/>patrocinium et intercessionem Mariae 
+      accommodam<lb ed="#B" n="52" break="no"/>Gen. 4. v. 13 dicit Cain in vulg. translatione: Mo 
+      <lb ed="#B" n="53"/>jor est iniquitas mea, quam ut veniam merear, quod 
+      <lb ed="#B" n="54"/>ad stabilienda merita operum detorquent, cum in 
+      <lb ed="#B" n="55"/>Hebraeo nullius meriti fiat mentio. Gen. 6, v. 5 
+      <lb ed="#B" n="56"/>habet vulgata: Cogitatio cordis intenta est ad 
+      mo<lb ed="#B" n="57" break="no"/>lum. Hoc ad extenuandum peccatum originis re 
+      <lb ed="#B" n="58"/>ferunt, cum in Hebraeo sit: Omne figmentum cogo 
+      <lb ed="#B" n="59"/>tationum cordis humani tantum malum ext omnibus 
+      <lb ed="#B" n="60"/>diebus. Gen. 14. v. 18 habet vulgata: Melchisedeo 
+      <!--305.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>rex Salem proferens panem et vinum, erat enim sacer. 
+      <lb ed="#B" n="62"/>dos Dei altissimi. Ex eo probant sacrificium missae, 
+      <lb ed="#B" n="63"/>cum Hebr. textus nec oblationis verbum nec rationa 
+      <lb ed="#B" n="64"/>lem conjunctionem habeat. Gen. 48, v. 16 vulgata 
+      ha<lb ed="#B" n="65" break="no"/>pet: Invocetur super eos nomen meum. Ex hoc loco 
+      <lb ed="#B" n="66"/>invocationem sanctorum probant, cum Hebraea 
+      ha<lb ed="#B" n="67" break="no"/>beant interprete Bened. Aria Montano: Vocetur in 
+      <lb ed="#B" n="68"/>cis nomen meum. Job. 5, v. I vulgata legit: Voca 
+      <lb ed="#B" n="69"/>si quis est, qui tibi respondeat, et ad aliquem 
+      <lb ed="#B" n="70"/>sanctorum convertere. Ex hoc loco itidem probant 
+      <lb ed="#B" n="71"/>invocationem sanctorum, cum in Hebraeo sit: Ad 
+      <lb ed="#B" n="72"/>quem sanctorum respicies? qui scilicet non fuerit 
+      <lb ed="#B" n="73"/>multa perpessus. Job. 33, v. 23 habet vulgata: Si 
+      <lb ed="#B" n="74"/>fuerit pro eo angelus loquens, miserebitur ejus et 
+      <lb ed="#B" n="75"/>dicet: libera eum. Hunc locum Bellarminus itidem 
+      <lb ed="#B" n="76"/>ad invocationem sanctorum refert, sed in 
+      Hebrae<lb ed="#B" n="77" break="no"/>est: Si fuerit apud eum angelus interpres unus ex 
+      <lb ed="#B" n="78"/>nillibus, ut indicet homini rectitudinem ejus. Ps. 139. 
+      <lb ed="#B" n="79"/>v. 17 habet vulgata: Mihi honorificati sunt amici 
+      <lb ed="#B" n="80"/>tui nimis. In eo etiam quaerunt fundamentum 
+      in<lb ed="#B" n="81" break="no"/>vocationis sanctorum. Hebraeus refert ad 
+      cogitatio<lb ed="#B" n="82" break="no"/>nes Dei. Psalm. 150, v. i habet vulgata: Laudat 
+      <lb ed="#B" n="83"/>ominum in sanctis ejus. Ex eo invocationem 
+      san<lb ed="#B" n="84" break="no"/>ctorum stabilire nituntur, cum in Hebraeo sit: Lau 
+      <lb ed="#B" n="85"/>date Dominum in sanctuario ejus. Eccles. 9, v. s. 
+      <lb ed="#B" n="86"/>et 2 habet vulgata: Nescit homo, an amore vel 
+      <lb ed="#B" n="87"/>odio dignus sit, sed omnia in futurum servantur 
+      <lb ed="#B" n="88"/>incerta. Ex eo dubitationem probare cupiunt, cum 
+      <lb ed="#B" n="89"/>in Hebraeo sit: Etiam amorem, etiam odium non 
+      <lb ed="#B" n="90"/>sciens homo, omnia ante facies eorum. Sirac. 5. 
+      <lb ed="#B" n="91"/>v. 5 habet vulgata: De propitiato peccato noli esse 
+      <lb ed="#B" n="92"/>gine metu. Illud itidem ad dubitationem 
+      accommo<lb ed="#B" n="93" break="no"/>dant, cum in Graeco sit: De propitiatione ne fia 
+      <lb ed="#B" n="94"/>tine timore, ut apponas peccatum super peccatum. 
+      <lb ed="#B" n="95"/>c. 16, v. 15 habet vulgata: Misericordia faciet 
+      uni<lb ed="#B" n="96" break="no"/>cuique locum secundum meritum operum. Ex hoc 
+      <lb ed="#B" n="97"/>loco probat Bellarminus merita operum, cum in 
+      <lb ed="#B" n="98"/>Graeco legatur: Unusquisque sccundum opera qud 
+      <lb ed="#B" n="99"/>inveniet. Luc. 2, v. 28 habet vulgata: Ave gratia 
+      <lb ed="#B" n="100"/>plena, xml:id accommodant ad invocationem Mariae, cum 
+      <lb ed="#B" n="101"/>in Graeco sit: χαῖρε κεχαριτωμένῃ. cap. ejusd., v. 4. 
+      <lb ed="#B" n="102"/>habet vulgata: Quia respexit humilitatem ancillas 
+      <lb ed="#B" n="103"/>quae, xml:id referunt ad probanda operum merita, cum 
+      <lb ed="#B" n="104"/>in Graeco sit respexit ἐπὶ τὴν ταπείνωσιν, ad 
+      humi<lb ed="#B" n="105" break="no"/>lem et vilem conditionem. e. 2, v. 14 vulgata habet: 
+      <lb ed="#B" n="106"/>Pax in terra hominibus bonae voluntatis. Ex hoc 
+      <lb ed="#B" n="107"/>loco libertatem arbitrii in spiritualibus elicere 
+      co<lb ed="#B" n="108" break="no"/>nantur, cum in Graeco sit hominibus εὐδοκία 
+      <lb ed="#B" n="109"/>c. 10, v. 35 habet vulgata: quodcunque supererogo 
+      <lb ed="#B" n="110"/>peris, ex hoc loco opera supererogationis pro 
+      <lb ed="#B" n="111"/>bare cupiunt, cum in Graeco sit δ τι ἂν προς¬ 
+      <lb ed="#B" n="112"/>δαπανήσῃς. Joh. 14, v. 26 habet vulgata: Spiritus 
+      <lb ed="#B" n="113"/>sanctus suggeret vobis omnia, quaecunque dicam 
+      <lb ed="#B" n="114"/>vobis. Ex hoc loco Remenses auctoritatem ecclesiae; 
+      <lb ed="#B" n="115"/>et conciliorum in promulgandis fidei dogmatibus 
+      <lb ed="#B" n="116"/>probant, cum in Graeco sit ὅσα εἴπον, quaecunque 
+      <lb ed="#B" n="117"/>dixi vobis. Rom. 11, v. 6 vulgata omisit illam 
+      an<lb ed="#B" n="118" break="no"/>tithesin: Sin ex operibus, jam non est gratia, ut 
+      <lb ed="#B" n="119"/>facilius obtinere possint, gratiam et opera in 
+      arti<lb ed="#B" n="120" break="no"/>culo justificationis simul consistere posse. 1. Cor. 4. l. 
+      <!--306.xml-->
+      <pb ed="#B" n="233"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>v. 1 ministri verbi vocantur dispensatores myste 
+      <lb ed="#B" n="2"/>riorum Dei. Ex hoc loco concil. Tridentinum 
+      <lb ed="#B" n="3"/>probare nititur posse ecclesiam in sacramenti 
+      <lb ed="#B" n="4"/>dispensare et unam speciem in sacra coena ab 
+      <lb ed="#B" n="5"/>rogare, cum in Graeco sint οἰκονόμοι τῶν μυστη¬ 
+      <lb ed="#B" n="6"/>ρίων. c. 14, v. 16 vulgata habet: Si benediceris 
+      <lb ed="#B" n="7"/>spiritu, qui supplet locum xml:idiotae, quomodo dice 
+      <lb ed="#B" n="8"/>amen? ex eo colligunt debere aliquem adesse 
+      <lb ed="#B" n="9"/>qui sacerdoti pro toto populo respondeat, cum in 
+      <lb ed="#B" n="10"/>Graeco sit: ὁ ἀναπληρῶν τὸν τóπον τοῦ ἰδιώνοιν 
+      <lb ed="#B" n="11"/>Ephes. 2, v. 10 habet vulgata: Creati sumus in 
+      <lb ed="#B" n="12"/>bonis operibus, hoc transferunt ad merita ope 
+      <lb ed="#B" n="13"/>rum, sed in Graeco est: Creati sumus in Christo 
+      <lb ed="#B" n="14"/>ἐπὶ ἔργοις ἀγαθοῖς. c. 5, v. 32 habet vulgata: So 
+      <lb ed="#B" n="15"/>cramentum hoc magnum est. Ex eo probare cupiunt 
+      <lb ed="#B" n="16"/>conjugium esse N. T. sacramentum, cum in Graeco 
+      <lb ed="#B" n="17"/>sit μυστήριον. c. 6, v. 13 habent quidam codd. 
+      La<lb ed="#B" n="18" break="no"/>tini: Ut in omnibus possitis perfecti stare. Ex eo 
+      <lb ed="#B" n="19"/>probat Staphylus perfectionem operum, cum in 
+      <lb ed="#B" n="20"/>Graeco sit: καὶ ἅπαντα κατεργασάμενοι στῆναι 
+      <lb ed="#B" n="21"/>Hebr. 1, v. 3 in versione vulgata est omissum: 
+      pe<lb ed="#B" n="22" break="no"/>se ipeum, ut obtinere possint, Christum nostris operi 
+      <lb ed="#B" n="23"/>bus promeruisse vim satisfaciendi pro peccatis. c. 8. 
+      <lb ed="#B" n="24"/>v. 28 Christus dicitur oblatus ad multorum peccate 
+      <lb ed="#B" n="25"/>exhaurienda, xml:id Andradius eo applicat, quod post 
+      <lb ed="#B" n="26"/>baptismum nullae maneant peccati reliquiae cum in 
+      <lb ed="#B" n="27"/>Graeco sit verbum ἐνεγκεῖν. Hebr. 13, v. 16 habe 
+      <lb ed="#B" n="28"/>vulgata: Talibus hostiis promeretur Deus. Hoc 
+      <lb ed="#B" n="29"/>applicant ad merita operum, cum in Graeco sit 
+      <lb ed="#B" n="30"/>εὑαρεστεῖται. Jac. 5, v. 15 habet vulgata: Et alle 
+      <lb ed="#B" n="31"/>vabit eum Dominus, hoc ad efficaciam extrema 
+      <lb ed="#B" n="32"/>unctionis applicant, quia verbum illud de spectris 
+      <lb ed="#B" n="33"/>et incursione Satanae interpretantur, cum in 
+      Graec<lb ed="#B" n="34" break="no"/>sit kγερεί 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e3768">
+               <lb ed="#B" n="35"/>518. Expendamus vero argumenta, quibus probar 
+      <lb ed="#B" n="36"/>conantur authenticam vulgatae versionis auctorita 
+      <lb ed="#B" n="37"/>tem. 1. A versionis hujus antiquitate: Vulgata illo 
+      <lb ed="#B" n="38"/>editio longo tot seculorum uxu in ecclesia est 
+      re<lb ed="#B" n="39" break="no"/>cepta, a tempore enim Gregorii per annos fere 
+      <lb ed="#B" n="40"/>mille ecclesia hac una editione est usa. Res 
+      <lb ed="#B" n="41"/>1. Quae sit authentica Scripturae editio, de eo non 
+      <lb ed="#B" n="42"/>est judicandum ex usu ecclesiae, sed ex illa lingus 
+      <lb ed="#B" n="43"/>in qua prophetae et apostoli scripserunt. Usus 
+      e<lb ed="#B" n="44" break="no"/>clesiae ad Scripturam, non autem Scriptura ad usum 
+      <lb ed="#B" n="45"/>ecclesiae est accommodanda. 2. Si aetas auctorita 
+      <lb ed="#B" n="46"/>tem authenticam conciliat, nulla editio vetustior es 
+      <lb ed="#B" n="47"/>Hebraea, quippe in qua primum perscripti sum 
+      <lb ed="#B" n="48"/>V. T. libri. 3. Si illa versio Scripturae est authentica 
+      <lb ed="#B" n="49"/>qua ecclesia per mille annos usa est, etiam auther 
+      <lb ed="#B" n="50"/>tica erit editio Graeca et Chaldaica V. T. ac versi 
+      <lb ed="#B" n="51"/>Syriaca N. T. 4. Latina ecclesia, quae hac ver 
+      <lb ed="#B" n="52"/>sione usa, est duntaxat pars catholica ecclesiae 
+      <lb ed="#B" n="53"/>fuerunt enim plures aliae, videlicet Aegyptiaca 
+      <lb ed="#B" n="54"/>Aethiopicae, Arabicae, Indicae, Persicae et cumpri 
+      <lb ed="#B" n="55"/>mis Graecae, in quibus nullus fuit hujus versioni 
+      <lb ed="#B" n="56"/>usus. 5. Hieronymus praefat. in Josuam et 
+      Augu<lb ed="#B" n="57" break="no"/>stinus lib. 2. de doctr. Christ. cap. 11. docent, in 
+      <lb ed="#B" n="58"/>numeras in ecclesia veteri fuisse versiones Latina 
+      <lb ed="#B" n="59"/>Eas tam cito aboleri potuisse vel abolitas fuisse 
+      no<lb ed="#B" n="60" break="no"/>est verisimile. Ergo sola illa vulgata translatio non 
+      <!--306.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>fuit in usu, sed etiam aliae. Gregorius in epist. ad 
+      <lb ed="#B" n="62"/>Leandrum dicit ecclesiam Romanam esse usam 
+      <lb ed="#B" n="63"/>duabus vervionibus, quarum unam vocat veterem, 
+      <lb ed="#B" n="64"/>alteram novam. 6. Ex scriptoribus ecclesiasticis 
+      <lb ed="#B" n="65"/>qui post Gregorium vixerunt, Beda scilicet, Gilda e 
+      <lb ed="#B" n="66"/>aliis apparet, non omnia Scripturae dicta eo modo 
+      <lb ed="#B" n="67"/>citari, quo leguntur in vulgata illa translatione. 
+      Isi<lb ed="#B" n="68" break="no"/>dorus lib. 6. etymolog. cap. 5. dicit eam merit. 
+      <lb ed="#B" n="69"/>ceteris anteponi; fuerunt ergo in usu etiam aliae 
+      <lb ed="#B" n="70"/>7. Si vulgata versio est authentica, tunc omnia ejus 
+      <lb ed="#B" n="71"/>verba erunt authentica. Atqui in multis continet 
+      <lb ed="#B" n="72"/>manifestos errores et mendas, ut ostendimus. 8. 
+      Ne<lb ed="#B" n="73" break="no"/>statim desiit in occidente ecclesia colligi, si vel 
+      <lb ed="#B" n="74"/>naxime versionem secuta fuerit, quae non exacto 
+      <lb ed="#B" n="75"/>in omnibus fontem sequitur, neque enim ab omn 
+      <lb ed="#B" n="76"/>plane errore immunis est ecclesia, ac res ipsa 
+      testa<lb ed="#B" n="77" break="no"/>tur, post Gregorii tempora magnam doctrinae in 
+      <lb ed="#B" n="78"/>clinationem esse factam. 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e3870">
+               <lb ed="#B" n="79"/>519. 2. Ex praeconii dignitate. Haec vulgata 
+      ver<lb ed="#B" n="80" break="no"/>sio aut est Hieronymi vel antiqua illa communis, 
+      <lb ed="#B" n="81"/>quam Augustinus vocat Italam. Si est illa anti 
+      <lb ed="#B" n="82"/>qua, magnum habet testimonium ab Augustino lib. 2 
+      <lb ed="#B" n="83"/>de doctr. Christ. cap. 15; si est Hieronymi, habet 
+      <lb ed="#B" n="84"/>testimonia omnium veterum, qui eam videre potue 
+      <lb ed="#B" n="85"/>runt. Resp. 1. Veteres eam laudarunt, sed authen 
+      <lb ed="#B" n="86"/>ticam eam haud quaquam judicarunt, ut ipsorum 
+      <lb ed="#B" n="87"/>met verbis probatum dedimus superius §. 315. 2. Vi. 
+      <lb ed="#B" n="88"/>hujus argumenti duae versiones erunt authenticae 
+      <lb ed="#B" n="89"/>quia Augustinus et Italam et Hieronymianam 
+      lau<lb ed="#B" n="90" break="no"/>dat. Isidorus lib. 6. etymolog. cap. 5. interpreta 
+      <lb ed="#B" n="91"/>ionem illam ceteris anteponi dicit, puta versioni 
+      <lb ed="#B" n="92"/>bus, non autem ipsis fontibus. 3. Hypothesis 
+      argu<lb ed="#B" n="93" break="no"/>menti, quod scilicet Hieronymi sit illa versio, dubia 
+      <lb ed="#B" n="94"/>est et incerta, ut ostendimus §. 514. 4. Patres suo 
+      <lb ed="#B" n="95"/>praeconio tam non possunt editionem aliquam 
+      Scr<lb ed="#B" n="96" break="no"/>pturae, quae in se non est authentica, facere 
+      authen<lb ed="#B" n="97" break="no"/>ticam, quam non potest ecclesia ex libro non cano 
+      <lb ed="#B" n="98"/>nico facere canonicum, quod Bellarminus lib. 1. de 
+      <lb ed="#B" n="99"/>verbo Dei c. 10. fatetur. 5. Hieronymus ipse de 
+      <lb ed="#B" n="100"/>sua versione aliter pronuntiat praefat. in Pentat: 
+      <lb ed="#B" n="101"/>Aliud est esse vatem, aliud interpretem. 6. Etiam 
+      <lb ed="#B" n="102"/>Jraeca LXX interpp. versio multis laudibus extol 
+      <lb ed="#B" n="103"/>litur a Justino, Irenaeo, Eusebio, Epiphanio, 
+      Chry<lb ed="#B" n="104" break="no"/>jostomo, Cyrillo, Augustino ete., eam tamen juxta 
+      <lb ed="#B" n="105"/>Hebraei textus normam correxit Hieronymus, nec 
+      <lb ed="#B" n="106"/>quisquam authenticam eam esse pronuntiat 
+  </p>
+            <p xml:id="zef3dd-d1e472-d1e3934">
+               <lb ed="#B" n="107"/>520. 3. Ex rationis paritate. Habuerunt Hebraei 
+      <lb ed="#B" n="108"/>in sua lingua authenticam Scripturam. Graeci 
+      <lb ed="#B" n="109"/>quoque habuerunt in sua lingua authenticam, i. e 
+      <lb ed="#B" n="110"/>Testamentum Vetus ex versione LXX interpp. 
+      e<lb ed="#B" n="111" break="no"/>V. T. primos fontes; igitur aequum fuit, ut Latina 
+      <lb ed="#B" n="112"/>ecclesia, in qua sedes Petri est et in qua perpetuo 
+      <lb ed="#B" n="113"/>ides Christiana mansura erat, haberet sua linquo 
+      <lb ed="#B" n="114"/>authenticam Scripturam. Resp. 1. Vi hujus 
+      argu<lb ed="#B" n="115" break="no"/>menti quaelibet ecclesia alio utens xml:idiomate quam 
+      <lb ed="#B" n="116"/>Hebraeo vel Graeco deberet habere authenticam 
+      <lb ed="#B" n="117"/>versionem. 2. Graeca ecclesia non habet libros V. 
+      <lb ed="#B" n="118"/>T. in sua lingua authenticos. 3. Dentur Latini 
+      pro<lb ed="#B" n="119" break="no"/>phetico spiritu instructi, quales olim fuerunt pro¬ 
+      <!--307.xml-->
+      <pb ed="#B" n="234"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>phetae et apostoli, quorum illi Hebraice praedica 
+      <lb ed="#B" n="2"/>runt et scripserunt, his vero Graece scribere placuit 
+      <lb ed="#B" n="3"/>ob causam suo loco expositam. 4. Ubi vero hodi 
+      <lb ed="#B" n="4"/>ecelesia Latina? Romana non est Latina, sed Ita 
+      <lb ed="#B" n="5"/>lica. 5. Si Latina ecclesia non est ecclesia, nis 
+      <lb ed="#B" n="6"/>habeat authenticam aliquam Scripturae editionem in 
+      <lb ed="#B" n="7"/>sua lingua, ergo ante concilium Tridentinum, quod 
+      <lb ed="#B" n="8"/>vulgatam translationem canonizavit, ecelesia Latina 
+      <lb ed="#B" n="9"/>non fuit ecclesia. 6. Sedem Petri esse Romae et in 
+      <lb ed="#B" n="10"/>ea perpetuo fidem Christianam mansuram sine pro 
+      <lb ed="#B" n="11"/>batione asseritur. Ubi doctrina Petri sonat incor 
+      <lb ed="#B" n="12"/>rupta, ibi est Petri sedes 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e3997">
+               <lb ed="#B" n="13"/>521. 4. Aversionum varietate. Haeretici 
+      diver<lb ed="#B" n="14" break="no"/>sas et inter se dissentientes editiones cudunt. Erqe 
+      <lb ed="#B" n="15"/>praestat veterem Latinam retinere. Resp. 1. 
+      Nul<lb ed="#B" n="16" break="no"/>lam versionem tanquam authenticam ecclesiae 
+      ob<lb ed="#B" n="17" break="no"/>rudimus, sed solum textum Hebraeum in V. et 
+      <lb ed="#B" n="18"/>Graecum in N. T. authenticum esse statuimus 
+      <lb ed="#B" n="19"/>2. Dissensus ille non nisi ex fontium inspectione e 
+      <lb ed="#B" n="20"/>agnosci et conciliari debet. 3. Probaret hoc 
+      vu<lb ed="#B" n="21" break="no"/>gatam editionem reliquis versionibus, non auter 
+      <lb ed="#B" n="22"/>ipsis fontibus esse praeferendam. 4. Quod 
+      Bellar<lb ed="#B" n="23" break="no"/>minus in hac quaestione disputat ecclesiam Lati 
+      <lb ed="#B" n="24"/>nam, ut constantior fuit in fide retinenda quam 
+      <lb ed="#B" n="25"/>Graeca, ita fuisse vigilantiorem in suis 
+      co<lb ed="#B" n="26" break="no"/>dicibus a corruptione defendendis, illud repugna 
+      <lb ed="#B" n="27"/>plurimis ipsorum Latinorum patrum testimoniis, quae 
+      <lb ed="#B" n="28"/>superius sunt enumerata. Adde quod ecclesia 
+      La<lb ed="#B" n="29" break="no"/>tina non minus, si non magis quam Graeca, in do 
+      <lb ed="#B" n="30"/>etrinae puritate conservanda negligens fuerit. 5. Quod 
+      <lb ed="#B" n="31"/>addit ecclesiam approbasse illam versionem 
+      vulga<lb ed="#B" n="32" break="no"/>tam ac certos no reddidisse in iis, quae ad fidem 
+      <lb ed="#B" n="33"/>et mores pertinent, nulla esse in hac versione in 
+      <lb ed="#B" n="34"/>terpretis errata, ad illud breviter dicimus: Ecclesis 
+      <lb ed="#B" n="35"/>non habet auctoritatem et potestatem cujusquam 
+      <lb ed="#B" n="36"/>hominis interpretationem quantumvis accuratam sio 
+      <lb ed="#B" n="37"/>approbandi, ut eam solam esse authenticam ipsis 
+      <lb ed="#B" n="38"/>que fontibus praeferendam statuat. Et quae est illa 
+      <lb ed="#B" n="39"/>ecelesia, quae vulgatam versionem Latinam 
+      canoni<lb ed="#B" n="40" break="no"/>zavit? nulla profecto alia quam Romana, quae eo 
+      <lb ed="#B" n="41"/>ipso, quod sibi etiam errores canonizanti absoluto 
+      <lb ed="#B" n="42"/>fidem haberi postulat, ostendit se non esse veram 
+      <lb ed="#B" n="43"/>ecclesiam. 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e4067">
+               <lb ed="#B" n="44"/>SECTIO VI 
+      <lb ed="#B" n="45"/>DE GERMANICA LUTHERI 
+<lb ed="#B" n="46"/>VERSIONE 
+</p>
+            <p xml:id="zef3dd-d1e472-d1e4076">
+               <lb ed="#B" n="47"/>522. Grato animo agnoscimus et praedicamus 
+      in<lb ed="#B" n="48" break="no"/>signe beneficium, quod per Germanicam Luther 
+      <lb ed="#B" n="49"/>versionem Deus ecclesiis Germanicis praestitit; illa 
+      <lb ed="#B" n="50"/>enim textus originalis sententiam fidelissime 
+      expri<lb ed="#B" n="51" break="no"/>mit, sermone constat perspicuo, puritatem linguae 
+      <lb ed="#B" n="52"/>tuetur et in locis difficilioribus paraphraseos et 
+      com<lb ed="#B" n="53" break="no"/>mentarii operam praestat, unde haud immerito reli 
+      <lb ed="#B" n="54"/>quis beneficiis, quae Deus postremis hisce tempori 
+      <!--307.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="55"/>bus per Lutheri ministerium ecclesiae praestitit, hoc 
+      <lb ed="#B" n="56"/>opus versionis annumeratur, de quo Lutherus ipse 
+      <lb ed="#B" n="57"/>saepius testatur sibi et συνέργοις suis labore ac 
+      <lb ed="#B" n="58"/>sudore maximo illud constitisse. Confer Matthesium 
+      <lb ed="#B" n="59"/>concione 13. de Luthero ann. 1540. p. 142. De 
+      <lb ed="#B" n="60"/>Johanne Bugenhagio memoratur, quod diem illum 
+      <lb ed="#B" n="61"/>quo Lutherus ultimam manum bibliorum versioni 
+      <lb ed="#B" n="62"/>imposuit, quotannis cum sua domestica ecclesis 
+      <lb ed="#B" n="63"/>festivum habuerit, quo ipso praestantiam hujus 
+      <lb ed="#B" n="64"/>pperis manifestam facere voluit. Praeconia 
+      ver<lb ed="#B" n="65" break="no"/>sionis Germanicae a Luthero adornatae vide apud 
+      <lb ed="#B" n="66"/>Georgium principem Anhaldinum in Ps. 16. 
+      ope<lb ed="#B" n="67" break="no"/>rum Germ. fol. 508. et Hesshusium in praef. super 
+      <lb ed="#B" n="68"/>Psalt. p. 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e4131">
+               <lb ed="#B" n="69"/>23. Opponenda haec sunt 1. cavillationibus 
+      Cal<lb ed="#B" n="70" break="no"/>pinianorum, qui Lutheri versioni non multum tri 
+      <lb ed="#B" n="71"/>buunt, unde novas versiones Germanicas post 
+      Luthe<lb ed="#B" n="72" break="no"/>rum adornarunt Tigurini, Leo Judae et Piscator 
+      <lb ed="#B" n="73"/>Herbornensis. Tossanus in notis marginalibus biblio 
+      <lb ed="#B" n="74"/>rum in singulis fere capitibus eam corrigere et! 
+      <lb ed="#B" n="75"/>ad Hebraici textus sinceritatem revocare conatur. 
+      <lb ed="#B" n="76"/>Keckermannus lib. 1. Syst. theol. p. 188. disertis 
+      <lb ed="#B" n="77"/>verbis de ea scribere non veretur, quod naevos suoe 
+      <lb ed="#B" n="78"/>in V. praesertim T. non exiquos habeat et quod 
+      <lb ed="#B" n="79"/>Tremelli versio, quae in singulis ferme versiculis 
+      <lb ed="#B" n="80"/>a Lutherana nonnihil discedit, nonnunquam etiam 
+      <lb ed="#B" n="81"/>sensum plane diversum reddit, multis parasangis 
+      <lb ed="#B" n="82"/>illi praestet. 2. Calumniis Pontificiorum, qui eam 
+      <lb ed="#B" n="83"/>detractionis, additionis et mutationis multiplicis 
+      ar<lb ed="#B" n="84" break="no"/>guunt. Bellarminus lib. 2. de verbo Dei cap. 11. 
+      <lb ed="#B" n="85"/>Lutherus biblia pessima fide convertit, ut patet es 
+      <lb ed="#B" n="86"/>Cochlaeo in vita Lutheri ann. 1522., ubi legimus. 
+      <lb ed="#B" n="87"/>in nova trauslatione Testamenti Novi per Lutherum 
+      <lb ed="#B" n="88"/>facta fuisse notata ad mille loca immutata, xml:id est, 
+      <lb ed="#B" n="89"/>addita vel detracta vel depravata. ** Stanisl. 
+      Ho<lb ed="#B" n="90" break="no"/>ius de sacro vernacul. legendo tom. 1. p. 664: E. 
+      <lb ed="#B" n="91"/>bonis Latinis mala Germanica fecit Lutherus, sa 
+      <lb ed="#B" n="92"/>cria bibliis vertendis plus eum quam sexcentos 
+      erro<lb ed="#B" n="93" break="no"/>res admississe a catholicis animadversum est.** 
+      <lb ed="#B" n="94"/>Similia ἐγκλήματα occurrunt apud Pistorium in lib. 
+      <lb ed="#B" n="95"/>de signis antiquae et nov. fidei pag. 6. et seqq 
+      <lb ed="#B" n="96"/>Caspar. Ulenbergium in causis suae ad papatum 
+      <lb ed="#B" n="97"/>defectionis caus. 8. et 18. Tannerum in anatom. 
+      <lb ed="#B" n="98"/>lugust. confess. demonstrat. 2. §. 24. in Dioptra 
+      <lb ed="#B" n="99"/>fidei lib. 1. c. 5. p. 80. et lib. 3. e. 15. p. 986; cum 
+      <lb ed="#B" n="100"/>primis vero apud Zangerum, qui integrum scriptum 
+      <lb ed="#B" n="101"/>huic versioni opposuit. Sed ἐγκλήματα illa pleraque 
+      <lb ed="#B" n="102"/>omnia 1. profluunt ex falso principio, quia 
+      exami<lb ed="#B" n="103" break="no"/>nant Lutheri versionem ad vulgatam Latinam 
+      trans<lb ed="#B" n="104" break="no"/>ationem, cui auctoritatem authenticam falso tribuunt. 
+      <lb ed="#B" n="105"/>et quia apocryphas librorum canonicorum 
+      appendi<lb ed="#B" n="106" break="no"/>ces pro canonicis habent. 2. Originem trahunt et 
+      <lb ed="#B" n="107"/>codicum variatione et diversa lectione. 3. 
+      Postulan<lb ed="#B" n="108" break="no"/>a Luthero, quod κατὰ πόδα vertere debuerit, cum 
+      <lb ed="#B" n="109"/>pse in versione sua non verba numerarit, sed 
+      sen<lb ed="#B" n="110" break="no"/>sum respexerit et expresserit. In reformatione 
+      Sty<lb ed="#B" n="111" break="no"/>iae et Carinthiae superioribus annis instituta 
+      Je<lb ed="#B" n="112" break="no"/>quitae Germanica Lutheri biblia in publico foro 
+      <lb ed="#B" n="113"/>exurere non dubitarunt referente D. Polycarpo 
+      Ly<lb ed="#B" n="114" break="no"/>sero in praefat. paraph. in histor. passionis Domin 
+</p>
+            <p xml:id="zef3dd-d1e472-d1e4233">
+      <!--308.xml-->
+               <pb ed="#B" n="235"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>2 524. Expendamus vero in specie quaedam exempla, 
+      <lb ed="#B" n="2"/>quibus corruptelam textus originalis inesse Pontifici 
+      <lb ed="#B" n="3"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="4"/>suspicantur. 1. ex V. T. **1. 1. Paral. 15, v. I. 
+      <lb ed="#B" n="5"/>Hiram, der König zu Tyro, sandte Boten zu Davi 
+      <lb ed="#B" n="6"/>um Cedernholtz, Maurer vnd Zimmerleute. In 
+      He<lb ed="#B" n="7" break="no"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="8"/>braeo e. 14. Et miait Hiram, rex Zor, nuntios ad 
+      <lb ed="#B" n="9"/>Darid et ligna cedrina et artifices ete. ad aedif. 
+      <lb ed="#B" n="10"/>candum ei domum. Resp. est vitium typographs 
+      <lb ed="#B" n="11"/>2. Psal. 76, v. 12 apposuit in margine gloesam, qua 
+      <lb ed="#B" n="12"/>de voto fidei et cultus divini verba psaltis exponit. 
+      <lb ed="#B" n="13"/>Resp. De textus versione hic quaeritur, non de 
+      mar<lb ed="#B" n="14" break="no"/>ginali interpretatione, adductum vero exemplum non 
+      <lb ed="#B" n="15"/>agit de ipsa versione, sed ejus explicatione, quar 
+      <lb ed="#B" n="16"/>tamen nec ipsam improbare possumus. Scriptur, 
+      <lb ed="#B" n="17"/>quando votorum mentionem facit, Deo tantum 
+      vo<lb ed="#B" n="18" break="no"/>vendum esse docet, recte ergo fecit Lutherus, quod 
+      <lb ed="#B" n="19"/>sententiam de votis Deo reddendis ad votum pietatis 
+      <lb ed="#B" n="20"/>universale accommodat, quia de votis quibusdam 
+      <lb ed="#B" n="21"/>specialibus non habemus talia praecepta in N. T. 
+      <lb ed="#B" n="22"/>qualia fuere in V. 3. Prov. 25, v. 27 Hebraea ad 
+      <lb ed="#B" n="23"/>verbum sic habent: Comedere mel multiplicando 
+      <lb ed="#B" n="24"/>non bonum et investigatio gloriae illorum glorio 
+      <lb ed="#B" n="25"/>Lutherus vertit sensu contrario: Wer schwer Ding 
+      <lb ed="#B" n="26"/>forschet, dem wirds zu schwer. Resp. protasis 
+      simili<lb ed="#B" n="27" break="no"/>tudinis ostendit in apodosi nimiam et curiosam in 
+      <lb ed="#B" n="28"/>vestigationem intelligi, unde Pagninus voculam illan 
+      <lb ed="#B" n="29"/>nima) versioni suae inserere non dubitavit. At 
+      <lb ed="#B" n="30"/>nimia illa investigatio non est gloria, unde negand 
+      <lb ed="#B" n="31"/>particulam ex protasi xml:idem Pagninus in apodosi re 
+      <lb ed="#B" n="32"/>petit, sic vertens: Investigatio nimia gloriae eorum 
+      <lb ed="#B" n="33"/>non est gloria, qua in parte Pagninum etiam se 
+      <lb ed="#B" n="34"/>quitur Piscator. Lutheri versio optime congrui 
+      <lb ed="#B" n="35"/>Hebraeo textui, 722 enim significat gravis fuit 
+      <lb ed="#B" n="36"/>quantitate vel qualitate, magnitudine vel multitu 
+      <lb ed="#B" n="37"/>dine. Job. 33, v. 7. 2. Sam. 13, v. 25 eto 
+      <lb ed="#B" n="38"/>4. Prov. 31, v. 10 in margine apposuit hunc ryth. 
+      <lb ed="#B" n="39"/>mum: Nichts liebers ist auf Erden, denn Frauenliel 
+      <lb ed="#B" n="40"/>vems kan werden. Resp. ade textus versione quae 
+      <lb ed="#B" n="41"/>stio est, non de glossa aliqua marginali. Loquitur 
+      <lb ed="#B" n="42"/>autem Lutherus de licito amore conjugali juxt 
+      <lb ed="#B" n="43"/>pbrasin Spiritus sancti 2. Sam 1, v. 26. Dan. 11. 
+      <lb ed="#B" n="44"/>v. 37, de quo similia fere occurrunt apud Salomo 
+      <lb ed="#B" n="45"/>nem Prov. 5, v. 19. c. 18. v. 22. 5. Esa. 9, v. 
+      <lb ed="#B" n="46"/>verba Hebraea 7123 5&amp; reddidit Kraft, Helbt, argu 
+      <lb ed="#B" n="47"/>mentum, quod pro deitate Filii ex textu ducitus 
+      <lb ed="#B" n="48"/>enervans. Resp. Hebraeum 7&amp; significat etiam 
+      <lb ed="#B" n="49"/>heroicum et forte, undo Lutherus textum non 
+      cor<lb ed="#B" n="50" break="no"/>rupit, nec tam in illa vocula quam in toto capiti 
+      <lb ed="#B" n="51"/>contextu argumentum pro adstruenda Messiae 
+      divi<lb ed="#B" n="52" break="no"/>nitate quaerendum. Quare Lutherus verterit Kraft, 
+      <lb ed="#B" n="53"/>rationem ipse explicat in Postill. eccles. quia scili 
+      <lb ed="#B" n="54"/>vox illa significet virtutem et potentiam, hic autem 
+      <lb ed="#B" n="55"/>referantur nomina officii, nec desint alia loca pro 
+      <lb ed="#B" n="56"/>deitate Christi confirmanda fortiora. Nihilominus 
+      <lb ed="#B" n="57"/>vero recte etiam per Gott exprimi, clare deducit 
+      <lb ed="#B" n="58"/>lib. de ult. verb. David. tom. 8. Jen. Germ. fol. 14. 
+      <lb ed="#B" n="59"/>b. Confer disp. 1. de gloria Dei §. 5. Ezech. 34 
+      <lb ed="#B" n="60"/>eam, quae alias oves opprimit, disperdam. Lutherus 
+      <lb ed="#B" n="61"/>v. 16 in Hebraeo est: Roborabo ovem lanquidam 
+      <lb ed="#B" n="62"/>et pinquem ac fortem 7&amp; disperdam, hoc est 
+      <!--308.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="63"/>vertit modo contrario: Was fett vnd starck ist, wil ich 
+      <lb ed="#B" n="64"/>behüten. Resp. Lutherus pro 7 legit 72 
+      pro<lb ed="#B" n="65" break="no"/>pter literarum 7 et 7 affinitatem et in bonum 
+      acce<lb ed="#B" n="66" break="no"/>pit ovium fortium descriptionem, qua in parte 
+      secu<lb ed="#B" n="67" break="no"/>tus est LXX interpp. et Latinam versionem, qui 
+      <lb ed="#B" n="68"/>legerunt TDE&amp;, Targum vero legit 772&amp;t, unde 
+      <lb ed="#B" n="69"/>vertit X&amp;et perdam. Confer Schindi. in Lexio 
+      <lb ed="#B" n="70"/>p. 1885. 6. Dan. 3. integros 66 versus, uti etiam. 
+      <lb ed="#B" n="71"/>luo postrema capita, historias de Susanna, Bele et 
+      <lb ed="#B" n="72"/>lracone complectentia omisit. Resp. non omisit es 
+      <lb ed="#B" n="73"/>Llutherus in bibliorum versione, sed ad locum 
+      pe<lb ed="#B" n="74" break="no"/>culiarem et proprium inter apocrypha retulit, xml:idque 
+      <lb ed="#B" n="75"/>jure ac merito, quia non habentur in textu Hebraeo 
+      <lb ed="#B" n="76"/>hoc est in fontibus veritatis. Secutus est hac in 
+      <lb ed="#B" n="77"/>parte Lutherus veteris ecclesiae doctores, qui hascc 
+      <lb ed="#B" n="78"/>ericopas ex castitate canonis removent, cumprimis 
+      <lb ed="#B" n="79"/>vero Hieronymum, qui in praefat. c. 3. Dan. sic. 
+      <lb ed="#B" n="80"/>scribit: Quae sequuntur, in Hebraeis voluminibus 
+      <lb ed="#B" n="81"/>non reperi. Et in fine hymni: Huc usque in Hebrae 
+      <lb ed="#B" n="82"/>non habetur, et quae posuimus, de Theodotionis 
+      <lb ed="#B" n="83"/>ditione translata sunt. In fin. c. 12. Dan. Huc 
+      <lb ed="#B" n="84"/>usque Danielem in Hebraeo volumine legimus, quad 
+      <lb ed="#B" n="85"/>equuntur ad finem usque libri, de Theodotionia 
+      <lb ed="#B" n="86"/>editione translata sunt. Idem historias de Bele 
+      e<lb ed="#B" n="87" break="no"/>dracone vocat fabulas 
+      </p>
+            <p xml:id="zef3dd-d1e472-d1e4440">
+               <lb ed="#B" n="88"/>525. 2. Ex N. T., et quidem 1. ex evangelistis 
+      <lb ed="#B" n="89"/>et Actis. 1. Matth. 6, v. 11 vocem ἐπιούσιον vertit 
+      <lb ed="#B" n="90"/>per quotidianum, cum potius vertere debuisset per 
+      <lb ed="#B" n="91"/>coelestem et supercubstantialem. Resp. vulgata 
+      ver<lb ed="#B" n="92" break="no"/>sio Latina habet quotidianum, quia Lucas o. 11 
+      <lb ed="#B" n="93"/>v. 3 addit τὸ καθʼ ἡμέραν, quo singulis diebus opud 
+      <lb ed="#B" n="94"/>est. Eam secutus fuit Lutherus. Hieronymus 
+      qui<lb ed="#B" n="95" break="no"/>dem reddidit supersubstantialem, existimavit enim 
+      <lb ed="#B" n="96"/>notari panem coelestem, qui est supersubstantialis 
+      <lb ed="#B" n="97"/>omnes creaturas et substantias excellens. At si in 
+      <lb ed="#B" n="98"/>quarta petitione intelligeretur panis coelestis et 
+      <lb ed="#B" n="99"/>upersubstantialis, nulla remaneret petitio, in qua 
+      <lb ed="#B" n="100"/>ad hujus vitae sustentationem necessaria a Deo 
+      pe<lb ed="#B" n="101" break="no"/>teremus, quod cum perfectione Dominicae orationis 
+      <lb ed="#B" n="102"/>non congruit. Praeterea panem spiritualem sive 
+      <lb ed="#B" n="103"/>bona spiritualia jam ante in tribus primis 
+      petitio<lb ed="#B" n="104" break="no"/>nibus flagitavimus, restabat igitur, ut etiam 
+      panen<lb ed="#B" n="105" break="no"/>corporalem a Deo peteremus. Per panem coelestem 
+      <lb ed="#B" n="106"/>et supersubstantialem quidam Pontificii intelligunt 
+      <lb ed="#B" n="107"/>cucharistiam, Gregor. de Valent. tom 3. disp. 6 
+      <lb ed="#B" n="108"/>j. 2. punct. 5. col. 1630. Barradius tom. 2. 
+      con<lb ed="#B" n="109" break="no"/>cord. evangel. lib. 7. c. 24. pag. 475; sed ea 
+      non<lb ed="#B" n="110" break="no"/>lum erat instituta, cum Christus orationem 
+      Domi<lb ed="#B" n="111" break="no"/>nicam apostolos doceret, quomodo igitur apostol 
+      <lb ed="#B" n="112"/>intellexissent eucharisticum panem his verbis deno 
+      <lb ed="#B" n="113"/>tari? quod est argumentum Cornelii Jansenii i 
+      <lb ed="#B" n="114"/>conc. evang. c. 41. p. 506. Denique, si panis 
+      super<lb ed="#B" n="115" break="no"/>ubstantialis et coelestis intelligendus esset, is non 
+      <lb ed="#B" n="116"/>liceretur ἐπιούσιος sed ὑπερούσιος. Hieron. dicit 
+      <lb ed="#B" n="117"/>ιπιούσιος xml:idem esse quod περιούσιον eximium ac 
+      <lb ed="#B" n="118"/>peculiare Exod. 19. v. b. Deut. 7, v. 8. c. 14. v. 2. 
+      <lb ed="#B" n="119"/>c. 26, v. 18. Tit. 2, v. 14; sed hoc repudiat ipsc 
+      <lb ed="#B" n="120"/>Bellarminus lib. 1. de operibus in particul. c. 6. 8. 
+      <lb ed="#B" n="121"/>una, ubi addit, quod Graeci patres, qui vim 
+      Graec<lb ed="#B" n="122" break="no"/>vocabuli optim noverant, ut Basilius in qq brevio¬ 
+      <!--309.xml-->
+      <pb ed="#B" n="236"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>ribus q. 252. Gregor. Nyssenus orat. 4. de orat 
+      <lb ed="#B" n="2"/>Domin. Chrysostomus, Theophylactus et Euthymius 
+      <lb ed="#B" n="3"/>in comm. ad e. 6. Matth. dicant ἄριον ἐπιούσιο 
+      <lb ed="#B" n="4"/>esse panom cubstantialem, hoc est, cubstantiae 
+      no<lb ed="#B" n="5" break="no"/>strae accommodatum, quo etiam respexit antiquue 
+      <lb ed="#B" n="6"/>interpres, qui reddidit quotidianum, hoc est, quo 
+      <lb ed="#B" n="7"/>panequotidie indigemus. Confer. D. Chemnic. in 
+      <lb ed="#B" n="8"/>Harmon. c. 51, p. 427 et D. Meisner. part. 2. sol. 
+      <lb ed="#B" n="9"/>philos. sect. 1. e. 2. q. 19. 2. Matth. 6, v. 13 ad 
+      <lb ed="#B" n="10"/>didit clausulam orationis Dominicae: quiae tuum es 
+      <lb ed="#B" n="11"/>regnum et potentia et gloria in cecula seculorum 
+      <lb ed="#B" n="12"/>quae non exstat in Graecis codicibus. Resp. hac 
+      <lb ed="#B" n="13"/>de re late egimus superius §. 361. 3. Mare. 11 
+      <lb ed="#B" n="14"/>v. 26 omisit haec verba: Si non remiseritis, nec 
+      <lb ed="#B" n="15"/>Pater vester, qui in coelis est, remittet vobis. Resp. 
+      <lb ed="#B" n="16"/>Pistorius ipse fatetur versiculum illum non exstare 
+      <lb ed="#B" n="17"/>in omnibus Graecis codd., cum illis ergo transiga 
+      <lb ed="#B" n="18"/>qui primi illum omiserunt. Nec probabile est ulli 
+      <lb ed="#B" n="19"/>modo dolo malo ea esse a Luthero omissa, cur 
+      <lb ed="#B" n="20"/>ea, quae hîc desiderari dicuntur, exstent Matth.. 
+      <lb ed="#B" n="21"/>v. 15; nec Lutherus unquam contrarium docuit e 
+      <lb ed="#B" n="22"/>prior pars ἀντιθέσεως sententiam posterioris reddit. 
+      <lb ed="#B" n="23"/>item sententiae et parabolae Christi Matth. 5, v. 25. 
+      <lb ed="#B" n="24"/>e. 18, v. 35 xml:idem expressius affirmant. Erasmuse 
+      <lb ed="#B" n="25"/>Leone X. laudatus itidem hunc versiculum non habet 
+      <lb ed="#B" n="26"/>1. Luc. 1. v: 28 mutavit, quod est in Latina 
+      ver<lb ed="#B" n="27" break="no"/>ione: Ave gratia plena ac reddidit du Holdselige 
+      <lb ed="#B" n="28"/>Resp. Graecam κεχαριτωμένῃ aptissime expressis 
+      <lb ed="#B" n="29"/>Latinam versionem non habuit nec habere etiam 
+      <lb ed="#B" n="30"/>debuit pro authentica. **5. Hunnius in invict. de 
+      <lb ed="#B" n="31"/>monst. p 243. accusat Lutherum, quod Joh. 1, v. 2. 
+      <lb ed="#B" n="32"/>testimonium Joh. malitiose corruperit vertens illud 
+      <lb ed="#B" n="33"/>das der Welt Sünde trägt, cum in Graeco sit alρeln 
+      <lb ed="#B" n="34"/>quod significat tollere. Resp. τὸ αἱρειν significat 
+      no<lb ed="#B" n="35" break="no"/>solum tollere, sed etiam portare. Ps. 9I, v. 12. Die. 
+      <lb ed="#B" n="36"/>tenb. daß sie dich auf den Händen tragen. Matth. 27 
+      <lb ed="#B" n="37"/>v. 32. Dietenb. daß er ihm sein Kreuz trug. Esa. 5. 
+      <lb ed="#B" n="38"/>r. 12. 1. Pet. 2. v. 24 dolores et peccatum nostrum 
+      <lb ed="#B" n="39"/>Christus dicitur portasse. Dietenb. reddidit getra 
+      <lb ed="#B" n="40"/>gen. ** 6. Actor. 13, v. 23 Graeca sic habent: τou 
+      <lb ed="#B" n="41"/>του ὁ θεὸς ἀπὸ τοῦ σπέρματος κατʼ ἐπαγγελίαν ἥγειρι 
+      <lb ed="#B" n="42"/>1ῷ Ἰσραὴλ σωπῆρα Τησοῦν. Lutherus reddidit: Aus 
+      <lb ed="#B" n="43"/>pieses (Davids) Samen hat Gott, wie er verheissen ha 
+      <lb ed="#B" n="44"/>gezeuget JEsum demi Volk Ifrael zum Heiland. Resp. 
+      <lb ed="#B" n="45"/>Possemus dicere, vocabulum zeugen in generaliore 
+      <lb ed="#B" n="46"/>quadam significatione hîc usurpatum esse, sed fate 
+      <lb ed="#B" n="47"/>mur h. I. versionem Lutheri esse quodammodo in 
+      <lb ed="#B" n="48"/>commodam et ex textu Graeco corrigendam, neque 
+      <lb ed="#B" n="49"/>enim habemus eam authenticam, ut per insigne 
+      <lb ed="#B" n="50"/>mendacium Bellarm. nobis tribuit lib. 2. de verb. 
+      <lb ed="#B" n="51"/>Dei 0. 10, sed ut de aliis versionibus omnibus, ita 
+      <lb ed="#B" n="52"/>tiam de hac ipsa ex fontibus judicium ferendum 
+      <lb ed="#B" n="53"/>esse asserimus. 7. Act. 15, v. 41 expunxit 
+      hae<lb ed="#B" n="54" break="no"/>verba: praecipiena custodire praecepta apostolorum 
+      <lb ed="#B" n="55"/>Resp. In Graeco textu non reperiuntur, imo ne 
+      <lb ed="#B" n="56"/>in omnibus Latinis exemplaribus. Syrus paraphra 
+      <lb ed="#B" n="57"/>tes et Erasmus eadem non habent. Occurrit autem 
+      <lb ed="#B" n="58"/>simile quid in versione Lutheri Act. 16. v. 4. Proind. 
+      <lb ed="#B" n="59"/>ex omissione illa colligi nequit Lutherum fuisse 
+      cor<lb ed="#B" n="60" break="no"/>temtorem legum ecclesiae. 
+</p>
+            <p xml:id="zef3dd-d1e472-d1e4655">
+      <!--309.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>526. 2. Ex epistolis apostolorum. 1. Rom. 3, 
+      <lb ed="#B" n="62"/>v. 28 inseruit voculam exclusivam. Statuimus 
+      ho<lb ed="#B" n="63" break="no"/>minem justificari sola fide. Resp. hac de re late 
+      <lb ed="#B" n="64"/>igimus in tract. de justificatione §. 182. 2. Rom. 4. 
+      <lb ed="#B" n="65"/>r. 15 addidit itidem exclusivam, quae non est in textu 
+      <lb ed="#B" n="66"/>Graeco: Das Gesetz richtet nur Zorn an. Resp. non 
+      <lb ed="#B" n="67"/>verba numeravit, sed sensum exprimere voluit. Quae 
+      <lb ed="#B" n="68"/>stio ibi proponitur ab apostolo, utrum justificatio 
+      <lb ed="#B" n="69"/>ex lege, an ex fide, ad quam respondet, non esse ex 
+      <lb ed="#B" n="70"/>lege. Cum ergo lex non justificet, sed iram 
+      opere<lb ed="#B" n="71" break="no"/>tur, recte addi potuit exclusiva parti posteriori, 
+      <lb ed="#B" n="72"/>quod lex tantum iram operetur, quia haec duo 
+      im<lb ed="#B" n="73" break="no"/>mediate sibi opponuntur justificare, i. e. a 
+      peccat<lb ed="#B" n="74" break="no"/>absolvere et iram operari, i. e. peccatum accusare 
+      <lb ed="#B" n="75"/>et damnare. 3. Rom. 14. v. 6 in Graeco est: ὁ 
+      <lb ed="#B" n="76"/>ρονῶν τὴν ἡμέραν Κυρίῳ φρονεῖ καὶ μὴ φρονῶν 
+      <lb ed="#B" n="77"/>ὴν ἡμέραν Κυρίῳ οὐ φρονεῖ. Lutherus videtur 
+      <lb ed="#B" n="78"/>modo contrario reddidisse: Welcher auf die Tage hält 
+      <lb ed="#B" n="79"/>der thuts dem HErrn, und welcher nichts drauf hält 
+      <lb ed="#B" n="80"/>per thuts auch dem HErrn. Resp. verba quidem 
+      mu<lb ed="#B" n="81" break="no"/>tantur, sed sensus utrobique est. Neque enim 
+      Lu<lb ed="#B" n="82" break="no"/>therus dicit, quod qui non observat diem, Domine 
+      <lb ed="#B" n="83"/>observet, sed quod Domino hoc faciat, i. e. diem 
+      <lb ed="#B" n="84"/>non observando facit hoc in ipsius Dei honorem 
+      <lb ed="#B" n="85"/>4. 1. Cor. 7, v. 9 in Graeco est: Κρεῖσσον γὰρ ἔπτε 
+      <lb ed="#B" n="86"/>γαμῆσαι ἢ πυροῦσθαι. Lutherus reddidit: Es 
+      is<lb ed="#B" n="87" break="no"/>esser freyen, denn Brunst leiden. Cum aliud eit 
+      <lb ed="#B" n="88"/>stiones sentire, aliud uri, h. e. non continere. Illud 
+      <lb ed="#B" n="89"/>fieri potest absque conseneu et proinde absque 
+      pec<lb ed="#B" n="90" break="no"/>cato, hoc vero fit cum consensu. Resp. Lutherus 
+      <lb ed="#B" n="91"/>rectissime reddidit, quia πυροῦσθαι denotat interio 
+      <lb ed="#B" n="92"/>res illas concupiscentiae flammas, quae non in 
+      su<lb ed="#B" n="93" break="no"/>perficie tantum pungunt, sed velut incendio 
+      quo<lb ed="#B" n="94" break="no"/>lam cor penetrant, quando ut poëta canit: eat 
+      <lb ed="#B" n="95"/>nollie flamma medullas, quamvis nondum in exte 
+      <lb ed="#B" n="96"/>riorem scortationem prorumpant, nec accedat inte 
+      <lb ed="#B" n="97"/>rior consensus. Confer tractat. de conjug. §. 531, 
+      <lb ed="#B" n="98"/>ubi aliquot argumentis hanc explicationem contra 
+      <lb ed="#B" n="99"/>Bellarminum confirmavimus. 5. 1. Cor. 9, v. 5 in 
+      <lb ed="#B" n="100"/>Graeco est: μὴ οὐκ ἔχομεν ἐξουσίαν ἀδελφὴν γυ¬ 
+      <lb ed="#B" n="101"/>αἴκα περιάγειν. Lutherus praepostere ad conjugiun 
+      <lb ed="#B" n="102"/>accommodavit: Haben wir nicht macht eine 
+      Schweste<lb ed="#B" n="103" break="no"/>sum Weibe mit umher zu führen? Resp. in traet. de 
+      <lb ed="#B" n="104"/>ministerio §. 333. Lutheri explicationem multis 
+      ar<lb ed="#B" n="105" break="no"/>gumentis confirmavimus. 6. Gal. 3, v. 10 in Graeco 
+      <lb ed="#B" n="106"/>est: ὅσοι ἐξ ἔργων νόμου εἰσὶν, ὑπὸ κατάραν εἰσί 
+      <lb ed="#B" n="107"/>Lutherus reddidit: Die mit des Gesetzes Werken 
+      <lb ed="#B" n="108"/>umgehen, die sind verflucht. Resp. sensum expres 
+      <lb ed="#B" n="109"/>sit, non verbum de verbo reddidit. Quis enim 
+      <lb ed="#B" n="110"/>Germanorum intellexisset, quid sibi vellet, si reddi 
+      <lb ed="#B" n="111"/>disset κατὰ όδα die aus den Werken des Gesetzer 
+      <lb ed="#B" n="112"/>ind. Jam vero ex versione Lutheri manifestum 
+      <lb ed="#B" n="113"/>intelligi eos, qui in operibus legis justitiam 
+      quae<lb ed="#B" n="114" break="no"/>runt, iisque coram Dei judicio confidunt. 7. Eph. 5, 
+      <lb ed="#B" n="115"/>v. 18 luxuriam reddidit ein unordentliches Wesen 
+      <lb ed="#B" n="116"/>Resp. in Graeco est ἀσωτία, quod significat luxum 
+      <lb ed="#B" n="117"/>et morum dissolutionem. De filio prodigo dicitur 
+      <lb ed="#B" n="118"/>Luc. 15, v. 18, quod vixerit ἀσώτως. Populus 
+      Aso<lb ed="#B" n="119" break="no"/>torum Graecis sic dictus est, quod luxu essent 
+      per<lb ed="#B" n="120" break="no"/>diti, sic versantes in comessationibus, ut nunquam 
+      <!--310.xml-->
+      <pb ed="#B" n="237"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>viderent solem nec orientem nec occidentem. Non 
+      <lb ed="#B" n="2"/>debuisset Tannerus versionem Lutheri accusare, nisi 
+      <lb ed="#B" n="3"/>substituisset vocem commodiorem. 8. 1. Thess. 4 
+      <lb ed="#B" n="4"/>σ. 3 omisit haec verba: ut abstineatis a fornico 
+      <lb ed="#B" n="5"/>tione. Resp. veritas haec est Pistoriana, in omnibus 
+      <lb ed="#B" n="6"/>bibliorum Germanicorum editionibus habentu 
+      <lb ed="#B" n="7"/>Dominica Reminiscere in epistolari pericope publice 
+      <lb ed="#B" n="8"/>in ecclesiis nostris praeleguntur. §. 2. Pet. 1, v. I. 
+      <lb ed="#B" n="9"/>pmisit illa verba: per bona opera. Resp. non inve 
+      <lb ed="#B" n="10"/>niuntur ea in codicibus Graecis. Quidam Pontis 
+      <lb ed="#B" n="11"/>cius scribit se invenisse ea in uno codice Graeco 
+      <lb ed="#B" n="12"/>sed forte xml:idem codex exstat in ea bibliotheca, in 
+      <lb ed="#B" n="13"/>qua Bellarmin. lib. 2. de verbo DEI Cap. 12. in 
+      <lb ed="#B" n="14"/>venit femininum &amp;77. Genes. 3, v. 15. 10. Jac. 4. 
+      <lb ed="#B" n="15"/>v. 6 omisit illa verba: propterea dicit, DEUS 
+      <lb ed="#B" n="16"/>superbis registit, humilibus autem dat gratiam 
+      <lb ed="#B" n="17"/>Resp. non invenit in omnibus Graecis exemplaribus 
+      <lb ed="#B" n="18"/>Non est verisimile dolo malo ea esse omissa, cum 
+      <lb ed="#B" n="19"/>eadem habeantur 1. Pet. 5. In versione Dieter 
+      <lb ed="#B" n="20"/>bergeri itidem omissa sunt illa verba. 11. 1. Jo 
+      <lb ed="#B" n="21"/>han. 5, v. 7 omissus est integer versiculus de Tri 
+      <lb ed="#B" n="22"/>nitate: Tres sunt, qui testimonium dant in coelo 
+      <lb ed="#B" n="23"/>Pater, Verbum et Spiritus S. Resp. hac de re late 
+      <lb ed="#B" n="24"/>egimus in disput. priore de hoc dicto ann. 1618 
+      <lb ed="#B" n="25"/>instituta. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

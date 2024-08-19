@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="592"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e1113"><!-- zef3dd-l4c14 -->
+            <head xml:id="zef3dd-d1e1113-Hd1e101">Caput 14</head>
+            <head xml:id="zef3dd-d1e1113-Hd1e103" type="question-title">De statu exinanitionis et exaltationis</head>
+            <p xml:id="zef3dd-d1e1113-d1e106">
+      <!--699.xml-->
+               <pb ed="#B" n="592"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>CAPUT XIV. 
+      <lb ed="#B" n="2"/>DE STATU EXINANITIONIS ET 
+<lb ed="#B" n="3"/>EXALTATIONIS 
+  </p>
+            <p xml:id="zef3dd-d1e1113-d1e122">
+               <lb ed="#B" n="4"/>293. Thesis 1: Exinanitio definiente apostol 
+      <lb ed="#B" n="5"/>Phil. 2, v. 7. et 8. est Jesu Christi θεανθρώποι 
+      <lb ed="#B" n="6"/>in forma servili humilis obedientia sive subjectio 
+      <lb ed="#B" n="7"/>ad mortem usque crucis. Diximus superius, distii 
+      <lb ed="#B" n="8"/>guendum esse inter communicationem et communt 
+      <lb ed="#B" n="9"/>catorum usurpationem. Communicatio divinorum 
+      <lb ed="#B" n="10"/>idiomatum facta est in primo incarnationis mo 
+      <lb ed="#B" n="11"/>mento, sed plenam eorum usurpationem distuli 
+      <lb ed="#B" n="12"/>Christus in suam ad coelos adscensionem et ac 
+      <lb ed="#B" n="13"/>dextram Dei collocationem; inde promanat di 
+      <lb ed="#B" n="14"/>stinctio inter statum exinanitionis et exaltatio 
+      <lb ed="#B" n="15"/>nis. Exinanitio Christi accipitur in sensu: 1. eccle 
+      <lb ed="#B" n="16"/>giastico; 2. biblico. Ecclesiastice, xml:id est, secui 
+      <lb ed="#B" n="17"/>dum stylum ecclesiae doctorum sumitur pro element. 
+      <lb ed="#B" n="18"/>inclinatione, qua ò Aόyoς se inclinavit ad miseren 
+      <lb ed="#B" n="19"/>dum nostri et ad succurrendum nobis ac de coele 
+      <lb ed="#B" n="20"/>descendens humanam naturam assumere est digna 
+      <lb ed="#B" n="21"/>us. Haec exinanitio improprie et in sensu ecclesis 
+      <lb ed="#B" n="22"/>stico sic dicta vocatur humiliatio incarnationis; item 
+      <lb ed="#B" n="23"/>σχετική, qua Filius Dei se humiliasse dicitur incli 
+      <lb ed="#B" n="24"/>natione miserationiso, Joh. 1, v. 14. c. 3, v. 13. 
+      <lb ed="#B" n="25"/>1. Tim. 3, v. 16. Hebr. 2. v. 16. Explicandum 
+      ho<lb ed="#B" n="26" break="no"/>θεοπρεπῶς de ἐπιδόσει, ex incorporali majestate ad 
+      <lb ed="#B" n="27"/>vilitatem corporis. Justin. in exθ. πίσr. p. 299. οὐ 
+      <lb ed="#B" n="28"/>ἐν σώματος ἡ κατάβασις, ἀλλὰ θείας ἐνεργείας βούλη¬ 
+      <lb ed="#B" n="29"/>σις. Athanas. contra gregal. Sabell. tom. 1. p. 516. 
+      <lb ed="#B" n="30"/>Cum majestas et magnificentia in Deo supercoelesto 
+      <lb ed="#B" n="31"/>quiddam nominatur, xml:id quod huic contrarium est 
+      <lb ed="#B" n="32"/>humile terreniter, γηίνως dicatur, et in terris 
+      ver<lb ed="#B" n="33" break="no"/>cari, facillime comperis descensum Verbi inclinatio 
+      <lb ed="#B" n="34"/>nem esse ex incorporali majestate ad vilitatem 
+      cor<lb ed="#B" n="35" break="no"/>poris, ἡ κατάβασις, εὑρίσκετε, τοῦ Λόγου ἡ ἐκ τῇ 
+      <lb ed="#B" n="36"/>ἀσωμάτου μεγαλοηρεπείας εἰς τὸ τοῦ σώματος εὐτελὲ. 
+      <lb ed="#B" n="37"/>επίδοσις ete. Leo serm. 7. de nativ.: Verbum 
+      De<lb ed="#B" n="38" break="no"/>Deus Dei Filius ita se ad susceptionem humilitati 
+      <lb ed="#B" n="39"/>nostrae eine diminutione quae majestatis inclinavit. 
+      <lb ed="#B" n="40"/>ut manens quod erat, assumensque quod non eras 
+      <lb ed="#B" n="41"/>veram servi formam ei formae, in qua Deo 
+      Patr<lb ed="#B" n="42" break="no"/>aequalis est, uniret et tanto foedere utramque 
+      na<lb ed="#B" n="43" break="no"/>turam consereret, ut nec inferiorem consumeret glo 
+      <lb ed="#B" n="44"/>rificatio, non superiorem minueret assumtio. Damaso 
+      <lb ed="#B" n="45"/>lib. 3. orth. fid. c. 1. circ. fin: εὐδοκίᾳ τοῦ θεοῦ καὶ 
+      <lb ed="#B" n="46"/>πατρὸς ὁ μονογενὴς υἱὸς καὶ Λόγος τοῦ θεοῦ κα 
+      <lb ed="#B" n="47"/>θεός, ete. ὁ ἐν μορφῇ θεοῦ ὑπάρχων κλίνας οὑρανοὺ 
+      <lb ed="#B" n="48"/>κατέρχεται, τοῦτ᾽ ἔστι τὸ ἀταπείνωιον αὐτοῦ ὕψος 
+      <lb ed="#B" n="49"/>ἀταπεινῶνως ταπεινώσας, συγκατάβασιν ἄφρασιό¬ 
+      <lb ed="#B" n="50"/>τε καὶ ἀκατάληπιον (τοῦτο γὰρ δηλοῖ ἡ κατάβασις) 
+      <lb ed="#B" n="51"/>καὶ θεός ὧν τέλειος ἄνθρωπος τέλειος γίνειαι. Bono 
+      <lb ed="#B" n="52"/>voluntate Patris unigenitus DEI Filius et Verbum 
+      <lb ed="#B" n="53"/>Dei et Deus etc. in forma Dei exsistene inclinavit. 
+      <lb ed="#B" n="54"/>coelos et descendit, hoc est inhumiliabilem eju 
+      <lb ed="#B" n="55"/>altitudinem inhumiliate humiliavit et descendit de 
+      <lb ed="#B" n="56"/>scensu ineffabili et incomprehensibili (hoc enis 
+      <lb ed="#B" n="57"/>octendit descenvio) et perfectus Deus exsistene homo 
+      <!--699.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="58"/>perfectus sit. Sed de hac exinanitione improprie et 
+      <lb ed="#B" n="59"/>ecclesiastice sic dicta hoc loco non agitur. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e250">
+               <lb ed="#B" n="60"/>294. In sensu biblico sive secundum stylum 
+      apo<lb ed="#B" n="61" break="no"/>toli Phil. 2. exinanitio proprie accipitur pro ipsa! 
+      <lb ed="#B" n="62"/>Jesu Christi sive Λόγου incarnati κενώσει, quae 
+      <lb ed="#B" n="63"/>exinanitio cum Phil. 2. tanquam in propria sede 
+      de<lb ed="#B" n="64" break="no"/>scribatur, xml:ideo loci illius analysin instituemus. 
+      Sco<lb ed="#B" n="65" break="no"/>quo apostoli est, Philippenses et omnes fideles ex 
+      <lb ed="#B" n="66"/>hortari ad humilitatem v. 3. exemplo Christi, v. 5. 
+      <lb ed="#B" n="67"/>qui cum in forma Dei esset; v. 7. se ipeum 
+      humilia<lb ed="#B" n="68" break="no"/>vit; v. 8. propter quod Deus ipsum exaltavit; v. 8. 
+      <lb ed="#B" n="69"/>quem affectum ac sensum in omnibus fidelibus re 
+      <lb ed="#B" n="70"/>quirit apostolus, quos Christi magistri sui vestigiis 
+      <lb ed="#B" n="71"/>aequum est insistere, ut ipsi quoque, postquam s 
+      <lb ed="#B" n="72"/>sub potenti manu Dei humiliaverint, suo tempore 
+      <lb ed="#B" n="73"/>excaltentur. I. Petr. 5, v. 6: Subjectum propositionis 
+      <lb ed="#B" n="74"/>spostolicae est Christus Jesus v. 5, quo nomine 
+      <lb ed="#B" n="75"/>multi ex Calvinianis et Pontificiis intelligunt Aόγον 
+      <lb ed="#B" n="76"/>ἔσαρκον, ut hac ratione incarnatio Filii hoc loco de 
+      <lb ed="#B" n="77"/>scripta intelligatur et per servilis formae 
+      acceptio<lb ed="#B" n="78" break="no"/>nem insinuetur, ut patet ex Beza p. 1. resp. ad acta 
+      <lb ed="#B" n="79"/>colloq. p. 138. Bellarmino libr. 1. de Christi anim. 
+      <lb ed="#B" n="80"/>2. 6, cui sententiae opponimus I. scopum apostolt 
+      <lb ed="#B" n="81"/>tum. Scopus apostoli est, quod velit Philippenses 
+      <lb ed="#B" n="82"/>hortari ad humilitatem intuitu in Christi exemplum 
+      <lb ed="#B" n="83"/>facto. Ergo praesentis, non futuri temporis exemplum 
+      <lb ed="#B" n="84"/>illis exhibet. Proponit eis imitandum Christi exem 
+      <lb ed="#B" n="85"/>plum tanquam vitae regulam. Ergo considerat facta 
+      <lb ed="#B" n="86"/>Christi, quae in oculos incurrunt, in quorum numero 
+      <lb ed="#B" n="87"/>non est incarnatio. In eo apostolus jubet 
+      Philip<lb ed="#B" n="88" break="no"/>penses imitari Christum, in quo similes ipsi nondum 
+      <lb ed="#B" n="89"/>erant, sed similes fieri poterant et debebant. Atqui 
+      <lb ed="#B" n="90"/>erant illi jam ante veri homines, sed inflati ac 
+      su<lb ed="#B" n="91" break="no"/>perbi, Christum igitur eos imitari et humilitati 
+      stu<lb ed="#B" n="92" break="no"/>dere jubet, incarnatione vero nemo Filio Dei similis 
+      <lb ed="#B" n="93"/>fieri potest; 2. subjecti periphragin. Illum, qui ad 
+      <lb ed="#B" n="94"/>exinanivit, vocat apostolus Jesum Christum. Utra 
+      <lb ed="#B" n="95"/>que appellatio post incarnationem ei competit. Jesus 
+      <lb ed="#B" n="96"/>nim et salvator noster est secundum utramque 
+      na<lb ed="#B" n="97" break="no"/>turam Matth. 1, v. 2I, et unctio, cujus ratione Chri 
+      <lb ed="#B" n="98"/>stus vocatur, secundum humanam naturam ipsi 
+      obti<lb ed="#B" n="99" break="no"/>git Dan. 9, v. 24. Filius Dei seu ò Aόyos proprie 
+      <lb ed="#B" n="100"/>dicitur incarnari, sed Jesus Christus θεάνθρωπος 
+      <lb ed="#B" n="101"/>proprie non dicitur incarnari, utpote jam homo exsi 
+      <lb ed="#B" n="102"/>stens; 3. considerationem praedicati. De Christo 
+      <lb ed="#B" n="103"/>sesu dicitur, quod fuerit in forma Dei v. 6. 
+      Con<lb ed="#B" n="104" break="no"/>stat vero Λόγον ἄσαρκον non tam fuisse in forma 
+      <lb ed="#B" n="105"/>Dei, quam esse ipsam Dei formam Hebr. 1, v. 33 
+      <lb ed="#B" n="106"/>Christo hic asscribitur quaedam κένωσις v. 7. At 
+      <lb ed="#B" n="107"/>εένωσις proprie dicta ad Λόγον ἅσαρκoν et simplicen 
+      <lb ed="#B" n="108"/>deitatem, utpote immutabilem et invariabilem accom 
+      <lb ed="#B" n="109"/>modari nequit. Christo hic asscribitur humiliatio 
+      <lb ed="#B" n="110"/>v. 8. At humiliatio proprie sic dicta simplici 
+      dei<lb ed="#B" n="111" break="no"/>tati asscribi nequit, infert enim quandam 
+      mutabilita<lb ed="#B" n="112" break="no"/>tem naturae humiliatae. Christo hic tribuitur, quod 
+      <lb ed="#B" n="113"/>σχήμαιι inventus fuerit ut homo et patri 
+      obedien<lb ed="#B" n="114" break="no"/>factus usque ad mortem v. eod. At in Λόγο 
+      <lb ed="#B" n="115"/>ἴσαρκον nec σχήμα nec mors competunt. Christo 
+      <lb ed="#B" n="116"/>hic tribuitur talis exinanitio et humiliatio, quae per 
+      <lb ed="#B" n="117"/>exaltationem postmodum est sublata v. 9. At in 
+      <!--700.xml-->
+      <pb ed="#B" n="593"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>carnatio, xml:id est humana natura non est sublata per 
+      <lb ed="#B" n="2"/>exaltationem. Secundum quam naturam Christo 
+      con<lb ed="#B" n="3" break="no"/>petit exaltatio, secundum eandem etiam exinanitio 
+      <lb ed="#B" n="4"/>ut ostendit apostolica oppositio v. 8. et 9. Jam vero 
+      <lb ed="#B" n="5"/>in simplicem Λόγου deitatem non cadit exaltatio 
+      <lb ed="#B" n="6"/>Ergo nec exinanitio, et per consequens apostolus 
+      hi<lb ed="#B" n="7" break="no"/>non agit de Λόγῳ ἀδάρκ ejusdemque incarnatione 
+      <lb ed="#B" n="8"/>I. Patrum interpretationem, de qua postea. 5. 
+      Suf<lb ed="#B" n="9" break="no"/>fragium adversariorum. Piscat. in schol. recte 
+      sta<lb ed="#B" n="10" break="no"/>tuit, hunc locum proprie et exquisite loquendo 
+      no<lb ed="#B" n="11" break="no"/>esse exponendum de incarnatione Filii Dei, sed di 
+      <lb ed="#B" n="12"/>incarnati humiliatione. Atque hactenus de subjecto 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e412">
+               <lb ed="#B" n="13"/>295. In praedicato tria de Christo explicantur 
+      <lb ed="#B" n="14"/>s. qualis ease potuerit; 2. qualis esse voluorit; 3. qualem 
+      <lb ed="#B" n="15"/>Pater coelestis ipeum fecerit. Ad primum membrui. 
+      <lb ed="#B" n="16"/>pertinet hoc praedicatum, quod Christus dicitur fuisse 
+      <lb ed="#B" n="17"/>in forma Dei, ἐν μορφῇ θεοῦ. Hanc phrasin Jesuita 
+      <lb ed="#B" n="18"/>et Calviniani communiter sic exponunt, esse natur. 
+      <lb ed="#B" n="19"/>DEUM. Sed notandum, quod forma DEI, etsi 
+      sul<lb ed="#B" n="20" break="no"/>jecto et re ipsa non sit multiplex, sed una, geminan 
+      <lb ed="#B" n="21"/>tamen sortiatur rationem et considerationem. Nam 
+      <lb ed="#B" n="22"/>vel in se ipsa, ὡς ἐν κτήσει, ac ratione οὐσίας, qui 
+      <lb ed="#B" n="23"/>tenus habetur, considerari potest, vel respectu creo 
+      <lb ed="#B" n="24"/>turarum, ὡς ἐν χρήσει, ratione ἐξουσίας, quatenus 
+      <lb ed="#B" n="25"/>foras suis operationibus progreditur ac sensibus 
+      hu<lb ed="#B" n="26" break="no"/>manis exterius sese conspiciendam exhibet. Hoc 
+      <lb ed="#B" n="27"/>loco negamus κρώτως καὶ κυρίως significari hac 
+      <lb ed="#B" n="28"/>phrasi ipsam essentiam et naturam divinam in se e 
+      <lb ed="#B" n="29"/>absolute secundum τὸ εἰναι consideratam, sed 
+      di<lb ed="#B" n="30" break="no"/>cimus intelligi per eam statum divinum seu condi 
+      <lb ed="#B" n="31"/>tionem divinam, nempe gloriam et majestatem 
+      divi<lb ed="#B" n="32" break="no"/>nam, quod sequentibus confirmatum damus 
+      argu<lb ed="#B" n="33" break="no"/>mentis. 1. Forma et xml:id quod est in forma sut 
+      <lb ed="#B" n="34"/>distineta, cum xml:idem non possit dici esse in se ipsc 
+      <lb ed="#B" n="35"/>Jam vero Filius Dei secundum deitatem est 
+      ips<lb ed="#B" n="36" break="no"/>Dei forma, imago et character deitatis. Col. 1, v. 15. 
+      <lb ed="#B" n="37"/>Hebr. 1, v. 3. Ergo secundum deitatem non potes 
+      <lb ed="#B" n="38"/>dici esse in forma Dei. Esse igitur in forma Dei 
+      <lb ed="#B" n="39"/>absolute et simpliciter non est esse natura Deum, sed 
+      <lb ed="#B" n="40"/>gerere se tanquam Deum, declarare se ut Deum, ex 
+      <lb ed="#B" n="41"/>ercere divinam majestatem divina opera perficiende 
+      <lb ed="#B" n="42"/>** Calvinus in comm. super h. I. nostrae exposition 
+      <lb ed="#B" n="43"/>favet. Danaeus contra Chemnic. q. 1355. μορφή. 
+      <lb ed="#B" n="44"/>listinguit ab οὐσίᾳ, approbante Zanchio. ** 2. S. 
+      <lb ed="#B" n="45"/>phrasis haec esse in forma Dei xml:idem prorsus signi 
+      <lb ed="#B" n="46"/>icaret, quod esse natura Deum, consequens erit, 
+      <lb ed="#B" n="47"/>etiam de Patre et Spiritu sancto dici posse, quod 
+      <lb ed="#B" n="48"/>sint in forma Dei, quod hactenus in ecclesia non 
+      <lb ed="#B" n="49"/>fuit usitatum. 3. Quo modo in textu apostolico ac 
+      <lb ed="#B" n="50"/>cipitur forma servi, eo modo etiam debet 
+      accip<lb ed="#B" n="51" break="no"/>forma Dei, ut ostendit oppositio. Jam vero formi 
+      <lb ed="#B" n="52"/>servi non potest accipi de natura et essentia humana 
+      <lb ed="#B" n="53"/>tum quia Christus non est natura servus, tum quis 
+      <lb ed="#B" n="54"/>formam servi Christus in exaltatione deposuit, hu 
+      <lb ed="#B" n="55"/>manam vero naturam non deposuit. Hoc argumen 
+      <lb ed="#B" n="56"/>tum presse urget b. Lutherus in Post. eccle 
+      <lb ed="#B" n="57"/>4. Ejusmodi hic intelligitur forma Dei, quae ab 
+      ho<lb ed="#B" n="58" break="no"/>minibus poterat conspici, et de qua Joh. 1, v. 14. 
+      <lb ed="#B" n="59"/>dicitur: Vidimus gloriam ejus. Apparet hoc ex 
+      <lb ed="#B" n="60"/>scopo, quia Paulus exemplo Christi ad humilitatem 
+      <!--700.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>
+               <lb ed="#B" n="62"/>nos hortatur, a quo non potest exemplum imitationis 
+      <lb ed="#B" n="63"/>peti in rebus ignotis et inconspicuis. Jam vero 
+      na<lb ed="#B" n="64" break="no"/>cura et essentia divina in se non potest oculis 
+      hu<lb ed="#B" n="65" break="no"/>manis conspici Johan. 1, v. 18. 1. Timoth. 6, v. 16; 
+      <lb ed="#B" n="66"/>sed in operibus duntaxat conspicitur, in quibus per 
+      <lb ed="#B" n="67"/>potentiam et majestatem suam sese exserit. 5. 
+      Apo<lb ed="#B" n="68" break="no"/>tolus loquitur de forma Dei, quatenus Christo 
+      com<lb ed="#B" n="69" break="no"/>petit ἐνυπαρκτικῶς, non οὐσιωδιῶς, dicit enim è 
+      <lb ed="#B" n="70"/>ιορφῇ θεοῦ ὑπάρχων. At hoc sensu non potest nisi 
+      <lb ed="#B" n="71"/>ad humanam Christi naturam referri, quae in ὑπαρ¬ 
+      <lb ed="#B" n="72"/>ἐιν sive ὑπόστασιν όγου est assumta. 6. Ex ter 
+      <lb ed="#B" n="73"/>tus cohaerentia apparet, apostolum tribus hisce voci 
+      <lb ed="#B" n="74"/>bus μορφὴ, ὁμοίωμα et σχῆμα rem unam eandemque 
+      <lb ed="#B" n="75"/>ignificare, jam vero σχῆμα et ὁμοίωμα non ad 
+      es<lb ed="#B" n="76" break="no"/>tentiam, sed aeternum statum humanae naturae per 
+      <lb ed="#B" n="77"/>inent. Ergo etiam vox μορφῆς non notat divinam 
+      <lb ed="#B" n="78"/>naturam et essentiam, sed statum et conditionem 
+      <lb ed="#B" n="79"/>livinam. 7. Significatio ista μορφῆς, quae pro forma 
+      <lb ed="#B" n="80"/>substantiali seu natura et essentia rei accipitur, 
+      so<lb ed="#B" n="81" break="no"/>lis philosophis nota est et usitata. ** Piscator. in 
+      <lb ed="#B" n="82"/>Anal.: Per formam Dei non puto apostolum 
+      intelli<lb ed="#B" n="83" break="no"/>pere ipsam naturam divinam, sicut Aristoteles in 
+      <lb ed="#B" n="84"/>philosophia sua vocabulo μoρφjs intelligit naturam 
+      <lb ed="#B" n="85"/>ae essentiam rei. Neque enim probabile est, 
+      apo<lb ed="#B" n="86" break="no"/>stolum hac voce in ea significatione uti, quae 
+      soli<lb ed="#B" n="87" break="no"/>philosophis nota erat, populo vero ignota. Deinde 
+      <lb ed="#B" n="88"/>apparet ex cohaerentia sententiae, apostolum tribus 
+      <lb ed="#B" n="89"/>vocibus μορφὴ, ὁμοίωμα, oxημα rem unam 
+      eandem<lb ed="#B" n="90" break="no"/>que significare.** 8. Patres et theologi recentiores 
+      <lb ed="#B" n="91"/>eodem modo exponunt. Ambrosius in comm. 
+      Phil<lb ed="#B" n="92" break="no"/>p. 367. formam explicat per virtutem, potestatem 
+      <lb ed="#B" n="93"/>operationem divinam, quae Christum demonstravit 
+      <lb ed="#B" n="94"/>sse Deum. In forma Dei, inquit, erat, quia, cum 
+      <lb ed="#B" n="95"/>homo videretur, opera Dei faciebat, ut in rebus 
+      <lb ed="#B" n="96"/>jestis appareret Deus esse, qui tantum homo esse 
+      <lb ed="#B" n="97"/>putabatur. Opera enim formam significabant, ut, 
+      <lb ed="#B" n="98"/>quia opera ejus non utique hominis opera sunt, hic 
+      <lb ed="#B" n="99"/>qui in opere vel forma Dei erat, Deus 
+      intelligere<lb ed="#B" n="100" break="no"/>ur. Forma enim Dei quid est, nisi exemplum, quo 
+      <lb ed="#B" n="101"/>Deus apparet, dum mortuos excitat, surdis reddit 
+      <lb ed="#B" n="102"/>auditum, leprosos mundat? Lutherus tom. 1. Witeb. 
+      <lb ed="#B" n="103"/>Lat. p. 69. in conc. de dupl. just: Forma Dei 
+      <lb ed="#B" n="104"/>hic non dicitur substantia DEI, quia hac Christus 
+      <lb ed="#B" n="105"/>nunquam se exinanivit, sicut nec forma servi dici 
+      <lb ed="#B" n="106"/>potest substantia humana, sed forma Dei est sd 
+      <lb ed="#B" n="107"/>nentia, virtus, justitia, bonitas, deinde libertas. 
+      Si<lb ed="#B" n="108" break="no"/>milia occurrunt tom. 1. Jen. Lat. fol. 179. in 
+      Pos<lb ed="#B" n="109" break="no"/>major. tom. 1. Epistol. ep. 94. ete. Erasm. in annot. 
+      <lb ed="#B" n="110"/>Phil. 2. itidem accipit phrasin illam in forma Der 
+      <lb ed="#B" n="111"/>Esse de natura Christi humana locupletata divinis 
+      <lb ed="#B" n="112"/>dotibus et operationibus ab ipso Λόγῳ. Selnec. in 
+      <lb ed="#B" n="113"/>lib. de noviss. verb. David. statuit, respectum haberi 
+      <lb ed="#B" n="114"/>ad I. Paral. 17, v. 17: Adspecisti me in forma hominis, 
+      <lb ed="#B" n="115"/>qui es Deus in supernis. Chemn. de duabus nat, 
+      <lb ed="#B" n="116"/>p. 352: Appellatur μορφή, quando natura seu 
+      es<lb ed="#B" n="117" break="no"/>sentia aliqua ita consideratur, sicut xml:idiomatis 
+      attri<lb ed="#B" n="118" break="no"/>putis et conditionibus vel divinis vel humanis 
+      prae<lb ed="#B" n="119" break="no"/>dita, et quando vestita atque ornata est. Sensus 
+      <lb ed="#B" n="120"/>igitur est, quod Christus jam inde a primo 
+      incarna<lb ed="#B" n="121" break="no"/>tionis momento divinam gloriam, majestatem et vir¬ 
+      <!--701.xml-->
+      <pb ed="#B" n="594"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tutem sibi secundum humanam naturam communt 
+      <lb ed="#B" n="2"/>catam plena usurpatione exserere, tanquam Deum 
+      <lb ed="#B" n="3"/>se gerere potuerit ete; quo referri etiam potest illud 
+      <lb ed="#B" n="4"/>quod b. Lutherus monet, tres eses modos essend 
+      <lb ed="#B" n="5"/>in forma seu sumendi formam et habitum externum 
+      <lb ed="#B" n="6"/>Alias enim consideratur cscentia seu natura sin 
+      <lb ed="#B" n="7"/>forma, gestu et operatione externa, alias essentia e 
+      <lb ed="#B" n="8"/>forma seu gestus aeternus simul, alias externa formo 
+      <lb ed="#B" n="9"/>et operatio rei oine naturae et essentiae, quae 
+      talen<lb ed="#B" n="10" break="no"/>edit formam, veritate. Tertius modus alienus est a 
+      <lb ed="#B" n="11"/>Christo, cadit autem in diabolum et ejus ministros 
+      <lb ed="#B" n="12"/>Primus in statu exinanitionis, secundus in statu ex 
+      <lb ed="#B" n="13"/>altationis Christo competit. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e690">
+               <lb ed="#B" n="14"/>296. Ad secundum membrum pertinet: 1. quod 
+      <lb ed="#B" n="15"/>ἀρνητικῶς vel potius ἰορίστως de Christo dicitur οὐz 
+      <lb ed="#B" n="16"/>ἀρπαγμὸν ἡγήσατο τὸ εἶναι ἶσα θεφ. Quidam statu 
+      <lb ed="#B" n="17"/>unt τὸ ἡγεῖθαι ἀρπαγμὸν simpliciter positum ess 
+      <lb ed="#B" n="18"/>pro ἀρπάζειν, rapere, instar rapinae usurpare, pro 
+      <lb ed="#B" n="19"/>libitu et temere abuti, sicut Hebraeor. 10, v. 25 
+      <lb ed="#B" n="20"/>κοινὸν ἡγησάμενος ponitur pro κοινώσας vel κοινω 
+      <lb ed="#B" n="21"/>σάμενος, ut sit sensus, non usus vel abusus est ea 
+      <lb ed="#B" n="22"/>re pro arbitrio, non usurpavit sibi eam, sed potius 
+      <lb ed="#B" n="23"/>ejus usu abstinuit sese exinaniendo. Isidor. 
+      Pelu<lb ed="#B" n="24" break="no"/>siota lib. 1. epist. 139. rapinae vocem satis jejune et 
+      <lb ed="#B" n="25"/>impertinenter sic explicat: Cum essent gentiles (
+      Phi<lb ed="#B" n="26" break="no"/>lippenses), supremum Deum suo Patri eas partes, 
+      <lb ed="#B" n="27"/>quae ad gignendum destinatae sunt, praecidisse di 
+      <lb ed="#B" n="28"/>dicerant, illud videlicet metuentem, ne alii filii ex 
+      <lb ed="#B" n="29"/>cisterent regnique socii et consortes ac divinitatis 
+      <lb ed="#B" n="30"/>arreptiones et discidia de ea ac bella orirentur, ad 
+      <lb ed="#B" n="31"/>dubitabant, an DEI Filius relictis coeli cedibus, nec 
+      <lb ed="#B" n="32"/>ullam regni atque imperii commutationem veritus 
+      a<lb ed="#B" n="33" break="no"/>nos veniens carnem suscepisset. Huic igitur eorur 
+      <lb ed="#B" n="34"/>ignorantiae vel potius amentiae divinus vir atque 
+      <lb ed="#B" n="35"/>arcanarum rerum doctor medicinam afferens hi 
+      <lb ed="#B" n="36"/>verbis utitur; Non rapinam ete., hoc est deitatem 
+      <lb ed="#B" n="37"/>ac regnum haudquaquam per vim arripuit, verum 
+      <lb ed="#B" n="38"/>ante secula innatum habuit. Neque item ut aibi eri 
+      <lb ed="#B" n="39"/>peretur, subtimuit, verum, cum et coelestium et 
+      ter<lb ed="#B" n="40" break="no"/>restrium et infernorum Dominus esset, nec supri 
+      <lb ed="#B" n="41"/>reliquit et ad nos accessit, imo etiam ad inferos us 
+      <lb ed="#B" n="42"/>que profectus est, ut per omnia grassatus 
+      undi<lb ed="#B" n="43" break="no"/>que omnia in salutem assereret. Quidam sic expe 
+      <lb ed="#B" n="44"/>nunt: Non duxit rapinam esse se aequalem 
+      De<lb ed="#B" n="45" break="no"/>hoc est non ostentavit gloriam suam divinam, 
+      sicu<lb ed="#B" n="46" break="no"/>victores spolia hostibus detracta ostentare solent in 
+      <lb ed="#B" n="47"/>triumphis, sed gloriam illam occultavit. Simplicis 
+      <lb ed="#B" n="48"/>sima explicatio colligitur ex singularum vocum 
+      a<lb ed="#B" n="49" break="no"/>curato examine; ἡγεῖσθαι apostolo est certo et 
+      in<lb ed="#B" n="50" break="no"/>dubitato statuere Philipp. 2, v. 3. et 25. e. 3, v. . 
+      <lb ed="#B" n="51"/>et 8; ἀρπαγμός est xml:idem quod τὸ ἄρπαγμα, rapine 
+      <lb ed="#B" n="52"/>seu raptus, cui opponitur sò ίδιον, proprium, quo 
+      <lb ed="#B" n="53"/>sensu ἀρπαγμὸς est, quod quis sibi injuste rapit et 
+      <lb ed="#B" n="54"/>rendicat, cum xml:id vere ac proprie illi non competat 
+      <lb ed="#B" n="55"/>quod rapere dicitur, sicut vice versa nemo dicitu 
+      <lb ed="#B" n="56"/>furari vel rapere, quod ipsius est proprium. 
+      Pe<lb ed="#B" n="57" break="no"/>particulam negandi oux tollitur ἀρπαγμός, contra vero 
+      <lb ed="#B" n="58"/>ponitur ίδιον, quod non est ἀρπαγμός, referturque haec 
+      <lb ed="#B" n="59"/>vocula negans non ad verbum ἡγήσιαο, sed jungende 
+      <lb ed="#B" n="60"/>est ἀρπαγμῷ, ut ait propositio affirmane, non sim 
+      <!--701.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>pliciter negans. Si enim pure negantem velimus sta 
+      <lb ed="#B" n="62"/>tuere, apostoli oratio non esset plena, quiae nihil 
+      certi<lb ed="#B" n="63" break="no"/>affirmaret, quo scilicet loco, tempore exinanitionis 
+      Chri<lb ed="#B" n="64" break="no"/>itus habuisset illud 1ὁ εἶναε ἶσα δεῷ, ac dubius esset 
+      <lb ed="#B" n="65"/>sensus, rapuissetno sibi Christus divinos honores, ar 
+      <lb ed="#B" n="66"/>vero non? necesse itaque fuerit, ut statuamus esse 
+      <lb ed="#B" n="67"/>enuntiationem affirmantem, sed indefinitam ka 
+      uera<lb ed="#B" n="68" break="no"/>θέσεως negantem, ut sit sensus, Christum etsi in stati 
+      <lb ed="#B" n="69"/>exaninitionis fuerit novissimus virorum; non tamen 
+      <lb ed="#B" n="70"/>dubitasse, sed certo sibi persuasum habuisse, a se hoc 
+      <lb ed="#B" n="71"/>minime esse, alienum nec raptum, sed a natura sua sibi 
+      <lb ed="#B" n="72"/>hoc esse proprium, ut sit Deo ῖσος, ἰσότιμος καὶ ὁμοού¬ 
+      <lb ed="#B" n="73"/>σιος, ac proinde ratione personae aequo et pari jure 
+      <lb ed="#B" n="74"/>eum Patre et Spiritu sancto sibi competere unam 
+      ean<lb ed="#B" n="75" break="no"/>demque divinitatis naturam. Sic ergo, ut ex Luther 
+      <lb ed="#B" n="76"/>notat Selneccerus lib. de noviss. verb. David., tria 
+      ha<lb ed="#B" n="77" break="no"/>phrasi exprimuntur: 1. natura. Christus secundum 
+      <lb ed="#B" n="78"/>divinam naturam nihil rapuit, sed οὐσίρ ao φύσει 
+      <lb ed="#B" n="79"/>omnia habet; 2. collatio cum hoste sive ἀντιπάλ 
+      <lb ed="#B" n="80"/>Diabolus per rapinam voluit assumere ἶσα θεῷ, xml:idem 
+      <lb ed="#B" n="81"/>fecerunt primi parentes, sed Christus modo egit 
+      con<lb ed="#B" n="82" break="no"/>trario; 3. potentia. Christus potuisset jam inde a 
+      <lb ed="#B" n="83"/>primo incarnationis momento majestatem sibi 
+      secun<lb ed="#B" n="84" break="no"/>lum carnem communicatam exserere eto. Adjecti 
+      <lb ed="#B" n="85"/>rum plurale ἰσα generaliter in neutro genere συν 
+      <lb ed="#B" n="86"/>θετικῶς positum existimant sive pro adverbio ἴσως 
+      <lb ed="#B" n="87"/>ive pro nomine generis masculini ἶσον seu ἐν ἷσ 
+      <lb ed="#B" n="88"/>Sed magis emphaticum est, si statuatur τὰ εἶναι ἰσα 
+      <lb ed="#B" n="89"/>simpliciter positum esse pro nomine icéτηtos, quia 
+      <lb ed="#B" n="90"/>articulus neutri generis totam infinitivam orationem 
+      <lb ed="#B" n="91"/>n nomen transformat, ἶσον εἶναι est ἰσότιμον, ὁμε 
+      <lb ed="#B" n="92"/>ιμον, parem et aequalem esse, εἶναε ἰσα θεῷ est 
+      pe<lb ed="#B" n="93" break="no"/>omnia et in omnibus Deo parem et aequalem esse 
+      <lb ed="#B" n="94"/>Sensus igitur, Christum jam inde a primo incarna 
+      <lb ed="#B" n="95"/>tionis momento etiam in medio exinanitionis stat. 
+      <lb ed="#B" n="96"/>non tantum seeundum humanam naturam divini 
+      <lb ed="#B" n="97"/>donis et αὐχήμασι personaliter fuisse ditatum; ut 
+      <lb ed="#B" n="98"/>gloriam et majestatem diviam esserere potuerit, quo 
+      <lb ed="#B" n="99"/>pertinet, quod dicitur ὑπάρχειν ἐν μορφῇ θεοῦ, sec 
+      <lb ed="#B" n="100"/>etiam secundum divinam naturam naturaliter et 
+      es<lb ed="#B" n="101" break="no"/>pentialiter fuisse verum Deum, quo pertinet, quod 
+      <lb ed="#B" n="102"/>dicitur οὐχ ἡνήσατο ἀρπαγμὸν τὸ εἶναι ἱσα θεφ. At 
+      <lb ed="#B" n="103"/>gustinus Epist. 66: Chrioto in forma Dei dequales 
+      <lb ed="#B" n="104"/>esse Deo non rapina fuit, sed natura, quoniam in 
+      <lb ed="#B" n="105"/>nuscendo sumsit, non superbiendo proesumdit. Ne 
+      <lb ed="#B" n="106"/>que quenquam turbet, quod prius praedicatum 
+      re<lb ed="#B" n="107" break="no"/>pects humanae, posterius respecta dovinde nateras 
+      <lb ed="#B" n="108"/>Christo tribui atque eum, qui sese secundum huma 
+      <lb ed="#B" n="109"/>nam naturam exinanivit, cecundum divinam naturas 
+      <lb ed="#B" n="110"/>Deo aequalem dici statuamus Quia propter ὑ
+      no<lb ed="#B" n="111" break="no"/>οτάσεως unitatem utraque de una eademque persona 
+      <lb ed="#B" n="112"/>praedicantur, et quae carni sive humanae naturas 
+      <lb ed="#B" n="113"/>accidunt, non carni seorsum, sed illi, qui Deo per 
+      <lb ed="#B" n="114"/>naturam aequalis est quique hanc earnem 
+      persona<lb ed="#B" n="115" break="no"/>iter sibi appropriavit, eveniunt, sῷ Aóyp scilicet 
+      <lb ed="#B" n="116"/>qui naturaliter et essentialiter est verus Deus 
+      Pati<lb ed="#B" n="117" break="no"/>per omnia aequalis, ex quo naseitur laec propositio 
+      <lb ed="#B" n="118"/>apostolica, illum, qui est Deo aequalis, ipsum scili 
+      <lb ed="#B" n="119"/>cet Dei Filium sese exinanivisse, videlicet juxta 
+      na<lb ed="#B" n="120" break="no"/>turam assumtam 
+</p>
+            <p xml:id="zef3dd-d1e1113-d1e929">
+      <!--702.xml-->
+               <pb ed="#B" n="595"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>297. 2. Quod θετικῶς dicitur, ἑαυτὸν ἐκένωσι 
+      <lb ed="#B" n="2"/>Vulg. semet ipeum exinanivit vel potius inanivit 
+      <lb ed="#B" n="3"/>In Graeco enim est non ἐξεκένωσε ab ἐκκενόω, sed 
+      <lb ed="#B" n="4"/>ἐκένωσε a κενόω, quanquam et simplici et composito 
+      <lb ed="#B" n="5"/>verbo tum apud Graecos tum apud Latinos xml:idem 
+      <lb ed="#B" n="6"/>significatur. Kενός significat inane vacuum, ἐκένωσι 
+      <lb ed="#B" n="7"/>gitur est inanivit, vacuavit. Expositio hujus voca 
+      <lb ed="#B" n="8"/>puli petendae ab illis exemplis, quae loquuntur non 
+      <lb ed="#B" n="9"/>de physica aliqua effusione et omnimoda rei amis, 
+      <lb ed="#B" n="10"/>sione, quo modo evacuari solet poculum, quando 
+      <lb ed="#B" n="11"/>vinum ex eo effunditur, sed de virtutis et efficaciae 
+      <lb ed="#B" n="12"/>retractione, quae, prout se non exserit, dicitur κεν¬ 
+      <lb ed="#B" n="13"/>Es. 55; v. 11. 1. Corinth. I, v. 17. 2. Corinth. 6. v. 1. 
+      <lb ed="#B" n="14"/>Thees. 2, v. l; sic ergo exinanitio Christi non est in 
+      <lb ed="#B" n="15"/>digentia aliqua naturalis vel effusio et evacuati 
+      <lb ed="#B" n="16"/>donorum per unionem personalem sibi communica 
+      <lb ed="#B" n="17"/>torum, sed voluntaria et spontanea humiliatio (sicut 
+      <lb ed="#B" n="18"/>ipse apostolus postea exponit) non semper in assumta 
+      <lb ed="#B" n="19"/>carne et per assumtam carnem exserentis et usuri 
+      <lb ed="#B" n="20"/>pantis divinitatis majestatem, quae alioqui σωματι¬ 
+      <lb ed="#B" n="21"/>κως sive personaliter in ea habitabat. Dicitur pro 
+      <lb ed="#B" n="22"/>inde gloria divina sese quasi evacuasse ae eam quo 
+      <lb ed="#B" n="23"/>dammodo videri deposuisse, quatenus eam non per 
+      <lb ed="#B" n="24"/>petuo manifestavit et plena luce exseruit. Neque 
+      <lb ed="#B" n="25"/>tamen apostolus de simulatione loquitur, sed de vera 
+      <lb ed="#B" n="26"/>et reali exinanitione, unde ἐξηγήσεως loco 
+      subjungi<lb ed="#B" n="27" break="no"/>tur, quod Christus se ea ratione exinaniverit, qua 
+      <lb ed="#B" n="28"/>tenus cervi formam suscepit, in eimilitudine 
+      hom<lb ed="#B" n="29" break="no"/>num factus et habitu ut homo inventus se ipsum 
+      hu<lb ed="#B" n="30" break="no"/>miliavit, factus obediens Patri usque ad mortem 
+      <lb ed="#B" n="31"/>mortem autem crucis, quae non fuisse ficta vel si 
+      <lb ed="#B" n="32"/>mulata, sed omnia in veritate rei gesta, et particula 
+      <lb ed="#B" n="33"/>asseverandi prophetica 128 Esai. 53, v. 4. et historia 
+      <lb ed="#B" n="34"/>evangelica et redemtionis nostrae veritas et Marcio 
+      <lb ed="#B" n="35"/>nismi publica damnatio liquido testantur 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e1014">
+               <lb ed="#B" n="36"/>298. 3. Quod μορφὴν δούλου, servi formam acce 
+      <lb ed="#B" n="37"/>pisse dicitur. Quidam simpliciter accipiunt de in 
+      <lb ed="#B" n="38"/>carnatione, quae Hebraeor. 2, v. 16. simili fere 
+      <lb ed="#B" n="39"/>phrasi per τὸ ἐπιλαμβάνεσθαι σπέρματος Ἀβραὰ 
+      <lb ed="#B" n="40"/>describitur. Sed hoc loco per servilis formae ad 
+      <lb ed="#B" n="41"/>ceptionem non primario ae principaliter humanam 
+      <lb ed="#B" n="42"/>naturam, verum serviles naturae illius conditio 
+      <lb ed="#B" n="43"/>nes et infirmitates intelligi, ac proinde non in prae 
+      <lb ed="#B" n="44"/>dicamento substantiae, sed qualitatis formam servi 
+      <lb ed="#B" n="45"/>considerari sequentibus demonstramus argumentis 
+      <lb ed="#B" n="46"/>1. ex oppositione. Forma Dei et forma servi hic 
+      <lb ed="#B" n="47"/>sibi invicem opponuntur. At in forma Dei esse 
+      <lb ed="#B" n="48"/>principaliter hic significat gloriam et majestatem 
+      <lb ed="#B" n="49"/>Deo convenientem exserere. Ergo servilem formam 
+      <lb ed="#B" n="50"/>assumere significat infirmitates servo conveniente 
+      <lb ed="#B" n="51"/>sponte assumere; 2. ex depositione. Humanam natu 
+      <lb ed="#B" n="52"/>ram quam semel assumsit, ò όyos nunquam de 
+      <lb ed="#B" n="53"/>ponit, sed formam servi in statu exaltationis deposuit. 
+      <lb ed="#B" n="54"/>quando scilicet datum est illi nomen, quod est supe 
+      <lb ed="#B" n="55"/>omne nomen Phil. 2, v. 10; quando factus est De 
+      <lb ed="#B" n="56"/>minus Aet. 2, v. 38; ecquis enim diceret, eum in 
+      <lb ed="#B" n="57"/>statu exaltationis adhuc habere formam servi e 
+      <lb ed="#B" n="58"/>esse nostrum conservum, cum ad dextram Dei supro 
+      <lb ed="#B" n="59"/>omnem pricipatum, potestatem et virtutem et de 
+      <lb ed="#B" n="60"/>minationem et omne quod nominatur non solum in 
+      <!--702.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>hoc seculo, sed etiam in futuro fuerit evectus Epher 
+      <lb ed="#B" n="62"/>1, v. 21. Si exinanitio praecise et immediate est 
+      <lb ed="#B" n="63"/>numanae naturae assumtio, vi oppositionis exaltatio 
+      <lb ed="#B" n="64"/>erit ejusdem depositio; 3. eae distinctione. Forma 
+      <lb ed="#B" n="65"/>servi sic explicanda est, ut ex ea distinctio 
+      inte<lb ed="#B" n="66" break="no"/>statum exinanitionis et exaltationis peti possit. Jan 
+      <lb ed="#B" n="67"/>vero distinctio illa non potest primo ac proxime vel 
+      <lb ed="#B" n="68"/>a divina vel ab humana natura peti; ut enim 
+      Chri<lb ed="#B" n="69" break="no"/>stus in statu exinanitionis vere fuit non tantum 
+      <lb ed="#B" n="70"/>homo, sed etiam Deus, sic in statu exaltationis est 
+      <lb ed="#B" n="71"/>non tantum Deus, sed etiam homo; 4. ex subjecti 
+      <lb ed="#B" n="72"/>consideratione. Subjectum propositionis apostolicae 
+      <lb ed="#B" n="73"/>est Jesus Christus θεάνθρωπος. At de Christe 
+      <lb ed="#B" n="74"/>θεανθρώπῳ non potest dici, quod fuerit incarnatus, 
+      <lb ed="#B" n="75"/>sed ὁ Λόγος dicitur caro factus, Filius Dei dicitur 
+      <lb ed="#B" n="76"/>semen Abrahae assumere; 5. ex textus connexione 
+      <lb ed="#B" n="77"/>Qua ratione exinanitio Christo tribuitur, ea etiam 
+      <lb ed="#B" n="78"/>ratione servilis formae assumtio. Jam vero 
+      exina<lb ed="#B" n="79" break="no"/>nitio non tribuitur Christo respectu deitatis. Erge 
+      <lb ed="#B" n="80"/>etiam acceptio servilis formae non potest eo sensu 
+      <lb ed="#B" n="81"/>exponi, quod deitas 1οῦ Aόγου assumserit humanam 
+      <lb ed="#B" n="82"/>naturam. Christus dicitur se ipsum exinanivisse 
+      <lb ed="#B" n="83"/>ante assumtionem servilis formae. Si ergo per 
+      for<lb ed="#B" n="84" break="no"/>mam servilem venit ipsa natura humana, ergo Λόγος 
+      <lb ed="#B" n="85"/>in se ipso seu deitate sua sese evacuavit, quod 
+      <lb ed="#B" n="86"/>ἄιοπον; 6. eae annexa explicatione. Quid per a 
+      <lb ed="#B" n="87"/>sumtionem sorvilis formae proprie accipiendum sit, 
+      <lb ed="#B" n="88"/>apostolus ipse exponit subjungens, quod Christus 
+      <lb ed="#B" n="89"/>fuerit inventus in eimilitudine hominum, quod ed 
+      <lb ed="#B" n="90"/>ipsum humiliaverit, factuo Palri obediens usque ad 
+      <lb ed="#B" n="91"/>mortem. At haec non poesunt absolute et 
+      simpli<lb ed="#B" n="92" break="no"/>citer de incarnatione accipi; 7. ex interprotum testi 
+      <lb ed="#B" n="93"/>icatione. Ambros. in comm. h. L: Non mihi sicu 
+      <lb ed="#B" n="94"/>quibusdam videtur sio formam servi accepisse, dum 
+      <lb ed="#B" n="95"/>homo natus est. Et paulo ante: Servi 
+      formam<lb ed="#B" n="96" break="no"/>accepisse dicitur, dum quaei peccator humiliatur 
+      <lb ed="#B" n="97"/>Servi autem ex peccato fiunt, sicut Cham filius 
+      <lb ed="#B" n="98"/>Noë, qui primus merito nomen servi accepit. 
+      Cyprian<lb ed="#B" n="99" break="no"/>vel Rufinus serm. de resurrect: Agunt in 
+      coelesti<lb ed="#B" n="100" break="no"/>bus haec paschalia gaudia angelici spiritus et 
+      re<lb ed="#B" n="101" break="no"/>surgentis Domini gloriam admirantur. Laetantur 
+      <lb ed="#B" n="102"/>et delectantur in eo, quod forma servi reversa sit 
+      <lb ed="#B" n="103"/>in formam Dei et exinanitio humilitatie ad deposi 
+      <lb ed="#B" n="104"/>tae altitudinis redierit majestatem. Eodem modo 
+      <lb ed="#B" n="105"/>formam servi exponit glossa Genevensium Esa. 52. 
+      <lb ed="#B" n="106"/>5. 14. ** Piscator in Anal. p. 173: Notandum 
+      <lb ed="#B" n="107"/>apostolum in eadem sententia accipere hac voces 
+      <lb ed="#B" n="108"/>μορφὴ, ὁμοίωμα, σχῆμα; p. 171. per formam servt 
+      <lb ed="#B" n="109"/>ntelligi conditionem servilem, humilem et abjectam 
+      <lb ed="#B" n="110"/>Idde Bezam in annot. major. fol. 391. Martin. in. 
+      <lb ed="#B" n="111"/>Spic. p. 164: quod dicitur de forma servi, non 
+      <lb ed="#B" n="112"/>simpliciter intelligo humanam naturam, sed vilem 
+      <lb ed="#B" n="113"/>ejus conditionem, quae fuit ad tempus. Conf. e 
+      <lb ed="#B" n="114"/>Zanchius in hoc loco et lib. 2. de natura Dei e. 6 
+      <lb ed="#B" n="115"/>p. 175. ** Quod autem patres per formam servi 
+      <lb ed="#B" n="116"/>psam humanitatem quandoque videntur intelligere 
+      <lb ed="#B" n="117"/>id accipiendum est ἐπομένως et per consequentiam 
+      <lb ed="#B" n="118"/>quia forma servi non potest esse absque humanitate, 
+      <lb ed="#B" n="119"/>quippe quam ante se requirit, unde ex hoc loco 
+      <lb ed="#B" n="120"/>recte demonstrarunt Christi humanitatem, quia fieri 
+      <!--703.xml-->
+      <pb ed="#B" n="596"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>nequit, ut non sit verus homo, qui servi formam 
+      <lb ed="#B" n="2"/>assumsit, ac a positione πάθους seu propriae 
+      af<lb ed="#B" n="3" break="no"/>fectionis ad positionem ipsius subjecti, cujus est illi 
+      <lb ed="#B" n="4"/>iffectio propria, firmiter possumus progredi. Nimi 
+      <lb ed="#B" n="5"/>rum ut ex eo, quod Christus dicitur fuisse in formo 
+      <lb ed="#B" n="6"/>Dei, recte colligitur vera ipsius deitas, quia 
+      Chri<lb ed="#B" n="7" break="no"/>stus non potuisset in carne et per carnem divinan 
+      <lb ed="#B" n="8"/>majestatem exserere, nisi eam habuisset personalite 
+      <lb ed="#B" n="9"/>sibi communicatam, personaliter vero communicatar. 
+      <lb ed="#B" n="10"/>habere non potuisset, nisi natura esset verus Deus: 
+      <lb ed="#B" n="11"/>ita ex eo, quod Christus dicitur servi formam as 
+      <lb ed="#B" n="12"/>cumsisse, recte colligitur vera ipsius humanitas, quia 
+      <lb ed="#B" n="13"/>infirmitates humanae praesupponunt veritatem essen 
+      <lb ed="#B" n="14"/>tiae humanae. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e1242">
+               <lb ed="#B" n="15"/>299. 4. Quod factus fuerit ἐν ὁμοιώματι ἀνθρώ 
+      <lb ed="#B" n="16"/>πων, in similitudine hominum. Vel ex hac ἐξηγήσε 
+      <lb ed="#B" n="17"/>manifestum est, per assumtionem servilis formae non 
+      <lb ed="#B" n="18"/>esse principaliter et directe humanae naturae assum 
+      <lb ed="#B" n="19"/>tionem intelligendam, quia per incarnationem Filiu 
+      <lb ed="#B" n="20"/>Dei non tantum factus est ἐν ὁμοιώματι ἀνθρώκων 
+      <lb ed="#B" n="21"/>sive ὅμοιος duntaxat hominibus, quod asserere 
+      Mar<lb ed="#B" n="22" break="no"/>cioniticum foret, sed iisdem ὁμοούσιος. Quod enim 
+      <lb ed="#B" n="23"/>ὁμοίωμα non ad naturae nostrae substantiam, sed 
+      <lb ed="#B" n="24"/>ad infirmitates et conversationis humilitatem, qua 
+      <lb ed="#B" n="25"/>Christus reliquis hominibus similis fuit, referatur 
+      <lb ed="#B" n="26"/>patet 1. ex propria hujus vocie acceptione, qua 
+      <lb ed="#B" n="27"/>semper pro qualitatum congruentia, non autem 
+      im<lb ed="#B" n="28" break="no"/>mediate pro natura et essentia sumitur. Rom. I, v. 2. 
+      <lb ed="#B" n="29"/>gentiles dicuntur gloriam Dei incorruptibilis mutass 
+      <lb ed="#B" n="30"/>ἐν ὁμοιώματι imaginis corruptibilis hominis, quod 
+      no<lb ed="#B" n="31" break="no"/>potest de substantia humana accipi. Rom. 6, v. 4. 
+      <lb ed="#B" n="32"/>dicimur facti σύμφυτοι τῷ ὁμοιώματι mortis Christi 
+      <lb ed="#B" n="33"/>c. 8. v. 3: mioit filium in eimilitudine carnis peccati 
+      <lb ed="#B" n="34"/>ubi vox ὁμοιώματος non ad carnem simpliciter, sed 
+      <lb ed="#B" n="35"/>ad determinationem ab apostolo adjectam peccato 
+      <lb ed="#B" n="36"/>obnoxiae pertinet, quam emphasin pulchre expendit 
+      <lb ed="#B" n="37"/>Ambr. lib. 1. de poenit. c. 3. tom. 1. p. 153, cuju 
+      <lb ed="#B" n="38"/>verba adduximus in c. 6; 2. ex vocum aequipollen 
+      <lb ed="#B" n="39"/>tium collatione. Apostolus tanquam ἰσοδυναμοῦντο 
+      <lb ed="#B" n="40"/>conjungit μορφὴν, ὁμοίωμα, σχῆμα. At μορφὴν 
+      nun<lb ed="#B" n="41" break="no"/>quam accipi pro ipsa essentia seu forma substantiali 
+      <lb ed="#B" n="42"/>sed tantum pro specie externa seu forma 
+      acciden<lb ed="#B" n="43" break="no"/>tali patet ex omnium locorum inductione. Per 
+      <lb ed="#B" n="44"/>ὁμοίωμα igitur intelligitur conformitas vitae in ope 
+      <lb ed="#B" n="45"/>rationibus naturalibus ac infirmitatibus cum alii 
+      <lb ed="#B" n="46"/>hominibus. Hoc fuit illud ὁμοίωμα ἀνθρώκων eo 
+      <lb ed="#B" n="47"/>fere sensu sic dictum, quo imaginem terroni dicimur 
+      <lb ed="#B" n="48"/>gerere, 1. Cor. 15, v. 50. Nequo enim 
+      apostolu<lb ed="#B" n="49" break="no"/>ὁμοίωμα illud opponit veritati humanae in Christe 
+      <lb ed="#B" n="50"/>naturae, nec propositum est ei dicere, qualis fueri 
+      <lb ed="#B" n="51"/>natura Christi humana ratione suae essentiae, sed 
+      <lb ed="#B" n="52"/>qualem sese Christus tempore exinanitionis inter 
+      <lb ed="#B" n="53"/>homines et in conversatione vitae gesserit, videlice 
+      <lb ed="#B" n="54"/>quod fuerit ὁμοιοκαθὴς, quod similes affectiones 
+      <lb ed="#B" n="55"/>quales ceteri homines sustinent, in corpore et anima 
+      <lb ed="#B" n="56"/>fuerit perpessus. Ut Hebr. 2, v. 17. dicitur, quod 
+      <lb ed="#B" n="57"/>debuit per omnia fratribus ὁμοιωθῆναι, c. 4. v. 1. 
+      <lb ed="#B" n="58"/>κεπειραμένος κατὰ πάντα καθʼ ὁμοιότητα χωρὶς ἅμαρ 
+      <lb ed="#B" n="59"/>ιίας, ita quoque hoc loco ἐν ὁμοιώμαιι ἀνθρώπων 
+      <lb ed="#B" n="60"/>γενόμενος εst ὅμοιος ἀνθρώποις γενόμενος. Camerar 
+      <!--703.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>in not. ad h. I. πλεονάζουσα ἡ φράσις τῇ ἐβραῖδο 
+      <lb ed="#B" n="62"/>διαλέκτῳ pro eo quod ὅμοιος τοῖς ἄλλοις ἀνθρώκοιν 
+      <lb ed="#B" n="63"/>γενόμενος. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e1355">
+               <lb ed="#B" n="64"/>300. 5. Quod oxjμari inventus fuorit ut homo 
+      <lb ed="#B" n="65"/>σχῆμα significat actiones in convictu et conversatione 
+      <lb ed="#B" n="66"/>cum hominibus, σχέσιν, speciem et habitudinem, qua 
+      <lb ed="#B" n="67"/>ese homo ad alios, quibuscum versatur, componit 
+      <lb ed="#B" n="68"/>et conformat, nam συσχηματίζεσθαι 1. Petr. I, v. 13. 
+      <lb ed="#B" n="69"/>per ἀναστροφὴν conversationem explicatur Rom. 12. 
+      <lb ed="#B" n="70"/>v. 2. 1. Petr. I, v. 15. Sic I. Cor. 3, v. 31. σχῆμα hujus 
+      <lb ed="#B" n="71"/>mundi dicitur praeterire, hoc est conversatio hujus 
+      <lb ed="#B" n="72"/>eculi, vita in hoc mundo, actiones hujus vitae 
+      at<lb ed="#B" n="73" break="no"/>que una totus mundus aliquando praeteribit. Sensus 
+      <lb ed="#B" n="74"/>gitur est, quod Christus in habitu conversationis 
+      <lb ed="#B" n="75"/>Luth. an Geberden) inventus fuerit ut alius homo 
+      <lb ed="#B" n="76"/>quod non segregaverit se a communi hominum 
+      con<lb ed="#B" n="77" break="no"/>sortio, quod venerit non ut Johannes, nec 
+      biben<lb ed="#B" n="78" break="no"/>vinum nec manducans vulgares cibos Matth. 11 
+      <lb ed="#B" n="79"/>v. 17. Luc. 7, v. 33, sed manducane ac bibens, hoc 
+      <lb ed="#B" n="80"/>est cum aliis in communi convictu cibum capiens 
+      <lb ed="#B" n="81"/>n conviviis praesens, quin et cum peccatoribus vel 
+      <lb ed="#B" n="82"/>cens. ** Jacob. ad Portum c. 22. p. 207. scribit. 
+      <lb ed="#B" n="83"/>quod habitus ille humanus, quo Christus inventus 
+      <lb ed="#B" n="84"/>dicitur, primo atque per se non ipeam humanam 
+      na<lb ed="#B" n="85" break="no"/>uram et essentiam, cujus perfectio in forma interi 
+      <lb ed="#B" n="86"/>ori consistit, sed vitae perpescionem atque mortis 
+      <lb ed="#B" n="87"/>Christi echema significet, secundario vero et 
+      con<lb ed="#B" n="88" break="no"/>sequenter humanam naturam designet. v 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e1413">
+               <lb ed="#B" n="89"/>301. 6. Quod humiliaverit se ipsum, factus 
+      obe<lb ed="#B" n="90" break="no"/>liens usque ad mortem, mortem autem crucis, xml:id 
+      <lb ed="#B" n="91"/>est, quod toto vitae et conversationis tempore a 
+      <lb ed="#B" n="92"/>prima inde conceptione usque ad gloriosam 
+      resur<lb ed="#B" n="93" break="no"/>rectionem et adscensionem humilem obedientiam 
+      prae<lb ed="#B" n="94" break="no"/>stiterit Patri coelesti, τὸ μέχρι enim non tam 
+      tem<lb ed="#B" n="95" break="no"/>poris quantitatem, quam obedientiae intensionem 
+      <lb ed="#B" n="96"/>notat, quod non recusaverit ex vera et sincera ergi 
+      <lb ed="#B" n="97"/>Deum obedientia propter salutem humani generi. 
+      <lb ed="#B" n="98"/>varias passiones ac tandem ignominiosissimum et 
+      <lb ed="#B" n="99"/>acerbissimum mortis genus, crucifixionem scilice 
+      <lb ed="#B" n="100"/>justinere. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e1442">
+               <lb ed="#B" n="101"/>302. Ad tertium membrum pertinent haec 
+      praedi<lb ed="#B" n="102" break="no"/>cata: 1. quod Deus Christum ὑπερύψωσε, in 
+      sum<lb ed="#B" n="103" break="no"/>nam extulit sublimitatem; 2. quod dederit ei 
+      no<lb ed="#B" n="104" break="no"/>men, quod est super omne nomen, de quibus in seo 
+      <lb ed="#B" n="105"/>th. 3. plenius agetur. Ex hisce, quae de exinanitione 
+      <lb ed="#B" n="106"/>Christi dicta sunt, duo colligimus porismata. Prius 
+      <lb ed="#B" n="107"/>est, quod exinanitio Christo non secundum divinam 
+      <lb ed="#B" n="108"/>nec secundum utramque, sed secundum humanam 
+      <lb ed="#B" n="109"/>naturam sit tribuenda. Probamus hoc 1. ex 
+      des<lb ed="#B" n="110" break="no"/>nitione. Exinanitio definitur ab apostolo, quod sit 
+      <lb ed="#B" n="111"/>Jesu Christi in forma servili humilis obedientia sive 
+      <lb ed="#B" n="112"/>subjectio usque ad mortem crucis, unde sic colligi 
+      <lb ed="#B" n="113"/>gimus. Secundum quam naturam Christus est ex 
+      <lb ed="#B" n="114"/>nanitus, secundum eandem fuit mutabilis, fuit 
+      ser<lb ed="#B" n="115" break="no"/>vus, fuit in cruce mortuus. Jam vero non secundum 
+      <lb ed="#B" n="116"/>divinam, sed secundum humanam naturam fuit 
+      mu<lb ed="#B" n="117" break="no"/>tabilis, servus et in cruce mortuus. Ergo etiam se 
+      <lb ed="#B" n="118"/>eundum eandem exinanitus; 2. ex oppositione. 
+      Se<lb ed="#B" n="119" break="no"/>eundum quam naturam Christus est exinanitus, 
+      <lb ed="#B" n="120"/>secundum eandem etiam exaltatus, ut ostendit par¬ 
+      <!--704.xml-->
+      <pb ed="#B" n="597"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>ticula διὸ καὶ v. 9. Jam vero Christus secundum 
+      <lb ed="#B" n="2"/>humanam naturam est exaltatus, ut ex definition 
+      <lb ed="#B" n="3"/>exaltationis infra patebit; 3. ex divinae naturae 
+      con<lb ed="#B" n="4" break="no"/>ditione. Natura divina est ἀμετάβλητος, immutabilis 
+      <lb ed="#B" n="5"/>et invariabilis, juxta eam cum Patre et Spiritu? 
+      <lb ed="#B" n="6"/>semper operatur Joh. 5, v. 17. Ergo juxta ean 
+      <lb ed="#B" n="7"/>non potest κένωσις quaedam Christo tribui 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e1510">
+               <lb ed="#B" n="8"/>303. Posterius est: Exinanitio, quam apostolu 
+      <lb ed="#B" n="9"/>Christo secundum humanam naturam tribuit, non 
+      <lb ed="#B" n="10"/>est omnimoda carentia vel absentia divinae 
+      poten<lb ed="#B" n="11" break="no"/>tiae: nec absoluta privatio, ablatio, despoliatio 
+      <lb ed="#B" n="12"/>exutio, abjectio, depositio, remotio, defectus, nudita 
+      <lb ed="#B" n="13"/>ac vacuitas plenitudinis, deitatis ac communicata 
+      <lb ed="#B" n="14"/>carni majestatis, sed retractio usus et intermissio 
+      <lb ed="#B" n="15"/>qua Christus homo in forma servili constitutus e 
+      <lb ed="#B" n="16"/>infirmitate tectus divinam potentiam, gloriam e 
+      <lb ed="#B" n="17"/>majestatem vere et realiter sibi communicatam non 
+      <lb ed="#B" n="18"/>semper exseruit, sed retraxit et retinuit, donec 
+      ter<lb ed="#B" n="19" break="no"/>pus exaltationis sequeretur. Probamus hoc 1. 
+      e<lb ed="#B" n="20" break="no"/>unionis definitione. Apostolus Coloss. 2. v. 9. unio 
+      <lb ed="#B" n="21"/>nem definit per inhabitationem totius plenitudinis 
+      <lb ed="#B" n="22"/>deitatis in assumto corpore sive humana natura 
+      <lb ed="#B" n="23"/>Ut ergo in statu exinanitionis non desiit unio, ita 
+      <lb ed="#B" n="24"/>quoque non desiit illa plenitudinis deitatis in ad 
+      <lb ed="#B" n="25"/>sumta carne habitatio; 2. ex apostolica explicatione 
+      <lb ed="#B" n="26"/>Apostolus κένωσιν illam describit per assumtionem 
+      <lb ed="#B" n="27"/>servilis formae, humiliationem et obedientiam usque 
+      <lb ed="#B" n="28"/>ad mortem crucis. Atqui haec non inferunt omni 
+      <lb ed="#B" n="29"/>modam communicatae majestatis divinae absentiam 
+      <lb ed="#B" n="30"/>et abjectionem; 3. ex miraculorum operatione 
+      <lb ed="#B" n="31"/>Christus in medio exinanitionis statu divina mira 
+      <lb ed="#B" n="32"/>cula in carne et per carnem operatus est, in qui 
+      <lb ed="#B" n="33"/>bus manifestavit gloriam uam Joh. 2, v. 11. 
+      <lb ed="#B" n="34"/>transfiguratus est coram discipulis Matth. 17, v. 3. 
+      <lb ed="#B" n="35"/>instituit sacram eucharistiam, in qua mediante bene 
+      <lb ed="#B" n="36"/>dicto pane suum corpus et mediante benedicto vine 
+      <lb ed="#B" n="37"/>suum sanguinem discipulis distribuit ete., qui fuere 
+      <lb ed="#B" n="38"/>particulares quidam, ut ita loquar, radii divinae 
+      <lb ed="#B" n="39"/>potentiae, majestatis ac gloriae sibi secundum carnem 
+      <lb ed="#B" n="40"/>communicatae, cujus plenarius usus tandem in exal 
+      <lb ed="#B" n="41"/>tatione fuit secutus, interim ex illis immote colligitur 
+      <lb ed="#B" n="42"/>Christum etiam in medio exinanitionis statu nos 
+      <lb ed="#B" n="43"/>fuisse illa potentia et gloriâ destitutum, sed sponte 
+      <lb ed="#B" n="44"/>ae libere ab ejus usu plenario abstinuisse; 4. e. 
+      <lb ed="#B" n="45"/>piorum veterum testificatione. Hilarius lib. 12. di 
+      <lb ed="#B" n="46"/>trin. p. 253: Non defecit ex se, qui se evacuavit i 
+      <lb ed="#B" n="47"/>se, cum virtutis potestas in evacuandi se potestat 
+      <lb ed="#B" n="48"/>permaneat, et in formam servi transiisse non si 
+      <lb ed="#B" n="49"/>naturam Dei perdidisse. Nazianzen. traet. de fis 
+      <lb ed="#B" n="50"/>p. 84. (in al. exempl tom. 2. fol. 134): Ut sol cur 
+      <lb ed="#B" n="51"/>nube tegitur, claritas ejus comprimitur, non caeco 
+      <lb ed="#B" n="52"/>tur, et lumen illud, quod toto orbe diffusum clar 
+      <lb ed="#B" n="53"/>aplendore cuncta perfundit, parvo admodum ob 
+      <lb ed="#B" n="54"/>staculo nubis includitur, non aufertur: sic et hom 
+      <lb ed="#B" n="55"/>ille, quem Dominus Jesus salvator noster, hoc es 
+      <lb ed="#B" n="56"/>Deus Deique Filius, Deum in illo non intercepi 
+      <lb ed="#B" n="57"/>sed abecondidit; quam sententiam totidem verbis 
+      re<lb ed="#B" n="58" break="no"/>petit Ambros. lib. de fid. contra Arianos c.. 
+      <lb ed="#B" n="59"/>p. 175. Idem Ambros. in comm. Phil. 2: Exinanivi 
+      <lb ed="#B" n="60"/>8e, hoc est potestatem suam ab opere retraxit, u 
+      <!--704.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>humiliatus otiosa virtute infirmari videretur. Ibid. 
+      <lb ed="#B" n="62"/>In forma DEI erat, quia, cum homo videretur. 
+      <lb ed="#B" n="63"/>opera Dei faciebat, ut in rebus gestis apparere 
+      <lb ed="#B" n="64"/>Deus esse, qui homo videbatur (communis), retinen 
+      <lb ed="#B" n="65"/>autem virtutem suam, ne appareret in eo, ut 
+      hom<lb ed="#B" n="66" break="no"/>visus est. Augustinus de fide ad Petrum c. 2: Chri 
+      <lb ed="#B" n="67"/>stus non amisit plenitudinem illam in exinanitione 
+      <lb ed="#B" n="68"/>alioqui quod de ea nobis daret, utique non haberet 
+      <lb ed="#B" n="69"/>Beda in e. 2. Philip. ex Augustino: Semet ipcum 
+      <lb ed="#B" n="70"/>exinanivit non formam Dei amittens, sed 
+      forman<lb ed="#B" n="71" break="no"/>pervi suscipiens. Theodoretus Dial. 3. ex Chryso 
+      <lb ed="#B" n="72"/>stomo: Aliquando enim divinitas Verbi assumtam 
+      <lb ed="#B" n="73"/>naturam humanam ἔρήμην καὶ γυμνὴν ἀφίησι 
+      <lb ed="#B" n="74"/>τῆς οἰκείας ἐνεργείας, nudam et quasi destitutam 
+      <lb ed="#B" n="75"/>operatione divina reliquit tempore exinanitionis. 
+      <lb ed="#B" n="76"/>ut ostensione infirmitatis ipsam naturam humanito 
+      <lb ed="#B" n="77"/>tis comprobaret, aliquando vero infirmitatem 
+      osten<lb ed="#B" n="78" break="no"/>sione divinitatis occultavit, quoniam non nudus home 
+      <lb ed="#B" n="79"/>ferat. Leo Magnus definit exinanitionem, quod σi 
+      <lb ed="#B" n="80"/>formae servilis obumbrata divinae majestatis 
+      immen<lb ed="#B" n="81" break="no"/>sitate susceptio. Fulgent. libr. de incarnat. et grat 
+      <lb ed="#B" n="82"/>c. 2: Exinanitio unigeniti Dei acceptio fuit formae 
+      <lb ed="#B" n="83"/>servilis, non amissio vel diminutio deitatis. Quidam 
+      <lb ed="#B" n="84"/>declarant hoc typo Davidis regis in exsilium 
+      al<lb ed="#B" n="85" break="no"/>Absolone pulsi, quo tempore nihilominus rex fui 
+      <lb ed="#B" n="86"/>2. Sam. 15. ac dicto apostolico Gal. 4. v. 1. Confer 
+      <lb ed="#B" n="87"/>Apol. Form. Concord. c. 4 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e1690">
+               <lb ed="#B" n="88"/>304. Thesis 2: Ad statum exinanitionis pertinet 
+      <lb ed="#B" n="89"/>conceptio in utero, nativitas, incrementum aetatis et 
+      <lb ed="#B" n="90"/>sapientiae, obedientia in forma servili usque ad 
+      <lb ed="#B" n="91"/>mortem crucis, quam secuta est sepultura. Statue 
+      <lb ed="#B" n="92"/>exinanitionis incipit in primo incarnationis momente 
+      <lb ed="#B" n="93"/>et durat usque ad tempus sepulturae inclusive, quod 
+      <lb ed="#B" n="94"/>cotum vitae Christi in his terris curriculum aposto 
+      <lb ed="#B" n="95"/>lus Hebr. 5, v. 7. vocat dies carnis, quibus per 
+      <lb ed="#B" n="96"/>Hebraismum significatur illud tempus, quo Christus 
+      <lb ed="#B" n="97"/>inter homines passibiles fuit versatus 2. Cor. 5, v. 16. 
+      <lb ed="#B" n="98"/>quo fuit infirmitatibus carnis absque tamen omni 
+      <lb ed="#B" n="99"/>peccato obnoxius. Aeugust. lib. 11. contra Faustur. 
+      <lb ed="#B" n="100"/>e. 7: Carnem hoc loco non ipsam corporis nosti 
+      <lb ed="#B" n="101"/>substantiam, quam Dominus etiam post resurrectio 
+      <lb ed="#B" n="102"/>nem suam carnem appellat (Luc. 24), sed corruptio 
+      <lb ed="#B" n="103"/>nem mortalitatemque carnis vult intelligi, quae pos 
+      <lb ed="#B" n="104"/>resurrectionem non erit in nobis, sicut jam in Christe 
+      <lb ed="#B" n="105"/>non est. Hosce dies carnis, hoc est actus ad statur 
+      <lb ed="#B" n="106"/>exinanitionis pertinentes, Thaddaeus unus ex LX 
+      <lb ed="#B" n="107"/>discipulis a Thoma apostolo Edessam missus in 
+      <lb ed="#B" n="108"/>concione, quam de Christo coram Agbaro rege 
+      ha<lb ed="#B" n="109" break="no"/>buit, inter caetera hisce describit verbis apud 
+      Euse<lb ed="#B" n="110" break="no"/>bium libr. 1. Histor. eccles. c. 14: Docebo de 
+      <lb ed="#B" n="111"/>adventu Jesu deque apostolatu ejus ete. et quam 
+      <lb ed="#B" n="112"/>diminutus ac tenuis quamque in externo hominis 
+      <lb ed="#B" n="113"/>conspectum humilis fuerit et quomodo se ipsum 
+      hu<lb ed="#B" n="114" break="no"/>miliaverit mortuusque sit ac divinitatem quam 
+      di<lb ed="#B" n="115" break="no"/>minuerit, ἐσμίκρυνεν αἰτοῦ τὴν θεότητα (quod non 
+      <lb ed="#B" n="116"/>potest de ipsius deitatis utpote immutabilis 
+      diminu<lb ed="#B" n="117" break="no"/>tione in se ipsa, sed de retractione et quasi 
+      dimi<lb ed="#B" n="118" break="no"/>nutione ejusdem in externa manifestatione intelligi) 
+      <lb ed="#B" n="119"/>et quanta a Judacis perpessus fuerit. Neque cui 
+      <lb ed="#B" n="120"/>quam mirum vel dubium videatur, quod ad exina¬ 
+      <!--705.xml-->
+      <pb ed="#B" n="598"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>nitionis statum referamus non solum passionem, 
+      <lb ed="#B" n="2"/>crucifixionem, mortem ac sepulturam Christi, sed 
+      <lb ed="#B" n="3"/>etiam ipsius conceptionem ac nativitatem, quia di 
+      <lb ed="#B" n="4"/>stinguendum inter incarnationem et incarnationis 
+      <lb ed="#B" n="5"/>modum. Potuisset Dei Filius immediata creation 
+      <lb ed="#B" n="6"/>humanam naturam formare eandemque in personae 
+      <lb ed="#B" n="7"/>unitatem assumendo homo fieri, si vel maxime non 
+      <lb ed="#B" n="8"/>fuisset in utero matris conceptus, quae fuit, ut si 
+      <lb ed="#B" n="9"/>loquar, nativitas interna, in utero matris per nover 
+      <lb ed="#B" n="10"/>menses gestatus et ex utero in lucem editus, qua 
+      <lb ed="#B" n="11"/>fuit nativitas externa. Constat enim Adamum verum 
+      <lb ed="#B" n="12"/>uisse hominem, qui tamen nec in utero nec ex uter 
+      <lb ed="#B" n="13"/>natus. Sed propter nos et nostram salutem non eo 
+      <lb ed="#B" n="14"/>lum homo fieri, sed etiam ex nostra carne humanam 
+      <lb ed="#B" n="15"/>naturam assumere et infirmitatibus, quae in 
+      con<lb ed="#B" n="16" break="no"/>ceptione ac nativitate infantulis accidere consueve 
+      <lb ed="#B" n="17"/>runt, sponte se ipsum subjicere voluit, ut immundam 
+      <lb ed="#B" n="18"/>nostram conceptionem et nativitatem sanctificaret 
+      a<lb ed="#B" n="19" break="no"/>ipsis infantibus utero adhuc conclusis salutem 
+      impe<lb ed="#B" n="20" break="no"/>traret. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e1814">
+               <lb ed="#B" n="21"/>305. Hac de re antiquissimi ecclesiae scriptore 
+      <lb ed="#B" n="22"/>pulcherrime sic disserunt: Justin. in dial. cum 
+      <lb ed="#B" n="23"/>Tryph. p. 204: γεννηθῆναι σαρκοποιηθὲν ὑπέμεινεν 
+      <lb ed="#B" n="24"/>p. 222: διὰ τῆς παρθένου ἄνθρῳπος γεννηθῆναι ὑπε 
+      <lb ed="#B" n="25"/>μεινεν (qua ipsa voce in passionis descriptione 
+      uti<lb ed="#B" n="26" break="no"/>tur Apol. 2. pro Christ. p. 75: Christus propter sd 
+      <lb ed="#B" n="27"/>lutem ipsi credentium καὶ ἐξουθενηθῆναι καὶ παθεῖ 
+      <lb ed="#B" n="28"/>ὑπέμεινεν.). Iren. lib. 2, c. 39. p. 137: Christu 
+      <lb ed="#B" n="29"/>omnem aetatem canctificavit per eam, quae erat ac 
+      <lb ed="#B" n="30"/>ipsam similitudinem. Omnes enim venit per seme 
+      <lb ed="#B" n="31"/>ipsum salvare, omnes inquam, qui per eum rena 
+      <lb ed="#B" n="32"/>scuntur in Deum infantes, et parvulos et pueros 
+      e<lb ed="#B" n="33" break="no"/>juvenes et seniores, xml:ideo per omnem venit aetatem 
+      <lb ed="#B" n="34"/>et infantibus infans factus, canctificans infantes, in 
+      <lb ed="#B" n="35"/>parvulis parvulus sanctificans hanc ipsam habente 
+      <lb ed="#B" n="36"/>aetatem, eimul et exemplum illis pietatis effectus e 
+      <lb ed="#B" n="37"/>justitiae et subjectionio. Juvenibus juvenio, exem 
+      <lb ed="#B" n="38"/>plum juvenibus, fiens et canctificans Domino, sic e 
+      <lb ed="#B" n="39"/>senior in senioribus, ut eit perfectus magister in 
+      <lb ed="#B" n="40"/>omnibus non solum secundum expositionem veritatis 
+      <lb ed="#B" n="41"/>sed secundum aetatem sanctificans simul et seniores 
+      <lb ed="#B" n="42"/>lib. 3, c. 4. p. 172: Christus Dei Filius eam qua 
+      <lb ed="#B" n="43"/>est ex virgine generationem sustinuit, ipae per sd 
+      <lb ed="#B" n="44"/>hominem adunans Deo; libr. 3, c. 20. p. 211: Per 
+      <lb ed="#B" n="45"/>omnem venit aetatem omnibus restituens eam, quae 
+      <lb ed="#B" n="46"/>est ad Deum, communionem; libr. ejusd. c. 31. p. 220. 
+      <lb ed="#B" n="47"/>Quare non iterum sumsit limum Deus set ex 
+      e<lb ed="#B" n="48" break="no"/>formavit humanam Christi naturam, sicut in Adamo 
+      <lb ed="#B" n="49"/>erat factum), sed ex Maria operatus est 
+      plasmatio<lb ed="#B" n="50" break="no"/>nem fieri? ut non alia plasmatio fieret, neque alis 
+      <lb ed="#B" n="51"/>esset plasmatio, quae calvaretur, sed eadem ipsc 
+      <lb ed="#B" n="52"/>recapitularetur servata similitudine. Hilarius lib.3 
+      <lb ed="#B" n="53"/>de trin. p. 20: Dei imago invisibilis pudorem 
+      hu<lb ed="#B" n="54" break="no"/>mani exorcdii non recusavit, et per conceptionem 
+      <lb ed="#B" n="55"/>partum, vagitum et cunas omnes nostrae naturas 
+      <lb ed="#B" n="56"/>contumelias transcurrit, humilitas ejus nostra es 
+      <lb ed="#B" n="57"/>nobilitas, contumelia ejus noster honor. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e1897">
+               <lb ed="#B" n="58"/>306. Thesis 8: Exaltatio est Jecu Christi pos 
+      <lb ed="#B" n="59"/>obedientiam ad mortem usque crucis praestitam en 
+      <lb ed="#B" n="60"/>cummam cublimitatem evectio et nominis, quod es¬ 
+      <!--705.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>cupra omne nomen, in quo omnium genua flectenda 
+      <lb ed="#B" n="62"/>gunt, donatio Phil. 2, v. 9. 10; vel ut in aliis 
+      Scri<lb ed="#B" n="63" break="no"/>pturae dictis describitur, est solennis inthronisatio et 
+      <lb ed="#B" n="64"/>nauguratio Christi ex mortuis resuscitati ad plenam 
+      <lb ed="#B" n="65"/>ac perfectam coelestis imperii usurpationem et 
+      gu<lb ed="#B" n="66" break="no"/>pernationem coeli ac terrae, inprimis ecclesiae 
+      <lb ed="#B" n="67"/>Quemadmodum de exinanitione diximus, quod acci 
+      <lb ed="#B" n="68"/>piatur in sensu tum ecclesiastico, tum biblico: ita v. 
+      <lb ed="#B" n="69"/>oppositionis de exaltatione xml:idem omnino statuendum 
+      <lb ed="#B" n="70"/>Exaltatio in sensu ecclesiastico accepta est humanas 
+      <lb ed="#B" n="71"/>naturae in ipsam Aόγου ὑπόστασιν evectio, quae 
+      vo<lb ed="#B" n="72" break="no"/>cari potest exaltatio incarnationis. Sicut erat 
+      quae<lb ed="#B" n="73" break="no"/>lam humiliatio, quando Filius Dei ex arcana 
+      maje<lb ed="#B" n="74" break="no"/>statis suae sede prodiens in carnem nostram sese 
+      <lb ed="#B" n="75"/>demisit, sic exaltatio vocari potest, quod assumta 
+      <lb ed="#B" n="76"/>natura humana in ipsam Aόγου hypostasin per 
+      <lb ed="#B" n="77"/>inionem personalem est evecta, quodque in unione 
+      <lb ed="#B" n="78"/>ac per unionem divinorum xml:idiomatum divinae maje 
+      <lb ed="#B" n="79"/>statis et gloriae vere ac realiter particeps est facta 
+      <lb ed="#B" n="80"/>inde in medio exinanitionis statu, antequam plens 
+      <lb ed="#B" n="81"/>riam dominii in coelo ac terra usurpationem 
+      acci<lb ed="#B" n="82" break="no"/>peret, vocatur rex et dominus Luc. 2. v. 11. Matth. 21. 
+      <lb ed="#B" n="83"/>r. 5. Joh. 18. v. 37. Exaltatio in seneu biblico ac 
+      <lb ed="#B" n="84"/>cepta respicit proprie dictam exinanitionem Phil. 2. 
+      <lb ed="#B" n="85"/>v. 5. descriptam, quae vocari potest ecaltatio 
+      glori<lb ed="#B" n="86" break="no"/>icationio, ecaltatio ad DEI dextram. Describitur 
+      <lb ed="#B" n="87"/>ab apostolo I. d. in his verbis v. 9: Propter quod 
+      <lb ed="#B" n="88"/>et DEUS illum cuperexaltavit et ex gratia dedit 
+      <lb ed="#B" n="89"/>illi nomen cuper omne nomen, v. 10: ut in 
+      nomin<lb ed="#B" n="90" break="no"/>Jesu omne genu flectatur, coelestium et terrestrium 
+      <lb ed="#B" n="91"/>et infernorum; v. 11: et omnis lingua confiteatur 
+      <lb ed="#B" n="92"/>quod Dominus eit Christus Jecus in gloriam DEl 
+      <lb ed="#B" n="93"/>Patria 
+</p>
+            <p xml:id="zef3dd-d1e1113-d1e1983">
+               <lb ed="#B" n="94"/>307. Subjectum ut in exinanitione, ita in 
+      exalta<lb ed="#B" n="95" break="no"/>ione est Christus Jesus, ut ostendit relativum οὑτόν 
+      <lb ed="#B" n="96"/>Plena igitur propositio apostolica sic habet, Christus 
+      <lb ed="#B" n="97"/>Jesus, qui se ipsum exinanivit forma servi accepti 
+      <lb ed="#B" n="98"/>et se ipsum humiliavit factus obediens usque ad 
+      <lb ed="#B" n="99"/>mortem crucis, est a Patre coelesti exaltatus. Recto 
+      <lb ed="#B" n="100"/>proinde dicimus θεάνθρωπον personam componitam, 
+      <lb ed="#B" n="101"/>totam Christi personam esse ut exinanitam atque 
+      <lb ed="#B" n="102"/>exaltatam, actiones enim et passiones sunt totius 
+      <lb ed="#B" n="103"/>compositi. Sed si porro quaeratur, cum in Christ 
+      <lb ed="#B" n="104"/>luae sint naturae, divina et humana, secundum quan 
+      <lb ed="#B" n="105"/>naturam Christo tribuatur exaltatio? respondendum 
+      <lb ed="#B" n="106"/>est secundum humanam naturam, ut paulo post 
+      con<lb ed="#B" n="107" break="no"/>irmatum dabimus. Atque in eo exaltatio in senst 
+      <lb ed="#B" n="108"/>piblico et proprie accepta ab exaltatione in sensu 
+      <lb ed="#B" n="109"/>ecclesiastico accepta distinguitur. Illa enim 
+      tribui<lb ed="#B" n="110" break="no"/>tur personae συνθέτῳ, sed secundum humanam 
+      na<lb ed="#B" n="111" break="no"/>turam, perinde ut exinanitio proprie dicta itidem 
+      <lb ed="#B" n="112"/>personae compositae sivè Christo θεανθρώπῳ 
+      sccun<lb ed="#B" n="113" break="no"/>lum humanitatem tribuitur, haec verothumanae 
+      na<lb ed="#B" n="114" break="no"/>turae tribuitur, sicut exinanitio improprie in sensu 
+      <lb ed="#B" n="115"/>ecclesiastico accepta divinae naturae ac Aöγῳ sim 
+      <lb ed="#B" n="116"/>plici tribuitur. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e2035">
+               <lb ed="#B" n="117"/>308. Ad praedicatum pertinet: 1. ὑπερύψωσις, 
+      <lb ed="#B" n="118"/>superecaltatio, in summam sublimitatem evectio 
+      <lb ed="#B" n="119"/>supra modum exaltatio, quam emphasin praepositio 
+      <lb ed="#B" n="120"/>inéρ verbo simplici addita exprimit. Dn. Chemniciu 
+      <!--706.xml-->
+      <pb ed="#B" n="599"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>in Harm. c. 28. p. 151. monet, quod Christi exaltati 
+      <lb ed="#B" n="2"/>tribus modis in Scripturis accipiatur: I. pro pas 
+      <lb ed="#B" n="3"/>sione et crucifixione, Joh. 8, v. 28: Cum ecaltaver 
+      <lb ed="#B" n="4"/>tis Filium hominis de terra, cognoscetis, quod eg 
+      <lb ed="#B" n="5"/>sim; c. 12, v. 32: Cum exaltatus fuero de terro 
+      <lb ed="#B" n="6"/>omnia traham ad me ipsum; 2. quod tanquam victo 
+      <lb ed="#B" n="7"/>peccati et mortis ad dectram DEI est exaltatus 
+      <lb ed="#B" n="8"/>Act. 2, v. 33. Hebr. 9, v. 24; 3. quod meritum 
+      <lb ed="#B" n="9"/>Christi per ministerium evangelii tanquam erecto 
+      <lb ed="#B" n="10"/>vexillo omnibus proponatur Esa. 11, v. 10, hoc lod 
+      <lb ed="#B" n="11"/>in secunda significatione accipitur, ut patet ex 
+      con<lb ed="#B" n="12" break="no"/>textu, quia opponitur κενώσει καὶ ταπεινώσει, 
+      exin<lb ed="#B" n="13" break="no"/>nitioni ac humiliationi. Haec exaltatio verbis 
+      pe<lb ed="#B" n="14" break="no"/>quam emphaticis describitur Esa. 52, v. 13: Eco 
+      <lb ed="#B" n="15"/>prudenter aget servus meus 78n 17237 
+      12723<lb ed="#B" n="16" break="no"/>ecaltabitur, elevabitur et sublimis erit valde, quod 
+      <lb ed="#B" n="17"/>postremum per 1ὸ ὑπéρ apostolus videtur exprimer 
+      <lb ed="#B" n="18"/>voluisse. Hanc ὑπερύψωσιν ita describit apostolue 
+      <lb ed="#B" n="19"/>ut 1. addat particulam διὸ καί, quae non describi 
+      <lb ed="#B" n="20"/>causam meritoriam exaltationis, sed duntaxat 
+      or<lb ed="#B" n="21" break="no"/>dinem et conssquens praemium exinanitionis, ut in 
+      <lb ed="#B" n="22"/>fra demonstrabitur; 2. Deo tribuat illam superexa 
+      <lb ed="#B" n="23"/>tationem, ubi nomen Dei vel accipiendum οὑσιωδῶς 
+      <lb ed="#B" n="24"/>prout totam trinitatem et omnes tres deitatis pers 
+      <lb ed="#B" n="25"/>nas exprimit, vel ὑποσταιικῶς, ut ad primam perso 
+      <lb ed="#B" n="26"/>nam, Patrem scilicet, reforatur, utraque enim 
+      expl<lb ed="#B" n="27" break="no"/>catio fidei analoga, ut constat ex aliis Scriptura 
+      <lb ed="#B" n="28"/>locis: Psalm. 2, v. 9: Constitui regem tuum. Psalm. 42. 
+      <lb ed="#B" n="29"/>v. 11: Tu, Domine, fac me resuscitari. Psalm. 118 
+      <lb ed="#B" n="30"/>v. 7: Ipse ccaltabit caput. Joh. 17, v. 5: glorifico 
+      <lb ed="#B" n="31"/>me, Pater, apud te ipeum. Act. 2, v. 36: Deu 
+      <lb ed="#B" n="32"/>fecit huno Christum et Dominum; e. 5, v. 31: 
+      Hun<lb ed="#B" n="33" break="no"/>principem et salvatorem Deus exaltavit dextra quo 
+      <lb ed="#B" n="34"/>ete. Confer quae in secundo genere communicatio 
+      <lb ed="#B" n="35"/>nis thesi speciali 1. sunt allata 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e2129">
+               <lb ed="#B" n="36"/>309. 2. Quod Pater ipsi dederit nomen supe 
+      <lb ed="#B" n="37"/>omne nomen ete. Pii veteres hoc nomen sic inter 
+      <lb ed="#B" n="38"/>pretantur: I. quod homo ille seu filius Mariae voca 
+      <lb ed="#B" n="39"/>tur Deus et Filius altissimi. Epiphan. haeres. 66 
+      <lb ed="#B" n="40"/>p. 341: Ut homo cum DEO Verbo vocaretur Filit 
+      <lb ed="#B" n="41"/>Dei; 2. quod humanae naturae divina majestas 
+      <lb ed="#B" n="42"/>gloria ac potentia sit communicata, quia nomen apuo 
+      <lb ed="#B" n="43"/>Hebraeos significat rem ipsam et vocari ipsis es 
+      <lb ed="#B" n="44"/>esse. Confer Eph. 1, v. 20. Hebr. 1, v. 4; 3. 
+      quo<lb ed="#B" n="45" break="no"/>Christus etiam secundum humanam naturam si 
+      <lb ed="#B" n="46"/>noster mediator, redemtor, sacerdos ac rex suo 
+      Sp<lb ed="#B" n="47" break="no"/>ritu nos regens, sua potentia defendens, sua grati 
+      <lb ed="#B" n="48"/>liberans ac salvans, unde in nomine Jesu (quod 
+      <lb ed="#B" n="49"/>utramque naturam complectitur) dieuntur flecti de 
+      <lb ed="#B" n="50"/>bere genua coelestium et terrestrium et inferuorum 
+      <lb ed="#B" n="51"/>ac omnie linqua debet confiteri, quod Dominus sit 
+      <lb ed="#B" n="52"/>Jegus Christus. Per γονυκαμψίαν hic intelligitu 
+      <lb ed="#B" n="53"/>subjectio, quia etiam ἐπουρανίοις et καιαχθονίοις genus 
+      <lb ed="#B" n="54"/>tribuuntur. Origen. lib. 9. comm. ad Rom. c. 14. 
+      <lb ed="#B" n="55"/>Genu flectere et omnem linquam confiteri Deo non 
+      <lb ed="#B" n="56"/>Est carnaliter accipiendum, ut putemus etiam 
+      coe<lb ed="#B" n="57" break="no"/>lestia, quae dicit, genu flectere, carnalibus membris 
+      <lb ed="#B" n="58"/>Raec facere, verbi causa, ut putetur sol vel lunc 
+      <lb ed="#B" n="59"/>del stella vel etiam angeli vel quaecunque 
+      sun<lb ed="#B" n="60" break="no"/>quae coelestia notantur, corporalibus infleca geno 
+      <!--706.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>bus adorare, aut etiam lingua carnali et tali membro 
+      <lb ed="#B" n="62"/>quali nos loquimur, putentur confiteri Deo, de qui 
+      <lb ed="#B" n="63"/>bus dicitur, quod sint spiritus et ignis, et quae 
+      ge<lb ed="#B" n="64" break="no"/>nua in apiritibus esse creduntur? aut quae linqua 
+      <lb ed="#B" n="65"/>in ignis specie requiruntur, sed genu flectere, cubje 
+      <lb ed="#B" n="66"/>cta esse cuncta et cultui Dei obedire declarat, qua 
+      <lb ed="#B" n="67"/>expositio confirmatur ex Ephes. 1, v. 20. Thomas 
+      <lb ed="#B" n="68"/>lect. 3. in e. 2. Philipp.: Omnis creatura rationali 
+      <lb ed="#B" n="69"/>tive angeli sive homines sive daemones subjiciuntu 
+      <lb ed="#B" n="70"/>Christo. Est autem duplex subjectio, una voluntario 
+      <lb ed="#B" n="71"/>altera involuntaria. Angeli sancti et beati subjicium 
+      <lb ed="#B" n="72"/>tur Christo voluntarie, sed daemones et damnati 
+      <lb ed="#B" n="73"/>non sic, verum involuntarie. Denique quod additu 
+      <lb ed="#B" n="74"/>εἰς δόξαν θεοῦ πατρός eo pertinet: 1. quod, qui Ft 
+      <lb ed="#B" n="75"/>lium honorat, is etiam Patrem honoret Joh. 5, v. 23; 
+      <lb ed="#B" n="76"/>2. quod in Christi exaltatione summa Dei erga 
+      no<lb ed="#B" n="77" break="no"/>gratia conspiciatur; 3. quod gloria Dei sit finis ulti 
+      <lb ed="#B" n="78"/>mus tum exaltationis Christi tum nostrae glorifica 
+      <lb ed="#B" n="79"/>tionis, quam Christo exaltato deferimus. In aliis 
+      <lb ed="#B" n="80"/>Scripturae locis haec Christi ὑκερύψωσις sic descri 
+      <lb ed="#B" n="81"/>bitur, quod Pater ipsum ex mortuis resuscitatur 
+      <lb ed="#B" n="82"/>collocaverit ad suam clextram in coelestibus Psalm. 116 
+      <lb ed="#B" n="83"/>v. 1. Act. 2. v. 33. Ephes. 1. v. 20. Supra omner 
+      <lb ed="#B" n="84"/>principatum et potestatem et virtutem et 
+      dominatio<lb ed="#B" n="85" break="no"/>nem et omne nomen, quod nominatur non solum in 
+      <lb ed="#B" n="86"/>hoc seculo, sed etiam in futuro v. 21; et omnis 
+      <lb ed="#B" n="87"/>subjecerit pedibus ipsius et ipsum dederit caput 
+      <lb ed="#B" n="88"/>super omnia ipsi ecclesiae v. 22; quod dederit e 
+      <lb ed="#B" n="89"/>potestatem et honorem et regnum, ut omnes populo 
+      <lb ed="#B" n="90"/>tribus et linquae ipsi serviant Dan. 7, v. 14; quod 
+      <lb ed="#B" n="91"/>fecerit ipsum Dominum Act. 2, v. 36; quod in 
+      <lb ed="#B" n="92"/>thronum majestatis euae ipsum collocaverit Hebr. 8. 
+      <lb ed="#B" n="93"/>1. eto
+    </p>
+            <p xml:id="zef3dd-d1e1113-d1e2262">
+               <lb ed="#B" n="94"/>310. Ex hisce, quae de exaltatione Christi di 
+      <lb ed="#B" n="95"/>ximus, duo colligimus porismata. Prius est, quod 
+      <lb ed="#B" n="96"/>exaltatio proprie dicta Philipp. 2, v. 9. descript. 
+      <lb ed="#B" n="97"/>non competat Christo secundum divinam vel 
+      secun<lb ed="#B" n="98" break="no"/>dum utramque, sed secundum humanam naturam 
+      <lb ed="#B" n="99"/>quod iisdem probamus argumentis, quibus 
+      exinan<lb ed="#B" n="100" break="no"/>tionem Christo secundum humanam naturam 
+      com<lb ed="#B" n="101" break="no"/>petere superius: 1. ex definitione. Exaltatio 
+      defi<lb ed="#B" n="102" break="no"/>nitur ab apostolo, quod sit Jesu Christi post hu 
+      <lb ed="#B" n="103"/>milem obedientiam ad mortem usque crucis 
+      Pa<lb ed="#B" n="104" break="no"/>tri praestitam in summam sublimitatem evectio et 
+      <lb ed="#B" n="105"/>nominis, quod est supra omne nomen, donatio. At 
+      <lb ed="#B" n="106"/>haec definitio non potest Christo secundum divini 
+      <lb ed="#B" n="107"/>tatem tribui, quia secundum divinitatem non accepi 
+      <lb ed="#B" n="108"/>quiequam in tempore; 2. ex oppositione. Secur 
+      <lb ed="#B" n="109"/>dum quam naturam Christo competit exinanitio, 
+      s<lb ed="#B" n="110" break="no"/>cundum eandem etiam exaltatio, ut ostendit 
+      oppo<lb ed="#B" n="111" break="no"/>sitio. Jam vero secundum humanam naturam 
+      <lb ed="#B" n="112"/>Christo tribuitur exinanitio, ut vidimus. Cum pri 
+      <lb ed="#B" n="113"/>mis hic urgemus particulam διὸ καί. Quia Christu 
+      <lb ed="#B" n="114"/>sese humiliavit, xml:ideo Deus ipsum exaltavit. At quae 
+      <lb ed="#B" n="115"/>haec foret connexio: Christus secundum humanita 
+      <lb ed="#B" n="116"/>tem sese humiliavit, factus Patri obediens usque ad 
+      <lb ed="#B" n="117"/>mortem crucis, xml:ideo Deus secundum divinitatem 
+      <lb ed="#B" n="118"/>ipsum exaltavit; 3. ex divinae naturae conditione 
+      <lb ed="#B" n="119"/>Juxta divinam naturam Christus est altissimus, ne 
+      <lb ed="#B" n="120"/>que quicquam in tempore ex gratia accipit, sed per 
+      <!--707.xml-->
+      <pb ed="#B" n="600"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>aeternam a Patre generationem natura habet omnia. 
+      <lb ed="#B" n="2"/>Jam vero haec exaltatio in tempore ex gratia unio 
+      <lb ed="#B" n="3"/>nis Christo obtigit, ut ostendit vox ἔχαρίσατο. Erg. 
+      <lb ed="#B" n="4"/>secundum divinitatem Christo tribui nequit. Hiere 
+      <lb ed="#B" n="5"/>nymus in c. 2. Philipp.: Quia se assumtus hom 
+      <lb ed="#B" n="6"/>humiliare dignatus est, divinitas, quae humiliar 
+      <lb ed="#B" n="7"/>non potest, eum, qui humiliatus fuerat, exaltavit 
+      <lb ed="#B" n="8"/>sed et illi donatum est nomen, quia antea non ho 
+      <lb ed="#B" n="9"/>buit. Didymus Alexand. lib. 3. de Spiritu sancto 
+      <lb ed="#B" n="10"/>Deo Verbo exsistenti Filio Dei omnis creature 
+      <lb ed="#B" n="11"/>tanquam regi omnipotenti subdita est. Et quo 
+      <lb ed="#B" n="12"/>niam hic Deus Aόγoς hominem assumsit eum 
+      <lb ed="#B" n="13"/>que suscitans post mortem super omnes principo 
+      <lb ed="#B" n="14"/>tus, potestates et virtutes et dominationes 
+      con<lb ed="#B" n="15" break="no"/>stituit, huic (assumto homini) omnes angeli Der 
+      <lb ed="#B" n="16"/>jussu subjecti sunt, scientes eum uniri cum De 
+      <lb ed="#B" n="17"/>Verbo, cum in dextra divinitatis sit, et in nomin 
+      <lb ed="#B" n="18"/>ejus non solum terrena et inferna, sed etiam 
+      coe<lb ed="#B" n="19" break="no"/>lestia genu flectant, et omnis linqua ad gloriam 
+      <lb ed="#B" n="20"/>DEI Patris Jesum esse Dominum confiteatur. 
+      Hu<lb ed="#B" n="21" break="no"/>referri possunt omnia argumenta, quibus in secund 
+      <lb ed="#B" n="22"/>genere communicationis thesi spec. 2. demonstravi 
+      <lb ed="#B" n="23"/>mus, Christo homini sive secundum humanam natu 
+      <lb ed="#B" n="24"/>ram data esse dona vere divina et infinita. Confe 
+      <lb ed="#B" n="25"/>Append. libr. Concord. p. 831. Apolog. ejusder 
+      <lb ed="#B" n="26"/>p. 36. Chemnic. de duabus naturis c. 25. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e2386">
+               <lb ed="#B" n="27"/>311. Posterius est: Exaltatio; quam describis 
+      <lb ed="#B" n="28"/>apostolus, non praesupponit omnimodam carentian 
+      <lb ed="#B" n="29"/>et absentiam divinae majestatis, potestatis et gloriae 
+      <lb ed="#B" n="30"/>quippe quae per unionem personalem jam ant 
+      <lb ed="#B" n="31"/>Christo erat communicata, sed infert plenarium 
+      <lb ed="#B" n="32"/>duntaxat illius majestatis et dominii usum, ac eo 
+      <lb ed="#B" n="33"/>lennem, uti diximus, inthronisationem Christi ac 
+      <lb ed="#B" n="34"/>plenam et perfectam dominii secundum humanam 
+      <lb ed="#B" n="35"/>naturam ipsi dati usurpationem. Confirmatio hujus 
+      <lb ed="#B" n="36"/>porismatis petenda ex illis, quae de exinanitione et 
+      <lb ed="#B" n="37"/>exaltatione Christi dicta fuere, hactenus et in quae 
+      <lb ed="#B" n="38"/>tionibus paulo post dicentur. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e2415">
+               <lb ed="#B" n="39"/>312. Thesis 4. Ad statum exaltationis pertinent 
+      <lb ed="#B" n="40"/>descensus ad inferos, resurrectio ex mortuis, ac 
+      <lb ed="#B" n="41"/>scensio ad coelos et sessio ad Dei dextram. D. 
+      <lb ed="#B" n="42"/>hisce actibus ad statum exaltationis pertinentibu 
+      <lb ed="#B" n="43"/>tum in disputatione de resurrectione Christi tum 
+      <lb ed="#B" n="44"/>in harmonia evangelica latissime fuit actum 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e2432">
+               <lb ed="#B" n="45"/>313. Antithesis: 1. Jesuitae doctrinam de exina 
+      <lb ed="#B" n="46"/>nitione et exaltatione Christi multis modis perver 
+      <lb ed="#B" n="47"/>tunt: 1. exinanitionem et formae servilis 
+      assumtio<lb ed="#B" n="48" break="no"/>nem absolute et immediate de opere incarnationi 
+      <lb ed="#B" n="49"/>exponunt. Cornel. a Lap. in comm. Phil. 2. 
+      Sal<lb ed="#B" n="50" break="no"/>meron ibid. 2. Sessionem ad Dei dextram, in qua 
+      <lb ed="#B" n="51"/>Christi exaltatio praecipue consistit, datam esse di 
+      <lb ed="#B" n="52"/>cunt humanitati non in se, sed in supposito, neque 
+      <lb ed="#B" n="53"/>enim factum esse, ut humanitas in se sedeat ad 
+      <lb ed="#B" n="54"/>dextram Dei, sed ut sit humanitas illius perso 
+      <lb ed="#B" n="55"/>nae, quae sedet ad dextram Dei. Bellarminu 
+      <lb ed="#B" n="56"/>lib. 3. de Christo c. 15. 3. Exaltationem et sessio 
+      <lb ed="#B" n="57"/>nem ad Dei dextram exponunt definita quadam 
+      <lb ed="#B" n="58"/>potentia et dominio absentis, sicut rex Hispania 
+      <lb ed="#B" n="59"/>per vicarios suos in novis insulis dominetur, ac ni 
+      <lb ed="#B" n="60"/>quid desit impietati, disputat Bellarminus d. . 
+      <!--707.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>sedere a dextris apud antiquos minus honorificum 
+      <lb ed="#B" n="62"/>fuisse, quam sedere a sinistris; 4. de actibus 
+      a<lb ed="#B" n="63" break="no"/>statum exinanitionis et exaltationis pertinentibus 
+      <lb ed="#B" n="64"/>multos fovent errores, ut suo loco ostenditur 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e2482">
+               <lb ed="#B" n="65"/>314. 2. Calviniani: 1. Christum cecundum utram 
+      <lb ed="#B" n="66"/>que naturam exinanitum et exaltatum esse statuunt 
+      <lb ed="#B" n="67"/>Beza p. 1. Resp. ad colloq. p. 96. Sohnius in Exeg. 
+      <lb ed="#B" n="68"/>p. 246. Anhald. in apol. Germ. contra Electo. 
+      <lb ed="#B" n="69"/>p. 417. Jacobus ad Portum defens. fid. p. 209, cui 
+      <lb ed="#B" n="70"/>erroneae hypothesi opponenda sunt argumenta e 
+      <lb ed="#B" n="71"/>textu apostolico Philip. 2. superius proposita. 
+      Po<lb ed="#B" n="72" break="no"/>lanus in Syntagm. lib. 6, c. 22. p. 2681. utitur hoc 
+      <lb ed="#B" n="73"/>argumento: Ut Christus exinanivit se quoad deita 
+      <lb ed="#B" n="74"/>tem, non exuendo se ea, sed occultando eam in 
+      a<lb ed="#B" n="75" break="no"/>sumta servi forma: ita rursus quoad eandem 
+      exa<lb ed="#B" n="76" break="no"/>tatus est potenter et plene ipsam patefaciendo in 
+      <lb ed="#B" n="77"/>carne glorificata. Respondemus: I. nec exinanitio 
+      <lb ed="#B" n="78"/>nec exaltatio in textu apostolico eo modo definium 
+      <lb ed="#B" n="79"/>tur. 2. Si exinanitio definienda est occultatione 
+      dei<lb ed="#B" n="80" break="no"/>tatis et divinae potentiae, exaltatio vero ejusdem 
+      <lb ed="#B" n="81"/>patefactione, tum exinanitionis status saepe fuit 
+      <lb ed="#B" n="82"/>quodammodo status exaltationis et vice versa. Nam 
+      <lb ed="#B" n="83"/>Christus in statu exinanitionis manifestavit quande 
+      <lb ed="#B" n="84"/>que gloriam suam Joh. 2, v. 12. 3. Nondum vide 
+      <lb ed="#B" n="85"/>mus Christo omnia subjecta esse Hebr. 2, v. 8 
+      <lb ed="#B" n="86"/>ergo nondum Christus esset exaltatus. 4. Juxta hanc 
+      <lb ed="#B" n="87"/>definitionem etiam Patri tribui posset exinanitio 
+      e<lb ed="#B" n="88" break="no"/>exaltatio, quando scilicet auxilium suum prius 
+      dif<lb ed="#B" n="89" break="no"/>fert, postea vero potentiam adversus hostes exserit 
+      <lb ed="#B" n="90"/>Confer D. Mentzer. in disp. contra Martinium 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e2541">
+               <lb ed="#B" n="91"/>315. 2. Exaltationem definiunt per donorum 
+      fini<lb ed="#B" n="92" break="no"/>torum duntaxat communicationem. Sohn. tom. s. 
+      <lb ed="#B" n="93"/>Oper. disp. 7. th. 55: Exaltatio seu glorificatio 
+      <lb ed="#B" n="94"/>Christi secundum humanam naturam nihil aliud 
+      <lb ed="#B" n="95"/>est, quam qualitatum finitarum seu donorum in 
+      <lb ed="#B" n="96"/>natura humana tanquam in subjecto per deitatem 
+      <lb ed="#B" n="97"/>personaliter inhabitantem effectio et velut 
+      creatio<lb ed="#B" n="98" break="no"/>ac genere seu specie non differt a glorificatione 
+      <lb ed="#B" n="99"/>beatorum angelorum et hominum, sed quantitate 
+      <lb ed="#B" n="100"/>hoc est multitudine et magnitudine. Contrarium 
+      <lb ed="#B" n="101"/>probari potest ex Ephes. 1, v. 20. Philip. 2, v. 8. 
+      <lb ed="#B" n="102"/>Hebr. 1, v. 13; 3. exinanitionem et formae servili 
+      <lb ed="#B" n="103"/>assumtionem de incarnatione simpliciter accipiunt 
+      <lb ed="#B" n="104"/>I. de actibus ad statum exinanitionis et exaltationi 
+      <lb ed="#B" n="105"/>pertinentibus multos fovent errores, ut suo loco, 
+      <lb ed="#B" n="106"/>demonstrabitur. Confer disput. 8. de gloria Dei 
+      <lb ed="#B" n="107"/>§. 14. et seq 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e2580">
+               <lb ed="#B" n="108"/>316. Quaeritur h. I: 1. An exinanitio recte d. 
+      <lb ed="#B" n="109"/>scribatur per κρύψιν, exaltatio per φανέρωσιν 
+      <lb ed="#B" n="110"/>Respondemus: 1. si per κρύψιν sive occultationem 
+      <lb ed="#B" n="111"/>simulatio intelligatur, negamus exinanitionem 
+      pe<lb ed="#B" n="112" break="no"/>eam describendam, quia fuit vera et realis exinani 
+      <lb ed="#B" n="113"/>tio, quae complexa fuit tum ἄρσιν, hoc est remotio 
+      <lb ed="#B" n="114"/>nem usus, non cujuslibet, sed plenarii communica 
+      <lb ed="#B" n="115"/>tae divinae majestatis et virtutis, quam apostolus 
+      <lb ed="#B" n="116"/>vocat κένωσιν; tum θέσιν, h. e. assumtionem servili 
+      <lb ed="#B" n="117"/>formae et extremam humiliationem, quam κενώσει 
+      <lb ed="#B" n="118"/>apostolus conjungit, sicut e contrario exaltatio 
+      com<lb ed="#B" n="119" break="no"/>plectitur; tum ἄρσιν, videlicet depositionem servilis 
+      <lb ed="#B" n="120"/>formae ac infirmitatum humanarum, quas Christu 
+      <!--708.xml-->
+      <pb ed="#B" n="601"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>sponte assumserat, tum θέσιν, videlicet plenariam 
+      <lb ed="#B" n="2"/>usurpationem et administrationem dominii in toto 
+      <lb ed="#B" n="3"/>universo, quae omnia non simulate vel κατὰ φάν¬ 
+      <lb ed="#B" n="4"/>τασμα, sed vere Christo tribuuntur; 2. κρύψις illa 
+      <lb ed="#B" n="5"/>referri potest tum ad majestatis communicationem 
+      <lb ed="#B" n="6"/>tum ad communicatae majestatis usurpationem 
+      <lb ed="#B" n="7"/>Respectu priori recte ita vocari potest, quia majestas 
+      <lb ed="#B" n="8"/>divina in assumta carne fuit abscondita, non autem a 
+      <lb ed="#B" n="9"/>ea penitus separata, ac omnes thesauri sapientiae et 
+      <lb ed="#B" n="10"/>scientiae dicuntur in ipso absconditi Col. 2. v. 3. Poste 
+      <lb ed="#B" n="11"/>riori vero respectu non fuit tantum κρύνις, sed 
+      ver<lb ed="#B" n="12" break="no"/>ac realis κένωσις, ut ostendit assumtio formae servilis 
+      <lb ed="#B" n="13"/>Quam in exaltatione Christus postmodum deposuit 
+      <lb ed="#B" n="14"/>317. Qu. 2. Quo sensu accipiendum, quod 
+      Chri<lb ed="#B" n="15" break="no"/>stus in statu exinanitionis actu primo dicitur omni 
+      <lb ed="#B" n="16"/>potens, Dominus coeli ac terrae ete. Respondemus: 
+      <lb ed="#B" n="17"/>actus primus quandoque significat nudam potentiam 
+      <lb ed="#B" n="18"/>cui opponitur actus, ut quando dico, puer est 
+      gram<lb ed="#B" n="19" break="no"/>maticus actu primo, quia progressu temporis potest 
+      <lb ed="#B" n="20"/>fieri grammaticus; quandoque vero significat hab 
+      <lb ed="#B" n="21"/>tum, qui se externo opere non exserit, cui opponitur 
+      <lb ed="#B" n="22"/>actus secundus sive operatio, ut quando dico: 
+      Pr<lb ed="#B" n="23" break="no"/>scianus etiam in somno est grammaticus actu primo 
+      <lb ed="#B" n="24"/>licet hanc scientiam grammatices non exserat actu 
+      <lb ed="#B" n="25"/>secundo. Quando Christum in statu exinanitioni 
+      <lb ed="#B" n="26"/>dicimus omnipotentem ac Dominum coeli ac terrae 
+      <lb ed="#B" n="27"/>actu primo, tum usus hujus termini magis accedi 
+      <lb ed="#B" n="28"/>ad posteriorem quam priorem significationem. Quam 
+      <lb ed="#B" n="29"/>vis enim omnipotentia habitualiter et subjective non 
+      <lb ed="#B" n="30"/>competat assumtae carni, tamen vere ac realiter per 
+      <lb ed="#B" n="31"/>unionem personalem ipsi competit. Proinde quod 
+      <lb ed="#B" n="32"/>Christus homo dicitur omnipotens in statu exinani 
+      <lb ed="#B" n="33"/>tionis actu primo, non est eo sensu accipiendum 
+      <lb ed="#B" n="34"/>quod progressu demum temporis Christo danda 
+      fue<lb ed="#B" n="35" break="no"/>rit omnipotentia, sed quod tota plenitudo deitatis 
+      <lb ed="#B" n="36"/>ac proinde etiam omnipotentia personaliter 
+      habita<lb ed="#B" n="37" break="no"/>verit in assumta carne, quamvis ὁ Aόγος hanc 
+      <lb ed="#B" n="38"/>omnipotentiam carni communicatam non semper 
+      <lb ed="#B" n="39"/>plena luce exseruerit, sed radios duntaxat quosdam 
+      <lb ed="#B" n="40"/>in miraculis aliquando emiserit. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e2704">
+               <lb ed="#B" n="41"/>318. Qu. 3. An Christus in statu exinanitioni 
+      <lb ed="#B" n="42"/>vere quaedam ignoraverit? Affirmat Lutherus in 
+      <lb ed="#B" n="43"/>Post. eceles. in Epist. fest. nativ: Quamvis, inquit 
+      <lb ed="#B" n="44"/>humanitas Christi domicilium sit et organum divi 
+      <lb ed="#B" n="45"/>nitatis illaque personaliter cum omni sua pleniti 
+      <lb ed="#B" n="46"/>dine in carne tanguam in proprio suo templo ho 
+      <lb ed="#B" n="47"/>bitet, tamen in statu exinanitionis non quovis tem 
+      <lb ed="#B" n="48"/>pore omnia cogitavit, intellexit, scivit, eo quod 
+      <lb ed="#B" n="49"/>divinitas suam ἐνέργειαν non semper per illam ea 
+      <lb ed="#B" n="50"/>seruerit. Hanc Lutheri sententiam confirmavimu 
+      <lb ed="#B" n="51"/>superius c. 12. q. 9. ex Marc. 6, v. 6. e. 13, v. 37 
+      <lb ed="#B" n="52"/>Luc. 2. v. 40. Phil. 2, v. 7. Hebr. 2, v. 17. 
+      </p>
+            <p xml:id="zef3dd-d1e1113-d1e2733">
+               <lb ed="#B" n="53"/>319. Usus practicus: Consolatorius ad expender 
+      <lb ed="#B" n="54"/>dam Christi φιλανθρωπίαν ac benignitatem. Hunc 
+      <lb ed="#B" n="55"/>usum monstrat apostolus 2. Cor. 8, v. 9: Scitis 
+      gra<lb ed="#B" n="56" break="no"/>communicationem, quia tota plenitudo deitatis 
+      habi<lb ed="#B" n="57" break="no"/>tiam Domini nostri Jesu Christi, quoniam propte 
+      <lb ed="#B" n="58"/>vos pauper est, cum esset dives, ut illius inopio 
+      <lb ed="#B" n="59"/>vos divites essetis. Dives erat Christus propter 
+      ve<lb ed="#B" n="60" break="no"/>ram et realem divinorum xml:idiomatum carni factam 
+      <!--708.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tat in ipso corporaliter Col. 2, v. 9; dives erat ob 
+      <lb ed="#B" n="62"/>nominis, quod est supra omne nomen, donationem 
+      <lb ed="#B" n="63"/>Hebr. 1. v. 4; dives erat ob communicatam 
+      poten<lb ed="#B" n="64" break="no"/>tiam ad coeli terraeque gubernationem Matth. 28. 
+      <lb ed="#B" n="65"/>v. 18; dives erat ob infinitae ac divinae scientiae 
+      <lb ed="#B" n="66"/>participationem, quia omnes thesauri sapientiae et 
+      <lb ed="#B" n="67"/>icientiae erant in ipso reconditi Col. 2, v. 3; 
+      dive<lb ed="#B" n="68" break="no"/>erat propter omnium subjectionem Matth. 11, v. 26. 
+      <lb ed="#B" n="69"/>Joh. 3, v. 35. Hisce divitiis jam inde a primo in 
+      <lb ed="#B" n="70"/>carnationis momento ditatus erat Christus, ut ostem 
+      <lb ed="#B" n="71"/>lit tum personalis unio, tum miraculorum 
+      operatio<lb ed="#B" n="72" break="no"/>tum particularis quaedam hujus majestatis et 
+      pote<lb ed="#B" n="73" break="no"/>statis demonstratio, sed pauper factus est 
+      exinani<lb ed="#B" n="74" break="no"/>tione, humiliatione, formae servilis assumtione, inde 
+      <lb ed="#B" n="75"/>pauper nascitur in stabulo, in pauperculae matris 
+      <lb ed="#B" n="76"/>quiescit gremio, in paupere reclinatur tugurio, a 
+      <lb ed="#B" n="77"/>magis donatur auro honorario, praesentatur Domine 
+      <lb ed="#B" n="78"/>cum pari turturum, quod pauperum erat, pauper 
+      <lb ed="#B" n="79"/>sducatur in parentum domicilio, pro paupelli fabri 
+      <lb ed="#B" n="80"/>habetur filio, paupertatem sentit in jejunio, 
+      proprio<lb ed="#B" n="81" break="no"/>indiget habitaculo, in cruce exuitur vestimento ac 
+      <lb ed="#B" n="82"/>in sepulchro tandem ponitur alieno, quae omnia ad 
+      <lb ed="#B" n="83"/>Christi paupertatem et exinanitionem pertinent. Sed 
+      <lb ed="#B" n="84"/>nac paupertate fecit nos divites. Sicut morte sus 
+      <lb ed="#B" n="85"/>vitam nobis promeruit, ita paupertate sua coelestes 
+      <lb ed="#B" n="86"/>divitias nobis restituit, unde paupertas ejus ut 
+      lae<lb ed="#B" n="87" break="no"/>titiae materia nobis proponitur Zach. 9, v. 9. Christi 
+      <lb ed="#B" n="88"/>paupertas nostrum patrimonium, in vita peculium 
+      <lb ed="#B" n="89"/>in morte viaticum, quia hac paupertate coelestes 
+      <lb ed="#B" n="90"/>divitias nobis aequisivit. 2. Informatorius ad 
+      imitan<lb ed="#B" n="91" break="no"/>dam Christi humilitatem. Hunc usum monstra 
+      <lb ed="#B" n="92"/>spostolus Philip. 2, v. 5: τοῦτο φρονείσθω ἐν ὑμῖν 
+      <lb ed="#B" n="93"/>s sit in vobis affectus, qui fuit in Christo Jesu ete. 
+      <lb ed="#B" n="94"/>proponit nobis I. exemplum Christi ἀξιομίμητον 
+      <lb ed="#B" n="95"/>Crubescat superbire humana infirmitas, cum ita 
+      a<lb ed="#B" n="96" break="no"/>humiliaverit divina majestas. August. serm. 39. 
+      <lb ed="#B" n="97"/>de verb. Dom.: Dignare humilis esse propter Deum. 
+      <lb ed="#B" n="98"/>quia Deus dignatus est humilis esse propter te 
+      <lb ed="#B" n="99"/>Christus se exinanivit, ut paene videretur nihil, sine 
+      <lb ed="#B" n="100"/>quo factum est nihil, et tu in immensum gloriaris 
+      <lb ed="#B" n="101"/>et existimas te esse aliquid cum sis nihil. Quam 
+      <lb ed="#B" n="102"/>absurdum ac praeposterum est humiliari 
+      summan<lb ed="#B" n="103" break="no"/>sublimitatem et extollere se velle summam vilitatem? 
+      <lb ed="#B" n="104"/>2. Consequens humilitatis praemium. Christus 
+      hu<lb ed="#B" n="105" break="no"/>miliavit se, xml:ideo Deus ipsum exaltavit: pari ratione 
+      <lb ed="#B" n="106"/>non pervenies ad celsitudinem, nisi per humilitatis 
+      <lb ed="#B" n="107"/>vitam, ἀρίστη ὁδὸς ὑψώσεως ἡ ταπείνωσις. Bernh. 
+      <lb ed="#B" n="108"/>serm. 2. adscens. Christus cum per naturam 
+      divini<lb ed="#B" n="109" break="no"/>tatis non haberet, quo cresceret, per descensum 
+      <lb ed="#B" n="110"/>quomodo cresceret, invenit: pari ratione non nisi 
+      <lb ed="#B" n="111"/>per humilia tibi patebit aditus ad sublimia 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

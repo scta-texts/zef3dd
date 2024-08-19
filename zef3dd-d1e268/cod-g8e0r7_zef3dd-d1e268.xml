@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="132"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e268"><!-- zef3dd-l1c12 -->
+            <head xml:id="zef3dd-d1e268-Hd1e101">Caput 12</head>
+            <head xml:id="zef3dd-d1e268-Hd1e103" type="question-title">De forma Scripturae sacrae</head>
+            <p xml:id="zef3dd-d1e268-d1e106">
+               <lb ed="#B" n="6"/>CAPUT XII. 
+      <lb ed="#B" n="7"/>DE FORMA SCRIPTURAE SACRAE 
+      </p>
+            <p xml:id="zef3dd-d1e268-d1e113">
+               <lb ed="#B" n="8"/>305. Forma Scripturae sacrae docendi causs 
+      <lb ed="#B" n="9"/>statui potest duplex: interna et externa sive essen 
+      <lb ed="#B" n="10"/>tialis et accidentalis. Internam Scripturae 
+      formam<lb ed="#B" n="11" break="no"/>quidam constituunt θεοπνοήν sive θεώπνενσιν, 
+      divi<lb ed="#B" n="12" break="no"/>nam inspirationem, cujus respectu vocatur θεόπνε¬ 
+      <lb ed="#B" n="13"/>στος 2. Tim. 3, v. 16. Sed quia θεόηνευσις potius 
+      <lb ed="#B" n="14"/>ad efficientem causam pertinet, siquidem sancti De 
+      <lb ed="#B" n="15"/>homines et locuti sunt et scripserunt ὑπὸ πνεύμε 
+      <lb ed="#B" n="16"/>τος ἀγίου φερόμενοι divino inspirato ducti et in 
+      <lb ed="#B" n="17"/>pulsi 2. Petri 1, v. 21. xml:ideo formam Scripturae in 
+      <lb ed="#B" n="18"/>ternam esse dieimus ipsam divinam Scripturae 
+      au<lb ed="#B" n="19" break="no"/>ctoritatem ac majestatem, quae ex immediato 
+      Spiri<lb ed="#B" n="20" break="no"/>tus s. afflatu (causa efficiente propria et adaequata 
+      <lb ed="#B" n="21"/>ae rerum, quas exponit sublimitate (materia itidem 
+      <lb ed="#B" n="22"/>propria et adaequata) originem trahit. Per hanc 
+      <lb ed="#B" n="23"/>formam internam Scriptura est xml:id quod est, videli 
+      <lb ed="#B" n="24"/>cet sacra, divina, canonica αὐτόπιστος καὶ ἀξιόπισιος 
+      <lb ed="#B" n="25"/>per eandem etiam ab aliis scripturis omnibus tam 
+      <lb ed="#B" n="26"/>profanis quam sacris, tam ecclesiasticis quam 
+      apo<lb ed="#B" n="27" break="no"/>cryphis destinguitur, August. lib. 1I. contra Faust. c. 5. 
+      <lb ed="#B" n="28"/>Distincta est a posteriorum libris eccellentia cano 
+      <lb ed="#B" n="29"/>nicae auctoritatis V. et N. T. quae apostolorum 
+      <lb ed="#B" n="30"/>confirmata temporibus per successiones episcoporum 
+      <lb ed="#B" n="31"/>et propagationes ecclesiarum tanquam in sede qua 
+      <lb ed="#B" n="32"/>dam sublimiter constituta est, cui serviat omnis 
+      fidel<lb ed="#B" n="33" break="no"/>et pius intellectus, ete. In opusculis autem posterio 
+      <lb ed="#B" n="34"/>rum, quae libris innumerabilibus continentur, sec 
+      <lb ed="#B" n="35"/>nullo modo isti canonicae Scripturarum sacrarum 
+      <lb ed="#B" n="36"/>excellentiae coaequantur, etiam in quibuscunque in 
+      <lb ed="#B" n="37"/>venitur eadem veritas, longe tamen impar est ax 
+      <lb ed="#B" n="38"/>ctoritas. Ab hac sententia non abeunt in diversum 
+      <lb ed="#B" n="39"/>qui ipsum sensum, sive sententiam verbi divini in 
+      <lb ed="#B" n="40"/>Scriptura literis expressam formam ejusdem inter 
+      <lb ed="#B" n="41"/>nam constituunt, quia inde atque xml:ideo Scriptura di 
+      <lb ed="#B" n="42"/>vinam majestatem atque auctoritatem obtinet, quod 
+      <lb ed="#B" n="43"/>divinam voluntatem et salutis nostrae mysteria e 
+      <lb ed="#B" n="44"/>divina prophetarum et apostolorum inspiratione 
+      <lb ed="#B" n="45"/>nobis manifester 
+      </p>
+            <p xml:id="zef3dd-d1e268-d1e198">
+               <lb ed="#B" n="46"/>306. Forma externa est tum xml:idioma linguae Ho 
+      <lb ed="#B" n="47"/>braeae quo Vetus, et Graecae, quo Novum perscri 
+      <lb ed="#B" n="48"/>ptum est Instrumentum; tum sermonis ac stili, qui 
+      <lb ed="#B" n="49"/>in Scriptura Spiritus s. utitur proprietas, imo singu 
+      <lb ed="#B" n="50"/>laritas simplicitatem et majestatem miraculo vero 
+      <lb ed="#B" n="51"/>divino conjunctam habens. Sermonis genus, quo 
+      <lb ed="#B" n="52"/>Scriptura est exarata, est simplex, nullam 
+      redolen<lb ed="#B" n="53" break="no"/>humanam et fucatam eloquentiam, interim tamer 
+      <lb ed="#B" n="54"/>est augustum et ad percellendos hominum animos 
+      <!--205.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="55"/>maxime efficax. 1. Cor. 2, v. 1: Cum venissem ad 
+      <lb ed="#B" n="56"/>vος, non καθ᾽ ὑπεροχὴν λόγου ἢ σoφίας cum 
+      sublimi<lb ed="#B" n="57" break="no"/>tate sermonis vel sapientiae puta humanae, 
+      annun<lb ed="#B" n="58" break="no"/>tians vobis testimonium Dei h. e. evangelium. v. 4. 
+      <lb ed="#B" n="59"/>Et sermo meus et praedicatio mea non fuit ἐν πeι 
+      <lb ed="#B" n="60"/>θοῖς ἀνθρωπίνης σοφίας λόγοις in persuaeoriis ho 
+      <lb ed="#B" n="61"/>manae sapientiae verbis, in flosculis et schematibu 
+      <lb ed="#B" n="62"/>rhetoricis, sed in demonstratione Spiritus et po 
+      <lb ed="#B" n="63"/>tentiae, xml:id est, in verbis spiritualibus potenter et 
+      <lb ed="#B" n="64"/>efficaciter corda moventibus. Derogat sibi 
+      aposto<lb ed="#B" n="65" break="no"/>lus eloquentiam humanam, non autem divinam 
+      ac<lb ed="#B" n="66" break="no"/>perstringit eos qui πρὸς χάριν λέγοντες ἀνθρωκαρε 
+      <lb ed="#B" n="67"/>σκείαν in suis concionibus affectabant, cum verbo 
+      <lb ed="#B" n="68"/>rum lenociniis et phaleratis dictis plebem demulce 
+      <lb ed="#B" n="69"/>bant, quique pro oratione sanctimoniae et divina 
+      <lb ed="#B" n="70"/>virtutis plena comtam, calamistratam, papavere et 
+      <lb ed="#B" n="71"/>sesamo sparsam et ex mellitis verborum globuli 
+      <lb ed="#B" n="72"/>contextam afferebant, ut Seneca loquitur, 
+      doctrina<lb ed="#B" n="73" break="no"/>nucleum interim negligentes 
+      </p>
+            <p xml:id="zef3dd-d1e268-d1e267">
+               <lb ed="#B" n="74"/>307. Vere mirandum ac singulare est, in stilo 
+      <lb ed="#B" n="75"/>Scripturae conjungi tum simplicitatem tum 
+      maje<lb ed="#B" n="76" break="no"/>statem, ex quibus simul junctis stili illius proprie 
+      <lb ed="#B" n="77"/>tas ac singularitas oritur. Simplex dicitur Ser 
+      <lb ed="#B" n="78"/>pturae stilus, non quod sit rudis et rusticus, vel 
+      <lb ed="#B" n="79"/>quod destituatur omni ornatu ac elegantia, vel quod 
+      <lb ed="#B" n="80"/>destituatur omnibus figuris ac tropis, sed quod si 
+      <lb ed="#B" n="81"/>apertus, minime fucatus vel fraudulentus, quodque 
+      <lb ed="#B" n="82"/>res magnas et praeclaras verbis ad captum legen 
+      <lb ed="#B" n="83"/>tium accommodatis describat. Simplex ergo es 
+      <lb ed="#B" n="84"/>sermonis character, quo Spiritus sanctus in Scripturi 
+      <lb ed="#B" n="85"/>utitur, cum non constet affectato dicendi genere 
+      <lb ed="#B" n="86"/>nec pigmentis oratoriis, nec verbis exquisite ornatis 
+      <lb ed="#B" n="87"/>sed ad intelligentiam obviis, perspicuis et in vulgut 
+      <lb ed="#B" n="88"/>notis; xml:idem tamen character majestate plenus est, 
+      <lb ed="#B" n="89"/>cum de summis fidei mysteriis et divinis 
+      revelatio<lb ed="#B" n="90" break="no"/>nibus supra mentis humanae captum positis tam 
+      <lb ed="#B" n="91"/>perspicue nos erudiat; atque ut verbo dicam, talis 
+      <lb ed="#B" n="92"/>est Scripturae character, qualem in aliis libris 
+      hu<lb ed="#B" n="93" break="no"/>mana industria elaboratis nemo deprehendet. 
+      Ma<lb ed="#B" n="94" break="no"/>jestas stili complectitur. 1. ejusdem evidentiam 
+      <lb ed="#B" n="95"/>qua per vivam quandam ὑκοτύπωσιν res in illis de 
+      <lb ed="#B" n="96"/>scriptae quasi ante oculos spectandae proponuntur 
+      <lb ed="#B" n="97"/>2. plenitudinem sive μείωσιν, quod res, quas propo 
+      <lb ed="#B" n="98"/>nit, plene quantum quis desiderare posset, explicat 
+      <lb ed="#B" n="99"/>videlicet partium et specierum enumeratione, 
+      cau<lb ed="#B" n="100" break="no"/>sarum explicatione, circumstantiarum notatione 
+      <lb ed="#B" n="101"/>antitheseos subjectione, ete. 3. brevitatem sive βρα 
+      <lb ed="#B" n="102"/>χύτητα, qua paucis verbis multas sententias 
+      comple<lb ed="#B" n="103" break="no"/>ctitur, ut ait Chrys. homil. 24. in c. 6. Genes. ac 
+      <lb ed="#B" n="104"/>verborum numerum numero rerum non tantum ad 
+      <lb ed="#B" n="105"/>aequat, sed etiam superat. 4. cohaerentiam siv. 
+      <lb ed="#B" n="106"/>συνδέσμίαν, qua omnia membra aptissime et velut 
+      <lb ed="#B" n="107"/>perpetua quadam catena connectit, ut nihil hiulcum 
+      <lb ed="#B" n="108"/>nihil ἀνακόλουθον occurrat. 5. verecundiam et ca 
+      <lb ed="#B" n="109"/>glitatem sive ἀγνότητα καὶ εὐσχειμισμόν, qua al 
+      <lb ed="#B" n="110"/>omni ἀκαθαρσίᾳ et turpitudine abstinet et res alio 
+      <lb ed="#B" n="111"/>qui obscoenas verecundis sive nuptis verbis, ut 
+      lo<lb ed="#B" n="112" break="no"/>quuntur, exprimit. 6. efficaciam sive ἐνέῳγιαν ac 
+      <lb ed="#B" n="113"/>δεινόνητα, quia Scripturae sermo ita comparatus 
+      <lb ed="#B" n="114"/>est, ut peculiari quadam vi legentis animum per¬ 
+      <!--206.xml-->
+      <pb ed="#B" n="133"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>cellat. Chrysostomus homil. 46. in c. 23. Matth. 
+      <lb ed="#B" n="2"/>Omnia verba divina, quamvis rustica sint et in 
+      <lb ed="#B" n="3"/>composita, viva sunt, quoniam intus in sensibus sut 
+      <lb ed="#B" n="4"/>labent positam veritatem Dei, quasi sanguinem in 
+      <lb ed="#B" n="5"/>venis inclusum, et xml:ideo vivificant audientem. Omnio 
+      <lb ed="#B" n="6"/>autem verba secularia, quoniam non habent in 
+      s<lb ed="#B" n="7" break="no"/>virtutem Dei, quamvis eint composita et ingeniose 
+      <lb ed="#B" n="8"/>mortua sunt, quoniam in venis suorum non 
+      haben<lb ed="#B" n="9" break="no"/>virtutem Dei, propterea nec audientem salvant 
+      <lb ed="#B" n="10"/>De hac sermonis divini majestate ac singularitat. 
+      <lb ed="#B" n="11"/>testantur non solum formulae illae loquendi saepiu 
+      <lb ed="#B" n="12"/>repetitae: Ego Dominus, Ego dico vobis; Sic dicis 
+      <lb ed="#B" n="13"/>Dominus; Oa Domini locutum est; Verbum Domin 
+      <lb ed="#B" n="14"/>factum est, ete; sed etiam divini effectus in aud 
+      <lb ed="#B" n="15"/>torum animis. Jerem. 23, v. 29: Numquid non 
+      <lb ed="#B" n="16"/>verba mea sunt quasi ignis, dicit Dominus, et quas 
+      <lb ed="#B" n="17"/>malleus conterens petram? Matth. 7, v. 28: Obstu 
+      <lb ed="#B" n="18"/>pescebant turbae super doctrina Christi. v. 29: Erat 
+      <lb ed="#B" n="19"/>enim docens eos tanquam potestatem habens. Lud 
+      <lb ed="#B" n="20"/>24. v. 32: Nonne cor nostrum erat ardens in nobis 
+      <lb ed="#B" n="21"/>dum loqueretur nobie in via? ete. Joh. 6, v. 6. 
+      <lb ed="#B" n="22"/>Verba, quae loquor vobis, eunt Spiritus et vito 
+      <lb ed="#B" n="23"/>(nimirum quia a Spiritu sancto profecta sunt et ex 
+      <lb ed="#B" n="24"/>fonte vitae profluxerunt, quia spiritualem et divi 
+      <lb ed="#B" n="25"/>nam virtutem in se continent, quia spirituales effe 
+      <lb ed="#B" n="26"/>ctus edunt et hominem vivificant, haec enim tria sum 
+      <lb ed="#B" n="27"/>conjungenda, in quibus posterius semper sequitur 
+      <lb ed="#B" n="28"/>ex priore. Quidam sic exponunt, cunt Spiritus, i.e 
+      <lb ed="#B" n="29"/>debent spiritualiter intelligi de manducatione 
+      no<lb ed="#B" n="30" break="no"/>Capernaitica, sed spirituali. Sunt vita, i. e. deben 
+      <lb ed="#B" n="31"/>intelligi non de transitoria, sed de aeterna vita; 
+<lb ed="#B" n="32"/>quae explicatio vera quidem est, sed non 
+      plen<lb ed="#B" n="33" break="no"/>Act. 2. v. 37: His auditis compuncti sunt corde 
+      <lb ed="#B" n="34"/>Jam vero xml:idem omnino verbum, quod prophetae 
+      <lb ed="#B" n="35"/>Christus et apostoli viva voce praedicarunt, 
+      poste<lb ed="#B" n="36" break="no"/>per Dei voluntatem prophetae, evangelistae e 
+      <lb ed="#B" n="37"/>apostoli in Scripturam redegerunt. Ergo eosdem 
+      <lb ed="#B" n="38"/>estectua prodncit 
+      </p>
+            <p xml:id="zef3dd-d1e268-d1e447">
+               <lb ed="#B" n="39"/>308. Causae, propter quas Deus Scripturan 
+      <lb ed="#B" n="40"/>sacram simplice, perspicuo et ab humanae eloquem 
+      <lb ed="#B" n="41"/>tiae lenociniis remoto orationis genere exstare vo 
+      <lb ed="#B" n="42"/>luerit, facile apparent. 1. ἀπλοῦς ὁ λόγος τῆς ἄλη¬ 
+      <lb ed="#B" n="43"/>θslac, infucata veritas amat infucatum sermoni. 
+      <lb ed="#B" n="44"/>genus. Jam vero coelestis veritas in Scripturis 
+      <lb ed="#B" n="45"/>nobis proponitur. 2. Mysteria, quae in Scripturis 
+      <lb ed="#B" n="46"/>nobis proponuntur, sunt supra captum humanae ri 
+      <lb ed="#B" n="47"/>tionis posita, ὑπὲρ νοῦν, ὑπὲρ λόγον, ὑπὲρ κατάλν 
+      <lb ed="#B" n="48"/>εωεν κτιστῆς φύσεως, ut loquitur Justinus in èκθ 
+      <lb ed="#B" n="49"/>πior. pag. 304. τὸ τῆς ἡμετέρας παιδείας ἐὶν ἀνω¬ 
+      <lb ed="#B" n="50"/>τέρω τῆς κοσμικῆς καταλήινεως, ait Tatianus in 
+      ora<lb ed="#B" n="51" break="no"/>contra gent. Quod si obscurum et perplexum ora 
+      <lb ed="#B" n="52"/>tionis genus ad illa proponenda fuisset adhibitum 
+      <lb ed="#B" n="53"/>penitus ab intelligentia humana fuissent remota 
+      <lb ed="#B" n="54"/>3. Scripturae non solum in usum eruditorum, sed 
+      <lb ed="#B" n="55"/>etiam rudiorum sunt exaratae. Cum ergo omnibus 
+      <lb ed="#B" n="56"/>grandiloquis humanae sapientiae verbis conscriptae. 
+      <lb ed="#B" n="57"/>essent, earum vis et efficacia in conversione hominum. 
+      <lb ed="#B" n="58"/>sint scriptae, xml:ideo etiam genere dicendi omnibus 
+      <lb ed="#B" n="59"/>obvio exarari debuerunt, unde Esaias scribere jube 
+      <lb ed="#B" n="60"/>tur 2e t2 atilo hominis Jes. 8, v. 1. Si¬ 
+      <!--206.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tribueretur non divinae virtuti, sed verborum 
+      leno<lb ed="#B" n="62" break="no"/>ciniis ac phaleris 1. Cor. 1, v. 17. e. 4, v. 20 
+      <lb ed="#B" n="63"/>5. Qui Scripturae simplicitatem contemnunt, justo 
+      <lb ed="#B" n="64"/>Dei judicio a cognitione divinorum mysteriorum 
+      ex<lb ed="#B" n="65" break="no"/>cluduntur. Augustinus lib. 3. Confess. c. 5. fatetur. 
+      <lb ed="#B" n="66"/>sibi, cum adhuc Manichaeus esset, Scripturam 
+      in<lb ed="#B" n="67" break="no"/>dignam visam, quam Tullianae eloquentiae 
+      compa<lb ed="#B" n="68" break="no"/>raret: Tumor enim meus, inquit, refugiebat modum 
+      <lb ed="#B" n="69"/>ejus et acies mea non penetrabat interiora ejus 
+      <lb ed="#B" n="70"/>Sed postmodum Christianus e Manichaeo factus 
+      <lb ed="#B" n="71"/>longe aliter sentire coepit. lib. 6. Confess. c. 5: Et 
+      <lb ed="#B" n="72"/>mihi venerabilior et sacrosancta fide dignior appa 
+      <lb ed="#B" n="73"/>rebat Scripturae auctoritas, quo et omnibus ac 
+      <lb ed="#B" n="74"/>legendum esset in promtu et secreti sui dignitaten 
+      <lb ed="#B" n="75"/>in intellectu profundiore servaret, verbis apertissi 
+      <lb ed="#B" n="76"/>mis et humillimo genere loquendi se cunctis 
+      prae<lb ed="#B" n="77" break="no"/>bens et exercens intentiones eorum, qui non sunt 
+      <lb ed="#B" n="78"/>leves corde, ut exciperet omnes populari sinu et 
+      pe<lb ed="#B" n="79" break="no"/>angusta foramina paucos ad te (o Deus) trajiceret 
+      <lb ed="#B" n="80"/>multo tamen plures quam si nec tanto apice aucto 
+      <lb ed="#B" n="81"/>ritatis emineret, nec turbas gremio sanctae humili 
+      <lb ed="#B" n="82"/>tatis hauriret. Confer tractat. Flacii de 
+      stil<lb ed="#B" n="83" break="no"/>sacrar. literar. in secunda parte Clavis 
+      </p>
+            <p xml:id="zef3dd-d1e268-d1e551">
+               <lb ed="#B" n="84"/>309. Ex hac Scripturae forma tum interna tum 
+      <lb ed="#B" n="85"/>externa manifeste apparet, falsum esse Pontificiorum 
+      <lb ed="#B" n="86"/>theorema, quod non aliunde haberi possit 
+      Scriptu<lb ed="#B" n="87" break="no"/>eam esse divinam, quam ex traditione non scripta, 
+      <lb ed="#B" n="88"/>it disputat Bellarminus lib. 4. de v. D. e. 4. 
+      <lb ed="#B" n="89"/>quodque propter solam ecclesiae auctoritatem Scri 
+      <lb ed="#B" n="90"/>pturae credatur, ut loquitur Stapletonus in 
+      relect<lb ed="#B" n="91" break="no"/>princ. doctrin. controv. 4. p. 495. quia traditio et 
+      <lb ed="#B" n="92"/>auctoritas ecclesiae non conferunt Scripturae suam 
+      <lb ed="#B" n="93"/>formam, sed eam ante ac citra ecclesiae testifica 
+      <lb ed="#B" n="94"/>tionem habet in seipsa, ac per eam suam 
+      majesta<lb ed="#B" n="95" break="no"/>tem et dignitatem omnibus demonstrat. Ut enim 
+      <lb ed="#B" n="96"/>alias forma interna per certas quasdam et 
+      specifica<lb ed="#B" n="97" break="no"/>proprietates atque effectus sese exerit: ita quoque 
+      <lb ed="#B" n="98"/>divina Scripturae majestas et auctoritas per certa 
+      <lb ed="#B" n="99"/>quaedam κριτήρια animis hominum sese ostendit, 
+      <lb ed="#B" n="100"/>qua de re superius in c. 3. de Scripturae 
+      auctori<lb ed="#B" n="101" break="no"/>tate, quantum satis est, diximus 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

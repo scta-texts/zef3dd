@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="418"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e798"><!-- zef3dd-l3c8 -->
+            <head xml:id="zef3dd-d1e798-Hd1e101">Caput 8</head>
+            <head xml:id="zef3dd-d1e798-Hd1e103" type="question-title">Primum argumentum ex Vetero Testamento pro adstruendo trinitatis mysterio deductum</head>
+            <p xml:id="zef3dd-d1e798-d1e106">
+               <lb ed="#B" n="27"/>CAPUT VIII. 
+      <lb ed="#B" n="28"/>CONTINENS PRIMUM 
+      ARGUMEN<lb ed="#B" n="29" break="no"/>TUM EX V. T. PRO ADSTRUENDO 
+      <lb ed="#B" n="30"/>TRINITATIS MYSTERIO 
+      DEDU<lb ed="#B" n="31" break="no"/>CTUM 
+</p>
+            <p xml:id="zef3dd-d1e798-d1e119">
+               <lb ed="#B" n="32"/>109. Hisce igitur quatuor principalibus confer 
+      <lb ed="#B" n="33"/>sionis nostrae de trinitate fundamentis ex N. T. 
+      <lb ed="#B" n="34"/>praemissis subjungamus fundamenta ejusdem ex
+      <lb ed="#B" n="35"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="36"/>V. T. Antequam vero distinctas illas classes, ad 
+      <lb ed="#B" n="37"/>quas V. T. dicta referri possunt, enumeremus, de 
+      <lb ed="#B" n="38"/>quatuor principalibus fundamentis ex V. T. petitis 
+      <lb ed="#B" n="39"/>paulo latius disseremus. Primum desumtum est 
+      <lb ed="#B" n="40"/>ex articulo creationis. Moyses Scripturam sacram 
+      <lb ed="#B" n="41"/>ab opere creationis exorditur, neque cuiquam potest 
+      <lb ed="#B" n="42"/>esse dubium, hujus articuli doctrinam divinitus 
+      tra<lb ed="#B" n="43" break="no"/>ditam in publicis ecclesiae Israëliticae conventibu 
+      <lb ed="#B" n="44"/>perpetuo fuisse repetitam, praesertim cum sabba 
+      <lb ed="#B" n="45"/>tum ipsum debuerit esse perpetuum memoriale crea 
+      <lb ed="#B" n="46"/>tionis. Exod. 20, v. 10: Sex diebus operaberis, so 
+      <lb ed="#B" n="47"/>ptimo celebrabis cabbatum, sex enim diebus feci 
+      <lb ed="#B" n="48"/>Deus coelum et terram, sed requievit die septimo 
+      <lb ed="#B" n="49"/>Quod si ergo ex creationis articulo, prout in V. T. 
+      <!--491.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="50"/>describitur, mysterium trinitatis demonstrari potest. 
+      <lb ed="#B" n="51"/>eo ipso confirmatum erit, doctrinam de trinitate non 
+      <lb ed="#B" n="52"/>fuisse populo Israëlitico penitus ignotam, sed in 
+      <lb ed="#B" n="53"/>ecclesiasticis conventibus traditam ac perpetuo 
+      repe<lb ed="#B" n="54" break="no"/>titam. Conferimus igitur nos ad propriam huju 
+      <lb ed="#B" n="55"/>articuli sedem, ad caput primum scilicet Geneseos, 
+      <lb ed="#B" n="56"/>cum quo conjungemus parallela V. T. dicta, qua 
+      <lb ed="#B" n="57"/>ejusdem sunt ἐξηγητικά, ex quibus omnibus tale 
+      pro<lb ed="#B" n="58" break="no"/>lucimus argumentum. 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e187">
+               <lb ed="#B" n="59"/>110. Quot personis divinis opus creationis 
+      tribui<lb ed="#B" n="60" break="no"/>tur, tot personae in una deitatis essentia 
+      agnoscen<lb ed="#B" n="61" break="no"/>sae sunt. Sed tribus distinctis personis opus crea 
+      <lb ed="#B" n="62"/>tionis tribuitur. Ergo. Major probatur ex dictis 
+      <lb ed="#B" n="63"/>quae testantur, opus creationis esse solius veri 
+      Dei<lb ed="#B" n="64" break="no"/>proprium, Job. 9, v. 8: Ectendit coelos 7722 solus 
+      <lb ed="#B" n="65"/>Ps. 134, v. 3: Jehova fecit coelum et terram, Es. 44. 
+      <lb ed="#B" n="66"/>7. 24: Ego Jehova faciens omnia, extendens 
+      coe<lb ed="#B" n="67" break="no"/>(os 1722 solus ego; c. 45, v. 6: Ego Dominus, et 
+      <lb ed="#B" n="68"/>non est amplius; v. 7: formans lucem et creans 
+      te<lb ed="#B" n="69" break="no"/>aebras. Jerem. 10, v. 11: Dii, qui coelum et terram 
+      <lb ed="#B" n="70"/>non fecerunt, pereant de terra. Actor. 4, v. 24. 
+      <lb ed="#B" n="71"/>Tu es Deus ille, qui fecesti coelum et terram, mare 
+      <lb ed="#B" n="72"/>et omnia, quae in eis sunt. Hebr. 3, v. 4: Qui om 
+      <lb ed="#B" n="73"/>nia creavit, Deus est. Iren. lib. 2. e. 55. p. 156: 
+      <lb ed="#B" n="74"/>Solus hic Deus invenitur, qui omnia fecit, solus 
+      <lb ed="#B" n="75"/>omnipotens et solus Pater condens et faciens omnia 
+      <lb ed="#B" n="76"/>August. II. de civit. Dei e. 2: Cunctam naturam, 
+      <lb ed="#B" n="77"/>quae non est quod ipse, non fecit nisi ipse. 
+      Osten<lb ed="#B" n="78" break="no"/>dit etiam hoc ipsum manifesta ratio, quia ad cres 
+      <lb ed="#B" n="79"/>tionem, quae est entis ex nihilo productio, requiritu 
+      <lb ed="#B" n="80"/>potentia et virtus infinita Esa. 40, v. 26, e. 12, v. ( 
+      <lb ed="#B" n="81"/>Iilarius lib. 2. de trinit.: Infinitum est, per quod 
+      <lb ed="#B" n="82"/>it omne, quod factum est. Jam vero solus DEUS 
+      <lb ed="#B" n="83"/>est ens infinitum, ipsius igitur propria erit creatio. 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e245">
+               <lb ed="#B" n="84"/>111. Minor probatur: I. in genere, quod non uni 
+      <lb ed="#B" n="85"/>sed pluribus personis creatio tribuatur: 1. ex phrast 
+      <lb ed="#B" n="86"/>Mosaica. Moyses in primo primi capitis versiculo 
+      <lb ed="#B" n="87"/>de creatione sic loquitur: In principio Θ2N73 
+      <lb ed="#B" n="88"/>ubi cum nomine pluralis numeri conjungit verbum 
+      <lb ed="#B" n="89"/>singulare, ut per hoc essentiae unitatem, per illud 
+      <lb ed="#B" n="90"/>personarum pluralitatem significet. Quamvis enim 
+      <lb ed="#B" n="91"/>quidam ex Christianis etiam interpretibus, Abulensis, 
+      <lb ed="#B" n="92"/>Cajetanus et alii, quos sequuntur Calvinus in c. s. 
+      <lb ed="#B" n="93"/>Genes. (ubi vocat violentam glossam.) Bellarm. 3. 
+      <lb ed="#B" n="94"/>de Christo c. 6. Vasquez p. 1. d. 108. c. 2. hanc 
+      <lb ed="#B" n="95"/>loquendi formulam omni mysterio carere statuant 
+      <lb ed="#B" n="96"/>eamque ad solum Hebraicae linquae xml:idiotismum 
+      <lb ed="#B" n="97"/>referant, ab illorum tamen opinione divortium faci 
+      <lb ed="#B" n="98"/>mus, permoti his argumentis: I. ex propria pluralis 
+      <lb ed="#B" n="99"/>numeri significatione; 2. ex peculiari hujus 
+      voci<lb ed="#B" n="100" break="no"/>constructione, quia non solum cum verbo singulari 
+      <lb ed="#B" n="101"/>sed etiam cum verbo et adjectivo plurali 
+      construi<lb ed="#B" n="102" break="no"/>tur; Genes. 20, v. 13. c. 35, v. 7. Deut. 5, v. 26. 
+      <lb ed="#B" n="103"/>Jos. 24, v. 29. 2. Sam. 7, v. 23. Ps. 58, v. 12; 3. e. 
+      <lb ed="#B" n="104"/>ipsa Spiritus e. explicatione; 4. ex plurimorum in 
+      <lb ed="#B" n="105"/>terpretum approbatione. Vid. traet. de natura 
+      De<lb ed="#B" n="106" break="no"/>§. 27; hoc loco utimur tali urgumento: De eodem, 
+      <lb ed="#B" n="107"/>qui creasse dicitur coelum et terram, Moyses postea 
+      <lb ed="#B" n="108"/>pronuntiat, quod creaverit hominem Genes. 1, v. 26. 
+      <lb ed="#B" n="109"/>27. est enim unus omnium rerum creator. Atqui in 
+      <!--492.xml-->
+      <pb ed="#B" n="419"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>eo, qui creavit hominem, est quaedam pluralitas 
+      <lb ed="#B" n="2"/>ut constat ex verbo faciamus et pronomine nostram 
+      <lb ed="#B" n="3"/>uti etiam ex plurali Genes. 3, v. 22: Ecce Adan 
+      <lb ed="#B" n="4"/>Factus quasi unus ex nobis. Ergo in eo, qui creavit 
+      <lb ed="#B" n="5"/>G. coelum et terram, est quaedam pluralitas, quam 
+      <lb ed="#B" n="6"/>per phrasin bara Elohim denotari credimus.
+</p>
+            <p xml:id="zef3dd-d1e798-d1e323">
+               <lb ed="#B" n="7"/>112. Regerunt Photiniani: 1. esse xml:idiotismum 
+      <lb ed="#B" n="8"/>linguae sanctae. Socin. in def. animadv. p. 132. 
+      <lb ed="#B" n="9"/>Nomina potestatem et dominationem significantio 
+      <lb ed="#B" n="10"/>solent apud Hebraeos ad exaggerationem quan 
+      <lb ed="#B" n="11"/>clam plurali numero efferri, quamvis de una tantum 
+      <lb ed="#B" n="12"/>persona dicantur, quod probat ex nomine Adon 
+      <lb ed="#B" n="13"/>Genes. 24, v. 9. et 50. Exod. 21, v. 4. et 32. 1. Reg. 
+      <lb ed="#B" n="14"/>22, v. 17. et ex nomine Baal Exod. 21, v. 29. e. 2: 
+      <lb ed="#B" n="15"/>v. 10. et 11. Esa. 1, v. 3. Buxtorfius in thes. gramm. 
+      <lb ed="#B" n="16"/>p. 9. esse enallagen numeri pluralis pro singular. 
+      <lb ed="#B" n="17"/>quod probare conatur similibus exemplis Genes. 25 
+      <lb ed="#B" n="18"/>v. 9. de Abrahamo dicitur 12778 Domini mei 
+      <lb ed="#B" n="19"/>Genes. 42. v. 30. de Josepho: Locutus est vir 2371 
+      <lb ed="#B" n="20"/>Domini terrae durae. 1. Reg. 16, v. 24. aedificam 
+      <lb ed="#B" n="21"/>nominis Semer 27&amp;. Dominorum montis. Resp. 
+      <lb ed="#B" n="22"/>non in nominibus solum, sed etiam pronominibus ad 
+      <lb ed="#B" n="23"/>verbis, quae Deo usurpatis pluralis numerus adhibe 
+      <lb ed="#B" n="24"/>tur, probandum igitur in hisce omnibus a ῥητῷ ab 
+      <lb ed="#B" n="25"/>sque urgente causa discedendum. Nos contra urge 
+      <lb ed="#B" n="26"/>mus: 1. quod ille ipse xml:idiotismus ad Deum 
+      accon<lb ed="#B" n="27" break="no"/>modatus ex mente illius linguae auctoris pluralitatem 
+      <lb ed="#B" n="28"/>personarum denotet. Cum enim Elohim habea 
+      <lb ed="#B" n="29"/>suum singulare elodh Job. 4. v. 9. c. 12. v. 4. e. 15. 
+      <lb ed="#B" n="30"/>v. 8. c. 36, v. 2. ete., eccur in lingua illa omniun 
+      <lb ed="#B" n="31"/>simplicissima ac purissima plurale de Deo usurpa 
+      <lb ed="#B" n="32"/>retur, nisi in ipso esset quaedam pluralitas? 2. cum 
+      <lb ed="#B" n="33"/>juxta usitatam regulam nomini plurali addendum 
+      <lb ed="#B" n="34"/>fuisset etiam verbum plurale, nullo modo verisimile es 
+      <lb ed="#B" n="35"/>Moysen contra illam usitatam syntaxin in secundo sta 
+      <lb ed="#B" n="36"/>tim scripti sui verbo nomini plurali addere voluisse 
+      <lb ed="#B" n="37"/>verbum singulare, nisi diverso respectu et unitas 
+      e<lb ed="#B" n="38" break="no"/>pluralitas in Deo esset. Si ut una essentia, ita quo 
+      <lb ed="#B" n="39"/>que una tantum in deitate persona, vocabulo illi 
+      <lb ed="#B" n="40"/>populo Israëlitico, utpote φιλειδώλῳ occasio xml:idolo 
+      <lb ed="#B" n="41"/>latriae fuisset data. Eam vero Spiritus sanctu, 
+      <lb ed="#B" n="42"/>singulari providentia removit, dum nomini 
+      plura<lb ed="#B" n="43" break="no"/>lis numeri verbum singulare conjunxit; 3. nome: 
+      <lb ed="#B" n="44"/>Elohim non tantum terminatione sive formatione 
+      <lb ed="#B" n="45"/>sed etiam significatione plurale patet ex eo, quod 
+      <lb ed="#B" n="46"/>habeat suum singulare; jam vero nomen, quod e 
+      <lb ed="#B" n="47"/>terminatione et significatione plurale est, in propris 
+      <lb ed="#B" n="48"/>significatione non potest accipi pro singulari 
+      <lb ed="#B" n="49"/>I. frustra urgentur textus, in quibus Baalim et Ado 
+      <lb ed="#B" n="50"/>nim de personis singularibus usurpantur 1. Reg. 22. 
+      <lb ed="#B" n="51"/>v. 17. Genes. 39, v. 20. c. 42. v. 30; quidam enin 
+      <lb ed="#B" n="52"/>eorum κατὰ μερισμόν vel κατὰ διαίρεσιν explicandi, 
+      <lb ed="#B" n="53"/>quidam vero ejusdem sunt generis ac conditionis 
+      <lb ed="#B" n="54"/>ut non de unica tantum persona, sed de toto eju 
+      <lb ed="#B" n="55"/>dominio, ad quod consiliarii et ministri pertinent 
+      <lb ed="#B" n="56"/>accipiantur; 5. ac si vel maxime Elohim in signi 
+      <lb ed="#B" n="57"/>neatione translata de angelis et judicibus usurpatam 
+      <lb ed="#B" n="58"/>pluralitatis significationem deponeret, illud tame 
+      <lb ed="#B" n="59"/>nativae et propriae hujus vocis significationi nihi 
+      <lb ed="#B" n="60"/>derogaret. 
+</p>
+            <p xml:id="zef3dd-d1e798-d1e443">
+      <!--492.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>113. 2. Usurpari de Deo causa honoris, sicut 
+      <lb ed="#B" n="62"/>magnates in plurali de se loqui solent. R. D. 
+      <lb ed="#B" n="63"/>Kimchi in Michol. p. 9. R. Salomon in Jos. 24. 
+      <lb ed="#B" n="64"/>v. 19. Bechai in Genes. 1, v. 26. Resp. 1. Si numer 
+      <lb ed="#B" n="65"/>plurali magnificentiae divinae significatio consisteret, 
+      <lb ed="#B" n="66"/>saneti Dei homines semper usurpassent de Deo 
+      plu<lb ed="#B" n="67" break="no"/>rale. At quandoque utuntur singulari Eloah. 2. Theodor 
+      <lb ed="#B" n="68"/>q. 20. in Gen. utitur hoc argumento: Si Deus propter 
+      <lb ed="#B" n="69"/>iuctoritatem ac majestatem de se loqueretur in 
+      plu<lb ed="#B" n="70" break="no"/>rali, oportuisset eum ita loqui vel semper vel ut 
+      <lb ed="#B" n="71"/>plurimum, praesertim cum legem daret in Sina 
+      <lb ed="#B" n="72"/>3. Si ejusmodi efficacia in significando Dei honore 
+      <lb ed="#B" n="73"/>numero plurali tribuenda, cur non etiam voce ε 
+      <lb ed="#B" n="74"/>rum loco singularis quandoque usurpari concedimus. 
+      <lb ed="#B" n="75"/>essentiam significante in plurali numero Scriptura 
+      uti<lb ed="#B" n="76" break="no"/>tur? 4. De hominibus dignitatis causa pluralem 
+      nume<lb ed="#B" n="77" break="no"/>sed quid hoc ad Deum, cujus summa dignitas in 
+      <lb ed="#B" n="78"/>eo consistit, ut agnoscatur, qualis ipse est? Principe 
+      <lb ed="#B" n="79"/>significant se consiliariorum ac procerum suorum 
+      <lb ed="#B" n="80"/>adminiculis aliquid decernere, sed de DEO illud 
+      <lb ed="#B" n="81"/>dici nequit. 5. Si vel maxime in aliis linguis 
+      nume<lb ed="#B" n="82" break="no"/>rus pluralis pro singulari ponitur, nihil tamen 
+      ho<lb ed="#B" n="83" break="no"/>psum praejudicat linguae sanctae. 6. Quando in 
+      <lb ed="#B" n="84"/>reliquis linquis pluralis pro singulari usurpatur, nomer 
+      <lb ed="#B" n="85"/>personae manet singulare, pronominibus ac verbis 
+      <lb ed="#B" n="86"/>tantummodo mutatis: Nos Ferdinandus mandamus, 
+      <lb ed="#B" n="87"/>hic vero nomen personae est plurale et additum 
+      <lb ed="#B" n="88"/>habet verbum singulare. Afferri igitur oportebat 
+      <lb ed="#B" n="89"/>tale exemplum, in quo nomen plurale cum verbo, 
+      <lb ed="#B" n="90"/>plurali jungatur ae nihilominus unicam personam 
+      <lb ed="#B" n="91"/>notet. 7. R. Aben Ezra omnia exempla, quae 
+      affe<lb ed="#B" n="92" break="no"/>runtur, explicat in comm. Genes. 1, v. 26. (exempla 
+      <lb ed="#B" n="93"/>illa vocat *2u 272 testes falsos.) Sic quod Genes. 
+      <lb ed="#B" n="94"/>29, v. 27 Laban dicit: Et dabimus tibi etiam 
+      <lb ed="#B" n="95"/>hanc, ex Hebraeo sic explicat: Dabitur tibi etiam 
+      <lb ed="#B" n="96"/>haec, est enim Niphal passivum. Posset xml:id ipsum 
+      <lb ed="#B" n="97"/>etiam de parentibus et cognatis conjunctim accipi. 
+      <lb ed="#B" n="98"/>Num. 22. v. 6. inquit Balae: Percutiemus eum. Aber 
+      <lb ed="#B" n="99"/>Ezra dicit sensum esse: forte potero percutere 
+      <lb ed="#B" n="100"/>ipsum, ut sit infinitivus Piel, non futurum Hiphil, 
+      <lb ed="#B" n="101"/>ac Nun sit radicale, aut saltem Balakum includere 
+      <lb ed="#B" n="102"/>quum exercitum. Job. 5, v. 27 Eliphaz, et c. 18, v. 2. 
+      <lb ed="#B" n="103"/>Bildad de se in plurali loquitur, sed includit reli 
+      <lb ed="#B" n="104"/>quos Jobi amicos. 2. Sam. 16, v. 20 Absolon de se 
+      <lb ed="#B" n="105"/>et consiliariis ac copiis militaribus loquitur. Cant. 
+      <lb ed="#B" n="106"/>1, v. 4 ecclesia de se et puellis suis, h. e. 
+      omni<lb ed="#B" n="107" break="no"/>bus fidelibus, pluralem numerum usurpat, sponss 
+      <lb ed="#B" n="108"/>enim regia non est sola, sed habet comitatum 
+      <lb ed="#B" n="109"/>Dan. 2, v. 36: Interpretationem dicemus regi, de 
+      <lb ed="#B" n="110"/>se et sociis loquitur. Quomodo enim Daniel auctori 
+      <lb ed="#B" n="111"/>tatis causa de se in plurali loqueretur coram rege 
+      <lb ed="#B" n="112"/>qui erat regis captivus et ipse rex esset supe 
+      <lb ed="#B" n="113"/>omnes reges? Alii respondent, Davidem in 
+      plural<lb ed="#B" n="114" break="no"/>oqui, ut DEO interpretationem somnii tribuat 
+      <lb ed="#B" n="115"/>Idem esto judicium de exemplis, quae Schmalta 
+      <lb ed="#B" n="116"/>contra Schopp. p. 6. et 9. affert. 1. Reg. 12, v. 9. 
+      <lb ed="#B" n="117"/>2. Par. 10, v. 9 rex se et consiliarios. 1. Reg. 22. 
+      <lb ed="#B" n="118"/>v. 3 rex se et proceres, quorum consilio et opera 
+      <lb ed="#B" n="119"/>decreta fieri et exsecutioni dari solent, complectitur 
+      <lb ed="#B" n="120"/>Joh. 3, v. 11. Christus se et Patrem simul testar. 
+      <!--493.xml-->
+      <pb ed="#B" n="420"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>dicit. Quidam referunt ad Johannem Baptistam 
+      <lb ed="#B" n="2"/>et reliquos apostolos. Marc. 4, v. 30 de se et aud 
+      <lb ed="#B" n="3"/>toribus in plurali loquitur. Rom. 1, v. 3 Paulus se 
+      <lb ed="#B" n="4"/>et reliquosapostolos intelligit. 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e595">
+               <lb ed="#B" n="5"/>114. 3. Elohim de una persona dirinitatis plura 
+      <lb ed="#B" n="6"/>liter accipi. Ps. 45, v. 8. Hoc argumento utuntu 
+      <lb ed="#B" n="7"/>Paraeus et alii trinitatis dogma amplectentes, 
+      se<lb ed="#B" n="8" break="no"/>argumentum hoc ex usu pluralis numeri petitum 
+      <lb ed="#B" n="9"/>repudiantes. Resp. 1. propriae significationi ex e 
+      <lb ed="#B" n="10"/>nihil decedit. Ut enim nomen Deus est essentiale 
+      <lb ed="#B" n="11"/>nihilo tamen minus quandoque usurpatur personali 
+      <lb ed="#B" n="12"/>ter, sic Elolam est nomen personale, quandoque 
+      <lb ed="#B" n="13"/>tamen ponitur essentialiter; 2. quod ipsum argui 
+      <lb ed="#B" n="14"/>tum simplicissimam unitatem trium personarum 
+      ra<lb ed="#B" n="15" break="no"/>tione indivisae essentiae, tum mutuam personarum 
+      <lb ed="#B" n="16"/>περιχώρησιν, quia Pater est in Filio, Filius in 
+      Patre<lb ed="#B" n="17" break="no"/>Pater non est Deus extra Filium, nec Filius 
+      extr<lb ed="#B" n="18" break="no"/>Patrem, Pater non est solitarie Deus, sed 
+      person<lb ed="#B" n="19" break="no"/>trinitatis vel Deus in trinitate, sicque quaelibet 
+      pe<lb ed="#B" n="20" break="no"/>sona in divinis perpetuum ad reliquas duas persona 
+      <lb ed="#B" n="21"/>respectum obtinet. 3. Quando igitur de una 
+      pe<lb ed="#B" n="22" break="no"/>sona usurpatur, significatur, quod una illa 
+      person<lb ed="#B" n="23" break="no"/>sit ex numero plurium, sive quod persona illa non 
+      <lb ed="#B" n="24"/>sit solitarie Deus, sed una cum reliquis duabus per 
+      <lb ed="#B" n="25"/>aonio 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e643">
+               <lb ed="#B" n="26"/>115. Quae ab Eniedino afferuntur exceptione 
+      <lb ed="#B" n="27"/>levioris sunt momenti. 1. Num plurale significa 
+      <lb ed="#B" n="28"/>tria? Resp. ex numero plurali non immediate, sed 
+      <lb ed="#B" n="29"/>mediate probamus trinitatem, quia pluralitas illa in 
+      <lb ed="#B" n="30"/>aliis Scripturae dictis ad ternarium refertur. 2. He 
+      <lb ed="#B" n="31"/>braei nullum hic subesse rati sunt mysterium. Idem 
+      <lb ed="#B" n="32"/>urget Bellarm. d. I. Resp. Galatin. lib. 2. de are 
+      <lb ed="#B" n="33"/>Cathol. verit c. 9. adducit dictum R. Hunna: 
+      Ni<lb ed="#B" n="34" break="no"/>hic sermo fuisset scriptus, non licuisset dicere: Bar 
+      <lb ed="#B" n="35"/>Elohim lib. ejusd. c. 4. In Thalmud illud Jos. 22 
+      <lb ed="#B" n="36"/>v. 22: Jehora El Elohim Jehovah El Elohim sie 
+      <lb ed="#B" n="37"/>exponitur: Dicerunt primo Deus, Deus, Deus, qui 
+      <lb ed="#B" n="38"/>per hos tres creatus est mundus. Et deinde dixo 
+      <lb ed="#B" n="39"/>runt: Deus, Deus, Deus, quia per hos tres quoqu 
+      <lb ed="#B" n="40"/>data est lux. Sed numquid potuisset unus eorum s 
+      <lb ed="#B" n="41"/>solo separatimque (creare mundum)? nequaquam, sed 
+      <lb ed="#B" n="42"/>duo alii uniti cum eo necessario creaverunt. Weidni 
+      <lb ed="#B" n="43"/>in locis fid. tract. 1. p. 94. Haec iisdem fere ver 
+      <lb ed="#B" n="44"/>bis ponuntur in comment. R. Moysis Hadarsa 
+      <lb ed="#B" n="45"/>super c. 1. Gen. In principio creavit ete. Burgen 
+      <lb ed="#B" n="46"/>sis notat antiquiores etiam Rabbinos vidisse, quod 
+      <lb ed="#B" n="47"/>nomine Elohim notetur pluralitas, cum exposuerim 
+      <lb ed="#B" n="48"/>Deus et domus judicii. In Midras Tillim Ps. 50 
+      <lb ed="#B" n="49"/>Quamobrem memoratur nomen Dei sancti et 
+      ben<lb ed="#B" n="50" break="no"/>dicti tribus vicibus? ut doceretis, quod his tribi 
+      <lb ed="#B" n="51"/>nominibus Deus sanctus et benedictus mundum creo 
+      <lb ed="#B" n="52"/>vit, juxta tres IYan quibus mundus creatus ess 
+      <lb ed="#B" n="53"/>quae sunt sapientia, scientia et prudentia. 3. Elohir 
+      <lb ed="#B" n="54"/>est significatione singulare, quia quem Moyses voco 
+      <lb ed="#B" n="55"/>Elohim, eum alii prophetae et scriptores sacri vo 
+      <lb ed="#B" n="56"/>cant El in singulari. (Job. 9, v. 2. Ps. 101, v. 23.), a 
+      <lb ed="#B" n="57"/>additur ei vox exclusiva solus, quo pluralitas 
+      voc<lb ed="#B" n="58" break="no"/>ad singulare restringitur, 2. Reg. 19, v. 15. Ps. 8. 
+      <lb ed="#B" n="59"/>v. 10. Resp. illud fit propter mysterium unius in 
+      <lb ed="#B" n="60"/>livisae essentiae in tribus Elohim. Exclusiva non 
+      <!--493.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>exeludit personas trinitatis reliquas, sed xml:idola et 
+      <lb ed="#B" n="62"/>creaturas, quae non sunt ejusdem cum Elohim 
+      es<lb ed="#B" n="63" break="no"/>sentiae. 1. Interpretes non vertunt pluraliter: 
+      Cre<lb ed="#B" n="64" break="no"/>arit Dii. Resp. est dispar ratio vocis Elohim et 
+      Dei<lb ed="#B" n="65" break="no"/>illud enim sua natura personale est, hoc essentiale 
+      <lb ed="#B" n="66"/>Reliquae linguae non habent verbum, quod vim 
+      vo<lb ed="#B" n="67" break="no"/>cis exprimat. Praecavere insuper voluerunt opinio 
+      <lb ed="#B" n="68"/>nem de essentiae divinae multiplicitate. 5. Creatio 
+      <lb ed="#B" n="69"/>tribuitur soli Patri. Resp. non tamen excluduntur 
+      <lb ed="#B" n="70"/>Filius et Spiritus s., ut mox apparebit. 6. Cabbale 
+      <lb ed="#B" n="71"/>ticae illi interpretationi, quae e72 exponit per 
+      <lb ed="#B" n="72"/>r1777 72 2&amp; opponit hoc, quod 2 exponi possit 
+      pe<lb ed="#B" n="73" break="no"/>2752, 7 per 07, &amp; per PIIN tu es 
+      princep<lb ed="#B" n="74" break="no"/>sccleratorum. Resp. aliud est allusio et mystica ex 
+      <lb ed="#B" n="75"/>plicatio, aliud solida ac firma probatio 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e758">
+               <lb ed="#B" n="76"/>116. 2. Alterum argumentum, quo probamus ero 
+      <lb ed="#B" n="77"/>ationis opus non uni, sed pluribus personis tribuis 
+      <lb ed="#B" n="78"/>petimus: 2. ex loquela divina. V. 26: Faciamus 
+      ho<lb ed="#B" n="79" break="no"/>minem ad imaginem et similitudinem nostram. Ub. 
+      <lb ed="#B" n="80"/>introducuntur plures colloquentes, ibi pluralitas per 
+      <lb ed="#B" n="81"/>onarum significatur. Sed in creatione hominis in 
+      <lb ed="#B" n="82"/>roducuntur plures colloquentes. Dixit enim Elohim 
+      <lb ed="#B" n="83"/>*22 faciamus hominem ad imaginem et simili 
+      <lb ed="#B" n="84"/>tudinem nostram, ubi 1. ponitur Elohim nomen 
+      <lb ed="#B" n="85"/>plurale; 2. 17222 verbum plurale; 3. pronomen 
+      <lb ed="#B" n="86"/>plurale ad similitudinem nostram; 4. verbum &amp;772 
+      <lb ed="#B" n="87"/>ribus distinctis vocibus ad τριάδα exprimendam 
+      <lb ed="#B" n="88"/>V. 27: Creavit Deus hominem ad imaginem suam 
+      <lb ed="#B" n="89"/>ad imaginem DEI creavit illum, masculum et 
+      foe<lb ed="#B" n="90" break="no"/>minam creavit eos. Illi plures, cum quibus collo 
+      <lb ed="#B" n="91"/>cutio instituitur, in communionem divini operis cre 
+      <lb ed="#B" n="92"/>ationis scilicet per verbum faciamus et per 
+      prono<lb ed="#B" n="93" break="no"/>men nostram adsciscuntur. Ad eorundem etiam 
+      <lb ed="#B" n="94"/>imaginem homo creandus dicitur. Refero huc anti 
+      <lb ed="#B" n="95"/>quissimorum ecclesiae doctorum unanimem conser 
+      <lb ed="#B" n="96"/>sum, Iren. in praefat. lib. 1. p. 232: Homo per 
+      ma<lb ed="#B" n="97" break="no"/>nus Dei plasmatus est, hoc est, per Filium et 
+      Spi<lb ed="#B" n="98" break="no"/>ritum s., quibus etiam dixit: Faciamus hominem. Lil. 
+      <lb ed="#B" n="99"/>pjusdem c. 17. p. 243: Filius, qui et verbum Dei 
+      <lb ed="#B" n="100"/>ab initio praestruebat, non indigente Palre angelis, 
+      <lb ed="#B" n="101"/>uti faceret conditionem et formaret hominem, proptè 
+      <lb ed="#B" n="102"/>quem et conditio fiebat, neque rursus indigente 
+      <lb ed="#B" n="103"/>ministerio ad fabricationem eorum negotiorum, 
+      qua<lb ed="#B" n="104" break="no"/>necundum hominem erant, sed habente copiosum e 
+      <lb ed="#B" n="105"/>inenarrabile ministerium. Ministrat enim ei (κατα 
+      <lb ed="#B" n="106"/>χρηστικῶς pro adest) ad omnia sua progenies et fi 
+      <lb ed="#B" n="107"/>quratio sua, h. e. Filius et Spiritus s. Verbum et 
+      <lb ed="#B" n="108"/>sapientia, quibus serviunt et subjecti sunt omnes 
+      <lb ed="#B" n="109"/>angeli. C. 37, v. 66: Adest Patri semper Verbum 
+      <lb ed="#B" n="110"/>et sapientia, Filius et Spiritus s., per quos et in 
+      <lb ed="#B" n="111"/>quibus omnia libere et sponte fecit et ad quos 
+      lo<lb ed="#B" n="112" break="no"/>quitur dicens: Faciamas hominem ad imaginem 
+      <lb ed="#B" n="113"/>ostram. Justin. in Dial. cum Tryph. p. 222: N 
+      <lb ed="#B" n="114"/>lepravantes, quae diximus, verba illa afferatis, qua 
+      <lb ed="#B" n="115"/>Rabbini vestri allegant, vel quod ad se ipsum locu 
+      <lb ed="#B" n="116"/>tus sit Deus: faciamus, sicut et nos facturi quip 
+      <lb ed="#B" n="117"/>piam persaepe ad nos ipsos dicimus: faciamus 
+      <lb ed="#B" n="118"/>vel quod ad elementa, hoc est terram et alia sim 
+      <lb ed="#B" n="119"/>liter, unde intelligimus hominem constitutum esse 
+      <lb ed="#B" n="120"/>Deus dixerit: faciamus, verba rursus alia a Moyse 
+      <!--494.xml-->
+      <pb ed="#B" n="421"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>prolata referam, ex quibus citra ambiguitatem 
+      <lb ed="#B" n="2"/>certo ad aliquem, qui et numero alius et rationa 
+      <lb ed="#B" n="3"/>lis sit, ipsum locutum esse, cognoscere possumus 
+      <lb ed="#B" n="4"/>Sunt autem haec verba: et dixit Deus: Ecce Adam 
+      <lb ed="#B" n="5"/>factus quasi unus ex nobis. Synodus Syrmiensi 
+      <lb ed="#B" n="6"/>apud Socrat. lib. 2, c. 25. Tripart. lib. 5, e. 7. 
+      <lb ed="#B" n="7"/>εl τις τὸ ποιήσωμεν ἄνθρωπον μὴ τὸν πατέρα πρὸ 
+      <lb ed="#B" n="8"/>τὸν υἱὸν λέγοι, ἀλλὰ αὐτὸν πρὸς ἑαυτὸν τὸν θεὸν εἰρη¬ 
+      <lb ed="#B" n="9"/>κέναι, ἀνάθεμα ἔστω. Hilarius lib. 5. de trinit. p. 56. 
+      <lb ed="#B" n="10"/>DEUS, qui loquitur ad DEUM loquitur, ad 
+      Patri<lb ed="#B" n="11" break="no"/>et Filii imaginem homo conditur. Nomen non dis 
+      <lb ed="#B" n="12"/>crepat, natura non differt. Una enim est imaginis 
+      <lb ed="#B" n="13"/>ad quam homo creatus est, species et inter hac 
+      <lb ed="#B" n="14"/>veritas, ubi deperit, manente inter utrumque et fact 
+      <lb ed="#B" n="15"/>communione et communis imaginis veritate. Basilius 
+      <lb ed="#B" n="16"/>homil. 10. hexaëm: Faciamus dixit et non dixis 
+      <lb ed="#B" n="17"/>fecerunt; ut ne multitudinis deorum arripias occo 
+      <lb ed="#B" n="18"/>sionem. Nunc vero faciamus, inquit, ut cognosca 
+      <lb ed="#B" n="19"/>Patrem, Filium et Spiritum s. Fecit Deus homi 
+      <lb ed="#B" n="20"/>nem, ut unias deitatem, unias autem non personas 
+      <lb ed="#B" n="21"/>sed potentiam. August. lib. 16. de civit. Dei c. 6 
+      <lb ed="#B" n="22"/>Illud faciamus hominem, quia sequitur ad imaginem 
+      <lb ed="#B" n="23"/>nostram, nefas est credere ad imaginem angelorum 
+      <lb ed="#B" n="24"/>hominem factum, aut eandem esse imaginem ang 
+      <lb ed="#B" n="25"/>lorum et Dei, et xml:ideo recte illic intelligitur pluro 
+      <lb ed="#B" n="26"/>litas trinitatis, quae tamen trinitas, quia unus es 
+      <lb ed="#B" n="27"/>Deus, etiam cum dixisset, faciamus et fecit, inqui 
+      <lb ed="#B" n="28"/>Deus hominem ad imaginem Dei, non dicit: 
+      fec<lb ed="#B" n="29" break="no"/>runt dii aut ad imaginem deorum. Ejusdem di 
+      <lb ed="#B" n="30"/>fide ad Petrum et Theodoreti q. 19. in Genes. locun 
+      <lb ed="#B" n="31"/>adduximus in art. de tribus Elohim §. 7. Alcuinu 
+      <lb ed="#B" n="32"/>lib. 1. de trinit. c. 3: Cum singulari numero 
+      dix<lb ed="#B" n="33" break="no"/>imaginem, ostendit unam naturam esse, ad cujus 
+      <lb ed="#B" n="34"/>imaginem homo fieret, cum vero dicit pluraliter 
+      <lb ed="#B" n="35"/>nostram, ostendit Dominum, ad cujus imaginem hom 
+      <lb ed="#B" n="36"/>fiebat, non esse unam personam. Si enim illa um 
+      <lb ed="#B" n="37"/>essentia Patris et Filii et Spiritus s. una esset 
+      pe<lb ed="#B" n="38" break="no"/>sona, non diceretur ad imaginem nostram, sed ac 
+      <lb ed="#B" n="39"/>imaginem meam, nec dixisset faciamus, sed faciam 
+      <lb ed="#B" n="40"/>Si vero in illis tribus personis tres intelligendae 
+      ve<lb ed="#B" n="41" break="no"/>credendae essent substantiae, non diceretur ad imo 
+      <lb ed="#B" n="42"/>ginem nostram, sed ad imagines nostras. 
+      Tha<lb ed="#B" n="43" break="no"/>mudistae in Rabba Beresith super h. I. scribunt: In 
+      <lb ed="#B" n="44"/>hora, qua Deus dicebat Moysi, faciamus hominem 
+      <lb ed="#B" n="45"/>dixisse Moysen coram illo: dominator mundi, cut 
+      <lb ed="#B" n="46"/>tribuis haereticis occasionem errandi? ac Deum illi 
+      <lb ed="#B" n="47"/>respondisse, scribe, et qui vult errare, erre 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e967">
+               <lb ed="#B" n="48"/>117. Excipiunt Judaei ac Photiniani: 1. Deus 
+      <lb ed="#B" n="49"/>allocutum esse potentias in homine.. Rambam in 
+      <lb ed="#B" n="50"/>More Nebuchim. Resp. ex eo consequens foret 
+      <lb ed="#B" n="51"/>l. xml:idem archetypon esse; in DEO et potentiis ho 
+      <lb ed="#B" n="52"/>minis, ac hominem ad imaginem suarum potentiarum 
+      <lb ed="#B" n="53"/>hoc est, sui ipsius esse conditum. Contra ver 
+      <lb ed="#B" n="54"/>Moyses pronuntiat, hominem ad Dei imaginem ess 
+      <lb ed="#B" n="55"/>conditum; 2. Deum habere socium in creatione 
+      extr<lb ed="#B" n="56" break="no"/>se ac praeter se; quia una cum ipso ἐνεργητικῶς in 
+      <lb ed="#B" n="57"/>hoc opere concurrerit, adeoque hominem ad sui ipsius 
+      <lb ed="#B" n="58"/>creationem effective concurrisse; 3. potentias illa 
+      <lb ed="#B" n="59"/>antè hominis formationem seorsim exstitisse, alia 
+      <lb ed="#B" n="60"/>enim Deus non potuisset eas alloqui. Contra vero 
+      <!--494.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Hoyses pronuntiat animam hominis inspirando fuisse 
+      <lb ed="#B" n="62"/>creatam et creando inspiratam, Genes. 2, v. 7; 
+      <lb ed="#B" n="63"/>4. locum alterum Genes. 3, v. 22. eodem modo ess 
+      <lb ed="#B" n="64"/>exponendum. Ecce Adam factus est, quasi unus 
+      e<lb ed="#B" n="65" break="no"/>nobis, hoc est, ex animae potentiis. Probe vero 
+      <lb ed="#B" n="66"/>observetur Rabbinum illum vi veritatis adactum agno 
+      <lb ed="#B" n="67"/>visse, pluralitatis significationem in hac phrasi 
+      la<lb ed="#B" n="68" break="no"/>ter¬ 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1019">
+               <lb ed="#B" n="69"/>118. 2. Deum more magnatum de se in plurali 
+      <lb ed="#B" n="70"/>loqui, adeoque esse usitatam loquendi formulam 
+      <lb ed="#B" n="71"/>Socinus in explicat. aliquot loc. Script. p. 69: I. 
+      <lb ed="#B" n="72"/>omni fortasse lingua obtinuit, ut, cum aliquis s 
+      <lb ed="#B" n="73"/>ipsum quantumvis solum ad aliquid faciendum 
+      hor<lb ed="#B" n="74" break="no"/>tatur, rel se facturum decernit, si xml:id ita efferat, ut 
+      <lb ed="#B" n="75"/>per subjunctivum modum Graece aut Latine 
+      enun<lb ed="#B" n="76" break="no"/>liari debeat, numero plurali utatur, ut apud Livium 
+      <lb ed="#B" n="77"/>lib. 39: Annibal venenum hausturus, inquit, 
+      libere<lb ed="#B" n="78" break="no"/>mus diuturna cura populum Romanum. Resp. 1. 
+      <lb ed="#B" n="79"/>ex phrasi aliarum linguarum non est judicium feren 
+      <lb ed="#B" n="80"/>dum de Hebraea; 2. pluralis numerus aliorum vel 
+      <lb ed="#B" n="81"/>ministerium vel suffragium vel praescitum arguit 
+      <lb ed="#B" n="82"/>Nemo enim solus suum deliberans plurali utitur, sed 
+      <lb ed="#B" n="83"/>alios alloquens; 3. ex Scripturis afferenda erant hujus 
+      <lb ed="#B" n="84"/>regulae exempla, non ex profanis auctoribus; 4. non 
+      <lb ed="#B" n="85"/>deliberatio solum, sed etiam exsecutio hujus operis 
+      <lb ed="#B" n="86"/>per pluralem numerum describitur; 5. repetantur ea 
+      <lb ed="#B" n="87"/>quae superius huic argumento responsa. Plurima 
+      <lb ed="#B" n="88"/>exstant in sacris literis sermones, colloquia, mandata 
+      <lb ed="#B" n="89"/>Dei ac regum, quae in singulari numero 
+      concipiun<lb ed="#B" n="90" break="no"/>tur omnia 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1069">
+               <lb ed="#B" n="91"/>119. 3. Deum angelos allocutum esse. Resp. 1. 
+      <lb ed="#B" n="92"/>De eo intelligendum est verbum faciamus, qui es 
+      <lb ed="#B" n="93"/>hominis creator, quia ex opere creationis vera 
+      divi<lb ed="#B" n="94" break="no"/>nitas demonstratur, cum sit solius DEI proprium, 
+      <lb ed="#B" n="95"/>Esa. 42, v. 5. c. 45, v. 18. c. 48, v. 13. etc.; atqui 
+      <lb ed="#B" n="96"/>angeli non fuerunt Dei socii in hominis creatione 
+      <lb ed="#B" n="97"/>Ambrosius lib. 6. hexaëm. c. 7: Non sibi utique 
+      <lb ed="#B" n="98"/>quia non dicit faciam, sed faciamus; non angelis 
+      <lb ed="#B" n="99"/>quia ministri sunt, servi enim cum Domino et 
+      <lb ed="#B" n="100"/>opera nostra cum auctore non possunt operationi. 
+      <lb ed="#B" n="101"/>habere consortium; sed dicit Filio, etiamsi Judae 
+      <lb ed="#B" n="102"/>nolint, etiamsi Ariani repugnent ete. 2. De eo in 
+      <lb ed="#B" n="103"/>telligendum est plurale faciamus, qui illud consilium 
+      <lb ed="#B" n="104"/>in effectum deduxit. At solus Deus, non angeli in 
+      <lb ed="#B" n="105"/>effectum illud deduxerunt. Damasc. lib. 2. de orti 
+      <lb ed="#B" n="106"/>fid. c. 3. de angelis dicit κτίσματα ὅντες οὐκ εἰσί 
+      <lb ed="#B" n="107"/>δημιουργοί. August. lib. 12. de civit. Dei c. 24. 
+      <lb ed="#B" n="108"/>Non est fas ullius naturae quamlibet minimae 
+      mor<lb ed="#B" n="109" break="no"/>talisque crealorem nisi Deum credere ac dicere 
+      <lb ed="#B" n="110"/>3. De eo intelligendum plurale faciamus, ad cujus 
+      <lb ed="#B" n="111"/>imaginem homo conditus. Atqui non ad angelorum 
+      <lb ed="#B" n="112"/>sed ad Dei imaginem homo conditus est. Erge 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1119">
+               <lb ed="#B" n="113"/>120. 4. Deum allocutum esse quatuor elemente 
+      <lb ed="#B" n="114"/>quibus primo creatis postea ad opera sex dierum 
+      <lb ed="#B" n="115"/>perficienda usus est. Resp. contra hanc opinionem 
+      <lb ed="#B" n="116"/>militant eadem argumenta. Neque enim ad elemen 
+      <lb ed="#B" n="117"/>torum imaginem conditi sumus; nec elementa active 
+      <lb ed="#B" n="118"/>in creatione concurrerunt, nec potest alloquium illud 
+      <lb ed="#B" n="119"/>lturas irrationales Esa. 1, v. 2. Resp. illud fit ad 
+      <lb ed="#B" n="120"/>elementis convenire. 5. Deum interdum alloqui crea 
+      <!--495.xml-->
+      <pb ed="#B" n="422"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>animos hominum ingratorum magis percellendos atque 
+      <lb ed="#B" n="2"/>ad attentionem excitandos (Luth. in comm. Utitu 
+      <lb ed="#B" n="3"/>propheta hac figura, ut attentos faciat auditores 
+      <lb ed="#B" n="4"/>quasi dicat: Nemo audit, omnes sunt impii et n 
+      <lb ed="#B" n="5"/>gligunt verbum DEI. Audiant igitur coelum e 
+      <lb ed="#B" n="6"/>terra. Cur hoc? quia Dominus loquitur, cujus ver 
+      <lb ed="#B" n="7"/>bum meretur, ut audiatur.) Quid vero hoc ad hi 
+      <lb ed="#B" n="8"/>storicam creationis descriptionem, quae verbis pro 
+      <lb ed="#B" n="9"/>priis et perspicuis constat? Num enim etiam ad 
+      <lb ed="#B" n="10"/>brutorum imaginem hominem dicemus conditum 
+      <lb ed="#B" n="11"/>num bruta etiam in communionem hujus operis 
+      tam<lb ed="#B" n="12" break="no"/>quam causa efficiens creationis includuntur? 
+      no<lb ed="#B" n="13" break="no"/>vocat Deus in communionem operis coelum ac ter 
+      <lb ed="#B" n="14"/>ram, sed simpliciter dicit: Audite coeli et terra, filios 
+      <lb ed="#B" n="15"/>enutrivi. 6. Deum cum angelis communicare 
+      con<lb ed="#B" n="16" break="no"/>cilium. Resp. ex Esa. 40, v. 12. et Rom. II, v. 34 
+      <lb ed="#B" n="17"/>Quis consiliarius Dei fuit? Unde ergo probant talen 
+      <lb ed="#B" n="18"/>cum angelis consultationem institutam? Adducun 
+      <lb ed="#B" n="19"/>1. Reg. 22. et Job. 1, sed illa exempla sunt aliena 
+      <lb ed="#B" n="20"/>I. utrobique diserta fit angelorum mentio, hic vero 
+      <lb ed="#B" n="21"/>minime; 2. angeli ibi assistunt tanquam ministri e 
+      <lb ed="#B" n="22"/>apparitores, non tanquam divini operis socii; 3. cum 
+      <lb ed="#B" n="23"/>illis Deus consultat, ad quorum imaginem homo 
+      cor<lb ed="#B" n="24" break="no"/>ditus. At de angelis xml:id intelligi nequit; 4. 
+      Moyse<lb ed="#B" n="25" break="no"/>nequaquam dicit Deum allocutum esse angelos 
+      prae<lb ed="#B" n="26" break="no"/>sentes, sed Elohim inter se collocutos 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1202">
+               <lb ed="#B" n="27"/>21. 3. Tertium sententiae nostrae fundamentur 
+      <lb ed="#B" n="28"/>petimus ex forma loquendi prophetica. Ut enir 
+      <lb ed="#B" n="29"/>Moyses in plurali dicit, Elohim creasse coelum et 
+      <lb ed="#B" n="30"/>terram, Elohim ante hominis creationem quasi 
+      con<lb ed="#B" n="31" break="no"/>sultasse, ita prophetae ἀποτολμῶσι (ut verbo apo 
+      <lb ed="#B" n="32"/>stolico Rom. 10, v. 20. utar) hoc est, sumta a Moys 
+      <lb ed="#B" n="33"/>audacia ipsimet etiam in plurali numero de DEt 
+      <lb ed="#B" n="34"/>uno coeli ac terrae creatore loquuntur. Job. 35, v. 10. 
+      <lb ed="#B" n="35"/>Et non dixit, ubi est nnya y e Deus 
+      facto<lb ed="#B" n="36" break="no"/>res mei dans cantica, ubi nomini plurali *8 facte 
+      <lb ed="#B" n="37"/>res adduntur duo singularia 1775 et jr3 ut et per 
+      <lb ed="#B" n="38"/>sonarum pluralitas et essentiae divinae unitas signi 
+      <lb ed="#B" n="39"/>ficetur. Quidam intelligunt de variorum beneficio 
+      <lb ed="#B" n="40"/>rum collatione. Ubi est Deus, qui fecit me? 
+      ho<lb ed="#B" n="41" break="no"/>est, ornavit et tantis beneficiis est prosecutus, sicut 
+      <lb ed="#B" n="42"/>1. Sam. 12, v. 6: Dominus, qui fecit Moysen e 
+      <lb ed="#B" n="43"/>Aaronem, hoc est, magnos et celebres illos reddidi. 
+      <lb ed="#B" n="44"/>sed rectius accipitur in specie de creationis beneficio 
+      <lb ed="#B" n="45"/>quia additur dans cantica in nocte, hoc est, qui 
+      <lb ed="#B" n="46"/>noctu me custodiens et servans canendarum laudum 
+      <lb ed="#B" n="47"/>suarum materiam suppeditat, ut sic beneficium cres 
+      <lb ed="#B" n="48"/>tionis et conservationis conjungatur. Mercerus in 
+      <lb ed="#B" n="49"/>comm. honoris causa de DEO pluralem numerur 
+      <lb ed="#B" n="50"/>usurpari existimat. Sed ad illud superius respondi 
+      <lb ed="#B" n="51"/>mus. Psalm. 149, v. 2: Laetetur Israel *2 in 
+      <lb ed="#B" n="52"/>factoribus suis, exsultent filii Sion E3232 in reqe 
+      <lb ed="#B" n="53"/>eorum. Esa. 42, v. 5: Jehova creans coelos e 
+      <lb ed="#B" n="54"/>extendentes eos. Esa. 44, v. 2: Sic dixit Jehova 
+      <lb ed="#B" n="55"/>79 factores tui (plurale hoc esse indicat, ant 
+      <lb ed="#B" n="56"/>affixum. Quamvis enim juxta regulam grammaticam 
+      <lb ed="#B" n="57"/>affixa omnia pluralia habeant ante se literam) tar 
+      <lb ed="#B" n="58"/>quam pluralis indicem, excipiuntur tamen quaedam 
+      <lb ed="#B" n="59"/>specialia, quae5 amittunt: 7237 pedes tui Jerem. 38. 
+      <lb ed="#B" n="60"/>v. 22.), statim vero additur singulare 77X37 et for¬ 
+      <!--495.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>mator tuus (illud singulare esse constat ex 
+      schev<lb ed="#B" n="62" break="no"/>ante affixum), c. 34, v. 5: Tς T2Y2 mariti tu 
+      <lb ed="#B" n="63"/>factores tui Jehovah Sebaoth nomen ejus et 
+      redem<lb ed="#B" n="64" break="no"/>tor tuus sanctus, Israël **7&amp; Deus omnis terrae, ub 
+      <lb ed="#B" n="65"/>singularis ac pluralis numeri permutatio duplex 
+      <lb ed="#B" n="66"/>(Lyran. addit locum Eccles. 2, v. 12: Quid est homo 
+      <lb ed="#B" n="67"/>qui venturus est post regem, quod jam fecerunt eum 
+      <lb ed="#B" n="68"/>sed hoc rectius de Salomone quam de Deo creatore 
+      <lb ed="#B" n="69"/>accipitur, ut patet ex contextu. Sensus enim est 
+      <lb ed="#B" n="70"/>quod successor nihil novorum operum facere aut in 
+      <lb ed="#B" n="71"/>venire possit, sed si quae faciet facturus sit, quae 
+      <lb ed="#B" n="72"/>ab antecessore jamdum facta.) Ecquis vero sibi per 
+      <lb ed="#B" n="73"/>quaderi patietur, illam singularis ac pluralis numer 
+      <lb ed="#B" n="74"/>conjunctionem in creatoris denominatione omni plane 
+      <lb ed="#B" n="75"/>mysterio carere 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1315">
+               <lb ed="#B" n="76"/>122. 2. In specie ex illis dictis, quae creationi 
+      <lb ed="#B" n="77"/>ppus Patri, Filio et Spiritui sancto tribuunt, sicque 
+      <lb ed="#B" n="78"/>pluralitatem illam ad trium personarum numerum 
+      <lb ed="#B" n="79"/>determinant. Dictorum istorum duas constituemus 
+      <lb ed="#B" n="80"/>classes: Prior complectitur ea, quae vel trium vel 
+      <lb ed="#B" n="81"/>duarum personarum expressam mentionem in 
+      crea<lb ed="#B" n="82" break="no"/>tionis descriptione faciunt. Posterior continet ea 
+      <lb ed="#B" n="83"/>quae distinetam unius personae vel Filii, vel Spiri 
+      <lb ed="#B" n="84"/>tus s. mentionem injiciunt, de Patre enim persona 
+      <lb ed="#B" n="85"/>prima, an illi creationis opus competat, nunquam 
+      <lb ed="#B" n="86"/>lubitatum fuit. Ad classem priorem haec 
+      referan<lb ed="#B" n="87" break="no"/>tur: 1. In propria hujus articuli sede Gen. I. de 
+      <lb ed="#B" n="88"/>Deo creatore Moyses non tantum loquitur in numere 
+      <lb ed="#B" n="89"/>plurali, sed etiam pluralitatem illam ad tres perse 
+      <lb ed="#B" n="90"/>nas deitatis applicat. Ut enim praetermittamus illud 
+      <lb ed="#B" n="91"/>quod Origenes et Rupertus in comm. illius loci 
+      <lb ed="#B" n="92"/>Augustin. in lib. de Genes. ad lit. imperf. et ali 
+      <lb ed="#B" n="93"/>prima statim verba Geneseos DEN2 ad Filium 
+      <lb ed="#B" n="94"/>referant, ut in principio, hoc est, in Filio sive 
+      pe<lb ed="#B" n="95" break="no"/>Filium Pater omnia dicatur creasse, sicut Joh. 1, 
+      <lb ed="#B" n="96"/>v. 3. Hebr. 1, v. 2. per Filium, et Coloss. 1, v. 16 
+      <lb ed="#B" n="97"/>in Filio omnia dicuntur condita, quo accommodam 
+      <lb ed="#B" n="98"/>illud, quod secunda persona sit Filius DEI primo 
+      <lb ed="#B" n="99"/>genitus, qui dici solet DE&amp;* principium roboris 
+      <lb ed="#B" n="100"/>Gen. 49, v. 3. Deuter. 21, v. 17, quodque Filius 
+      <lb ed="#B" n="101"/>Dei expresse appelletur ἀρχή Coloss. I, v. 18; ἀρχὴ 
+      <lb ed="#B" n="102"/>ῆς κτίσεως τοῦ θεοῦ Apocal. 3, v. 14. principium 
+      <lb ed="#B" n="103"/>creaturae non materiale sed effectivum, quodque ἐ 
+      <lb ed="#B" n="104"/>κεφαλίδι 1οῦ βιβλίου, in ipso capite et initio libri 
+      <lb ed="#B" n="105"/>adeoque in ipsa voce IEN* de se scriptum esse 
+      <lb ed="#B" n="106"/>Filius testetur Psalm. 40, v. 7. Hebr. 10, v. 7. Ut 
+      <lb ed="#B" n="107"/>Inquam illud praetermittamus, cum Johannes c. I. 
+      <lb ed="#B" n="108"/>v. 1. nomen ἄρχῆς de rerum conditarum exordio ad 
+      <lb ed="#B" n="109"/>principio explicet, illud manifestum est, quod Moyses 
+      <lb ed="#B" n="110"/>isserat Deum dicendo omnia creasse et Spiritum 
+      <lb ed="#B" n="111"/>Elohim aquis incubuisse easdemque fovisse, 
+      priu<lb ed="#B" n="112" break="no"/>exprimit personam Filii, posterius personam Spiritus? 
+      <lb ed="#B" n="113"/>Quamvis enim vox 8 dixit, toties in illo capite 
+      <lb ed="#B" n="114"/>repetita Dei jussum, mandatum, ut Scholastici loquum 
+      <lb ed="#B" n="115"/>tur, atque voluntatem Dei in opus extensam dene 
+      <lb ed="#B" n="116"/>tet, ac proinde ad verbum DΕI προφορικόν non 
+      in<lb ed="#B" n="117" break="no"/>juria referatur, quod frustra urget Socinus sic 
+      dis<lb ed="#B" n="118" break="no"/>serens, verbi nomen praesenti et effectivae Dei 
+      vo<lb ed="#B" n="119" break="no"/>luntati tribuitur significatione ab hominibus translata 
+      <lb ed="#B" n="120"/>Quia enim solent homines potentia atque auctoritat 
+      <!--496.xml-->
+      <pb ed="#B" n="423"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>praediti cum aliquid fieri volunt verbo aliquo xml:id 
+      <lb ed="#B" n="2"/>declarare, propterea Deus tanquam loquens 
+      intro<lb ed="#B" n="3" break="no"/>ducitur, cum aliquid vult fieri, hoc est, exsistere, i 
+      <lb ed="#B" n="4"/>defens. animadv. p. 104. Nos haec non omnin 
+      <lb ed="#B" n="5"/>improbamus, sed concedimus verbum dixit ad De 
+      <lb ed="#B" n="6"/>jussum referri posse, (cum s. Moyses hic historicur 
+      <lb ed="#B" n="7"/>agat ac res gestas simplicissime describat; 2. ne 
+      <lb ed="#B" n="8"/>tantum in genere referat Deum dixisse, sed etiam in 
+      <lb ed="#B" n="9"/>specie addat, quaenam Deus verba prolocutus fuerit 
+      <lb ed="#B" n="10"/>ut fiat lux, fiat firmamentum ete.; 3. cum eadem 
+      <lb ed="#B" n="11"/>sit ratio 10υ dicere in primis diebus, quae in ultimo 
+      <lb ed="#B" n="12"/>sive sexto, ubi Deus iterum dicens introducitu 
+      <lb ed="#B" n="13"/>–v. 26: faciamus hominem ad imaginem nostrar 
+      <lb ed="#B" n="14"/>id quod de Dei consilio et verbo προφορικῷ 
+      intell<lb ed="#B" n="15" break="no"/>gendum esse constat; 4. denique cum Scriptura vel 
+      <lb ed="#B" n="16"/>bum dicendi aliis in locis sic explicet, Psalm. 3. 
+      <lb ed="#B" n="17"/>v. 9: ipse dixit et fuit, ipse praecepit et etetit 
+      <lb ed="#B" n="18"/>Confer 2. Cor. 4, v. 6, eodem tamen dicendi verb 
+      <lb ed="#B" n="19"/>. simul exprimitur verbum ὑποστατικὸν et substantiale 
+      <lb ed="#B" n="20"/>Dei scilicet Filius. Probare igitur non possumus 
+      <lb ed="#B" n="21"/>quod Toss. in not. marg. addit dicere, h. l. nihil aliu 
+      <lb ed="#B" n="22"/>esse, quam efficacem Dei voluntatem et mandatum 
+      <lb ed="#B" n="23"/>imo vero una cum verbo mandati denotatur verbur 
+      <lb ed="#B" n="24"/>substantiale, xml:id quod constat: I. ex infallibili inter 
+      <lb ed="#B" n="25"/>pretatione Johann. c. 1, v. 1: In principio ero 
+      <lb ed="#B" n="26"/>Verbum, et Verbum erat apud Deum, et Deus ere 
+      <lb ed="#B" n="27"/>Verbum, hoc erat in principio apud Deum, omnio 
+      <lb ed="#B" n="28"/>per ipsum facta sunt, ex quo loco sic concludimus. 
+      <lb ed="#B" n="29"/>Illud verbum, per quod omnia facta sunt, in prin 
+      <lb ed="#B" n="30"/>cipio erat πρὸς τὸν θεὸν. Atqui hoc est proprium 
+      <lb ed="#B" n="31"/>personae subsistentis. Ergo Verbum illud, per quo 
+      <lb ed="#B" n="32"/>omnia facta sunt, est persona per se subsistens; 2. e 
+      <lb ed="#B" n="33"/>Salomonis testificatione, qui sapientiae Dei eadem 
+      <lb ed="#B" n="34"/>tribuit, quae Moyses Dei verbo, Proverb. 8. v. 22. e) 
+      <lb ed="#B" n="35"/>seqq., de quo argumento dicemus paulo post uberius. 
+      <lb ed="#B" n="36"/>3. ex rei ipsius consideratione, quia in illo 
+      praec<lb ed="#B" n="37" break="no"/>piendi et mandandi verbo erat virtus altissimi e 
+      <lb ed="#B" n="38"/>Verbum Patris hypostaticum, cum Pater non opere 
+      <lb ed="#B" n="39"/>tur absque Filio Johann. 5, v. 17; 4. ex Nov. Tes 
+      <lb ed="#B" n="40"/>explicatione, quam late expositam dedimus in arti 
+      <lb ed="#B" n="41"/>culo de Deo Patre et Filio §. 82. et in articulo d 
+      <lb ed="#B" n="42"/>creatione §. 10; 5. ex Chaldaicae paraphraseos cor 
+      <lb ed="#B" n="43"/>sensione, in ea enim usitatissimum est, Filium De 
+      <lb ed="#B" n="44"/>promissum Messiam appellari Memrah appellation 
+      <lb ed="#B" n="45"/>ex verbo 72&amp; deducta 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1520">
+               <lb ed="#B" n="46"/>123. Haec omnia si probe observentur, facil 
+      <lb ed="#B" n="47"/>res ponderi potest ad ea, quae Socinus in 
+      defen<lb ed="#B" n="48" break="no"/>animadv. p. 106. et seqq. contra hanc nostram inter 
+      <lb ed="#B" n="49"/>pretationem affert. Primo excipit Vatablum rò di 
+      <lb ed="#B" n="50"/>cere exponere pro jubere, praecipere, velle, decer 
+      <lb ed="#B" n="51"/>nere ete. Potuisset addere Flacium et Bezam, qui 
+      <lb ed="#B" n="52"/>in annotat. suis eodem modo exponunt. Quid 
+      ver<lb ed="#B" n="53" break="no"/>nostrae sententiae illud praejudicat? 2. Istud 
+      De<lb ed="#B" n="54" break="no"/>jussum simile est illi, quo Christus usus est, cum 
+      <lb ed="#B" n="55"/>ventis et mari imperavit, dicens: Obmutesce 
+      <lb ed="#B" n="56"/>Matth. 8, v. 26. Marc. 4, v. 39. Luc. 8. v. 24. ub. 
+      <lb ed="#B" n="57"/>nihil revera est, quod jussa intelligat eaque susci 
+      <lb ed="#B" n="58"/>Piat et exequatur, sed per prosopopoeiam omnia do 
+      <lb ed="#B" n="59"/>Cuntur et praesentem formatamque voluntatem ob 
+      <lb ed="#B" n="60"/>Oculos ponunt. Resp. Christus dicit Joh. 14, v. 10. 
+      <!--496.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Pater in me manens ille facit opera; quando erg 
+      <lb ed="#B" n="62"/>Christus vento et mari imperat, dicens obmutesce 
+      <lb ed="#B" n="63"/>non abest ab eo Pater, sed in ipso et per ipsur 
+      <lb ed="#B" n="64"/>talia dicendo sive praecipiendo efficit, quemadmodum 
+      <lb ed="#B" n="65"/>in prima creatione in Filio et per Filium ventos e 
+      <lb ed="#B" n="66"/>mare creavit. Cum opera DEI ad extra, ut vocant 
+      <lb ed="#B" n="67"/>sint omnibus tribus personis communia, xml:ideo Pater 
+      <lb ed="#B" n="68"/>non alloquitur creaturas διχα τοῦ Λόγου nec 
+      agi<lb ed="#B" n="69" break="no"/>quicquam in creaturis sine eo, ac vice versa Λόγο¬ 
+      <lb ed="#B" n="70"/>non alloquitur creaturas sine Patre nec agit quicquam 
+      <lb ed="#B" n="71"/>in creaturis sine eo. Invertimus igitur argumentum 
+      <lb ed="#B" n="72"/>Qui cum imperio et divina prorsus auctoritate crea 
+      <lb ed="#B" n="73"/>turis potest praecipere, is easdem ab initio condidit 
+      <lb ed="#B" n="74"/>Filius hoc potest. Ergo. 3. Non potest fieri, ut in 
+      <lb ed="#B" n="75"/>verbis illis: Dixit Deus, fiat vel sit lux, verbum 
+      <lb ed="#B" n="76"/>dixit subsistens. aliquod per se verbum, eaxeque ips 
+      <lb ed="#B" n="77"/>Deo ab aeterno et necessario manans declaret, 
+      pe<lb ed="#B" n="78" break="no"/>quod scilicet lux creata fuerit. Nam si xml:id declara 
+      <lb ed="#B" n="79"/>ret, sine dubio verbum istud vel ipsum dicere esset. 
+      <lb ed="#B" n="80"/>vel xml:id quod dicitur. Id quod dicitur, nullo pacto 
+      <lb ed="#B" n="81"/>esse potest, nisi velimus aeternum Dei verbum esse 
+      <lb ed="#B" n="82"/>voces illas, fiat lux, fiat firmamentum, ipsum dicere 
+      <lb ed="#B" n="83"/>similiter esse nequit, alioqui verbum DEI aeternum 
+      <lb ed="#B" n="84"/>modo esset, modo non esset, quo nihil potest exco 
+      <lb ed="#B" n="85"/>gitari absurdius, patet enim ex ipsa Moysis narro 
+      <lb ed="#B" n="86"/>tione, Deum non semper dixisse, sed et dicere coe 
+      <lb ed="#B" n="87"/>pisse et dicere desiisse, p. 107. Resp. est 
+      insuffi<lb ed="#B" n="88" break="no"/>ciens enumeratio. Omittitur enim principalis signi 
+      <lb ed="#B" n="89"/>ficatio, qua verbum accipitur pro Λόγῳ ὑποσιατικῷ, 
+      <lb ed="#B" n="90"/>qui erat in illo dicendi et praecipiendi verbo nρc 
+      <lb ed="#B" n="91"/>ρορικῷ atque externo. In creaturis intelligentibus 
+      <lb ed="#B" n="92"/>verbum externum non est absque interno, λόγος ἔσς 
+      <lb ed="#B" n="93"/>praerequirit λόγον ἔξω, verbum προφορικόν praesuj 
+      <lb ed="#B" n="94"/>ponit verbum ἐνδιάθετον, eequis igitur creatori sa 
+      <lb ed="#B" n="95"/>pientissimo verbum externum et προφορικόν absque 
+      <lb ed="#B" n="96"/>interno et aeterno tribuet? Quamvis ergo in tempore 
+      <lb ed="#B" n="97"/>Deus dixerit, fiat lux, et dicendo omnia creaverit 
+      <lb ed="#B" n="98"/>tamen ab aeterno verbum internum et hypostaticum 
+      <lb ed="#B" n="99"/>essentiae unitate sibi conjunctum habuit, quod i 
+      <lb ed="#B" n="100"/>externo dicendi verbo in tempore prolato inerat 
+      <lb ed="#B" n="101"/>4. non sufficit, verisimile fecisse aut etiam 
+      plan<lb ed="#B" n="102" break="no"/>probasse, Dei esse Verbum quoddam aeternum, 
+      <lb ed="#B" n="103"/>itemque Spiritum, nisi simul probetur, Verbum istus 
+      <lb ed="#B" n="104"/>istumque Spiritum esse personas ac Dominum nostrum 
+      <lb ed="#B" n="105"/>Jesum Christum esse illud Verbum. Resp. xml:id ver 
+      <lb ed="#B" n="106"/>clarissime docet Johann. e. 1., ut suo loco pleniu 
+      <lb ed="#B" n="107"/>pstenditur; de Spiritu s. ibidem v. 2. dicitur: 
+      Spir<lb ed="#B" n="108" break="no"/>tus Domini incubabat aquis. Cajetanus accipit 
+      de<lb ed="#B" n="109" break="no"/>Dei angelo movente se super aquas, hoc est, tor 
+      <lb ed="#B" n="110"/>quente primum mobile, cujus motu aquae et 
+      in<lb ed="#B" n="111" break="no"/>feriora vivificarentur. Rabbini de vento. Goslaviu 
+      <lb ed="#B" n="112"/>tidem de vento intelligit. Franc. Vallesius de ign 
+      <lb ed="#B" n="113"/>elementari in sacra Philosop. p. 28. (Luther. tom. 4. 
+      <lb ed="#B" n="114"/>in Genes. p. 4. de vento exponit, sed postea mutavit 
+      <lb ed="#B" n="115"/>sententiam.) Photiniani ut et Calvinus de virtut 
+      <lb ed="#B" n="116"/>Dei intelligunt, nostri de Spiritu s., tertia deitatis 
+      <lb ed="#B" n="117"/>personi 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1683">
+               <lb ed="#B" n="118"/>124. Hanc postremam expositionem confirmamus 
+      <lb ed="#B" n="119"/>I. ex appellatione. Dicitur Spiritus Elohim Patris 
+      e<lb ed="#B" n="120" break="no"/>Filii, quia a Patre et Filio procedit, quo referantu 
+      <!--497.xml-->
+      <pb ed="#B" n="424"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>dicta Scripturae reliqua, quae Spiritum s. voeant 
+      <lb ed="#B" n="2"/>Spiritum Patris Matth. 10, v. 20. Spiritum Fili 
+      <lb ed="#B" n="3"/>Galat. 4. v. 6. Spiritum Dei Matth. 3, v. 16. etc. 
+      <lb ed="#B" n="4"/>2. ex attributione. Spiritus Domini D21777 fere 
+      <lb ed="#B" n="5"/>batur super aquas frlo movit, agitavit se, Deutes 
+      <lb ed="#B" n="6"/>32, v. 11: Syris est, ovis incubuit, confovit more 
+      <lb ed="#B" n="7"/>avium, complexus est amore, misericordia. Basilius 
+      <lb ed="#B" n="8"/>in hexaëm. homil. 2. in prine. ex Syro quodam se 
+      <lb ed="#B" n="9"/>accepisse tradit vocem hic positam significare xml:idem 
+      <lb ed="#B" n="10"/>quod fovere vitali calore instar gallinae ἐπφαζού 
+      <lb ed="#B" n="11"/>σης καὶ ζωτικ ν τινα δύναμιν ἐνιείσης τοῖς ὑποθαι 
+      <lb ed="#B" n="12"/>πομένοις, superferebatur vi quadam effectoria et 
+      fa<lb ed="#B" n="13" break="no"/>bricatoria, ut illud cui superfertur, efficiatur, 
+      sicu<lb ed="#B" n="14" break="no"/>superfertur voluntas artificis ligno vel cuique 
+      re<lb ed="#B" n="15" break="no"/>alii subjectae ad operandum, ait August. lib. de 
+      <lb ed="#B" n="16"/>Genes. ad lit. c. 4. Superferri dicitur spiritus De 
+      <lb ed="#B" n="17"/>mini aquis non pervagatione sed potestate, non 
+      lo<lb ed="#B" n="18" break="no"/>caliter sed potentialiter, non per spatia locorum 
+      <lb ed="#B" n="19"/>sicut terrae sol superfertur, sed per potentiam 
+      subli<lb ed="#B" n="20" break="no"/>mitatis, inquit Eucherius in h. I.; 3. ex descriptione 
+      <lb ed="#B" n="21"/>Spiritus quando pro vento ponitur, violentum 
+      qui<lb ed="#B" n="22" break="no"/>significat, additum nomen Domini rei magnitudinem 
+      <lb ed="#B" n="23"/>declarat, ut montes Dei, cedri Dei 1. Sam. 14. v. 16. 
+      <lb ed="#B" n="24"/>Psalm. 36, v. 7. Psalm. 65, v. 10. Psalm. 80, v. 11. 
+      <lb ed="#B" n="25"/>Jerem. 2. v. 31. Jon. 3, v. 3. Sic ergo significare 
+      <lb ed="#B" n="26"/>tur ventus violentissimus, qui, cum impetu feratur 
+      <lb ed="#B" n="27"/>non potuisset superincubare. Wolffg. Capito in e. . 
+      <lb ed="#B" n="28"/>Gen.; 4. ex participii usurpatione. Moyses de hoc 
+      <lb ed="#B" n="29"/>Spiritu loquitur per participium Benoni nori 
+      <lb ed="#B" n="30"/>igitans vel incubans sive agitator seu incubato 
+      <lb ed="#B" n="31"/>super faciem aquae, xml:id quod personam Spiritus s 
+      <lb ed="#B" n="32"/>innuit; 4. ex temporis consideratione. Ventus prime 
+      <lb ed="#B" n="33"/>illo die nondum erat, ergo de vento intelligi nequi 
+      <lb ed="#B" n="34"/>Luther. in not. Ventus est aëris agitatio, at aër ante 
+      <lb ed="#B" n="35"/>secundum diem non exstitit, sed nec ventus ullum 
+      <lb ed="#B" n="36"/>ante segregationem totius molis usum habuisset 
+      <lb ed="#B" n="37"/>6. ex aliorum Scripturae locorum collatione, in 
+      <lb ed="#B" n="38"/>quibus Spiritui s. opus creationis tribuitur, de qui 
+      <lb ed="#B" n="39"/>bus postea; 7. ex operis divini attributione. Moyse 
+      <lb ed="#B" n="40"/>loquitur de creatione et sustentatione molis prime 
+      <lb ed="#B" n="41"/>geniae. Ea vero non convenit virtuti creatae, sed 
+      <lb ed="#B" n="42"/>soli Deo; 8. ex Chaldaicae paraphraseos testifico 
+      <lb ed="#B" n="43"/>tione. Targum Hierosolymitanum, Sm1171177 
+      Spir<lb ed="#B" n="44" break="no"/>tus misericordiarum sive gratiae flabat super facies 
+      <lb ed="#B" n="45"/>aquarum; 9. ex interpretum consensione. Burgen 
+      <lb ed="#B" n="46"/>sis notat, antiquiores Rabbinos diserte de Spiritu? 
+      <lb ed="#B" n="47"/>hunc locum exposuisse. Christianorum interpretum 
+      <lb ed="#B" n="48"/>ea est consentiens interpretatio. Orig. 1. περὶ ἀρχ 
+      <lb ed="#B" n="49"/>cap. 5. Basil. homil. 2. hexaëm. p. 35. Cyrill. lib. I. 
+      <lb ed="#B" n="50"/>contra Julian. August. 13. Conf. c. 4. lib. 8. de 
+      <lb ed="#B" n="51"/>civit. Dei c. 11. Ambros. lib. 1. hexaëm. c. 8 
+      <lb ed="#B" n="52"/>Glossa ordinaria ex Hieronymo: Merachepeth est 
+      <lb ed="#B" n="53"/>incubabat seu confovebat in similitudinem volucri 
+      <lb ed="#B" n="54"/>ova calore animantis, ex quo intelligitur non de 
+      <lb ed="#B" n="55"/>spiritu mundi dici, ut nonnulli arbitrantur, sed d 
+      <lb ed="#B" n="56"/>Spiritu s., qui et ipse vivificator omnium a princi 
+      <lb ed="#B" n="57"/>pio. Si autem vivificator, consequenter et conditor 
+      <lb ed="#B" n="58"/>quodsi conditor et Deus. **Pererius in c. 1. 
+      Gen<lb ed="#B" n="59" break="no"/>n. 60: Libet explodere novam et mirabilem Caje 
+      <lb ed="#B" n="60"/>tani expocitionem, qui per opiritum intelligit ange¬ 
+      <!--497.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>los metaphorice. Eundem <name xml:id="zef3dd-d1e798-Nd1e1834">Cajetanum</name> reprehendit 
+      <lb ed="#B" n="62"/>Sixtus Senensis lib. 5. annot. 7. fol. 414. contr. 
+      <lb ed="#B" n="63"/>sanctorum sensum, contra pontificum decreta e 
+      <lb ed="#B" n="64"/>contra ecclesiae auctoritatem sentientem* 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1844">
+               <lb ed="#B" n="65"/>125. Excipit <name xml:id="zef3dd-d1e798-Nd1e1848">Goslavius</name> contra <name xml:id="zef3dd-d1e798-Nd1e1850">Keckerm</name>. p. 82: 
+      <lb ed="#B" n="66"/>l, Contrarium potius ex hoc loco colligi. Quod 
+      <lb ed="#B" n="67"/>enim est alicujus, non est illud ipsum, cujus est 
+      <lb ed="#B" n="68"/>propria locutione. At Spiritus s. dicitur spiritus 
+      <lb ed="#B" n="69"/>DEI et spiritus Domini. Ergo non est Deuo 
+      <lb ed="#B" n="70"/>Resp. 1. Spiritus Elohim potest etiam per apposi 
+      <lb ed="#B" n="71"/>tionem accipi, ut sit Spiritus Dominus, quia ὁ κύ¬ 
+      <lb ed="#B" n="72"/>ριος τὸ πνεῦμά ἐστιν 2. Cor. 3, v. 17; 2. nomen Dei 
+      <lb ed="#B" n="73"/>accipitur quandoque essentialiter, quandoque 
+      perso<lb ed="#B" n="74" break="no"/>naliter. Spiritus s. est Spiritus Dei scilicet Patris 
+      <lb ed="#B" n="75"/>et Filii, quia est ἐx τοῦ θεοῦ 1. Cor. 2, v. 12. a. 
+      <lb ed="#B" n="76"/>Patre et Filio ab aeterno procedens, et in tempore 
+      <lb ed="#B" n="77"/>ab illis missus, est etiam Spiritus Deus, qui 
+      essentia<lb ed="#B" n="78" break="no"/>initate Patri et Filio consubstantialis. Est xml:idem 
+      <lb ed="#B" n="79"/>argumentum, ac si quis velit dicere: Christus vo 
+      <lb ed="#B" n="80"/>catur Filius hominis, ergo non est homo. Notetur 
+      <lb ed="#B" n="81"/>hic regula theologica genetivus in sacris interdum diver 
+      <lb ed="#B" n="82"/>Jam notat substantiam, ubi res sunt finitae, interdun 
+      <lb ed="#B" n="83"/>aliam significat personam, cum subjectum est 
+      infini<lb ed="#B" n="84" break="no"/>tum. Prioris exemplum est, quando dicitur ventur 
+      <lb ed="#B" n="85"/>Domini; posterioris, quando dicitur spiritus Domini; 
+      <lb ed="#B" n="86"/>3. quod est alicujus scilicet ut pars ejus, illud non 
+      <lb ed="#B" n="87"/>est ipsum. Sed Spiritus s. non est pars quaedam 
+      <lb ed="#B" n="88"/>Dei vel essentiae divinae, cum ea sit numero una 
+      <lb ed="#B" n="89"/>infinita, simplicissima et indivisibilis tota in Patre 
+      <lb ed="#B" n="90"/>tota in Filio, tota in Spiritu, 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1907">
+               <lb ed="#B" n="91"/>126. 2. Non continuo de Spiritu s. agitur, quia 
+      <lb ed="#B" n="92"/>Spiritus Elohim dicitur, neque enim omnis spiritu 
+      <lb ed="#B" n="93"/>est statim Spiritus s. Resp. repetantur sententias 
+      <lb ed="#B" n="94"/>nostrae fundamenta et instituatur sufficiens 
+      enume<lb ed="#B" n="95" break="no"/>ratio reliquarum interpretationum textui minus 
+      con<lb ed="#B" n="96" break="no"/>gruentium. Ventum non posse intelligi, jam ante 
+      <lb ed="#B" n="97"/>demonstratum fuit. Cajetanus intelligit de angelo 
+      <lb ed="#B" n="98"/>motore. Atqui incertum est, an angeli jam tur 
+      <lb ed="#B" n="99"/>fuerint ante lucem conditi, ac moles illa primogenia 
+      <lb ed="#B" n="100"/>a Deo ipso sustentata tali motore non indigebat 
+      <lb ed="#B" n="101"/>Vallesius accipit de elemento ignis, at ille non 
+      tan<lb ed="#B" n="102" break="no"/>conservator quam destructor naturae censendus, 
+      se<lb ed="#B" n="103" break="no"/>necdum ignis elementaris erat conditus. Quidam 
+      <lb ed="#B" n="104"/>de aëre exponunt. At ille ante 3*p* secunda die 
+      <lb ed="#B" n="105"/>conditum nondum exstitit; 3. Socin. in defens 
+      <lb ed="#B" n="106"/>animadv. p. 110: fuit virtus et potentia Dei 
+      <lb ed="#B" n="107"/>non persona subsistens. Resp. tribuitur ei distineta 
+      <lb ed="#B" n="108"/>actio, vocatur notanter Spiritus oris Domini Psalm. 
+      <lb ed="#B" n="109"/>33, v. 6, ac Deus in creatione universi non indigui 
+      <lb ed="#B" n="110"/>virtute aliqua instrumentala 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1953">
+               <lb ed="#B" n="111"/>127. Atque haec de argumento ex 1. c. Genes. 
+      <lb ed="#B" n="112"/>licta sint, ad quod coronidis loco referri potest illi 
+      <lb ed="#B" n="113"/>observatio veterum, quam recenset B. Lutherus in 
+      <lb ed="#B" n="114"/>enarr. c. 1. Gen. Sancti patres (inquit), praesertim 
+      <lb ed="#B" n="115"/>Augustinus (lib. 11. de civit. c. 24.), observant, quod 
+      <lb ed="#B" n="116"/>Moyses his tribus verbis utitur. Deuo dixit, fecit 
+      <lb ed="#B" n="117"/>vidit, quasi hoc modo tres divinitatis personas volue 
+      <lb ed="#B" n="118"/>cit ostendere. Verbo dicit significatur Pater, ille 
+      <lb ed="#B" n="119"/>generat Filium Verbum ab aeterno, et in tempore 
+      <lb ed="#B" n="120"/>constituit per illud Verbum hunc mundum. Filii 
+      <!--498.xml-->
+      <pb ed="#B" n="425"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>personae accommodant verbum fecit, Filius enim in 
+      <lb ed="#B" n="2"/>se habet exemplar non solum majestatio divinae, 
+      se<lb ed="#B" n="3" break="no"/>etiam est exemplar rerum omnium, xml:ideo dat esse 
+      <lb ed="#B" n="4"/>rebus, et sicut a Patre res dicuntur, ita per Filium 
+      <lb ed="#B" n="5"/>et Verbum illud Patris res omnes subsistunt. 
+      Adjun<lb ed="#B" n="6" break="no"/>gitur autem illis tertia persona Spiritus s., qui res 
+      <lb ed="#B" n="7"/>creatas videt et probat. 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e1999">
+               <lb ed="#B" n="8"/>128. 2. Psalm. 33, v. 6: Verbo Domini coeli fir 
+      <lb ed="#B" n="9"/>mati sunt et spiritu oris omnis exercitus eorum. Ii 
+      <lb ed="#B" n="10"/>hoc dicto trium personarum diserta fit mentio ad 
+      <lb ed="#B" n="11"/>omnibus et singulis opus creationis tribuitur. 
+      Ca<lb ed="#B" n="12" break="no"/>vin. in comm. et in instit. lib. 1, c. 13. fol. 15. 
+      re<lb ed="#B" n="13" break="no"/>pudiat hoc argumentum, cujus vestigiis insistens So 
+      <lb ed="#B" n="14"/>cinus in defens. animadv. p. 103. sic disserit. 
+      <lb ed="#B" n="15"/>Verbum illud Dei, quo coeli facti sunt, nihil aliue 
+      <lb ed="#B" n="16"/>esse quam Dei voluntatem formatam, non aliquid 
+      <lb ed="#B" n="17"/>in ipso Deo cubeistens. P. 110: Spiritum oris xml:ider 
+      <lb ed="#B" n="18"/>significare, quod verbum, aut si aliud significat, De 
+      <lb ed="#B" n="19"/>virtutem ac potentiam, non autem quiddam per se 
+      <lb ed="#B" n="20"/>subeistens. ** (Cajetanus etiam Psalm. 33, v. 6. nega 
+      <lb ed="#B" n="21"/>de Spiritu s. intelligendum, sed Ambrosius Catha 
+      <lb ed="#B" n="22"/>rinus Compsae episc. eum perstringit, Sixt. Senens 
+      <lb ed="#B" n="23"/>lib. 5. Biblioth. annot. 168.)* Resp. 1. per verbum. 
+      <lb ed="#B" n="24"/>intelligi Filium Dei, ostendunt argumenta superiu 
+      <lb ed="#B" n="25"/>adducta et probat evidenter Johannes Λόγου appel 
+      <lb ed="#B" n="26"/>lationem Filio tribuens. Quod Socinus addit, Filius 
+      <lb ed="#B" n="27"/>dici Λόγον, quia voluntatem Dei nobis patefecit 
+      <lb ed="#B" n="28"/>ticut per hominis verbum, h. e. sermonem ejus vo 
+      <lb ed="#B" n="29"/>luntas cognoscitur p. 104. Id vere quidem dicitur 
+      <lb ed="#B" n="30"/>sed insufficienter, Filius enim Dei erat Aóyos in 
+      <lb ed="#B" n="31"/>prima omnium rerum creatione, imo ab aeterno 
+      <lb ed="#B" n="32"/>Vis veritatis adegit Socinum, ut scriberet p. 105. 
+      <lb ed="#B" n="33"/>non negaverimus, Johannem cum Christum sermonem 
+      <lb ed="#B" n="34"/>συ τὸν Λόγον appellavit, ad xml:id etiam respicer 
+      <lb ed="#B" n="35"/>potuisse, quod Dei verbo coelos factos fuisse scriptum 
+      <lb ed="#B" n="36"/>est Psalm. 33. v. 6. Atqui si Christus inde atque 
+      <lb ed="#B" n="37"/>ideo etiam Aόγος dicitur, quia per ipsum coeli 
+      sun<lb ed="#B" n="38" break="no"/>facti, utique non tantum ratione manifestationis di 
+      <lb ed="#B" n="39"/>vinae voluntatis sic appellatur, sed etiam quia per 
+      <lb ed="#B" n="40"/>hunc Aόγον omnia sunt creata. (Regerit quidem 
+      <lb ed="#B" n="41"/>Socinus p. 106. dici Λόγον non quia coeli ac terro 
+      <lb ed="#B" n="42"/>ista per Christum sint facta, sed quia novi illi 
+      coel<lb ed="#B" n="43" break="no"/>novaque terra, quos olim per Esaiam se 
+      con<lb ed="#B" n="44" break="no"/>diturum Deus praedixerat, per ipsum eint condit 
+      <lb ed="#B" n="45"/>eodemque nomine libenter eum appellare potuiss 
+      <lb ed="#B" n="46"/>Johannem, per quem novus mundus factus est, quo 
+      <lb ed="#B" n="47"/>id appellatum est, per quod vetus mundus factu 
+      <lb ed="#B" n="48"/>legitur. At quilibet videt hanc glossam esse vio 
+      <lb ed="#B" n="49"/>lentam. Nam nec Psaltes nec Johannes de nov 
+      <lb ed="#B" n="50"/>illa creatione adhuc in vita aeterna exspectanda 
+      <lb ed="#B" n="51"/>sed de prima omnium rerum creatione jamdum 
+      <lb ed="#B" n="52"/>facta loquuntur. 2. Spiritus a verbo distinguitu 
+      <lb ed="#B" n="53"/>ideo verisimile non est, unam eandemque personam 
+      <lb ed="#B" n="54"/>utroque nomine intelligi. 3. Notanter dicitur 
+      Spi<lb ed="#B" n="55" break="no"/>ritus oris Domini, quia scilicet ex intimo ore 
+      divi<lb ed="#B" n="56" break="no"/>nae essentiae a Patre et Filio ab aeterno spiratur 
+      <lb ed="#B" n="57"/>4. Conferenda sunt reliqua scripturae dicta, qua 
+      <lb ed="#B" n="58"/>Filio et Spiritui s. opus creationis distincte tribu 
+      <lb ed="#B" n="59"/>unt. 5. Si Spiritu Dei exercitum coelorum factum 
+      <lb ed="#B" n="60"/>esse hunc sensum habet, potentia et virtute Dei 
+      <!--498.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>omnia esse facta, utique etiam verbo Dei coelos ess 
+      <lb ed="#B" n="62"/>factos eundem sensum habebit, cum ἰσοδυναμοῦσα 
+      <lb ed="#B" n="63"/>esse has appellationes Socinus statuit. At posterius 
+      <lb ed="#B" n="64"/>diserte negat, sic enim scribit p. 110: Eutropius e 
+      <lb ed="#B" n="65"/>qui cum eo sentiunt, turpi figurae dictionis fallacio 
+      <lb ed="#B" n="66"/>decepti sunt, cum verba illa: Verbo Domini coele 
+      <lb ed="#B" n="67"/>facti sunt, perinde acceperunt, quasi vox verbo eo 
+      <lb ed="#B" n="68"/>lem sensu posita fuerit, quo v. q. vox potentio 
+      <lb ed="#B" n="69"/>Domini coeli facti sunt, ut scilicet mediam quandam 
+      <lb ed="#B" n="70"/>causam efficientem significet, non autem in efficiendo 
+      <lb ed="#B" n="71"/>quandam rationem seu modum, ut sine dubio signi 
+      <lb ed="#B" n="72"/>ficat, nempe DEUM decrevisse tantum, ut 
+      coel<lb ed="#B" n="73" break="no"/>fierent et statim factos esse, non quidem videlices 
+      <lb ed="#B" n="74"/>ipso decreto ut media efficiente causa, sed vi ac 
+      po<lb ed="#B" n="75" break="no"/>entia ipsius Domini, quae media causa 
+      efficien<lb ed="#B" n="76" break="no"/>fuit; 6. ipsimet Rabbini antiquiores mysterium 
+      tri<lb ed="#B" n="77" break="no"/>nitatis hic agnoscunt referente Galatino lib. 2. de 
+      <lb ed="#B" n="78"/>arc. c. 4. In expositione R. Moysis Hadarsan in 
+      <lb ed="#B" n="79"/>librum Geneseos super illud 42. c. Joseph ips 
+      <lb ed="#B" n="80"/>potens super terram, ita legitur R. Eleazar dixisse: 
+      <lb ed="#B" n="81"/>Non est creatus mundus nisi verbo Dei sancti e 
+      <lb ed="#B" n="82"/>benedicti, sicut dictum est Psalm. 33: Verbo 
+      Do<lb ed="#B" n="83" break="no"/>mini coeli facti sunt, ubi et R. Simeon dicit, 
+      spira<lb ed="#B" n="84" break="no"/>vit Deus spiritum oria sui, et creatus est mundus. 
+      <lb ed="#B" n="85"/>sicut dictum est Psalm. 33. et spiritu oris ejus 
+      <lb ed="#B" n="86"/>omnis exercitus eorum, in quibus hi tres, Deus. 
+      <lb ed="#B" n="87"/>Verbum ejus et Spiritus distinete in mundi 
+      produ<lb ed="#B" n="88" break="no"/>etione concurrisse ponuntur 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e2182">
+               <lb ed="#B" n="89"/>129. Ad posteriorem classem pertinent dicta 
+      <lb ed="#B" n="90"/>quae 1. de Filio; 2. de Spiritu s. distincte agunt 
+      <lb ed="#B" n="91"/>ac creationis opus utrique tribuunt. De Filio haec 
+      <lb ed="#B" n="92"/>habentur 1. Proverb. 8, v. 22. Sapientiae Dei 
+      tri<lb ed="#B" n="93" break="no"/>buitur 1. aeternitas; 2. opus creationis; 3. 
+      filiatio<lb ed="#B" n="94" break="no"/>4. personalis subsistentia; 5. a Patre distinctio 
+      <lb ed="#B" n="95"/>2322 *717) Dominus possedit vel acquisivit me 
+      <lb ed="#B" n="96"/>Pap inter caetera significat generatione acquirere 
+      <lb ed="#B" n="97"/>Genes. 4. v. 2. Zachar. 13, v. 5, ubi LXX 
+      verte<lb ed="#B" n="98" break="no"/>runt ἐγέννησέμε. Chaldaeus Proverb. 8, v. 22. red 
+      <lb ed="#B" n="99"/>lidit *2N22, LXX kxτισε, condidit, ex quo Arius 
+      <lb ed="#B" n="100"/>Christum vocavit κτίσμα, sed Chaldaeis c2 etiam 
+      <lb ed="#B" n="101"/>de generatione dicitur Job. 3, v. 3. ac apud Grae. 
+      <lb ed="#B" n="102"/>eos pro ἔκτισε legendum ἔκτησε Aquil. ἐκτήσατο, quo 
+      <lb ed="#B" n="103"/>modo alibi reddiderunt) 1277 æVN principium 
+      <lb ed="#B" n="104"/>viae auae. Aben Ezra: principium intentionis suae, 
+      <lb ed="#B" n="105"/>quod late patet, ut haec sapientia ipsis decretis 
+      De<lb ed="#B" n="106" break="no"/>aeternis sit coaeva. Mercerus de omni aeternitate 
+      <lb ed="#B" n="107"/>exponit, nos sic progredimur: Via Dei est 
+      opu<lb ed="#B" n="108" break="no"/>DEI ac in specie de creationis opere usurpatu 
+      <lb ed="#B" n="109"/>Deut. 32. v. 4. Jobi 40, v. 14. Esa. 55, v. 8. Rom. 
+      <lb ed="#B" n="110"/>11, v. 33. Sapientia igitur seu Filius Dei dicitu 
+      <lb ed="#B" n="111"/>principium viae Domini, hoc est, creationis, non 
+      <lb ed="#B" n="112"/>materiale, quo sensu usurpatur Job. 40, v. 14, sed 
+      <lb ed="#B" n="113"/>effectivum, ut ex sequentibus intelligitur, quo senst 
+      <lb ed="#B" n="114"/>etiam in N. T. Filius dicitur Col. 1, v. 15. πρωτό¬ 
+      <lb ed="#B" n="115"/>τοκος πάσης κτίσεως. Apoc. 3, v. 14. ἡ ἀρχὴ τῆς κrί. 
+      <lb ed="#B" n="116"/>σεως τοῦ θεοῦ, a quo omnis creatura habet princi 
+      <lb ed="#B" n="117"/>pium. Quod si cum praecedentibus conjungere velis 
+      <lb ed="#B" n="118"/>erit ellipsis praepositionis 2: Dominus possidet me in 
+      <lb ed="#B" n="119"/>principio viae euae, hoc est, cum omnia in principio 
+      <lb ed="#B" n="120"/>temporis condere inciperet, sicque verba illa Salo 
+      <!--499.xml-->
+      <pb ed="#B" n="426"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>monis exactissime consentient cum verbis Johannis 
+      <lb ed="#B" n="2"/>2. 1, v. 1: In principio erat ὁ Λόγος et ὁ Λόγο 
+      <lb ed="#B" n="3"/>erat opud Deum, omnia per ipsum facta sunt, 
+      <lb ed="#B" n="4"/>127– 772292 SD ante opera sua ex tunc. Ii. 
+      <lb ed="#B" n="5"/>Hebr. deficit praefixum 2 in anteitate operum suo 
+      <lb ed="#B" n="6"/>rum, hoc est, antequam operaretur sive crearet 
+      mur<lb ed="#B" n="7" break="no"/>dum, ut ex sequentibus intelligitur, ex tunc, hoc est 
+      <lb ed="#B" n="8"/>jam tunc sive ante ullum tempus eram. Aquil. ἐκτήσαν 
+      <lb ed="#B" n="9"/>με ἀρχῆθεν κατεργασμάτων αὐτοῦ. Theodot. πρ 
+      <lb ed="#B" n="10"/>τῆς ἔργασίας αὐτοῦ ἀπὸ τότε. Psalm. 93, v. 5 
+      <lb ed="#B" n="11"/>(*72 exponitur C21373, ab aeterno (sicut etiam hoc 
+      <lb ed="#B" n="12"/>loco statim subjungitur) v. 23. EN7 1202 25577. 
+      <lb ed="#B" n="13"/>77– 727127 a seculo sive ante seculum, hoc est 
+      <lb ed="#B" n="14"/>ab aeterno principatum habui, ad verbum injuncto 
+      <lb ed="#B" n="15"/>perfusa fui scilicet in regem et gubernatorem, quis 
+      <lb ed="#B" n="16"/>reges oleo ungi solebant, a capite, hoc est, a prin 
+      <lb ed="#B" n="17"/>cipio sive ante principium mundi seu rerum creata 
+      <lb ed="#B" n="18"/>rum ante primordia terrae (ad verbum ab anteitati 
+      <lb ed="#B" n="19"/>bus terrae, hoc est, antequam creata esset 
+      <lb ed="#B" n="20"/>terra, ut in sequentibus exponitur) vers. 24. 78. 
+      <lb ed="#B" n="21"/>DI in non voragines, subintellige DPr, cum 
+      <lb ed="#B" n="22"/>nondum essent abyssi, adhuc non erant 
+      abyssi<lb ed="#B" n="23" break="no"/>1752 genita, nata eram, rad. 52i7ι peperit, 
+      ge<lb ed="#B" n="24" break="no"/>nuit Psalm. 51, v. 7. cum nondum fontes graves 
+      seu<lb ed="#B" n="25" break="no"/>pleni et abundantes aquis. v. 25. 26. 27. 28. et 25 
+      <lb ed="#B" n="26"/>Per insignem ἐπιμονὴν et miram verborum copiam 
+      <lb ed="#B" n="27"/>sapientia illa ante mundi creationem sese exstitisse 
+      <lb ed="#B" n="28"/>docet ac v. 30. addit 77n&amp; ix&amp; 7 et eram 
+      <lb ed="#B" n="29"/>apud eum artifex LXΧ ἀρμόζουσα. Aquil. τι8. 
+      <lb ed="#B" n="30"/>νουμένη. Symm. et Theod. ἐστηριγμένη. Targ. 
+      <lb ed="#B" n="31"/>2737 fidelis. Mercerus exponit alumnus par 
+      <lb ed="#B" n="32"/>sive, quo modo usurpatur plurale Thren. 4, v. 5. 
+      <lb ed="#B" n="33"/>R. Salomon educata cum eo apud illum. Vulg. 
+      ar<lb ed="#B" n="34" break="no"/>tifex, tanquam opifex cuncta componens. R. Lev 
+      <lb ed="#B" n="35"/>active nutrix nutricius omnia alens, dirigens et guber 
+      <lb ed="#B" n="36"/>nans. Aben Ezra accepit substantivo 77282 
+      ho<lb ed="#B" n="37" break="no"/>est*122N2 in nutricationem Esth. 2, v. 20. Rad 
+      <lb ed="#B" n="38"/>tt atabilis, firmus fuit, inde J72&amp; opifex in arte 
+      <lb ed="#B" n="39"/>sua excellens Jerem. 46, v. 25. pro artifice 
+      usurpa<lb ed="#B" n="40" break="no"/>tur, et 727&amp; nutritius, altor, nota igitur hoc loc 
+      <lb ed="#B" n="41"/>exprimi personalem distinctionem, perinde ut Joh: in 
+      <lb ed="#B" n="42"/>v. 1: O Λόγος ὴν πρὸς τὸν θεόν) et eram deliciae 
+      <lb ed="#B" n="43"/>quotidie ludens coram eo omni tempore. v. 33. 
+      <lb ed="#B" n="44"/>ludebam in orbe terrae ejus et delectationes meae 
+      <lb ed="#B" n="45"/>cum filiis hominum. (Sicut pueri ludentes sunt de 
+      <lb ed="#B" n="46"/>liciae parentum, sic sapientia sive Dei Filius est de 
+      <lb ed="#B" n="47"/>liciae Patris coelestis, ludit etiam in orbe terrarum 
+      <lb ed="#B" n="48"/>mirandis operibus et effectis, ac deliciae ejus 
+      cum<lb ed="#B" n="49" break="no"/>filiis hominum, unde etiam in temporis plenitudin 
+      <lb ed="#B" n="50"/>humanam naturam assumsit.) Confero cum hoc c. 8 
+      <lb ed="#B" n="51"/>Prov. etiam reliqua Scripturae dicta, in quibus ss 
+      <lb ed="#B" n="52"/>pientiae divinae creatio tribuitur, Prov. 3, v. 19: 
+      <lb ed="#B" n="53"/>Dominus *2Z in sapientia fundavit terram 
+      <lb ed="#B" n="54"/>stabilivit coelos in intelligentia. v. 20: Per sapien 
+      <lb ed="#B" n="55"/>tiam ejus divinae eunt abjssi et nubes rore stillam 
+      <lb ed="#B" n="56"/>tes factae. Psalm. 104, v. 24: Omnia in sapientio 
+      <lb ed="#B" n="57"/>fecisti. Jerem. 10, v. 12: Deus eat, qui stabilius 
+      <lb ed="#B" n="58"/>orbem in sapientia aua et in prudentia sua extendi 
+      <lb ed="#B" n="59"/>coelos. C. 51, v. 15: firmavit orbem in sapientis 
+      <lb ed="#B" n="60"/>qua et in prudentia sua extendit coelos. Sap. 9, v. 2: 
+      <!--499.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>τῇ σοφίᾳ σου κατεσκεύασας τὸν ἄνθρωπον. Hanc 
+      <lb ed="#B" n="62"/>sapientiam esse ὑποστατικὴν secundam deitatis 
+      per<lb ed="#B" n="63" break="no"/>sonam, Filium Patris unigenitum constat non solum! 
+      <lb ed="#B" n="64"/>XN. T. Matth. 1I, v. 19. Luc. 7, v. 35. c. 11, v. 49. 
+      <lb ed="#B" n="65"/>1. Cor. 1, v. 24. Coloss. 2, v. 3, sed etiam ex Prov. 
+      <lb ed="#B" n="66"/>8., ubi ut distincta a Patre persona ante mundi crea 
+      <lb ed="#B" n="67"/>tionem, hoc est, ab aeterno ab ipso genita nobi 
+      <lb ed="#B" n="68"/>proponitur, et ex Psalm. 2. v. 7. Prov. 30, v. 4, ubi. 
+      <lb ed="#B" n="69"/>haec sapientia Dei Filius appellatur 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e2414">
+               <lb ed="#B" n="70"/>130. Excipit Socinus in animadv. ad assert. 2. 
+      <lb ed="#B" n="71"/>p. 33. et in defens. animadvers. c. 7. p. 204: 1. So. 
+      <lb ed="#B" n="72"/>pientiam, de qua loquitur Salomon, nunquam ap 
+      <lb ed="#B" n="73"/>pellari sapientiam Dei, sed capientiam eimpliciter 
+      <lb ed="#B" n="74"/>Christum vero Dei sapientiam vocari. Resp. 
+      inan<lb ed="#B" n="75" break="no"/>subterfugium. Non creatae alicui, sed increatae et 
+      <lb ed="#B" n="76"/>divinae sapientiae praedicata illa conveniunt, quae 
+      <lb ed="#B" n="77"/>a Salomone ei attribuuntur, sapientia a Deo genita 
+      <lb ed="#B" n="78"/>est omnino Dei sapientia. At Salomon loquitur de 
+      <lb ed="#B" n="79"/>sapientia a Deo genita. Ergo. Ipsa etiam vis 
+      re<lb ed="#B" n="80" break="no"/>lativi, Deus stabilivit orbem in sua sapientia mani 
+      <lb ed="#B" n="81"/>feste ostendit, non de alia quam de Dei sapientis 
+      <lb ed="#B" n="82"/>totum hoc intelligi posse. 2. Per eandem sapientiam 
+      <lb ed="#B" n="83"/>et reges reqnare et principes justitiam decernere 
+      <lb ed="#B" n="84"/>1. 13. dixerat. Ergo non loquitur de aliqua sa 
+      <lb ed="#B" n="85"/>pientia Dei propria. Resp. Invertimus argumentum. 
+      <lb ed="#B" n="86"/>Causa non est deterior suo effecto. Sed reges ac 
+      <lb ed="#B" n="87"/>principes ut personae subsistentes per hanc sapien 
+      <lb ed="#B" n="88"/>tiam regnant. Ergo et ipsa est per se subsistens 
+      <lb ed="#B" n="89"/>persona. Notandum vero, quod per sapientiam illam 
+      <lb ed="#B" n="90"/>reges dicuntur regnare non formaliter sed 
+      efficien<lb ed="#B" n="91" break="no"/>ter, ergo non intelligitur sapientia illa, quae est 
+      <lb ed="#B" n="92"/>qualitas sive habitus in animis regum, sed increata 
+      <lb ed="#B" n="93"/>illa sapientia, quae qualitatem illam efficit, 
+      qua<lb ed="#B" n="94" break="no"/>regna distribuit et ordinat. Idem omnino dicit Sa 
+      <lb ed="#B" n="95"/>omon, quod Daniel c. 2, v. 20: Dei est sapientio 
+      <lb ed="#B" n="96"/>et fortitudo. v. 21. ipse removet reges et stare 
+      <lb ed="#B" n="97"/>facit reges, dans sapientiam sapientibus et scientiam 
+      <lb ed="#B" n="98"/>intelligenti disciplinam, quod apostolus Rom. 13, v. 1. 
+      <lb ed="#B" n="99"/>Non est potestas nisi a Deo. Eccles. I, V. 1: Omnis 
+      <lb ed="#B" n="100"/>sapientia a Domino et cum illo est in seculum. Nec 
+      <lb ed="#B" n="101"/>mysterio caret, quod increata et hypostatica illa Dei 
+      <lb ed="#B" n="102"/>sapientia imperiorum constitutionem et conservationem 
+      <lb ed="#B" n="103"/>sibi tribuit, quia propter Filium mediatorem, qui es 
+      <lb ed="#B" n="104"/>illa sapientia, non tantum spiritualia et aeterna, sed 
+      <lb ed="#B" n="105"/>etiam temporalia ac corporalia beneficia generi 
+      hu<lb ed="#B" n="106" break="no"/>mano sunt reddita, inter quae eminet magistratu 
+      <lb ed="#B" n="107"/>constitutio et conservatio. 3. Qui non videt, 
+      Salo<lb ed="#B" n="108" break="no"/>monem per prosopopoeiam de sapientia in genere 
+      <lb ed="#B" n="109"/>et in abstracto loqui, quae nullo modo Christus 
+      ess<lb ed="#B" n="110" break="no"/>potest, is per multa, quae in eo capite et aeq scripto 
+      <lb ed="#B" n="111"/>runt, parum attente legit. Resp. imo vero adversari. 
+      <lb ed="#B" n="112"/>intelligendo faciunt, ut nihil intelligant. Salomon et 
+      <lb ed="#B" n="113"/>creationis opus et aeternitatem et personalitatem e 
+      <lb ed="#B" n="114"/>ex Deo nativitatem sapientiae illi tribuit, ut 
+      osten<lb ed="#B" n="115" break="no"/>dimus, quae omnia simul sumta nemini nisi aetern. 
+      <lb ed="#B" n="116"/>Patris Filio convenire possunt; 1. sapientia asscribi 
+      <lb ed="#B" n="117"/>sibi consilium, robur et prudentiam v. 14, at hac 
+      <lb ed="#B" n="118"/>sunt proprietates ὑποστάσει λογικῇ convenientes; 
+      <lb ed="#B" n="119"/>2. 7ciari9 ait v. 14. mihi exsistentia; 8. dicitu 
+      <lb ed="#B" n="120"/>amantes redamare v. 17; 4. dicitur concepta. genita¬ 
+      <!--500.xml-->
+      <pb ed="#B" n="427"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>nata v. 24, at hoc hypostaseos proprium Psalm. 51. 
+      <lb ed="#B" n="2"/>v. 7. Job. 45. etc.; 5. dicit v. 27. 28  Ego 
+      <lb ed="#B" n="3"/>eram ibi; 6. dicit se ludere coram DEO in orbi 
+      <lb ed="#B" n="4"/>terrarum, deliciae ejus cum filiis hominum v. 30. 
+      <lb ed="#B" n="5"/>Quis non agnoscit haec esse attributa rei per s 
+      <lb ed="#B" n="6"/>subsistentis sive personae. Prosopopoeian quandam 
+      <lb ed="#B" n="7"/>hic agnoscendam esse nondum fuit a Socino proba 
+      <lb ed="#B" n="8"/>tum, quod verborum Salomonis hunc dicit ese 
+      <lb ed="#B" n="9"/>scopum ac sensum, Dominum omnia sapienter 
+      fe<lb ed="#B" n="10" break="no"/>cisse, xml:id vere quidem dicitur, sed insufficienter, non 
+      <lb ed="#B" n="11"/>enim in opere creationis primum haec sapientia 
+      di<lb ed="#B" n="12" break="no"/>citur operata fuisse, sed etiam ante creationis 
+      opu<lb ed="#B" n="13" break="no"/>exstitisse, utique apud Deum, quia ante creationem 
+      <lb ed="#B" n="14"/>nihil quicquam fuit, nisi Deus, τῆς θεότητος καὶ κτ 
+      <lb ed="#B" n="15"/>σεως οὐδὲν μέσον ἂν εἴη ait Just. in ἐκθ. π. p. 304. 
+      <lb ed="#B" n="16"/>4. Cum sapientia illa, de qua Salomon loquitur. 
+      <lb ed="#B" n="17"/>in Deo sit, deque illius natura et essentia, sequetus 
+      <lb ed="#B" n="18"/>Deum praeter suam ipsius personam aliam quoque 
+      <lb ed="#B" n="19"/>habere personam, quod non modo absurdum es 
+      <lb ed="#B" n="20"/>sed plane impossibile est, manifestam enim implica 
+      <lb ed="#B" n="21"/>contradictionem. Nam persona, quam quis habet 
+      <lb ed="#B" n="22"/>omnino sui ipsius, qui eam habet, persona ext. A 
+      <lb ed="#B" n="23"/>si eam praeter suam ipsius personam habet, jar 
+      <lb ed="#B" n="24"/>sua ipsius persona non est. Resp. nomen Dei ad 
+      <lb ed="#B" n="25"/>cipitur vel personaliter vel essentialiter. Si perso 
+      <lb ed="#B" n="26"/>naliter nomen Dei accipitur, negamus Deum, 
+      ho<lb ed="#B" n="27" break="no"/>est, unam personam trinitatis habere aliam personam 
+      <lb ed="#B" n="28"/>praeter suam ipsius personam. Si essentialiter ac 
+      <lb ed="#B" n="29"/>cipitur, utique deitas seu divina essentia habet plure 
+      <lb ed="#B" n="30"/>personas, hoc est, pluribus personis, nimirum tribu 
+      <lb ed="#B" n="31"/>est communis, vel quod xml:idem est, in una divins 
+      <lb ed="#B" n="32"/>essentia sunt plures personae, xml:id quod nullam in 
+      <lb ed="#B" n="33"/>plicat contradictionem nisi in judicio corruptae 
+      ra<lb ed="#B" n="34" break="no"/>tionis, cui de mysteriis illis potestas κριτικὴ minimo 
+      <lb ed="#B" n="35"/>omnium competit. Regerit haereticus, quemlibe 
+      <lb ed="#B" n="36"/>audacter negare posse, quod DEI nomine una es 
+      <lb ed="#B" n="37"/>divinitatis personis, nempe Pater intelligatur, cum 
+      <lb ed="#B" n="38"/>in eo triplexe petitio principii insit, videlicet et quod 
+      <lb ed="#B" n="39"/>plures sint divinitatis personae, et quod Dei simplico 
+      <lb ed="#B" n="40"/>utque absoluto nomine una tantum illarum intellio 
+      <lb ed="#B" n="41"/>possit, et denique quod hic certa quaedam ex illis 
+      <lb ed="#B" n="42"/>hoc est Pater, omnino intelligi debeat, in 
+      defen<lb ed="#B" n="43" break="no"/>animadvers. p. 205, sed hanc negandi audaciam in 
+      <lb ed="#B" n="44"/>fernali igne Deus aliquando coërcebit. Dei nomin 
+      <lb ed="#B" n="45"/>personaliter accepto, inde atque xml:ideo una deitatis per 
+      <lb ed="#B" n="46"/>sona intelligi potest ae debet, quia in qualibet per 
+      <lb ed="#B" n="47"/>sona est perfecta deitas, cum sit infinita et simpli 
+      <lb ed="#B" n="48"/>cissima, neque enim tres personae sunt tres deitati 
+      <lb ed="#B" n="49"/>partes, neque deitas in personas partibiliter est di 
+      <lb ed="#B" n="50"/>vixa, sed tota est in singulis, tota in omnibus. 5. S 
+      <lb ed="#B" n="51"/>Salomom de vera persona loqueretur, necesse esxset 
+      <lb ed="#B" n="52"/>istam personam jam tum populo universo fuisse 
+      co<lb ed="#B" n="53" break="no"/>qnitam, quod falsum, in defens. animadv. p. 216 
+      <lb ed="#B" n="54"/>Resp. eadem persona, quae in Chaldaica Biblio 
+      <lb ed="#B" n="55"/>rum versione dicitur Memrah, quae in Hebraeo 
+      <lb ed="#B" n="56"/>codice Dei Filius, angelus faciei, Mesxias 
+      pro<lb ed="#B" n="57" break="no"/>missus ete., dicitur hoc loco Dei sapientia. Jar 
+      <lb ed="#B" n="58"/>vero notum fuit populo Israëlitico, Memral 
+      <lb ed="#B" n="59"/>Dei Filium, angelum faciei, Messiam promissumm 
+      <lb ed="#B" n="60"/>esse distinctam a Deo Patre personam. 6. Salomo 
+      <!--500.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>non sapientiam tantum, sed una cum ipsa saepius 
+      <lb ed="#B" n="62"/>prudentiam sive intelligentiam vel etiam separatim 
+      <lb ed="#B" n="63"/>prudentiam et intelligentiam tanquam personas 
+      <lb ed="#B" n="64"/>quasdam nominat. Ibid. Resp. imo vero, ubi d 
+      <lb ed="#B" n="65"/>nypostatica illa Dei sapientia rerum omnium 
+      <lb ed="#B" n="66"/>creatrice loquitur, tantum sapientiae nomine utitur. 
+      <lb ed="#B" n="67"/>ac si vel maxime intelligentiae nomine uteretur. 
+      <lb ed="#B" n="68"/>sicut in aliis Scripturae dictis εn5r et einr in 
+      <lb ed="#B" n="69"/>descriptione creationis conjunguntur, potest illud d 
+      <lb ed="#B" n="70"/>hypostatica Dei sapientia, quae est Filius, hoc de 
+      <lb ed="#B" n="71"/>essentiali, quae Patri, Filio et Spiritui sancto 
+      com<lb ed="#B" n="72" break="no"/>munis est, sine ulla absurditate intelligi. 7. Salo 
+      <lb ed="#B" n="73"/>mon loquitur de sapientia in plurali mnzr; Prov. 
+      <lb ed="#B" n="74"/>3, v. 1. ac per antithesin mulierem quandam 
+      stul<lb ed="#B" n="75" break="no"/>tam inducit, xml:id est, fatuitatem et stultitiam 
+      pe<lb ed="#B" n="76" break="no"/>prosopopoelan loquentem facit p. 218. Resp. 
+      Fate<lb ed="#B" n="77" break="no"/>mur Salomonem quaedam de sapientia humana 
+      <lb ed="#B" n="78"/>quae est effectum et donum divinae, increatae et 
+      <lb ed="#B" n="79"/>hypostaticae illius sapientiae, de qua in c. 8. tractat. 
+      <lb ed="#B" n="80"/>proferre, sed ex eo inferri nequit, eum de hyposta 
+      <lb ed="#B" n="81"/>tica sapientia d. I. non agere, ecquid enim prohibet. 
+      <lb ed="#B" n="82"/>quominus a causa ad effectum et ab effecto ad 
+      <lb ed="#B" n="83"/>causam in tractatione quis progrediatur? Ex quibus 
+      <lb ed="#B" n="84"/>etiam patet, quid respondendum sit ad ea, quae e 
+      <lb ed="#B" n="85"/>e. 1. et 24. Ecclesiastici Socinus affert. Esse 
+      quan<lb ed="#B" n="86" break="no"/>dam sapientiam creatam, de qua Siracides ibi agit, 
+      <lb ed="#B" n="87"/>non inviti fatemur, interim negandum non est, 
+      in<lb ed="#B" n="88" break="no"/>creatam quandam sapientiam dari, nisi Deum aeterns 
+      <lb ed="#B" n="89"/>sapientia spoliare velimus 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e2731">
+               <lb ed="#B" n="90"/>131. 2. Ut Deus in capientia sive per sapientiam 
+      <lb ed="#B" n="91"/>ita etiam per virtutem et potentiam quam omnis 
+      <lb ed="#B" n="92"/>condidisse dicitur, Job. 26, v. 12: In potentia suc 
+      <lb ed="#B" n="93"/>divisit mare, in intelligentia sua fregit fortitudinem 
+      <lb ed="#B" n="94"/>ejus. Jerem. 10, v. 12: Deus fecit terram in po 
+      <lb ed="#B" n="95"/>tentia sua. Cap. 32, v. 17: Domine Jehova, ecce 
+      <lb ed="#B" n="96"/>tu fecisti coelum et terram potentia tua magna e 
+      <lb ed="#B" n="97"/>brachio tuo extenso. Cap. 51, v. 15. Faciens 
+      terran<lb ed="#B" n="98" break="no"/>in fortitudine sua, xml:id vero de hypostatica Dei 
+      vir<lb ed="#B" n="99" break="no"/>tute, quae est Filius, intelligi posse ac debere, paret 
+      <lb ed="#B" n="100"/>non solum ex N. T. Luc. 1. v. 36. 1. Cor. 1, v. 24. 
+      <lb ed="#B" n="101"/>sed etiam ex V., quia Messias Dei Filius, Dei sa 
+      <lb ed="#B" n="102"/>pientia et virtus dicitur brachium Jehovae Esa. 52. 
+      <lb ed="#B" n="103"/>v. 10. c. 53, v. 1. c. 63, v. 5. etc. 3. DEUM omnis 
+      <lb ed="#B" n="104"/>condidisse per verbum non solum in N. T. asseritur. 
+      <lb ed="#B" n="105"/>Joh. 1, v. 3. Hebr. 1, v. 3., sed etiam in V. T. 
+      <lb ed="#B" n="106"/>Sap. 9, v. 1: Domine, qui omnia creasti διὰ λόγο 
+      <lb ed="#B" n="107"/>7oυ. Jam vero ille λόγοs est Dei Filius. 4. Esa. 
+      <lb ed="#B" n="108"/>14, v. 24: Ego Dominus faciens omnia 173 
+      <lb ed="#B" n="109"/>solus, formans terram 217872 a cum me, per eum 
+      <lb ed="#B" n="110"/>qui est apud me, hoc est, per Filium, per sapien 
+      <lb ed="#B" n="111"/>tiam, quae est 22X&amp; Prov. 8, v. 30, per eum, qua 
+      <lb ed="#B" n="112"/>cst 1722 723 vir mihi proximus Zach. 23, v. 7. 
+      <lb ed="#B" n="113"/>Targum Jonatha hunc locum sie παραφράζει: Ego 
+      <lb ed="#B" n="114"/>Dominus creator omnium extendi coelos verbo meo. 
+      <lb ed="#B" n="115"/>vel per verbum meum, fundavi terram in virtute 
+      <lb ed="#B" n="116"/>vel fortitudine mea. Quod si V. ac N. T. 
+      collatio<lb ed="#B" n="117" break="no"/>nem hic subjungere velimus, manifestissimum erit 
+      <lb ed="#B" n="118"/>Filio creationis opus tribuendum esse. Confer. Ex 
+      <lb ed="#B" n="119"/>3, v. 2. e. 20, v. 11. cum 1. Cor. 10, v. 9. Ps. 102. 
+      <lb ed="#B" n="120"/>v. 26. cum Hebr. 1, v. 11. Esa. 45, v. 23. cum Rom. 
+      <!--501.xml-->
+      <pb ed="#B" n="428"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>14. v. 11. Ps. 97, v. 8. Hebr. 1, v. 6. cum Apoc. 1. 
+      <lb ed="#B" n="2"/>v. 7. Esa. 48, v. 12. et 13. cum Apoc. 1, v. 11 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e2812">
+               <lb ed="#B" n="3"/>132. De Spiritu sancto agunt haec dicta: 1. Job 
+      <lb ed="#B" n="4"/>26, v. 13. τ779υj 2u v7772 in spiritu 
+      eju<lb ed="#B" n="5" break="no"/>pulchritudo coeli vel Spiritus ejus ornavit coelos 
+      <lb ed="#B" n="6"/>Quidam accipiunt de vento serenitatem coeli indu 
+      <lb ed="#B" n="7"/>cente, sed circumstantiae textus ostendunt de 
+      <lb ed="#B" n="8"/>Spiritu sancto creatore sermonem esse, praecedi 
+      <lb ed="#B" n="9"/>enim v. 12: in potentia sua divisit mare, in inteli 
+      <lb ed="#B" n="10"/>gentia sua fregit fortitudinem ejus, sequitur v. 13. 
+      <lb ed="#B" n="11"/>creavit manus ejus serpentem. Mercer. in h. . 
+      <lb ed="#B" n="12"/>Malo ipsum Spiritum Dei almum accipere, quo 
+      <lb ed="#B" n="13"/>omnia Dei facit. Quemadmodum enim David. Pe 
+      <lb ed="#B" n="14"/>33, v. 6. dicit, Spiritu oris Domini factum esse om 
+      <lb ed="#B" n="15"/>nem coelorum exercitum, sic hoc loco dicit Jobus 
+      <lb ed="#B" n="16"/>Spiritum domini ornasse vel decorasse coelos, no 
+      <lb ed="#B" n="17"/>contentus fuit simpliciter eos condidisse, sed et in 
+      <lb ed="#B" n="18"/>super miro ac vario ornatu stellarum et siderum eosdem 
+      <lb ed="#B" n="19"/>decoravit. R. Levi et alii –772 accipiunt ut 
+      no<lb ed="#B" n="20" break="no"/>men formae –17&amp; sermo, Spiritu ejus coeli sur 
+      <lb ed="#B" n="21"/>pulchritudo, h. e. ea pulchritudine et elegantia o 
+      <lb ed="#B" n="22"/>nati, ut absolutior aut major desiderari nequeat 
+      <lb ed="#B" n="23"/>2. Job. 33, v. 4. 2N–177 Spiritus DEI fecit m 
+      <lb ed="#B" n="24"/>71 121337 et spiraculum omnipotentis vivificam 
+      <lb ed="#B" n="25"/>me. Tribuitur Spiritui DEI tum creatio tum cor 
+      <lb ed="#B" n="26"/>servatio, dicit enim Elihu se a DEO factum, a DEO 
+      <lb ed="#B" n="27"/>etiam conservari, sicut Actor. 17, v. 28. pronuntia 
+      <lb ed="#B" n="28"/>apostolus: in ipso vivimus, movemur et sumus, 
+      mi<lb ed="#B" n="29" break="no"/>rum ergo non debere videri, si et ipse Spiritu in 
+      <lb ed="#B" n="30"/>telligentiae praeditus sit. 2. Ps. 104, v. 30: Emitto 
+      <lb ed="#B" n="31"/>Spiritum tuum, et creabantur, innovas faciem terrae 
+      <lb ed="#B" n="32"/>** (Cajetanus negat h. I. de Spiritu s. agere, quer 
+      <lb ed="#B" n="33"/>propterea perstringit Ambrosius Catharinus epise 
+      <lb ed="#B" n="34"/>Compsanus, teste Sixto Senensi lib. 5. annot. 196.)* 
+      <lb ed="#B" n="35"/>Quemadmodum in prima creatione Spiritus s. aquas 
+      <lb ed="#B" n="36"/>fovendo iisque incubando fuit efficax, ita in rerum 
+      <lb ed="#B" n="37"/>creatarum conservatione xml:idem cum Patre et 
+      Fili<lb ed="#B" n="38" break="no"/>efficaciter agit. Renovat Spiritus faciem terrae 
+      re<lb ed="#B" n="39" break="no"/>novatione non solum annua, qua verno tempore 
+      <lb ed="#B" n="40"/>cuncta revirescere ac frondescere incipiunt, postquar 
+      <lb ed="#B" n="41"/>per hiemem fuerant emortua, sed etiam quotidiana 
+      <lb ed="#B" n="42"/>qua propter servationem specierum alia quotidie in 
+      <lb ed="#B" n="43"/>dividua nascuntur, quae in locum eorum, quae morti 
+      <lb ed="#B" n="44"/>et interitui subjecta, iterum succedunt. Renova 
+      <lb ed="#B" n="45"/>faciem terrae non solum externe et corporalite 
+      <lb ed="#B" n="46"/>modo jam exposito, sed etiam interne et spiritual 
+      <lb ed="#B" n="47"/>ter, quia corda hominum illuminat, regenerat, rene 
+      <lb ed="#B" n="48"/>vat et ex tenebris errorum et ignorantiae in 
+      lucen<lb ed="#B" n="49" break="no"/>salutaris θεογνωσίας collocat. Neque quemquam 
+      <lb ed="#B" n="50"/>turbet, quod Spiritus s. dicatur mitti, quasi cur 
+      <lb ed="#B" n="51"/>ὁμοουσίᾳ et aequalitate ejusdem cum Patre illu 
+      <lb ed="#B" n="52"/>pugnet, quia missio ut non tollit naturam, sic 
+      ne<lb ed="#B" n="53" break="no"/>ὁμοουσίαν. Radius solaris in terram mittitur, ut in 
+      <lb ed="#B" n="54"/>terim a sole non separetur, sic Spiritus s. ad rene 
+      <lb ed="#B" n="55"/>vandam terrae faciem mittitur, nec tamen a mittent 
+      <lb ed="#B" n="56"/>propterea separatur. 4. Esa. 40, v. 12: Quis mensus 
+      <lb ed="#B" n="57"/>est pugillo aquas ete. V. 13: Quis instrucit Spiri 
+      <lb ed="#B" n="58"/>tum Domini? quo creationis opus fuit absolutum 
+      <lb ed="#B" n="59"/>de eo enim ibi loquitur. 5. Esa. 57, v. 16. 77 
+      <lb ed="#B" n="60"/>g. 2 2225 Spiritus, qui est a facie mea induet e 
+      <!--501.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>animas ego feci. Qeθ significat involutus, opertus 
+      <lb ed="#B" n="62"/>fuit, ac metaphorice afflictionibus et miseriis oper 
+      <lb ed="#B" n="63"/>tus fuit, deliquium animi passus fuit, in qua 
+      po<lb ed="#B" n="64" break="no"/>steriore significatione accipitur Ps. 61, v. 3. Ps. 102. 
+      <lb ed="#B" n="65"/>v. 1. Piscator igitur sic reddidit: Non perpetuo 
+      con<lb ed="#B" n="66" break="no"/>tendam, nam spiritus eorum a conspectu meo in 
+      <lb ed="#B" n="67"/>deliquium incideret, et animae quas ego feci, ut si 
+      <lb ed="#B" n="68"/>ellipsis τ8&amp;, qua ratione de spiritu humano create 
+      <lb ed="#B" n="69"/>acciperetur. Vatabl. Spiritus hominis a me creo 
+      <lb ed="#B" n="70"/>tus induit (scilicet corpus), hoc est, immissus fuit i 
+      <lb ed="#B" n="71"/>corpus, ego circumdedi corpore spiritum, quasi dicas 
+      <lb ed="#B" n="72"/>ego creavi homines, scio quod caro sunt ete. 
+      Se<lb ed="#B" n="73" break="no"/>rectius accipitur de Spiritu divino, ut sit consolati 
+      <lb ed="#B" n="74"/>suavissima tentationibus piorum de irae divina 
+      <lb ed="#B" n="75"/>magnitudine opposita ac evangelica promissio de 
+      <lb ed="#B" n="76"/>Spiritus s. donatione. Non irascar in perpetuum, 
+      <lb ed="#B" n="77"/>sed Spiritus a facie mea operiet, et flatus sive 
+      spi<lb ed="#B" n="78" break="no"/>racula Hebr. 1723 ego faciam, hoc est, mittan 
+      <lb ed="#B" n="79"/>Spiritum s., qui apostolos obumbrabit et alios in me 
+      <lb ed="#B" n="80"/>credentes afflabit, atque hac ratione afflictas et a 
+      <lb ed="#B" n="81"/>tu tentationum deficientes conscientias recreabit 
+      <lb ed="#B" n="82"/>sicut etesiae tempore aestivo hominem recreant 
+      <lb ed="#B" n="83"/>LXX reddiderunt ἐξελεύσεται. Vulg. egredietur 
+      <lb ed="#B" n="84"/>Luth. Es soll von meinem Angesicht ein Geist weben 
+      <lb ed="#B" n="85"/>De Spiritu s. accipiunt Irenaeus lib. 5. c. 12. Ter 
+      <lb ed="#B" n="86"/>tull. de animadv. c. 11. Hieron. in comm. eto 
+      <lb ed="#B" n="87"/>6. Sap. 12, v. 1. δεσπότα φιλόψυχε, Spiritus tuu 
+      <lb ed="#B" n="88"/>incorruptibilis est in omnibus. Quemadmodum 
+      Deu<lb ed="#B" n="89" break="no"/>verbo et Spiritu suo omnia condidit, sic verbo e 
+      <lb ed="#B" n="90"/>Spiritu suo omnia regit et conservat, est ergo in 
+      <lb ed="#B" n="91"/>corruptibilis Dei Spiritus in omnibus non 
+      formal<lb ed="#B" n="92" break="no"/>ter sed efficienter tanquam auctor, conservator et 
+      <lb ed="#B" n="93"/>sustentato. 
+      </p>
+            <p xml:id="zef3dd-d1e798-d1e3016">
+               <lb ed="#B" n="94"/>133. Excipit Socinus in refut. Bellarmin. et Wieck. 
+      <lb ed="#B" n="95"/>§. 494: Spiritui s. nuspiam diserte in Scripturi 
+      <lb ed="#B" n="96"/>tribui, quod quicquam creet, sed Dei Spiritu vel 
+      <lb ed="#B" n="97"/>per Dei Spiritum res creatas dici tanquam per in 
+      <lb ed="#B" n="98"/>strumentum. Job. 33. v. 4. dicit, non haberi: Spirt 
+      <lb ed="#B" n="99"/>tus Domini creavit me, sed fecit me, nec ubicunque 
+      <lb ed="#B" n="100"/>fit mentio Spiritus Dei, ibi statim Spiritus s. in 
+      <lb ed="#B" n="101"/>elligendus est. Resp. 1. quod Spiritu oris Domin 
+      <lb ed="#B" n="102"/>omnis exercitus coelorum conditus dicitur Ps. 3. 
+      <lb ed="#B" n="103"/>v. 6. et quod in Spiritu suo Deua coelos ornasse 
+      <lb ed="#B" n="104"/>asseritur Job. 26, v. 13, xml:id non potest de alio quam 
+      <lb ed="#B" n="105"/>aeterno et increato Dei Spiritu, nec de alio quan 
+      <lb ed="#B" n="106"/>creationis opere accipi, ut ipse Socinus in defens 
+      <lb ed="#B" n="107"/>animadv. p. 110. agnoscit, unde de virtute et 
+      poten<lb ed="#B" n="108" break="no"/>tia Dei exponit. 2. Quod autem hic Spiritus sit di 
+      <lb ed="#B" n="109"/>tincta a Patre persona, illud constat ex aliis 
+      Scri<lb ed="#B" n="110" break="no"/>pturae locis, imo in his ipsis Spiritus Domini et 
+      sp<lb ed="#B" n="111" break="no"/>raculum omnipotentis dicitur, utique ergo a Domin 
+      <lb ed="#B" n="112"/>et ab omnipotente a Patre et Filio distinguitur 
+      <lb ed="#B" n="113"/>Dicitur a Patre mitti et a facie ejus egredi, utique 
+      <lb ed="#B" n="114"/>ergo est persona a mittente distincta. 3. Quo 
+      <lb ed="#B" n="115"/>DEUS Spiritu s. non ut instrumento in crea 
+      <lb ed="#B" n="116"/>tione usus fuerit, apparet ex eo, quod non so 
+      <lb ed="#B" n="117"/>lum in casu obliquo in Spiritu sive per Spiritur 
+      <lb ed="#B" n="118"/>omnia dicuntur condita, sed quod etiam in casu 
+      <lb ed="#B" n="119"/>recto Spiritus dicitur omnia fecisse Job. 33, v. 1. 
+      <lb ed="#B" n="120"/>ubi Jobum nonnisi de sui ipsius formatione 
+      <!--502.xml-->
+      <pb ed="#B" n="429"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>et creatione mediata loqui apparet ex cor 
+      <lb ed="#B" n="2"/>textu. 4. Ipsimet Photiniani dicunt Spiritum ess 
+      <lb ed="#B" n="3"/>DEI virtutem et potentiam. Jam vero instrumen 
+      <lb ed="#B" n="4"/>tum non est virtus et potentia agentis ipsi essem 
+      <lb ed="#B" n="5"/>tialis, sed aliquid a principali agente distinetum 
+      <lb ed="#B" n="6"/>Si quis dicat: Animam per suas facultates velus 
+      <lb ed="#B" n="7"/>per instrumenta agere, illi prius demonstrandur 
+      <lb ed="#B" n="8"/>erit, facultates instrumentaliter ut aliquid ab anima 
+      <lb ed="#B" n="9"/>realiter distinctum agere, et si vel maxime in rebu 
+      <lb ed="#B" n="10"/>creatis xml:id eo modo se haberet, ut vires agendi 
+      sub<lb ed="#B" n="11" break="no"/>stantiis superadditae per modum instrumenti agant 
+      <lb ed="#B" n="12"/>tamen ad Deum ens increatum hoc non posset 
+      ap<lb ed="#B" n="13" break="no"/>plicari, quippe in quo virtus agendi non est 
+      aliqui<lb ed="#B" n="14" break="no"/>essentiae superadditum, sed ipsa essentia; 5. parti 
+      <lb ed="#B" n="15"/>cula per et in de personis trinitatis usurpata non 
+      <lb ed="#B" n="16"/>notat instrumentum, cum etiam de Patre usurpetu 
+      <lb ed="#B" n="17"/>1. Corinth. I, V. 9. 2. Corinth. I. V. 1. Rom. 6, v.. 
+      <lb ed="#B" n="18"/>Hebr. 2, v. 10. Photiniani non agnoscunt Rom. II. 
+      <lb ed="#B" n="19"/>v. 36. particulas ἐξ, διὰ καὶ εἰς ad ordinem et dis 
+      <lb ed="#B" n="20"/>crimen personarum divinitatis pertinere, coguntu 
+      <lb ed="#B" n="21"/>igitur haec omnia de Deo intelligere. 6. Verbui 
+      <lb ed="#B" n="22"/>8y de creatione aliquoties usurpatur. Praeter 
+      <lb ed="#B" n="23"/>missis reliquis locis adducimus testimonium ex pro 
+      <lb ed="#B" n="24"/>pria hujus articuli sede Genes. 1, v. 32: Vidit Deus 
+      <lb ed="#B" n="25"/>omnia, quae fecerat Hebr. 583 et ecce erant bona 
+      <lb ed="#B" n="26"/>valde. C. 2. v. 2: Perfecit Deus die septimo 
+      opu<lb ed="#B" n="27" break="no"/>suum, quod fecerat. Hebr. *S et requievit ab omno 
+      <lb ed="#B" n="28"/>opere suo, quod fecerat. Hebr. 3. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

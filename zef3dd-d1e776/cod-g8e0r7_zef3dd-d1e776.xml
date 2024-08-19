@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="416"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e776"><!-- zef3dd-l3c6 -->
+            <head xml:id="zef3dd-d1e776-Hd1e101">Caput 6</head>
+            <head xml:id="zef3dd-d1e776-Hd1e103" type="question-title">Tertium argumentum ex Novo Testamento pro adstruendo trinitatis mysterio ex novo testamento deductum</head>
+            <p xml:id="zef3dd-d1e776-d1e106">
+      <!--489.xml-->
+               <pb ed="#B" n="416"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>CAPUT VI 
+      <lb ed="#B" n="2"/>CONTINENS TERTIUM ARGU 
+      <lb ed="#B" n="3"/>MENTUM PRO ADSTRUENDO TRI 
+      <lb ed="#B" n="4"/>NITATIS MYSTERIO EX N. T 
+<lb ed="#B" n="5"/>DUCTUM 
+  </p>
+            <p xml:id="zef3dd-d1e776-d1e126">
+               <lb ed="#B" n="6"/>103. Tertium principale fundamentum desumimu 
+      <lb ed="#B" n="7"/>ex Joh. 14, v. 16: Ego rogabo Patrem, et alium 
+      <lb ed="#B" n="8"/>paracletum dabit vobis, Spiritum veritatis. 
+      Ho<lb ed="#B" n="9" break="no"/>testimonio ad Spiritus s. personalitatem et Filii dei 
+      <lb ed="#B" n="10"/>tatem demonstrandam potissimum utimur, quo utro 
+      <lb ed="#B" n="11"/>que legitime probato trinitatem in divinis probatum 
+      <lb ed="#B" n="12"/>esse Photiniani concedunt. Spiritus s. personalita 
+      <lb ed="#B" n="13"/>ex illo dicto manifeste concluditur, neque enim so 
+      <lb ed="#B" n="14"/>lum a Patre et Filio distinguitur, sed etiam aliu 
+      <lb ed="#B" n="15"/>paracletus dicitur. Sic ergo concludimus: Qui 
+      <lb ed="#B" n="16"/>Patre et Filio eo modo distinguitur, ut alius para 
+      <lb ed="#B" n="17"/>eletus dicatur, is aut essentiae aut personae respecti 
+      <lb ed="#B" n="18"/>ab illis distinguitur. Spiritus s. a Patre et Filio 
+      e<lb ed="#B" n="19" break="no"/>modo distinguitur, ut alius paracletus dicatur. Erge 
+      <lb ed="#B" n="20"/>aut essentiae aut personae respectu ab illis distin 
+      <lb ed="#B" n="21"/>guitur. Prius dici nequit, quia hae ratione Spiritu 
+      <lb ed="#B" n="22"/>s. esset alius Deus, quod absit, cum unum Deum 
+      ess<lb ed="#B" n="23" break="no"/>Scriptura evidenter testetur, alium vero Deum prae 
+      <lb ed="#B" n="24"/>ter Patrem et extra Patrem esse neget. Manet ig 
+      <lb ed="#B" n="25"/>tur posterius, quod personae ratione a Patre et 
+      Fili<lb ed="#B" n="26" break="no"/>distinguatur, ex quo consequitur, essentiam divinan 
+      <lb ed="#B" n="27"/>esse unam, in ea vero dari tres distinctas personas 
+      <lb ed="#B" n="28"/>Conferri autem possunt cum hoc loco parallela dicta 
+      <lb ed="#B" n="29"/>Joh. 14. v. 26: Paracletus, Spiritus s., quem mitte 
+      <lb ed="#B" n="30"/>Pater in nomine meo, ille vos docebit omnia. Ub. 
+      <lb ed="#B" n="31"/>1. Spiritus s. a Patre et Filio distinguitur; 2. neu 
+      <lb ed="#B" n="32"/>trum 1ὸ πνεῦμα redditur postea per masculinum 
+      <lb ed="#B" n="33"/>ἐκεῖνος, quae ἐτέρωσις generum de personalibu 
+      <lb ed="#B" n="34"/>actionibus usurpata personam semper arguit. Cor 
+      <lb ed="#B" n="35"/>fer Genes. 3, v. 15. Matth. 28, v. 19. Galat. 
+      <lb ed="#B" n="36"/>v. 16. Ephes. 1. v. 14. Coloss. 2. v. 19. etc; 3. tr. 
+      <lb ed="#B" n="37"/>buitur Spiritui s. actio personae propria, quod 
+      apo<lb ed="#B" n="38" break="no"/>stolus sit omnia docturus et in memoriam ipsis re 
+      <lb ed="#B" n="39"/>vocaturus ea, quae Christus dixit. Joh. 15, v. 26. 
+      <lb ed="#B" n="40"/>Cum venerit paracletus, quem ego mittam vobis e 
+      <lb ed="#B" n="41"/>Patre, Spiritus veritatis, qui a Patre procedit, ἐκεῖ 
+      <lb ed="#B" n="42"/>νος, ille testificabitur de me, ubi non solum expressa 
+      <lb ed="#B" n="43"/>a Patre et Filio distinctio, generis mutatio et per 
+      <lb ed="#B" n="44"/>sonalis actionis in testificatione consistentis diserta 
+      <lb ed="#B" n="45"/>mentio occurrit, sed etiam personalis proprietas, 
+      pe<lb ed="#B" n="46" break="no"/>quam Spiritus s. πρὸς ἔσω a Patre et Filio distii 
+      <lb ed="#B" n="47"/>guitur, videlicet aeterna ἐκπόρευσις exprimitur 
+      <lb ed="#B" n="48"/>Spiritui s. ea tribuuntur, quae Patri negantur, nam 
+      <lb ed="#B" n="49"/>dicitur Spiritus s. post Christi adscensionem venturus 
+      <lb ed="#B" n="50"/>id de Patre dici nequit, dicitur mittendus a Patre 
+      <lb ed="#B" n="51"/>dicitur procedere a Patre, ergo est a Patre distii 
+      <lb ed="#B" n="52"/>ctus, non essentiae ratione, ut constat. Ergo 
+      pe<lb ed="#B" n="53" break="no"/>sonae. Sic ergo probatum est prius, Spiritus, 
+      <lb ed="#B" n="54"/>scilicet personalitas, posterius, videlicet Filii deitas 
+      <lb ed="#B" n="55"/>ex hoc loco sic concluditur: Qui non est veru 
+      <lb ed="#B" n="56"/>Deus, non potest mittere Spiritum s.; Christus mitti 
+      <lb ed="#B" n="57"/>Spiritum. Ergo.
+  </p>
+            <p xml:id="zef3dd-d1e776-d1e241">
+      <!--489.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="58"/>104. Excipit Socinus in animadv. ad assert. 6. p. 44. 
+      <lb ed="#B" n="59"/>I. ex tribus hisce testimoniis nihil aliud colliqi 
+      <lb ed="#B" n="60"/>piam Spiritum s. a Patre per Christum ipsiu 
+      <lb ed="#B" n="61"/>Christi discipulis missum et datum fuisse, quio 
+      <lb ed="#B" n="62"/>vero hoc ad trinitatem personarum in Deo proban 
+      <lb ed="#B" n="63"/>dam? Resp. patet ex dictis; 2. ex eo potius 
+      mani<lb ed="#B" n="64" break="no"/>festum est, solum Patrem esse illum unumo 
+      Deum<lb ed="#B" n="65" break="no"/>cum solus Pater commemoretur, a quo missio et 
+      <lb ed="#B" n="66"/>datio ista tanquam a prima causa proficiacatur 
+      <lb ed="#B" n="67"/>quia vero audivit unquam unum illum Deum reo 
+      <lb ed="#B" n="68"/>mitti vel dari aut esse, qui per eum aliquid mitta 
+      <lb ed="#B" n="69"/>vel det? Certe hae cuilibet homini cordato summa 
+      <lb ed="#B" n="70"/>ineptiae vel potius blasphemiae videri debent. 
+      Resp<lb ed="#B" n="71" break="no"/>si hae sunt blasphemiae, eccur Socinus nos pro 
+      <lb ed="#B" n="72"/>fratribus adhuc agnoscit? Rem ipsam quod attinet 
+      <lb ed="#B" n="73"/>Scriptura diserte dicit, Filium esse verum Deum. 
+      <lb ed="#B" n="74"/>eundem tamen missum esse in carnem, Spiritum? 
+      <lb ed="#B" n="75"/>esse verum Deum, eundem tamen mitti in corda 
+      <lb ed="#B" n="76"/>credentium, de quo mysterio non judicandum est ex 
+      <lb ed="#B" n="77"/>humana ratione, sed ex divina revelatione. Ex mis 
+      <lb ed="#B" n="78"/>sione Spiritus recte colligitur tum personalis 
+      Spiri<lb ed="#B" n="79" break="no"/>tus s. a Patre et Filio distinctio, tum vera et ac 
+      <lb ed="#B" n="80"/>terna Filii deitas. Cui enim tribuitur missio Spiri 
+      <lb ed="#B" n="81"/>tus s., illi tribuitur virtus et efficacia Dei Patris 
+      <lb ed="#B" n="82"/>quia juxta Photinianos Spiritus a. est virtus et 
+      effi<lb ed="#B" n="83" break="no"/>cacia Dei. Cui vero tribuitur virtus et efficacia Dei 
+      <lb ed="#B" n="84"/>Patris, illi etiam essentia Patris tribuitur, quia vit 
+      <lb ed="#B" n="85"/>tus et potentia Dei est ipsa Dei essentia. Cui et 
+      <lb ed="#B" n="86"/>sentia Dei tribuitur, ille est verus, naturali 
+      <lb ed="#B" n="87"/>et essentialis Deus. Si dicant, Spiritum s. dio 
+      <lb ed="#B" n="88"/>Spiritum Christi Galat. 4, v. 6. Rom. 8, v. 9. 
+      <lb ed="#B" n="89"/>ratione missionis, dicimus, recte xml:id quidem asseri 
+      <lb ed="#B" n="90"/>sed argumentum nostrum ex eo non labefactari. S 
+      <lb ed="#B" n="91"/>enim Christus non est verus cum Patre Deus essen 
+      <lb ed="#B" n="92"/>iae unitate eidem aequalis, non habet jus mittendi 
+      <lb ed="#B" n="93"/>Spiritum s., quia minor non habet jus ac pote 
+      <lb ed="#B" n="94"/>statem mittendi majorem. Accurate autem observa. 
+      <lb ed="#B" n="95"/>quod Filius non solum dicat: Ego rogabo Patrem, 
+      <lb ed="#B" n="96"/>et alium paracletum dabit vobis, sed etiam se 
+      mis<lb ed="#B" n="97" break="no"/>surum Spiritum s. polliceatur Joh. 15, v. 26: Ego 
+      <lb ed="#B" n="98"/>mittam vobis a Patre Spiritum s., c. 16, v. 7: Si 
+      <lb ed="#B" n="99"/>ubiero, ego mittam vobis Spiritum s., quodque 
+      Spiri<lb ed="#B" n="100" break="no"/>tus Christi dicatur fuisse in prophetis 1. Petr. 1. 
+      <lb ed="#B" n="101"/>v. 11 
+  </p>
+            <p xml:id="zef3dd-d1e776-d1e344">
+               <lb ed="#B" n="102"/>105. Ex quo facile judicari potest, quid de 3. So. 
+      <lb ed="#B" n="103"/>cini objectione dicendum, quam d. I. p. 64. propo 
+      <lb ed="#B" n="104"/>nit. Mitti (inquit) a Filio Spiritum s. sic intelli 
+      <lb ed="#B" n="105"/>jendum est, ut a Patre acceptum mittat, mittit 
+      <lb ed="#B" n="106"/>Filius Spiritum s., sed a Patre, a quo tanquam e 
+      <lb ed="#B" n="107"/>onte videlicet procedit, etest Filius quasi ripus. 
+      <lb ed="#B" n="108"/>qui a fonte acceptam irrigandis agris aquam supi 
+      <lb ed="#B" n="109"/>peditet atque transmittat. Et ne quis putet hoc 
+      <lb ed="#B" n="110"/>semper ita fuisse aut ex ipsius Filii natura per 
+      <lb ed="#B" n="111"/>dere, audiat ipsum Filium Joh. 14, v. 16. et 
+      Pe<lb ed="#B" n="112" break="no"/>trum Actor. 2, v. 33. At committit Socinus falla 
+      <lb ed="#B" n="113"/>ciam plurium quaestionum. De Christo secundum 
+      <lb ed="#B" n="114"/>humanam naturam recte haec dicuntur, sed quate 
+      <lb ed="#B" n="115"/>nus xml:idem est verus et unus cum Patre Deus al 
+      <lb ed="#B" n="116"/>aeterno, ab eo non minus quam a Patre Spiritus, 
+      <lb ed="#B" n="117"/>procedit et aequaliter ab eo et Patro Spiritus 8. 
+      <!--490.xml-->
+      <pb ed="#B" n="417"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>mittitur propter essentiae unitatem. (Ex eodem 
+      <lb ed="#B" n="2"/>fundamento responderi potest ad sophisma, quod 
+      <lb ed="#B" n="3"/>habet Schmaltz. contra Schopper. de trinit. Christus 
+      <lb ed="#B" n="4"/>rogat Patrem et mittit Spiritum s. a Patre. Erg. 
+      <lb ed="#B" n="5"/>non est persona aeque divina ut Pater. Pate 
+      <lb ed="#B" n="6"/>enim neminem rogat, nec ab alio, sed a se ips 
+      <lb ed="#B" n="7"/>mittit Spiritum s. Resp. 1. intercessio non arguit 
+      <lb ed="#B" n="8"/>personae inaequalitatem, cum aequalis apud aequa 
+      <lb ed="#B" n="9"/>lem intercedere possit. 2. Pater dicitur mittere 
+      <lb ed="#B" n="10"/>Spiritum s. in nomine Filii Joh. 14, v. 26. in no 
+      <lb ed="#B" n="11"/>mine autem alicujus mittere, est ab aliquo etiam 
+      <lb ed="#B" n="12"/>mittere. 3. Christus insufflando dedit Spiritum? 
+      <lb ed="#B" n="13"/>apostolis Joh. 20, v. 22. ergo ab ipso etiam mitta 
+      <lb ed="#B" n="14"/>tur Spiritus s.; missio autem in tempore est 
+      argu<lb ed="#B" n="15" break="no"/>mentum processionis sine tempore. 4. Considera 
+      <lb ed="#B" n="16"/>emphasin dicti Joh. 16, v. 13. Spiritus s. nihil lo 
+      <lb ed="#B" n="17"/>quetur a se ipso, sed de meo accipiet; omnia, 
+      qua<lb ed="#B" n="18" break="no"/>Pater habet mea sunt. 
+      </p>
+            <p xml:id="zef3dd-d1e776-d1e427">
+               <lb ed="#B" n="19"/>106. 4. In defens. animadv. c. 13. p. 319. porro 
+      <lb ed="#B" n="20"/>excipit Socinus: Ex eo, quod a Patre Spiritus, 
+      <lb ed="#B" n="21"/>dicitur procedere, posse quidem fortassis colligo 
+      <lb ed="#B" n="22"/>esse ejusdem cum Deo Patre naturae seu essentia. 
+      <lb ed="#B" n="23"/>non atutem esse certam personam divinae essentia 
+      <lb ed="#B" n="24"/>cum jistitia Dei sit ejusdem cum Deo 
+      essentia<lb ed="#B" n="25" break="no"/>nec tamen sit certa quaedam persona essentiae 
+      <lb ed="#B" n="26"/>Resp. ἐκπόρευσις illa utrumque denotat, essentia 
+      <lb ed="#B" n="27"/>scilicet unitatem et personalem distinctionem. Qui 
+      <lb ed="#B" n="28"/>enim ab aeterno a Patre Spiritus s. procedi 
+      <lb ed="#B" n="29"/>ideo est ejusdem cum Patre essentiae, quia a 
+      Patr<lb ed="#B" n="30" break="no"/>procedere dicitur, xml:ideo a Patre distinctum esse opos 
+      <lb ed="#B" n="31"/>tet, ut suo loco plenius docebitur. Conjungimu 
+      <lb ed="#B" n="32"/>autem cum hac ἐκκορεύσει aeterna, quae est ἀνεκφα 
+      <lb ed="#B" n="33"/>νηιος καὶ ἀνεξερεύνηιος, visibilem Spiritus s. in speci 
+      <lb ed="#B" n="34"/>columbae manifestationem in illustri illa θεοφανεί. 
+      <lb ed="#B" n="35"/>circa Christi baptismum facta 
+      </p>
+            <p xml:id="zef3dd-d1e776-d1e466">
+               <lb ed="#B" n="36"/>107. 5. Ex eo, quod Christus Spiritum s. 
+      voca<lb ed="#B" n="37" break="no"/>alium paracletum, non posse colligi cum esse veram 
+      <lb ed="#B" n="38"/>personam. Similitudo enim in eo tantum consisti 
+      <lb ed="#B" n="39"/>quod eicut Christus discipulos quos praesens conso 
+      <lb ed="#B" n="40"/>labatur, sic ipso absente consolaturus illos erat 
+      Sp<lb ed="#B" n="41" break="no"/>ritus s. Itaque vox paracletum non est distinquendi 
+      <lb ed="#B" n="42"/>in verbia Christi a voce alium, sed conjunctim om 
+      <lb ed="#B" n="43"/>nino sunt legendae, ita ut intelligatur non quidem 
+      <lb ed="#B" n="44"/>cdatum ini a Patre quendam alium, de quo statii 
+      <lb ed="#B" n="45"/>per appositionem dicatur, quod sit paracletus 
+      se<lb ed="#B" n="46" break="no"/>consolator, sed datum a Patre iri paracletum se 
+      <lb ed="#B" n="47"/>consolatorem alium. Simili ratione posset magiste 
+      <lb ed="#B" n="48"/>artis cujuspiam ab egenis dicipulis discedens dicere 
+      <lb ed="#B" n="49"/>Ego quidem a vobis abiero, sed habebitis tamer 
+      <lb ed="#B" n="50"/>alium magistrum, egestatem vestram, ut enim es 
+      <lb ed="#B" n="51"/>apud poëtam, magister artis venter, nec tamen 
+      eq<lb ed="#B" n="52" break="no"/>stas est persona ulla, licet magister iste abiens si 
+      <lb ed="#B" n="53"/>persona. Ibid. p. 321. Haec Socini explicatio iis 
+      <lb ed="#B" n="54"/>dem verbis proponitur a Schmaltzio in refut. thesium 
+      <lb ed="#B" n="55"/>D. Graweri de Spiritu s. p. 16. Resp. 1. per vocer 
+      <lb ed="#B" n="56"/>calius non aliam personam, sed aliud quid locution 
+      <lb ed="#B" n="57"/>figurata denotari, sine ullo Scripturae exemplo asser 
+      <lb ed="#B" n="58"/>tur. 2. In summis fidei articulis non discedendum 
+      <lb ed="#B" n="59"/>literali et proprio verborum sensu, alias nihil certi¬ 
+      <!--490.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>in illis relinquetur. Jam vero constat nomen aliu 
+      <lb ed="#B" n="61"/>esse personae proprium, sicut nomen aliud naturae 
+      <lb ed="#B" n="62"/>et essentiae; 3. in allato exemplo de paupertate 
+      <lb ed="#B" n="63"/>egenorum magistra, poëticam prosopopoeiam 
+      quilibe<lb ed="#B" n="64" break="no"/>facile intelligit, sed in verbis Christi nullum ejusdem 
+      <lb ed="#B" n="65"/>exstat vestigium. Christus enim non poëticis figuri 
+      <lb ed="#B" n="66"/>ludere, sed de rebus maxime necessariis perspicue 
+      <lb ed="#B" n="67"/>et proprio sermonis genere apostolos instruere voluit. 
+      <lb ed="#B" n="68"/>l. Vocem alius non figurate pro re quadam accipi 
+      <lb ed="#B" n="69"/>sed proprie ut personam notet, colligitur ex toto 
+      <lb ed="#B" n="70"/>contextu, Christus enim alium illum paracletum in eo 
+      <lb ed="#B" n="71"/>dem divino opere secum et cum Patre tanquam 
+      per<lb ed="#B" n="72" break="no"/>sonam cum duabus personis conjungit, quia distin 
+      <lb ed="#B" n="73"/>guit illum a Patre et se ipso, vocat paracleton et 
+      <lb ed="#B" n="74"/>Spiritum veritatis, tribuit illi quod doceat et in me 
+      <lb ed="#B" n="75"/>moriam revocet omnia, in parallelis locis proprio 
+      <lb ed="#B" n="76"/>tatem personalem peculiarem et distinetam illi tra 
+      <lb ed="#B" n="77"/>buit ac per generis heterosin personalitatem ejusdem 
+      <lb ed="#B" n="78"/>demonstrat. 5. Spiritus s. dicitur alius paracletus 
+      <lb ed="#B" n="79"/>non solum Filii, sed etiam Patris respectu, ut oster 
+      <lb ed="#B" n="80"/>dit verborum series: Ego rogabo Patrem et aliun 
+      <lb ed="#B" n="81"/>paracletum dabit vobis. Jam vero Spiritus s. non 
+      <lb ed="#B" n="82"/>est naturae et essentiae ratione aliud a Patre 
+      <lb ed="#B" n="83"/>quod Photiniani agnoscere coguntur, cum eum vir 
+      <lb ed="#B" n="84"/>tutem et potentiam Patris esse dicant. Ergo 
+      no<lb ed="#B" n="85" break="no"/>essentialiter, sed personaliter alius paracletus dici 
+      <lb ed="#B" n="86"/>tur. 6. Christus Spiritum s. et apostolos in testi 
+      <lb ed="#B" n="87"/>ficatione conjungit Joh. 15, v. 26. et 27. Jam ver 
+      <lb ed="#B" n="88"/>constat apostolos de Christo testificantes esse per 
+      <lb ed="#B" n="89"/>sonas; 7. ἐκεῖνος in toto illo capite personaliter ac 
+      <lb ed="#B" n="90"/>cipitur, h. e. certam personam denotat; 8. conjungimusi 
+      <lb ed="#B" n="91"/>fundamenta reliqua, quae Spiritus s. personalitatem 
+      <lb ed="#B" n="92"/>probant, evidenter ac ostendimus, Spiritui s. tribu 
+      <lb ed="#B" n="93"/>omnia illa, quae solis rebus per se subsistentibus, 
+      qua<lb ed="#B" n="94" break="no"/>sub ratione personae concipiuntur, conveniunt; 
+      tri<lb ed="#B" n="95" break="no"/>buitur enim illi peculiaris subsistentia, cum 
+      Scri<lb ed="#B" n="96" break="no"/>ptura de Patre, Filio et Spiritu s. loquens tris 
+      <lb ed="#B" n="97"/>ὑφιστάμενα notet ac singulis adscribat ea, quae per 
+      <lb ed="#B" n="98"/>sonae per se subsistenti conveniunt; tribuitur ipsi 
+      <lb ed="#B" n="99"/>personalis proprietatis genuina notio Actor. 13, v. 2. 
+      <lb ed="#B" n="100"/>Visum est Spiritui s. et nobis, quemadmodum de 
+      <lb ed="#B" n="101"/>Patre dicitur Matth. 11, v. 36. Etiam Pater, quio 
+      <lb ed="#B" n="102"/>placuit tibi; tribuitur ei voluntas et ex voluntate 
+      <lb ed="#B" n="103"/>sequens operatio I. Cor. 12, v. 11; tribuitur intella 
+      <lb ed="#B" n="104"/>gentia 1. Cor. 2, v. 10. potentia Es. 11, v. 2. dici. 
+      <lb ed="#B" n="105"/>tur ab impiis irritari Es. 63, v. 7. a Christo acc. 
+      <lb ed="#B" n="106"/>pere omnia Joh. 15, v. 16. non loqui a semet ipse 
+      <lb ed="#B" n="107"/>sed audita loqui et annuntiare Joh. 16, v. 14. qua 
+      <lb ed="#B" n="108"/>omnia non possunt intelligi de virtute quadam 
+      Dei<lb ed="#B" n="109" break="no"/>quae non sit distincta a Patre et Filio persona 
+      <lb ed="#B" n="110"/>9. Schmaltz. contra Schopp. dicit, ea quae Spira 
+      <lb ed="#B" n="111"/>tui s. tribuuntur personae propria per figuras sd 
+      <lb ed="#B" n="112"/>cris literis usitatissimas, metonymiam et prosopo 
+      <lb ed="#B" n="113"/>noeiam, excusari posse. At nulla species 
+      metony<lb ed="#B" n="114" break="no"/>miae hic habet locum, prosopopoeiae nullum 
+      appa<lb ed="#B" n="115" break="no"/>ret vestigium. Cumprimis vero semper respicimu 
+      <lb ed="#B" n="116"/>ad θεοφάνειαν in baptismo Christi, in qua Spiritus 
+      <lb ed="#B" n="117"/>s. sub peculiari et distincta specie, videlicet in 
+      <lb ed="#B" n="118"/>forma columbae, apparuit, et ad institutionem nostri 
+      <lb ed="#B" n="119"/>baptismi, in qua cum Patre et Filio tanquam per 
+      <!--491.xml-->
+      <pb ed="#B" n="418"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>sona cum duabus personis conjungitur, perquam 
+      <lb ed="#B" n="2"/>enim absurda foret interpretatio, baptizari nos in 
+      <lb ed="#B" n="3"/>nomine Patris et Filii Messiae et virtutis divinae. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

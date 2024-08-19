@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="295"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e675"><!-- zef3dd-l2c7 -->
+            <head xml:id="zef3dd-d1e675-Hd1e101">Caput 7</head>
+            <head xml:id="zef3dd-d1e675-Hd1e103" type="question-title">De attributis divinis in genere</head>
+            <p xml:id="zef3dd-d1e675-d1e106">
+               <lb ed="#B" n="83"/>CAPUT VII. 
+      <lb ed="#B" n="84"/>DE ATTRIBUTIS DIVINIS IN 
+<lb ed="#B" n="85"/>GENERE 
+</p>
+            <p xml:id="zef3dd-d1e675-d1e115">
+               <lb ed="#B" n="86"/>104. Egimus hactenus de unitate divinae essen 
+      <lb ed="#B" n="87"/>iae, consequens est, ut de attributis divinis in 
+      <lb ed="#B" n="88"/>posterum agamus, de quibus duo formamus 
+      theore<lb ed="#B" n="89" break="no"/>mata. 1. Attributa divina in se ac per se 
+      consi<lb ed="#B" n="90" break="no"/>derata sunt realiter et simplicissime unum cum 
+      di<lb ed="#B" n="91" break="no"/>vina essentia, ut late ostendimus in art. de natura 
+      <lb ed="#B" n="92"/>Dei §. 47. et seqq. Ratio dependet 1. a 
+      simplici<lb ed="#B" n="93" break="no"/>tate divinae essentiae, quae omnem omnino 
+      compo<lb ed="#B" n="94" break="no"/>litionem essentiae et accidentium includit. Rabbenu 
+      <lb ed="#B" n="95"/>Haccados in gale razeia referente Weidnero in lo 
+      <lb ed="#B" n="96"/>cis fid. traet. 1. p. 119: Nihil invenitur in Deo 
+      <lb ed="#B" n="97"/>quod non sit ipse Deus. Augustin. lib. 8. de 
+      civi<lb ed="#B" n="98" break="no"/>tate Dei c. 6: Non aliud est illi esse, aliud vivere, 
+      <lb ed="#B" n="99"/>quasi possit esse non vivens, nec aliud illi est 
+      vi<lb ed="#B" n="100" break="no"/>vere, aliud intelligere, quasi possit vivere non in 
+      <lb ed="#B" n="101"/>elligens, nec aliud est illi intelligere, aliud beatum 
+      <lb ed="#B" n="102"/>esse, quasi possit intelligere et non beatus esse 
+      <lb ed="#B" n="103"/>sed quod est illi vivere, intelligere, beatum esse 
+      <lb ed="#B" n="104"/>hoc est illi esse. Quicquid de Deo digne dicitur, 
+      <lb ed="#B" n="105"/>non qualitas est, sed essentia. Leo epist. 91. 2. A. 
+      <lb ed="#B" n="106"/>incommutabilitate divinae essentiae. Si attributa 
+      <lb ed="#B" n="107"/>per modum qualitatum Deo inessent, Deus 
+      consti<lb ed="#B" n="108" break="no"/>tueretur mutabilis, quia omnis qualitas, omne acci 
+      <lb ed="#B" n="109"/>dens inest mutabiliter. Alcuinus lib. 1. de trinit. 
+      <lb ed="#B" n="110"/>c. 11: Aeternitas et incommutabilitas negat alicuju 
+      <lb ed="#B" n="111"/>accidentis in DEO instabilitatem, quia omne ac 
+      <lb ed="#B" n="112"/>cidens secundum tempus vel esse vel non esse potest 
+      <lb ed="#B" n="113"/>vel potuit, vel etiam poterit. 3. Ab aeternitate 
+      <!--369.xml-->
+      <pb ed="#B" n="296"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Omne accidens supervenit subjecto, cum sit praeter 
+      <lb ed="#B" n="2"/>essentiam subjecti. Jam vero de Deo dici vel cogi 
+      <lb ed="#B" n="3"/>tari nequit, quod aliquid ipsi superveniat, est enim 
+      <lb ed="#B" n="4"/>aeternus et omnia habet a se ipso et ab aeterno 
+      <lb ed="#B" n="5"/>August. tr. 20. in Joh.: Deo est consubetantial 
+      <lb ed="#B" n="6"/>quicquid ejus est et quod est. Confer. Bernl. 
+      <lb ed="#B" n="7"/>serm. 80. in Cant. Porismata hujus theorematis 
+      <lb ed="#B" n="8"/>junt: 1. omnia attributa aequaliter Deo inesse, sum 
+      <lb ed="#B" n="9"/>enim ipsa Dei essentia, respectu nostri et respectu 
+      <lb ed="#B" n="10"/>operationum dicitur misericordia superexaltare 
+      ju<lb ed="#B" n="11" break="no"/>dicium Jac. 2. v. 13. 2. Inesse Deo incommutabil. 
+      <lb ed="#B" n="12"/>ter, adeo ut non intendantur nec remittantur ne 
+      <lb ed="#B" n="13"/>magis et minus recipiant. Sic Deus non est hodi 
+      <lb ed="#B" n="14"/>justior, sapientior ete, quia est ipsa justitia, 
+      sapien<lb ed="#B" n="15" break="no"/>tia. 3. Inesse Deo inseparabiliter, ut enim ἀδύνο 
+      <lb ed="#B" n="16"/>roν est essentiam rei ab ipsa re separari, ita quo 
+      <lb ed="#B" n="17"/>que attributa a Deo separari nequeunt, cum sin 
+      <lb ed="#B" n="18"/>psa Dei essentia. **Quod Justinus in qq. et 
+      <lb ed="#B" n="19"/>resp. ad Graecos p. 135. liberas Dei actiones 
+      acci<lb ed="#B" n="20" break="no"/>dentia nominat contingenter Deo inhaerentia, illu 
+      <lb ed="#B" n="21"/>de praedicatis accidentalibus, non de accidentibu 
+      <lb ed="#B" n="22"/>seu qualitatibus inhaesivis et proprie sic dictis in 
+      <lb ed="#B" n="23"/>telligit. Deus enim libere vult, decernit et opera 
+      <lb ed="#B" n="24"/>tur; et hae volitiones, decreta et operationes 
+      al<lb ed="#B" n="25" break="no"/>ejus essentia ratione sunt distincta, contingenter 
+      <lb ed="#B" n="26"/>autem de ea praedicantur, quia habent relationem 
+      <lb ed="#B" n="27"/>ad creaturas contingenter se habentes. ** 4. Inesse 
+      <lb ed="#B" n="28"/>absque ulla sui contrarietate, quia essentia non 
+      con<lb ed="#B" n="29" break="no"/>trariatur sibi ipsi. Quamvis ergo justitia et miseri 
+      <lb ed="#B" n="30"/>cordia tum objectorum, tum effectorum ratione 
+      <lb ed="#B" n="31"/>distinguantur, tamen non sunt sibi invicem 
+      con<lb ed="#B" n="32" break="no"/>trariae 
+      </p>
+            <p xml:id="zef3dd-d1e675-d1e254">
+               <lb ed="#B" n="33"/>105. 2. Attributa divina docendi causa et pro 
+      <lb ed="#B" n="34"/>pter conceptus nostri infirmitatem variis modis di 
+      <lb ed="#B" n="35"/>tinguuntur. Scal. ex. 365. sect. 6: Bonitas, 
+      sapien<lb ed="#B" n="36" break="no"/>tia, omnipotentia in ipso sunt, ut eint ipsum, ita 
+      <lb ed="#B" n="37"/>insunt, ut nihil antecedat, nihil subsequatur, e 
+      <lb ed="#B" n="38"/>captu atque intellectione nostra, quae perquam un 
+      <lb ed="#B" n="39"/>bratilis est, aliis alia prius animo concipiuntur 
+      <lb ed="#B" n="40"/>In Locis proposuimus has divisiones: 1. Quaedam 
+      <lb ed="#B" n="41"/>attributa praedicantur de Deo et creaturis simul 
+      <lb ed="#B" n="42"/>qualia sunt, quibus res, quae in creaturis acciden 
+      <lb ed="#B" n="43"/>tia sunt, in Deo autem substantiae, significantur, ut 
+      <lb ed="#B" n="44"/>quando Deus dicitur bonus, sapiens; quaedam vero 
+      <lb ed="#B" n="45"/>de solo Deo praedicantur, qualia sunt, quibus res 
+      <lb ed="#B" n="46"/>quae soli Deo competunt, explicantur, ut quando 
+      <lb ed="#B" n="47"/>Deus dicitur aeternus, infinitus. 2. Quaedam dicun 
+      <lb ed="#B" n="48"/>tur de Deo absolute, h. e. sine ulla relatione 
+      a<lb ed="#B" n="49" break="no"/>creaturas, ut quando Deus dicitur aeternus, immer 
+      <lb ed="#B" n="50"/>sus; quaedam vero relative, ut quando Deus dicitu 
+      <lb ed="#B" n="51"/>creator, rex, judex. 3. Quaedam dicuntur ànoφare 
+      <lb ed="#B" n="52"/>κῶς, negative, ut quando dicitur Deus invisibilis 
+      <lb ed="#B" n="53"/>immortalis, incorporeus; quaedam καταφατικῶς 
+      affir<lb ed="#B" n="54" break="no"/>mative, quando dicitur bonus, justus. 4. Quaedam 
+      <lb ed="#B" n="55"/>attributa de Deo dicuntur proprie, ut quod sit bo 
+      <lb ed="#B" n="56"/>nus, sapiens etc.; quaedam improprie et figurate 
+      <lb ed="#B" n="57"/>quando per ἀνθρωποπάθειαν membra et affectu 
+      <lb ed="#B" n="58"/>humani illi tribuuntur. Metaphorica attributa Deo 
+      <lb ed="#B" n="59"/>tribuuntur non δεολογικῶς, sed οἰκονομικῶς. Theod. 
+      <lb ed="#B" n="60"/>Dial. 2. per quandam συγκατάφασιν. Dicuntur de 
+      <!--369.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ροο ἀνθρωποπαθῶς, sed intelligenda sunt θεοπρεπῶς 
+      <lb ed="#B" n="62"/>5. Quaedam dicuntur de Deo in abstracto, ut quando 
+      <lb ed="#B" n="63"/>dicitur vita, bonitas, veritas; quaedam in concreto, 
+      <lb ed="#B" n="64"/>ut quando dicitur vivens, bonus, verax. 6. Quaedam 
+      <lb ed="#B" n="65"/>attributa in simplici divinitate considerantur, quae 
+      <lb ed="#B" n="66"/>nec per externas operationes sese exserunt nec ullum 
+      <lb ed="#B" n="67"/>ad creaturas respectum habent, utpote quod Deus 
+      <lb ed="#B" n="68"/>sit primo essentia spiritualis ac invisibilis, secundo 
+      <lb ed="#B" n="69"/>simplicissima, tertio aeterna, ac proinde immutabilis 
+      <lb ed="#B" n="70"/>et immortalis, quarto infinita. Quaedam vero ope 
+      <lb ed="#B" n="71"/>rationes suas exterius in creaturis exserunt, et ad 
+      <lb ed="#B" n="72"/>eas relationem quandam habent, utpote quod Deus 
+      <lb ed="#B" n="73"/>sit primo omnipotens, secundo summe bonue, tertio 
+      <lb ed="#B" n="74"/>justus, quarto sapiens, quinto liberrimum agens, sexto 
+      <lb ed="#B" n="75"/>verax. Illa dicuntur ἀκοινώνητα, haec vero κοινω 
+      <lb ed="#B" n="76"/>vyrά, quorum scilicet ex parte et per similitudinem 
+      <lb ed="#B" n="77"/>rationales creaturae fieri possunt participes. Ei 
+      <lb ed="#B" n="78"/>utriusque generis attributis conjunctim sumtis 
+      exsur<lb ed="#B" n="79" break="no"/>git primo Dei perfectio, secundo majestas et gloria. 
+      <lb ed="#B" n="80"/>tertio beatitudo. Quid circa singulas hasce attribu 
+      <lb ed="#B" n="81"/>torum divisiones notandum sit, ibidem late fuit 
+      <lb ed="#B" n="82"/>expositum. 7. Attributa Dei quaedam sunt interna 
+      <lb ed="#B" n="83"/>it infinitas, aeternitas, spiritualitas; quaedam externa, 
+      <lb ed="#B" n="84"/>eaque vel inimitabilia, ut omnipotentia, omniscientia 
+      <lb ed="#B" n="85"/>omnipraesentia, vel imitabilia, ut bonitas, justitia 
+      <lb ed="#B" n="86"/>8. Attributa quaedam conveniunt Deo ab aeterno, 
+      <lb ed="#B" n="87"/>it quod sit infinitus, immensus, quaedam in tempore, 
+      <lb ed="#B" n="88"/>quod sit creator et conservator, quae omnia σχετικά 
+      <lb ed="#B" n="89"/>et relativa non aliquam in Deo ipso mutationem in 
+      <lb ed="#B" n="90"/>tempore factam arguunt, sed novum opus ab ipsc 
+      <lb ed="#B" n="91"/>roductum, et in creaturis mutationem factam esse 
+      <lb ed="#B" n="92"/>denotant. Scholastici dicunt: per inhaerentiam nihil 
+      <lb ed="#B" n="93"/>praedicatur de Deo temporale, sed vel per modum 
+      <lb ed="#B" n="94"/>causae, ut creator, vel per modum unionis, ut 
+      ver<lb ed="#B" n="95" break="no"/>bum caro factum est, et tunc mutatio accidit circa 
+      <lb ed="#B" n="96"/>creaturam. 9. Quaedam attributa sunt toti Trinitat 
+      <lb ed="#B" n="97"/>communia, quae ob xml:id vocantur essentialid, de qui 
+      <lb ed="#B" n="98"/>bus proprie h. I. agitur, ut quod Deus sit bonus 
+      <lb ed="#B" n="99"/>sapiens, justus, creator; quaedam vero sunt singu 
+      <lb ed="#B" n="100"/>larum personarum propria, ut quod Pater dicitur 
+      <lb ed="#B" n="101"/>ingenitus, Filius genitus a Patre, Spiritus s. 
+      proce<lb ed="#B" n="102" break="no"/>lens ab utroque. Rabbini attributa vocant 1οV 2 
+      <lb ed="#B" n="103"/>divinitatis seu 1οῦ  essentiae ni7 propricto 
+      <lb ed="#B" n="104"/>tes. Antith. Gilbertus Porretanus Pictaviens. epise 
+      <lb ed="#B" n="105"/>ittributa Deitatis ab ipsa Deitate velut accidentia a 
+      <lb ed="#B" n="106"/>subjecto differre docuit teste Bernhardo serm. 80. in 
+      <lb ed="#B" n="107"/>Cant.; postea damnavit Eugenius in concilio 
+      Re<lb ed="#B" n="108" break="no"/>nenei 
+      </p>
+            <p xml:id="zef3dd-d1e675-d1e427">
+               <lb ed="#B" n="109"/>106. Quaeritur h. l. 1. An attributa κoivωryte 
+      <lb ed="#B" n="110"/>eodem modo praedicentur de Deo et creaturio! 
+      <lb ed="#B" n="111"/>Resp. minime vero, sed de Deo praedicantur esser 
+      <lb ed="#B" n="112"/>tialiter ἐξοχικῶς adeoque plane singulariter, de crea 
+      <lb ed="#B" n="113"/>turis quibus duntaxat accidentaliter et per quandam 
+      <lb ed="#B" n="114"/>participationem ac similitudinem. Ut enim infinito 
+      <lb ed="#B" n="115"/>discrimine invicem distinguuntur bonitas Dei et 
+      bo<lb ed="#B" n="116" break="no"/>nitas hominis, adeo ut Christus dicat neminem esse 
+      <lb ed="#B" n="117"/>bonum, scilicet οὐσιωδῶς καὶ ἀναλλοιώνως, praeter 
+      <lb ed="#B" n="118"/>solum Deum Matth. 19, v. 17, ita quoque modus 
+      <lb ed="#B" n="119"/>attributionis ac praedicationis plurimum variat. De 
+      <lb ed="#B" n="120"/>Deo praedicatur in abstracto, de creaturis tantum 
+      <!--370.xml-->
+      <pb ed="#B" n="297"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>in concreto. Bonitas Dei non solum essentialiter Dec 
+      <lb ed="#B" n="2"/>competit, et est ipsa Dei essentia, sed etiam est 
+      <lb ed="#B" n="3"/>causa et regula bonitatis in homine, quia jubetu 
+      <lb ed="#B" n="4"/>homo in vita sua exemplar illius bonitatis sibi per 
+      <lb ed="#B" n="5"/>petuo ob oculos proponere et pro virili illud 
+      expri<lb ed="#B" n="6" break="no"/>mere. Quantum igitur distat umbra a corpore, in 
+      <lb ed="#B" n="7"/>perfecta imitatio a perfecta regula, accidens ab es 
+      <lb ed="#B" n="8"/>sentia, imo finitum ab infinito, tantum quoque distat 
+      <lb ed="#B" n="9"/>bonitas hominis a Dei bonitate. 
+      </p>
+            <p xml:id="zef3dd-d1e675-d1e482">
+               <lb ed="#B" n="10"/>107. Qu. 2. An attributa σχeτiκà sint realia. 
+      <lb ed="#B" n="11"/>Resp. praedicata relativa dupliciter sumi possunt: ii 
+      <lb ed="#B" n="12"/>ut significant actualem causalitatem et sic nullam 
+      <lb ed="#B" n="13"/>dicunt in Deo perfectionem, sed extrinsecam tantum 
+      <lb ed="#B" n="14"/>relationem, quae Deo advenit. 2. ut significant 
+      po<lb ed="#B" n="15" break="no"/>tentiam seu virtutem creandi, salvandi ete. et sic 
+      di<lb ed="#B" n="16" break="no"/>cunt realem perfectionem. Priori modo notant actio 
+      <lb ed="#B" n="17"/>nem, posteriori agendi principium, illa fit in tempore 
+      <lb ed="#B" n="18"/>hoc est aeternum. Ex parte creaturae ad Deum 
+      <lb ed="#B" n="19"/>creatorem est relatio realis, quia creaturae in essendo 
+      <lb ed="#B" n="20"/>dependent a Deo, absque cujus voluntate uti non 
+      <lb ed="#B" n="21"/>potuissent exsistere, ita nec ad momentum conservari 
+      <lb ed="#B" n="22"/>sed ex parte creatoris ad creaturam non est relatio 
+      <lb ed="#B" n="23"/>realis, quia ex opere creationis nulla perfectio novi 
+      <lb ed="#B" n="24"/>creatori in tempore accessit, sed ipse xml:idem atque 
+      <lb ed="#B" n="25"/>immutabilis in se ipso permanens creaturae 
+      perfe<lb ed="#B" n="26" break="no"/>ctionem aliquam, exsistentiam scilicet contulit. Rela 
+      <lb ed="#B" n="27"/>tiva ergo illa attributa non in Deo, sed in creaturis 
+      <lb ed="#B" n="28"/>aliquam mutationem inducunt, nec Deo, sed 
+      creatu<lb ed="#B" n="29" break="no"/>ris aliquid accessisse inferunt, Deus est merus e 
+      <lb ed="#B" n="30"/>purus actus in se ipso, varians operum effecta, ipse 
+      <lb ed="#B" n="31"/>In se ipso invariabilis permanens 
+      </p>
+            <p xml:id="zef3dd-d1e675-d1e532">
+               <lb ed="#B" n="32"/>108. Qu. 3. An attributa in concreto de 
+      De<lb ed="#B" n="33" break="no"/>praedicari possint? Neg. Scalig. exere. 365. sect. 6. 
+      <lb ed="#B" n="34"/>Quoniam (inquit) Deo multa attribuuntur, ut omni 
+      <lb ed="#B" n="35"/>potens, omnisciens, misericors, pius, justus, vindea 
+      <lb ed="#B" n="36"/>sanctus, fortis, immortalis, bonus, primum ens, hauc 
+      <lb ed="#B" n="37"/>recte extorsit usus, ut sic loqueremur. Si enim 
+      <lb ed="#B" n="38"/>denominative de eo quippiam praedicaretur, abstra 
+      <lb ed="#B" n="39"/>ctum esset tum aliud ab ipso, tum ipso prius, quod 
+      <lb ed="#B" n="40"/>sane impium est, quare neque ens est, sed essentio 
+      <lb ed="#B" n="41"/>neque bonus, sed bonitas. Atqui Scriptura saepis 
+      <lb ed="#B" n="42"/>sime in concreto de Deo loquitur, quod sit bonus 
+      <lb ed="#B" n="43"/>sapiens, justus, in quibus locis omnibus improprio 
+      <lb ed="#B" n="44"/>tatem loquendi vix possumus agnoscere. Repetimu 
+      <lb ed="#B" n="45"/>ergo regulam: Quaecunque a creaturis transferuntu 
+      <lb ed="#B" n="46"/>ad Deum, repurganda prius sunt ab omnibus imper 
+      <lb ed="#B" n="47"/>fectionibus, et tum demum xml:id, quod perfectum est 
+      <lb ed="#B" n="48"/>Deo attribuendum. Sic concretum in humanis deno 
+      <lb ed="#B" n="49"/>tat subjectum cum accidentali vel substantiali forma 
+      <lb ed="#B" n="50"/>vere subsistens, remove compositionem subjecti e 
+      <lb ed="#B" n="51"/>accidentis tanquam imperfectionem aliquam, et re 
+      <lb ed="#B" n="52"/>manebit ens per se subsistens, xml:id per usum 
+      concre<lb ed="#B" n="53" break="no"/>tarum appellationum perfectissimo modo Deo tribui 
+      <lb ed="#B" n="54"/>tur. Ex eodem principio posset aliquis concludere 
+      <lb ed="#B" n="55"/>nec abstractis nominibus de Deo esse utendum. 
+      Ab<lb ed="#B" n="56" break="no"/>stracta nomina denotant formas nuspiam per se 
+      <lb ed="#B" n="57"/>subsistentes, sed ἐπινοίς mentis a subjectis et 
+      indi<lb ed="#B" n="58" break="no"/>viduis distinguendas, abstracta per se non subsistum 
+      <lb ed="#B" n="59"/>sed ut sunt in suis subjectis. At Deus non est talis 
+      <lb ed="#B" n="60"/>quaedam forma nuspiam separatim subsistens. Quid 
+      <!--370.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ergo? separa omnem ab abstractis nominibus 
+      imper<lb ed="#B" n="62" break="no"/>fectionem et xml:id, quod perfectissimum est, Deo 
+      tri<lb ed="#B" n="63" break="no"/>bue. Abstractae formae sunt simplicissimae et 
+      per<lb ed="#B" n="64" break="no"/>fectissimae, sic albedo 1ῇ ἐπινοία secreta à pariete 
+      <lb ed="#B" n="65"/>licet separata nunquam exsistat, est simplicissima et 
+      <lb ed="#B" n="66"/>perfectissima, nihil dissimile, nihil contrarii 
+      admix<lb ed="#B" n="67" break="no"/>tum habens. Perfectiones, h. e. in abstractis, xml:id 
+      <lb ed="#B" n="68"/>ergo Deo tribuendum, qui xml:ideo dicitur non solum 
+      <lb ed="#B" n="69"/>bonus, sed etiam bonitas, quia perfectissimo modo 
+      <lb ed="#B" n="70"/>et per essentiam bonus est, imo et causa bonitatis 
+      <lb ed="#B" n="71"/>est, sicut concreta denominantur ab abstractis. Im 
+      <lb ed="#B" n="72"/>erfectionis est, quod abstracta seorsim et per se 
+      <lb ed="#B" n="73"/>non exsistunt, hanc a Deo remove, qui est non solum 
+      <lb ed="#B" n="74"/>ans per se subsistens, sed etiam omnibus entibus 
+      <lb ed="#B" n="75"/>essentiam praebens 
+      </p>
+            <p xml:id="zef3dd-d1e675-d1e634">
+               <lb ed="#B" n="76"/>109. Qu. 4. An attributa divina recte vocentu 
+      <lb ed="#B" n="77"/>propria? Resp. Terminus proprii accipitur duplici 
+      <lb ed="#B" n="78"/>ter: 1. Physice, sie notat accidens quoddam substan 
+      <lb ed="#B" n="79"/>tiae inhaerens et realiter a suo subjecto distinctum. 
+      <lb ed="#B" n="80"/>2. Logice, sicque propria dicuntur non tantum, quae 
+      <lb ed="#B" n="81"/>nhaerent substantiae et cum suo subjecto 
+      recipro<lb ed="#B" n="82" break="no"/>cantur, sed etiam ipsa essentialis ratio subjecti. Sic 
+      <lb ed="#B" n="83"/>Philosophus 1. Top. definitionem vocat proprium 
+      <lb ed="#B" n="84"/>quia definitio uni soli et semper tribuitur, licet in 
+      <lb ed="#B" n="85"/>naerentia excludatur, definitio dicitur proprium non 
+      <lb ed="#B" n="86"/>per inhaerentiam, sed per simplicem xml:identitatem. 
+      <lb ed="#B" n="87"/>Hoc sensu attributa possunt dici propria. 
+      </p>
+            <p xml:id="zef3dd-d1e675-d1e663">
+               <lb ed="#B" n="88"/>110. Qu. 5. An intellectus noster recte conci 
+      <lb ed="#B" n="89"/>piat attributa divina, distincte ea concipiendo, quad 
+      <lb ed="#B" n="90"/>realiter sunt cum essentia divina et inter se unum 
+      <lb ed="#B" n="91"/>Quidam ex Scholasticis ita concludunt: Conceptus 
+      <lb ed="#B" n="92"/>formalis, quem de aliqua re intellecta formamus, non 
+      <lb ed="#B" n="93"/>potest esse verus, nisi ipsa re correspondeat illi 
+      con<lb ed="#B" n="94" break="no"/>ceptus objectivus. Quod si ergo in Deo non est 
+      <lb ed="#B" n="95"/>nisi unus conceptus objectivus, xml:idemque 
+      simplicissi<lb ed="#B" n="96" break="no"/>nus, non sine falsitate distinctos conceptus formales 
+      <lb ed="#B" n="97"/>de Deo formare possumus. Scotistae propterea 
+      sta<lb ed="#B" n="98" break="no"/>tuunt attributa divina formaliter distingui inter se 
+      <lb ed="#B" n="99"/>et ab essentia. Sed resp. Quamvis attributa divina 
+      <lb ed="#B" n="100"/>nec ab essentia nec inter se actu ex natura rei 
+      <lb ed="#B" n="101"/>listinguantur, tamen distinguuntur eminenter es 
+      <lb ed="#B" n="102"/>pirtute, quia essentia divina per se ipsam propter 
+      <lb ed="#B" n="103"/>infinitatem, simplicitatem et perfectionem suam ea 
+      <lb ed="#B" n="104"/>omnia praestat, quae essentia creata per multas et 
+      <lb ed="#B" n="105"/>listinetas qualitates praestat, unde fit, ut de eadem 
+      <lb ed="#B" n="106"/>divina essentia possimus formare diversos conceptus. 
+      <lb ed="#B" n="107"/>Jonceptus objectivus formaliter in Deo est unus. 
+      <lb ed="#B" n="108"/>pirtute et eminenter multi. Idem patet ex divinis 
+      <lb ed="#B" n="109"/>operationibus, quamvis enim in operibus 
+      misericor<lb ed="#B" n="110" break="no"/>diae justitia divina non sit realiter a misericordia 
+      <lb ed="#B" n="111"/>divina in ipso Deo separata, tamen in operibus 
+      mi<lb ed="#B" n="112" break="no"/>sericordiae adaequate non agit Deus secundum suam 
+      <lb ed="#B" n="113"/>justitiam, sed secundum misericordiam, sicut calor 
+      <lb ed="#B" n="114"/>et lux xml:idem sunt in sole, et tamen in calefaciende 
+      <lb ed="#B" n="115"/>sol non agit adaequate secundum lucem, sed 
+      secun<lb ed="#B" n="116" break="no"/>dum calorem. Inde nata est regula: Attributa 
+      di<lb ed="#B" n="117" break="no"/>vina praedicantur de se mutuo et de essentia in 
+      <lb ed="#B" n="118"/>sensu xml:identico (quia ex parte rei nullum hic 
+      discri<lb ed="#B" n="119" break="no"/>men actuale), non autem in sensu formali (quia 
+      <lb ed="#B" n="120"/>nostris conceptibus distinguuntur.
+</p>
+            <p xml:id="zef3dd-d1e675-d1e737">
+      <!--371.xml-->
+               <pb ed="#B" n="298"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>111. Qu. 6. An ex eo, quod communicationem xml:idio 
+      <lb ed="#B" n="2"/>matum Christo cecundum humanam naturam factam 
+      <lb ed="#B" n="3"/>locemus, recte inferatur noc proprietates 
+      cssentiale<lb ed="#B" n="4" break="no"/>ib ipsa cscentia et a ae invicem separare? Reo 
+      <lb ed="#B" n="5"/>nujus criminis nos agit Polanus lib. 2. Syntagn. 
+      <lb ed="#B" n="6"/>c. 7. p. 141: Ubiquitariù (inquit) a Gilberti 
+      Porr<lb ed="#B" n="7" break="no"/>tani orrore non longe abeunt, dum essentiales de 
+      <lb ed="#B" n="8"/>tatio proprietates humanae Christi naturae real 
+      <lb ed="#B" n="9"/>transfusione communicari contendunt, interim 
+      e<lb ed="#B" n="10" break="no"/>centium deitatis communam factam esse asseverare 
+      <lb ed="#B" n="11"/>non audent, quia aliud esset proprietas essentialis 
+      <lb ed="#B" n="12"/>aliud cosentia deitatio. Item dum quasdam 
+      pro<lb ed="#B" n="13" break="no"/>prietates, nimirum omnipotentiam, omniscientiam 
+      <lb ed="#B" n="14"/>omnipraesentiam humanae Christi naturae communi 
+      <lb ed="#B" n="15"/>catas dicunt, simplicitatem, infinitatem, aeternitatem 
+      <lb ed="#B" n="16"/>communiari negant, quasi vero proprietates DE. 
+      <lb ed="#B" n="17"/>cssentiales inter se re ipsa differrent et separas 
+      <lb ed="#B" n="18"/>poscent. Atqui fieri non potest, ut, una cssentiale 
+      <lb ed="#B" n="19"/>proprietate Dei communicata, alicui caeterae 
+      no<lb ed="#B" n="20" break="no"/>communicentur, nec potest aliqua proprietas 
+      De<lb ed="#B" n="21" break="no"/>essentialis communicari citra communicationem 
+      e<lb ed="#B" n="22" break="no"/>centiae. Resp. 1. non docemus xml:idiomatum divinorum 
+      <lb ed="#B" n="23"/>in humanam Christi naturam tranefusionem, sed 
+      com<lb ed="#B" n="24" break="no"/>municationem, nisi quis transfusionis voce utatur 
+      no<lb ed="#B" n="25" break="no"/>pro physica xml:idiomatum e subjecto in subjectum in 
+      <lb ed="#B" n="26"/>migratione, sed pro reali collatione, quemadmodum 
+      <lb ed="#B" n="27"/>Spiritus s. in pios et credentes dicitur effusus. Tit. 3. 
+      <lb ed="#B" n="28"/>v. 6, et caritas Dei dicitur in cordibus nostris 
+      diffus<lb ed="#B" n="29" break="no"/>Rom. 5, v. 5. 2. Non xml:idiomatum tantum, sed ipsius 
+      di<lb ed="#B" n="30" break="no"/>vinae essentiae communicationem humanae naturae 
+      <lb ed="#B" n="31"/>in Christo factam contendimus, ne cum Samosateno 
+      <lb ed="#B" n="32"/>qui τὰς δύω φύσεις παντάκασιν ἀκοινωνήτους εἶνα 
+      <lb ed="#B" n="33"/>locuit, damnemur. Si enim nulla divinae et huma 
+      <lb ed="#B" n="34"/>nae naturae in Christo est communio, utique 
+      ne<lb ed="#B" n="35" break="no"/>duarum naturarum personalis unio, cum unio abs 
+      <lb ed="#B" n="36"/>que communione sit mera παράσιασις, nec locum 
+      <lb ed="#B" n="37"/>amplius habebunt propositiones personales, hic hom 
+      <lb ed="#B" n="38"/>est Deus, Sanctum, quod ex Maria nascitur, eo 
+      <lb ed="#B" n="39"/>Dei Fillus Luc. I. v. 36. 3. Si de piis recte dicitur 
+      <lb ed="#B" n="40"/>quod sint θείας κοινωνοὶ φύσεως γινόμενοι 8. Pet 
+      <lb ed="#B" n="41"/>1. v. 4. quanta erit protervia negare humanam 
+      <lb ed="#B" n="42"/>Christi naturam in ipsam 4όγου ὑπόστασιν assum 
+      <lb ed="#B" n="43"/>tam et evectam divinae naturae per hanc unio 
+      <lb ed="#B" n="44"/>nem et communicationem personalem participer 
+      <lb ed="#B" n="45"/>esse factam? 4. Ut absque ulla essentialium pro 
+      <lb ed="#B" n="46"/>prietatum abolitione humana Christi natura 
+      div<lb ed="#B" n="47" break="no"/>norum xml:idiomatum vere particeps est facta, sic abs 
+      <lb ed="#B" n="48"/>que ulla essentiae suae abolitione divina τοῦ Λόγον 
+      <lb ed="#B" n="49"/>natura assumtae humanitati per unionem est 
+      com<lb ed="#B" n="50" break="no"/>municata. Ut gloria, ita quoque unio et commum 
+      <lb ed="#B" n="51"/>catio carnem non tollit, sed extollit; non interficit 
+      <lb ed="#B" n="52"/>sed perficit. 5. Non quaedam tantum, sed omni 
+      <lb ed="#B" n="53"/>omnino xml:idiomata divina humanae Christi natura 
+      <lb ed="#B" n="54"/>communicata esse dicimus, quid enim tota 
+      plen<lb ed="#B" n="55" break="no"/>tudo deitatis in assumto corpore habitans (Coloss. 2. 
+      <lb ed="#B" n="56"/>v. 9.) aliud est quam divina 1οῦ Aόγου essentia tot. 
+      <lb ed="#B" n="57"/>et indivisa cum omnibus suis attributis? Sed distir 
+      <lb ed="#B" n="58"/>guimus inter communicationem mediatam et imme 
+      <lb ed="#B" n="59"/>diatam; immediate ea tantum attributa sunt 
+      com<lb ed="#B" n="60" break="no"/>municata, quae operationes suas per assumtam na¬ 
+      <!--371.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>turam exserunt; mediate, quae in ipsa deitatis 
+      <lb ed="#B" n="62"/>essentia et complexu interno considerantur, nec ex 
+      <lb ed="#B" n="63"/>serunt suas operationes per assumtam naturam. 
+      Si<lb ed="#B" n="64" break="no"/>licet carni Christi non sit immediate communicata in 
+      <lb ed="#B" n="65"/>initas, aeternitas ete., tamen mediate eidem 
+      com<lb ed="#B" n="66" break="no"/>municata est, quia omnipotentia, omniscientia eto 
+      <lb ed="#B" n="67"/>carni communicata est infinita et aeterna omnipo 
+      <lb ed="#B" n="68"/>tentia. Quidam communicationem mediatam 
+      vocan<lb ed="#B" n="69" break="no"/>ἰνοίκησιν, communicationem immediatam κοινωνίαν 
+      <lb ed="#B" n="70"/>specialiter sic dictam. 6. Ac si nostris λογισμοῖς 
+      <lb ed="#B" n="71"/>hic potius velimus indulgere, quam Scripturae vesti 
+      <lb ed="#B" n="72"/>giis insistere, explicet nobis Polanus, quomodo ipsa 
+      <lb ed="#B" n="73"/>Λόγου ὑπόστασις sit, carni communicata, et 
+      tame<lb ed="#B" n="74" break="no"/>hypostatica proprietas non sit eidem communicata 
+      <lb ed="#B" n="75"/>Prius negare nequit, nisi ipsam unionem negatum 
+      <lb ed="#B" n="76"/>cat; posterius affirmare nequit, nisi etiam 
+      huma<lb ed="#B" n="77" break="no"/>nam Christi naturam ab aeterno a Patre genitam 
+      <lb ed="#B" n="78"/>asserere velit. Ut ergo infinita Dei sapientia et 
+      po<lb ed="#B" n="79" break="no"/>entia potuit invenire modum ac medium, quo per 
+      <lb ed="#B" n="80"/>unionem carni communicata fuerit Λγου ὑπόστασις 
+      <lb ed="#B" n="81"/>non communicata immediate scil. hypostatica pro 
+      <lb ed="#B" n="82"/>prietate, ita quoque modum invenire potuit, quo 
+      <lb ed="#B" n="83"/>communicata omnipotentia, omniscientia et aliis at 
+      <lb ed="#B" n="84"/>ributis ad officii Christi exsecutionem pertinentibus 
+      <lb ed="#B" n="85"/>ion communicata fuerit immediate aeternitas, infini 
+      <lb ed="#B" n="86"/>tas ete. An ex eadem xml:idiomatum communicatione 
+      <lb ed="#B" n="87"/>quam Christi carni factam esse constanter docemus 
+      <lb ed="#B" n="88"/>firmiter concludi possit nos duas omnipotentias 
+      divi<lb ed="#B" n="89" break="no"/>ias, duas omniscientias divinas statuere, ut Calvi 
+      <lb ed="#B" n="90"/>niani nobis impingunt, ea de re late egimus in 
+      disp<lb ed="#B" n="91" break="no"/>1. de glor. Dei §. 2. 
+      </p>
+            <p xml:id="zef3dd-d1e675-d1e949">
+               <lb ed="#B" n="92"/>112. Unus practicus eat: 1. consolationis. Quia 
+      <lb ed="#B" n="93"/>attributa Dei non sunt aliquod accidens mutabile in 
+      <lb ed="#B" n="94"/>Deo, sed ipsa ejus essentia, xml:ideo amorem et dile 
+      <lb ed="#B" n="95"/>etionem ejus, qua pios complectitur, oportet esse 
+      <lb ed="#B" n="96"/>quiddam longe ardentius, quam nos cogitatione 
+      com<lb ed="#B" n="97" break="no"/>lecti possumus. Eccles. 2, v. 23: Quantus eo 
+      <lb ed="#B" n="98"/>Deus, tanta misericordia ejus. At ipse infinitus 
+      <lb ed="#B" n="99"/>immensus, invariabilis, aeternus. Ergo etiam talis 
+      <lb ed="#B" n="100"/>est ipsius misericordia, praevaluit super noc in ac 
+      <lb ed="#B" n="101"/>ernum. Psal. III, v. 2. ipsa non variatur nec 
+      mu<lb ed="#B" n="102" break="no"/>tatur, nisi nos mutemur, sicut sol manet xml:idem, sed 
+      <lb ed="#B" n="103"/>homines ab ejus luce et calore se avertentes bene 
+      <lb ed="#B" n="104"/>ficiis solis se ipsos privant. Num. 23, v. 19: Nor 
+      <lb ed="#B" n="105"/>est Deus quasi homo, ut mentiatur, nec ut filius 
+      ho<lb ed="#B" n="106" break="no"/>minis, ut poeniteat eum, dixit et non faciet? loca 
+      <lb ed="#B" n="107"/>tus est et non implebit? q. d. homines sunt admo 
+      <lb ed="#B" n="108"/>dum mutabiles, quod hodie promittunt, eras 
+      revo<lb ed="#B" n="109" break="no"/>cant, quem hodie amore complectuntur, eum cra 
+      <lb ed="#B" n="110"/>odio prosequuntur, sed non ita mutabilis eat Deus 
+      <lb ed="#B" n="111"/>in sua erga homines dilectione et in suis promissio 
+      <lb ed="#B" n="112"/>nibus. Conjunge Jerem. 31, v. 20. Hoseae 13, v. 8. 
+      <lb ed="#B" n="113"/>Non faciam furorem irae meae, Deue ego et non 
+      <lb ed="#B" n="114"/>homo. 2. hortatorius. Mutabilis nostra bonitas 
+      im<lb ed="#B" n="115" break="no"/>nutabilem Dei bonitatem sibi proponat imitandam 
+      <lb ed="#B" n="116"/>it ab illa immutabilitate nostrae bonitatis 
+      mutabili<lb ed="#B" n="117" break="no"/>tas ac instabilitas, quasi abeorbeatur. Estote 
+      per<lb ed="#B" n="118" break="no"/>fecti, sicut pater vester coelestio perfectus cst, 
+      ela<lb ed="#B" n="119" break="no"/>mat Salvator Matth. 5, v. 48. Estote cancti, quia 
+      <lb ed="#B" n="120"/>et ego canctus cum, hortatur Deus Levit. 1I. v. 44. 
+      <!--372.xml-->
+      <pb ed="#B" n="299"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>At nulla sanctitatis, bonitatis ac dilectionis perfectio 
+      <lb ed="#B" n="2"/>nisi immutabilitas ei sit conjuncta, ad illam igitur 
+      <lb ed="#B" n="3"/>in hac vita adspiremus, ad quam in altera vita όὸ 
+      <lb ed="#B" n="4"/>κλήρως evehemur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

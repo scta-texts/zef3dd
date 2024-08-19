@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="601"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e1132"><!-- zef3dd-l4c15 -->
+            <head xml:id="zef3dd-d1e1132-Hd1e101">Caput 15</head>
+            <head xml:id="zef3dd-d1e1132-Hd1e103" type="question-title">De Christi officio</head>
+            <p xml:id="zef3dd-d1e1132-d1e106">
+               <lb ed="#B" n="112"/>CAPUT XV
+<lb ed="#B" n="113"/>ET ULTIMUM 
+      <lb ed="#B" n="114"/>DE CHRISTI OFFICIO
+</p>
+            <p xml:id="zef3dd-d1e1132-d1e115">
+               <lb ed="#B" n="115"/>320. Thesis 1: Officium Christi consistit in opere 
+      <lb ed="#B" n="116"/>mediationis inter Deum et homines, quod est finis 
+      <!--709.xml-->
+      <pb ed="#B" n="602"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>incarnationis 1. Tim. 2, v. 5. Egimus hactenus de 
+      <lb ed="#B" n="2"/>persona Christi, restat ut de salutari ejusdem 
+      offici<lb ed="#B" n="3" break="no"/>agamus, quia unio divinae et humanae naturae in 
+      <lb ed="#B" n="4"/>Christo xml:ideo facta est, ut mediatoris ac redemtori. 
+      <lb ed="#B" n="5"/>officio Filius Dei in assumta natura fungi posse 
+      <lb ed="#B" n="6"/>1. Joh. 3, v. 8: In hoc apparuit Filius Dei, ut dia 
+      <lb ed="#B" n="7"/>solveret opera diaboli. Matth. 20, v. 28: Filius 
+      ho<lb ed="#B" n="8" break="no"/>minis non venit, ut sibi ministraretur, sed ut ips 
+      <lb ed="#B" n="9"/>ministraret et daret animam suam λύτρον pro 
+      mu<lb ed="#B" n="10" break="no"/>tis. Joh. 6. v. 38: Descendi e coelo, non ut faciam 
+      <lb ed="#B" n="11"/>voluntatem meam, sed voluntatem ejus, qui misit 
+      me<lb ed="#B" n="12" break="no"/>Symb. Nycen.: Propter nos homines et propter 
+      no<lb ed="#B" n="13" break="no"/>stram salutem descendit de coelo et homo factus es 
+      <lb ed="#B" n="14"/>ete. August. Conf. art. 3: Verbum eive Filius Dei 
+      a<lb ed="#B" n="15" break="no"/>sumsit humanam naturam, ut reconciliaret nobi 
+      <lb ed="#B" n="16"/>Patrem et hostia esset pro peccatis, non tantum 
+      pr<lb ed="#B" n="17" break="no"/>culpa originis, sed etiam pro omnibus actualibu 
+      <lb ed="#B" n="18"/>peccatis. 
+      </p>
+            <p xml:id="zef3dd-d1e1132-d1e167">
+               <lb ed="#B" n="19"/>321. Thesis 2: Officium Christi vulgo triplex sta 
+      <lb ed="#B" n="20"/>tuitur: propheticum, sacerdotale et regium, quod 
+      <lb ed="#B" n="21"/>tamen revocari potest ad duo membra, ita ut 
+      duple<lb ed="#B" n="22" break="no"/>Christi statuatur officium, sacerdotale et regium 
+      <lb ed="#B" n="23"/>Sacerdotis enim est non solum sacrificare, orare, in 
+      <lb ed="#B" n="24"/>tercedere et benedicere, sed etiam docere, quod a 
+      <lb ed="#B" n="25"/>propheticum officium referunt. Sufficientia huju 
+      <lb ed="#B" n="26"/>distributionis probatur 1. ex dictorum Scriptura 
+      <lb ed="#B" n="27"/>coordinatione. Quot sunt classes, in quas referi 
+      <lb ed="#B" n="28"/>possunt appellationes, quae ratione officii Christ 
+      <lb ed="#B" n="29"/>tribuuntur, et dicta Scripturae, quae de Christi officie 
+      <lb ed="#B" n="30"/>loquuntur, tot etiam partes officii Christi recte sta 
+      <lb ed="#B" n="31"/>tuuntur. Jam vero tres sunt classes, in quas 
+      referr<lb ed="#B" n="32" break="no"/>possunt appellationes, quae ratione officii Christ 
+      <lb ed="#B" n="33"/>tribuuntur ete. Ergo. 1. Respectu prophetici officit 
+      <lb ed="#B" n="34"/>Christus vocatur pastor Ezech. 34, v. 23. e. 37. 
+      <lb ed="#B" n="35"/>v. 29. et cum προσδιορισμῷ pastor unus omnium 
+      <lb ed="#B" n="36"/>ibid. pastor ille bonus Joh. 10, v. 11; pastor mo 
+      <lb ed="#B" n="37"/>gnus ovium Hebr. 13, v. 20; ἀρχιποίμην 1. Petr.. 
+      <lb ed="#B" n="38"/>v. 4; propheta Deut. 18, v. 15; propheta magnus 
+      <lb ed="#B" n="39"/>Luc. 7, v. 19. c. 24, v. 19; apostolus 
+      confessioni<lb ed="#B" n="40" break="no"/>nostrae Hebr. 3, v. 1; evangelista Esa. 41, v. 27. 
+      <lb ed="#B" n="41"/>rabbi Marc. 9, v. 5. Johan. 1, v. 38. c. 3, v. 2. 
+      <lb ed="#B" n="42"/>doctor, magister Matth. 23, v. 10; praeceptor Luo 
+      <lb ed="#B" n="43"/>17, v. 13; praeceptor gentium Esa. 55, v. 4; 
+      legife<lb ed="#B" n="44" break="no"/>noster Esa. 33, v. 22; consiliarius Esa. 9, v. 6. 
+      <lb ed="#B" n="45"/>minister circumcisionis Rom. 15, v. 8, ete; aucto 
+      <lb ed="#B" n="46"/>et consummator fidei Hebr. 12, v. 2. 2. Respectu 
+      <lb ed="#B" n="47"/>sacerdotalis officii vocatur noster sacerdos Psaln. 
+      <lb ed="#B" n="48"/>110, v. 4; sacerdos magnus super domum Dei Hebi 
+      <lb ed="#B" n="49"/>10, v. 21; noster pontifex Hebr. 3, v. 1; 
+      pontife<lb ed="#B" n="50" break="no"/>fidelis ad propitianda delicta Hebr. 2, v. 17; pon 
+      <lb ed="#B" n="51"/>tifex magnus Hebr. 5, v. 10; pontifex futurorum 
+      <lb ed="#B" n="52"/>bonorum Hebr. 9, v. 11; λειτουργὸς sanctorum e 
+      <lb ed="#B" n="53"/>veri tabernaculi, quod Deus praeparavit Hebr.6 
+      <lb ed="#B" n="54"/>v. 2; noster advocatus 1. Joh. 2, v. 2; λῦτρον κὸ 
+      <lb ed="#B" n="55"/>ἀντίλυτρον 1. Rim. 2, v. 6; agnus Dei Joh. 1, v. 19. 
+      <lb ed="#B" n="56"/>agnus, qui occisus ab origine mundi Apoc. 13, v. 83 
+      <lb ed="#B" n="57"/>pascha nostrum 1. Cor. 5, v. 7; propitiatorium 
+      <lb ed="#B" n="58"/>Rom. 3, v. 25; nostra pax Eph. 2. v. 14. ete. 3. R. 
+      <lb ed="#B" n="59"/>spectu officii regii vocatur noster rex Esa. 33. v. 27 
+      <lb ed="#B" n="60"/>Zach. 9, v. 9. David, rex super populum suum Ezecli 
+      <!--709.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>37, v. 24; princeps eorum in perpetuum v. 25; 
+      re<lb ed="#B" n="62" break="no"/>David Hos. 3, v. 5; dux Dan. 9, v. 25; dux gentium 
+      <lb ed="#B" n="63"/>Esa. 55, v. 4; princepe pacis Esa. 9, v. 6; domina 
+      <lb ed="#B" n="64"/>tor Israëlis Micha 5, v. 2; judex noster Esa. 33. 
+      <lb ed="#B" n="65"/>v. 22; dominator, quem quaerimus Malach. 3, v. 1. 
+      <lb ed="#B" n="66"/>dux, qui regat populum Israël Matth. 2, v. 6; 
+      re<lb ed="#B" n="67" break="no"/>super domum Jacob in aeternum Luc. I, v. 33; 
+      du<lb ed="#B" n="68" break="no"/>et auctor vitae Act. 3, v. 15; dux et auctor calutis 
+      <lb ed="#B" n="69"/>Hebr. 2. v. 10; rex justitiae, rex pacie Hebr. 7, v. 2. 
+      <lb ed="#B" n="70"/>ete. Ubi notandum appellationes quasdam eese gene 
+      <lb ed="#B" n="71"/>rales, quae respectu omnium officii partium Christo 
+      <lb ed="#B" n="72"/>tribuuntur, ut quod vocatur noster Jesus et salvato 
+      <lb ed="#B" n="73"/>Matth. 1, v. 21; calutare Luc. 2. v. 30; salus Esa 
+      <lb ed="#B" n="74"/>49, v. 6; mediator 1. Tim. 2, v. 4; redemtor Job. 
+      <lb ed="#B" n="75"/>19, v. 25; desideratus gentibus Hag. 2. v. 8; spon 
+      <lb ed="#B" n="76"/>pus Joh. 3, v. 29; caput corporis sui Coloss, i, v. 18. 
+      <lb ed="#B" n="77"/>fundamentum 1. Cor. 3, v. 11; lapis angularie Psalm. 
+      <lb ed="#B" n="78"/>18, v. 22; leo de tribu Juda Apoc. 5, v. 5. ete. 
+      <lb ed="#B" n="79"/>quarum et similium appellationum rationes 
+      exposui<lb ed="#B" n="80" break="no"/>mus superius in c. 2; 2. ex status nostri conditione 
+      <lb ed="#B" n="81"/>Propter ignorantiam mentis per peccatum 
+      introdu<lb ed="#B" n="82" break="no"/>ctam egebamus doctore seu propheta, Joh. 1, v. 18. 
+      <lb ed="#B" n="83"/>Deum nemo vidit unquam, Filius, qui est in eini 
+      <lb ed="#B" n="84"/>Patris, enarravit nobis. Propter peccata et pecca 
+      <lb ed="#B" n="85"/>torum poenas indigebamus sacerdote reconciliante 
+      <lb ed="#B" n="86"/>nos Deo, satisfaciente pro nobis et intercedente 
+      coran<lb ed="#B" n="87" break="no"/>tribunali Es. 59, v. 2: Peccata vestra divisarunt inter 
+      <lb ed="#B" n="88"/>Deum et vos, sed per Christum facta reconciliatio 
+      <lb ed="#B" n="89"/>2. Cor. 5, v. 19. Propter infirmitatem voluntatis 
+      ege<lb ed="#B" n="90" break="no"/>bamus rege nos ducente ac defendente Psalm. 119. 
+      <lb ed="#B" n="91"/>v. ult: Ecce, ego sicut ovis, quae periit, require 
+      ser<lb ed="#B" n="92" break="no"/>vum tuum, Domine; 3. ex beneficiorum Christi 
+      enu<lb ed="#B" n="93" break="no"/>meratione. Christus peccatorum nostrorum reatum 
+      <lb ed="#B" n="94"/>apud Deum expiat, maculas iniquitatum nostrarum 
+      <lb ed="#B" n="95"/>tegit ac benedictionem a Deo nobis impetrat, quod 
+      <lb ed="#B" n="96"/>est proprium sacerdotis. Christus consilium Dei de 
+      <lb ed="#B" n="97"/>redemtione ac salute nostra nobis promulgat, quod 
+      <lb ed="#B" n="98"/>est prophetae. Christus beneficium redemtionis et 
+      <lb ed="#B" n="99"/>alutis pretioso suo sanguine partum efficaciter nobis 
+      <lb ed="#B" n="100"/>applicat, regit nos sceptro Verbi et Spiritu sancte 
+      <lb ed="#B" n="101"/>coërcet hostes nostros ac post novissimum judicium 
+      <lb ed="#B" n="102"/>nos glorificat, quod est regis. Haec omnia ex 
+      spe<lb ed="#B" n="103" break="no"/>ciali cujusque officii Christi consideratione erunt 
+      <lb ed="#B" n="104"/>clariora
+</p>
+            <p xml:id="zef3dd-d1e1132-d1e361">
+               <lb ed="#B" n="105"/>322. Officium Christi propheticum est, quo 
+      arca<lb ed="#B" n="106" break="no"/>num Dei consilium de redemtione et salute nostra 
+      <lb ed="#B" n="107"/>nobis revelat. Partes ejus duae sunt: I. functis 
+      <lb ed="#B" n="108"/>docendi; 2. doctrinae efficacia., Functio docendi 
+      <lb ed="#B" n="109"/>est, qua Christus ecclesiam suam informat in illis 
+      <lb ed="#B" n="110"/>quae ad salutem scitu et creditu sunt necessaris 
+      <lb ed="#B" n="111"/>Estque vel immediata vel mediata. Immediata est 
+      <lb ed="#B" n="112"/>qua Christus ipse in propria persona tempore mini 
+      <lb ed="#B" n="113"/>terii sui per triennium et semestre in his terris 
+      <lb ed="#B" n="114"/>obiti auditores informavit, legem divinam a corru 
+      <lb ed="#B" n="115"/>ptelis pharisaicis repurgavit, evangelium praedicavit 
+      <lb ed="#B" n="116"/>apostolos in scholam suam ascitos ad ministerium 
+      <lb ed="#B" n="117"/>praeparavit ac omnibus officii partibus, quae in fidel 
+      <lb ed="#B" n="118"/>loctore requiruntur, studio indefesso defunctus est, 
+      <lb ed="#B" n="119"/>ut evangelica historia testatur. Mediata est institutio 
+      <lb ed="#B" n="120"/>et conservatio ministerii in apostolis et apostolorum 
+      <!--710.xml-->
+      <pb ed="#B" n="603"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>successoribus usque ad diem novissimum. Christu 
+      <lb ed="#B" n="2"/>enim non solum in propria persona praedicavit, sed 
+      <lb ed="#B" n="3"/>etiam quum exacto ministerii sui curriculo in 
+      glor<lb ed="#B" n="4" break="no"/>am suam intrare vellet, docendi ministerium priu 
+      <lb ed="#B" n="5"/>apostolis commendavit Joh. 20, v. 21, in totum ter 
+      <lb ed="#B" n="6"/>rarum orbem cum mandato de evangelii praedica 
+      <lb ed="#B" n="7"/>tione eos ablegavit Matth. 28, v. 19. Marc. 16, v. 1. 
+      <lb ed="#B" n="8"/>et adhuc hodie exaltatus ad Dei dextram dat eccl. 
+      <lb ed="#B" n="9"/>siae suae doctores et pastores (Eph. 4, v. 11.) ad cor 
+      <lb ed="#B" n="10"/>summationem canctorum in opus ministerii in aed 
+      <lb ed="#B" n="11"/>ficationem corporis sui mystici (v. 12.) Efficacia de 
+      <lb ed="#B" n="12"/>etrinae est divina illa vis, qua Christus per Spiritum 
+      <lb ed="#B" n="13"/>sanctum efficaciter movet corda hominum ad doctri 
+      <lb ed="#B" n="14"/>nam fidei amplectendam. Psalm. 68, v. 25: dabi 
+      <lb ed="#B" n="15"/>voci suae virtutem. Joh. 6. v. 45: omnis, qui audi 
+      <lb ed="#B" n="16"/>vit a Patre et didicit, venit ad me. Ad hoc igitu 
+      <lb ed="#B" n="17"/>officium Christi pertinet consilii divini de redemtion 
+      <lb ed="#B" n="18"/>generis humani in evangelio promulgatio, minister 
+      <lb ed="#B" n="19"/>ecclesiastici institutio et conservatio, sacramentorum 
+      <lb ed="#B" n="20"/>ordinatio, Spiritus sancti donatio et efficax cordium 
+      <lb ed="#B" n="21"/>humanorum per illum immutatio, illuminatio, 
+      reg<lb ed="#B" n="22" break="no"/>neratio, renovatio, sanctificatio ete¬ 
+      </p>
+            <p xml:id="zef3dd-d1e1132-d1e452">
+               <lb ed="#B" n="23"/>323. Officium Christi sacerdotale est, quo 
+      ses<lb ed="#B" n="24" break="no"/>medium inter Deum et homines peccatores ponens 
+      <lb ed="#B" n="25"/>Deo totum genus humanum reconciliavit legi divinae 
+      <lb ed="#B" n="26"/>perfecte satisfaciendo, poenas peccatorum in se re 
+      <lb ed="#B" n="27"/>cipiendo et apud Deum intercedendo. Duae erg 
+      <lb ed="#B" n="28"/>sunt hujus officii partes: 1. Satisfactio, qua Christu 
+      <lb ed="#B" n="29"/>λῦτρον ἰσόμροπον pro totius mundi peccatis Patri 
+      su<lb ed="#B" n="30" break="no"/>praestitit ac justitiam et vitam aeternam generi 
+      hu<lb ed="#B" n="31" break="no"/>mano acquisivit. In hac satisfactione occurrit obe 
+      <lb ed="#B" n="32"/>dientia tam activa quam passiva. Activa in per 
+      <lb ed="#B" n="33"/>fecta legis impletione consistit; passiva in sufficien 
+      <lb ed="#B" n="34"/>tissima persolutione pro peccatis humani generis 
+      <lb ed="#B" n="35"/>Deo praestita, ubi tamen notandum, quod activa et 
+      <lb ed="#B" n="36"/>passiva obedientia in satisfactione Christi sint arctis 
+      <lb ed="#B" n="37"/>sime connexae, quia passio ejus fuit activa et acti 
+      <lb ed="#B" n="38"/>fuit passiva. 2. Intercessio est, qua Christus vi merit 
+      <lb ed="#B" n="39"/>et satisfactionis a se praestitae apud Patrem 
+      coe<lb ed="#B" n="40" break="no"/>lestem intercedit, et quidem tum generatim pro 
+      om<lb ed="#B" n="41" break="no"/>nibus hominibus, adeoque etiam pro hostibus suis 
+      e<lb ed="#B" n="42" break="no"/>crucifixoribus Esa. 53, v. 12. Luc. 23, v. 34; tun 
+      <lb ed="#B" n="43"/>speciatim pro solis fidelibus Joh. 17, v. 9. Rom. 8 
+      <lb ed="#B" n="44"/>v. 34. 1. Joh. 2. v. 1: quae duae intercessionis spe 
+      <lb ed="#B" n="45"/>cies non sunt sibi invicem opponendae 
+      </p>
+            <p xml:id="zef3dd-d1e1132-d1e504">
+               <lb ed="#B" n="46"/>324. Officium Christi regium est, quo Christus 
+      <lb ed="#B" n="47"/>θεάνθρωπoς omnia in coelo ac terra gubernat ac 
+      <lb ed="#B" n="48"/>imprimis ecclesiam suam adversus hostes tuetu 
+      <lb ed="#B" n="49"/>Regnum illud Christi consideratur vel in hac vel 
+      i<lb ed="#B" n="50" break="no"/>futura vita. In hae vita dicitur regnum potentiae vel 
+      <lb ed="#B" n="51"/>gratiae Regnum potentiae est generale dominiur 
+      <lb ed="#B" n="52"/>super omnia, videlicet gubernatio coeli et terra 
+      <lb ed="#B" n="53"/>Psalm. 8, v. 7. Dan. 7, v. 14. Matth. 28, v. 18. 
+      <lb ed="#B" n="54"/>Eph. 1, v. 21. Subjectio omnium creaturarum 1. Cor 
+      <lb ed="#B" n="55"/>15, v. 27. Eph. 1, v. 20. Hebr. 2. v. 8; dominium in 
+      <lb ed="#B" n="56"/>medio inimicorum, quos reprimit, coërcet et 
+      pu<lb ed="#B" n="57" break="no"/>Ps. 2. v. 9. Ps. 11O, v. 2. 1. Cor. 15, v. 25. ete. Gratias 
+      <lb ed="#B" n="58"/>regnum est specialis operatio gratiae in ecclesia 
+      <lb ed="#B" n="59"/>videlicet missio, illuminatio et conservatio apostolorum 
+      <lb ed="#B" n="60"/>bvangelistarum, doctorum et pastorum in ecclesia 
+      <!--710.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Matth. 28, v. 19. Marc. 16, v. 15. Luc. 24, v. 47. 
+      <lb ed="#B" n="62"/>Act. 1, v. 8. Eph. 4. v. 11. Collectio ecelesiae per 
+      <lb ed="#B" n="63"/>praedicationem evangelii et dispensationem sacramer 
+      <lb ed="#B" n="64"/>torum, ibid.; regeneratio, renovatio, illuminatio, sar 
+      <lb ed="#B" n="65"/>ctificatio credentium per Verbum et sacramenta Joh 
+      <lb ed="#B" n="66"/>3, v. 5. c. 17, v. 17. Eph. 5, v. 26. Tit. 3, v. 5. ete. 
+      <lb ed="#B" n="67"/>ipplicatio sui meriti, protectio et conservatio piorum 
+      <lb ed="#B" n="68"/>Matth. 28, v. 20, effusio variorum donorum Eph. 4, 
+      <lb ed="#B" n="69"/>v. 8. ete. In altera vita dicitur regnum gloriae 
+      <lb ed="#B" n="70"/>quod conspicietur in resuscitatione mortuorum e 
+      <lb ed="#B" n="71"/>universali judicio ejusque exsecutione, in 
+      damna<lb ed="#B" n="72" break="no"/>tione reproborum et glorificatione electorum Matthi 
+      <lb ed="#B" n="73"/>15, v. 46. Joh. 5, v. 29, quando Christus tradat re 
+      <lb ed="#B" n="74"/>jnum suo Patri 1. Cor. 15, v. 24, ut eit Deus omnio 
+      <lb ed="#B" n="75"/>in omnibus v. 28. 
+      </p>
+            <p xml:id="zef3dd-d1e1132-d1e576">
+               <lb ed="#B" n="76"/>325. Thesis 3: Hoc suum officium administra 
+      <lb ed="#B" n="77"/>Christus secundum utramque naturam. Probamus 
+      <lb ed="#B" n="78"/>hoc: 1. ex diserta utriusque naturae denomination 
+      <lb ed="#B" n="79"/>De humana natura dubitari nequit, quin per eam e 
+      <lb ed="#B" n="80"/>In ea Christus officium mediationis exsequatur 
+      pro<lb ed="#B" n="81" break="no"/>pter protevangelium de semine mulieris contriture 
+      <lb ed="#B" n="82"/>caput serpentis (Gen. 3, v. 15) ac evidentissimum 
+      di<lb ed="#B" n="83" break="no"/>ctum apostolicum 1. Tim. 2. v. 4: Unus est 
+      media<lb ed="#B" n="84" break="no"/>tor Dei et hominum, homo Christus Jesus. De 
+      di<lb ed="#B" n="85" break="no"/>vina natura haec loquuntur dicta: Esa. 35, v. 4: 
+      <lb ed="#B" n="86"/>Deus ipse veniet et salvabit vos. Hos. 1, v. 7: 
+      Sal<lb ed="#B" n="87" break="no"/>vabo eos in Domino Deo suo. Act. 20, v. 28: Deue 
+      <lb ed="#B" n="88"/>proprio suo sanquine ecclesiam redemit. Rom. 5, 
+      <lb ed="#B" n="89"/>5. 10: reconciliati sumus Deo per mortem Filii ipsius. 
+      <lb ed="#B" n="90"/>Hebr. 1, v. 3: Filius Dei purgationem peccatorum 
+      <lb ed="#B" n="91"/>nostrorum fecit per se ipsum. Hebr. 9, v. 14: 
+      Chr<lb ed="#B" n="92" break="no"/>stus per Spiritum aeternum obtulit se ipsum 
+      Deo<lb ed="#B" n="93" break="no"/>1. Joh. 1, v. 7: Sanquis Jesu Christi Filii Dei 
+      <lb ed="#B" n="94"/>mundat nos ab omni peccato, ex quibus sic conclu 
+      <lb ed="#B" n="95"/>dimus: Quodcunque opus tribuitur Deo ac Filio Dei 
+      <lb ed="#B" n="96"/>ab eo divina Filii natura excludi nequit. Opus me 
+      <lb ed="#B" n="97"/>diationis ac redemtionis tribuitur ipsi Deo ac Filie 
+      <lb ed="#B" n="98"/>Dei; 2. ex Filii Dei incarnatione. Filius Dei eo 
+      <lb ed="#B" n="99"/>fine humanam naturam in tempore assumsit, ac mira 
+      <lb ed="#B" n="100"/>bilis illa divinae et humanae naturae unio facta es 
+      <lb ed="#B" n="101"/>ut secundum utramque naturam officium suum ex 
+      <lb ed="#B" n="102"/>sequeretur I. Joh. 3, v. 8: In hoc apparuit Filius 
+      <lb ed="#B" n="103"/>Dei, ut dissolveret opera diaboli, ex quo sic 
+      inferi<lb ed="#B" n="104" break="no"/>mus: sublata divinae naturae ἐνεργείᾳ ex ἀποτελε 
+      <lb ed="#B" n="105"/>σμασιν officii mediatorii tollitur incarnationis finis 
+      <lb ed="#B" n="106"/>At consequens illud est absurdum; 3. ex mediatoris 
+      <lb ed="#B" n="107"/>conditione. Mediatorem nostrum oportuit esse Deum 
+      <lb ed="#B" n="108"/>et hominem, ut superius multis demonstravimus 
+      <lb ed="#B" n="109"/>Ergo etiam divina et humana natura ad mediationi 
+      <lb ed="#B" n="110"/>officium concurrunt. Consequentia probatur: quod 
+      <lb ed="#B" n="111"/>si enim Christum mediatorem ut talem oportuit ess 
+      <lb ed="#B" n="112"/>θεάνθρωπον, ergo ad mediationis officium utraque 
+      <lb ed="#B" n="113"/>natura concurrit. Anselm. lib. 2. cur Deus home 
+      <lb ed="#B" n="114"/>c. 18: Ad hoc in Christo valuit diversitas natura 
+      <lb ed="#B" n="115"/>rum et unitas personae, ut quod opus erat fieri ac 
+      <lb ed="#B" n="116"/>hominum restaurationem, si humana non posset 
+      na<lb ed="#B" n="117" break="no"/>tura, faceret divina, et si divinae minime conveniret, 
+      <lb ed="#B" n="118"/>exhiberet humana, et non alius atque alius, sed xml:iden 
+      <lb ed="#B" n="119"/>pse esset, qui utrumque perfecte exsistens per hu 
+      <lb ed="#B" n="120"/>manam solveret, quod illa debebat, et per divinan 
+      <!--711.xml-->
+      <pb ed="#B" n="604"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>posset, quod expediebat; 1. ex necessaria divinae 
+      <lb ed="#B" n="2"/>naturae in officio mediatorio operatione. Reatus e 
+      <lb ed="#B" n="3"/>peccatis totius humani generis ortus erat infinitus 
+      <lb ed="#B" n="4"/>utpote in infinitam Dei justitiam impingens. Laesui 
+      <lb ed="#B" n="5"/>erat infinitum bonum, requirebatur ergo infinitum pro 
+      <lb ed="#B" n="6"/>tium. Jam vero actiones et passiones humanae 
+      natura<lb ed="#B" n="7" break="no"/>sunt finitae ac certi temporis, exinanitionis scilice 
+      <lb ed="#B" n="8"/>periodo terminatae. Ut ergo redemtionis pretium 
+      <lb ed="#B" n="9"/>esset analogum nostro debito et infinito reatui, n 
+      <lb ed="#B" n="10"/>cessarium erat, ut ad illius persolutionem non 
+      finita<lb ed="#B" n="11" break="no"/>tantum, videlicet humanae, sed etiam infinitae, divina 
+      <lb ed="#B" n="12"/>scilicet, naturae actio sive mediatio concurreret a 
+      <lb ed="#B" n="13"/>passio et mors Christi aliunde, videlicet a divina 
+      <lb ed="#B" n="14"/>naturae efficacissima operatione, infiniti pretii valoren 
+      <lb ed="#B" n="15"/>acquireret, adeoque bonum infinitum malo infinite 
+      <lb ed="#B" n="16"/>opponi posset. Reconciliare Deum toti humano 
+      ge<lb ed="#B" n="17" break="no"/>neri iratum, infinitae justitiae aequivalentem satisfa 
+      <lb ed="#B" n="18"/>ctionem praestare, peccatum, quod est malum infini 
+      <lb ed="#B" n="19"/>tum, abolere, perfectam justitiam adducere, superar 
+      <lb ed="#B" n="20"/>diabolum, mortem et infernum, perfectissimam leg 
+      <lb ed="#B" n="21"/>obedientiam pro aliis praestare, peccatorum remis 
+      <lb ed="#B" n="22"/>sionem aliis promereri, introspicere arcanum Dei di 
+      <lb ed="#B" n="23"/>redemtione et salute hominum consilium, amissa 
+      bon<lb ed="#B" n="24" break="no"/>coelestia recuperare, ecelesiam sibi ex genere hu 
+      <lb ed="#B" n="25"/>mano colligere et contra omnes hostium spiritualius 
+      <lb ed="#B" n="26"/>et corporalium impetus tueri sunt ejusmodi opera 
+      <lb ed="#B" n="27"/>quae divinam et infinitam ἐνέργειαν requirunt, u 
+      <lb ed="#B" n="28"/>constat. Jam vero haec opera omnia et singula in 
+      <lb ed="#B" n="29"/>officio mediatoris requiruntur. Ergo. 5. Ex absurd 
+      <lb ed="#B" n="30"/>consecutione. Si divina Christi natura ab officie 
+      <lb ed="#B" n="31"/>mediationis excluditur, consequens est, non fuisse 
+      <lb ed="#B" n="32"/>necessariam divinae et humanae naturae in media 
+      <lb ed="#B" n="33"/>tore unionem, obedientiam Christi tam activam 
+      quan<lb ed="#B" n="34" break="no"/>passivam non esse infiniti pretii ac meriti, cum finit 
+      <lb ed="#B" n="35"/>natura, qua talis, non possit per se et ex se caus 
+      <lb ed="#B" n="36"/>esse infiniti effectus, ac proinde nos esse adhuc sul 
+      <lb ed="#B" n="37"/>dominio peccati, mortis ac diaboli, opus redemtionis 
+      <lb ed="#B" n="38"/>non esse consummatum et perfectum, redemtionem 
+      <lb ed="#B" n="39"/>esse opus mere humanum, in V. T. ecclesiam 
+      no<lb ed="#B" n="40" break="no"/>habuisse mediatorem. 6. A piorum veterum testifica 
+      <lb ed="#B" n="41"/>tione. Decretum concilii Chalcedonensis, dicta In 
+      <lb ed="#B" n="42"/>naei lib. 3. adv. haeres. c. 20. August. lib. 9. de civi 
+      <lb ed="#B" n="43"/>Dei c. 15. homil. de ovib. c. 12. Anselm. lib. 2. 
+      Cu<lb ed="#B" n="44" break="no"/>Deus homo c. 18. Damasc. 3. orth. fid. c. 15. rec 
+      <lb ed="#B" n="45"/>tavimus in tract. de pers. Christi §. 165. et seqq 
+      <lb ed="#B" n="46"/>quibus addenda sunt sequentia: Iren. libr. 3, c. 2. 
+      <lb ed="#B" n="47"/>p. 211: Si homo non vicisset inimicum hominis 
+      <lb ed="#B" n="48"/>non juste victus esset inimicus. Rursus autem ni 
+      <lb ed="#B" n="49"/>Deeus donasset salutem, non firmiter haberemus 
+      eam<lb ed="#B" n="50" break="no"/>et nisi homo conjunctus fuisset Deo nostro, non pe 
+      <lb ed="#B" n="51"/>tuisset particeps fieri incorruptibilitatis. Cyrill. di 
+      <lb ed="#B" n="52"/>rect. fid. ad Reg. asserit, Christum esse pontificer 
+      <lb ed="#B" n="53"/>nostrum in assumta natura humana, ea autem, quo 
+      <lb ed="#B" n="54"/>fecit aut passus est, xml:ideo efficacia esse, quod sin 
+      <lb ed="#B" n="55"/>propter unionem non hominis, sed Dei 
+      oper<lb ed="#B" n="56" break="no"/>Athanas. ad Maxim. philos: Ipsum Verbum suut 
+      <lb ed="#B" n="57"/>corpus obtulit pro nobis, ne in hominem epe 
+      au<lb ed="#B" n="58" break="no"/>fiducia moveremur, sed in ipso Deo Verbo fiduciar 
+      <lb ed="#B" n="59"/>nostram constitutam haberemus. ** Ambros. in c. 7. 
+      <lb ed="#B" n="60"/>Rom.: Quamvis ad tempus mortuus esset in carne 
+      <!--711.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tamen in aeternum divinitate et humanitate mediato 
+      <lb ed="#B" n="62"/>inter Deum et homines semper vivene est, ad inter 
+      <lb ed="#B" n="63"/>pellandum pro nobis.** August. lib. 10. 
+      Confes<lb ed="#B" n="64" break="no"/>c. 42: Mediator inter Deum et homines oportebas 
+      <lb ed="#B" n="65"/>ut haberet aliquid simile Deo, aliquid simile homi 
+      <lb ed="#B" n="66"/>nibus, ne in utroque similis hominibus longe esset e 
+      <lb ed="#B" n="67"/>Deo, et in utroque similis Deo longe esset ab 
+      ho<lb ed="#B" n="68" break="no"/>minibus, atque ita mediator non esset. In Enchir 
+      <lb ed="#B" n="69"/>ad Laurent. c. 108: Nam neque per ipsum libera 
+      <lb ed="#B" n="70"/>remux unum mediatorem Dei et hominum, hominem 
+      <lb ed="#B" n="71"/>Jesum Christum, nisi esset et Deus? Theodoret 
+      <lb ed="#B" n="72"/>Dial. 2: Intercessoris nomen hic et divinitatem e 
+      <lb ed="#B" n="73"/>humanitatem significat. Vigil. lib. 5. contra Eutych. 
+      <lb ed="#B" n="74"/>Talis victima requirebatur, quae ita media esse 
+      <lb ed="#B" n="75"/>inter Deum et hominem, ut morti succumberet, per 
+      <lb ed="#B" n="76"/>illud, quod hominis habebat, et mortem revinceres 
+      <lb ed="#B" n="77"/>per xml:id, quod in se divinitatis tenebat. 7. Ex 
+      adver<lb ed="#B" n="78" break="no"/>sariorum confessione. Thom. part. 3. q. 48. art. 6: 
+      <lb ed="#B" n="79"/>Dicendum, quod duplex est efficiens, principale e 
+      <lb ed="#B" n="80"/>instrumentale. Efficiens quidem principale humana 
+      <lb ed="#B" n="81"/>salutis est Deus. Quia vero humanitas Christi es 
+      <lb ed="#B" n="82"/>divinitatis instrumentum, xml:ideo ex consequenti omnes 
+      <lb ed="#B" n="83"/>actiones et passiones Christi instrumentaliter ope 
+      <lb ed="#B" n="84"/>rantur in virtute divinitatis ad salutem humanam 
+      <lb ed="#B" n="85"/>et secundum hoc passio Christi efficienter causa 
+      <lb ed="#B" n="86"/>salutem humanam. Dionys. Carthusian. in comm 
+      <lb ed="#B" n="87"/>1. Tim. 2: Est mediator Dei et hominum proprio 
+      <lb ed="#B" n="88"/>loquendo, nec ut Deus, nec ut homo, sed ut Deue 
+      <lb ed="#B" n="89"/>homo, seu ut Deus incarnatus. Sic quippe compe 
+      <lb ed="#B" n="90"/>tit ei et satigfacere seu reconciliare et xml:idoneita. 
+      <lb ed="#B" n="91"/>vel efficacia reconciliandi, quorum primum competi 
+      <lb ed="#B" n="92"/>ei ratione assumtae naturae, sscundum vero ratione 
+      <lb ed="#B" n="93"/>deitatis unitae, ex qua opera et poenae Christi 
+      ho<lb ed="#B" n="94" break="no"/>minis infinitam quodammodo dignitatem et effico 
+      <lb ed="#B" n="95"/>ciam sortiuntur. Claud. Espensaeus in comm 
+      <lb ed="#B" n="96"/>1. Tim. 2. tract. de Christo mediat. c. 2. et 5. 
+      <lb ed="#B" n="97"/>Mirati sumus, aliquos tueri Christum secundum ho 
+      <lb ed="#B" n="98"/>manam naturam tantum esse dicique mediatorem 
+      <lb ed="#B" n="99"/>et secus sentientes aperte Arianismi et xml:id genus 
+      <lb ed="#B" n="100"/>haeresium insimulari ete. Quidam urgent locum 
+      <lb ed="#B" n="101"/>apostolicum 1. Tim. 2, sed quaero ego vicissim 
+      <lb ed="#B" n="102"/>cur patres hunc locum enarrantes ex eodem loco, 
+      <lb ed="#B" n="103"/>et vocabulo, Christum esse Deum eliciunt et urgent, 
+      <lb ed="#B" n="104"/>Si apostolus hic Christum mediatorem esse tantum 
+      <lb ed="#B" n="105"/>quatenus hominem intellexerit, atque vocabulum 
+      <lb ed="#B" n="106"/>tantum, quod introduxit, apostolus non apposuit, 
+      <lb ed="#B" n="107"/>quod qui addunt, timeant plagas huic malo 
+      denun<lb ed="#B" n="108" break="no"/>tiatas. Apocal. 22. Nec modo non apposuit, verum 
+      <lb ed="#B" n="109"/>etiam contrarium adjecit, Christus Jesus, inquit 
+      <lb ed="#B" n="110"/>quorum illud nomen est non meri hominis, sed o 
+      <lb ed="#B" n="111"/>Deo uncti et in unionem personae assumti Hebr. 1. 
+      <lb ed="#B" n="112"/>Act. 4. Psalm. 44; posterius etiam nomen est 
+      De<lb ed="#B" n="113" break="no"/>hominis, ut angelus docet Matth. ete. Et postea 
+      <lb ed="#B" n="114"/>Habemus ex Graecis et Latinis magno consensu à 
+      <lb ed="#B" n="115"/>utriusque naturae ad mediatoris nomen concursu ne 
+      <lb ed="#B" n="116"/>cessario velut gravissimum et unanime 
+      senatuscon<lb ed="#B" n="117" break="no"/>gultum, inter quos sic Chrysostomus (ut citatur 
+      <lb ed="#B" n="118"/>Vigilio lib. 5. contra Eutychen), ut, qui se inter 
+      <lb ed="#B" n="119"/>ponens, ut litem discordiamque dissolvat, hunc qui 
+      <lb ed="#B" n="120"/>dem dextra, illum einistra tenens utrosque in ami¬ 
+      <!--712.xml-->
+      <pb ed="#B" n="605"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>citiam reducit; sic Christus inter nos et Deum se 
+      <lb ed="#B" n="2"/>medium ingessit, utramque naturam sociavit, union 
+      <lb ed="#B" n="3"/>naturarum divinitatis et humanitatis, merito media 
+      <lb ed="#B" n="4"/>tor et intercessor cdictus, ut inquit Theodoret. (i 
+      <lb ed="#B" n="5"/>Dial.) et Leo hujus nominis primus xml:idemque mag 
+      <lb ed="#B" n="6"/>nus pontifex (de incarnat.). Qua ratione, inqui 
+      <lb ed="#B" n="7"/>mediatoris veritatem impleret, nisi in forma De 
+      <lb ed="#B" n="8"/>aequalis Patri, in forma servi particeps. esset, 
+      <lb ed="#B" n="9"/>nostri. Ex Cyrillo (Epist. 86): Nec propter carni 
+      <lb ed="#B" n="10"/>dispensationem mediator vocatur, ut alii Graec 
+      <lb ed="#B" n="11"/>patres de ratione mediationis utramque naturas 
+      <lb ed="#B" n="12"/>esse sentiunt, xml:idque ex Bernhardo (serm. de circume. 
+      <lb ed="#B" n="13"/>videre est, de ratione mediationis salvificae 
+      es<lb ed="#B" n="14" break="no"/>utramque Christi naturam, quia oportebat medio 
+      <lb ed="#B" n="15"/>torem non modo satispati, verum etiam 
+      satisfacer<lb ed="#B" n="16" break="no"/>quod purus homo nequit, et actio Christi dicitu 
+      <lb ed="#B" n="17"/>θεανδρική, Deivirilis, seu ut ita dicam humas 
+      <lb ed="#B" n="18"/>divina, ut deducit eximius theologus Damascen 
+      <lb ed="#B" n="19"/>lib. 3. de orth. fid. c. 19. ete. Quodsi Augustinu 
+      <lb ed="#B" n="20"/>videtur negare, Christum mediatorem esse quodd 
+      <lb ed="#B" n="21"/>divinam naturam, conciliandus sibi erat, non nob 
+      <lb ed="#B" n="22"/>objectandus, nimirum quia negat Christum medio 
+      <lb ed="#B" n="23"/>torem fuisse, nisi vel ut hominem jam factum ve 
+      <lb ed="#B" n="24"/>olim promissum agnoscimus, quia eadem erat vel 
+      <lb ed="#B" n="25"/>terum fides de Christo venturo et nostra in ventum 
+      <lb ed="#B" n="26"/>Idem Augustinus negat Christum mediatorem ess 
+      <lb ed="#B" n="27"/>ut Deum, hoc quoque cognoscimns. Sed intelligit 
+      <lb ed="#B" n="28"/>ut Deum purum, nullo respetu habito ad hominem 
+      <lb ed="#B" n="29"/>factum vel faciendum, sed in sua immortali et in 
+      <lb ed="#B" n="30"/>patibili natura consideratum. Haec expositio vil 
+      <lb ed="#B" n="31"/>lenta non est, sed ex mente Augustini, ut pate 
+      <lb ed="#B" n="32"/>Mediatorem, inquit lib. 9. de civit. Dei e. 1. 
+      <lb ed="#B" n="33"/>habere oportet et humanitatem transeuntem et beati 
+      <lb ed="#B" n="34"/>tatem permanentem. Ad argumentum, quod 
+      Chr<lb ed="#B" n="35" break="no"/>stus, ei statuatur secundum divinam etiam naturas 
+      <lb ed="#B" n="36"/>mediator, Patre inferior statuendus sit, latissime 
+      e<lb ed="#B" n="37" break="no"/>patribus respondet et tandem subjicit: Scholastio 
+      <lb ed="#B" n="38"/>meritum, satisfactionem, mediationem, redemtionem 
+      <lb ed="#B" n="39"/>naturae quidem humanae adscribunt, sed quatenus 
+      <lb ed="#B" n="40"/>talem, hoc est quatenus est tantae dignitatis, 
+      ef<lb ed="#B" n="41" break="no"/>cientiae, eufficientiae, et ut ita dicam 
+      supersufi<lb ed="#B" n="42" break="no"/>cientiae, quam naturae divinae seu personali 
+      cum<lb ed="#B" n="43" break="no"/>eadem unioni tribuunt. Mereri, mediare, satisfacer 
+      <lb ed="#B" n="44"/>naturae assumtae est, inquit Cajetanus. Ut autem 
+      <lb ed="#B" n="45"/>ea tantae in satisfaciendo efficaciae sint, ec divin 
+      <lb ed="#B" n="46"/>tate habent. Et Gabriel Biel observat ex illo: Pe 
+      <lb ed="#B" n="47"/>Christum Dominum nostrum, per, inquit, prac 
+      <lb ed="#B" n="48"/>positio mediatorem significat, Christus Dominus 
+      <lb ed="#B" n="49"/>utramque naturam. Idem habet glossa Anselmi 
+      <lb ed="#B" n="50"/>Summa omnium est, sicut pro salute nostra orar 
+      <lb ed="#B" n="51"/>Deus nisi homo factus, ita exorare homo nis 
+      <lb ed="#B" n="52"/>Deus simul exsistens non poterat. 
+      Lacryma<lb ed="#B" n="53" break="no"/>preces reliquasque mediationis exsecutiones 
+      no<lb ed="#B" n="54" break="no"/>vimpliciter contemplamur, sed ut redemtrices, es 
+      <lb ed="#B" n="55"/>piatrices, propitiatrices, exoratrices, satisfactr 
+      <lb ed="#B" n="56"/>Ces, et ut tales non magis ab homine tantum 
+      <lb ed="#B" n="57"/>quam a Deo tantum, sed ab homine Deo pro 
+      <lb ed="#B" n="58"/>Fectas. Salmeron tom. 7. tractat. 25: Equimus ad 
+      <lb ed="#B" n="59"/>redemtionem deitate simul et humanitate quas 
+      <lb ed="#B" n="60"/>numeris. Etgi enim Esa. 9. dicatur in eingu 
+      <!--712.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>lari: Factus est principatus super humerum ejus 
+      <lb ed="#B" n="62"/>quia sola humanitas crucem sustulit, per hi 
+      <lb ed="#B" n="63"/>merum tamen interpretari possumus deitatem, qua 
+      <lb ed="#B" n="64"/>tanquam humerus quidam, supposito tamen pann 
+      <lb ed="#B" n="65"/>sive veste humanitatis, onera peccatorum nostrorum 
+      <lb ed="#B" n="66"/>portavit. Maldonatus in comm. Joh. 10, v. 18. non 
+      <lb ed="#B" n="67"/>improbat, si quis statuat, quod Christus et tanquas 
+      <lb ed="#B" n="68"/>homo et tanquam Deus vitam suam posuerit. Oze 
+      <lb ed="#B" n="69"/>rius tom. 4. conc. Domin. 3. Advent. in Joh. 1. 
+      <lb ed="#B" n="70"/>Medium utroque extremo participare debet. Eco 
+      <lb ed="#B" n="71"/>extrema Deus et homo, omnino extrema ista sici 
+      <lb ed="#B" n="72"/>coelum et terra, ecce medium participans ista 
+      e<lb ed="#B" n="73" break="no"/>trema Christus Dominus, qui Deus et homo es 
+      <lb ed="#B" n="74"/>Pineda in comm. Jobi 7, v. 33: Non est, qui valea 
+      <lb ed="#B" n="75"/>manum ponere in ambobus. His verbis, ait 
+      Ter<lb ed="#B" n="76" break="no"/>lib. de patient. circa fin., Jobus mediatorem desidera 
+      <lb ed="#B" n="77"/>inter se et Deum et prophetare videtur de Christ. 
+      <lb ed="#B" n="78"/>mediatore. Et sane hic mediator ponit manum in 
+      <lb ed="#B" n="79"/>ambobus. Nam hic quidem dextra Patris est, 
+      pe<lb ed="#B" n="80" break="no"/>quam Pater jurat seque magnificat, tum etiam nobis 
+      <lb ed="#B" n="81"/>dextram dedit, cum nobis naturam humanam 
+      copu<lb ed="#B" n="82" break="no"/>lavit mediator verissimus non solum officio et 
+      mu<lb ed="#B" n="83" break="no"/>nere, sed etiam substantia et natura. Suarez in 
+      <lb ed="#B" n="84"/>Thomam tom. 1. q. 1. art. 2. Disp. 4. sect. 5.? 
+      <lb ed="#B" n="85"/>sed hic: Hic modus loquendi, qui negat Christur 
+      <lb ed="#B" n="86"/>et eibi et toti trinitati pro nobis satisfecisse, omnin 
+      <lb ed="#B" n="87"/>mihi displicet, est enim aperte contra Scripturas 
+      <lb ed="#B" n="88"/>2. Corinth. 5: Deus erat in Christo mundum recon 
+      <lb ed="#B" n="89"/>cilians sibi. Ubi sicut Deus dicitur esse in Christ. 
+      <lb ed="#B" n="90"/>ratione divinae naturae, ita ratione ejusdem naturae 
+      <lb ed="#B" n="91"/>dicitur reconciliasse mundum cibi. Ibid.: Christu 
+      <lb ed="#B" n="92"/>vocatur mediator Dei, quatenus Deus, ut late tractat 
+      <lb ed="#B" n="93"/>Cyrillus. Gregor. de Valent. lib. I. de Unit. e 
+      <lb ed="#B" n="94"/>Trin. c. 22: Christus obiit munus mediatoris apud 
+      <lb ed="#B" n="95"/>se ipsum ut Deue, quia una cum Patre et Spiritue 
+      <lb ed="#B" n="96"/>erat peccatori infensus, ac tantum abest, ut 
+      Chr<lb ed="#B" n="97" break="no"/>stus, qua Deus et homo est, non potuerit esse me 
+      <lb ed="#B" n="98"/>diator noster apud Deum, ut contra potius sequatus 
+      <lb ed="#B" n="99"/>nisi Deus et homo esset perfectus, esse mediato, 
+      <lb ed="#B" n="100"/>non potuerit, ut pulcre patres omnes 
+      demonstran<lb ed="#B" n="101" break="no"/>Idem libr. de Christo redempt. part. 2. c. 4. 
+      distin<lb ed="#B" n="102" break="no"/>etione utendum est: Nam si quaestio est, per quio 
+      <lb ed="#B" n="103"/>proprie munus mediatoris obierit, dicendum es 
+      <lb ed="#B" n="104"/>tantum mediatorem ut hominem. Si per quid fueri 
+      <lb ed="#B" n="105"/>sive a quo valorem acceperit ejus muneris functio, 
+      <lb ed="#B" n="106"/>orthodoxa est patrum sententia conjunctim, ut 
+      Deun<lb ed="#B" n="107" break="no"/>et hominem. Non passus est pro nobis secundus 
+      <lb ed="#B" n="108"/>divinitatem, tamen secundum utramque naturam ope 
+      <lb ed="#B" n="109"/>ratus est reconciliationem Deo. Bellarmin. libr. . 
+      <lb ed="#B" n="110"/>de justif. c. 5: Deus non acceptat in veram satiafo 
+      <lb ed="#B" n="111"/>ctionem pro peccato nisi justitiam infinitam, quoniam 
+      <lb ed="#B" n="112"/>peccatum offensa est infinita, sed ut aliqua justitio 
+      <lb ed="#B" n="113"/>sit infinita, xml:id est, infiniti pretii et valoris, non est 
+      <lb ed="#B" n="114"/>necesse, ut sit justitia Dei essentialis, sed satis es 
+      <lb ed="#B" n="115"/>ut sit justitia personae infinitae, qualis est Christus 
+      <lb ed="#B" n="116"/>Deus et homo. Itaque obedientia, passio et mors 
+      <lb ed="#B" n="117"/>Filii Dei, quamvis in se et essentialiter fuerit 
+      <lb ed="#B" n="118"/>creata et finita, tamen ratione personae obedientis 
+      <lb ed="#B" n="119"/>patientis, morientis infinita fuit, et ex vero justitio 
+      <lb ed="#B" n="120"/>Trigore propititatio fuit pro totius mundi peccatis 
+</p>
+            <p xml:id="zef3dd-d1e1132-d1e1218">
+      <!--713.xml-->
+               <pb ed="#B" n="606"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>326. Antithesis: 1. Judaei de officio Messiae 
+      <lb ed="#B" n="2"/>gravissimos fovent errores: I. in officio prophetic 
+      <lb ed="#B" n="3"/>negant Messiam quicquam aliud praeter legem Mo 
+      <lb ed="#B" n="4"/>saicam promulgaturum et nihil novi prorsus alla 
+      <lb ed="#B" n="5"/>turum, quantum ad doctrinam, neque alia sacra 
+      <lb ed="#B" n="6"/>menta instituturum somniant; 2. in regio officio 
+      <lb ed="#B" n="7"/>prorsus caeci sunt. Somniant Messiam fore reger 
+      <lb ed="#B" n="8"/>terrenum, qui aliorum monarcharum more in terri 
+      <lb ed="#B" n="9"/>regnaturus, omnes gentes debellaturus et Judaeos i 
+      <lb ed="#B" n="10"/>terram Canaan reducturus sit ibique omnium rerur 
+      <lb ed="#B" n="11"/>affluentia et abundantia beaturus etc.; 3. sacerdo 
+      <lb ed="#B" n="12"/>tale Christi officium penitus tollunt, cum proprii 
+      <lb ed="#B" n="13"/>operibus justitiam et vitam aeternam mereri ac 
+      <lb ed="#B" n="14"/>propriis satisfactionibus Deo se reconciliari poss 
+      <lb ed="#B" n="15"/>persuasum habeant. Contra quos errores latissim 
+      <lb ed="#B" n="16"/>disputat et ex propriis auctoribus Judaeos refelli 
+      <lb ed="#B" n="17"/>D. Helvicus tom. 4. Disput. Gissens. disp. 6. et. 
+      <lb ed="#B" n="18"/>sive Elencho Judaeorum 3. et 4. 2. Stancarus 
+      <lb ed="#B" n="19"/>Christum secundum humanam naturam tantum me 
+      <lb ed="#B" n="20"/>diatorem esse docuit, sicut Andreas Osiander se 
+      <lb ed="#B" n="21"/>cundum divinam tantum naturam mediationis 
+      opu<lb ed="#B" n="22" break="no"/>ei tribuit. 3. PontificiiI. Stancari errorem sequuntu, 
+      <lb ed="#B" n="23"/>Christo itidem secundum humanam tantum naturar 
+      <lb ed="#B" n="24"/>mediationis officium tribuentes. Lorinus in 
+      comn<lb ed="#B" n="25" break="no"/>1. Epist. Joh. p. 32. scribit, illum posse Christur 
+      <lb ed="#B" n="26"/>l. catholice deprecari, ut pro ipso oret, qui norit d 
+      <lb ed="#B" n="27"/>stinquere inter divinitatem et humanitatem, juctè 
+      <lb ed="#B" n="28"/>quam noster advocatus est et pro nobis orat 
+      <lb ed="#B" n="29"/>Busaeus in Disp. de pers. Christi th. 79: Christus 
+      <lb ed="#B" n="30"/>secundum humanitatem tantum Deo obedivit, sacra 
+      <lb ed="#B" n="31"/>ficavit, obtulit, satisfecit, oravit, impetravit et merui 
+      <lb ed="#B" n="32"/>nobis justitiam. Bellarmin. libr. 5. de Christo c. 5. 
+      <lb ed="#B" n="33"/>§. 4: Ne aliquo modo, hoc est nullo modo, secur 
+      <lb ed="#B" n="34"/>dum divinam naturam Christum mediatorem dio 
+      <lb ed="#B" n="35"/>posse. Confer Melchior. Canum in Loe. theol. Suare 
+      <lb ed="#B" n="36"/>tom. 5. Comm. in part. 3. Thom. disp. 46. sect. 
+      <lb ed="#B" n="37"/>Gregor. de Valent. lib. 2. de Christo part. 2. c. . 
+      <lb ed="#B" n="38"/>Argumenta ipsorum ad veritatis trutinam expendi 
+      <lb ed="#B" n="39"/>mus in tractat. de pers. Christi §. 179. et seqe 
+      <lb ed="#B" n="40"/>2. Circa singulas officii mediatorii partes gravissimo 
+      <lb ed="#B" n="41"/>fovent errrores. In genere: 1. plures mediatores e 
+      <lb ed="#B" n="42"/>salvatores introducunt; 2. gentiles sine Christ 
+      <lb ed="#B" n="43"/>cognitione salvatos fuisse afferunt. In specie 
+      <lb ed="#B" n="44"/>1. contra officium propheticum: 1. magisterium fide 
+      <lb ed="#B" n="45"/>Romano pontifici tribuunt; 2. Christum fuisse 
+      no<lb ed="#B" n="46" break="no"/>vum legislatorem asserunt; 3. nova sacramenta 
+      <lb ed="#B" n="47"/>Christo et apostolis ignota introducunt; 4. baptism. 
+      <lb ed="#B" n="48"/>integritati quaedam a Christo minime instituta ad 
+      <lb ed="#B" n="49"/>lunt; 5. Eucharistiae institutionem a Christo factam 
+      <lb ed="#B" n="50"/>mutant. 2. Contra officium Christi sacerdotale 
+      <lb ed="#B" n="51"/>I. obedientiam et satisfactionem Christi pro nobi 
+      <lb ed="#B" n="52"/>praestitam adeoque sanctissimum ipsius meritur 
+      <lb ed="#B" n="53"/>multis modis convellunt, utpote negando Christ 
+      <lb ed="#B" n="54"/>satisfactionem simpliciter ad redemtionem et saluter 
+      <lb ed="#B" n="55"/>fuisse necessariam, divinae naturae ἐνέργειαν a sa 
+      <lb ed="#B" n="56"/>tisfactione et merito Christi excludendo, rationem 
+      a<lb ed="#B" n="57" break="no"/>pretium satisfactionis a Christo praestitae in nuda 
+      <lb ed="#B" n="58"/>acceptatione statuendo, Christum iram Dei et dolore 
+      <lb ed="#B" n="59"/>infernales in passione sensisse infitiando, Christum 
+      <lb ed="#B" n="60"/>pro peccatis et peccatorum poenis perfecte satisfe 
+      <!--713.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>cisse negando, merito Christi nostra merita addendo 
+      <lb ed="#B" n="62"/>Christum sua obedientia et satisfactione talem 
+      justi<lb ed="#B" n="63" break="no"/>tiam, quae per fidem nobis imputetur, promeruisse 
+      <lb ed="#B" n="64"/>pertinaciter negando, Christum sua obedientia 
+      e<lb ed="#B" n="65" break="no"/>passione corporis gloriam et exaltationem sibi pro 
+      <lb ed="#B" n="66"/>meruisse asserendo, Christi passionem esse solam e 
+      <lb ed="#B" n="67"/>totalem meritoriam justificationis et salutis 
+      nostra<lb ed="#B" n="68" break="no"/>causam negando, meritum Christi pecuniis vendendo 
+      <lb ed="#B" n="69"/>Satisfactio per sufficientiam (a Christo praestita 
+      <lb ed="#B" n="70"/>non meretur nomen satisfactionis, nec redemtio, 
+      ne<lb ed="#B" n="71" break="no"/>reconciliatio per sufficientiam merentur haec nomina 
+      <lb ed="#B" n="72"/>Tapperus in art. satisfact. p. 211: Christus est cause 
+      <lb ed="#B" n="73"/>salutis universalis, sed nec totalis nec integra 
+      <lb ed="#B" n="74"/>Miletus in discuss. primam promissionem Genes. 3. 
+      <lb ed="#B" n="75"/>v. 15. referunt ad Mariam ete. 2. Sacrificium Christ 
+      <lb ed="#B" n="76"/>In ara crucis oblatum per missaticum sacrificium 
+      con<lb ed="#B" n="77" break="no"/>vellunt; 3. ad sanctorum merita et intercessiones 
+      homi<lb ed="#B" n="78" break="no"/>nes ablegant; 4. purgatorium quendam ignem peccato 
+      <lb ed="#B" n="79"/>rum reliquias post hanc vitam abluentem introducunt. 
+      <lb ed="#B" n="80"/>3. Contra officium regium: 1. naturam Christi 
+      hu<lb ed="#B" n="81" break="no"/>manam ab omnipraesente in coelo ae terra 
+      do<lb ed="#B" n="82" break="no"/>minio excludunt; 2. pontificem Christi vicarium 
+      sta<lb ed="#B" n="83" break="no"/>tuunt; 3. honorem, dignitatem, opera et nomin 
+      <lb ed="#B" n="84"/>Christo regi propria ad Romanum pontificem trans 
+      <lb ed="#B" n="85"/>ferunt; 4. regnum temporale sub praetextu vicaria 
+      <lb ed="#B" n="86"/>tus Christi ad pontificem transferunt. De hisce Pon 
+      <lb ed="#B" n="87"/>tificiorum erroribus latissime egimus Disp. 2. et 8 
+      <lb ed="#B" n="88"/>de gloria Dei 
+      </p>
+            <p xml:id="zef3dd-d1e1132-d1e1422">
+               <lb ed="#B" n="89"/>327. 4. Calviniani: 1. contra propheticum Christ. 
+      <lb ed="#B" n="90"/>officium propugnant i. absolutum reprobationis de 
+      <lb ed="#B" n="91"/>cretum; 2. docent baptismum non esse efficax 
+      orga<lb ed="#B" n="92" break="no"/>num ac medium regenerationis et renovationis 
+      <lb ed="#B" n="93"/>3. ἀπουσίαν corporis et sanguinis Christi a coena 
+      <lb ed="#B" n="94"/>2. Contra sacerdotale Christi officium i. passionem 
+      <lb ed="#B" n="95"/>Christi per ἄλλοίωσιν periculosam ad solam naturam 
+      <lb ed="#B" n="96"/>humanam referunt; 2. in nuda patris acceptatione 
+      <lb ed="#B" n="97"/>rationem meriti statuunt; 3. Christi meritum et satis 
+      <lb ed="#B" n="98"/>factionem pro omnibus hominibus praestitam esse 
+      <lb ed="#B" n="99"/>negant; 4. activam Christi obedientiam ex ordine 
+      <lb ed="#B" n="100"/>causae meritoriae excludunt; 5. sibi aliquid 
+      prome<lb ed="#B" n="101" break="no"/>ruisse asserunt; 6. gentilibus absque fide in Christur 
+      <lb ed="#B" n="102"/>salutem tribuunt. 3. Contra regium Christi officiui 
+      <lb ed="#B" n="103"/>pugnat, quod humanam ejus naturam ab omniprae 
+      <lb ed="#B" n="104"/>sente et omnipotente in coelo ac terra dominio 
+      exclu<lb ed="#B" n="105" break="no"/>dunt. Confer Disp. 8. de gloria Dei. 
+      </p>
+            <p xml:id="zef3dd-d1e1132-d1e1462">
+               <lb ed="#B" n="106"/>328. 5. Photiniani: 1. contra propheticum Christ. 
+      <lb ed="#B" n="107"/>officium statuunt, Christum nova quaedam praecepta, 
+      <lb ed="#B" n="108"/>legi divinae addidisse. 2. Contra sacerdotale Chris 
+      <lb ed="#B" n="109"/>officium pugnat, quod negant Christum sua morte 
+      <lb ed="#B" n="110"/>pro peccatis nostris satisfecisse aut ad promerendam. 
+      <lb ed="#B" n="111"/>nobis salutem esse mortuum, negant Christum 
+      no<lb ed="#B" n="112" break="no"/>Deo reconciliasse, negant Christum pro nobis in ara 
+      <lb ed="#B" n="113"/>crucis se Deo in sacrificium obtulisse, negant 
+      Chri<lb ed="#B" n="114" break="no"/>stum fuisse sacerdotem, antequam ingressus esse 
+      <lb ed="#B" n="115"/>coelum, negant per Christi sacrificium quicquam 
+      <lb ed="#B" n="116"/>aliud intelligendum, quam liberationem ex nostris 
+      <lb ed="#B" n="117"/>necessitatibus, negant Christum pro nobis proprie 
+      <lb ed="#B" n="118"/>intercedere, cum per intercessionem ipsius nihil aliuo 
+      <lb ed="#B" n="119"/>intelligendum sit, quam quod potentiam suam, per 
+      <!--714.xml-->
+      <pb ed="#B" n="607"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>quam agit, a Patre habeat. 3. Contra regium 
+      <lb ed="#B" n="2"/>Christi officium pugnat, quod i. negant Christur 
+      <lb ed="#B" n="3"/>post suam in coelos ascensionem in terra praesentem 
+      <lb ed="#B" n="4"/>domihari ac potentiam Christo datam limitant e 
+      <lb ed="#B" n="5"/>restringunt; 2. statuunt regni Christi fore finen 
+      <lb ed="#B" n="6"/>Confer Disp. 10. de gloria Dei. §. 31. 
+      </p>
+            <p xml:id="zef3dd-d1e1132-d1e1514">
+               <lb ed="#B" n="7"/>329. Quaeritur hoc loeo: An Christus etiam sibi 
+      <lb ed="#B" n="8"/>aliquid promeruerit? Affirmant: 1. Pontificii, Thon 
+      <lb ed="#B" n="9"/>p. 3. q. 19. art. 3. q. 49. art. 6. Lomb. 8. sent. dis. 
+      <lb ed="#B" n="10"/>18. Bellarm. libr. 5. de Christo c. 9. Christum 
+      co<lb ed="#B" n="11" break="no"/>poria gloriam et nominis ecaltationem sibi pro 
+      <lb ed="#B" n="12"/>meruisse disputant. Salmeron. Hebr. 1. Disput. 
+      <lb ed="#B" n="13"/>§. dubium, Christum meruissè sibi sua passion 
+      <lb ed="#B" n="14"/>adorationem latriae; 2. quidam Calviniani, Zaneli 
+      <lb ed="#B" n="15"/>libr. 2. Epist. ad D. Stuckium p. 212. Zanchius in 
+      <lb ed="#B" n="16"/>scriptis suis saepe hoc repetit, Christum sua obe 
+      <lb ed="#B" n="17"/>dientia sibi promeruisse vitam deternam. ** Sic 
+      <lb ed="#B" n="18"/>tom. 8. de rel. Clrist. e. 12. aphor. 15. p. 592 
+      <lb ed="#B" n="19"/>Credimus, Christum sua perfecta obedientia non e 
+      <lb ed="#B" n="20"/>lum sibi, sed etiam nobis vitam aeternam 
+      prom<lb ed="#B" n="21" break="no"/>ruisse. Pisc. in Luc. 2. obs. 19. ** item in cap. : 
+      <lb ed="#B" n="22"/>Phil. v. 9. p. 173. Vorstius in Anti-Bellarm. p. 55. 
+      <lb ed="#B" n="23"/>56. Ravenspergerus in pentade 5. censurae et Ju 
+      <lb ed="#B" n="24"/>dicii de illustrioribus theologorum quaestionibus q. 
+      <lb ed="#B" n="25"/>ubi pro sua sententia citat Bullingerum in Apocal 
+      <lb ed="#B" n="26"/>serm. 27. et addit: Duo sunt, quae Christum sib 
+      <lb ed="#B" n="27"/>meruisse statuimus, videlicet vita acterna ac summe 
+      <lb ed="#B" n="28"/>illa et singularis gloria, qua pro Filio Dei ab omni 
+      <lb ed="#B" n="29"/>bus creaturis rationalibus agnoscitur ac proinde ut 
+      <lb ed="#B" n="30"/>verus Deus adoratur, quarum illam sibi meruis 
+      <lb ed="#B" n="31"/>observatione legis, juxta illud: Qui fecerit ea 
+      hom<lb ed="#B" n="32" break="no"/>vivet in eis, Levit. 18, v. 53 hanc vero per multa 
+      <lb ed="#B" n="33"/>ac varias passiones atque inprimis per morter 
+      <lb ed="#B" n="34"/>crucis, Philip. 2, v. 9. Huic assertioni opponimus 
+      <lb ed="#B" n="35"/>1. personae Christi dignitatem. Christus in ipss 
+      <lb ed="#B" n="36"/>unione secundum assumtam naturam humanam nomer 
+      <lb ed="#B" n="37"/>multo praestantius angelis sortitus est, quum assumt; 
+      <lb ed="#B" n="38"/>illa natura humana in ipsam Aόγου ὑπόστασιν sι 
+      <lb ed="#B" n="39"/>evecta, qua gloria et dignitate non potest majo 
+      <lb ed="#B" n="40"/>cogitari Hebr. 1, v. 5. Ergo ratione sui nullo in 
+      <lb ed="#B" n="41"/>diguit merito; 2. communicationis veritatem. Christe 
+      <lb ed="#B" n="42"/>secundum humanam naturam in primo incarnationi 
+      <lb ed="#B" n="43"/>momento dona vere divina et infinita vere ac 
+      rea<lb ed="#B" n="44" break="no"/>liter sunt communicata, ut ostendimus superius 
+      <lb ed="#B" n="45"/>Potuisset igitur Christus in prima statim conceptione 
+      <lb ed="#B" n="46"/>majestatem et gloriam sibi communicatam plena 
+      luc<lb ed="#B" n="47" break="no"/>exserere, nisi redemtionis ac salutis nostrae rati 
+      <lb ed="#B" n="48"/>requisivisset, ut sese prius exinaniret ac format 
+      <lb ed="#B" n="49"/>servi assumeret. In exaltatione, quae est exinam 
+      <lb ed="#B" n="50"/>tionis consequens, non est Christo data nova quae 
+      <lb ed="#B" n="51"/>dam potestas, quam per unionem personalem 
+      no<lb ed="#B" n="52" break="no"/>acceperit, sed collata est plena potestatis illius 
+      exse<lb ed="#B" n="53" break="no"/>cutio et regni administratio; 3. meriti Christi quad 
+      <lb ed="#B" n="54"/>tatem. Quicquid Christus in officio suo promeruit 
+      <lb ed="#B" n="55"/>id nobis, non sibi promeruit. Esa. 15, v. 24. 
+      <lb ed="#B" n="56"/>Zachar. 9, v. 9. Johann. 17, v. 19. 1. Tim. 1, v. 1. 
+      <lb ed="#B" n="57"/>Nobis enim natus, nobis datus est Esa. 9, v. 6. No 
+      <lb ed="#B" n="58"/>bis factus est justitia, sapientia, sanctificatio et ri 
+      <lb ed="#B" n="59"/>demtio s. Cor. I, v. 30; 4. consequentem absurdito 
+      <lb ed="#B" n="60"/>tem. Si Christus per passionem adorationem latriae 
+      <!--714.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>sibi promeruit, consequem fuerit, Christum in diebus 
+      <lb ed="#B" n="62"/>earnis non potuisse nec debuisse honorari adoration 
+      <lb ed="#B" n="63"/>latriae. Consequens est absurdum, quia argumenta 
+      <lb ed="#B" n="64"/>quibus superius demonstravimus, Christo homini ado 
+      <lb ed="#B" n="65"/>rationem latriae competere, probant etiam in statu 
+      <lb ed="#B" n="66"/>exinanitionis ipsum fuisse latria adorandum et exempla 
+      <lb ed="#B" n="67"/>piorum ostendunt, Christo in diebus carnis latriae 
+      <lb ed="#B" n="68"/>cultum fuisse saepius delatum; quem etiam ininime 
+      <lb ed="#B" n="69"/>recusavit; 5. adversaride opinionis varietatem 
+      <lb ed="#B" n="70"/>Adversarii in hoe dogmate sibi non constant: I. e. 
+      <lb ed="#B" n="71"/>Pontificiis Salmeron statuit, Christum gibi sua 
+      pus<lb ed="#B" n="72" break="no"/>sione meruisse acdorationem latriae. Sed reliqui 
+      di<lb ed="#B" n="73" break="no"/>sputant, Christo homini non latrian sed hiperdutias 
+      <lb ed="#B" n="74"/>competere, quam etiam in statu exinauitionis Christo 
+      <lb ed="#B" n="75"/>delatam fuisse asserunt. Catech. Tridentinus in 
+      <lb ed="#B" n="76"/>explic. art. 4. Symb. commolda et bona passionis 
+      <lb ed="#B" n="77"/>Christi enumerans solius meriti pro nobis, nulliu 
+      <lb ed="#B" n="78"/>autem pro Christo meminit. Bellarminus libr. 5. de 
+      <lb ed="#B" n="79"/>Christo 0. 9. ex Augustino libr. de praedestin. sar. 
+      <lb ed="#B" n="80"/>ctor. c. 15. recte negat. Christum meruisse nibi unio 
+      <lb ed="#B" n="81"/>nem hypostaticam, eamque refert inter illa, qua 
+      <lb ed="#B" n="82"/>quis mereri non potest. Sed Maximil. 
+      Sandaeu<lb ed="#B" n="83" break="no"/>Jesuita Herbipol. in Castig. de prodig. liberal. p. 261. 
+      <lb ed="#B" n="84"/>disputat, Deum potuisse conferre humanitati gratiar 
+      <lb ed="#B" n="85"/>venionis hypostaticae non absolute, sed tanquam 
+      su<lb ed="#B" n="86" break="no"/>conditione atque eum quadam dependentia a futuris 
+      <lb ed="#B" n="87"/>operibus, et sic ut in praemium eorum; B. ex 
+      Cu<lb ed="#B" n="88" break="no"/>vinianio ipse Calvinus libr. 2. Instit. c. 17. §. 6. 
+      <lb ed="#B" n="89"/>in Pontificiis ex professo hunc errorem refellit 
+      <lb ed="#B" n="90"/>Franc. Junius scribit, fidem Christiaenam nihi 
+      <lb ed="#B" n="91"/>laborare, sive dogma illud probetur sive impro 
+      <lb ed="#B" n="92"/>betur 
+      </p>
+            <p xml:id="zef3dd-d1e1132-d1e1707">
+               <lb ed="#B" n="93"/>330. Pro affirmante quaestionis parte urgetur po 
+      <lb ed="#B" n="94"/>tissimum locus apostolicus Phil. 2, v. 9: διὸ κα 
+      <lb ed="#B" n="95"/>ὑπερύψωσε. Respondemus: 1. exinanitio non statui 
+      <lb ed="#B" n="96"/>tur causa meritoria exaltationis, sed exaltatio descri 
+      <lb ed="#B" n="97"/>bitur, ut consequens praemium exinanitionis. 
+      Par<lb ed="#B" n="98" break="no"/>ticulae enim διὸ καὶ διὰ τοῦιο non semper ac ubique 
+      <lb ed="#B" n="99"/>notant causam rei meritoriam, sed interdum etiam 
+      <lb ed="#B" n="100"/>finalem, saepius autem consequentiam et 
+      ratiocin<lb ed="#B" n="101" break="no"/>tionem, qua unum aliquid ex altero concluditur 
+      <lb ed="#B" n="102"/>Confer Gen. 2, v. 21. Matth. 19, v. 5. Marc. 7. 
+      <lb ed="#B" n="103"/>v. 29. Rom. 2, v. 1. 2. Cor. 4, v. 13. c. 6, v. 17 
+      <lb ed="#B" n="104"/>Ephes. 4. v. 8. et 25. ete. quod tam evidens est, ut 
+      <lb ed="#B" n="105"/>nec ab ipsis Pontificiis negari possit. Hebr. 1, v. 9. 
+      <lb ed="#B" n="106"/>dilexisti justitiam et odisti iniquitatem, διὰ τοῦι 
+      <lb ed="#B" n="107"/>propterea unxit te Deus. Τὸ διὰ τοῦτο est ejusdem 
+      <lb ed="#B" n="108"/>significationis cum τῷ διό, jam vero illud διὰ 1οῦτο 
+      <lb ed="#B" n="109"/>Thomas in annot. Hebr. 1. lect. 4. Ribera in comm. 
+      <lb ed="#B" n="110"/>h. I. Melchior Canus in Locis theologicis libr. 1. 
+      <lb ed="#B" n="111"/>c. 13. §. tertio demum. Suarez. in Thomam tom. 1. 
+      <lb ed="#B" n="112"/>Disp. 10. sect. 4. non de causa meritoria, sed final 
+      <lb ed="#B" n="113"/>accipiendum esse docent. 2. Conferimus igitur cum 
+      <lb ed="#B" n="114"/>loco apostolico parallela dicta: Luc. 24, v. 26: Nonn 
+      <lb ed="#B" n="115"/>haec oportebat Christum pati et intrare in gloriam 
+      <lb ed="#B" n="116"/>suam? In vulg. vers. additur, ita intrare in gloriam 
+      <lb ed="#B" n="117"/>Ergo hic ordo fuit divinitus constitutus, ut Christu 
+      <lb ed="#B" n="118"/>per passionem et post passionem in gloriam iutraret 
+      <lb ed="#B" n="119"/>Hebr. 2. v. 9: Eum, qui modico quam angeli mino 
+      <lb ed="#B" n="120"/>ratus est, videmus Jesum διὰ τὸ πάθημα (quidam 
+      <!--715.xml-->
+      <pb ed="#B" n="608"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>verba sic ordinant, ut Christus dicatur factus angelis 
+      <lb ed="#B" n="2"/>minor διὰ τὸ πάθημα) per passionem mortis glorio 
+      <lb ed="#B" n="3"/>et honore coronatum; v. 10: Decebat enim eum 
+      <lb ed="#B" n="4"/>propter quem omnia et per quem omnia ete., aucto 
+      <lb ed="#B" n="5"/>rem salutis διὰ παθημάτων, per passiones, 
+      consum<lb ed="#B" n="6" break="no"/>mare. 1. Petr. 1, v. 11: Spiritus pronuntiavit re 
+      <lb ed="#B" n="7"/>εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας 
+      <lb ed="#B" n="8"/>3. Graecum διό componitur ex pronomine ô et praepo 
+      <lb ed="#B" n="9"/>sitione διά, reddendum igitur, proinde, quocirca, u 
+      <lb ed="#B" n="10"/>ordo et consequentia passionis ac gloriae, non autem 
+      <lb ed="#B" n="11"/>effectus meriti innuatur; 4. χαρίζεσθαι significat 
+      gra<lb ed="#B" n="12" break="no"/>tis donare vel largiri. Jam vero ubi gratia 
+      se<lb ed="#B" n="13" break="no"/>donum gratuitum, ibi exsulat meritum 
+      secun<lb ed="#B" n="14" break="no"/>dum debitum; 5. scopus apostoli non est, u 
+      <lb ed="#B" n="15"/>fiduciam meriti inculcet, sed ut humilitatis sto 
+      <lb ed="#B" n="16"/>dium commendet, ut a Deo gratuita humilitatis 
+      <lb ed="#B" n="17"/>praemia expectemus. 
+      </p>
+            <p xml:id="zef3dd-d1e1132-d1e1814">
+               <lb ed="#B" n="18"/>331. Usus practicus: 1. consolatorius. Christu 
+      <lb ed="#B" n="19"/>est noster doctor, in veritatis igitur semita nos di 
+      <lb ed="#B" n="20"/>ducet. Est noster sacerdos, apud Patrem igitur pro 
+      <lb ed="#B" n="21"/>nobis intercedet. Est noster rex, ergo adversu 
+      <lb ed="#B" n="22"/>omnes hostes nos defendet Joh. 14, v. 6. Chrysost 
+      <lb ed="#B" n="23"/>tom. I. col. 971: Gratias tibi, Domine, agimus, 
+      qui<lb ed="#B" n="24" break="no"/>tria ista praestitisti nobis: nosse, quae ignorabamus 
+      <lb ed="#B" n="25"/>veritatem, quia falsitatem tenebamus; viam, qui 
+      <lb ed="#B" n="26"/>nesciebamus; per quem ambularemus; vitam, quid 
+      <lb ed="#B" n="27"/>morti inhaeseramus, et mors nobis propinata era 
+      <lb ed="#B" n="28"/>ab illo homine, cui dictum est: Morte morieris 
+      <lb ed="#B" n="29"/>Mortuis vitam donavit, mendacibus veritatem pra 
+      <lb ed="#B" n="30"/>stitit, errantibus viam ostendit. Hilarius libr. 7. de 
+      <lb ed="#B" n="31"/>Trinit. p. 129: Non nos in erratica atque invia de 
+      <lb ed="#B" n="32"/>ducit ille, qui via est; neque illud per falsa, quio 
+      <lb ed="#B" n="33"/>veritas est; nec in mortia relinquit errore, qui vita 
+      <!--715.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="34"/>est. <ref xml:id="zef3dd-d1e1132-Rd1e1857">Augustin. lib. I. de doct. Christ. c. 34</ref>: 
+      Chri<lb ed="#B" n="35" break="no"/>stus est, per quem venitur, ad quem pervenitur, in 
+      <lb ed="#B" n="36"/>quo permanetur; libr. 9. de civ. Dei c. 15: Idem 
+      <lb ed="#B" n="37"/>in inferioribus via, qui in superioribus vita. Tract 
+      <lb ed="#B" n="38"/>22. in Johann. col. 195: Ambulare vis? ego sum 
+      <lb ed="#B" n="39"/>via. Falli non vis? ego sum veritas. Mori non 
+      <lb ed="#B" n="40"/>vis? ego sum vita. Hoc dicit salvator tuus: Non 
+      <lb ed="#B" n="41"/>est quo eas, nisi ad me; non est, qua eas, nisi 
+      pe<lb ed="#B" n="42" break="no"/>me. De verb. Dom. serm. 54: Qua vis ire? eg 
+      <lb ed="#B" n="43"/>sum via. Quo vis ire? ego sum veritas. Ubi vi 
+      <lb ed="#B" n="44"/>permanere? ego sum vita. Bernhard. serm. 2. de 
+      <lb ed="#B" n="45"/>ascens. in fine: Sequamur te, per te, ad te, quia to 
+      <lb ed="#B" n="46"/>es via, veritas et vita. Via in exemplo, veritas in 
+      <lb ed="#B" n="47"/>promisso, vita in praemio. Gloss. interlin: Via 
+      <lb ed="#B" n="48"/>sine errore quaerentibus, veritas sine falsitate in 
+      <lb ed="#B" n="49"/>venientibus, vita sine morte permanentibus. 
+      Gerson<lb ed="#B" n="50" break="no"/>in praefat. lib. de vita spirit: Est vita animans 
+      <lb ed="#B" n="51"/>via movens, veritas stabiliens. Hugo de prat. serm. 
+      <lb ed="#B" n="52"/>I. de spin. coron.: Est via ducens, veritas lucens 
+      <lb ed="#B" n="53"/>vita indeficiens. 2. echortatorius. Christus rex e 
+      <lb ed="#B" n="54"/>sacerdos noster fecit nos coram Deo Patre reges e 
+      <lb ed="#B" n="55"/>sacerdotes. Imperemus igitur carni, dominemur peo 
+      <lb ed="#B" n="56"/>cato, resistamus diabolo, ut reges; offeramus corpora 
+      <lb ed="#B" n="57"/>nostra victimam spiritualem Deo, ut sacerdotes 
+      <lb ed="#B" n="58"/>Christiani a Christo dicimur, aequum igitur est, u 
+      <lb ed="#B" n="59"/>Christo capiti nos conformemus, in ipsius clientelam 
+      <lb ed="#B" n="60"/>nos resignemus, ab ipso nos regi patiamur, salutem 
+      <lb ed="#B" n="61"/>nostram unice ipsi commendemus; clamat ad nos 
+      <lb ed="#B" n="62"/>Ego sum via, ergo exemplum ejus imitemur. Ego 
+      <lb ed="#B" n="63"/>sum veritas, ergo verbis ejus fidem habeamus. Ego 
+      <lb ed="#B" n="64"/>sum vita, ergo in morte animas nostras ipsi 
+      commen<lb ed="#B" n="65" break="no"/>demus. Ipsi sit laus, honor et gloria in sempiterna 
+      <lb ed="#B" n="66"/>secula. Amen. 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

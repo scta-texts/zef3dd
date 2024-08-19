@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="447"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e883"><!-- zef3dd-l4proem -->
+            <head xml:id="zef3dd-d1e883-Hd1e101">Prooemium</head>
+            <p xml:id="zef3dd-d1e883-d1e103">
+      <!--520.xml-->
+               <pb ed="#B" n="447"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>LOCUS QUARTUS 
+      <lb ed="#B" n="2"/>DE PERSONA EI OFFIUIO 
+      URRISII<lb ed="#B" n="3" break="no"/>PROOEMIUM. 
+<lb ed="#B" n="4"/>I. 
+    </p>
+            <p xml:id="zef3dd-d1e883-d1e121">
+      <!--520.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="5"/>Thesis prooemialis: Articulum de persona et officis 
+      <lb ed="#B" n="6"/>CHRISTI commendat nobis doctrinae hujus digni 
+      <lb ed="#B" n="7"/>tas, utilitas et necessitas. Dignitas elucet: I. e 
+      <lb ed="#B" n="8"/>origine seu causa efficiente. Doetrina de Christ 
+      <lb ed="#B" n="9"/>non est nobis natura nota, sed divinitus in verbi 
+      <lb ed="#B" n="10"/>patefacta. Matth. 16, v. 17: Caro et sanquis non 
+      <lb ed="#B" n="11"/>revelavit tibi, sed Pater meus, qui in coelis es 
+      <lb ed="#B" n="12"/>Rom. 16, v. 25: Praeconium de Christo est myst 
+      <lb ed="#B" n="13"/>rium aeternis temporibus tacitum ete.; 2. ex objecto 
+      <lb ed="#B" n="14"/>Tractat hic articulus de Christo, qui est totius 
+      Ser<lb ed="#B" n="15" break="no"/>pturae propheticae et apostolicae centrum, ecclesia 
+      <lb ed="#B" n="16"/>fundamentum, thesaurus spei nostrae, fons salutis e 
+      <lb ed="#B" n="17"/>gratiae, a quo denominamur Christiani, a quo 
+      d<lb ed="#B" n="18" break="no"/>scendunt omnia ad salutem aeternam nobis nece 
+      <lb ed="#B" n="19"/>saria. Johannes initium scriptionis suae facit 
+      <lb ed="#B" n="20"/>Christo: In principio erat rerbum, Johann. 1, v. 
+      <lb ed="#B" n="21"/>et cum eodem finit Apoc. 22, v. ult: Gratia Domin 
+      <lb ed="#B" n="22"/>nostri JESU Christi sit vobiscum. Universa 
+      Scri<lb ed="#B" n="23" break="no"/>ptura nihil aliud est quam perpetuum de Christe 
+      <lb ed="#B" n="24"/>testimonium. Psalm. 40, v. 8. In volumine libi 
+      <lb ed="#B" n="25"/>scriptum est de me, quod repetitur Hebr. 10, v. 7 
+      <lb ed="#B" n="26"/>Luc. 24, v. 44: Necesse est impleri omnia, qua 
+      <lb ed="#B" n="27"/>scripta sunt in lege Moysis et prophetis et pealmi 
+      <lb ed="#B" n="28"/>de me. Joh. 5, v. 39: Scrutamini Scripturas, illa 
+      <lb ed="#B" n="29"/>enim sunt, quae testificantur de me. Apoc. 19, v. 10. 
+      <lb ed="#B" n="30"/>Testimonium Jesu est spiritus prophetiae, xml:id est, ac 
+      <lb ed="#B" n="31"/>Jesum tanquam τέλος σκοπιμώιαιον et ultimur 
+      <lb ed="#B" n="32"/>scopum omnes prophetiae feruntur, inde Hieronymu 
+      <lb ed="#B" n="33"/>epist. ad Algas. q. 11. Christum voeat omniui 
+      <lb ed="#B" n="34"/>Scripturariam caput. August. lib. 16. contr. Faus 
+      <lb ed="#B" n="35"/>c. 22. inquit, omnem Scripturae intentionem non 
+      ni<lb ed="#B" n="36" break="no"/>ad intelligendam Christi gratiam respicere. Idem 
+      <lb ed="#B" n="37"/>in Psalm. 71: Omnia, quae scripta sunt, ad 
+      Chr<lb ed="#B" n="38" break="no"/>atum referuntur. Tract. 9. in Joh.: Non sapit vetus 
+      <lb ed="#B" n="39"/>Scriptura, nisi Christus in ea intelligatur; ex qui 
+      <lb ed="#B" n="40"/>fundamento quidam recentior theologus monet, Bibli 
+      <lb ed="#B" n="41"/>tta legenda esse, ac si canguine Christi per totur 
+      <lb ed="#B" n="42"/>essent scripta; 3. ex effecto. Cognitio hujus de 
+      <lb ed="#B" n="43"/>etrinae eximios et salutares fructus in utilitate paull¬ 
+      <!--520.xml-->
+      <cb ed="#B" n="c"/>
+               <lb ed="#B" n="44"/>post enumerandos offert; 1. ex adjuncto. Doctrin. 
+      <lb ed="#B" n="45"/>de Christo non utilis solum, sed et necessaria est 
+      <lb ed="#B" n="46"/>ut paullo post demonstrabitur. Jam vero quo quio 
+      <lb ed="#B" n="47"/>que non solum utilitate fructuosius, sed etiam no 
+      <lb ed="#B" n="48"/>cessitate salubrius, eo pretiosius ac dignitate 
+      pra<lb ed="#B" n="49" break="no"/>stantius merito censetur 
+      </p>
+            <p xml:id="zef3dd-d1e883-d1e230">
+               <lb ed="#B" n="50"/>2. Utilitas colligitur ex effectis et fructibus, quos 
+      <lb ed="#B" n="51"/>salutaris Christi cognitio et fides per Spiritus sancti 
+      <lb ed="#B" n="52"/>operationem ex ea orta nobis affert, qui sunt 1. 
+      pec<lb ed="#B" n="53" break="no"/>catorum remissio, Luc. 1, v. 77. γνῶσις τῆς σωτηρίας 
+      <lb ed="#B" n="54"/>salvatoris Christi confert peccatorum remissionem; 
+      <lb ed="#B" n="55"/>2. justitia. Esa. 53, v. 11: In scientia qui 
+      justifica<lb ed="#B" n="56" break="no"/>bit servus meus multos. Sap. 15, v. 3: te scire es 
+      <lb ed="#B" n="57"/>perfecta justitia; 8. vera sapientia. Jer. 9, v. 23. 
+      <lb ed="#B" n="58"/>Non glorietur sapiene in sapientia sua; 4. vit. 
+      <lb ed="#B" n="59"/>aeterna. Joh. 17, v. 3: Haec est vita aeterna, u 
+      <lb ed="#B" n="60"/>cognoscant te solum verum Deum et quem misist 
+      <lb ed="#B" n="61"/>Jesum Christum. Ephes. 3, v. 19: Christum diligere 
+      <lb ed="#B" n="62"/>est omni cognitione praestantius. Col. 2, v. 3: In 
+      <lb ed="#B" n="63"/>Christo sunt omnes thesauri sapientiae et 
+      scientia<lb ed="#B" n="64" break="no"/>reconditi, in quem locum sic comment. Ambr. 
+      <lb ed="#B" n="65"/>Omnis scientia totius creaturae supernae et terrenae 
+      <lb ed="#B" n="66"/>in eo ut sit oportet, qui omnium eorum caput est 
+      <lb ed="#B" n="67"/>sive angelorum sive solis sive stellarum sive caete 
+      <lb ed="#B" n="68"/>rarum rerum; omnis scientiae peritia in auctore 
+      <lb ed="#B" n="69"/>illorum est, ut, qui hunc cognoscit, nihil ultra 
+      re<lb ed="#B" n="70" break="no"/>quirat, neque sapientiam neque virtutem, quio 
+      <lb ed="#B" n="71"/>agnovit eum, in quo perfecta virtus ac perfecta sd 
+      <lb ed="#B" n="72"/>pientio 
+      </p>
+            <p xml:id="zef3dd-d1e883-d1e282">
+               <lb ed="#B" n="73"/>3. Necessitas doctrinae hujus cognoscendae 
+      ap<lb ed="#B" n="74" break="no"/>paret 1. ex divino mandato Deut. 18, v. 18: Ponam 
+      <lb ed="#B" n="75"/>verba mea in ore ejus, qui non audierit, ab eo re 
+      <lb ed="#B" n="76"/>quiram. Matth. 17, v. 5: hunc audite. Qui veram 
+      <lb ed="#B" n="77"/>Christi cognitionem ex verbo revelato percipit, in 
+      <lb ed="#B" n="78"/>salutariter Christum audit; 2. ex piorum exemple 
+      <lb ed="#B" n="79"/>Maria ab ore docentis Christi pendens hoc orna 
+      <lb ed="#B" n="80"/>tur encomio, quod bonam partem elegerit, quae non 
+      <lb ed="#B" n="81"/>auferetur ab ea; Marthae vero sorori exprobratur 
+      <lb ed="#B" n="82"/>quod neglecto unico hoc necessario de περιέργιs. 
+      <!--521.xml-->
+      <pb ed="#B" n="448"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>frustra fuerit sollicita, Luc. 10, v. 12. Paulus de 
+      <lb ed="#B" n="2"/>se ipso memorat, quod apud Corinthios sic sese ges 
+      <lb ed="#B" n="3"/>serit, ut indicaverit nihil se scire aliud praeter Chro 
+      <lb ed="#B" n="4"/>stum crucifixum 1. Cor. 2, v. 2. ac reliqua omnio 
+      <lb ed="#B" n="5"/>existimavit detrimentum propter eminentem scientiar 
+      <lb ed="#B" n="6"/>JESU Christi Phil. 3, v. 8. Prudentius de 
+      Chri<lb ed="#B" n="7" break="no"/>stianis in primitiva ecclesia canit: Omnia de Christe 
+      <lb ed="#B" n="8"/>per Christum cuncta loquuntur. Hic scilicet est thi 
+      <lb ed="#B" n="9"/>saurus in agro absconditus, haec pretiosa illa gemma 
+      <lb ed="#B" n="10"/>quam posthabitis totius mundi thesauris unice sectar 
+      <lb ed="#B" n="11"/>debemus, Matth. 13, v. 44. Hic lapis anguli pro 
+      <lb ed="#B" n="12"/>tiositatis Esa. 28, v. 16, quo nihil pretiosius in cord 
+      <lb ed="#B" n="13"/>Patris coelestis, nihil pretiosius in ecclesia, nihil pre 
+      <lb ed="#B" n="14"/>tiosius esse debet in corde nostro; 3. ex opposite 
+      <lb ed="#B" n="15"/>ignorantiae malo. Sicut in cognitione Christi 
+      con<lb ed="#B" n="16" break="no"/>sistit vita aeterna, sic vice versa nescit vitam et 
+      sa<lb ed="#B" n="17" break="no"/>lutem suam, qui Christum ignorat. Qui non habe 
+      <lb ed="#B" n="18"/>Filium, is nec vitam habet, 1. Joh. 5, v. 12; qu 
+      <lb ed="#B" n="19"/>Filium non honorat, is nec Patrem honorat, Joh. 3, 
+      <lb ed="#B" n="20"/>v. 23. At qui Christum ex verbo non cognoscit, i 
+      <lb ed="#B" n="21"/>nec Filium habere nec honorare potest. Ergo nec 
+      <lb ed="#B" n="22"/>vitam habere nec Patrem recte honorare potest 
+      <lb ed="#B" n="23"/>Nescit, plane nescit vitam suam, qui Chri 
+      <lb ed="#B" n="24"/>stum ut verum Deum, ila et verum hominem igne 
+      <lb ed="#B" n="25"/>rat, ait Hilar. I. 9. de Trin. p. 160. Aliorum dogma 
+      <lb ed="#B" n="26"/>tum scitu utilium ac necessariorum ἄγνωσία turpis 
+      <lb ed="#B" n="27"/>est ac detestabilis, sed Christi ignoratio est insuper 
+      <lb ed="#B" n="28"/>damnabilis; 1. ex adversantium haeresium cumulo 
+      <lb ed="#B" n="29"/>Quemadmodum in munita regionis alicuius arce 
+      a<lb ed="#B" n="30" break="no"/>metropoli oppugnanda vires hostium potissimum oc 
+      <lb ed="#B" n="31"/>cupantur: sic diabolus omnes calliditatis et potentiae 
+      <lb ed="#B" n="32"/>suae vires in mysterio de Christo, quod doctrinae 
+      <lb ed="#B" n="33"/>coelestis metropolin esse novit, oppugnando jam indi 
+      <lb ed="#B" n="34"/>a primo N. T. initio, imo a mundi usque exordio 
+      <lb ed="#B" n="35"/>experiri voluit, modo enim divinam, modo 
+      humanam<lb ed="#B" n="36" break="no"/>Christi naturam evertere modo unionem personalem 
+      <lb ed="#B" n="37"/>dissolvere, modo officium ejus labefactare conatu 
+      <lb ed="#B" n="38"/>est ac viis dissimilibus ad eandem perpetuo 
+      conten<lb ed="#B" n="39" break="no"/>dit metam, videlicet ut sinceritatem ac puritatem 
+      <lb ed="#B" n="40"/>hujus doctrinae corrumperet ac consequenter hunc 
+      <lb ed="#B" n="41"/>salutis thesaurum hominibus eriperet 
+      </p>
+            <p xml:id="zef3dd-d1e883-d1e403">
+               <lb ed="#B" n="42"/>4.. Antithesis. Necessitatem doctrinae de Christ. 
+      <lb ed="#B" n="43"/>1. directe negant, qui sanioribus gentilibus salutem 
+      <lb ed="#B" n="44"/>tribuunt, quod ex Pontificiis et Calvinianis quosdam 
+      <lb ed="#B" n="45"/>facere atque ex Photinianae doctrinae hypothesibu 
+      <lb ed="#B" n="46"/>consequens esse suo loco demonstravimus. 2. Obla 
+      <lb ed="#B" n="47"/>que eam labefactant. Calviniani, dum controversias 
+      <lb ed="#B" n="48"/>quae de unione personali et eam consequente xml:idio 
+      <lb ed="#B" n="49"/>matum communicatione verae ecclesiae cum ipsi, 
+      <lb ed="#B" n="50"/>intercedunt, extenuant, in fundamento nos 
+      consentir<lb ed="#B" n="51" break="no"/>asserunt, ac fraternitatem spiritualem simulato animo 
+      <lb ed="#B" n="52"/>nobis offerunt, cum in doctrina de Christo, qui es 
+      <lb ed="#B" n="53"/>unicum ecclesiae et salutis fundamentum 1. Cor.. 
+      <lb ed="#B" n="54"/>v. 11. Ephes. 2. v. 20. δὺς διὰ πασῶν invicem dis 
+      <lb ed="#B" n="55"/>sideamus, ut ex sequentibus apparebit 
+      </p>
+            <p xml:id="zef3dd-d1e883-d1e436">
+               <lb ed="#B" n="56"/>5. Usus practicus est exhortatorius, ut doctrinam 
+      <lb ed="#B" n="57"/>de Christo singulari studio ac diligentia discamus et 
+      <lb ed="#B" n="58"/>contra quasvis ejusdem corruptelas animos nostro 
+      <lb ed="#B" n="59"/>praemuniamus. Ut Christus est a et ω, principium 
+      <!--521.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>et finis, Apoc. I, v. 8, ita quoque in meditationibus 
+      <lb ed="#B" n="61"/>ac studiis nostris sit principium et finis. Quicquid 
+      <lb ed="#B" n="62"/>cogitaveris, quicquid dixeris, quidquid scripseris, nis 
+      <lb ed="#B" n="63"/>Jesus sit in eo, non sapit. Bernh. serm. 15. in Cant. 
+      <lb ed="#B" n="64"/>col. 532: Aricdus est omnis animae cibus, si non 
+      <lb ed="#B" n="65"/>oleo isto infunditur; insipidus est, si non hoc sale 
+      <lb ed="#B" n="66"/>conditur. Si scribas, non sapit mihi, nisi legero ib 
+      <lb ed="#B" n="67"/>Jesum; si disputes aut conferas, non sapit mihi 
+      <lb ed="#B" n="68"/>nisi sonuerit ibi Jesus. Serm. 43. in Cant: Si 
+      <lb ed="#B" n="69"/>sapis, imitaberis sponsae prudentiam atque hunc 
+      <lb ed="#B" n="70"/>myrrhae tam carum fasciculum a pectore tuo 
+      ne<lb ed="#B" n="71" break="no"/>id horam patieris avelli, amara illa omnia, quae 
+      <lb ed="#B" n="72"/>pro te pertulit, semper in memoria retinens et assi 
+      <lb ed="#B" n="73"/>lua meditatione revolvens, quo possis et tu dicere, 
+      <lb ed="#B" n="74"/>fasciculus myrrhae dilectus meus mihi, inter ubero 
+      <lb ed="#B" n="75"/>mea commorabitur. Haec meditari dixi sapientiam 
+      <lb ed="#B" n="76"/>in his justitiae mihi perfectionem constitui, in his 
+      <lb ed="#B" n="77"/>plenitudinem scientiae, in his divitias calutis, in his 
+      <lb ed="#B" n="78"/>copias meritorum 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

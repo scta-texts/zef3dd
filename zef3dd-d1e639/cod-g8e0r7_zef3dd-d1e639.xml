@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="284"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e639"><!-- zef3dd-l2c5 -->
+            <head xml:id="zef3dd-d1e639-Hd1e101">Caput 5</head>
+            <head xml:id="zef3dd-d1e639-Hd1e103" type="question-title">Quis sit Deus</head>
+            <p xml:id="zef3dd-d1e639-d1e106">
+               <lb ed="#B" n="80"/>CAPUT V. 
+      <lb ed="#B" n="81"/>QUIS SIT DEUS. 
+</p>
+            <p xml:id="zef3dd-d1e639-d1e113">
+               <lb ed="#B" n="82"/>89. Duo hoc loco quaeruntur: 1. An Deus possit. 
+      <lb ed="#B" n="83"/>definiri. 2. Quomodo eit definiendus, ei καὶ πῶς δεῖs 
+      <lb ed="#B" n="84"/>ὀρίζειν τὴν θεὸν. Ad priorem quaestionem 
+      respon<lb ed="#B" n="85" break="no"/>demus negate. I. ex generia defectu. Quicquid de 
+      <lb ed="#B" n="86"/>stituitur vero et proprio genere logico, illud definir 
+      <lb ed="#B" n="87"/>nequit, quia genus est essentialis definitionis pars 
+      <lb ed="#B" n="88"/>Deus non habet verum et proprium genus logicum 
+      <lb ed="#B" n="89"/>quia, si tale genus obtineret, illud univoce essen 
+      <lb ed="#B" n="90"/>tialiter et aequaliter de Deo et creaturis praedicare 
+      <lb ed="#B" n="91"/>tur, quod fieri nequit, quia Deus, utpote creator 
+      <lb ed="#B" n="92"/>et creatura infinito intervallo inter se distant, neque 
+      <lb ed="#B" n="93"/>quicquam est, quod aequaliter de utroque praedi 
+      <lb ed="#B" n="94"/>cari possit. Confer Damascen. I. de orthod. fid 
+      <lb ed="#B" n="95"/>c. 13. Keckerman. lib. 1. syst. theol. p. 6. Goelen. 
+      <lb ed="#B" n="96"/>part. 2. probl. logic. c. 15. p. 51, ubi negant dari 
+      <lb ed="#B" n="97"/>posse genus in definitione Dei. Thom. p. 1. q. 3. 
+      <lb ed="#B" n="98"/>art. 5. sic progreditur: Est aliquid in. gener 
+      <lb ed="#B" n="99"/>1. eimpliciter et proprie sicut opecies. 2. per 
+      redu<lb ed="#B" n="100" break="no"/>ctionem eicut principium et privationes. Sic 
+      pun<lb ed="#B" n="101" break="no"/>ctum et unitas reducuntur ad genus quantitatis, 
+      <lb ed="#B" n="102"/>neutro modo Deus est in genere, non ut species 
+      <lb ed="#B" n="103"/>1. Species constituitur ex genere et differentia, xml:id 
+      <lb ed="#B" n="104"/>autem, a quo cumitur differentia, se habet ad illud 
+      <lb ed="#B" n="105"/>unde cumitur genus sicut actus ad potentiam, cum 
+      <lb ed="#B" n="106"/>in Deo non adjungatur potentia actui. 2. 
+      Philo<lb ed="#B" n="107" break="no"/>sophus 8. metaph. ostendit, quod ene non potest esse 
+      <lb ed="#B" n="108"/>jenus alicujus, omne enim genua habet differentias 
+      <lb ed="#B" n="109"/>quae cunt extra essentiam generis, nulla autem dif 
+      <lb ed="#B" n="110"/>ferentia potest reperiri, quae eit extra ene. 8. qua 
+      <lb ed="#B" n="111"/>runt in uno genere, communicant quidditate, 
+      diffe<lb ed="#B" n="112" break="no"/>runt autem cecundum esse, in Deo autem non 
+      diffe<lb ed="#B" n="113" break="no"/>runt esse, et quod quid est, xml:id eot cosentia. 
+      Ne<lb ed="#B" n="114" break="no"/>reductive Deue est in genere, quia principium, quod 
+      <!--358.xml-->
+      <pb ed="#B" n="285"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>reducitur in aliquod genus, non se extendit ultro 
+      <lb ed="#B" n="2"/>illud genus, sic punctum non est principium nis 
+      <lb ed="#B" n="3"/>quantitatis continuae. Deus autem est principium 
+      <lb ed="#B" n="4"/>totius esse. Haec Tom. <ref xml:id="zef3dd-d1e639-Rd1e201">
+                  <name xml:id="zef3dd-d1e639-Nd1e203">Scotus</name> quidem 1. sent. dist 
+      <lb ed="#B" n="5"/>3. quaest. 5.</ref> disputat, quod ens sit genuo univocun 
+      <lb ed="#B" n="6"/>Deo et creaturis, et format hanc propositionem 
+      <lb ed="#B" n="7"/>Dabilis est conceptus, unus communis Deo et crea 
+      <lb ed="#B" n="8"/>turis praedicabilis, de eis in quid et primo modo 
+      <lb ed="#B" n="9"/>per se. Deus enim potest a nobis cognosci, non in 
+      <lb ed="#B" n="10"/>se, quia talis cognitio est intuitiva et beatifica, nec 
+      <lb ed="#B" n="11"/>in conceptu simplici proprio cibi, quia nihil sic in 
+      <lb ed="#B" n="12"/>telligitur, nisi prius in se cognoscatur, ergo in ali 
+      <lb ed="#B" n="13"/>quo conceptu communi sibi et creaturis. Scoto 
+      su<lb ed="#B" n="14" break="no"/>fragatur Piscator volum. 1. thes. theol. disp. 2. th. 
+      <lb ed="#B" n="15"/>3. p. 76: Vocabulum spiritus, inquit, statuimus 
+      pr<lb ed="#B" n="16" break="no"/>genere in definitione Dei, quia de Deo et angelis 
+      <lb ed="#B" n="17"/>et animabus hominum συνωνύμως praedicatur. Sed 
+      <lb ed="#B" n="18"/>recte monet Bielius 1. sent. dist. 2. quaest. 8. circ. 
+      <lb ed="#B" n="19"/>finem: Univocum accipi late et stricte. Si sumatur 
+      <lb ed="#B" n="20"/>stricte, pro conceptu praedicabili de pluribus 
+      simili<lb ed="#B" n="21" break="no"/>tudinem perfectam ad invicem habentibus, tunc 
+      nu<lb ed="#B" n="22" break="no"/>lum conceptum esse univocum Deo et creaturis. e 
+      <lb ed="#B" n="23"/>dicas, habet tamen genus analogum. Resp. Deus 
+      <lb ed="#B" n="24"/>est infinitus, est simplicissimus, nec materiae et for 
+      <lb ed="#B" n="25"/>mae, nec generis et differentiae, nec subjecti et 
+      ac<lb ed="#B" n="26" break="no"/>cidentium, nec actus et potentiae, nec οὐσίας et 
+      <lb ed="#B" n="27"/>εἶναι, nec suppositi et naturae compositionem ad 
+      <lb ed="#B" n="28"/>mittens. Quicquid vero proprium habet genus, illud 
+      <lb ed="#B" n="29"/>est quodammodo fibitum et compositum. Deus sim 
+      <lb ed="#B" n="30"/>pliciter infinitus. Ergo. Si Deus et angeli habe 
+      <lb ed="#B" n="31"/>rent genus analogicum, esset quaedam proportis 
+      <lb ed="#B" n="32"/>inter Deum et angelos. Atqui inter finitum et in 
+      <lb ed="#B" n="33"/>finitum nulla datur proportio. Vox spiritus qua 
+      <lb ed="#B" n="34"/>ratione tribuitur Deo, ea ratione non tribuitur 
+      ar<lb ed="#B" n="35" break="no"/>gelis, quia in Deo non est aliud esse spiritum, esse 
+      <lb ed="#B" n="36"/>essentiam, esse infinitum ete. est enim ipsa sua in 
+      <lb ed="#B" n="37"/>finitas. Ergo non solum excellenter, sed plane 
+      sin<lb ed="#B" n="38" break="no"/>gulariter de Deo praedicatur. 2. ex Dei perfectione 
+      <lb ed="#B" n="39"/>Deus est summum ens et est merus ac purissimus 
+      <lb ed="#B" n="40"/>actus. Quia est summum ens, xml:ideo non habet ali 
+      <lb ed="#B" n="41"/>quod superius, jam vero quicquid proprie definitur. 
+      <lb ed="#B" n="42"/>id per prius definitur. 6. Top. 3. quia purissimus 
+      <lb ed="#B" n="43"/>actus, xml:ideo nihil potentialitatis sive potentiae passivae 
+      <lb ed="#B" n="44"/>admixtum habet, jam vero in definitione genus est 
+      <lb ed="#B" n="45"/>instar potentiae et materiae, differentia specifica instar 
+      <lb ed="#B" n="46"/>actus et formae. Differentia non est essentia xml:idem 
+      <lb ed="#B" n="47"/>quod genus, sed secundum essentiam a genere differt 
+      <lb ed="#B" n="48"/>At vero essentiales Dei proprietates essentia non 
+      <lb ed="#B" n="49"/>differunt ab ipsa deitate, sed realiter sunt ipsa di 
+      <lb ed="#B" n="50"/>vina essentia. Ergo essentiales Dei proprietates in 
+      <lb ed="#B" n="51"/>ipsa deitate nullam realem differentiam arguunt 
+      <lb ed="#B" n="52"/>Sicut materia prima non potest proprie et perfect 
+      <lb ed="#B" n="53"/>definiri, quia est mera potentia, et propter minimam 
+      <lb ed="#B" n="54"/>entitatem, ita quoque ex adverso Deus non potes 
+      <lb ed="#B" n="55"/>definiri, quia est merus actus, et propter 
+      summan<lb ed="#B" n="56" break="no"/>entitatem. Damascen. in dial. cap. 4. Deus es 
+      <lb ed="#B" n="57"/>οὐσία ὑπερούσιος, ad nullum entis genus determinatu 
+      <lb ed="#B" n="58"/>et restrictus, sed omnia entium genera infinitis modi 
+      <lb ed="#B" n="59"/>in se complectens. Dei essentiam nec oculis intueri 
+      <lb ed="#B" n="60"/>nec mente complecti, nec lingua eloqui in hae vita 
+      <!--358.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>possumus, quomodo igitur eandem perfecte definire 
+      <lb ed="#B" n="62"/>possemus? Exod. 33, v. 20. 1. Cor. 13, v. 13. Vide 
+      <lb ed="#B" n="63"/>omnino Aug. libr. de cogn. verae vit. c. 3. Iden. 
+      <lb ed="#B" n="64"/>ib. 7. de Trin. e. 4. negat substantiae nomen 
+      Deo<lb ed="#B" n="65" break="no"/>competere, cum non insit in eo aliquid, tanquam in 
+      <lb ed="#B" n="66"/>subjecto, cumque sit simplicissimus. Essentiae autem 
+      <lb ed="#B" n="67"/>nomen ita ipsi competere, ut solus dici oporteat 
+      es<lb ed="#B" n="68" break="no"/>sentia, est enim vere solus, quia incommutabilis est. 
+      <lb ed="#B" n="69"/>Damascenus 1. de orthod. fide c. 16: ἀδύνατον φύσιν 
+      <lb ed="#B" n="70"/>τελείως γνῶναι τὴν ὑκερκειμένην φύσιν, εἰ δὲ καὶ 
+      <lb ed="#B" n="71"/>τῶν ὄντων αἰ γνώσεις, τὸ ὑπεροῦσιον πῶς γνωθήσε¬ 
+      <lb ed="#B" n="72"/>ται. Scal. ex. 365. sect. 4. In prisca philosophia. 
+      <lb ed="#B" n="73"/>dicitur Deus ὑπεροῦσιος, quod vocabulum ipsum aman 
+      <lb ed="#B" n="74"/>dat supra omnem substantiam, quia non est 
+      substan<lb ed="#B" n="75" break="no"/>tia, quomodo nostra. Thom. 1. sent. dist. 8. q. 4. 
+      <lb ed="#B" n="76"/>Deus proprie substantia dici nequit, largo tamer 
+      <lb ed="#B" n="77"/>nodo substantia dici potest, quae intelligitur super 
+      <lb ed="#B" n="78"/>omnem substantiam creatam. 3. ex sufficienti 
+      enu<lb ed="#B" n="79" break="no"/>meratione. Si Deus proprie definiri posset, illa foret 
+      <lb ed="#B" n="80"/>vel essentialis vel causalis definitio. Essentialis esse 
+      <lb ed="#B" n="81"/>nequit, quia illa constat genere et differentia 
+      speci<lb ed="#B" n="82" break="no"/>ica. Jam vero Deus non habet univocum aliquod 
+      <lb ed="#B" n="83"/>genus cum reliquis entibus, nec simplicissima ejus 
+      <lb ed="#B" n="84"/>essentia ex genere et differentia est composita. 
+      Cau<lb ed="#B" n="85" break="no"/>salis definitio itidem esse nequit, quia Deus est 
+      <lb ed="#B" n="86"/>omnium rerum causa, sed Dei nulla datur causa, est 
+      <lb ed="#B" n="87"/>ἀναίτιος, ἄναρχος ete. 1. ex veterum consensione 
+      <lb ed="#B" n="88"/>Pythagoras Deum definiturus dixit esse excessum 
+      ma<lb ed="#B" n="89" break="no"/>ximorum numerorum supra proximum, qua 
+      aenigma<lb ed="#B" n="90" break="no"/>tica obscuritate significare voluit frustra quaeri, quis 
+      <lb ed="#B" n="91"/>sit Deus. Nota est historia Simonidis, qui 
+      explica<lb ed="#B" n="92" break="no"/>urus regi Hieroni, quid sit Deus, spatium ad deli 
+      <lb ed="#B" n="93"/>berandum accepit biduum, triduum, et cum aliquotie 
+      <lb ed="#B" n="94"/>numerum duplicasset, tandem dixit: Quanto magis 
+      <lb ed="#B" n="95"/>cogito, tanto minus invenio. Socrates lib. 3, e. 5. 
+      <lb ed="#B" n="96"/>in historia tripart. lib. 6, c. 31. Niceph. lib. 10 
+      <lb ed="#B" n="97"/>c. 13. de Evagrio referunt, quod temere et 
+      inconsi<lb ed="#B" n="98" break="no"/>derate de Deo disputare prohibuerit, definire 
+      ver<lb ed="#B" n="99" break="no"/>divinitatem modis omnibus interdixerit. Rerum, in 
+      <lb ed="#B" n="100"/>juit, compositarum sunt definitiones. Omnis enim 
+      <lb ed="#B" n="101"/>propositio aut genus habet, quod praedicatur, aut 
+      <lb ed="#B" n="102"/>peciem aut differentiam aut proprium aut 
+      acci<lb ed="#B" n="103" break="no"/>dens aut ex his compositam orationem. Sed nihil 
+      <lb ed="#B" n="104"/>in sancta Trinitate horum, quae dicta sunt, poteri 
+      <lb ed="#B" n="105"/>comprehendi, igitur quod ineffabile est, silentio 
+      ado<lb ed="#B" n="106" break="no"/>retur. Cypr. in prolog. lib. de operibus Christi 
+      car<lb ed="#B" n="107" break="no"/>linalibus p. 288: Divinitas non est definibilis. Hilar. 
+      <lb ed="#B" n="108"/>lib. de Dei Patris et Filii unit. p. 766: Nomina 
+      <lb ed="#B" n="109"/>quae Deo tribuuntur, sunt significationes 
+      dispositio<lb ed="#B" n="110" break="no"/>tum et operum divinorum, non tamen ipsum Deum 
+      <lb ed="#B" n="111"/>ropterea definiunt. Idem de Trinit: Certe hoc est 
+      <lb ed="#B" n="112"/>Deus, cum dicitur, non potest dici; cum aestimatur 
+      <lb ed="#B" n="113"/>non potest aestimari; cum definitur, ipse sua 
+      defi<lb ed="#B" n="114" break="no"/>litione crescit. Basil. lib. contra Eunom. p. 111. 
+      <lb ed="#B" n="115"/>Deum nec mente comprehendi nec definitione 
+      expli<lb ed="#B" n="116" break="no"/>cari posse multis probat. Augustin. lib. 2. de Trin. 
+      <lb ed="#B" n="117"/>p. 15: Perfecta scientia est, sic Deum scire, ut licet 
+      <lb ed="#B" n="118"/>non ignorabilem, tamen inenarrabilem scias. 
+      Cre<lb ed="#B" n="119" break="no"/>dendus est, intelligendus est, adorandue est, et hi 
+      <lb ed="#B" n="120"/>officiis eloquendus. Idem in lib. de cogn. verae vit. 
+      <!--359.xml-->
+      <pb ed="#B" n="286"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>c. 71 Siout cummus ille Spiritus, qui Deua est, e 
+      <lb ed="#B" n="2"/>nullo intellectu valet proprie excogitari, ita nullo 
+      <lb ed="#B" n="3"/>definitione poteot proprie definiri aut determinari 
+      <lb ed="#B" n="4"/>Damasc. I. 1. orth. fid. c. 4: Quid secundum cubstan 
+      <lb ed="#B" n="5"/>tiam eit Deue, dicere impossibile. Hisce ἐπεισάγμο 
+      <lb ed="#B" n="6"/>tos loco addi potest illud Theupoli lib. 1. Acac 
+      <lb ed="#B" n="7"/>contempl. c. 2, ubi ex cententia Platonis sic scribit. 
+      <lb ed="#B" n="8"/>Deus ut omnium notissimus, ita omnium ignotise 
+      <lb ed="#B" n="9"/>mus censeri debet. Notissimuo ex eui natura, igno 
+      <lb ed="#B" n="10"/>tissimus nobis. Notiosimus, quod sit; ignotissimu 
+      <lb ed="#B" n="11"/>quid sit. Propterea ut ab homine exacte cognosci 
+      <lb ed="#B" n="12"/>ita nomine exacte exprimi definitioneque explicar, 
+      <lb ed="#B" n="13"/>minime potese 
+      </p>
+            <p xml:id="zef3dd-d1e639-d1e498">
+               <lb ed="#B" n="14"/>90. Contrarium propugnat Vorst. in tract. de Dee 
+      <lb ed="#B" n="15"/>p. 234: Quod Deus dicitur ens cummum, hinc non 
+      <lb ed="#B" n="16"/>efficitur sub nullo prorsus genere esse nec ulla di 
+      <lb ed="#B" n="17"/>ferentia restringi posse ad certam epeciem. in eod 
+      <lb ed="#B" n="18"/>tr. p. 198 Deum includi substantiae praedicamentali 
+      <lb ed="#B" n="19"/>includi alicui rerum generi et sub aliquo genere 
+      <lb ed="#B" n="20"/>contineri. Pro hac opinione tale potest formari ar 
+      <lb ed="#B" n="21"/>gumentum: Si Deus non potest definiri, ergo 
+      ne<lb ed="#B" n="22" break="no"/>cognosci. Resp. distinguendum est l. inter perfectam 
+      <lb ed="#B" n="23"/>definitionem, quae ad ἀκρίβειαν praeceptorum logi 
+      <lb ed="#B" n="24"/>corum exacte congruit, et ex Scripturis petitam 
+      <lb ed="#B" n="25"/>qualemeunque descriptionem. 2. inter cognitionem 
+      <lb ed="#B" n="26"/>et comprehensionem, γνῶσιν καὶ κακάληψιν, Illud 
+      <lb ed="#B" n="27"/>comprehenditur, quod perfecte cognoscitur; perfect 
+      <lb ed="#B" n="28"/>cognoscitur, quod tantum cognoscitur, quantum eas 
+      <lb ed="#B" n="29"/>cognoscibile. Deum quidem cognoscimus, sed non 
+      <lb ed="#B" n="30"/>comprehendimus, xml:id est non perfecte cognoscimus 
+      <lb ed="#B" n="31"/>quia est infinitus, ubi tamen notandum cognitionem 
+      <lb ed="#B" n="32"/>Dei ex verbo petitam dici perfectam, tum 
+      ration<lb ed="#B" n="33" break="no"/>finis, quia est ad salutem sufficiens, tum comparat 
+      <lb ed="#B" n="34"/>respectu notitiae naturalis, quae est admodum obscura 
+      <lb ed="#B" n="35"/>et imperfecta. 3. inter cognitionem Dei in hac e 
+      <lb ed="#B" n="36"/>ltera vita. Illam vocant cognitionem viatoris, hanc 
+      <lb ed="#B" n="37"/>comprehensoris; illam viae, hanc vitae et patriae 
+      <lb ed="#B" n="38"/>Intuitiva definitio est omnium perfectissima, jam 
+      <lb ed="#B" n="39"/>vero Deum in futura vita videbimus a facie ad fa 
+      <lb ed="#B" n="40"/>ciem. Ergo perfecte cognoscemus et perfectam eju 
+      <lb ed="#B" n="41"/>definitionem addiscemus. 4. Definitio ὁνομαιώδη 
+      <lb ed="#B" n="42"/>dari potest, οὐσιώδης vero minime 
+</p>
+            <p xml:id="zef3dd-d1e639-d1e564">
+               <lb ed="#B" n="43"/>91. 2. Quomodo Deus definiendus. Variae tra 
+      <lb ed="#B" n="44"/>duntur Dei definitiones, tum a philosophis, tums 
+      <lb ed="#B" n="45"/>scriptoribus ecclesiasticis, quarum tamen aliae alii 
+      <lb ed="#B" n="46"/>unt perfectiores, inter, quas ut collatio, institu 
+      <lb ed="#B" n="47"/>possit, quasdam earum huc referemus., Philosophi 
+      <lb ed="#B" n="48"/>descriptiones suas partim ex lumine naturae hausc 
+      <lb ed="#B" n="49"/>runt, partim ex peregrinationibus in Aegyptum ad 
+      <lb ed="#B" n="50"/>populum Dei susceptis domum secum retulerunt 
+      <lb ed="#B" n="51"/>Hermes Trismegistus, referente Alex. de Ales p. ) 
+      <lb ed="#B" n="52"/>g. 7. memb. 1. Deum sic definit: Deus est sphaer 
+      <lb ed="#B" n="53"/>intellectualio, cujus centrum est ubique, circumferen 
+      <lb ed="#B" n="54"/>tia vero nusquam. Alii definitionem illam Empe 
+      <lb ed="#B" n="55"/>locli tribuunt, circulus est figura perfectissima, nec 
+      <lb ed="#B" n="56"/>finem habens, ad infinitatem igitur et immensitater 
+      <lb ed="#B" n="57"/>Dei designandam adhibetur. Sed Scalig. ex. 36. 
+      <lb ed="#B" n="58"/>hanc definitionem improbat: Pessime, inquit, me 
+      <lb ed="#B" n="59"/>dium ascignat infinito, et circumferentiam qui dat 
+      <lb ed="#B" n="60"/>finitum facit. Tum ei erit ubique circumferentio 
+      <!--359.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>erit etiam in medio et xml:idem fiet centrum cum 
+      cir<lb ed="#B" n="62" break="no"/>cum ferentia. At symbolica descriptio non potest 
+      <lb ed="#B" n="63"/>exigi ad leges definitionis logicae, nec dicit Trisme 
+      <lb ed="#B" n="64"/>gistus Deum esse, cujus medium in centro, 
+      circum<lb ed="#B" n="65" break="no"/>ferentia vero ubique, ut Scaliger recitat, sed Deum 
+      <lb ed="#B" n="66"/>csse intellectualem sphaeram, cujus centrum ubique, 
+      <lb ed="#B" n="67"/>circumferentia vero nusquam, i. e. qui nec loco 
+      ne<lb ed="#B" n="68" break="no"/>empore circumscribitur. Idem Hermes in 
+      Paman<lb ed="#B" n="69" break="no"/>dro c. 2. Deum voeat actum omnium potentiarum) 
+      <lb ed="#B" n="70"/>et potentiam omnium actuum. Idem Trismegistus 
+      <lb ed="#B" n="71"/>Deus est et quae sunt et quae non sunt. Deus est 
+      <lb ed="#B" n="72"/>quae sunt, non formaliter, sed et eminenter et 
+      cau<lb ed="#B" n="73" break="no"/>paliter, esse dat et conservat omnibus entibus, Deus 
+      <lb ed="#B" n="74"/>est quae non sunt, potentialiter, quia per suam po 
+      <lb ed="#B" n="75"/>tentiam vocat τὰ μὴ ὅντα ὡς ὅντα. Rom. 4–v.117 
+      <lb ed="#B" n="76"/>cum quo congruit illud Siracidis: Deus est rò πῶν. 
+      <lb ed="#B" n="77"/>c. 43, v. 27. Platoni Deus est mens aeterna, causo 
+      <lb ed="#B" n="78"/>omnis boni in natura.(. Est ζῶον ἀθάναιον, αὗταρ 
+      <lb ed="#B" n="79"/>εὲς πρὸς εὐδαιμονίαν, οὗσία ἀἷδιος, τῆς τοῦ ἄγαθοι 
+      <lb ed="#B" n="80"/>φύσεως αἰτία, Aristot. 12. metaph. c. 7; θεός ἐστι 
+      <lb ed="#B" n="81"/>ζῶν αἶδιον ἄριστον. Deus est summum ens, cst ens 
+      <lb ed="#B" n="82"/>entium, primum omnis motus principium, ipsum 
+      <lb ed="#B" n="83"/>ἀκίνητον. Auctor libri de mundo e. 63. θεός. ἐσιι 
+      <lb ed="#B" n="84"/>δυνάμει ἰσχυρόταιος, κάλλει δὲ εὑπρεπέστατος, τωῇ δὲ 
+      <lb ed="#B" n="85"/>ἰθάνατος, ἀρενῇ δὲ κράτιστος.. Ibid. Hoc in mund 
+      <lb ed="#B" n="86"/>est Deue, quod in navi gubernator, quod in curri 
+      <lb ed="#B" n="87"/>auriga, quod in choro praecentor, in civitate lex 
+      <lb ed="#B" n="88"/>in exercitu imperator. Apollo Colophonius 
+      interro<lb ed="#B" n="89" break="no"/>catus, quid esset Deus, respondit: αὐιοφύὴς, ἀδέ¬ 
+      <lb ed="#B" n="90"/>δακτος, ἀμήτωρ, ἀστυφέλικτος,οὕνομα μηδὲ λόγι 
+      <lb ed="#B" n="91"/>χωρούμενον, ἐν πυρὶ ναίων. Τουτι θεός. Cicero refo 
+      <lb ed="#B" n="92"/>rente Laert. lib. I. e. 5: Deus ipse, qui intelligitur 
+      <lb ed="#B" n="93"/>1 nobis, non potest alio modo intelligi, nisi mens 
+      <lb ed="#B" n="94"/>toluta quaedam et libera segregata ab omni 
+      concre<lb ed="#B" n="95" break="no"/>tione mortali, omnia sentiene et movens, ipsaque 
+      <lb ed="#B" n="96"/>praedita mots sempiterno. Senec. lib. 1. natural. 
+      <lb ed="#B" n="97"/>quaest: Quid est Deus? mene universi, quod vides 
+      <lb ed="#B" n="98"/>totum et quod non vides totum. Confer definitionem 
+      <lb ed="#B" n="99"/>Parmenidis apud Bedam, in libr. Boëtii de Trin 
+      <lb ed="#B" n="100"/>tom. 8. col. 1106. Cleanthis apud Clement. Alexandi 
+      <lb ed="#B" n="101"/>in protrept. p. 25. Stoicorum apud Laërtium lib. 7 
+      <lb ed="#B" n="102"/>in vit. Zenon., p. 450, et apud Galenum libr. de 
+      <lb ed="#B" n="103"/>philos. histor. c. 27. Socratis apud Plutarch. lib. I. 
+      <lb ed="#B" n="104"/>do placit. philosoph. c. 7. ete 
+      </p>
+            <p xml:id="zef3dd-d1e639-d1e705">
+               <lb ed="#B" n="105"/>92. In scriptoribus ecclesiasticis hae occurrunt 
+      de<lb ed="#B" n="106" break="no"/>scriptiones Dionys. lib. 1. de diy. nomin. 3 Deus es 
+      <lb ed="#B" n="107"/>omnia, quae eunt, et nihil eorum, quae sunt. 
+      Justin<lb ed="#B" n="108" break="no"/>contra dogm. Arist. p. 86: Deus eat gingularis, et 
+      <lb ed="#B" n="109"/>unus, qui deum deosve nec ante se nec post pe 
+      <lb ed="#B" n="110"/>habuit; coaeternum non habens neque gubjectum ne 
+      <lb ed="#B" n="111"/>que oppositum; incorruptibilem obtinens naturam 
+      <lb ed="#B" n="112"/>vel essentiam, operandique, cui nihil prorsue inter 
+      <lb ed="#B" n="113"/>cedat impedimenti, efficaciam; mundi totius 
+      archi<lb ed="#B" n="114" break="no"/>tectus. Lactant. lib. I. de ira Dei: Deus est 
+      incor<lb ed="#B" n="115" break="no"/>poralis mons, quae per omnem rerum naturam 
+      dif<lb ed="#B" n="116" break="no"/>fusa et incerta vitalem gonsum cunctis animantibus 
+      <lb ed="#B" n="117"/>ribuit. Nagianz. orat. in pat. θεὸς φῶς 1υ ἀκρότατον 
+      <lb ed="#B" n="118"/>καὶ ἄηρόσινον καὶ ἄδόπτον, ουτε νῷ κατάληπτον, οἄτε 
+      <lb ed="#B" n="119"/>λόγῳ ὁηιὸν, μήτε ἀρξάμενον, μητε παυσάμενον. Aug 
+      <lb ed="#B" n="120"/>lib. 8, de civ. Dei c. 8. anto med.: Deus eet rerum 
+      <!--360.xml-->
+      <pb ed="#B" n="287"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>creatarum effector, lumen cognoscendarum et bonum 
+      <lb ed="#B" n="2"/>agendarum, ab illo nobis est et principium naturae 
+      <lb ed="#B" n="3"/>et veritas doctrinae et felicitas vitae. In qq. V. 
+      <lb ed="#B" n="4"/>ae N. T. q. 1: Deus est spiritus naturae simplex 
+      <lb ed="#B" n="5"/>luxe inaccescibilis, invisibilis, inaestimabilis, 
+      infini<lb ed="#B" n="6" break="no"/>tus, perfectus, nullius egene, aeternus, immortalis 
+      <lb ed="#B" n="7"/>venerandus, diligendus, metuendus, omnipotens, 
+      om<lb ed="#B" n="8" break="no"/>nitenens, dives, bonus, justus, ceverus, misericore, ele 
+      <lb ed="#B" n="9"/>mens, patiens. De spiritu et anim. c. 63: Deus xml:id 
+      <lb ed="#B" n="10"/>solus est, quod est et qui est, estque xml:id, quo nihil 
+      <lb ed="#B" n="11"/>majus cogitari potest nec melius, nec jucundius 
+      <lb ed="#B" n="12"/>vita, capientia, lux, veritas, bonitas, aeternitas, gum 
+      <lb ed="#B" n="13"/>mum bonum, cibi ad omnia sufficiene, nullo ind 
+      <lb ed="#B" n="14"/>qens, quo omnia indigent, ut eint et ut bene sin 
+      <lb ed="#B" n="15"/>Idem: Est veritas sine fallacia, bonitas sine mali 
+      <lb ed="#B" n="16"/>tia, felicitas eine miseria. De quant. anim. c. 33. 
+      <lb ed="#B" n="17"/>Deus est omnium rerum creator, ex quo omnia, per 
+      <lb ed="#B" n="18"/>quem omnia, in quo omnia, incommutabile princo 
+      <lb ed="#B" n="19"/>pium, incommutabilis sapientia, incommutabilis veri 
+      <lb ed="#B" n="20"/>tas, incommutabilis aeternitas, incommutabilio vir 
+      <lb ed="#B" n="21"/>tus, incommutabilis caritas, unus verus Deus atque 
+      <lb ed="#B" n="22"/>perfectus, qui nunquam non fuit, nunquam non 
+      <lb ed="#B" n="23"/>erit, nunquam aliter fuit, nunquam aliter erit, quo 
+      <lb ed="#B" n="24"/>nihil secretius, nihil praesentius, qui difficile 
+      inv<lb ed="#B" n="25" break="no"/>nitur, ubi eit, difficilius ubi non eit, cum quo eas 
+      <lb ed="#B" n="26"/>non omnes possunt, et sine quo esse nemo potes 
+      <lb ed="#B" n="27"/>Bernh. libr. 6. de consid. col. 1049: Deus est ve 
+      <lb ed="#B" n="28"/>luntas omnipotens, benevolentissima virtus, lumes 
+      <lb ed="#B" n="29"/>aeternum, est incommutabilis ratio, cumma beatitudo 
+      <lb ed="#B" n="30"/>creans mentem ad se participandum, vivificans ac 
+      <lb ed="#B" n="31"/>sentiendum, afficiens ad appetendum, dilatans 
+      a<lb ed="#B" n="32" break="no"/>. capiendum, justificans ad promerendum, 
+      accenden<lb ed="#B" n="33" break="no"/>celum foecundans ad fructum, promovens ad 
+      bon<lb ed="#B" n="34" break="no"/>tatem, dirigens ad aequitatem, roborane ad virtutem 
+      <lb ed="#B" n="35"/>formans ad benevolentiam, modificans ad scientiam 
+      <lb ed="#B" n="36"/>moderans ad sapientiam, visitane ad consolationem 
+      <lb ed="#B" n="37"/>illuminana ad cognitionem, perpetuans ad immor 
+      <lb ed="#B" n="38"/>talitatem, implens ad felicitatem, circumdans ad 
+      <lb ed="#B" n="39"/>jecuritatem, qui amat ut caritas, novit ut veritas 
+      <lb ed="#B" n="40"/>sedet ut aequitas, dominatur ut majestas, regit ut 
+      <lb ed="#B" n="41"/>principium, tuctur ut salus, operatur ut virtus, re 
+      <lb ed="#B" n="42"/>velat ut lux, assistit ut pietas. In medit. c. 1: Deu 
+      <lb ed="#B" n="43"/>in so ipso incomprehonsibilis, quia principium et 
+      <lb ed="#B" n="44"/>finio. Principium eine principio, finis eine fine. I. 
+      <lb ed="#B" n="45"/>ingelis desiderabilia, quia in eum desiderant 
+      pro<lb ed="#B" n="46" break="no"/>spicere; in canctia est delectabilis, quia in eo ass, 
+      <lb ed="#B" n="47"/>due felices lactantur; in creaturis admirabilis, 
+      qui<lb ed="#B" n="48" break="no"/>omnia potenter creat, capienter gubernat, benign 
+      <lb ed="#B" n="49"/>diepensat; in hominibus amabilis, quia eorum est 
+      <lb ed="#B" n="50"/>Deus, et ipsi sunt populus ejus. Damasc. I. 1. orth. 
+      <lb ed="#B" n="51"/>fid. e. 2. et 8. latissimam Dei descriptionem pro 
+      <lb ed="#B" n="52"/>ponit c. 15. ex Dionysio: ὁ θεὸς πάντων ἐστὶν αἰτία 
+      <lb ed="#B" n="53"/>καὶ ἀρχὴ, τῶν ὄνιων οὗσία, τῶν ζώντων ζωὴ, τῷ 
+      <lb ed="#B" n="54"/>λογεκῶς ὅντων λόγος, τῶν νοερῶς ὅντων νοῦς, κα 
+      <lb ed="#B" n="55"/>τῶν μὲν ἀποπιπιόντων αὐτῶν ἀνάκλησίς τε καὶ ἀνά 
+      <lb ed="#B" n="56"/>στασις, τῶν δὲ καταφθειρόντων τὸ κατὰ φύσιν ἀνα 
+      <lb ed="#B" n="57"/>καινισμὸς καὶ ἀναμόρφωσις, τῶν κινουμένων κατὸ 
+      <lb ed="#B" n="58"/>1ενα ἀνίερον σάλον, secundum impetum validum 
+      <lb ed="#B" n="59"/>ἴδρυσις ἱερὰ καὶ τῶν ἐστηκότων ἀσφάλεια, καὶ τῶν 
+      <lb ed="#B" n="60"/>ἐπʼ αὐτὴν ἀναγομένων ὁδὸς, καὶ ἀνατάκτικὴ χειρα 
+      <!--360.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>γωγία, τῶν ὑπʼ αὐτοῦ πεποιημένων πατήρ. c. 18. 
+      <lb ed="#B" n="62"/>ἔστιν ὑπερούσιος οὗσία, ὑπέρθεος θεότης, ὁπεράρχιος 
+      <lb ed="#B" n="63"/>ἰρxὴ. Confer Justin. in Dial. cum Tryphon. p. 170 
+      <lb ed="#B" n="64"/>Irenaeum lib. 2. c. 47. Tertull. lib. 1. contra 
+      Mar<lb ed="#B" n="65" break="no"/>cion. p. 148. lib. adv. Judaeos p. 129. lib. de Trin. 
+      <lb ed="#B" n="66"/>§. 598. in Apologet. c. 16. contra Praxeam p. 405. 
+      <lb ed="#B" n="67"/>Hilarium lib. 1. de Patris et Filii unit. p. 756. Ar 
+      <lb ed="#B" n="68"/>nobium lib. 1. adv. gentes p. 23. Nazianz. orat. 38. 
+      <lb ed="#B" n="69"/>uae est in Christi nativ. p. 587. in lib. Carmin. 
+      <lb ed="#B" n="70"/>
+               <!-- line coord -->
+               <lb ed="#B" n="71"/>1017. Basil. hom. 1. hexaëm. p. 25. Rufin. in expos 
+      <lb ed="#B" n="72"/>symb. <ref xml:id="zef3dd-d1e639-Rd1e910">Augustin. lib. 1. de trin. c. 2.</ref> Cassiodor. in 
+      <lb ed="#B" n="73"/>Ps. 2. Hymnum Scaligeri lib. de subtil. Hebraei 
+      <lb ed="#B" n="74"/>brevem proponunt descriptionem. Deus est Jehoval 
+      <lb ed="#B" n="75"/>Elohim, xml:id est, una aeterna et simplicissima trium 
+      <lb ed="#B" n="76"/>personarum essentia. 
+      </p>
+            <p xml:id="zef3dd-d1e639-d1e922">
+               <lb ed="#B" n="77"/>33. Caeterum ut de his et similibus Dei 
+      descri<lb ed="#B" n="78" break="no"/>ptionibus rectius fieri possit judicium, notandum, 
+      <lb ed="#B" n="79"/>quod definitio Dei ex Scripturis petita quinque 
+      de<lb ed="#B" n="80" break="no"/>beat complecti membra. 1. essentiam, 2. attributa 
+      <lb ed="#B" n="81"/>essentialia, 3. tres personas hypostatico charactere 
+      <lb ed="#B" n="82"/>invicem distinctas, 4. opera ad extra, in quibus 
+      sin<lb ed="#B" n="83" break="no"/>gulae personae sese manifestarunt, 5. beneficia Dei 
+      <lb ed="#B" n="84"/>tum generalia erga totum genus humanum in 
+      crea<lb ed="#B" n="85" break="no"/>ione et conservatione mundi, tum specialia ergi 
+      <lb ed="#B" n="86"/>ecelesiam. Deus est essentia spiritualis 
+      simplicis<lb ed="#B" n="87" break="no"/>sima, infinita, immensae bonitatis, sapientiae et 
+      po<lb ed="#B" n="88" break="no"/>centiae, justa, verax, nempe Pater, qui ab aeterno 
+      <lb ed="#B" n="89"/>genuit Filium imaginem suam, et per Filium in 
+      <lb ed="#B" n="90"/>Spiritu s. omnes res condidit et conservat; Filius 
+      <lb ed="#B" n="91"/>qui ab aeterno est a Patre genitus et in plenitudine 
+      <lb ed="#B" n="92"/>temporis assumsit humanam naturam inque ea opus 
+      <lb ed="#B" n="93"/>redemtionis praestitit, et Spiritus sanctus a Patre et 
+      <lb ed="#B" n="94"/>Filio ineffabiliter ab aeterno procedens, qui visibili 
+      <lb ed="#B" n="95"/>ter effusus super apostolos et adhuc hodie 
+      invisibi<lb ed="#B" n="96" break="no"/>liter mittitur in corda credentium, et per evangeli 
+      <lb ed="#B" n="97"/>praedicationem colligit ecclesiam ex toto genere 
+      hu<lb ed="#B" n="98" break="no"/>mano, quam sanctificat ad nominis divini gloriam e 
+      <lb ed="#B" n="99"/>credentium salutem aeternam. 
+      </p>
+            <p xml:id="zef3dd-d1e639-d1e974">
+               <lb ed="#B" n="100"/>94. Practicam Dei definitionem proponit Joh. 1. 
+      <lb ed="#B" n="101"/>Epist. 4. v. 8: Deus est caritas. Ex caritate omnis 
+      <lb ed="#B" n="102"/>Dei opera procedunt, et Spiritus s. a Patre et Filio. 
+      <lb ed="#B" n="103"/>ab aeterno procedens est substantialis amor Patris 
+      <lb ed="#B" n="104"/>et Filii, in tempore Deus ex caritate omnia creavit 
+      <lb ed="#B" n="105"/>ex caritate misit Filium ad opus redemtionis 
+      prae<lb ed="#B" n="106" break="no"/>standum, ex caritate dat Spiritum s., qui similes 
+      mo<lb ed="#B" n="107" break="no"/>tus in cordibus credentium accendit, ex caritate in 
+      <lb ed="#B" n="108"/>vita aeterna a facie ad faciem beatis sese 
+      contuen<lb ed="#B" n="109" break="no"/>dum praestabit. Deus absconditus in praedicamento 
+      <lb ed="#B" n="110"/>cubstantiae est incomprehensibilis, ineffabilis, 
+      exce<lb ed="#B" n="111" break="no"/>dens cognitionem et scientiam nostram, sed Deus 
+      <lb ed="#B" n="112"/>revelatus in praedicamento revelationis recte 
+      defini<lb ed="#B" n="113" break="no"/>tur per caritatem, quia omnia in caritate et ex 
+      ca<lb ed="#B" n="114" break="no"/>ritate agit. Ut ergo practica Dei definitio a 
+      car<lb ed="#B" n="115" break="no"/>tate petitur, ita etiam practica ejus cognitio in ea 
+      <lb ed="#B" n="116"/>ritate consistit. Nihil quicquam prodest subtilissime 
+      <lb ed="#B" n="117"/>de Deo disputare et interim summum illud bonum 
+      <lb ed="#B" n="118"/>substantialem illam caritatem non amare. Omnis 
+      <lb ed="#B" n="119"/>Dei opera et beneficia generi humano exhibita eo 
+      <lb ed="#B" n="120"/>unice spectant, ut ad amandum Deum nos alliciant.. 
+      <lb ed="#B" n="121"/>Amor fecit, ut non solum omnia propter hominem 
+      <!--361.xml-->
+      <pb ed="#B" n="288"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>deus crearet, sed ut ipse etiam Deus propter hominem 
+      <lb ed="#B" n="2"/>homo fieret; plus quam ferrea igitur oportet esse 
+      <lb ed="#B" n="3"/>corda, quae tanti amoris igne non molliuntur, ut 
+      <lb ed="#B" n="4"/>DEUM creatorem, DEUM reparatorem, DEUM san 
+      <lb ed="#B" n="5"/>ctificatorem diligant etc. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

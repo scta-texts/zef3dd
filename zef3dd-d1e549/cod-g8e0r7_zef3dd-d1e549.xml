@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="241"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e549"><!-- zef3dd-l2proem -->
+            <head xml:id="zef3dd-d1e549-Hd1e101">Prooemium</head>
+            <p xml:id="zef3dd-d1e549-d1e103">
+      <!--314.xml-->
+               <pb ed="#B" n="241"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>LOCUS SECUNDUS 
+      <lb ed="#B" n="2"/>DE 
+      <lb ed="#B" n="3"/>NATURA DEI EI ATIRIBUISS DIVIIIS. 
+<lb ed="#B" n="4"/>PROOEMIUM. 
+<lb ed="#B" n="5"/>I 
+  </p>
+            <p xml:id="zef3dd-d1e549-d1e123">
+      <!--314.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="6"/>1. Ut Scriptura sacra in theologia est unicur 
+      <lb ed="#B" n="7"/>principium cognoscendi: sic Deus, bonitate optimus 
+      <lb ed="#B" n="8"/>potentia maximus, est unicum et summum princ. 
+      <lb ed="#B" n="9"/>pium essendi, tum ipsius Scripturae sacrae (in qua 
+      <lb ed="#B" n="10"/>verbum Dei sive divina revelatio continetur) 
+      tum<lb ed="#B" n="11" break="no"/>operum divinorum, de quibus in theologia traetatu 
+      <lb ed="#B" n="12"/>respectu. Idem etiam est totius Scripturae centrum 
+      <lb ed="#B" n="13"/>theologiae nucleus, scientiae ac desiderii nostri ter 
+      <lb ed="#B" n="14"/>minus. Convenienti igitur ordine ab articulo de 
+      <lb ed="#B" n="15"/>Scriptura sacra progredimur ad articulum de natur. 
+      <lb ed="#B" n="16"/>Dei et attributis divinia 
+      </p>
+            <p xml:id="zef3dd-d1e549-d1e154">
+               <lb ed="#B" n="17"/>2. Commendat nobis hanc de Deo doctrinam (quam 
+      <lb ed="#B" n="18"/>pii veteres peculiariter voeant θεολογίαν) ejusdem 
+      <lb ed="#B" n="19"/>I. necessitas, 2. utilitas, 3. difficultas. Necessariam 
+      <lb ed="#B" n="20"/>esse hanc doctrinam demonstrat 1. finis creati ho 
+      <lb ed="#B" n="21"/>minis. Quemadmodum omnia creata sunt 
+      propte<lb ed="#B" n="22" break="no"/>hominem, ita homo conditus est ad Deum creatorem 
+      <lb ed="#B" n="23"/>suum recte agnoscendum et colendum, amandum et 
+      <lb ed="#B" n="24"/>celebrandum. Laetant. lib. 6. div. instit. e. 1. ij 
+      <lb ed="#B" n="25"/>prine. Propterea ficti et inspirati a Deo sumus 
+      <lb ed="#B" n="26"/>non ut coelum videremus et solem, quod Anarago 
+      <lb ed="#B" n="27"/>ras putavit, sed ut artificem solis et coeli Deum 
+      <lb ed="#B" n="28"/>pura et integra mente coleremus; inde est, quod 
+      <lb ed="#B" n="29"/>homini a se creato Deus legem dedit, ex qua a 
+      <lb ed="#B" n="30"/>2. agnitionem et cultum creatoris sui sese jure natu 
+      <lb ed="#B" n="31"/>rali obstrictum intelligere potuit ae debuit, de qu 
+      <lb ed="#B" n="32"/>fine praeclare disserit apostolus Act. 17, v. 26. Rom. 
+      <lb ed="#B" n="33"/>1, v. 20 ete. Reliqua animantia omnia cum ratione 
+      <lb ed="#B" n="34"/>sint destituta, xml:ideo etiam facultate Deum crcatorem 
+      <lb ed="#B" n="35"/>suum cognoscendi destituuntur, solus homo ex omni 
+      <lb ed="#B" n="36"/>bus animalibus ratione praeditus, quin et ad imagi 
+      <lb ed="#B" n="37"/>nem divinam conditus est, ut finem creationis in 
+      <lb ed="#B" n="38"/>telligeret, creatorem ex operibus cognosceret eique 
+      <lb ed="#B" n="39"/>debitum obsequium praestaret. 2. Finis divinae pate 
+      <lb ed="#B" n="40"/>factionis. Deus ex arcana majestatis suae sede 
+      <lb ed="#B" n="41"/>prodiens non solum in mundi creatione, sed etiam 
+      <!--314.xml-->
+      <cb ed="#B" n="c"/>
+               <lb ed="#B" n="42"/>ac vel maxime in verbi revelatione ex immensa 
+      <lb ed="#B" n="43"/>bonitate hominibus sese patefecit Exod. 29, v. 13. 
+      <lb ed="#B" n="44"/>fine certe nullo alio, quam ut homines ex illa 
+      pate<lb ed="#B" n="45" break="no"/>factione Deum recte agnoscerent et veram de 
+      Deo<lb ed="#B" n="46" break="no"/>doctrinam ab omni errorum fermento puram et 
+      illi<lb ed="#B" n="47" break="no"/>batam conservarent atque ad posteros suos 
+      propa<lb ed="#B" n="48" break="no"/>garent, xml:id quod sancti patriarchae probe 
+      intellexe<lb ed="#B" n="49" break="no"/>unt, qui in nomine Dei aeterni praedicarunt, 
+      Gen<lb ed="#B" n="50" break="no"/>12, v. 8. c. 21, v. 33. c. 26, v. 25., hoc est, 
+      propo<lb ed="#B" n="51" break="no"/>querunt familiae suae et reliquis auditoribus, qui se 
+      <lb ed="#B" n="52"/>domesticae illi ecclesiae aggregarunt, doctrinam de 
+      <lb ed="#B" n="53"/>Deo creatore et conservatore rerum omnium, de 
+      <lb ed="#B" n="54"/>lapsu primorum parentum, de remedio lapsus in 
+      <lb ed="#B" n="55"/>promisso Messia exspectando, de sacrificiis fide in 
+      <lb ed="#B" n="56"/>Messiam offerendis, de vero cultu Deo praestando, 
+      <lb ed="#B" n="57"/>de extremo judicio, de vita et morte aeterna eto 
+      <lb ed="#B" n="58"/>3. Caecitas nostrae mentis. Ante lapsum fulgebat 
+      <lb ed="#B" n="59"/>in mente hominis ad Dei imaginem conditi claris 
+      <lb ed="#B" n="60"/>sima quaedam lux divinae cognitionis, sed per lapsum 
+      <lb ed="#B" n="61"/>ac post lapsum horribiles tenebrae in mentem 
+      homi<lb ed="#B" n="62" break="no"/>nis sunt introductae, quibus non potest nisi ex luce 
+      <lb ed="#B" n="63"/>verbi medela aliqua afferri. Summopere igitur 
+      ne<lb ed="#B" n="64" break="no"/>nessarium est, ut ex revelato verbo doctrina de 
+      <lb ed="#B" n="65"/>Deo tradatur, et hoc modo per Spiritus sancti 
+      illu<lb ed="#B" n="66" break="no"/>minationem lux salutaris θεογνωσίας in mente 
+      ho<lb ed="#B" n="67" break="no"/>minis reaccendatur. 4. Multiplicitas erroris. 
+      Novi<lb ed="#B" n="68" break="no"/>μυριόνεχνoς Satanas doctrinam de Deo et Salvatore 
+      <lb ed="#B" n="69"/>nostro Christo Jesu esse arcem et acropolin verae 
+      <lb ed="#B" n="70"/>doctrinae, inde tot errores contra eam excitavit ac 
+      <lb ed="#B" n="71"/>tot haeresium eidem adversantium monstra infelici 
+      <lb ed="#B" n="72"/>partu exclusit, a quibus ut piae mentes praemo 
+      <lb ed="#B" n="73"/>neantur ae praemuniantur, tradenda et asserenda 
+      <lb ed="#B" n="74"/>es! articuli hujus orthodoxia. 5. Miserrima conditis 
+      <lb ed="#B" n="75"/>hominis Deum ignorantis. Non est dignus hominis 
+      <lb ed="#B" n="76"/>nomine, qui ereatorem suum vel non agnoscit vel 
+      <lb ed="#B" n="77"/>non recte agnoscit, prout se in verbo patefecit 
+      <lb ed="#B" n="78"/>Deus summum hominis bonum, quod quisquis habet 
+      <!--315.xml-->
+      <pb ed="#B" n="242"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>et possidet, eoque, quod habet, fruitur, beatus est 
+      <lb ed="#B" n="2"/>Ergo qui summum illud bonum non agnoscit, non 
+      <lb ed="#B" n="3"/>amat, non possidet, miserrimus est et infelicissimus 
+      <lb ed="#B" n="4"/>Hilarius 8. de Trinit. pag. 137: Nescit sane saper 
+      <lb ed="#B" n="5"/>qui Deum nescit. Hieronym. in Epitaph. Nepot. 
+      <lb ed="#B" n="6"/>Absque notitia sui creatoris omnis homo pecus est. 
+      <lb ed="#B" n="7"/>August. lib. 5. Confess. c. 4: Infelix homo, qui sci 
+      <lb ed="#B" n="8"/>illa omnia, te autem nescit. Beatus autem, qui te 
+      <lb ed="#B" n="9"/>scit, etiam si illa nesciat. Qui vero te et illa novi 
+      <lb ed="#B" n="10"/>non propter illa beatior, sed propter te solum beo 
+      <lb ed="#B" n="11"/>tus est, si cognoscens te sicut Deum glorificet e 
+      <lb ed="#B" n="12"/>gratias agat et non evanescat in cogitationibus suis 
+      <lb ed="#B" n="13"/>Idem Augustinus vel quicunque alius auctor libr. 
+      <lb ed="#B" n="14"/>de speculo c. 33. in prine.: Ab illo averti, cadere 
+      <lb ed="#B" n="15"/>est; in eum converti resurgere; in illo manere cor 
+      <lb ed="#B" n="16"/>sistere est; illum nescire mori est; illum 
+      noss<lb ed="#B" n="17" break="no"/>vivere est; illum spernere, perire est; illi servir 
+      <lb ed="#B" n="18"/>requare est 
+      </p>
+            <p xml:id="zef3dd-d1e549-d1e341">
+               <lb ed="#B" n="19"/>3. 2. Utilitatem doctrinae de Deo explicant dicta 
+      <lb ed="#B" n="20"/>Scripturae, quae in cognitione Dei vitam et saluter 
+      <lb ed="#B" n="21"/>nostram consistere docent. Moysi petenti: Ostend 
+      <lb ed="#B" n="22"/>mihi, Domine, faciem tuam Exod. 33, v. 13. respor 
+      <lb ed="#B" n="23"/>det Deus v. 19: Ostendam tibi omne bonum, erg 
+      <lb ed="#B" n="24"/>in cognitione Dei consistit omne bonum. Sap. 1. 
+      <lb ed="#B" n="25"/>v. 3: ἐπίστασθαί σε ὁλόκληρος δικαιοσύνη καὶ εἰδένα 
+      <lb ed="#B" n="26"/>σου τὸ κράιος ῥίζα ἀθανασίας. Jer. 9, v. 23: 
+      No<lb ed="#B" n="27" break="no"/>glorietur sapiens in sapientia sua, nec fortis in 
+      <lb ed="#B" n="28"/>fortitudine sua, nec dives in divitiis suis; v. 34. 
+      <lb ed="#B" n="29"/>sed in hoc glorietur, qui gloriatur, scire et noss 
+      <lb ed="#B" n="30"/>me, quia ego sum Dominus. Joh. 17, v. 3: Haec 
+      <lb ed="#B" n="31"/>est vita aeterna, ut cognoscant te solum verus 
+      <lb ed="#B" n="32"/>Deum et quem misisti Jesum Christum. Ubi tame 
+      <lb ed="#B" n="33"/>notandum, intelligi notitiam non nude historicam 
+      <lb ed="#B" n="34"/>sed practicam; non literalem, sed spiritualem; non 
+      <lb ed="#B" n="35"/>ἄεργον et otiosam, sed efficacem et operosam, qua 
+      <lb ed="#B" n="36"/>scilicet veram in Christum fidem complectitur in 
+      <lb ed="#B" n="37"/>corde interius, et per studium bonorum operum ses 
+      <lb ed="#B" n="38"/>commendat exterius. Bernh. lib. 5. de conside 
+      <lb ed="#B" n="39"/>ad Eugen.: Deus solus est, qui nunquam 
+      fru<lb ed="#B" n="40" break="no"/>stra quaeri potest, ne quidem tunc, cum invenir 
+      <lb ed="#B" n="41"/>non potes. 
+      </p>
+            <p xml:id="zef3dd-d1e549-d1e394">
+               <lb ed="#B" n="42"/>4. 3. Difficultatem hujus doctrinae ostendi. 
+      <lb ed="#B" n="43"/>1. mysterii hujus sublimitas. Cum enim omni 
+      <lb ed="#B" n="44"/>Dei opera sint mirabilia et μυστηριώδη, mysteriis 
+      <lb ed="#B" n="45"/>plena, quanto mirabilior et sublimior erit operum 
+      <lb ed="#B" n="46"/>illorum effector ipse Deus? Ut nihil fructuosin 
+      <lb ed="#B" n="47"/>invenitur, ita nec periculosius alicubi erratur, ne 
+      <lb ed="#B" n="48"/>difficilius aliquid quaeritur, quam ubi quaeritur 
+      <lb ed="#B" n="49"/>unitas Trinitatis, Pater, Filius et Spiritus 
+      sanctu<lb ed="#B" n="50" break="no"/>Augustin. lib 1. de Trinit. c. 3. in princ. 2. Menti 
+      <lb ed="#B" n="51"/>nostrae infirmitas. Intellectus noster finitus es 
+      <lb ed="#B" n="52"/>Deus infinitus, nulla igitur hic inter intellectum co 
+      <lb ed="#B" n="53"/>gnoscentem et objectum cognoscendum proportio 
+      <lb ed="#B" n="54"/>Intellectus noster organo corporeo in hujus 
+      vita<lb ed="#B" n="55" break="no"/>statu utitur, Deus est ἄύλος καὶ ἀσώματος. Vider 
+      <lb ed="#B" n="56"/>non potest, quia visu clarior est, comprehendi non 
+      <lb ed="#B" n="57"/>potest, tactu purior est, nec aestimari potest, sensi 
+      <lb ed="#B" n="58"/>major est, infinitus, immensus et soli sibi tantu 
+      <lb ed="#B" n="59"/>quantus est, notus. Minutius Felix in dialogo quem 
+      <lb ed="#B" n="60"/>vocat Octavium: Quod sol est in sengibilibus, illud 
+      <!--315.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Deus est in intelligibilibus, inquit Nazianzenu 
+      <lb ed="#B" n="62"/>orat. 40. in sanct. bapt. Jam vero sol claritate sus 
+      <lb ed="#B" n="63"/>visum nostrum supergreditur, sic Deus majestate 
+      <lb ed="#B" n="64"/>sua tenuem et infirmum nimirum excedit intellectum 
+      <lb ed="#B" n="65"/>Origenes lib. 1. περὶ ἀρχῶν c. 1. p. 668: 
+      Men<lb ed="#B" n="66" break="no"/>nostra cum intra carnis et sanquinis claustra cor 
+      <lb ed="#B" n="67"/>cluditur et pro tali materiae participatione hebetio 
+      <lb ed="#B" n="68"/>atque obscurior redditur, licet pro comparation 
+      <lb ed="#B" n="69"/>naturae corporeae longe praecellens habeatur, 
+      tame<lb ed="#B" n="70" break="no"/>cum ad incorporea nititur atque eorum intentionem 
+      <lb ed="#B" n="71"/>rimatur, tunc scintillae alicujus lucernae vix obti 
+      <lb ed="#B" n="72"/>net locum. Quid autem in omnibus intellectualibus 
+      <lb ed="#B" n="73"/>tam praestans omnibus quam Deus 
+      </p>
+            <p xml:id="zef3dd-d1e549-d1e470">
+               <lb ed="#B" n="74"/>5. Ceterum difficultati huic consuli potest 1. pie 
+      <lb ed="#B" n="75"/>ac fideli oratione, per quam Spiritus sancti 
+      illumi<lb ed="#B" n="76" break="no"/>nantis gratia et salutaris Scripturae sacrae 
+      intell<lb ed="#B" n="77" break="no"/>gentia impetratur. Dicamus ergo cum Moyse ad 
+      <lb ed="#B" n="78"/>Dominum: Ostende mihi faciem tuam Exod. 33. 
+      <lb ed="#B" n="79"/>v. 13; cum Philippo ad Filium: Ostende nobi 
+      <lb ed="#B" n="80"/>Patrem, Joh. 14, v. 8. cum tota ecclesia ad 
+      Spiri<lb ed="#B" n="81" break="no"/>tum sanctum: Per te sciamus da Patrem, 
+      nosca<lb ed="#B" n="82" break="no"/>mus atque Filium teque utriusque Spiritum creda 
+      <lb ed="#B" n="83"/>mus omni tempore. Nemo enim novit Filium nisi 
+      <lb ed="#B" n="84"/>Pater, et nemo. novit Patrem nisi Filius et cui ve 
+      <lb ed="#B" n="85"/>luerit Filius revelare, Matth. 11, v. 27. Impossibil 
+      <lb ed="#B" n="86"/>est Deum discere sine Deo. Iren. lib. 4. adv. haeres 
+      <lb ed="#B" n="87"/>c. 10. p. 238: A Deo igitur discendum, quid de Dee 
+      <lb ed="#B" n="88"/>intelligendum, Hilar. lib. 5. de Trin. 2. limitum in 
+      <lb ed="#B" n="89"/>Scripturis praeficorum cauta observatione. Exodi 
+      <lb ed="#B" n="90"/>19, v. 12, cum divina majestas in monte Sinai 
+      pe<lb ed="#B" n="91" break="no"/>solennem legis repetitionem peculiari modo sese 
+      <lb ed="#B" n="92"/>manifestare vellet, jubet certos per circuitum 
+      po<lb ed="#B" n="93" break="no"/>pulo constitui terminos, quos absque praesentissime 
+      <lb ed="#B" n="94"/>interitus periculo transgredi nemo audeat: sic in 
+      <lb ed="#B" n="95"/>Scriptura sacra certi intelligentiae et investigationi 
+      <lb ed="#B" n="96"/>nostrae praefixi sunt termini atque limites, quos 
+      <lb ed="#B" n="97"/>transilire et ὑπὲρ τὰ ἐσκαμμένα κηδὰν religio nobi 
+      <lb ed="#B" n="98"/>esse debet. Prosper. lib. 1. de vocat. gent. c. 7. 
+      <lb ed="#B" n="99"/>Quae Deus occulta esse voluit, non scrutanda, quo 
+      <lb ed="#B" n="100"/>autem manifesta fecit, non sunt neganda, ne in illis 
+      <lb ed="#B" n="101"/>illicite curiosi, in his damnabiliter inveniamur in 
+      <lb ed="#B" n="102"/>qrati. 3. curios itatis ac temeritatis humanae castiga 
+      <lb ed="#B" n="103"/>tione. Desiderabat Moyses anxie faciem Dei videre 
+      <lb ed="#B" n="104"/>nec tamen faciem, sed posteriora Dei videre ips 
+      <lb ed="#B" n="105"/>concedebatur, ad quod dextra Dei protegebatur e 
+      <lb ed="#B" n="106"/>in foramine petrae collocabatur Exod. 33, v. 22, e 
+      <lb ed="#B" n="107"/>quo intelligimus, non patentibus januis, sed velu 
+      <lb ed="#B" n="108"/>per arctum foramen et quasi per transennam et in 
+      <lb ed="#B" n="109"/>nenigmate nos Deum in hac vita intueri, xml:idque Dee 
+      <lb ed="#B" n="110"/>ipso adjuvante et infirmitatem nostram sublevante 
+      <lb ed="#B" n="111"/>caveamus igitur, ne curiositas nostra quaerat non 
+      <lb ed="#B" n="112"/>revelata et temeritas nostra prorumpat ad inaccess 
+      <lb ed="#B" n="113"/>Elias propheta Domino in monte coram se 
+      transe<lb ed="#B" n="114" break="no"/>unte vultum suum operuit pallio 1. Reg. 19, v. 13. 
+      <lb ed="#B" n="115"/>eo ipso professus mentis nostrae aciem ad summam 
+      <lb ed="#B" n="116"/>illam divinae majestatis lucem intuendam caligare 
+      <lb ed="#B" n="117"/>ac proinde curiosam inquisitionem sancto 
+      ignoran<lb ed="#B" n="118" break="no"/>tiae pallio esse obvelandam. Hilar. lib. 10. de Trir. 
+      <lb ed="#B" n="119"/>p. 160: Ut sol ita videndus est, ut possit videri 
+      <lb ed="#B" n="120"/>tantusque excipiendus eat lumine, quantus admitti 
+      <!--316.xml-->
+      <pb ed="#B" n="243"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tur, ne, si plura velimus spectare, minus quoque 
+      <lb ed="#B" n="2"/>quam possumus consequamur; ita et ratio coelestis 
+      <lb ed="#B" n="3"/>in tantum intelligenda est, in quantum se permitti 
+      <lb ed="#B" n="4"/>intelligi. Athanas. tom. 2. p. 248: οὕτε τὸ πάντω 
+      <lb ed="#B" n="5"/>κατατολμᾶν εὐσεβὲς, οὕτε τὸ πάντων καταμελεῖν εύα 
+      <lb ed="#B" n="6"/>γές. Ut audacter omnia perscrutari pium non est 
+      <lb ed="#B" n="7"/>ita omnem prorsus inquisitionem negligere non es 
+      <lb ed="#B" n="8"/>canctum. Macarius homil. 12. p. 135: Si 
+      cogitatione<lb ed="#B" n="9" break="no"/>inimas tuae comprehendere non potuisti, cogitatione 
+      <lb ed="#B" n="10"/>Dei atque mentem Dei quomodo potes scrutari 
+      <lb ed="#B" n="11"/>Cyrill. catech. 6: In his, quae de Deo dicuntur 
+      <lb ed="#B" n="12"/>hanc maximam esse scientiam ignorantiam 
+      fater<lb ed="#B" n="13" break="no"/>asserit 
+      </p>
+            <p xml:id="zef3dd-d1e549-d1e609">
+               <lb ed="#B" n="14"/>6. Ex quibus facile intelligitur, quid responden 
+      <lb ed="#B" n="15"/>dum sit ad ea, quibus omnem de Deo 
+      disputatio<lb ed="#B" n="16" break="no"/>nem prohibitam esse quidam probare conantur 
+      <lb ed="#B" n="17"/>1. Prov. 25, v. 27: Scrutator majestatis opprimetur 
+      <lb ed="#B" n="18"/>a gloria, cum quo congruit illud Siracidis e. â, v. 22. 
+      <lb ed="#B" n="19"/>Altiora te ne quaesieria et fortiora te ne scruteria 
+      <lb ed="#B" n="20"/>Resp. distinguendum inter piam eorum, quae de 
+      De<lb ed="#B" n="21" break="no"/>in Scripturis revelata exstant, meditationem et 
+      inte<lb ed="#B" n="22" break="no"/>temerariam non revelatorum perscrutationem, illa 
+      <lb ed="#B" n="23"/>praecepta est, haec vero prohibita. Dicamus ergo 
+      <lb ed="#B" n="24"/>cum Bernh. serm. 26. in Cant.: Non vereor, quod 
+      <lb ed="#B" n="25"/>Scriptura minatur scrutatoribus majeatatio, quio 
+      <lb ed="#B" n="26"/>simplicem et purum affero oculum, nec meam, sed 
+      <lb ed="#B" n="27"/>Dei mei quaero gloriam, a qua proinde non oppri 
+      <lb ed="#B" n="28"/>mar, sed ad eam admittar, alioquin sua quisque 
+      <lb ed="#B" n="29"/>opprimilur, non Dei gloria, dum proclivis in istam 
+      <lb ed="#B" n="30"/>ad illam levare cervicem, non oinitur nimirum 
+      gro<lb ed="#B" n="31" break="no"/>vem cupiditate, hac excussa secure scrutemur, 
+      <lb ed="#B" n="32"/>Scrutari majestatem non est ex Scripturis, quid 
+      d<lb ed="#B" n="33" break="no"/>Deo et rebus divinis statuendum sit, discere velle 
+      <lb ed="#B" n="34"/>tale enim scrutinium Christus praecepit Joh. 5, v. 36 
+      <lb ed="#B" n="35"/>sed mysteria divina ad rationis calculos revocare 
+      <lb ed="#B" n="36"/>humanae indagationis trutina eadem examinare e 
+      <lb ed="#B" n="37"/>angusti intellectus decempeda immensos religionis 
+      <lb ed="#B" n="38"/>igros emetiri velle. Nihil h. I. dicemus de eo, quod 
+      <lb ed="#B" n="39"/>in textu Hebraeo verba proprie sic habent: Come 
+      <lb ed="#B" n="40"/>dere mel multiplicando non bonum et investigati 
+      <lb ed="#B" n="41"/>gloriae illorum gloria. 2. Rom. 11, v. 34: Quis 
+      <lb ed="#B" n="42"/>cognovit sensum Domini? Resp. ex 1. Cor. 2. v. 10: 
+      <lb ed="#B" n="43"/>Nobis revelavit Deus per Spiritum quum, et v. 16. 
+      <lb ed="#B" n="44"/>Quis coqnovit sensum Domini, quis instruat eum 
+      <lb ed="#B" n="45"/>nos autem sensum Christi habemus. Distinguendui 
+      <lb ed="#B" n="46"/>igitur inter judicia Dei occulta et mysteria in verbo 
+      <lb ed="#B" n="47"/>revelata. Deut. 29, v. 29: Quae abecondita sunt 
+      <lb ed="#B" n="48"/>Domino Deo nostro; et revelata, nobis et filis 
+      <lb ed="#B" n="49"/>nostris usque in seculum, ut faciamus omnia verbo 
+      <lb ed="#B" n="50"/>legis hujus. Ceterum doctrina de Deo constat tum 
+      <lb ed="#B" n="51"/>ὀνομαιολογίᾳ tum πραγμαιολογίᾳ. Ονομαιολογίς 
+      <lb ed="#B" n="52"/>ἐτυμολογίαν, 2. ὁμωνυμίαν, 3. συνωνυμίαι 
+      <lb ed="#B" n="53"/>I. 
+      <lb ed="#B" n="54"/>explicat. Πραγματολογία duobus absolvitur 
+      mem<lb ed="#B" n="55" break="no"/>bris, quorum prius rò ὅτι, quod sit Deus; posterius 
+      <lb ed="#B" n="56"/>rò ri ἐστι, quid sit, explicat; de singulis ordine 
+      <lb ed="#B" n="57"/>disseremus
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

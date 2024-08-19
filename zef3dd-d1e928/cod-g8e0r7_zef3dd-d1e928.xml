@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="456"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e928"><!-- zef3dd-l4c3 -->
+            <head xml:id="zef3dd-d1e928-Hd1e101">Caput 3</head>
+            <head xml:id="zef3dd-d1e928-Hd1e103" type="question-title">De TYNONYMIAI</head>
+            <p xml:id="zef3dd-d1e928-d1e106">
+               <lb ed="#B" n="72"/>CAPUT III 
+      <lb ed="#B" n="73"/>DE TYNONYMIAI. 
+</p>
+            <p xml:id="zef3dd-d1e928-d1e113">
+               <lb ed="#B" n="74"/>23. Thesis: Varia Christo in Scripturis 
+      tribuun<lb ed="#B" n="75" break="no"/>tur nomina tum propter naturarum in ipso 
+      dualita<lb ed="#B" n="76" break="no"/>tem tum propter beneficiorum, quae ab ipso ad noc 
+      <lb ed="#B" n="77"/>descendunt, multiplicitatem, tum propter muneris 
+      <lb ed="#B" n="78"/>quo fungitur ac gloriae, ad quam evectus est, maje 
+      <lb ed="#B" n="79"/>statem. Sequitur ἔκθεσις. Christus est Scripturae 
+      <lb ed="#B" n="80"/>scopus ac centrum, salutis et spei nostrae 
+      fundamen<lb ed="#B" n="81" break="no"/>tum, Patris coelestis cor et gaudium, inde etiam va 
+      <lb ed="#B" n="82"/>riis eneomiis et nominibus in Scriptura honoratur. 
+      <lb ed="#B" n="83"/>Quemadmodum vero Dionysius in lib. de div. nom. 
+      <lb ed="#B" n="84"/>asserit, summam eorum omnium, quae de Deo scienda 
+      <lb ed="#B" n="85"/>ac credenda, in appellationibus, quae ipsi in sacris 
+      <lb ed="#B" n="86"/>literis tribuuntur, contineri, ita quoque xml:id ipsum di 
+      <lb ed="#B" n="87"/>nominibus Christo attributis vere affirmare possu 
+      <lb ed="#B" n="88"/>mus, quod videlicet summam eorum omnium, quae 
+      <lb ed="#B" n="89"/>de Christi persona et officio dicuntur, ἐπιτομικῶ 
+      <lb ed="#B" n="90"/>proponant. Justin. Martyr. in dial. cum Tryph. 
+      <lb ed="#B" n="91"/>p. 221: Filius Dei vocatur in Scripturis virtur 
+      <lb ed="#B" n="92"/>rationalis et gloria Domini, aliquando sapientio 
+      <lb ed="#B" n="93"/>quandoque angelus, interdum Deus, aliquando Do 
+      <lb ed="#B" n="94"/>minus et Verbum, fuit quando archiducem se ipsum 
+      <lb ed="#B" n="95"/>dixit in hominis forma Josuae apparens. P. 25s. 
+      <lb ed="#B" n="96"/>Et sapientia et dies et oriens et gladius et lapi 
+      <lb ed="#B" n="97"/>et virga et Jacob et Ieraël alio atque alio modo in 
+      <lb ed="#B" n="98"/>prophetarum libris cognominatus est. P. 278: E 
+      <lb ed="#B" n="99"/>magni consilii angelus et vir per Ezechielem e 
+      <lb ed="#B" n="100"/>tanquam filius hominis a Daniele et puellus a 
+      <lb ed="#B" n="101"/>Eadia et Christus et Deus adorandus a Davide e 
+      <lb ed="#B" n="102"/>David et Christus et lapis a multis et sapientia 
+      pe<lb ed="#B" n="103" break="no"/>Salomonem et Joseph et Judas et stella per Mog. 
+      <lb ed="#B" n="104"/>sen et oriens per Zachariam et passioni subditus et 
+      <lb ed="#B" n="105"/>Jacob et Israël rursus per Esaiam et item virga e 
+      <lb ed="#B" n="106"/>flos et lapis summus angularis et Filius Dei voca 
+      <lb ed="#B" n="107"/>tus est. Ennodius in natali Epiphanii de Christ 
+      <lb ed="#B" n="108"/>suavissimos hosce canit versiculos 
+      <lb ed="#B" n="109"/>
+               <quote xml:id="zef3dd-d1e928-Qd1e193">Fons, via dextra, lapis, vitulus, leo, lucifer, agnus 
+      <lb ed="#B" n="110"/>janua, spes, virtus, Verbum, sapientia, vates 
+      <lb ed="#B" n="111"/>ostia, virgultum, pastor, mons, rete, columba 
+      <lb ed="#B" n="112"/>flamma, gigas, aquila, sponsus, patientia, nervus 
+      <lb ed="#B" n="113"/>filius, excelsus, Dominus, Deus, omnia Christus</quote>
+            </p>
+            <p xml:id="zef3dd-d1e928-d1e205">
+      <!--530.xml-->
+               <pb ed="#B" n="457"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>24. Caeterum nomina illa Christi varie a variis 
+      <lb ed="#B" n="2"/>distribuuntur. 1. Quaedam sunt nomina naturae, ut 
+      <lb ed="#B" n="3"/>Immanuel; quaedam vero impositionis, ut Jesus et 
+      <lb ed="#B" n="4"/>cognomen Christus. 2. Quidam tituli honoris, qui 
+      <lb ed="#B" n="5"/>dam amoris, quidam officii et laboris. 3. Bernhard. 
+      <lb ed="#B" n="6"/>serm. 15. in Cant. col. 530: Multa sponsi vocabula 
+      <lb ed="#B" n="7"/>sparsa per omnem divinam paginam legitis, sed in 
+      <lb ed="#B" n="8"/>duo ea vobis universa complector. Nullum, ut ar 
+      <lb ed="#B" n="9"/>bitror, reperietis, quod non aut pietatis gratiam 
+      <lb ed="#B" n="10"/>aut potentiam exprimat. 4. Primariae et potissimae 
+      <lb ed="#B" n="11"/>divisiones hae sunt, quod quaedam appellationes 
+      <lb ed="#B" n="12"/>ratione personae, quaedam ratione officii Christo 
+      <lb ed="#B" n="13"/>tribuuntur. Quae respectu personae ipsi tribuuntur 
+      <lb ed="#B" n="14"/>illae vel ratione divinae vel ratione humanae natu 
+      <lb ed="#B" n="15"/>rae vel ratione utriusque ipsi competunt. Quae offici 
+      <lb ed="#B" n="16"/>ratione ipsi tribuuntur, illae vel respectu regii vel 
+      <lb ed="#B" n="17"/>sacerdotalis vel prophetici officii ipsi tribuuntur 
+      <lb ed="#B" n="18"/>ubi tamen notandum, plerasque appellationes simul 
+      <lb ed="#B" n="19"/>ad personam et officium habere respectum, cujus 
+      <lb ed="#B" n="20"/>ratio dependet a fine incarnationis, xml:ideo enim ò Ad 
+      <lb ed="#B" n="21"/>γος, Dei filius assumsit humanam naturam, ut officie 
+      <lb ed="#B" n="22"/>mediatoris, redemtoris ac salvatoris, ad quod tum 
+      <lb ed="#B" n="23"/>divinae tum humanae naturae proprietates 
+      require<lb ed="#B" n="24" break="no"/>bantur, fungi posset et Vicissim, quia Christus es 
+      <lb ed="#B" n="25"/>salvator ac redemtor noster, ex eo intelligitur, quod 
+      <lb ed="#B" n="26"/>in personae unitate sit deus et homo; interim 
+      liben<lb ed="#B" n="27" break="no"/>ter fatemur, quasdam appellationes directe ac 
+      pe<lb ed="#B" n="28" break="no"/>prius ad personam, indirecte autem ac per posterius 
+      <lb ed="#B" n="29"/>ad officium; et vicissim quasdam directe ac per prius 
+      <lb ed="#B" n="30"/>ad officium, indirecte et per posterius ad personam 
+      <lb ed="#B" n="31"/>Christi spectare, quo sensu etiam allata divisio est 
+      <lb ed="#B" n="32"/>accipienda. 5. Quaedam appellationes sunt propriae. 
+      <lb ed="#B" n="33"/>quaedam vero figuratae ac metaphoricae, ubi no 
+      <lb ed="#B" n="34"/>tandum, quod tantummodo propter modum signis 
+      <lb ed="#B" n="35"/>candi, qui per prius competit creaturis, dicantu 
+      <lb ed="#B" n="36"/>figuratae et impropriae, non autem propter rem signi 
+      <lb ed="#B" n="37"/>ficatam, quae in Deo Christo longe perfectior et 
+      pe<lb ed="#B" n="38" break="no"/>prius ipsi competit 
+      </p>
+            <p xml:id="zef3dd-d1e928-d1e297">
+               <lb ed="#B" n="39"/>25. Propriae appellationes, quae Christo respectu 
+      <lb ed="#B" n="40"/>divinae naturae tribuuntur, potiores hae sunt, quod 
+      <lb ed="#B" n="41"/>vocatur Deus, verus Deus, magnus Deus, Jehoval 
+      <lb ed="#B" n="42"/>Dominus, Dei filius, proprius, unigenitus et unicus 
+      <lb ed="#B" n="43"/>Dei filius. Figuratae appellationes, quae respecti 
+      <lb ed="#B" n="44"/>ejusdem divinae naturae Christo tribuuntur, potiore 
+      <lb ed="#B" n="45"/>hae sunt, quod vocatur λόγος, verbum Patris, imago 
+      <lb ed="#B" n="46"/>χαρακτὴρ καὶ ἀπαύγασμα ete.; propriae 
+      appellatio<lb ed="#B" n="47" break="no"/>nes, quae respectu humanae naturae Christo tribuum 
+      <lb ed="#B" n="48"/>tur, potiores hae sunt, quod vocatur homo, filius 
+      ho<lb ed="#B" n="49" break="no"/>minis, vir, puer, filius Abrahae, filius David, filiu 
+      <lb ed="#B" n="50"/>Judae, Siloh, primogenitus Mariae. Figuratae 
+      ap<lb ed="#B" n="51" break="no"/>pellationes, quae ejusdem naturae respectu ipsi 
+      tri<lb ed="#B" n="52" break="no"/>buuntur, hae sunt, quod vocatur semen mulieris 
+      <lb ed="#B" n="53"/>semen Abrahae, semen Isaaci, semen Jacobi, semen 
+      <lb ed="#B" n="54"/>Davidis, fructus lumborum Davidis, virga et surcu 
+      <lb ed="#B" n="55"/>lus ex radice Jessae, zemach sive germen ete. Ad 
+      <lb ed="#B" n="56"/>hanc classem etiam pertinent appellationes, quae 
+      <lb ed="#B" n="57"/>respectu utriusque naturae, divinae et humanae, 
+      qua<lb ed="#B" n="58" break="no"/>tenus ea non solum ex essentialibus suis principiis 
+      <lb ed="#B" n="59"/>sed etiam in unione personali et exaltatione ad Dei 
+      <lb ed="#B" n="60"/>dextram consideratur, in Scriptura Christo tribuum 
+      <!--530.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tur, utpote quod vocatur Immanuel, dominus omnium 
+      <lb ed="#B" n="62"/>heres omnium, rex regum ac dominus dominantium 
+      <lb ed="#B" n="63"/>ete. Respectu salutaris officii in genere appellatur 
+      <lb ed="#B" n="64"/>his nominibus tum propriis, Jesus, Christus sive 
+      <lb ed="#B" n="65"/>Messias, salvator, salus, mediator, redemtor, exspe 
+      <lb ed="#B" n="66"/>tatio gentium ete; tum figuratis, sponsus, caput 
+      <lb ed="#B" n="67"/>apis angularis, fundamentum, petra, leo, panis 
+      <lb ed="#B" n="68"/>coelo, sol, lux, stella matutina, vitis, liber vitae 
+      <lb ed="#B" n="69"/>ete. Respectu officii sacerdotalis in specie vocatur 
+      <lb ed="#B" n="70"/>noster sacerdos, summus sacerdos, intercessor, hostia 
+      <lb ed="#B" n="71"/>ignus, agnus paschalis; respectu officii prophetici 
+      <lb ed="#B" n="72"/>propheta, magnus propheta, pastor, ἀρχιποίμην 
+      <lb ed="#B" n="73"/>magister, rabbi, doctor, apostolus, minister 
+      circum<lb ed="#B" n="74" break="no"/>cisionis ete. Respectu officii regii, rex, princeps, 
+      <lb ed="#B" n="75"/>princeps pacis, dominator, dux, judex eto 
+      </p>
+            <p xml:id="zef3dd-d1e928-d1e384">
+               <lb ed="#B" n="76"/>26. Neque vero sufficit nudos titulos ac classes 
+      <lb ed="#B" n="77"/>sive cellulas harum appellationum tenere, sed etiam 
+      <lb ed="#B" n="78"/>vim et rationem earum oportet annotare. De nomine si 
+      <lb ed="#B" n="79"/>Jesu et 2. Christi in superioribus fuit actum, hoc loco 
+      <lb ed="#B" n="80"/>illud notamus, quod utrumque nomen directe et πρώτοις 
+      <lb ed="#B" n="81"/>ad officium, δευτέρως et consequenter ad personam sive 
+      <lb ed="#B" n="82"/>ad divinam et humanam naturam respectum habeat, nisi 
+      <lb ed="#B" n="83"/>enim Christus in unitate personae esset deus et 
+      <lb ed="#B" n="84"/>homo, non posset esse noster salvator, ut colligitur 
+      <lb ed="#B" n="85"/>ex enumeratione causarum, propter quas mediatorem 
+      <lb ed="#B" n="86"/>nostrum oportuit esse deum et hominem; nisi esset 
+      <lb ed="#B" n="87"/>θεάνθρωπος, non potuisset plenitudine Spiritus s. 
+      <lb ed="#B" n="88"/>juxta humanam naturam ungi, ac quod Christur 
+      <lb ed="#B" n="89"/>non solum dicatur salvator, sed etiam emphatice 
+      <lb ed="#B" n="90"/>σωνήριον καὶ σωτηρία, salus, quia scilicet est fons 
+      <lb ed="#B" n="91"/>salutis nostrae unicus, extra et praeter quem non 
+      <lb ed="#B" n="92"/>est salus. Gen. 49, v. 18. Esa. 62, v. 11. Joh. 4. 
+      <lb ed="#B" n="93"/>v. 23. Actor. 23, v. 28. 3. μεσίrης, mediator 
+      vo<lb ed="#B" n="94" break="no"/>catur 1. Tim. 2, v. 5. Hebr. 8, v. 6. c. 9, v. 15. 
+      <lb ed="#B" n="95"/>e. 12, v. 24. ratione personae et officii, est enim 
+      <lb ed="#B" n="96"/>nedia, i. e. secunda persona inter Patrem et 
+      Spiri<lb ed="#B" n="97" break="no"/>tum s., est mediator inter Deum et homines 
+      divini<lb ed="#B" n="98" break="no"/>tus ab aeterno constitutus ac in temporis 
+      plenitu<lb ed="#B" n="99" break="no"/>dine assumsit humanam naturam, in qua perfectam 
+      <lb ed="#B" n="100"/>obedientiam et satisfactionem pro peccatis mundi 
+      <lb ed="#B" n="101"/>praestitit et hac ratione genus humanum Deo Patri 
+      <lb ed="#B" n="102"/>reconciliavit, et vi ac merito suae obedientiae et 
+      <lb ed="#B" n="103"/>satisfactionis apud Patrem pro nobis intercedit, inde 
+      <lb ed="#B" n="104"/>etiam tanquam verus mediator semper in medio 
+      in<lb ed="#B" n="105" break="no"/>venitur. Nascitur in media nocte, ut quidam sta 
+      <lb ed="#B" n="106"/>uunt ex Sap. 18, v. 14; patitur in medio mundi 
+      <lb ed="#B" n="107"/>id est in Hierusalem, in meditullio terrae sita 
+      <lb ed="#B" n="108"/>Psalm. 74, v. 12; in medio latronum crucifigitur, in 
+      <lb ed="#B" n="109"/>medio inter coelum et terram, in aëre scilicet 
+      pen<lb ed="#B" n="110" break="no"/>lens moritur, in medio discipulorum post resurre 
+      <lb ed="#B" n="111"/>etionem stetit Joh. 20, v. 19; ubicunque duo vel 
+      <lb ed="#B" n="112"/>tres congregati, in eorum medio se futurum promit 
+      <lb ed="#B" n="113"/>tit Matth. 18, v. 20; ambulat in medio 
+      candelabro<lb ed="#B" n="114" break="no"/>rum aureorum, xml:id est ecclesiarum Apoc. 1, v. 13. 
+      <lb ed="#B" n="115"/>ut veluti cor in medio spiritum et virtutem 
+      distri<lb ed="#B" n="116" break="no"/>buat in omnes mystici corporis sui partes. 4. Imma 
+      <lb ed="#B" n="117"/>nuel vocatur Esa. 7, v. 14, quod est, si interpreteris, 
+      <lb ed="#B" n="118"/>nobiscum Deus Matth. I, v. 23. πρώνως ratione 
+      per<lb ed="#B" n="119" break="no"/>sonae, quia est in personae unitate Deus et homo 
+      <lb ed="#B" n="120"/>Deus in carne manifestatus 1. Tim. 3, v. 16; qui 
+      <!--531.xml-->
+      <pb ed="#B" n="458"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>caro factus habitavit in nobis Joh. 1, v. 14, unde 
+      <lb ed="#B" n="2"/>Deus dicitur fuisse cum ipso Act. 10, v. 8. (Hanc 
+      <lb ed="#B" n="3"/>interpretationem tradit ipse Matthaeus, postquam 
+      <lb ed="#B" n="4"/>enim descripserat annuntiationem angeli factam 
+      <lb ed="#B" n="5"/>Mariae, quod ex ea nasci debeat promissus mundi 
+      <lb ed="#B" n="6"/>salvator, subjicit v. 22: hoc totum factum est, ut 
+      im<lb ed="#B" n="7" break="no"/>pleretur quod dictum per prophetam, nisi enim esse 
+      <lb ed="#B" n="8"/>Emmanuel deus et homo, non posset esse Jesus) 
+      <lb ed="#B" n="9"/>Quin imo nisi haec appellatio ad personalem duarum 
+      <lb ed="#B" n="10"/>naturarum unionem referatur, sed duntaxat de 
+      prae<lb ed="#B" n="11" break="no"/>sentia Dei gratiosa et auxilio accipiatur, nihil pecu 
+      <lb ed="#B" n="12"/>liare ac proprium Christo tribueret, quod non fore 
+      <lb ed="#B" n="13"/>ipsi cum reliquis piis commune Psalm. 91, v. 1. 
+      <lb ed="#B" n="14"/>Esa. 43, v. 2. ete. Gal. lib. 3. c. 18: Natura 
+      <lb ed="#B" n="15"/>nomen est Emmanuel. Constat enim naturam ipsam 
+      <lb ed="#B" n="16"/>quae dat rei formam, nomen quoque rei dare, 
+      sicu<lb ed="#B" n="17" break="no"/>dat homini et humanitatem et nomen, quod est homo 
+      <lb ed="#B" n="18"/>Non enim homo nominetur aliquis, nisi propter 
+      ho<lb ed="#B" n="19" break="no"/>minis naturam, cujus est particeps: ita quoque 
+      Mes<lb ed="#B" n="20" break="no"/>sias noster Emmanuel, quod est, si interpreteris 
+      <lb ed="#B" n="21"/>nobiscum Deus, h. e. deus et homo et a Spiritu e 
+      <lb ed="#B" n="22"/>et a matre dictus est et talis etiam a Christianm 
+      <lb ed="#B" n="23"/>omnibus et creditur et vocatur, cum cluabus partici 
+      <lb ed="#B" n="24"/>pet naturis divina et humana. δευνέρως ratione offici 
+      <lb ed="#B" n="25"/>quia nobiscum est tum per intercessionem apud 
+      Pa<lb ed="#B" n="26" break="no"/>trem coelestem, tum per defensionem contra omnes 
+      <lb ed="#B" n="27"/>hostes, tum per sustentationem et consolationem in 
+      <lb ed="#B" n="28"/>omnibus adversis. Hebraei frustra nobis objiciunt, 
+      <lb ed="#B" n="29"/>Jesum Nazarenum non esse promissum Messiam 
+      <lb ed="#B" n="30"/>cum non fuerit a matre vel ab aliis vocatus Imma 
+      <lb ed="#B" n="31"/>nuel, constat enim Hebraeis vocari saepius significare 
+      <lb ed="#B" n="32"/>idem quod esse, Tertull. contr. Jud. c. 9. Justii 
+      <lb ed="#B" n="33"/>in q. 135. Lactant. I. 4. c. 12. Nequaquam igitur 
+      <lb ed="#B" n="34"/>propheta hoc vult, quod iisdem syllabis in circum 
+      <lb ed="#B" n="35"/>cisione appellandus sit Messias, sed quod revera talis 
+      <lb ed="#B" n="36"/>sit futurus, ut hoc nomen de eo praedicari possit 
+      <lb ed="#B" n="37"/>Sic Messias dicitur vocandus nostra justitia, mira 
+      <lb ed="#B" n="38"/>bilis, consiliarius, princeps pacis, ete., quae omnia 
+      <lb ed="#B" n="39"/>non possunt eo sensu accipi, quod haec omnia 
+      fu<lb ed="#B" n="40" break="no"/>tura sint nomina impositionis, sed naturae et rei 
+      <lb ed="#B" n="41"/>Chrysost. in c. 1. Matth.: Mos scripturae est 
+      even<lb ed="#B" n="42" break="no"/>tus rerum ponere loco nominum. 5. 7&amp;3 redem 
+      <lb ed="#B" n="43"/>tor 4Job. 19. v. 2. Esa. 59, v. 20. 1. Cor. 1, v. 36 
+      <lb ed="#B" n="44"/>I. potestate, quia est verus Deus ad redimendum 
+      <lb ed="#B" n="45"/>genus humanum sufficientibus viribus instructu 
+      <lb ed="#B" n="46"/>Psalm. 19, v. 8. Esa. 35, v. 5; 2. affectu, quia es 
+      <lb ed="#B" n="47"/>verus homo propinquitate carnis nobis conjunctus, 
+      <lb ed="#B" n="48"/>3. effectu, quia interposito sanguinis sui pretio 
+      no<lb ed="#B" n="49" break="no"/>redemit a potestate Satanae ac mortis, a peccatis, ab 
+      <lb ed="#B" n="50"/>ira Dei, ab aeterna damnatione; redimit nos 
+      quo<lb ed="#B" n="51" break="no"/>tidie ex variis tentationibus et adversis, finaliter 
+      no<lb ed="#B" n="52" break="no"/>. redimet ex hoc seculo perverso et in regnum suum 
+      <lb ed="#B" n="53"/>transferet, etc. 6. &amp;22 admirabilis Jud. 13, v. 18. 
+      <lb ed="#B" n="54"/>Esa. 9, v. 6. 1. propter mirabilem duarum natura 
+      <lb ed="#B" n="55"/>rum unionem; 2. propter mirabilem conceptionem 
+      <lb ed="#B" n="56"/>et ex virgine nativitatem; 3. propter mirabilem 
+      re<lb ed="#B" n="57" break="no"/>demtionem; 4. propter mirabilem regni sui admini 
+      <lb ed="#B" n="58"/>strationem. Eodem modo causae reliquarum appel 
+      <lb ed="#B" n="59"/>lationum propriarum colligantur et observentur 
+      </p>
+            <p xml:id="zef3dd-d1e928-d1e618">
+               <lb ed="#B" n="60"/>27. Figuratae appellationes multa breviter com¬ 
+      <!--531.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>plectuntur. Sic Christus vocatur 1. Noster sponsus 
+      <lb ed="#B" n="62"/>Hatth. 9, v. 15. c. 25, v. 1. Marc. 2. v. 19. Luc. 3. 
+      <lb ed="#B" n="63"/>v. 34. Joh. 3, v. 29. ete. 1. propter spiritualem 
+      <lb ed="#B" n="64"/>desponsationem Hos. 2, v. 19. 1. Cor. 6, v. 17; 
+      <lb ed="#B" n="65"/>2. propter dilectionem Eph. 5, v. 26; 3. propter 
+      <lb ed="#B" n="66"/>tequisitionem. Samson ac David fuso hostium 
+      sam<lb ed="#B" n="67" break="no"/>guine sponsas sibi compararunt, Christus proprium 
+      <lb ed="#B" n="68"/>in ara crucis effudit sanguinem, ut ecelesiam sibi in 
+      <lb ed="#B" n="69"/>sponsam acquireret Act. 20, v. 28; 4. propter arrhae, 
+      <lb ed="#B" n="70"/>quae est Spiritus s., donationem, 2. Cor. 1, v. 22. 
+      <lb ed="#B" n="71"/>5. propter defensionem, nutritionem, denominationem 
+      <lb ed="#B" n="72"/>ionoris participationem; 6. propter arctissimam 
+      <lb ed="#B" n="73"/>unionem; 7. propter promissam nuptiarum coelestium 
+      <lb ed="#B" n="74"/>instructionem, Apoc. 19, v. 7. Vid. loc. de eccles. 
+      <lb ed="#B" n="75"/>§. 18. de conjug. §. 423. 2. Caput nostrum Eph. 
+      <lb ed="#B" n="76"/>„v. 22. c. 4, v. 15. c. 5, v. 23. Col. 1, v. 18. etc. 
+      <lb ed="#B" n="77"/>ratione conditionis, videlicet praestantiae, digni 
+      <lb ed="#B" n="78"/>tatis et eminentiae, est enim caput nobilissimum ad 
+      <lb ed="#B" n="79"/>eminentissimum inter reliqua membra; 2. ratione 
+      co<lb ed="#B" n="80" break="no"/>gnationis; caput est ejusdem naturae cum corpore, 
+      <lb ed="#B" n="81"/>sic Christus secundum humanam naturam est nobis 
+      <lb ed="#B" n="82"/>μοούσιος; 3. ratione directionis et gubernationis. 
+      <lb ed="#B" n="83"/>aput dirigit membra reliqua, sic Christus omnia 
+      <lb ed="#B" n="84"/>u ecclesia gubernat; 4. ratione conjunctionis ac 
+      <lb ed="#B" n="85"/>συναφείας; a capite et quidem a cerebro procedunt 
+      <lb ed="#B" n="86"/>nervi coagmentantes totum corporis systema, sic 
+      <lb ed="#B" n="87"/>corpus mysticum est συναρμολογούμενον καῖ συμ¬ 
+      <lb ed="#B" n="88"/>ιβαζόμενον per Christum Eph. 4, v. 16; 5. ratione 
+      <lb ed="#B" n="89"/>communicationis; caput communicat sensum et 
+      mo<lb ed="#B" n="90" break="no"/>tum reliquo corpori, sic Christus Spiritum s. 
+      eccle<lb ed="#B" n="91" break="no"/>liae; 6. ratione defensionis; caput prospicit 
+      defen<lb ed="#B" n="92" break="no"/>sioni reliquorum membrorum. 3. Lapis angularis 
+      <lb ed="#B" n="93"/>ἀκρογωνιαῖος Ps. 118, v. 22. Es. 28, v. 16. Matth. 
+      <lb ed="#B" n="94"/>21, v. 42. Marc. 12, v. 10. Luc. 20, v. 17. Act. 4. 
+      <lb ed="#B" n="95"/>v. 11. 1. Pet. 2. v. 7: 1. propter aedificii spiritualis 
+      <lb ed="#B" n="96"/>sustentationem; 2. propter Judaeorum ac gentium 
+      <lb ed="#B" n="97"/>in unam ecclesiam conjunctionem Eph. 2. v. 20. et 
+      <lb ed="#B" n="98"/>21; 3. propter impiorum offensionem, piorum vero 
+      <lb ed="#B" n="99"/>prectionem Luc. 2, v. 34. Propter easdem ferme 
+      ra<lb ed="#B" n="100" break="no"/>tiones vocatur lapis, petra, fundamentum, Es. 8, 
+      <lb ed="#B" n="101"/>v. 14. Matth. 16, v. 18. 1. Cor. 3, v. 11. etc., ubi 
+      con<lb ed="#B" n="102" break="no"/>ungendae sunt figurae V. T. de petra, ex qua Moysis 
+      <lb ed="#B" n="103"/>paculo percussa profluxit aqua 1 Cor. 10, v. 4, de la 
+      <lb ed="#B" n="104"/>pide, in quo sunt septem oculi Zach. 3, v. 9, hoc est, 
+      <lb ed="#B" n="105"/>charismatum Spiritus s. perfectio, de foraminibus 
+      pe<lb ed="#B" n="106" break="no"/>rae, xml:id est vulneribus Christi, in quibus columbae, i. 
+      e<lb ed="#B" n="107" break="no"/>fideles animae sese abscondunt, Cant. 2. v. 14. etc.; 
+      <lb ed="#B" n="108"/>1. Leo de tribu Juda, Apoc. 5, v. 5; 1. propter divinum 
+      <lb ed="#B" n="109"/>robur ac virtutem; 2. propter principatum et 
+      emi<lb ed="#B" n="110" break="no"/>nentiam, leo est rex omnium animalium; 3. 
+      pro<lb ed="#B" n="111" break="no"/>pter vigilantiam, leo dormit oculis apertis; 4. 
+      pro<lb ed="#B" n="112" break="no"/>pter efficaciam, eripuit nos ex ore leonis infernalis 
+      <lb ed="#B" n="113"/>Sic ergo leo opponitur leoni, coelestis infernali, 
+      <lb ed="#B" n="114"/>9. propter custodiam, defendit nos potenter, sicut 
+      <lb ed="#B" n="115"/>leo suos catulos; 6. propter naturam timoris 
+      ex<lb ed="#B" n="116" break="no"/>pertem. Cumprimis vero in resurrectione ut fortem 
+      <lb ed="#B" n="117"/>eonem sese demonstravit. In passione agnus, in 
+      <lb ed="#B" n="118"/>resurrectione leo, Apoc. 8, v. 6: 1. quia tunc 
+      divi<lb ed="#B" n="119" break="no"/>nitatis suae potentiam praecipue ostendit, Rom. I, 
+      <lb ed="#B" n="120"/>(v. 4; 2. leo voce sua terrorem animantibus incutit. 
+      <!--532.xml-->
+      <pb ed="#B" n="459"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>quae vi attonita atque icta deficiant: sic Christus 
+      <lb ed="#B" n="2"/>ex mortuis resuscitatus per apostolorum praedicationem 
+      <lb ed="#B" n="3"/>gentes ad se pertraxit; 3. catuli leonis ut primum 
+      <lb ed="#B" n="4"/>nati tribus diebus ac noctibus dormiunt, patris 
+      au<lb ed="#B" n="5" break="no"/>tem rugitu excitantur, hoc Origenes homil. 17. in 
+      <lb ed="#B" n="6"/>c. 49. Genes. ad Christum resurgentem applicat, qu 
+      <lb ed="#B" n="7"/>et nobis resurrectionem ad vitam promeruit; 4. tunc 
+      <lb ed="#B" n="8"/>praecipua generositas leoni advenit, cum colla ar 
+      <lb ed="#B" n="9"/>mosque vestiunt jubae, inquit Plinius lib. 8. Natur 
+      <lb ed="#B" n="10"/>Hist. c. 16; sic Christi majestas praecipue per re 
+      <lb ed="#B" n="11"/>surrectionem splenduit, quando immortalitatis vest. 
+      <lb ed="#B" n="12"/>bus est indutus; 5. tunc voce sua omnes hostes 
+      ter<lb ed="#B" n="13" break="no"/>ruit, fugavit, ut leo animalia, tunc perrupit claustr. 
+      <lb ed="#B" n="14"/>mortis, ete. 3. Agnus 1. propter immolationem a 
+      <lb ed="#B" n="15"/>hostiam, stat tanquam occisus Apoc. 5, v. 6; 2. pro. 
+      <lb ed="#B" n="16"/>pter mansuetudinem ac patientiam Es. 53, v. 6. 
+      <lb ed="#B" n="17"/>3. propter puritatem ac innocentiam 1. Pet. 1, v. 20. 
+      <lb ed="#B" n="18"/>I. propter beneficentiam, Christi enim meritis tar 
+      <lb ed="#B" n="19"/>quam vellere induimur. Dicitur agnus Dei Joh. 1 
+      <lb ed="#B" n="20"/>v. 29. tum ad differentiam, quia non est agnus 
+      Le<lb ed="#B" n="21" break="no"/>viticus aut typicus, quales erant in V. T., sed Dei 
+      <lb ed="#B" n="22"/>agnus; tum propter excellentiam, est enim a 
+      De<lb ed="#B" n="23" break="no"/>praeordinatus, est in protevangelio promissus, es 
+      <lb ed="#B" n="24"/>in sacrificiis et agno paschali adumbratus, est in 
+      <lb ed="#B" n="25"/>temporis plenitudine ad sacrificium missus 1. Petr. 
+      <lb ed="#B" n="26"/>1, v. 15. 19. 20. Hilar. lib. de Patris et Filii unitat. 
+      <lb ed="#B" n="27"/>p. 765: Agnus appellatur, ut ejus innocentia et pas 
+      <lb ed="#B" n="28"/>cio demonstretur. 6. sol Mal. 4. v. 2. Luc. 1, v. 78 
+      <lb ed="#B" n="29"/>1. ratione eminentiae. Sol est dux reliquorum 
+      <lb ed="#B" n="30"/>siderum, est oculus mundi, constituitur in medi 
+      <lb ed="#B" n="31"/>planetarum, ete.; 2. ratione proprietatis et efficacia 
+      <lb ed="#B" n="32"/>Sicut sol materialis habet triplicem proprietatem 
+      <lb ed="#B" n="33"/>sic etiam sol spiritualis: I. in radio illuminationem 
+      <lb ed="#B" n="34"/>confert enim lumen fidei et gratiae; 2. in medio s 
+      <lb ed="#B" n="35"/>tuationem, sol infra et supra se habet tres plane 
+      <lb ed="#B" n="36"/>tas, sic Christus est Dei et hominum mediator; 3. in 
+      <lb ed="#B" n="37"/>imo calefactionem, sic Christus amore divino corda 
+      <lb ed="#B" n="38"/>accendit. Weidn. de loc. fid. praecip. p. 238. Sol ut 
+      <lb ed="#B" n="39"/>pote fons luminis communicat lucem suam lunae e 
+      <lb ed="#B" n="40"/>reliquis sideribus, illuminat totum terrarum orbem 
+      <lb ed="#B" n="41"/>vivificum calorem sublunaribus impertit, terram 
+      <lb ed="#B" n="42"/>fertilem reddit, aegrotis levamentum exhibet, quae 
+      <lb ed="#B" n="43"/>omnia ad Christum mystice applicari possunt; 3. 
+      ra<lb ed="#B" n="44" break="no"/>tione ἀσθονίας. Sol absque omni invidia subluna 
+      <lb ed="#B" n="45"/>ribus aequaliter communicat suam lucem, totum he 
+      <lb ed="#B" n="46"/>misphaerium cursu quotidiano absolvit, sic Christus 
+      <lb ed="#B" n="47"/>per evangelii praedicationem omnibus lucem gratia 
+      <lb ed="#B" n="48"/>ἀσφθόνως καὶ ἀπροσωπολήπτως offert; 4. ration 
+      <lb ed="#B" n="49"/>χιλανθρωπίας. Ad solem sese convertit heliotropium 
+      <lb ed="#B" n="50"/>sic corda nostra se convertere debent ad Christum 
+      <lb ed="#B" n="51"/>Nihil jucundius captivis quam intueri solem, neque 
+      <lb ed="#B" n="52"/>quicquam nobis in spirituali nostra captivitate 
+      dul<lb ed="#B" n="53" break="no"/>cius esse debet quam oculos fidei dirigere ad 
+      <lb ed="#B" n="54"/>Christum. 7. lux Esai. 42, v. 7. c. 49, v. 6 
+      <lb ed="#B" n="55"/>c. 60, v. 1. (confer. Act. 13, v. 47. Apoc. 22, v. 23. 
+      <lb ed="#B" n="56"/>Luc. 2, v. 32. Joh. 1. v. 4. c. 3, v. 19. c. 8, v. 12. 
+      <lb ed="#B" n="57"/>ete. 1. οὐσιιδῶς et essentialiter propter divinam 
+      <lb ed="#B" n="58"/>naturam I. Joh. 1, v. 5. Iren. lib. 2. adv. haeres 
+      <lb ed="#B" n="59"/>c. 16. Deus totus est oculus, totus lumen; 2. ὑno 
+      <lb ed="#B" n="60"/>θταιικῶς et personaliter, est enim ἀπαύγασμα iῇ 
+      <!--532.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>δόξης Hebraeor. 1, v. 3. Sicut radius nascitur a sole 
+      <lb ed="#B" n="62"/>ἐπαθῶς et est soli coaevus, sic Filius natus est ex 
+      <lb ed="#B" n="63"/>Patris coelestis corde; 3. ἐνεργητικῶς et efficaciter 
+      <lb ed="#B" n="64"/>protulit lucem evangelii ex sinu aeterni Patris, 
+      illu<lb ed="#B" n="65" break="no"/>minat omnem hominem venientem in hunc mundum 
+      <lb ed="#B" n="66"/>Johan. I, v. 9, discutit peccatorum tenebras, dirigit 
+      <lb ed="#B" n="67"/>gressus nostros, laetitiam contritis cordibus praesta 
+      <lb ed="#B" n="68"/>ete. 8. stella et quidem matutina. Num. 24, v. 17 
+      <lb ed="#B" n="69"/>Apoc. 22, v. 16: 1. propter suam ex virgine nativi 
+      <lb ed="#B" n="70"/>pitatem. Gregor. lib. 19. moral. c. 30: Christus na 
+      <lb ed="#B" n="71"/>tus ex virgine velut lucifer inter tenebras nocti 
+      <lb ed="#B" n="72"/>apparuit, quia fugata obscuritate peccati aeternum 
+      <lb ed="#B" n="73"/>nobis mane nuntiavit; 2. propter resurrectioni 
+      <lb ed="#B" n="74"/>claritatem. Vivus apparens post mortem matutina 
+      <lb ed="#B" n="75"/>nobis stella factus est, quia, dum in semet ipsc 
+      <lb ed="#B" n="76"/>exemplum nobis resurrectionis exhibuit, quae 
+      lu<lb ed="#B" n="77" break="no"/>equatur, indicavit; 3. propter lucis dignitatem 
+      <lb ed="#B" n="78"/>Stellae fulgore suo noctis tenebras discutiunt, sic 
+      <lb ed="#B" n="79"/>Christus hujus vitae et peccatorum nostrorum 
+      tene<lb ed="#B" n="80" break="no"/>bras; 4. propter promissam felicitatem. Christus 
+      <lb ed="#B" n="81"/>ritam et lucem aeternam credentibus ac piis 
+      pol<lb ed="#B" n="82" break="no"/>icetur, sicut lucifer seu stella matutina cito 
+      adfu<lb ed="#B" n="83" break="no"/>urum solem denuntiat, efficit, ut instar stellarum 
+      <lb ed="#B" n="84"/>in firmamento luceamus in coelesti regno. 9. vitis 
+      <lb ed="#B" n="85"/>Joh. 15, v. 1: propter naturae consanguinitatem. 
+      <lb ed="#B" n="86"/>Vitis est ejusdem naturae cum palmitibus, sic 
+      Chri<lb ed="#B" n="87" break="no"/>tus verus homo et frater noster est; 2. propter 
+      <lb ed="#B" n="88"/>beneficiorum ubertatem. Palmites ex vite vitam et 
+      <lb ed="#B" n="89"/>succum accipiunt, sic a Christo omnia spiritualia 
+      <lb ed="#B" n="90"/>charismata unice ad nos descendunt; 3. propter 
+      ex<lb ed="#B" n="91" break="no"/>erni splendoris vilitatem. Vitis non commendat se 
+      <lb ed="#B" n="92"/>proceritate, ut cedri, nec robore, ut quercus, sed 
+      fer<lb ed="#B" n="93" break="no"/>tilitate et fructus bonitate, sic Christi regnum in 
+      ho<lb ed="#B" n="94" break="no"/>mundo destituitur splendore externo; 4. propter 
+      fru<lb ed="#B" n="95" break="no"/>ctuum utilitatem, qui sunt gratiae divinae candor 
+      <lb ed="#B" n="96"/>charismatum splendor, sanguinis Christi robur 
+      <lb ed="#B" n="97"/>5. propter palmitum diversitatem. Quidam palmites 
+      <lb ed="#B" n="98"/>sunt pampinarii, quidam fructuarii, ut Columella 
+      <lb ed="#B" n="99"/>distinguit; sic quidam Christiani verbis luxuriant 
+      al<lb ed="#B" n="100" break="no"/>omni bono opere vacui. 10. panis vitae, arbor vitae, 
+      <lb ed="#B" n="101"/>lignum vitae, liber vitae Joh. 6, v. 35. Apoc. 2, v. 7. 
+      <lb ed="#B" n="102"/>c. 17, v. 8. c. 20, v. 12. et 15. c. 22, v. 2. 14. et 19. 
+      <lb ed="#B" n="103"/>s. propter praefigurationem. Quia arbor vitae in 
+      <lb ed="#B" n="104"/>paradiso et manna in deserto fuerunt typi Christi 
+      <lb ed="#B" n="105"/>2. propter praedestinationem. In hoc libro vitae 
+      <lb ed="#B" n="106"/>scripti sumus per aeternam electionem; 3. propter 
+      <lb ed="#B" n="107"/>vitae spiritualis communicationem, hoc pane coelesti 
+      <lb ed="#B" n="108"/>alimur ad vitam, huic arbori vera fide incerti parti 
+      <lb ed="#B" n="109"/>cipamus vitam. Eodem modo etiam reliquae appel 
+      <lb ed="#B" n="110"/>ationes, quae Christo tribuuntur, pie expendenda 
+      <lb ed="#B" n="111"/>et juxta fidei analogiam explicandae sunt. Illustris 
+      <lb ed="#B" n="112"/>pictura Christi exstat Apoc. 1, v. 13. et seqq. (ποδή. 
+      <lb ed="#B" n="113"/>ρῆς, vestitus talaris, est symbolum sacerdotii, cinctura 
+      <lb ed="#B" n="114"/>symbolum alacritatis in administrando sacerdotio 
+      <lb ed="#B" n="115"/>Zona aurea regalem dignitatem, capilli albi 
+      sym<lb ed="#B" n="116" break="no"/>bolum aeternitatis, sanctitatis et sapientiae, oculi 
+      <lb ed="#B" n="117"/>anquam ignis symbolum omniscientiae, pedes simile 
+      <lb ed="#B" n="118"/>χαλκολιβάν in camino symbolum irae adversus 
+      ho<lb ed="#B" n="119" break="no"/>ites, vox aquarum multarum significat multitudi 
+      <lb ed="#B" n="120"/>nem populi ad ipsum convertendam; romphaea, δt¬ 
+      <!--533.xml-->
+      <pb ed="#B" n="460"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>στομος significat gladium verbi, quo pios convertit 
+      <lb ed="#B" n="2"/>impios interficit, ete. 
+      </p>
+            <p xml:id="zef3dd-d1e928-d1e1039">
+               <lb ed="#B" n="3"/>28. Thes. 2. Ad συνωνυμίαν referri etiam pos 
+      <lb ed="#B" n="4"/>sunt typi, quibus in V. T. Christus cum auis bene 
+      <lb ed="#B" n="5"/>ficiis fuit praefiguratus, quorum numerari possunt 
+      <lb ed="#B" n="6"/>longe plurimi. Duo sunt theseos hujus membra: 
+      <lb ed="#B" n="7"/>I. quod ad συνωνυμίαν pertineant etiam typi Christi 
+      <lb ed="#B" n="8"/>id patet ex eo, quia ex illis typis Christus denom. 
+      <lb ed="#B" n="9"/>natur, sic quia Adam primus humani generis parens 
+      <lb ed="#B" n="10"/>in quibusdam fuit typus Christi, inde Christus 
+      vo<lb ed="#B" n="11" break="no"/>catur ὁ kσxaroς δδάμ 1. Cor. 15, v. 46; quia 
+      re<lb ed="#B" n="12" break="no"/>David in quibusdam fuit typus Christi, xml:ideo 
+      Chr<lb ed="#B" n="13" break="no"/>stus appellatur David Psalm. 132, v. 10. Ezech. 3. 
+      <lb ed="#B" n="14"/>v. 23. e. 37, v. 24. ete. (I. quia peculiariter David. 
+      <lb ed="#B" n="15"/>promissus; 2. quia ex semine ejus natus; 3. qui 
+      <lb ed="#B" n="16"/>David ejus typus); quin et typi illi nihil aliud sum 
+      <lb ed="#B" n="17"/>quam figuratae ac parabolicae descriptiones xml:id ipsum 
+      <lb ed="#B" n="18"/>latius explicantes, quod appellationes figuratae 
+      bre<lb ed="#B" n="19" break="no"/>vius complectuntur; 2. quod complures typi Christi 
+      <lb ed="#B" n="20"/>exstent in V. T., illud patet ex eo, quia teste 
+      Au<lb ed="#B" n="21" break="no"/>gustino lib. 22. contra Faustum c. 42. antiquorum 
+      <lb ed="#B" n="22"/>non solum lingua, sed etiam vita fuit prophetica 
+      <lb ed="#B" n="23"/>ac V. T. historiae non tantum praestant usum in 
+      <lb ed="#B" n="24"/>sensu literali, sed etiam mystico, sunt enim quasi 
+      <lb ed="#B" n="25"/>quaedam fasciae, quibus Christus involutus. Digna 
+      <lb ed="#B" n="26"/>igitur pie erudito est diligentia, tales typos Chris 
+      <lb ed="#B" n="27"/>ex V. T. colligere, membra applicationis juxta fide 
+      <lb ed="#B" n="28"/>analogiam prudenter instituere, cumprimis vero illo 
+      <lb ed="#B" n="29"/>typos, qui in N. T. ab apostolis vel ipso etiam 
+      <lb ed="#B" n="30"/>Christo ad salvatorem nostrum applicantur, obser 
+      <lb ed="#B" n="31"/>vare. Praeibimus exemplo et in uno atque altere 
+      <lb ed="#B" n="32"/>typo Christum contemplandum proponemu 
+      </p>
+            <p xml:id="zef3dd-d1e928-d1e1107">
+               <lb ed="#B" n="33"/>29. 1. Adamus et Christus tum τυπικῶς et modo 
+      <lb ed="#B" n="34"/>consentaneo invicem conferuntur, tum ἀντιθετικῶς 
+      <lb ed="#B" n="35"/>et modo dissentaneo sibi invicem opponuntur 
+      Rom<lb ed="#B" n="36" break="no"/>5, v. 12. 1. Cor. 15, v. 21. et seqq. (Collatio 
+      insti<lb ed="#B" n="37" break="no"/>uitur inter Christum et Adamum ante lapsum 
+      <lb ed="#B" n="38"/>pppositio inter Christum et Adamum post lapsum 
+      <lb ed="#B" n="39"/>Collationis membra potiora haec sunt: 1. Adam est 
+      <lb ed="#B" n="40"/>pater omnium hominum, a quo omnes vitam natu 
+      <lb ed="#B" n="41"/>ralem accipiunt, Act. 17, v. 26. Christus est aetes 
+      <lb ed="#B" n="42"/>nus Pater Esai. 9, v. 6, a quo et per quem regeneramu 
+      <lb ed="#B" n="43"/>ad vitam aeternam 1. Cor. 15, v. 45. 2. Nomer 
+      <lb ed="#B" n="44"/>Adam significat rubrum, quia ex rubicunda terr 
+      <lb ed="#B" n="45"/>formatus Gen. 2, v. 7. Christus est is, qui venit di 
+      <lb ed="#B" n="46"/>Edom tinctis vestibus de Boera Es. 63, v. 1, rubo 
+      <lb ed="#B" n="47"/>fecit vestem humanae naturae sanguine suo in 
+      pa<lb ed="#B" n="48" break="no"/>sione. 3. Adam formatus est ex terra adhuc virgine 
+      <lb ed="#B" n="49"/>e. nondum ab hominibus culta, Gen. 2, v. 6. 
+      <lb ed="#B" n="50"/>Christus ex Maria matre virgine natus Luc. 1, v. 35. 
+      <lb ed="#B" n="51"/>est lapis eine manu viri abscissus Daniel. 2, v. 45. 
+      <lb ed="#B" n="52"/>4. Adam ad imaginem Dei erat conditus Gen. 
+      <lb ed="#B" n="53"/>r. 26. Christus est substantialis imago Dei Patris 
+      <lb ed="#B" n="54"/>ab aeterno ex Patris substantia genitus Col. 1, v. 15. 
+      <lb ed="#B" n="55"/>Hebr. 1. v. 3. Ambros lib. 4. in Lucam: Ex 
+      terr<lb ed="#B" n="56" break="no"/>virgine Adam, Christus ex virgine, ille ad imagi 
+      <lb ed="#B" n="57"/>nem Dei factus, hic imago Dei, ete. 5. Adamu. 
+      <lb ed="#B" n="58"/>originem suam habet ex coelo et terra, quia 
+      corpu<lb ed="#B" n="59" break="no"/>ejus e terra formatum, anima autem divinitus ipsi 
+      <lb ed="#B" n="60"/>inspirata Genes. 2, v. 7. Christus secundum divinam 
+      <!--533.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>naturam est Dominus de coelo, natus ex corde 
+      pa<lb ed="#B" n="62" break="no"/>rentis, 1. Corinth. 15, v. 47, secundum humanam 
+      <lb ed="#B" n="63"/>naturam in terris ex virgine natus est. 6. Adamus. 
+      <lb ed="#B" n="64"/>constitutus erat omnium creaturarum dominus 
+      Gen<lb ed="#B" n="65" break="no"/>1, v. 28. Christo omnia in manus sunt tradito 
+      <lb ed="#B" n="66"/>Johan. 3. v. 35. ac pedibus ejus subjecta Psalm. 8. 
+      <lb ed="#B" n="67"/>r. 7. 7. Adam constitutus est paradisi custos ac 
+      colo<lb ed="#B" n="68" break="no"/>nus Genes. 2, v. 15. Christus mystici paradisi, quae 
+      <lb ed="#B" n="69"/>st ecclesia, dominus est et custos, Psalm. 12, v. 4. 
+      <lb ed="#B" n="70"/>8. In Adamo fulgebat lux coelestis sapientiae, quia 
+      <lb ed="#B" n="71"/>singulis animalibus convenientia imponebat nomins 
+      <lb ed="#B" n="72"/>Nen. 2. v. 20; in Christo reconditi sunt omnes ea 
+      <lb ed="#B" n="73"/>pientiae thesauri Col. 2. v. 3; ipse confert nobis 
+      <lb ed="#B" n="74"/>iomen novum, ut filii Dei vocemur, Apoc. 2, v. 17 
+      <lb ed="#B" n="75"/>9. Adamus erat ante lapsum purus et innocens, al 
+      <lb ed="#B" n="76"/>omni labe peccati immunis, utpote ad Dei imaginem, 
+      <lb ed="#B" n="77"/>id, est, in perfecta sanctitate et veritate conditus 
+      <lb ed="#B" n="78"/>Eph. 4. v. 24. Christus est ἀμίαντος, ἄκακo5, in 
+      or<lb ed="#B" n="79" break="no"/>eius non fuit inventus dolus Esa. 53, v. 9. Heb. 7. 
+      <lb ed="#B" n="80"/>v. 26. 10. Ex Adami obdormiscentis latere eximitu 
+      <lb ed="#B" n="81"/>costa, ex qua aedificatur ipsi conjunx Gen. 2, v. 215 
+      <lb ed="#B" n="82"/>sic ex Christi in cruce mortui latere profluxerum 
+      <lb ed="#B" n="83"/>sanquis et aqua, duo ecclesiae N. T. sacramento 
+      <lb ed="#B" n="84"/>per quae aedificatur ecclesia Christi sponsa Joh. 18 
+      <lb ed="#B" n="85"/>v. 34. Oppositionis membra ex adductis locis 
+      apo<lb ed="#B" n="86" break="no"/>stolicis facili negotio colligi possunt 
+      </p>
+            <p xml:id="zef3dd-d1e928-d1e1231">
+               <lb ed="#B" n="87"/>30. 2. Abelem fuisse typum Christi colligitur 
+      <lb ed="#B" n="88"/>ex Hebr. 12, v. 24. 1. Abel fuit pastor ovium 
+      Ge<lb ed="#B" n="89" break="no"/>nes. 4. v. 2; sic Christus est ecclesiae et fidelium 
+      <lb ed="#B" n="90"/>verus pastor, Joh. 10, v. 12. 2. Abel erat justus et 
+      <lb ed="#B" n="91"/>nnocens Matth. 23, v. 35. 1. Joh. 3, v. 15, Christur 
+      <lb ed="#B" n="92"/>justus et sanctus. 3. Abel a fratre interficitur, 
+      si<lb ed="#B" n="93" break="no"/>Christus a Judaeis suis fratribus secundum carnem 
+      <lb ed="#B" n="94"/>1. Sanguis Abelis ad Deum clamat. Gen. 4. v. 103 
+      <lb ed="#B" n="95"/>Christi sanquis loquitur meliora, ille enim postula 
+      <lb ed="#B" n="96"/>ultionem, hic vero cum Deo reconciliationem, Hebr. 
+      <lb ed="#B" n="97"/>12, v. 24, si ipsum Abelis sacrificium praefigurabat 
+      <lb ed="#B" n="98"/>Christum, quod ut agnus in ara crucis sit mactan 
+      <lb ed="#B" n="99"/>dus Apoc. 13, v. 8, unde fide Abel meliorem hostian 
+      <lb ed="#B" n="100"/>obtulisse dicitur, Hebr. 1I, v. . 
+      </p>
+            <p xml:id="zef3dd-d1e928-d1e1265">
+               <lb ed="#B" n="101"/>31. 3. Noachum fuisse typum Christi colligitur 
+      <lb ed="#B" n="102"/>ex Gen. 5, v. 29. Matth. 24, v. 37. 1. Noah sign. 
+      <lb ed="#B" n="103"/>icat consolatorem Gen. 5, v. 29, in Christo omnis 
+      <lb ed="#B" n="104"/>animae nostrae requies et consolatio Matth. 11, v. 28. 
+      <lb ed="#B" n="105"/>2. Noah vir justus ac perfectus cum Deo ambulavm 
+      <lb ed="#B" n="106"/>Jen. 6, v. 9. Christus longe purior ac perfectior 
+      <lb ed="#B" n="107"/>Johan. 8. v. 46. 3. Noah invenit gratiam coram 
+      Do<lb ed="#B" n="108" break="no"/>mino Gen. 6, v. 8. Christus unicus homo in gratio 
+      <lb ed="#B" n="109"/>Rom. 5, v. 15, in quo et nos diligimur Eph. 1, v. 6 
+      <lb ed="#B" n="110"/>4. Noah aedificabat arcam, in qua homines a diluvie 
+      <lb ed="#B" n="111"/>pervabantur Gen. 6, v. 14. Christus sibi colligit 
+      <lb ed="#B" n="112"/>ecclesiam, in qua a diluvio irae divinae servamum 
+      <lb ed="#B" n="113"/>5. Noae sacrificio Deus placatur Gen. 8, v. 21. 
+      <lb ed="#B" n="114"/>Christus se ipsum obtulit victimam in odorem sua 
+      <lb ed="#B" n="115"/>vitatis Deo Ephes. 5, v. 2. 6. Noab post diluviun 
+      <lb ed="#B" n="116"/>fuit quasi alter parens generis humani. Christu 
+      <lb ed="#B" n="117"/>est pater venturi seculi. 7. Cum Noacho init Deus 
+      <lb ed="#B" n="118"/>soedus gratiae Gen. 9, v. 9. Christus est 
+      angelu<lb ed="#B" n="119" break="no"/>novi et aeterni foederis Mal. 3, v. 1. 8. Circa 
+      <lb ed="#B" n="120"/>vesperam columba affert Noacho folium olivae, ex 
+      <!--534.xml-->
+      <pb ed="#B" n="461"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>quo intelligit aquas diluvii cessasse, Genes. 8, v. 12. 
+      <lb ed="#B" n="2"/>Circa mundi vesperam Spiritus s. in baptismo supe 
+      <lb ed="#B" n="3"/>Christum in specie columbae descendit, cum in 
+      <lb ed="#B" n="4"/>baptismi diluvio omnia peccata nostra suffocasses 
+      <lb ed="#B" n="5"/>Matth. 3, v. 16. etc. 9. Iris est signum foederis inter 
+      <lb ed="#B" n="6"/>Deum et Noachum initi Gen. 9, v. 13, haec iris 
+      <lb ed="#B" n="7"/>Christum praefigurat Psalm. 89, v. 38. Apoc. 4. 0. 3 
+      <lb ed="#B" n="8"/>10. Iridem respicere debebant Noah et ipsius poster 
+      <lb ed="#B" n="9"/>ac recordari foederis cum Deo initi, quin et Deus 
+      <lb ed="#B" n="10"/>ipse promittit, quod iridem respicere velit Gen.! 
+      <lb ed="#B" n="11"/>v. 13. et seqq. Christus est mediator, quem 
+      homi<lb ed="#B" n="12" break="no"/>nes vera fide intueri debent, ac Deus intuitu merit 
+      <lb ed="#B" n="13"/>Christi homines in gratiam et foedus suum 
+      recipi<lb ed="#B" n="14" break="no"/>11. Noab primus aedificavit vineam Gen. 9, v. 20 
+      <lb ed="#B" n="15"/>Christus plantat ecclesiam. 12. Noah ebrius ac de 
+      <lb ed="#B" n="16"/>nudatus a Chamo irridetur Gen. 9, v. 22; hoc ele 
+      <lb ed="#B" n="17"/>gantissime et latissime August. accommodat ad 
+      <lb ed="#B" n="18"/>Christum libr. 16. de civ. Dei c. 2, ebrius ex amor. 
+      <lb ed="#B" n="19"/>denudatus fuit in cruce et a filiis degeneribus 
+      Ju<lb ed="#B" n="20" break="no"/>daeis illusus 
+      </p>
+            <p xml:id="zef3dd-d1e928-d1e1361">
+               <lb ed="#B" n="21"/>32. Eadem ratione non solum historiae patria 
+      <lb ed="#B" n="22"/>charum Sethi Gen. 4, v. 25. Enos Gen. 5, v. 2. 
+      <lb ed="#B" n="23"/>Henoch Gen. 5, v. 24. Melchisedeci Hebr. 7, v. 1 
+      <lb ed="#B" n="24"/>et seq. Abrahae, Joh. 8, v. 56. Isaaci Hebr. 11. 
+      <lb ed="#B" n="25"/>v. 19. Jacobi Num. 24. v. 17. Josephi, ete. Propho 
+      <lb ed="#B" n="26"/>tarum Moysis Deut. 18, v. 15. Jonae Matth. 12 
+      <lb ed="#B" n="27"/>v. 39; regum Davidis, Salomonis ete.; sed etiam 
+      <lb ed="#B" n="28"/>1. figurae arboris vitae, fluminis paradisiaci, pelliur 
+      <lb ed="#B" n="29"/>qvillarum primos parentes vestientium, arcae Noachi 
+      <lb ed="#B" n="30"/>scalae Jacobaeae, rubi ardentis, mannae caelitu 
+      <lb ed="#B" n="31"/>deplutae, exaltati serpentis, virgae Aaronicae eto 
+      <lb ed="#B" n="32"/>explicari et ad Christum accommodari possum 
+      <lb ed="#B" n="33"/>Vide magnalia Herbergeri, typos Baemeisteri, Chr 
+      <lb ed="#B" n="34"/>stum abeconditum Lud. Carbonis ete., ubi tame, 
+      <lb ed="#B" n="35"/>notandum, quod in allegoriis tractandis singulari 
+      <lb ed="#B" n="36"/>requiratur circumspectio, ne quid contra fidei ana 
+      <lb ed="#B" n="37"/>logiam proferatur ac infirmis scandalum, adversarii 
+      <lb ed="#B" n="38"/>deridendi materia exhibeatur, quod in iisdem de 
+      <lb ed="#B" n="39"/>beamus esse parci, ἡδύσμαια sint, non autem ἐδέσματε 
+      <lb ed="#B" n="40"/>quod maximam allegoriis conciliet gratiam, si 
+      fon<lb ed="#B" n="41" break="no"/>tes ejus in ipsis Scripturis monstrentur, qua de re 
+      <lb ed="#B" n="42"/>in loco de Interpret. Script. §. 137. et in 
+      Metho<lb ed="#B" n="43" break="no"/>studii theol. plenius fuit actum 
+      </p>
+            <p xml:id="zef3dd-d1e928-d1e1413">
+               <lb ed="#B" n="44"/>33. Usus practicus est consolatorius. Quot 
+      Chri<lb ed="#B" n="45" break="no"/>sto in Scripturis tribuuntur nomina, totidem exstam 
+      <lb ed="#B" n="46"/>divina et infallibilia de ipsius beneficiis testimonis 
+      <lb ed="#B" n="47"/>Cant. 1. V. 3: Unguentum effusum est nomen ejus 
+      <lb ed="#B" n="48"/>quia suavissimum praebet odorem, quo anima nostr, 
+      <lb ed="#B" n="49"/>reficitur et exhilaratur, ete, 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

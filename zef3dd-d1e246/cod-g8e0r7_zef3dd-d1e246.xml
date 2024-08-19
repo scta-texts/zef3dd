@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="115"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e246"><!-- zef3dd-l1c10 -->
+            <head xml:id="zef3dd-d1e246-Hd1e101">Caput 10</head>
+            <head xml:id="zef3dd-d1e246-Hd1e103" type="question-title">De libris Novi Testamenti canonicis secundi ordinis</head>
+            <p xml:id="zef3dd-d1e246-d1e106">
+               <lb ed="#B" n="18"/>CAPUT X 
+      <lb ed="#B" n="19"/>DE LIBRIS N. T. CANONICIS 
+<lb ed="#B" n="20"/>SECUNDI ORDINIS 
+</p>
+            <p xml:id="zef3dd-d1e246-d1e115">
+               <lb ed="#B" n="21"/>274. Ad canonicos N. T. libros secundi ordini 
+      <lb ed="#B" n="22"/>pertinent: 1. Epistola ad Hebraeos. Et olim in 
+      <lb ed="#B" n="23"/>ccclesia dubitatum fuit et adhuc dubitatur a qui 
+      <lb ed="#B" n="24"/>busdam, an epistola illa sit Paulinis annumerando 
+      <lb ed="#B" n="25"/>Pertullianus, Cyprianus, Lactantius, Arnobius nu 
+      <lb ed="#B" n="26"/>spiam illam citant. Tertullianus semel duntaxa 
+      <lb ed="#B" n="27"/>ejus meminit libr. de pudicit. c. 20. sed asserit. 
+      <lb ed="#B" n="28"/>eam non esse Pauli, sed Barnabae, Eusebius lib. 3 
+      <lb ed="#B" n="29"/>histor. eccles. c. 3. Quatuordecim epistolae Pau 
+      <lb ed="#B" n="30"/>manifestae eunt et perspicuae. Quod autem qui 
+      <lb ed="#B" n="31"/>dam eam, quae ad Hebraeos est, reprobarunt, 
+      <lb ed="#B" n="32"/>Romana illi ecclesia, quasi Pauli non sit, contro 
+      <lb ed="#B" n="33"/>dici asserentes, justum fuerit non ignorare, et qui 
+      <lb ed="#B" n="34"/>de hac dicerint, qui nos praecesserunt, quo loc 
+      <lb ed="#B" n="35"/>adjiciam. libri ejusd. c. 82. Clemens in epistolo 
+      <lb ed="#B" n="36"/>quam in persona Romanae ecclesiae ad 
+      Corinthio<lb ed="#B" n="37" break="no"/>exaravit, multis ceneibus ex epistola ad Hebraeo 
+      <lb ed="#B" n="38"/>scripta adductis, imo et ipsius quibusdam dictioni 
+      <lb ed="#B" n="39"/>bus ad vorbum υσκς πολλὰ νοήματα παραθεὶς, ἢδ 
+      <lb ed="#B" n="40"/>δὲ καὶ αὐτολεξεὶ ῥητοῖς clarissime probat, non ess 
+      <lb ed="#B" n="41"/>cyngramma hoo recens ac novum. Quapropter vi 
+      <lb ed="#B" n="42"/>sum est illuci non immerito reliquio accensendu 
+      <lb ed="#B" n="43"/>eade apontoli ecriptio. Cum enim Hebracis Paulu 
+      <lb ed="#B" n="44"/>ccripto hoc patria linqua locutus sit, alii Lucar 
+      <lb ed="#B" n="45"/>ccangelistam, alii Clementem hanc epistolam inter 
+      <lb ed="#B" n="46"/>pretatum esse dicunt, xml:id quod et magio verita 
+      <lb ed="#B" n="47"/>consonum ob hoc esse videtur, quod et congimilemm 
+      <lb ed="#B" n="48"/>dictionis characterem utraque et Clementio et eo 
+      <lb ed="#B" n="49"/>quae ad Hebraeoe cot epistola continet, et ipsi utri 
+      <lb ed="#B" n="50"/>usque consuo non adeo procul inter ee 
+      distan<lb ed="#B" n="51" break="no"/>lib. 8. hist. c. 20: Venit ad noo Caji disertissim 
+      <lb ed="#B" n="52"/>viri disputatio Romae cub Zephirino contra Pro 
+      <lb ed="#B" n="53"/>clum. Cataphrygarum haeregis propugnatorem moto 
+      <lb ed="#B" n="54"/>in quae ut advereae partio temeritatem et audaciam 
+      <!--188.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="55"/>qua novas quasdam scripturas adducebant, obti 
+      <lb ed="#B" n="56"/>raret, tredecim tantum cancti apostoli epistolarur 
+      <lb ed="#B" n="57"/>meminit, eam quae ad Hebraeoe est, reliquis non 
+      <lb ed="#B" n="58"/>annumerans. Nam hucusque etiam a Romanis qui 
+      <lb ed="#B" n="59"/>busdam non putatur esse apostoli. Origenes in 
+      <lb ed="#B" n="60"/>homil. super illam epist. apud Euseb. lib. 6. histor 
+      <lb ed="#B" n="61"/>2. 25. Character dictionis epistolae ad Hebraeos 
+      <lb ed="#B" n="62"/>inecriptae non habet in verbis phrasin apostoli ro 
+      <lb ed="#B" n="63"/>ἰδεωτικὸν ἐν λόγῳ qui confessua est, se xml:idiotam esso 
+      <lb ed="#B" n="64"/>cermone, h. e. dictione. Sod eot ea epistola compo 
+      <lb ed="#B" n="65"/>gitione dictionie admodum Graeca ἐν συνθέσει τῆς 
+      <lb ed="#B" n="66"/>λέξεως ἐλληνικωτέρα. Fatebitur hoc quisquis perr 
+      <lb ed="#B" n="67"/>tiam habet discernendi inter phrases. Rursua quod 
+      <lb ed="#B" n="68"/>epistolae hujus seneus praeclari eint et illis literis 
+      <lb ed="#B" n="69"/>quae eine contradictione apostolicae sunt, haudqua 
+      <lb ed="#B" n="70"/>quam inferiores, et hoc verum esse confitebitus 
+      <lb ed="#B" n="71"/>quisquis apostolicae lectioni diligenter attendit 
+      <lb ed="#B" n="72"/>Et postea: Ego vero, ut meam sententiam proferam 
+      <lb ed="#B" n="73"/>dixerim, census hujus epistolae apostoli esse, phragis 
+      <lb ed="#B" n="74"/>vero et etructuram alterius cujusdam esse, qui dicto 
+      <lb ed="#B" n="75"/>apostolica annotarit et velut scholia quaedam, quae 
+      <lb ed="#B" n="76"/>a praeceptore audivit, redegerit, est ἀπομνημονεν 
+      <lb ed="#B" n="77"/>σαντός τινος postolica et quasi σχολιογραφήσαντος 
+      <lb ed="#B" n="78"/>quae a praeceptore dicta. Itaque si quae ecolesi 
+      <lb ed="#B" n="79"/>epistolam hanc tanquam Pauli habuerit, 
+      comple<lb ed="#B" n="80" break="no"/>ctatur eam et approbet etiam hoc nomine εὐδοκι¬ 
+      <lb ed="#B" n="81"/>μείτω καὶ ἐπὶ τούτῳ, non onim eam praeter 
+      ratio<lb ed="#B" n="82" break="no"/>nem priaci viri Pauli esse tradiderunt. Quis illam 
+      <lb ed="#B" n="83"/>scripserit, Deus novit, ad nos vero historia 
+      perv<lb ed="#B" n="84" break="no"/>nit, quod quidam eam a Clemente Romanorum 
+      <lb ed="#B" n="85"/>episcopo, quidam vero a Luca, qui et evangelium 
+      <lb ed="#B" n="86"/>et Acta dedit, scriptam esse dicant. Naxianzen. in 
+      <lb ed="#B" n="87"/>pist. ad Seleucum scribit: Epistolam ad Hebraeo 
+      <lb ed="#B" n="88"/>spuriam a quibusdam haberi. Hieronymus in catal 
+      <lb ed="#B" n="89"/>viror. illustr. in Cajo: Cajus quidam antiquue e 
+      <lb ed="#B" n="90"/>doctus auctor Pauli non plures quam tredecin 
+      <lb ed="#B" n="91"/>epistolas reconsuit, decimam quortam, quae fertur 
+      <lb ed="#B" n="92"/>ad Hebraeos, dicit non esse ejus, sed et apud 
+      Ro<lb ed="#B" n="93" break="no"/>manos usque hodie quasi Pauli apostoli non habe 
+      <lb ed="#B" n="94"/>tur. Ibid. in Paulo: Epistola, quae fertur ac 
+      <lb ed="#B" n="95"/>Hebraeos, non ejus creditur propter stili 
+      cermonia<lb ed="#B" n="96" break="no"/>que dissonantiam. In c. 6. Esa. Latina conque 
+      <lb ed="#B" n="97"/>tudo hanc epistolam non recipit. In cap. 8. Esa. 
+      <lb ed="#B" n="98"/>Latina ecclesia epistolam ad Hebraeos inter 
+      cano<lb ed="#B" n="99" break="no"/>nicas Scripturas non recipit. In c. 50. Esa. Dic. 
+      <lb ed="#B" n="100"/>tur et in epistola, quae fertur ad Hebraeos. In e 
+      <lb ed="#B" n="101"/>31. Jerem. Hoc testimonio Paulus apostoluo, eive 
+      <lb ed="#B" n="102"/>quia aliue scripeit epistolam, usus est ad 
+      Hebraeo<lb ed="#B" n="103" break="no"/>in c. 8. Zachar. Si tamen in suscipienda epistola 
+      <lb ed="#B" n="104"/>Graecorum auctoritate Latina lingua non respuit. 
+      <lb ed="#B" n="105"/>In c. 26. Matth. scribit: quod de ea multi Latino 
+      <lb ed="#B" n="106"/>rum dubitaverint. Augustinus de hac epistola 
+      fre<lb ed="#B" n="107" break="no"/>quenter ac si dubiae esset auctoritatis loquitur, ut 
+      <lb ed="#B" n="108"/>videre licet in Enchir. c. 8. lib. 1. de peccat. merit 
+      <lb ed="#B" n="109"/>et remiss. c. 27. etc. lib. 10. de civit. Dei e. 5. si. 
+      <lb ed="#B" n="110"/>loquitur: In epistola, quae inscribitur ad Hebraeos 
+      <lb ed="#B" n="111"/>in quem locum sic commentatur Vives: Significat 
+      <lb ed="#B" n="112"/>incertum esse auctorem. lib. 16. de civit. Dei c. 23 
+      <lb ed="#B" n="113"/>Epistolam ad Hebraeos plures apostoli Pauli ess 
+      <lb ed="#B" n="114"/>dicunt, quidam vero negant, in quem locum Vivel 
+      <!--189.xml-->
+      <pb ed="#B" n="116"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>sic commentatur: Hieronymus, Origenes, Augustinus 
+      <lb ed="#B" n="2"/>et alii veterum de hoc ambigunt. Ante aetatem 
+      <lb ed="#B" n="3"/>Hieronymi ea epistola a Latinis non erat recepto 
+      <lb ed="#B" n="4"/>inter sacras. Platina in vita Petri p. 10: Quae ad 
+      <lb ed="#B" n="5"/>Hebraeos Pauli nomine circumfertur, incerta habe 
+      <lb ed="#B" n="6"/>batur propter stili sermonisque differentiam, 
+      eran<lb ed="#B" n="7" break="no"/>etiam olim, qui hanc et Lucae et Barnabae et Clo 
+      <lb ed="#B" n="8"/>menti adscriberent. Cajetanus negat esse 
+      canon<lb ed="#B" n="9" break="no"/>cam epistolam, cum ex seusu typico 2. Sam. 7. ac 
+      <lb ed="#B" n="10"/>ternitatem Christi probet c. I. v. 5. Sixtus Senens 
+      <lb ed="#B" n="11"/>lib. 7. BibI. dicit: eam a quibusdam tribui Tertul 
+      <lb ed="#B" n="12"/>liano, quae sententia perquam absurda est, cur 
+      <lb ed="#B" n="13"/>ipse Tertullian. eam Barnabae tribuat, Erasm. in 
+      <lb ed="#B" n="14"/>aunot. Act. 1. p. 199. Sero recepta est epist. 
+      a<lb ed="#B" n="15" break="no"/>Hebraeos. in c. 2. Hebr. p. 493. Stapulensis v 
+      <lb ed="#B" n="16"/>jus trahit interpretem epistolae, qui quidem quis 
+      <lb ed="#B" n="17"/>nam fuerit, incertum est, ut parum probabile si 
+      <lb ed="#B" n="18"/>ipsam epistolam a Paulo fuisse conscriptum. 
+      San<lb ed="#B" n="19" break="no"/>cunt, qui Lucam putent interpretem fuisse p. 49. 
+      <lb ed="#B" n="20"/>Incertum, an Paulus sit hujus epistolae auctor. On 
+      <lb ed="#B" n="21"/>nium latissime hac de re disputat sub finem ep 
+      <lb ed="#B" n="22"/>ctolae. p. 517. ubi dicit, quod a stilo Pauli, quar 
+      <lb ed="#B" n="23"/>tum ad phrasin, longe lateque discrepet, sed 
+      a<lb ed="#B" n="24" break="no"/>spiritum ac pectus Paulinum vehementer accedat 
+      <lb ed="#B" n="25"/>Item: quod compluribus indiciis, ei non certis 
+      <lb ed="#B" n="26"/>tamen probabilibus colligi possit, ab alio quopiam 
+      <lb ed="#B" n="27"/>quam a Paulo fuisse scriptam. Ex nostris B 
+      <lb ed="#B" n="28"/>Luther. in c. 48. Genes. fol. 643 Apollo huju 
+      <lb ed="#B" n="29"/>epistolae auctorem esse arbitratur. In 
+      praefa<lb ed="#B" n="30" break="no"/>hujus epist. statuit, eam nec Pauli, nec alterius 
+      <lb ed="#B" n="31"/>apostoli esse, cum auctor illius c. 2, v. 3. profitea. 
+      <lb ed="#B" n="32"/>tur ae apostolorum discipulum, quod de se 
+      Paulu<lb ed="#B" n="33" break="no"/>neget. Galat. 1, v. 12. cumque c. 6, v. 4. et c. 10. 
+      <lb ed="#B" n="34"/>v. 26. videatur peccantibus post baptismum poent 
+      <lb ed="#B" n="35"/>tentiam denegare, concludit tamen, esse pulcherri 
+      <lb ed="#B" n="36"/>mam et maxime insignem epistolam a discipulo 
+      <lb ed="#B" n="37"/>quodam apostolorum scriptam. D. Hunnius in c. 2. 
+      <lb ed="#B" n="38"/>Hebr. p. 48. et in exam. Bellarm. lib. I. de verb. 
+      <lb ed="#B" n="39"/>Dei c. 17, p. 133. itidem negat, esse eam a 
+      Paul<lb ed="#B" n="40" break="no"/>scriptam. D. Lucas Osiander in praefat. super 
+      <lb ed="#B" n="41"/>epist. Quod non eit Pauli probatur, quia phrasi 
+      <lb ed="#B" n="42"/>non est Paulina et quia auctor se apostolorum di 
+      <lb ed="#B" n="43"/>scipulum profitetur, quod de se negat Paulus. Tri 
+      <lb ed="#B" n="44"/>buenda fortasse Barnabae aut Apollo, magis tame 
+      <lb ed="#B" n="45"/>huic, quia faventiori fuit spiritu. D. Andrea 
+      <lb ed="#B" n="46"/>Osiander in anal. de eccles. contra Greg. de Valen. 
+      <lb ed="#B" n="47"/>p. 484. Spiritu apostolico est exarata, Paulina vero 
+      <lb ed="#B" n="48"/>non est. D. Menzerus in Apol. cont. Pistor. p. 247 
+      <lb ed="#B" n="49"/>Cujus auctoris sit illa epistola, fateor me ignorare 
+      <lb ed="#B" n="50"/>Nam Pauli non esse tum argumenta alia, tum in 
+      <lb ed="#B" n="51"/>primis locus e. 2, v. 3. mihi plane persuadet. E. 
+      <lb ed="#B" n="52"/>Calvinianis Beza, Hemmingius, Aretius, Witakerus in 
+      <lb ed="#B" n="53"/>medio relinquunt, cujus sit; Calvinus, Marloratus 
+      <lb ed="#B" n="54"/>Arminius Pauli eam esse negant. Ex Photinianis 
+      <lb ed="#B" n="55"/>Enjedinus negat hanc epistolam esse canonican 
+      <lb ed="#B" n="56"/>quia c. 11, v. 21. c. 9, v. 19. et 1. ex Scriptura 
+      <lb ed="#B" n="57"/>V. T. citentur, quae ibi non exstent, et quia non 
+      <lb ed="#B" n="58"/>nulla haud satis dextre referantur c. 1, v. 6. c. 10. 
+      <lb ed="#B" n="59"/>v. 5. 13. 16. Socin. tamen de auctorit. Script. p. 70 
+      <lb ed="#B" n="60"/>epistolam ad Hebraeos Pauli esse agnoscit in solut 
+      <!--189.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>scrupul. p. 34. divinum scriplorem vocat illius 
+      episto<lb ed="#B" n="62" break="no"/>lae auctorem. In thesibus de officio Christi §. 4. 
+      <lb ed="#B" n="63"/>Cur epistola ad Hebraeos auctoritatem non debea 
+      <lb ed="#B" n="64"/>habere in controversis qq. decidendis, nullam catio 
+      <lb ed="#B" n="65"/>firmam rationem afferri posse existimamus 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e477">
+               <lb ed="#B" n="66"/>273. Contra vero quidam ex veteribus et recen 
+      <lb ed="#B" n="67"/>tioribus hanc epistolam et canonicam et Paulinam 
+      <lb ed="#B" n="68"/>esse astruunt. Clemens Alexandr. libr. hypotypos 
+      <lb ed="#B" n="69"/>referente Eusebio lib. 6. hist. eccles. c. 11. 
+      Mani<lb ed="#B" n="70" break="no"/>feste Pauli est haec epistola, scripta quidem ser 
+      <lb ed="#B" n="71"/>none Hebraeo Hebraeis, sed a Luca in Graecum 
+      <lb ed="#B" n="72"/>interpretata. Sub nomine Pauli ponitur in catalog 
+      <lb ed="#B" n="73"/>sanctarum Scripturarum a concilio Laodiceno can. 55. 
+      <lb ed="#B" n="74"/>Carthaginiensi 3. can. 47. Rom. sub Gelasio eto 
+      <lb ed="#B" n="75"/>Paulinis epistolis annumeratur ab Athanasio in 
+      Syn<lb ed="#B" n="76" break="no"/>ipsi, Cyrillo lib. 12. thesauri c. 9. Nazianzeno in 
+      <lb ed="#B" n="77"/>carminibus, Amphilochio in carm. ad Seleucum 
+      <lb ed="#B" n="78"/>Chrysostomo <!-- line coord error --> 
+      <lb ed="#B" n="79"/>in comment. epist. Epiphanio 
+      <lb ed="#B" n="80"/>haeres. 76. Damasceno lib. 4. c. 18. ete. Dionys 
+      <lb ed="#B" n="81"/>in epist. ad Tit. sub Pauli nomine eam citat 
+      <lb ed="#B" n="82"/>Theophylactus miratur eorum impudentiam, qui xml:id 
+      <lb ed="#B" n="83"/>negant. Athanas. dial. 1. de Trin. ἀφ᾽ οὐ κατηγ¬ 
+      <lb ed="#B" n="84"/>γέλη τὸ εὐαγγέλιον Χριστοῦ, Παύλου εἶναι πεπίστευ 
+      <lb ed="#B" n="85"/>αἱ ἡ ἐπιστολή, ex quo annuntiatum est evangelium 
+      <lb ed="#B" n="86"/>Christi, hanc epistolam Pauli esse creditum fuit 
+      <lb ed="#B" n="87"/>Philast. in catal. haeres. inter haereticos numerat 
+      <lb ed="#B" n="88"/>qui eam epistolam vel rejiciunt, vel Pauli esse ne 
+      <lb ed="#B" n="89"/>gant. Ex Latinis etiam patribus quidam agno 
+      <lb ed="#B" n="90"/>seunt, eam epistolam esse Paulinam. Hieronyn 
+      <lb ed="#B" n="91"/>epist. 29. ad Dardanum: Illud nostris dicendum 
+      <lb ed="#B" n="92"/>est, hanc epistolam, quae ad Hebraeos inscribitur 
+      <lb ed="#B" n="93"/>non solùm ab ecclesiis orientis, sed ab omnibu 
+      <lb ed="#B" n="94"/>cetro ecclesiis et Graeci sermonis scriptoribus quavi 
+      <lb ed="#B" n="95"/>Pauli suscipi, licet plerique eam vel Barnabae 
+      <lb ed="#B" n="96"/>vel Clementis arbitrantur, et nihil interesse cujus 
+      <lb ed="#B" n="97"/>rit, cum ecclesiastici viri sit et quotidie 
+      ecclecia<lb ed="#B" n="98" break="no"/>rum lectione celebretur. Quod si eam Latinorum 
+      <lb ed="#B" n="99"/>consuetudo non recipit inter Scripturas canonicas 
+      <lb ed="#B" n="100"/>nec Graecorum quidem eccleciae Apocalypein 
+      Jo<lb ed="#B" n="101" break="no"/>hannis eadem libertate suscipiunt, et tamen 
+      no<lb ed="#B" n="102" break="no"/>itrumque suscipimus, nequaquam hujus temporis 
+      <lb ed="#B" n="103"/>consuetudinem, sed veterum auctoritatem sequentes. 
+      <lb ed="#B" n="104"/>qui plerumque utriusque utuntur testimoniis, non ut 
+      <lb ed="#B" n="105"/>interdum de apocryphis facere colent, quippe 
+      e<lb ed="#B" n="106" break="no"/>qentilium literarum non raro utuntur exemplis, seo 
+      <lb ed="#B" n="107"/>quasi canonicis ecclesiasticis. Hilarius lib. 12. de 
+      <lb ed="#B" n="108"/>Trinitat. Ambrosius libr. 2. de Cain. c. 2. August. 
+      <lb ed="#B" n="109"/>lib. 2. de doctrin. Christ. c. 8. Rufin. in Symb. 
+      <lb ed="#B" n="110"/>Avitus Viennensis in carm. Isidor. lib. 6. originum. 
+      <lb ed="#B" n="111"/>Cassiodor. lib. 1. div. lect. c. 4. eam ut Paulinam 
+      <lb ed="#B" n="112"/>allegant. Ambros. in psalm. 119. voeat Paulinam. 
+      <lb ed="#B" n="113"/>inque eam ut Paulinam commentarios scripsit. 
+      Gre<lb ed="#B" n="114" break="no"/>gor. libr. 5. moral. c. 3. eam citat. Ex recentiori 
+      <lb ed="#B" n="115"/>bus xml:idem statuunt Flacius in annot. N. T. in prooem 
+      <lb ed="#B" n="116"/>hujus epist. Chytraeus in Onomast. p. 186. 
+      Palla<lb ed="#B" n="117" break="no"/>dius in Isag. Bibl. Gesnerus in comp. doctr. coelest 
+      <lb ed="#B" n="118"/>loc. 1. p. 13. atque alii complures. Ex Calvinianis 
+      <lb ed="#B" n="119"/>plerique omnes xml:id docent Calvin. lib. 3. c. 3. §. 21. 
+      <lb ed="#B" n="120"/>Quidam boni viri offensi asperitate locorum Hebi 
+      <lb ed="#B" n="121"/>6. et IO. hanc cuppoeititiam epistolam crediderunt, 
+      <!--190.xml-->
+      <pb ed="#B" n="117"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>quae omni tamen ex parte spiritum apostolicum 
+      <lb ed="#B" n="2"/>vere redolet. Witak. controv. de Script. 1. quaest. 
+      <lb ed="#B" n="3"/>e. 18. epistolam hanc esse omni modo canonican 
+      <lb ed="#B" n="4"/>concedimus universi, sed num a Paulo apostol 
+      <lb ed="#B" n="5"/>conscripta fuerit, non perinde liquet. Paraeus 
+      <lb ed="#B" n="6"/>disput. de Script. thes. 106. Epistolam ad 
+      He<lb ed="#B" n="7" break="no"/>braeos esse Pauli, eoque divinam et canonicam evi 
+      <lb ed="#B" n="8"/>denter deducitur ex Scriptura 2. Thess. 3, v. 17 
+      <lb ed="#B" n="9"/>Confer Piscat. in anal. Keckerm. syst. theol. p. 184. 
+      <lb ed="#B" n="10"/>Ex Pontificiis Lindanus lib. 4. panop. c. 100. affi. 
+      <lb ed="#B" n="11"/>mat: non minus credendum esse eam a Paulo scri 
+      <lb ed="#B" n="12"/>ptam, quam esse Scripturam canonicam. Bellai 
+      <lb ed="#B" n="13"/>lib. 1. de verb. Dei c. 17. Et canonicam et 
+      Pau<lb ed="#B" n="14" break="no"/>csse facillime probari posse asserit. Idem statui 
+      <lb ed="#B" n="15"/>Estius in praef. h. epist. 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e643">
+               <lb ed="#B" n="16"/>276. Nec desunt argumenta, quibus probari possi 
+      <lb ed="#B" n="17"/>esse hanc epistolam a Paulo scriptam. 1. Auctor 
+      hu<lb ed="#B" n="18" break="no"/>jus epistolae commendat celebrem quendam 
+      disci<lb ed="#B" n="19" break="no"/>pulum Timotheum c. 13, v. 23. At nemo talem 
+      ha<lb ed="#B" n="20" break="no"/>buit praeter apostolum Paulum. Hoc argumentum 
+      <lb ed="#B" n="21"/>urget Oecumenius in praefat. hujus epistol. 2. 
+      Au<lb ed="#B" n="22" break="no"/>ctor epistolae meminit vinculorum c. 10, v. 33. 
+      <lb ed="#B" n="23"/>Idem solenne est apostolo Paulo Philip. 1, v. 7. e 
+      <lb ed="#B" n="24"/>sqq. Coloss. 4. v. 18. 2. Tim. 2. v. 9. Philem. v. 9. e. 
+      <lb ed="#B" n="25"/>10. 3. Majestas vere apostolica et Spiritus vere divi 
+      <lb ed="#B" n="26"/>nus ex multis indiciis colligitur. 4. Multa cum 
+      <lb ed="#B" n="27"/>Paulo axiomata habet eadem. Conferantur Hebr. 1. 
+      <lb ed="#B" n="28"/>v. 2. et 3. cum Coloss. 1, v. 14. 13. 16. 17. Item 
+      <lb ed="#B" n="29"/>Hebr. 5, v. 12. et 13. cum 1. Cor. 3, v. 1. et: 
+      <lb ed="#B" n="30"/>Item Hebr. 9, v. 15. cum Rom. 3, v. 25. Iten 
+      <lb ed="#B" n="31"/>Hebr. 10, v. 34. cum 1. Thessal. 2, v. 14. Item 
+      <lb ed="#B" n="32"/>Hebr. 11, v. 11. et 12. cum Rom. 4, v. 18. et 15 
+      <lb ed="#B" n="33"/>Item Hebr. 12, v. 1. cum 1. Cor. 9, v. 24. Iter 
+      <lb ed="#B" n="34"/>Hebr. 13, v. 9. cum Eph. 4. v. 14. Item Hebr. 1. 
+      <lb ed="#B" n="35"/>v. 15. et 16. cum Rom. 12, v. 1. et 2. Item Heb. 
+      <lb ed="#B" n="36"/>13, v. 18. cum 2. Cor. 1, v. 11. et 12. etc. 5. Petru 
+      <lb ed="#B" n="37"/>2. epist. 3, v. 14 testatur, Paulum ad Hebraeo 
+      <lb ed="#B" n="38"/>scripsisse, quando dicit: Sicut et carus frater noster 
+      <lb ed="#B" n="39"/>Paulus scripsit vobis scilicet Hebraeis, ad illo 
+      <lb ed="#B" n="40"/>enim scriptam esse Petri epistolam priorem collig 
+      <lb ed="#B" n="41"/>tur ex c. 1, v. 1. ad eosdem etiam posteriorem 
+      <lb ed="#B" n="42"/>scriptam colligitur ex c. 3, v. 1. Aut ergo epistola 
+      <lb ed="#B" n="43"/>illa interiit, aut haec ipsa est. Interiisse non es 
+      <lb ed="#B" n="44"/>verisimile, cum divino beneficio conservata sit 
+      epi<lb ed="#B" n="45" break="no"/>stola ad Philemonem, quae brevis est et de negoti 
+      <lb ed="#B" n="46"/>duntaxat privato videtur agere. Cumque tot epi 
+      <lb ed="#B" n="47"/>stolas ad ecclesias ex gentibus collectas apostolus 
+      <lb ed="#B" n="48"/>scripserit, verisimile est, quod ad Hebraeos legi di 
+      <lb ed="#B" n="49"/>vinae innutritos prolixe et accurate de mysterio sa 
+      <lb ed="#B" n="50"/>lutis per Christum scripserit. Illud vero in 
+      ha<lb ed="#B" n="51" break="no"/>epistola fieri res ipsa loquitur. 6. Petrus e 
+      <lb ed="#B" n="52"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="53"/>testatur, Paulum ad Hebraeos scripsisse de illi 
+      <lb ed="#B" n="54"/>ipsis rebus, de quibus ipse in sua epistola ad eos 
+      <lb ed="#B" n="55"/>scribit. Jam vero collatio ostendit, eadem tractar 
+      <lb ed="#B" n="56"/>in epistola Petri et in hac ad Hebraeos epistola 
+      <lb ed="#B" n="57"/>Docet Petrus, per Christum esse donata nobis om 
+      <lb ed="#B" n="58"/>nia, quae ad vitam pertinent, Christum esse Dei 
+      <lb ed="#B" n="59"/>Pilium et Mediatorem nostrum, de quo prophetas 
+      <lb ed="#B" n="60"/>vaticinati sint. Idem prolixe ostendit auctor epistola 
+      <lb ed="#B" n="61"/>ad Hebraeos. Petrus hortatur Hebraeos ad studium 
+      <!--190.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>pietatis et sanctitatis, ac graviter praemonet de 
+      exi<lb ed="#B" n="63" break="no"/>tio, quod manet apostatas. Idem prolixe inculcat 
+      <lb ed="#B" n="64"/>auctor epistolae ad Hebraeos. 7. Petrus dicit, 
+      Pau<lb ed="#B" n="65" break="no"/>lum scripsisse pro data eibi sapientia. At divine 
+      <lb ed="#B" n="66"/>illa sapientia in sententiis ac verbis hujus epistolae 
+      <lb ed="#B" n="67"/>elucet. 8. Petrus ibidem testatur inter ea, de quibu 
+      <lb ed="#B" n="68"/>Paulus in epistola ad Hebraeos et in reliquis episto 
+      <lb ed="#B" n="69"/>lis scribit, esse quaedam δυστνόηνα, quae indocti po 
+      <lb ed="#B" n="70"/>rumque stabiles detorquent. Atqui talia occurru 
+      <lb ed="#B" n="71"/>cap. 6. et 10. epistolae ad Hebraeos. 9. Paulus 
+      <lb ed="#B" n="72"/>2. Thess. 3, v. 17 affirmat, se omnes epistolas suas 
+      <lb ed="#B" n="73"/>claudere hominum verborum subscriptione: Gratio 
+      <lb ed="#B" n="74"/>Domini nostri Jesu Christi sit cum omnibus vobis 
+      <lb ed="#B" n="75"/>amen. Et hoc ipso signo epistolas suas vult 
+      agno<lb ed="#B" n="76" break="no"/>sci et a reliquis discerni. Jam vero illa clausula in 
+      <lb ed="#B" n="77"/>fine hujus epistolae reperitur c. 13. v. 28. 10. Ea 
+      <lb ed="#B" n="78"/>dem methodus observatur in hac epistola, quae in 
+      <lb ed="#B" n="79"/>reliquis Paulinis animadvertitur. Primum namque 
+      <lb ed="#B" n="80"/>exponitur mysterium salutis per Christum nobis 
+      <lb ed="#B" n="81"/>latae, et ex illo postea deducuntur adhortationes ac 
+      <lb ed="#B" n="82"/>studium pietatis 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e797">
+               <lb ed="#B" n="83"/>277. Argumenta, quae in contrarium afferuntur 
+      <lb ed="#B" n="84"/>potiora haec sunt: 1. Paulus in suis epistolis colet 
+      <lb ed="#B" n="85"/>nomen suum praeponere, xml:id vero in hac 
+      epistol<lb ed="#B" n="86" break="no"/>non est factum. Resp. Hieron. praefat. in epist 
+      <lb ed="#B" n="87"/>Pauli κατὰ βίαιον respondet, si xml:ideo Pauli non est 
+      <lb ed="#B" n="88"/>quod Pauli nomen non praeferat, igitur nullius erit 
+      <lb ed="#B" n="89"/>cum nullius praeferat titulum. Prima Johannis it 
+      <lb ed="#B" n="90"/>dem non habet in titulo nomen adjectum, nem 
+      <lb ed="#B" n="91"/>tamen dubitat, quin sit Johannis. Alii respondent 
+      <lb ed="#B" n="92"/>Paulum propterea noluisse expressam nominis 
+      su<lb ed="#B" n="93" break="no"/>mentionem facere, quia noverat illud Hebraeis fuisse 
+      <lb ed="#B" n="94"/>invisum, quippe qui fama acceperant, quod docea 
+      <lb ed="#B" n="95"/>homines a lege deficere. Paulum igitur omissione 
+      <lb ed="#B" n="96"/>nominis praecavere voluisse, ne Hebraei viso titulo 
+      <lb ed="#B" n="97"/>statim abjicerent epistolam. Ita Athanas. Dial. 1. 
+      <lb ed="#B" n="98"/>de S. Trinit. Quidam respondent, salutationem 
+      a<lb ed="#B" n="99" break="no"/>nomen propterea omissum, quod haec epistola 
+      scri<lb ed="#B" n="100" break="no"/>pta sit per modum libri, non per modum epistolae 
+      <lb ed="#B" n="101"/>in fine enim dicit, etenim perpaucis scripei vobis 
+      <lb ed="#B" n="102"/>quod de epistola non erat dicturus, cum sit epistola 
+      <lb ed="#B" n="103"/>prolixa. Hieronymus in cap. 1. ad Galat. aliam 
+      <lb ed="#B" n="104"/>omissi nominis rationem affert: Quia apostolus in 
+      <lb ed="#B" n="105"/>lac epistola cap. 3, v. 1 nominaturus erat Christur 
+      <lb ed="#B" n="106"/>apostolum confessionis nostrae, noluit initio se moro 
+      <lb ed="#B" n="107"/>solito Paulum apostolum nominare, ne videretur 
+      <lb ed="#B" n="108"/>se cum Christo aliqua ex parte conferre. Vide 
+      <lb ed="#B" n="109"/>sententiam Clementis Alexandrini apud Eusebium 
+      <lb ed="#B" n="110"/>ib. 6. Histor. c. 13. Theodoretus praefat. in 
+      han<lb ed="#B" n="111" break="no"/>epist et ex eo Thomas in comment respondent 
+      <lb ed="#B" n="112"/>nomen xml:ideo omissum, quod Paulus non fuerit 
+      apo<lb ed="#B" n="113" break="no"/>stolus Judaeorum sed gentium Galat. 2, v. 9. 1. T. 
+      <lb ed="#B" n="114"/>moth. 1, V. 7. Sed hoc nequaquam accipiendum, 
+      <lb ed="#B" n="115"/>exclusive, verum duntaxat comparate, saepius enim 
+      <lb ed="#B" n="116"/>etiam Judaeis apostolus praedicavit Actor. 13, v. 46 
+      <lb ed="#B" n="117"/>e. 28, v. 23. ete. Beza in annot. testatur, se in 
+      <lb ed="#B" n="118"/>omnibus suis codicibus uno tantum excepto invenisse 
+      <lb ed="#B" n="119"/>hanc inscriptionem: Παύλου τοῦ ἀποστόλου ἡ πρὸς 
+      <lb ed="#B" n="120"/>Ἐβραίους ἐπιστολή. Verisimile igitur nomen 
+      Paul<lb ed="#B" n="121" break="no"/>prius fuisse adscriptum, postea vero sublatum. 2. In. 
+      <!--191.xml-->
+      <pb ed="#B" n="118"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>c. 6, v. 1. et 2. mentio fit catechismi. Atqui mod 
+      <lb ed="#B" n="2"/>ills post Pauli demum aetatem coepisse videtur 
+      <lb ed="#B" n="3"/>Respond. imo vero tempore Pauli jamdum catech 
+      <lb ed="#B" n="4"/>zandi morem fuisse usitatum, patet ex Gal. 6, v. 6 
+      <lb ed="#B" n="5"/>Communicet ὁ κατηχούμενος in sermone ei, qui se 
+      <lb ed="#B" n="6"/>instiluit ex omnibus bonis. Actor. 18, v. 25. et 26 
+      <lb ed="#B" n="7"/>de Apollo dicitur, hic erat κατηχούμενος in vi 
+      <lb ed="#B" n="8"/>Domini. 3. Auctor hujus epistolae c. 2, v. 3. ar 
+      <lb ed="#B" n="9"/>numerat se ipsum discipulis apostolorum. Jam 
+      ver<lb ed="#B" n="10" break="no"/>apostolus Paulus fortiter negat, se quicquam ad 
+      <lb ed="#B" n="11"/>hominibus in evangelio didicisse. Galat. 1, v. 2. 
+      <lb ed="#B" n="12"/>c. 2. v. 6. Bellarminus respondet, Paulum hic non 
+      <lb ed="#B" n="13"/>agere de-confirmatione per doctrinam, de qua in 
+      <lb ed="#B" n="14"/>epistola ad Galatas agit, sed de confirmatione 
+      pe<lb ed="#B" n="15" break="no"/>miracula, dicit enim salutem, h. e. salutis praedica 
+      <lb ed="#B" n="16"/>tionem confirmatam esse per apostolos, 
+      contestan<lb ed="#B" n="17" break="no"/>Deo signis et prodigiis. Simplicius respondetur 
+      <lb ed="#B" n="18"/>haec esse intelligenda per ἀνακοίνωσιν sive κοινο 
+      <lb ed="#B" n="19"/>ποιῖαν, qua is qui loquitur vel scribit, auditoribi 
+      <lb ed="#B" n="20"/>ac lectoribus se associat et quae ad ipsos 
+      propri<lb ed="#B" n="21" break="no"/>pertinent, ad se transfert, qualia exempla occurrur 
+      <lb ed="#B" n="22"/>Esa. 53, v. 3. 1. Cor. 4, v. 6. c. 11, v. 31. 3. 
+      <lb ed="#B" n="23"/>c. 15, v. 51. 1. Thess. 4. v. 17. cumprimis I. Petr.. 
+      <lb ed="#B" n="24"/>v. 3. et in hac ipsa epist. e. 3, v. 6. et 14. qui 
+      <lb ed="#B" n="25"/>et hoc ipso c. 2, v. 3. 4. In c. 6. et 10. videtu 
+      <lb ed="#B" n="26"/>negare peccantibus post baptismum poenitentiam 
+      e<lb ed="#B" n="27" break="no"/>remissionem. In e. 12, v. 17 Esau dicitur 
+      no<lb ed="#B" n="28" break="no"/>invenisse locum poenitentiae, haec videntur 
+      adve<lb ed="#B" n="29" break="no"/>sari fidei analogiae. Resp. hoc argumento non so 
+      <lb ed="#B" n="30"/>lum auctor hujus epistolae, sed etiam ipsa canonie 
+      <lb ed="#B" n="31"/>auctoritas in dubium vocaretur, quod tamen neme 
+      <lb ed="#B" n="32"/>facile dixerit. Quo loca illa sint accipienda, in art 
+      <lb ed="#B" n="33"/>de poenit. et de pecc. actual. fuit expositum 
+      <lb ed="#B" n="34"/>5. Usque ad Hieronymi aetatem non fuit recepti 
+      <lb ed="#B" n="35"/>(a Latinis. Resp. hac de re judicium fieri potest e 
+      <lb ed="#B" n="36"/>illis, quae in utramque partem ex veteribus sunt ad 
+      <lb ed="#B" n="37"/>ducta. Bellarm. asserit: Latinos omnes post Lactan 
+      <lb ed="#B" n="38"/>tium hanc epist. agnoscere ut Paulinam, cum tamer 
+      <lb ed="#B" n="39"/>Hieron. Laetantio ducentis fere annis recentior in 
+      <lb ed="#B" n="40"/>c. 8. Esa dicat: Latinam ecclesiam hanc epist. 
+      no<lb ed="#B" n="41" break="no"/>recipere. 6. Citantur in ea nonnulla velut de ve 
+      <lb ed="#B" n="42"/>teri Instrumento, quae apud Hebraeos non 
+      haben<lb ed="#B" n="43" break="no"/>tur, utpote Hebr. 12, v. 21. Et Moyses (adeo ter 
+      <lb ed="#B" n="44"/>ribile erat visum, quod apparebat) dixit: Expave 
+      <lb ed="#B" n="45"/>factus sum ac tremebundus, jam vero non est me 
+      <lb ed="#B" n="46"/>apostolorum uti testimoniis apocryphorum. Res 
+      <lb ed="#B" n="47"/>Paulus etiam ex gentilibus quaedam citavit, vide 
+      <lb ed="#B" n="48"/>licet ex Arato, Menandro, Epimenide. Probabile 
+      <lb ed="#B" n="49"/>est, Paulum haec habuisse ex traditione, sicut etiam 
+      <lb ed="#B" n="50"/>nomine magorum Jannes et Jambres. 2. Tim. 3, v. . 
+      <lb ed="#B" n="51"/>Thomas Aquinas respondet, Moysen hoc ipso facte 
+      <lb ed="#B" n="52"/>dixisse. Quidam respondent, Exod. 19, v. 19 nar 
+      <lb ed="#B" n="53"/>rari de Moyse, quod cum hoc loco consentit, vide 
+      <lb ed="#B" n="54"/>licet cum sonus tubae invalesceret, locutum fuisse 
+      <lb ed="#B" n="55"/>Uoysen et Deum illi respondisse voce; ex quo loc 
+      <lb ed="#B" n="56"/>colliguntur, Moysen sono illo tubae territum de suo 
+      <lb ed="#B" n="57"/>terrore conquestum et blanda voce a Deo erectum 
+      <lb ed="#B" n="58"/>7. Stilus et orationis character nihil affinitatis habe 
+      <lb ed="#B" n="59"/>cum phrasi Paulina. Hieronym. in catal. illusti 
+      <lb ed="#B" n="60"/>in voce Paulus. Resp. contrarium colligitur ex si 
+      <!--191.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>militudine phrasium et ex methodo. Adde quod i 
+      <lb ed="#B" n="62"/>aliis etiam epistolis Paulinis stili quaedam divers 
+      <lb ed="#B" n="63"/>tas occurrat. 8. Auctor epistolae dicit, se non 
+      ja<lb ed="#B" n="64" break="no"/>cere fundamentum doctrinae. cap. 6, v. I. Atqui 
+      <lb ed="#B" n="65"/>illud faciunt apostoli. Resp. per 1ὰ στοιχεῖα in 
+      <lb ed="#B" n="66"/>telligit rudimenta et initia doctrinae pro incipienti 
+      <lb ed="#B" n="67"/>bus, quae hac quidem vice et in hac epistola ponere 
+      <lb ed="#B" n="68"/>non judicabat necessarium, alias vel maxime jeci 
+      <lb ed="#B" n="69"/>fundamenta doctrinae coelestis de persona et officio 
+      <lb ed="#B" n="70"/>Christi, de fide, de remissione peccatorum eto 
+      <lb ed="#B" n="71"/>9. Locus c. 9, v. 4 videtur repuqnare libro cano 
+      <lb ed="#B" n="72"/>nico 1. Reg. 8, v. 9, ubi dicitur: In arca non 
+      fue<lb ed="#B" n="73" break="no"/>runt nisi duae tabulae lapideae. Argumentum hoc 
+      <lb ed="#B" n="74"/>est Cajetani. Respondet Theophylactus: Tempore 
+      <lb ed="#B" n="75"/>Salomonis in arca non fuisse aliud quam tabula 
+      <lb ed="#B" n="76"/>legis, ut dicitur 1. Reg. 8, postea tamen a Judaeis 
+      <lb ed="#B" n="77"/>etiam positas intra arcam, urnam et virgam. Lyra et 
+      <lb ed="#B" n="78"/>Vatablus ex Hebraeis respondent: Mannam et virgan 
+      <lb ed="#B" n="79"/>Adronis primum quidem in arca fuisse, de quo 
+      <lb ed="#B" n="80"/>tempore loquatur epistola ad Hebraeos, postea 
+      ver<lb ed="#B" n="81" break="no"/>ex illa sublata, de quo tempore sermo sit 1. Reg. t. 
+      <lb ed="#B" n="82"/>Quidam relativum j in loco apostolico referunt non 
+      <lb ed="#B" n="83"/>ad nomen proximum κιβωτόν, sed ad remotius, 
+      vid<lb ed="#B" n="84" break="no"/>licet σκηνήν. Quidam respondent, praepositionem 
+      <lb ed="#B" n="85"/>ἐν valere hoc loco xml:idem quod juxta. Utroque mod 
+      <lb ed="#B" n="86"/>verum manet, in arca solas tabulas fuisse, 
+      urn<lb ed="#B" n="87" break="no"/>enim et virga fuerunt coram arca Exod. 16, v. 35 
+      <lb ed="#B" n="88"/>Num. 17, v. 28. 1. Reg. 8. v. 9. Nos dicimus arcae 
+      <lb ed="#B" n="89"/>nomen dupliciter accipi, primo pro toto corpore 
+      <lb ed="#B" n="90"/>arcae, quod complectitur etiam cellulas laterales, in 
+      <lb ed="#B" n="91"/>quibus reposita fuit virga Aaronis et urna cum 
+      <lb ed="#B" n="92"/>manna. Secundo pro interiori et quasi ventre 
+      a<lb ed="#B" n="93" break="no"/>cae, in quo solae tabulae legales fuere repositae 
+      <lb ed="#B" n="94"/>10. Auctor epistolae cap. 1. probat: Christum ess 
+      <lb ed="#B" n="95"/>Filium Dei ex verbis 2. Sam. 7, v. 14. Ego ere 
+      <lb ed="#B" n="96"/>ei in patrem. At haec verba intelliguntur ad lite 
+      <lb ed="#B" n="97"/>eam de Salomone. Jam vero ex solo sensu literale 
+      <lb ed="#B" n="98"/>ducuntur firma argumenta. Cajetan. ibid. Resp. 
+      <lb ed="#B" n="99"/>imo vero apostoli etiam ex allegoriis V. T. firmt 
+      <lb ed="#B" n="100"/>petere possunt argumenta, cum immediato Spiritur 
+      <lb ed="#B" n="101"/>sancti impulsu scripserint. Praeterea 2. Reg. 7. 
+      <lb ed="#B" n="102"/>quaedam habentur, quae in sensu literali Salomon 
+      <lb ed="#B" n="103"/>quaedam vero Christo conveniunt, ut suo loco 
+      ple<lb ed="#B" n="104" break="no"/>nius docetur. 11. Auctor epistolae c. 9, v. 20 
+      lo<lb ed="#B" n="105" break="no"/>quens de testamento proprie dicto, quod mort 
+      <lb ed="#B" n="106"/>testatoris confirmatur, allegat verba Exod. 24, v. 8 
+      <lb ed="#B" n="107"/>Hic est sanquis testamenti, quod mandavit ad vo 
+      <lb ed="#B" n="108"/>Deus. Atqui in Exodo juxta Hebraicam veritatem 
+      <lb ed="#B" n="109"/>nulla fit mentio testamenti, sed pacti. Argumen 
+      <lb ed="#B" n="110"/>tum hoc est Erasmi. Resp. non solum auctor 
+      epi<lb ed="#B" n="111" break="no"/>stolae ad Hebraeos, sed etiam LXX interpr. vocen 
+      <lb ed="#B" n="112"/>17372 perpetuo vertunt διαθήκην testamentum, quis 
+      <lb ed="#B" n="113"/>ipse apostolus ita usurpat Rom. 9, v. 4. Galat. 3. 
+      <lb ed="#B" n="114"/>v. 17. c. 4. v. 24. Idem comprobat res ipsa, quia 
+      <lb ed="#B" n="115"/>promissio illa vitae aeternae in lege veteri 
+      promul<lb ed="#B" n="116" break="no"/>gata diverso respectu fuit foedus et testamentum 
+      <lb ed="#B" n="117"/>ut alibi explicatur 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e1148">
+               <lb ed="#B" n="118"/>278. Huic ergo posteriori sententiae assensum 
+      <lb ed="#B" n="119"/>praebemus ac statuimus, epistolam ad Hebraeos esse 
+      <lb ed="#B" n="120"/>1. ipsius Pauli. 2. esse canonicam, secundi tamen 
+      <!--192.xml-->
+      <pb ed="#B" n="119"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>ordinis, cum a quibusdam in ecclesia de ea olim 
+      <lb ed="#B" n="2"/>fuerit dubitatum. 3. scriptam sermone Graeco. 
+      Cl<lb ed="#B" n="3" break="no"/>mens Alexandr. lib. 4. stromat. Euseb. lib. 3. Hist. 
+      <lb ed="#B" n="4"/>eccles. c. 32. Hieron. in catal. script. illustr. et 
+      <lb ed="#B" n="5"/>alii quidam ex veteribus existimant esse Hebraio 
+      <lb ed="#B" n="6"/>scriptam et in Graecum sermonem conversam vel, 
+      <lb ed="#B" n="7"/>Luca vel a Barnaba, sed ab ipso Paulo Graec 
+      <lb ed="#B" n="8"/>lingua eam exaratam esse verisimilius censemus 
+      <lb ed="#B" n="9"/>1. quia plerisque Judaeis Graeca lingua tunc era 
+      <lb ed="#B" n="10"/>familiaris, maxime iis, qui in minori Asia 
+      degeban<lb ed="#B" n="11" break="no"/>2. Cum Petrus et Jacobus epistolas suas ad Judaeo 
+      <lb ed="#B" n="12"/>dispersos scriptas Graeca lingua exaraverint. Idem 
+      <lb ed="#B" n="13"/>2 Paulo factitatum verisimile est. 3. Cum relique 
+      <lb ed="#B" n="14"/>epistolas omnes Graeca lingua Paulus scripserit 
+      <lb ed="#B" n="15"/>verisimile est, eodem sermonis charactere canonici. 
+      <lb ed="#B" n="16"/>N. T. libris consecuto ipsum in hac quoque usum 
+      <lb ed="#B" n="17"/>4. Apostolus non solum Hebraeis, sed etiam ceteri 
+      <lb ed="#B" n="18"/>gentibus, apud quas lingua Graeca usitata erat, 
+      pe<lb ed="#B" n="19" break="no"/>hanc epistolam consultum voluit 
+      <lb ed="#B" n="20"/>6. Stilus a <!-- line coord error --> 
+      <lb ed="#B" n="21"/>dictio hujus epistolae non Hebraeam, sed Graecam 
+      <lb ed="#B" n="22"/>redolent eloquentiam. 6. Si Hebraice scripta esse 
+      <lb ed="#B" n="23"/>haec epistola, debebant Hebraismi in Graeca ver 
+      <lb ed="#B" n="24"/>sione passim apparere. At rariores sunt in ha 
+      <lb ed="#B" n="25"/>epistola Hebraismi, quam in ceteris. 7. Nullus v. 
+      <lb ed="#B" n="26"/>terum est, qui testetur, se vidisse Hebraicum huju 
+      <lb ed="#B" n="27"/>epistolae exemplar. 8. Scripturae V. T. in e 
+      <lb ed="#B" n="28"/>citantur non juxta fontes Hebrascos, sed juxta vel 
+      <lb ed="#B" n="29"/>sionem LXX interpp. 9. Nomen Hebraicum 
+      Me<lb ed="#B" n="30" break="no"/>chisedec interpretatur regem justitiae, ac Saler 
+      <lb ed="#B" n="31"/>interpretatur pacem. At hoc nullo modo convenis 
+      <lb ed="#B" n="32"/>si Hebraice scripsit. Confer Francisc. Juniur 
+      <lb ed="#B" n="33"/>libr. 3. paral. in c. 9. hujus epist. p. 479. Ex Itali. 
+      <lb ed="#B" n="34"/>per Timotheum eam fuisse missam, subscripti 
+      <lb ed="#B" n="35"/>docet. Chrysostomus addit, Romae ex carcere eam 
+      <lb ed="#B" n="36"/>scriptam. Argumentum epistolae his verbis enarra 
+      <lb ed="#B" n="37"/>Athanasius in Synopsi: Quoniam Judaei legi e 
+      <lb ed="#B" n="38"/>illius umbris incumbebant, eam ob causam Paulu 
+      <lb ed="#B" n="39"/>apostolus doctor gentium factus et ad gente 
+      <lb ed="#B" n="40"/>amandatus, ut evangelium illis praedicaret, cur 
+      <lb ed="#B" n="41"/>omnibus gentibus scripsisset, jam deinceps omnibus 
+      <lb ed="#B" n="42"/>etiam Hebraeis, qui ex circumcisione credideram 
+      <lb ed="#B" n="43"/>opistolam hanc, declarationibus et probationibus 
+      <lb ed="#B" n="44"/>instructam, de Christi adventu et legis umbra, quod 
+      <lb ed="#B" n="45"/>illa desierit, scribit. Thomas annotat, hanc episto 
+      <lb ed="#B" n="46"/>lam scriptam contra errores quorundam, qui et 
+      <lb ed="#B" n="47"/>Judaismo ad fidem Christi conversi volebam 
+      <lb ed="#B" n="48"/>legalia V. T. una cum evangelio observare, quas 
+      <lb ed="#B" n="49"/>gratia Christi ad salutem non sufficeret. Scopi 
+      <lb ed="#B" n="50"/>et summa totius epistolae consistit in eo, quod Jesu 
+      <lb ed="#B" n="51"/>Christus verus Deus et verus homo sit promissu 
+      <lb ed="#B" n="52"/>in V. et exhibitus in N. T. Messias, unicus eccle 
+      <lb ed="#B" n="53"/>siae propheta, rex et sacerdos, Leviticis ceremonii 
+      <lb ed="#B" n="54"/>praefiguratus, a quo totam Dei ecclesiam illuminar 
+      <lb ed="#B" n="55"/>et sanctificari oporteat, cujus evangelium fide 
+      am<lb ed="#B" n="56" break="no"/>plecti et fructus evangelio dignos ferre debeamu 
+      <lb ed="#B" n="57"/>Capitibus constat 13, in quibus agitur 1. de Christo 
+      <lb ed="#B" n="58"/>ejusque persona et officio. 2. de Christianorum offi 
+      <lb ed="#B" n="59"/>ciis, quibus Redemtori suo sese gratos exhibere de 
+      <lb ed="#B" n="60"/>beant, ad quae etiam pertinet patientia in persecutio 
+      <lb ed="#B" n="61"/>nibus propter Christum sufferendis demonstranda
+  </p>
+            <p xml:id="zef3dd-d1e246-d1e1298">
+      <!--192.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>279. 2. Epistola Jacobi. De ea itidem aliquam 
+      <lb ed="#B" n="63"/>diu in ecclesia fuit dubitatum. Euseb. lib. 2. Histor 
+      <lb ed="#B" n="64"/>eccles. c. 23. Jacobi esse dicitur epistola, quae 
+      <lb ed="#B" n="65"/>inter catholicas prima est, ἰστέον δὲ ὡς νοθεύετα 
+      <lb ed="#B" n="66"/>Sciendum autem est, quod non pro genuina judicetur. 
+      <lb ed="#B" n="67"/>non enim multi ex veteribus illius mentionem 
+      fo<lb ed="#B" n="68" break="no"/>ciunt, sicut nec ejus, quae Judae inscribitur, cum 
+      <lb ed="#B" n="69"/>et ipsa sit una ex septem, quae catholicae 
+      appel<lb ed="#B" n="70" break="no"/>lantur. Attamen scimus et istas cum reliquis 
+      po<lb ed="#B" n="71" break="no"/>blice in plurimis ecclesiis legi. (Bellarm. lib. . 
+      <lb ed="#B" n="72"/>de verbo Dei c. 18. arg. 3. mendacii accusat 
+      cen<lb ed="#B" n="73" break="no"/>turiatores Magdeburgenses, quod ex Eusebio 
+      epi<lb ed="#B" n="74" break="no"/>stolam Jacobi vocarint adulterinam. Sed inspiciam 
+      <lb ed="#B" n="75"/>tur ipsa Eusebii verba, et res tota erit in aprico 
+      <lb ed="#B" n="76"/>posita.) Idem Euseb. lib. 3. Hist. c. 22 post enu 
+      <lb ed="#B" n="77"/>meratos primi ordinis canonicos N. T. libros sub 
+      <lb ed="#B" n="78"/>ungit: Quibus vero contradicitur, tametsi multis sint 
+      <lb ed="#B" n="79"/>cognita, sunt haec: Epistola, quae Jacobi tribuitu 
+      <lb ed="#B" n="80"/>ete. lib. 6, c. 12. Clemens Alexandrinus totius eo 
+      <lb ed="#B" n="81"/>nonicae Scripturae contractas explicationes fecit. 
+      <lb ed="#B" n="82"/>ita ut ne eas quidem praeterierit, quibus contradi 
+      <lb ed="#B" n="83"/>citur. e. 13. Loquitur autem de epistolis catholicis. 
+      <lb ed="#B" n="84"/>Hieronymus in catal. illustr. in Jacobo: Jacobus 
+      <lb ed="#B" n="85"/>frater Domini brevem scripsit epistolam, quae de 
+      <lb ed="#B" n="86"/>septem canonicis est, quae et ipsa ab alio quodas 
+      <lb ed="#B" n="87"/>sub ejus nomine edita asseritur, licet paulatim 
+      <lb ed="#B" n="88"/>praecedente tempore obtinuerit auctoritatem. 
+      Cassio<lb ed="#B" n="89" break="no"/>lorus lib. 1. div. lect. c. 8: Clemens Alexandri 
+      <lb ed="#B" n="90"/>nus epistolam D. Jacobi Attico sermone declaro 
+      <lb ed="#B" n="91"/>vit, quae nos converti fecimus in Latinum. Ex 
+      re<lb ed="#B" n="92" break="no"/>centioribus Cajetan. in comm. h. epist. sic disserit 
+      <lb ed="#B" n="93"/>Non est usque adeo certum, an epistola haec sit 
+      <lb ed="#B" n="94"/>Jacobi fratris Domini. Salutatio hic posita tam 
+      <lb ed="#B" n="95"/>pura eet, ut nulli salutationi cujuscunque alteriu 
+      <lb ed="#B" n="96"/>ipostolicae epistolae conformis sit. Nam nihil Dei 
+      <lb ed="#B" n="97"/>nihil Jesu Christi, nihil gratiae, nihil pacis sona 
+      <lb ed="#B" n="98"/>sed profano more salutem, nec ipse seipsum nomi 
+      <lb ed="#B" n="99"/>nat apostolum, sed tantum servum Jesu Christ 
+      <lb ed="#B" n="100"/>Erasmus in c. 1. Act. p. 199: De epistola Jacobi 
+      <lb ed="#B" n="101"/>non nihil est dubitatum. In c. 5. Jacobi p. 5235 
+      <lb ed="#B" n="102"/>De hac epistola tametsi salubribus praeceptis 
+      re<lb ed="#B" n="103" break="no"/>ferta, dubitatum est olim, cujus esset. Nec enim 
+      <lb ed="#B" n="104"/>referre videtur usquequaque majestatem illam e 
+      <lb ed="#B" n="105"/>gravitatem apostolicam, nec Hebraismi tantum 
+      <lb ed="#B" n="106"/>quantum a Jacobo, qui fuerit episcopus Hierosoly 
+      <lb ed="#B" n="107"/>mitanus, exspectaretur. D. Hieronymus in catalog. 
+      <lb ed="#B" n="108"/>script. eccles. ex auctoritate Hegesippi indicat 
+      <lb ed="#B" n="109"/>multos hujus nominis fuisse discipulos. Et ipse in 
+      <lb ed="#B" n="110"/>titulo epistolae non appellat sese apostolum, quam 
+      <lb ed="#B" n="111"/>quam in nostris adjectum est apostoli cognomen, 
+      <lb ed="#B" n="112"/>sed reclamantibus magno consensu Graecorum 
+      exem<lb ed="#B" n="113" break="no"/>plaribus. Et postea: Quamquam ego super hac ri 
+      <lb ed="#B" n="114"/>cum nemine digladiabor, epistolam probo et ample 
+      <lb ed="#B" n="115"/>ctor. Illud miror, super hisce rebus nullos odio 
+      <lb ed="#B" n="116"/>sius et constantius asseverare, quam qui ne xml:id qui 
+      <lb ed="#B" n="117"/>dem explicare possunt, qua lingua scripta fuerit 
+      <lb ed="#B" n="118"/>Hebraica an Graeca, quo interprete Latino facto 
+      <lb ed="#B" n="119"/>sit. Hieronymus vir tantus addubitavit, et 
+      pruden<lb ed="#B" n="120" break="no"/>ter quid senserit, indicat. Nos quo minus sapimus, 
+      <lb ed="#B" n="121"/>hoc audacius affirmamus. Lutherus lib. de capt 
+      <!--193.xml-->
+      <pb ed="#B" n="120"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Babylon. scribit: Multos probabiliter asserere, hanc 
+      <lb ed="#B" n="2"/>epistolam non esse Jacobi, nec apostolico spiritu 
+      <lb ed="#B" n="3"/>clignam. Argumentis moventur duobus. I. eax 
+      stil<lb ed="#B" n="4" break="no"/>Jacobus dicit, nos justificari non tantum fide, 
+      se<lb ed="#B" n="5" break="no"/>etiam operibus, quod repugnare videtur Paule 
+      <lb ed="#B" n="6"/>2. ex objecto. Jacobus nullam facit mentionem 
+      <lb ed="#B" n="7"/>Christi, nullam evangelii. (Campianus rat. 1. nobi 
+      <lb ed="#B" n="8"/>objicit, quod Lutherus hanc epistolam vocarit 
+      con<lb ed="#B" n="9" break="no"/>tentiosam, tumidam, aridam, stramineam et Spiritu 
+      <lb ed="#B" n="10"/>apostolico indignam. Resp. Sane in prima biblis 
+      <lb ed="#B" n="11"/>rum Germanicorum editione in praefat. epist. Jacobi 
+      <lb ed="#B" n="12"/>scribit, eam non posse dignitate certare cum ep 
+      <lb ed="#B" n="13"/>stolis Petri et Pauli, sed epistolam stramineam esse 
+      <lb ed="#B" n="14"/>ei cum illis comparetur. Sed 1. nuspiam vocat con 
+      <lb ed="#B" n="15"/>tentiosam, tumidam, aridam. 2. aliud est loqu 
+      <lb ed="#B" n="16"/>ἀπλῶς aliud συγκριτικῶς. 3. in posterioribus biblio 
+      <lb ed="#B" n="17"/>rum editionibus verba illa sunt omissa. Pos 
+      <lb ed="#B" n="18"/>annum 1526. in nulla bibliorum editione stramines 
+      <lb ed="#B" n="19"/>a LUTHERO* vocatur. 4. contrarium potius in 
+      po<lb ed="#B" n="20" break="no"/>sterioribus illis editionibus habetur, videl. quod eam 
+      <lb ed="#B" n="21"/>quamvis a veteribus rejectam, tamen laudet ac pro 
+      <lb ed="#B" n="22"/>utili et commoda habeat.) D. Luc. Osiander in 
+      <lb ed="#B" n="23"/>praefat. Non injuria in primitica ecclesia de eo 
+      <lb ed="#B" n="24"/>dubitatum fuit, bis enim tantum nominis Chriso 
+      <lb ed="#B" n="25"/>mentionem facit, neque de ipsius beneficiis, passion 
+      <lb ed="#B" n="26"/>et merito docet. Praeterea contendit, Abrahamum 
+      <lb ed="#B" n="27"/>non sola fide justificatum. Denique ecclesiam voca 
+      <lb ed="#B" n="28"/>synagogam, quod ab apostolorum consuetudine 
+      <lb ed="#B" n="29"/>alienum 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e1504">
+               <lb ed="#B" n="30"/>280. Sed non desunt argumenta, quae probent 
+      <lb ed="#B" n="31"/>esse hanc epistolam apostolicam. 1. Non solui 
+      <lb ed="#B" n="32"/>nihil apostolo indignum continet, sed etiam 
+      grav<lb ed="#B" n="33" break="no"/>tatem ac zelum apostolicum per omnia prae se fer 
+      <lb ed="#B" n="34"/>2. Citatur nomine Jacobi a concilio Laodiceno et 
+      <lb ed="#B" n="35"/>Carthaginiensi tertio. 3. Eidem testimonium 
+      prae<lb ed="#B" n="36" break="no"/>bent Origenes homil. 7 in Josuam, Epiphaniu 
+      <lb ed="#B" n="37"/>haeres. 76. Athanasius in Synopsi, Dionysius de 
+      <lb ed="#B" n="38"/>divin. nom. c. 4. Cyprianus ad Novatianum, Hiero 
+      <lb ed="#B" n="39"/>nymus ad Paulinum, Augustinus epist. 29. 
+      a<lb ed="#B" n="40" break="no"/>Hieron. et lib. 2. de doctr. Christ. c. 8. Rufinus in 
+      <lb ed="#B" n="41"/>exposit. symb. Isidorus lib. 6. etymolog. c. 1. Da 
+      <lb ed="#B" n="42"/>mascenus lib. 4. orth. fid. c. 15. et quotquot catalo 
+      <lb ed="#B" n="43"/>gum librorum N. T. cauonicorum ediderunt 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e1537">
+               <lb ed="#B" n="44"/>281. Argumenta, quae in contrarium proferuntu 
+      <lb ed="#B" n="45"/>potiora haec sunt. 1. Syriaca versio tribuit hanc 
+      <lb ed="#B" n="46"/>epistolam Jacobo Zebedaei filio, fratri Johannis 
+      <lb ed="#B" n="47"/>sic enim habet inscriptio trium epistolarum, huju 
+      <lb ed="#B" n="48"/>acil. et prioris Pctri et primae Johannis. 
+      Tre<lb ed="#B" n="49" break="no"/>epistolae trium apostolorum, ante quorum oculo 
+      <lb ed="#B" n="50"/>Dominus noster sese transformarit, h. e. Jacob. 
+      <lb ed="#B" n="51"/>Petri et Johannis. Atqui Jacobus ille statim sv 
+      <lb ed="#B" n="52"/>initium praedicati erangelii per Herodem e medi 
+      <lb ed="#B" n="53"/>fuit sublatus Act. 12, v. 2. Haec autem epistole 
+      <lb ed="#B" n="54"/>aliquanto post videtur scripta, cum evangelium jan 
+      <lb ed="#B" n="55"/>inter gentes esset praedicatum, inter quas Judae 
+      <lb ed="#B" n="56"/>conversi erant dispersi. Quidam respondent, qui 
+      <lb ed="#B" n="57"/>inter mortem Christi et martyrium Jacobi decen 
+      <lb ed="#B" n="58"/>anni plus minus intercesserint, xml:ideo verisimile ess 
+      <lb ed="#B" n="59"/>quod intra illud tempus Jacobus hanc epistolam 
+      <lb ed="#B" n="60"/>scripserit ad fratres Judaeos, post Stephani necem 
+      <!--193.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>dispersos, hanc nempe dispersionem intelligunt per 
+      <lb ed="#B" n="62"/>eam, cujus in exordio epistolae fit mentio. Sed 
+      qui<lb ed="#B" n="63" break="no"/>teste Irenaeo lib. 3 adv. haeres. c. 1. apostoli 
+      ser<lb ed="#B" n="64" break="no"/>coeperunt doctrinam suam literis consignare, in 
+      <lb ed="#B" n="65"/>praedicationem verbi principio intenti, cumprimi 
+      <lb ed="#B" n="66"/>quia haec epistola directa est contra opinionem 
+      <lb ed="#B" n="67"/>eorum, qui doctrinam apostoli Pauli de fide soli 
+      <lb ed="#B" n="68"/>sine operibus justificante non recte accipiebant, xml:ide 
+      <lb ed="#B" n="69"/>non est verisimile, eo tempore hanc epistolam esse 
+      <lb ed="#B" n="70"/>scriptam, quo Paulus nondum coeperat gentibus 
+      <lb ed="#B" n="71"/>praedicare, nedum epistolas scribere. Rectius igitu 
+      <lb ed="#B" n="72"/>tribuitur haec epistola alteri Jacobo Alphaei filio 
+      <lb ed="#B" n="73"/>fratri Judae, Minori alias appellato, cui cognomem 
+      <lb ed="#B" n="74"/>Obliae, quique postea fuit episcopus ecclesiae Hie 
+      <lb ed="#B" n="75"/>rosolymitanae, ac inter columnas ecclesiae a Paulo 
+      <lb ed="#B" n="76"/>numeratur Gal. 2. v. 9. Illum vero Jacobum fuisse 
+      <lb ed="#B" n="77"/>ex numero duodecim apostolorum ac proinde cathe 
+      <lb ed="#B" n="78"/>licam epistolam scribere potuisse, demonstrat 
+      Hie<lb ed="#B" n="79" break="no"/>ronymus lib. adv. Helvid. Discedendum proinde hac 
+      <lb ed="#B" n="80"/>in parte a Syriaca versione. 2. Auctor hujus epi 
+      <lb ed="#B" n="81"/>tolae nec apostolum, nec fratrem Domini sese 
+      <lb ed="#B" n="82"/>vocat. Resp. etiam Paulus in epist. ad Philippenses 
+      <lb ed="#B" n="83"/>in utraque ad Thessalonicenses et Philemonem non 
+      <lb ed="#B" n="84"/>vocat se Christi apostolum, sed aut servum, quod 
+      <lb ed="#B" n="85"/>facit etiam Jacobus, aut nihil addit. Johannes 
+      <lb ed="#B" n="86"/>quoque nec in epistolis nec in Apocalypsi addit 
+      <lb ed="#B" n="87"/>nomen apostoli. Sed nec Judas, qui citra omnem 
+      <lb ed="#B" n="88"/>dubitationem fuit in numero duodecim apostolorum 
+      <lb ed="#B" n="89"/>apostolum se nominat, sed tantum Jesu Christi ser 
+      <lb ed="#B" n="90"/>vum et Jacobi fratrem. Cur nec Judas, nec 
+      Jaco<lb ed="#B" n="91" break="no"/>bus se fratres Domini nominent, ratio dari potes 
+      <lb ed="#B" n="92"/>ea, quia non Christum, sed seipsos potius honorasso 
+      <lb ed="#B" n="93"/>videri poterant, si sese appellarent fratres ejus, cuju 
+      <lb ed="#B" n="94"/>erant apostoli et servi, praesertim si xml:id facerent in 
+      <lb ed="#B" n="95"/>literis publicis ad ecclesias scriptis. In epistol 
+      <lb ed="#B" n="96"/>Epiphanii ad Johannem Hierosolymitanum, quam 
+      <lb ed="#B" n="97"/>Hieronymus ex Graeca Latinam fecit c. 4. Jacobus 
+      <lb ed="#B" n="98"/>hujus epistolae scriptor, modo apostolus, modo 
+      <lb ed="#B" n="99"/>frater Domini disertis verbis appellatur. 3. Vide 
+      <lb ed="#B" n="100"/>tur haec epistola oppugnare justificationem per 
+      <lb ed="#B" n="101"/>fidem. Resp. in articulo de justificat. §. 190. genui. 
+      <lb ed="#B" n="102"/>num e. 2. sensum late exposuimus. Augustinus libi 
+      <lb ed="#B" n="103"/>de fide et operibus e. 11: Quoniam haec opinis 
+      <lb ed="#B" n="104"/>fuerat exorta, (quod bona opera non sint necessaria 
+      <lb ed="#B" n="105"/>aliae apostolicae epistolae Petri, Johannis, Jacobi 
+      <lb ed="#B" n="106"/>udae, contra eam maxime dirigunt intentionem 
+      <lb ed="#B" n="107"/>ut vehementer astruant, fidem sine operibus nihi 
+      <lb ed="#B" n="108"/>prodesse, sicut et ipse Paulus non quamlibet fidem 
+      <lb ed="#B" n="109"/>qua in Deum creditur, sed eam salubrem plane 
+      <lb ed="#B" n="110"/>que evangelicam definivit, cujus opera ex dilection 
+      <lb ed="#B" n="111"/>procedunt. Et fides, inquit, quae per dilectionem 
+      <lb ed="#B" n="112"/>operatur. 4. Salutatio non est similis 
+      apostolica<lb ed="#B" n="113" break="no"/>salutationi. Resp. imo vero similis exstat salutatio 
+      <lb ed="#B" n="114"/>Aet. 15, v. 23. apostoli et seniores fratres his quo 
+      <lb ed="#B" n="115"/>sunt Antiochiae, Syriae, et Ciliciae fratribus es 
+      <lb ed="#B" n="116"/>jentibus salutem. Apostoli non semper eadem aut 
+      <lb ed="#B" n="117"/>imili formula salutandi in suis epistolis utebantur 
+      <lb ed="#B" n="118"/>ed ea in re morem vulgo receptum sequebantur 
+      <lb ed="#B" n="119"/>Nec judicandus est gratiam et pacem praetermisisse 
+      <lb ed="#B" n="120"/>qui salutem nominavit, quia sine gratia et pace 
+      <!--194.xml-->
+      <pb ed="#B" n="121"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>vera salus locum habere nequit. 3. Nec Chnistum 
+      <lb ed="#B" n="2"/>nec fidem praedicat, quia nihil tradit de ratione 
+      <lb ed="#B" n="3"/>consequendi salutem per fidem in Christum. Res. 
+      <lb ed="#B" n="4"/>imo vero et Christi et fidei aliquoties mentionem 
+      <lb ed="#B" n="5"/>facit. Christi quidem, quando se ejus voeat servus 
+      <lb ed="#B" n="6"/>c. 1, v. I. quando vocat eum Dominum gloria 
+      <lb ed="#B" n="7"/>c. 2, v. 1. quando adventum ejus ad judicium 
+      con<lb ed="#B" n="8" break="no"/>memorat. c. 5, v. 7. et seqq. quando in ipsius no 
+      <lb ed="#B" n="9"/>mine orari maudat. v. 14. Fidei vero, quando pro 
+      <lb ed="#B" n="10"/>bationem fidei patientiam operari asserit. c. 1, v.. 
+      <lb ed="#B" n="11"/>quando in fide orandum esse docet v. 6. quand 
+      <lb ed="#B" n="12"/>verbo veritatis fide scilic. apprehenso nos a De 
+      <lb ed="#B" n="13"/>genitos docet v. 18. quando insitum verbum susco 
+      <lb ed="#B" n="14"/>pere jubet, vera scilic. fide v. 21. quando prohibet 
+      <lb ed="#B" n="15"/>ne in personarum acceptione fidem habeami 
+      <lb ed="#B" n="16"/>c. 2. v. 1. hoc est, requirit ut talem habeamus fidem 
+      <lb ed="#B" n="17"/>quae conjunctam habeat veram caritatem, omnibu 
+      <lb ed="#B" n="18"/>absque discrimine personarum benefacientem 
+      <lb ed="#B" n="19"/>quando divites in ficde a Deo electos esse asseri 
+      <lb ed="#B" n="20"/>v. 5. quando veram fidem per opera et ex operibu 
+      <lb ed="#B" n="21"/>demonstrandam esse docet v. 1I. et seqq. quand 
+      <lb ed="#B" n="22"/>per orationem fidei infirmos salvari docet e. 5. 
+      <lb ed="#B" n="23"/>v. 15. At haec omnia loquuntur de vera et 
+      salvi<lb ed="#B" n="24" break="no"/>sica fide, quae promissionem gratiae de Christo in 
+      <lb ed="#B" n="25"/>evaugelio propositam ad justitiam et salutem am 
+      <lb ed="#B" n="26"/>plectitur. Adde quod scopus principalis hujus ep 
+      <lb ed="#B" n="27"/>stolae in eo consistat, ut falsam eorum opinionem 
+      <lb ed="#B" n="28"/>refellat, qui doctrina de gratuita justificatione 
+      pe<lb ed="#B" n="29" break="no"/>fidem abutebantur ad licentiam carnis. Ad 
+      hun<lb ed="#B" n="30" break="no"/>ergo scopum doctrinam suam praecipue accommo 
+      <lb ed="#B" n="31"/>davit. 6. vocat legem V. T. legem libertatis e. 
+      <lb ed="#B" n="32"/>v. 25. c. 2. v. 12. quam Paulus vocat legem sero 
+      <lb ed="#B" n="33"/>tutis Gal. 4. v. 31. Resp. lex divina moralis in s 
+      <lb ed="#B" n="34"/>ac per se est lex libertatis, sed per 
+      acciden<lb ed="#B" n="35" break="no"/>respectu nostri est lex servitutis. Sic legem in 
+      s<lb ed="#B" n="36" break="no"/>ac per se Stephanus vocat λόγια ζῶνια Act.. 
+      <lb ed="#B" n="37"/>v. 38. quae per accidens a Paulo vocatur ministo 
+      <lb ed="#B" n="38"/>rium mortis 2. Corinth. 3, v. 7. Bellarminu 
+      <lb ed="#B" n="39"/>respondet: JJacobum loqui de nova lege, quae 
+      gra<lb ed="#B" n="40" break="no"/>tiam eimul praebet et vires praestandi ea, quae in 
+      <lb ed="#B" n="41"/>decalogo requiruntur, qua de re quid statuendur 
+      <lb ed="#B" n="42"/>sit, suo exponitur loco. 7. Ecclesiam vocat syna 
+      <lb ed="#B" n="43"/>gogam c. 2, v. 2. quod ab apostolorum consuetu 
+      <lb ed="#B" n="44"/>dine alienum. Resp. Hebr. 10, v. 25 exstat appel 
+      <lb ed="#B" n="45"/>latio ἐπισυναγωγῆς, deducta ex Matth. 23, v. 37 
+      <lb ed="#B" n="46"/>Quoties volui ἐπισυναγωγεῖν filios tuos? Quidam 
+      hu<lb ed="#B" n="47" break="no"/>referunt locum 2. Thess. 2, v. 1, ubi vox ἐπισυνο 
+      <lb ed="#B" n="48"/>γωγῆς de universali piorum congregatione in 
+      di<lb ed="#B" n="49" break="no"/>judicii accipitur. Iren. lib. 3. adv. haeres. c. 6. 
+      <lb ed="#B" n="50"/>p. 175: Hi qui adoptionem acceperant, sunt ecele 
+      <lb ed="#B" n="51"/>sia, haec enim est synagoga Dei, quam Deus h. e 
+      <lb ed="#B" n="52"/>Filius ipse per semet ipsum collegit. Adde quod 
+      <lb ed="#B" n="53"/>conjugata συναγωγῆς congregationis populo 
+      Chri<lb ed="#B" n="54" break="no"/>stiano tribuantur. Matth. 13, v. 2. c. 18, v. 20. Job 
+      <lb ed="#B" n="55"/>II, v. 52. c. 20, v. 1. Act. 4, v. 31. c. 11, v. 26. 
+      <lb ed="#B" n="56"/>c. 11, v. 27. c. 15, v. 6. c. 50, v. 7. 8. Aucto 
+      <lb ed="#B" n="57"/>epistolae testimonia profert ex epistolis Petri e 
+      <lb ed="#B" n="58"/>Pauli, non ergo fuit unus ex apostolis, scd ex ape 
+      <lb ed="#B" n="59"/>stolorum discipulis. Resp. Similes quaedam senter 
+      <lb ed="#B" n="60"/>tiae in hac epistola inveniuntur illis, quae in Paul¬ 
+      <!--194.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>et Petri epistolis occurrunt, illud vero tantum abest 
+      <lb ed="#B" n="62"/>ut canonicam illius auctoritatem elevet, ut eandem 
+      <lb ed="#B" n="63"/>potius probet. Esai. 2, v. 3. Mich. 4, v. i similes 
+      <lb ed="#B" n="64"/>omnino sententiae occurrunt, nec tamen quisquam 
+      <lb ed="#B" n="65"/>de canonica horum prophetarum auctoritate dubitat. 
+      <lb ed="#B" n="66"/>9. Eusebius lib. 2. Hist. c. 23. dicit hanc episto 
+      <lb ed="#B" n="67"/>lam νοθεύεσθαι. Resp. non ratione canonicae aucto 
+      <lb ed="#B" n="68"/>ritatis, sed duntaxat auctoris, quia teste Hieronymo 
+      <lb ed="#B" n="69"/>in catal. in Jacobo, paulatim tempore procedente 
+      <lb ed="#B" n="70"/>obtinuit auctorilatem. Et ex ipso Eusebio colligitur. 
+      <lb ed="#B" n="71"/>dubitationem illam vel paucorum hominum vel par 
+      <lb ed="#B" n="72"/>earum ecelesiarum fuisse 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e1878">
+               <lb ed="#B" n="73"/>282. Statuimus igitur et canonicam et apostolicam 
+      <lb ed="#B" n="74"/>esse hanc epistolam, scriptam Hierosolymis, ut ve 
+      <lb ed="#B" n="75"/>risimile est, quia Jacobus erat ecclesiae 
+      Hierosoly<lb ed="#B" n="76" break="no"/>mitanae episcopus, non multo ante beatum obitum 
+      <lb ed="#B" n="77"/>ut haberent fideles Judaei sui apostoli et 
+      episcopi<lb ed="#B" n="78" break="no"/>doctrinam scripto consignatam, qua etiam post 
+      mor<lb ed="#B" n="79" break="no"/>tem ipsius instruerentur. Capitibus constat 5, in 
+      <lb ed="#B" n="80"/>quibus fideles in doctrina Christi jam dudum 
+      institu<lb ed="#B" n="81" break="no"/>tos. 1. dehortatur a variis vitiis professionem ipso 
+      <lb ed="#B" n="82"/>rum dedecentibus. 2. exhortatur autem contra ad 
+      <lb ed="#B" n="83"/>virtutes professione ipsorum dignas 
+</p>
+            <p xml:id="zef3dd-d1e246-d1e1904">
+               <lb ed="#B" n="84"/>253. 3. Posterior Petri. De ea itidem in 
+      primi<lb ed="#B" n="85" break="no"/>tiva ecelesia ab aliquibus fuit dubitatum, unde inter 
+      <lb ed="#B" n="86"/>secundi ordinis canonicos et hanc referimus. 
+      Euse<lb ed="#B" n="87" break="no"/>bius lib. 3. Histor. c. 3: Petri epistola una, qua 
+      <lb ed="#B" n="88"/>prior dicitur, citra controversiam recepta est, hac 
+      <lb ed="#B" n="89"/>et veteres olim presbyteri sine ulla haegitatione i 
+      <lb ed="#B" n="90"/>scripturis suis usi sunt. Eam vero, quae posterio 
+      <lb ed="#B" n="91"/>dicitur, non esse legitimam ἐνδιάθηκον accepimus 
+      <lb ed="#B" n="92"/>Et tamen, quia multis videtur esse utilis, cum aliis 
+      <lb ed="#B" n="93"/>est usurpata Scripturis. Et postea. De his, qua 
+      <lb ed="#B" n="94"/>Petro tribuuntur, ex quibus unam duntaxat germo 
+      <lb ed="#B" n="95"/>nam illius epistolam apud priscos presbyteros i 
+      <lb ed="#B" n="96"/>confesso habitam cognovi, hactenus dictum esto 
+      <lb ed="#B" n="97"/>lib. ejusd. e. 22. post enumeratos primi ordini 
+      <lb ed="#B" n="98"/>canonicos subjungit: Quibus vero contradicitu 
+      <lb ed="#B" n="99"/>tametsi multis sint cognita, sunt haec: epistola, qua 
+      <lb ed="#B" n="100"/>Jacobo tribuitur, et epistola Judae et posterior 
+      <lb ed="#B" n="101"/>Petri et altera cum tertia Johannis. lib. 6, e. 24. ex 
+      <lb ed="#B" n="102"/>Origene in explic. Ps. 1: Petrus unam epistolam 
+      <lb ed="#B" n="103"/>de qua certo constat, post se reliquit. Esto autem 
+      <lb ed="#B" n="104"/>reliquerit et alteram, de illa namque controvertitur 
+      <lb ed="#B" n="105"/>Didymus Hieronymi praeceptor commentariolum 
+      <lb ed="#B" n="106"/>suum in hanc epistolam sic concludit: Non eat 
+      <lb ed="#B" n="107"/>igitur ignorandum, praesentem epistolam esse faleo 
+      <lb ed="#B" n="108"/>tam, quae licet publicetur, xml:id est, publice per ecclo 
+      <lb ed="#B" n="109"/>sias legatur, non tamen in canone est. Hieronymu. 
+      <lb ed="#B" n="110"/>in catal. viror. illustr. in Petro: Secunda 
+      Petr<lb ed="#B" n="111" break="no"/>epistola a plerisque ejus esse negatur. In Syriae 
+      <lb ed="#B" n="112"/>paraphrasi praetermittitur. Ex recentioribus 
+      Caj<lb ed="#B" n="113" break="no"/>tanus in comm. hujus epist. de ea dubitat. 
+      Era<lb ed="#B" n="114" break="no"/>mus in 2. Pet. 3: De hac secunda Petri epistola 
+      <lb ed="#B" n="115"/>cujus esset, controversia erat. Stili discrimen tum 
+      <lb ed="#B" n="116"/>in verbis, tum in sensibus clarius est, quam u 
+      <lb ed="#B" n="117"/>nossit dissimulari. Proinde cum hic testetur, v 
+      <lb ed="#B" n="118"/>fuisse spectatorem visionis in monte, deinde 
+      men<lb ed="#B" n="119" break="no"/>tionem facit superioris epistolae, postremo Paulum 
+      <lb ed="#B" n="120"/>appellat fratrem, mihi non displicet, quod affer, 
+      <!--195.xml-->
+      <pb ed="#B" n="122"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Hieronymus de interprete. Hieronymi autem verba 
+      <lb ed="#B" n="2"/>in epist. 150. ad Hedibiam q. 11. ita sonant: B. Pau 
+      <lb ed="#B" n="3"/>lus habebat Titum interpretem, sicut et B. Petrus 
+      <lb ed="#B" n="4"/>Marcum, cujus evangelium Petro narrante et illo 
+      <lb ed="#B" n="5"/>scribente compositum est. Denique et duae epi 
+      <lb ed="#B" n="6"/>tolae, quae feruntur Petri, stilo et character 
+      <lb ed="#B" n="7"/>inter se discrepant, structuraque verborum, ex quo 
+      <lb ed="#B" n="8"/>intelligimus pro necessitate rerum eum diversis 
+      <lb ed="#B" n="9"/>interpretibus usum. Pistorius contra D. Mentz. 
+      <lb ed="#B" n="10"/>p. 161. fatetur, de hac epistola aliquamdiu 
+      fuiss<lb ed="#B" n="11" break="no"/>dubitatum. 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e2017">
+               <lb ed="#B" n="12"/>284. Sed praesto sunt argumenta, quae persua 
+      <lb ed="#B" n="13"/>deant, esse apostolicam epistolam, a Petro scriptam 
+      <lb ed="#B" n="14"/>1. quia auctor ejus disertis verbis se appellat Si 
+      <lb ed="#B" n="15"/>monem Petrum servum et apostolum Jesu Christ 
+      <lb ed="#B" n="16"/>2. Inscripta est iisdem, quibus prior, Judaeis scili 
+      <lb ed="#B" n="17"/>cet per imperium Romanum dispersis et ad 
+      Chr<lb ed="#B" n="18" break="no"/>stum conversis, quorum apostolus erat Petrus. 3. Spi 
+      <lb ed="#B" n="19"/>ritus in ea est apostolicus. 4. Stilus et compositio 
+      <lb ed="#B" n="20"/>priori epistolae conformis. Auctores hist. Magdeb. 
+      <lb ed="#B" n="21"/>Cent. 1. lib. 2. c. 4. col. 54: Praeter hoc unun 
+      <lb ed="#B" n="22"/>quod testimonio antiquitatis carere dicitur, aliuce 
+      <lb ed="#B" n="23"/>nihil ei deesse videtur, quominus pro genuina 
+      Pe<lb ed="#B" n="24" break="no"/>tri habeatur, nam stilus et compositio a priori 
+      no<lb ed="#B" n="25" break="no"/>admodum discrepat. 5. Auctor hujus epistolae dicit 
+      <lb ed="#B" n="26"/>a Christo depositionem tabernaculi sibi declaratam 
+      <lb ed="#B" n="27"/>. c. 1. v. 14, quibus verbis procul dubio respicit ad 
+      <lb ed="#B" n="28"/>praedictionem Christi Joh. 21, v. 27. 6. testatur, se 
+      <lb ed="#B" n="29"/>fuisse spectatorem transfigurationis in monte c. 1
+      <lb ed="#B" n="30"/>v. 16. jam vero Petrus una cum Jacobo et Johann 
+      <lb ed="#B" n="31"/>illi interfuit. 7. mentionem facit prioris epistola 
+      <lb ed="#B" n="32"/>c. 3, v. 1. 8. Paulum voeat carum suum 
+      fratren<lb ed="#B" n="33" break="no"/>c. 3, v. 15. 9. Nomine Petri in canone ponitur? 
+      <lb ed="#B" n="34"/>concilio Laodiceno can. 59. Carthaginensi 3. Atha 
+      <lb ed="#B" n="35"/>nasio in Synopsi. Damasceno lib. 4, cap. 18. 
+      Ep<lb ed="#B" n="36" break="no"/>phanio haeresi 76. Hieronymo ad Paulin. 
+      Augustin<lb ed="#B" n="37" break="no"/>lib. 2. de doctr. Christ. c. 8. Gregorio homil. 18. ij. 
+      <lb ed="#B" n="38"/>evangel. ete. Beda in comment. miratur, qua ration 
+      <lb ed="#B" n="39"/>dubitari potuerit de auctore hujus epistolae, cum 
+      <lb ed="#B" n="40"/>nomen suum exprimat, seque in monte cum Domino 
+      <lb ed="#B" n="41"/>fuisse disertis verbis testetur. Origenes et 
+      Hierony<lb ed="#B" n="42" break="no"/>mus multis in locis ex hac epistola tanquam ex 
+      <lb ed="#B" n="43"/>Scriptura sacra testimonia proferunt. Lutherus in 
+      <lb ed="#B" n="44"/>praefat. epist. ad Hebr. inter canonicos libros eam 
+      <lb ed="#B" n="45"/>refert. Quod in contrarium a quibusdam stili 
+      <lb ed="#B" n="46"/>6 <!-- line coord error --> 
+      <lb ed="#B" n="47"/>priore epistola diversitas urgetur, ad illud per 
+      infi<lb ed="#B" n="48" break="no"/>tiationem respondemus. Quod si vel maxime hî¬ 
+      <lb ed="#B" n="49"/>esset quaedam stili diversitas, eadem etiam in 
+      Pau<lb ed="#B" n="50" break="no"/>linis epistolis occurrit. Hieronymus ad Hedibiam 
+      <lb ed="#B" n="51"/>j. 11. ex interpretis diversitate eam originem duxiss 
+      <lb ed="#B" n="52"/>statuit. Quod in primitiva ecclesia de ea aliquand 
+      <lb ed="#B" n="53"/>dubitatum fuit, illud ad secundi ordinis canonico 
+      <lb ed="#B" n="54"/>eam referendam esse arguit. Scripta est ad eosdem 
+      <lb ed="#B" n="55"/>ad quos prior, videlicet ad conversos Judaeos c.? 
+      <lb ed="#B" n="56"/>v. 1. quod colligitur etiam ex c. 1, v. 19. Capiti 
+      <lb ed="#B" n="57"/>bus constat tribus, in quibus apostolico exordi 
+      <lb ed="#B" n="58"/>subjungitur 1. exhortatio ad studium proficienò 
+      <lb ed="#B" n="59"/>et perseverandi in fide. 2. commonefactio de 
+      caven<lb ed="#B" n="60" break="no"/>dis tum seductoribus tum empaectis atque irrisori 
+      <!--195.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>bus ultimum Christi adventum negantibus, ac tota 
+      <lb ed="#B" n="62"/>epistola concluditur δοξολογίᾳ apostolo digna 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e2136">
+               <lb ed="#B" n="63"/>285. 4. Secunda et 5. Tertia Johannis. De illi 
+      <lb ed="#B" n="64"/>non minus fuit olim dubitatum, ut de epistola ad 
+      <lb ed="#B" n="65"/>Hebraeos, Jacobi et posteriore Petri. Eusebius lib.3 
+      <lb ed="#B" n="66"/>c. 21. Prior Johannis epistola absque ulla 
+      haegi<lb ed="#B" n="67" break="no"/>tatione cum a veteribus tum a recentioribus 
+      recipi<lb ed="#B" n="68" break="no"/>tur, reliquis vero duabus contradicitur. lib. ejusdem 
+      <lb ed="#B" n="69"/>c. 22. Quibus contradicitur, tametei multis sunt 
+      <lb ed="#B" n="70"/>cognita, sunt haec. Epistola quae Jacobo tribuitur. 
+      <lb ed="#B" n="71"/>etc. et altera cum tertia Johannis, sive illae 
+      evan<lb ed="#B" n="72" break="no"/>gelistae sint sive alterius cujuspiam, ejusdem cum 
+      <lb ed="#B" n="73"/>illo nominis. lib. 6, c. 24. ex Origene Johannes 
+      re<lb ed="#B" n="74" break="no"/>liquit post se et epistolam admodum paucis verbis 
+      <lb ed="#B" n="75"/>comprehensam. Esto adjiciantur et altera et tertio 
+      <lb ed="#B" n="76"/>etenim non omnino illas germanas esse dicunt, atta 
+      <lb ed="#B" n="77"/>men utraeque non centum versus habent. Hieron 
+      <lb ed="#B" n="78"/>n catal. viror. illustr. in Johanne: Johannis reli 
+      <lb ed="#B" n="79"/>quae duae sunt epistolae, quae Johannis presbyter 
+      <lb ed="#B" n="80"/>asseruntur, cujus et hodie sepulcrum est apud 
+      Ephe<lb ed="#B" n="81" break="no"/>sum, et nonnulli putant duas memorias Johannis 
+      <lb ed="#B" n="82"/>evangelistae esse (Eusebius lib. 3. hist. c. 36. er 
+      <lb ed="#B" n="83"/>sententia Papiae itidem duos Johannes constituit, 
+      <lb ed="#B" n="84"/>apostolum scilicet et seniorem) Erasmus in comment 
+      <lb ed="#B" n="85"/>Constat inter auctores, primam Johannis epistolam 
+      <lb ed="#B" n="86"/>ejus esse Johannis, quem Jesus dilexit plurimum 
+      <lb ed="#B" n="87"/>ceterum duas posteriores Johannes presbyter 
+      scri<lb ed="#B" n="88" break="no"/>osit, non Johannes apostolus. Cajetanus in 
+      com<lb ed="#B" n="89" break="no"/>ment. negat esse canonicas 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e2197">
+               <lb ed="#B" n="90"/>286. Sed et has epistolas esse canonicas et 
+      apo<lb ed="#B" n="91" break="no"/>stolicas, probari potest. 1. Auctor earum se vocas 
+      <lb ed="#B" n="92"/>πρεσβύτερον, quo nomine saepius significatur 
+      offi<lb ed="#B" n="93" break="no"/>cium ecclesiasticum, sed hîc videtur aetas 
+      magi<lb ed="#B" n="94" break="no"/>notari. Jam vero constat, Johannem prae reliquis 
+      <lb ed="#B" n="95"/>apostolis ad grandiorem aetatem pervenisse. 2. 
+      Sa<lb ed="#B" n="96" break="no"/>lutatio est plane apostolica: Sit vobiscum gratia 
+      <lb ed="#B" n="97"/>misericordia, pax a Deo. Patre et Domino nostro 
+      <lb ed="#B" n="98"/>Jesu Christo Filio Patris cum veritate et concordia 
+      <lb ed="#B" n="99"/>3. In sententiis et verbis cum prima epistola 
+      con<lb ed="#B" n="100" break="no"/>veniunt, ut ostendit collatio. Beda in comm. 2. Job. 
+      <lb ed="#B" n="101"/>Quidam putant, hanc et sequentem epistolam non 
+      <lb ed="#B" n="102"/>esse Johannis apostoli, sed cujusdam presbyter 
+      <lb ed="#B" n="103"/>Johannis, cujus sepulcrum usque hodie monstratu 
+      <lb ed="#B" n="104"/>in Epheso, sed nunc generalis ecclesiae 
+      concensu<lb ed="#B" n="105" break="no"/>habet, quod has epistolas Johannes apostolus scri 
+      <lb ed="#B" n="106"/>pserit, quia revera multam verborum et fidei 
+      simi<lb ed="#B" n="107" break="no"/>itudinem cum prima ejus epistola ostendit et simili 
+      <lb ed="#B" n="108"/>selo dehortatur haereticos. Confer. 1. Joh. 2. v. 7. 
+      <lb ed="#B" n="109"/>cum 2. epist. v. 5. Item 1. epist. 2, v. 23 cum 
+      <lb ed="#B" n="110"/>2. epist. v. 9. Item 1. epist. 3, v. 6 cum 3. epist. 
+      <lb ed="#B" n="111"/>v. 11. Item 1. opist. 4, v. 1. 2. 3 cum 2. epist. 
+      <lb ed="#B" n="112"/>v. 7. Item 1. epist. 5, v. 8 cum 2. epist. v. 6. 
+      <lb ed="#B" n="113"/>Item loca illa, in quibus utrobique inculcat carita 
+      <lb ed="#B" n="114"/>em, quae sit in veritate. 4. Veteres sub Johannis 
+      <lb ed="#B" n="115"/>nomine eas allegant et canonicis libris accensent 
+      <lb ed="#B" n="116"/>Conc. Carthagin. 3. can. 47. concil. Laodie. can. ult. 
+      <lb ed="#B" n="117"/>Augustinus lib. 2. de doctr. Christ. c. 8. in synodo. 
+      <lb ed="#B" n="118"/>Carthaginiensi, quae sub Cypriano fuit habita, ita 
+      <lb ed="#B" n="119"/>legitur cententia 81. inter episcoporum suffragis 
+      <lb ed="#B" n="120"/>Johannes apostolus in epistola qua poruit, dicens. 
+      <!--196.xml-->
+      <pb ed="#B" n="123"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>1. Si quis venit ad vos. Quod Papias ad Eusebium 
+      <lb ed="#B" n="2"/>et Hieronymus non Johanni apostolo, sed Johanm 
+      <lb ed="#B" n="3"/>presbytero eas tribuunt, xml:id probat ad secundi ordi 
+      <lb ed="#B" n="4"/>nis canonicos libros has epistolas pertinere. Cano 
+      <lb ed="#B" n="5"/>nicae enim earum auctoritati non praejudicat, quod 
+      <lb ed="#B" n="6"/>pauci quidam de auctore dubitarint, reliquis omni 
+      <lb ed="#B" n="7"/>bus Johanni apostolo eas tribuentibus. Quid quod 
+      <lb ed="#B" n="8"/>Hieronymus ex aliorum potius quam ex sua 
+      sen<lb ed="#B" n="9" break="no"/>tentia loquitur: Asseruntur, inquit, esse Johanni 
+      <lb ed="#B" n="10"/>presbyteri. Ipse vero allegaturus eas epist. 85. ac 
+      <lb ed="#B" n="11"/>Evagrium, sic praefatur: Clangat tuba evangelico 
+      <lb ed="#B" n="12"/>filius tonitrui, quem Jesus amavit plurimum, qui 
+      <lb ed="#B" n="13"/>pectore Salvatoris doctrinarum fluenta potavit. 
+      Iden<lb ed="#B" n="14" break="no"/>epist. 103. ad Paulinum. Jacobus, Petrus, 
+      Johan<lb ed="#B" n="15" break="no"/>nes, Judas apostoli septem epistolas ediderunt eto 
+      <lb ed="#B" n="16"/>ex quo apparet, Hieronymum sine haesitatione ea 
+      <lb ed="#B" n="17"/>Johanni assignasse. Secunda epistola principaliter 
+      <lb ed="#B" n="18"/>scripta videtur adversus impietatem Basilidis et 
+      se<lb ed="#B" n="19" break="no"/>ctatorum ejus docentium, Christum non verum 
+      ho<lb ed="#B" n="20" break="no"/>minem, sed phantasma tantum fuisse, xml:ideoque nihi 
+      <lb ed="#B" n="21"/>eorum vel fecisse vel passum esse, quae visus es 
+      <lb ed="#B" n="22"/>facere vel pati Epiphan. haeres. 24. Gratulatur igitur 
+      <lb ed="#B" n="23"/>Joh. mulieri electae, xml:id est, nobili ac praestanti a 
+      <lb ed="#B" n="24"/>Christum conversae, et ejus filiis, quod veram d 
+      <lb ed="#B" n="25"/>Christo Jesu fidem teneant, ac hortatur, ut in es 
+      <lb ed="#B" n="26"/>perseverent, ac per caritatem et bona opera eam 
+      <lb ed="#B" n="27"/>exornent contra vero ab haeresibus et haeresium ar 
+      <lb ed="#B" n="28"/>chitectis summo studio caveant. Tertia 
+      epistol<lb ed="#B" n="29" break="no"/>commendat Cajum, quod rectam de Christo fiden 
+      <lb ed="#B" n="30"/>teneat, eamque operibus caritatis exornet, eumque 
+      <lb ed="#B" n="31"/>hortatur, ut in fidei sinceritate et vitae sanctitat 
+      <lb ed="#B" n="32"/>constanter perseveret, nec Diotrephis, sed Demetri 
+      <lb ed="#B" n="33"/>exemplum hac in re sequatur 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e2345">
+               <lb ed="#B" n="34"/>287. 6. Epistola Judae. Nec haec fuit extra di 
+      <lb ed="#B" n="35"/>pitationis aleam apud omnes olim posita. Eusebiu 
+      <lb ed="#B" n="36"/>lib. 2. hist. eccles. e. 23. Non multi ex veteribus 
+      <lb ed="#B" n="37"/>mentionem faciunt epistolae Jacobi, sicut nec eju 
+      <lb ed="#B" n="38"/>quae Judae inscribitur, cum et ipsa una sit ex 
+      s<lb ed="#B" n="39" break="no"/>ptem, quae catholicae appellantur. Attamen scimu 
+      <lb ed="#B" n="40"/>et istas cum reliquis publice in plurimis ecclesit 
+      <lb ed="#B" n="41"/>legi lib. 3, c. 22. inter τὰς ἀντιλεγομένας numera 
+      <lb ed="#B" n="42"/>Judae epistolam. Hieronymus in catal. vir. illusti 
+      <lb ed="#B" n="43"/>Judas Jacobi frater parvam quidem, quae de co 
+      <lb ed="#B" n="44"/>tholicis est, reliquit epistolam, et quia de libri 
+      <lb ed="#B" n="45"/>Enochi, qui apocryphus est, in ea assumit testimo 
+      <lb ed="#B" n="46"/>nium, a plerisque rejicitur, tamen auctoritatem jam 
+      <lb ed="#B" n="47"/>vetustate et usu meruit. Cajetanus in comm. hujus 
+      <lb ed="#B" n="48"/>epist. Minoris est auctoritatis haec epistola iis 
+      <lb ed="#B" n="49"/>quae sunt certae auctoritatis. Erasmus in 
+      comm<lb ed="#B" n="50" break="no"/>p. 541: Locus, quem hîc citat Judas, sumtus est 
+      e<lb ed="#B" n="51" break="no"/>apocryphis Hebraeorum, et ut D. Hieronymus indi 
+      <lb ed="#B" n="52"/>cat in commentariis in epist. ad Titum ex libro 
+      <lb ed="#B" n="53"/>qui illis inscribitur Enoch, unde et ipsa epistole 
+      <lb ed="#B" n="54"/>non caruit suspicione. Histor. eccles. Magdeb 
+      <lb ed="#B" n="55"/>Cent. 1. lib. 2, c. 4. aliquot rationes assignat, quae 
+      <lb ed="#B" n="56"/>Judae epistolam non esse genuinam arguant 
+</p>
+            <p xml:id="zef3dd-d1e246-d1e2398">
+               <lb ed="#B" n="57"/>288. Sed enim hanc epistolam esse apostolicam 
+      <lb ed="#B" n="58"/>probat. 1. ἐπιγραφή. Auctor diserte se appellat 
+      <lb ed="#B" n="59"/>Judam Jegu Christi servum ac fratrem Jacobe 
+      <lb ed="#B" n="60"/>2. Materia. Convenit haec epistola et sententiis 
+      <!--196.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>et verbis cum posteriore Petri, cujus quasi breven 
+      <lb ed="#B" n="62"/>iummam et ἀνακεφαλαίωσιν continet. 3. Testimo 
+      <lb ed="#B" n="63"/>nia veterum. Canonicis N. T libris a concilio 
+      <lb ed="#B" n="64"/>Laodiceno, et Carthaginiensi, ab Athanasio, 
+      Augu<lb ed="#B" n="65" break="no"/>stino et reliquis quotquot librorum sacrorum 
+      catalo<lb ed="#B" n="66" break="no"/>gum recensuerunt. Sub nomine Judae citatur a 
+      <lb ed="#B" n="67"/>Dionysio de div. nom. c. 4. Tertulliano de habit. 
+      <lb ed="#B" n="68"/>muliebr. c. 5. Origene homil. 7. in Josuam et lib. 5. 
+      <lb ed="#B" n="69"/>in c. 5. Roman. Cypriano ad Novatian. Epiphanio 
+      <lb ed="#B" n="70"/>haeres. 76. Hieronymo in e. 29. Jerem. in e. 32. 
+      <lb ed="#B" n="71"/>Ezech. in c. 1. Titum ete. ** Cyrillus Hierosol. ca 
+      <lb ed="#B" n="72"/>tech. 4. Ambrosius in c. 8. Luc. Aug. de fide et 
+      <lb ed="#B" n="73"/>pperibus c. 65. Cyrill. Alexandr. de fide ad Regin 
+      <lb ed="#B" n="74"/>Isid. Pelus. lib. 4. epist. 58. Cassianus coll. 4. c. 13. 
+      <lb ed="#B" n="75"/>Clem. Alex. I. 7. Strom. ** 4. Ipse Euseb. lib. 6. 
+      <lb ed="#B" n="76"/>hist. eceles. c. 11. refert, Clementem Alexandrinum 
+      <lb ed="#B" n="77"/>in libris hypotyposeon ut in alias Scripturas ita et in 
+      <lb ed="#B" n="78"/>spistolam Judae breves scripsisse explicationes, quae 
+      <lb ed="#B" n="79"/>2o tempore adhuc exstiterint 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e2455">
+               <lb ed="#B" n="80"/>289. Argumenta, quae in contrarium afferuntur, 
+      <lb ed="#B" n="81"/>potiora haec sunt. 1. In Scripturis sacris nullo 
+      <lb ed="#B" n="82"/>ipparent vestigia historiarum, quae in hac epistola 
+      <lb ed="#B" n="83"/>allegantur. Ubi enim exstat historia altercatio 
+      <lb ed="#B" n="84"/>nis inter Michaëlem archangelum et diabolum de 
+      <lb ed="#B" n="85"/>corpore Moysis? Resp. Quemadmodum Paulus 
+      <lb ed="#B" n="86"/>nomina magorum Jannis et Jambris ex traditione 
+      <lb ed="#B" n="87"/>citat. 2. Tim 3, v. 8. ita quoque Judas alterca 
+      <lb ed="#B" n="88"/>ionem illam Michaëlis archangeli et diaboli. Addo 
+      <lb ed="#B" n="89"/>quod vestigia illius historiae in libro canonico 
+      ex<lb ed="#B" n="90" break="no"/>stant. Deut. 34, v. 9 commemoratur, quod 
+      corpu<lb ed="#B" n="91" break="no"/>Moysis a Domino in valle montis Nebuntis sit sepul 
+      <lb ed="#B" n="92"/>lum, quodque Israëlitae sepulcrum illud ignoro 
+      <lb ed="#B" n="93"/>verint. Videtur igitur diabolus illud Israëlitis patefa 
+      <lb ed="#B" n="94"/>cere voluisse, ut xml:idololatricum cultum circa illud 
+      <lb ed="#B" n="95"/>instituerent, sicut serpente aeneo ad xml:idololatriam 
+      <lb ed="#B" n="96"/>postea sunt abusi. Sed Michaël archangelus 
+      diabo<lb ed="#B" n="97" break="no"/>lum prohibuit. Fuit olim scriptum titulo nytar 
+      <lb ed="#B" n="98"/>qD dimissio Moysis ex hac vita. Graece ἀνάλη¬ 
+      <lb ed="#B" n="99"/>ψις Μωυσέως, in eo continentur, quae de corpore 
+      <lb ed="#B" n="100"/>Moysis hoc loco citantur. Quidam altercationem 
+      <lb ed="#B" n="101"/>illam sic accipiunt, quod angelus praebuerit mini 
+      <lb ed="#B" n="102"/>sterium in sepeliendo Moyse, xml:id vero noluisse ferr 
+      <lb ed="#B" n="103"/>diabolum, qui accusationem obverterit, quasi Moyse 
+      <lb ed="#B" n="104"/>propter caedem Aegyptii ipsius esset, ac propteres 
+      <lb ed="#B" n="105"/>non permiserit, ut Moyses honorificam consequere 
+      <lb ed="#B" n="106"/>tur sepulturam. Sed prior explicatio est simplicior 
+      <lb ed="#B" n="107"/>2. Auctor epistolae assumit testimonium ex libro 
+      <lb ed="#B" n="108"/>Enoch, qui apocryphus est. Resp. Tertullianus 
+      lib<lb ed="#B" n="109" break="no"/>de habit. muliebr. et Beda in comment. h. episto 
+      <lb ed="#B" n="110"/>contendunt, librum Enoch verum et canonicum 
+      tem<lb ed="#B" n="111" break="no"/>pore Judae in manibus hominum adhuc exstitisse, 
+      <lb ed="#B" n="112"/>Hieron. in e. 1. Titum. Augustinus lib. 15. de civ 
+      <lb ed="#B" n="113"/>Dei e. 23. et lib. 18, c. 38. respondent: etiam in 
+      <lb ed="#B" n="114"/>apocryphis aliquid veri esse, et Judam ex libri 
+      <lb ed="#B" n="115"/>apocrypho hoc protulisse, nec tamen propterea 
+      to<lb ed="#B" n="116" break="no"/>tum librum approbasse, cum apostolus etiam ex 
+      <lb ed="#B" n="117"/>athnicis poëtis testimonia proferat, nec tamen illis 
+      <lb ed="#B" n="118"/>auctoritatem canonicam tribuere voluerit. Quidam 
+      <lb ed="#B" n="119"/>respondent, Judam non tam ad verbale quoddam 
+      <lb ed="#B" n="120"/>vaticinium, quam ad reale, h. e. ad ordinem inter 
+      <!--197.xml-->
+      <pb ed="#B" n="124"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>patriarchas respicere. Sicut mors corporalis in sex 
+      <lb ed="#B" n="2"/>priores patres ecclesiae, scilicet in Adam, Seth, Enos 
+      <lb ed="#B" n="3"/>Kenan, Mechaleel et Jared propter peccatum effica 
+      <lb ed="#B" n="4"/>cissime dominata est, in septimum vero Enoch suam 
+      <lb ed="#B" n="5"/>vim atque potentiam exercere non potuit: ita quo 
+      <lb ed="#B" n="6"/>que per sex millia annorum, quibus mundus hic sta 
+      <lb ed="#B" n="7"/>bit, in omnes homines dominabitur, sed in septime 
+      <lb ed="#B" n="8"/>millenario, qui initium aeternae ac coelestis vitae 
+      <lb ed="#B" n="9"/>futurus est, amisso aculeo suo prorsus abolebitur 
+      <lb ed="#B" n="10"/>Confer Chunmannum Flinspachium de conject. 
+      exti<lb ed="#B" n="11" break="no"/>tempor. Sed quia notanter dicit Judas: προεφὴ 
+      <lb ed="#B" n="12"/>τευσε καὶ τούνοις Ἐνὼχ λέγων, ἰδοὺ ἥλθε κύριος 
+      <lb ed="#B" n="13"/>inde alii probabilius censent, de verbali vaticinio 
+      Ju<lb ed="#B" n="14" break="no"/>dam loqui, quod quamvis non fuerit ab Enocho in 
+      <lb ed="#B" n="15"/>literas redactum, tamen vel ex Spiritus sancti reve 
+      <lb ed="#B" n="16"/>latione Judae notum esse potuerit. 3. Auctor sd 
+      <lb ed="#B" n="17"/>non nominat apostolum. Resp. nec Jacobus nec Jo 
+      <lb ed="#B" n="18"/>hannes in ἐπιγραφῇ sese apostolos vocant. Paulus 
+      <lb ed="#B" n="19"/>in epistol. ad Philip. servum Christi sese vocat 
+      <lb ed="#B" n="20"/>quod facit etiam Judas hoc loco, et addit, frate 
+      <lb ed="#B" n="21"/>Jacobi, ex quo apostolica ejus auctoritas manifest. 
+      <lb ed="#B" n="22"/>colligitur. In utraque ad Thessalonicenses epistoli 
+      <lb ed="#B" n="23"/>Paulus apostoli nomen mittit, neque tamen quis 
+      <lb ed="#B" n="24"/>quam de auctoritate illarum epistolarum proptere 
+      <lb ed="#B" n="25"/>dubitat. 4. Auctor eignificat se post apostolos vi 
+      <lb ed="#B" n="26"/>xisse v. 17: Memores estote verborum, quae 
+      prae<lb ed="#B" n="27" break="no"/>dicta fuerunt ab apostolis D. N. J. C. Resp. 
+      ho<lb ed="#B" n="28" break="no"/>probat epistolam Judae scriptam esse post 
+      Pauli<lb ed="#B" n="29" break="no"/>nas et Petrinas, in quibus illae praedictiones ex 
+      <lb ed="#B" n="30"/>stant 1. Tim. 4, v. 1. 2. Tim. 3, v. 1. 2. Petr. 2. 
+      <lb ed="#B" n="31"/>v. 1. nequaquam vero seipsum ex numero apostolo 
+      <lb ed="#B" n="32"/>rum verbis illis excludit. Fuit Judas quibusdam 
+      <lb ed="#B" n="33"/>apostolis posterior, Petro sc., Paulo, Jacobo, non 
+      <lb ed="#B" n="34"/>tamen omnibus, quia Johannes adhuc supererat 
+      <lb ed="#B" n="35"/>5. Judas docuit in Persia, ergo non Graece sec 
+      <lb ed="#B" n="36"/>Persice scripsisset, si hujus epistolae auctor esses 
+      <lb ed="#B" n="37"/>Resp. Epistola Judae est catholica, i. e. non ad 
+      <lb ed="#B" n="38"/>certam aliquam ecclesiam, sed ad omnes fidele 
+      <lb ed="#B" n="39"/>scripta, xml:ideo etiam vulgatissma tunc temporis 
+      lin<lb ed="#B" n="40" break="no"/>gua, Graeca sc. in scribendo auctor uti voluit, 
+      <lb ed="#B" n="41"/>Paulus ad Romanos scribens non Romana, sed 
+      <lb ed="#B" n="42"/>Graeca lingua usus est. Nimirum Spiritus s. Grae 
+      <lb ed="#B" n="43"/>cam linguam in N. T. voluit esse authenticam, ut 
+      <lb ed="#B" n="44"/>Hebraeam in V. T. 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e2648">
+               <lb ed="#B" n="45"/>290. Recipimus ergo et Judae epistolam inter ea 
+      <lb ed="#B" n="46"/>ionicos libros, sed ordinis secundi. Auctor ejus 
+      <lb ed="#B" n="47"/>Judas fuit τριώνυμος, cum etiam Thaddaeus e 
+      <lb ed="#B" n="48"/>Lebbaeus fuerit appellatus Matth. 10, v. 3. Mare 
+      <lb ed="#B" n="49"/>3. v. 20. Ad eosdem videtur haec epist. scripta, ad 
+      <lb ed="#B" n="50"/>quos posterior Petri, videl. ad eos praecipue, qui 
+      <lb ed="#B" n="51"/>ex circumcisione crediderant, quod ipsum innui 
+      <lb ed="#B" n="52"/>v. 17: Memores estote verborum, quae praedicto 
+      <lb ed="#B" n="53"/>runt ab apostolis Dn. N. J. C. qui dicebant vobis 
+      <lb ed="#B" n="54"/>qioniam in novissimo tempore venient illusores 
+      <lb ed="#B" n="55"/>quae verba exstant 2. Petr. 2, v. 1. Id ipsum in 
+      <lb ed="#B" n="56"/>dicat v. 5. Commonere autem vos volo scientes 
+      <lb ed="#B" n="57"/>remel omnia. Hoc enim aptissime Judaeis convenit, 
+      <lb ed="#B" n="58"/>a prima inde aetate saer. historiae cognitione imbutis 
+      <lb ed="#B" n="59"/>Ejusdem etiam argumenti est cum posteriore Pe 
+      <lb ed="#B" n="60"/>trina, cum qua iisdem sententiis et verbis utitur 
+      <!--197.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Quidam existimant, has epistolas Petri et Judae 
+      di<lb ed="#B" n="62" break="no"/>rectas potissimum adversus Gnosticos. Sed illorum 
+      <lb ed="#B" n="63"/>haeresis apostolorum temporibus fuit posterior, ut 
+      <lb ed="#B" n="64"/>ex Irenaeo et Epiphanio constat. Rectius igitur 
+      <lb ed="#B" n="65"/>statuitur, quod scriptae sint contra asseclas Simonis 
+      <lb ed="#B" n="66"/>Magi et Nicolaitas, quorum turpissima haeresis post 
+      <lb ed="#B" n="67"/>excessum apostolorum longe lateque serpere incipie 
+      <lb ed="#B" n="68"/>bat, unde Epiphanius in haeres. Gnosticorum, qui 
+      <lb ed="#B" n="69"/>a Simone Mago originem ducebant, post commemo 
+      <lb ed="#B" n="70"/>ratas nefarias illius sectae libidines subjungit 
+      <lb ed="#B" n="71"/>Quare de his commotus Spiritus sanctus in apo 
+      <lb ed="#B" n="72"/>tolo Juda ait: Quaecunque naturaliter tanquan 
+      <lb ed="#B" n="73"/>muta animantia norunt, in his corrumpuntur. 
+      Ex<lb ed="#B" n="74" break="no"/>nortatur igitur in hac epistola Judas conversos ex 
+      <lb ed="#B" n="75"/>Judaeis ad constantiam in fide, ac praemonet a 
+      <lb ed="#B" n="76"/>seductoribus, qui doctrinam de persona Christi de 
+      <lb ed="#B" n="77"/>pravabant, gratiam Dei et spiritualem libertatem 
+      <lb ed="#B" n="78"/>evangelii traducebant in licentiam carnis, magistra 
+      <lb ed="#B" n="79"/>tui subjectionem denegabant et dissensiones in eo 
+      <lb ed="#B" n="80"/>lesia excitabant. Illos graviter Judas terret et 
+      ju<lb ed="#B" n="81" break="no"/>dicium Dei ipsis minatur exemplo Israëlitarum in 
+      <lb ed="#B" n="82"/>deserto, malorum angelorum et Sodomitarum; ad 
+      <lb ed="#B" n="83"/>tandem docet, quomodo per fidem et preces ipsc 
+      <lb ed="#B" n="84"/>rum fraudes sint cavendae. 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e2742">
+               <lb ed="#B" n="85"/>291. Ceterum septem epistolae in classe aposto. 
+      <lb ed="#B" n="86"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="87"/>licarum postremum locum obtinentes videlicet 
+      Ja<lb ed="#B" n="88" break="no"/>cobi una, Petri duae, Johannis tres et Judae una 
+      <lb ed="#B" n="89"/>vulgo appellantur canonicae, non quod vel solae vel 
+      <lb ed="#B" n="90"/>praecipue sint canonicae, sed quia canones sive re 
+      <lb ed="#B" n="91"/>culas ac praecepta vitae Christianae contineant 
+      <lb ed="#B" n="92"/>Veteri autem inscriptione in Latinis codicibus, tum 
+      <lb ed="#B" n="93"/>maxime in Graecis appellantur catholicae, quo 
+      no<lb ed="#B" n="94" break="no"/>mine etiam citantur ab Origene apud Eusebium 
+      <lb ed="#B" n="95"/>lib. 6. Hist. c. 19. Dionysio Alexandrino apud 
+      eun<lb ed="#B" n="96" break="no"/>dem lib. 7. c. 20. atque ipsomet Eusebio lib. 1 
+      <lb ed="#B" n="97"/>e. 22. Cyrillo Hierosolymitano Catech. 17. Hiero 
+      <lb ed="#B" n="98"/>nymo in catal. script. ete. quia scilicet non ad 
+      <lb ed="#B" n="99"/>unam aliquam civitatem ac particularem ecclesiam 
+      <lb ed="#B" n="100"/>scriptae sunt, ut Pauli ad Romanos, ad 
+      Corinthio<lb ed="#B" n="101" break="no"/>ete. nec ad unum hominem, ut ejusdem ad 
+      Timo<lb ed="#B" n="102" break="no"/>theum, Titum, Philemonem, sed generatim ad fide 
+      <lb ed="#B" n="103"/>es in varias regiones dispersos. Secundae et tertiae 
+      <lb ed="#B" n="104"/>Johannis haec appellationis ratio proprie non 
+      con<lb ed="#B" n="105" break="no"/>gruit, usus tamen obtinuit, ut et illae sic vocaren 
+      <lb ed="#B" n="106"/>tur, eo quod primae Johannis catholicae 
+      conjungan<lb ed="#B" n="107" break="no"/>tur. Hieronymus in epistola ad Paulinum catholicas 
+      <lb ed="#B" n="108"/>illas epistolas hoc ornat eneomio: Jacobus, Petrus 
+      <lb ed="#B" n="109"/>Johannes, Judas septem epistolas ediderunt tam 
+      <lb ed="#B" n="110"/>nysticas, quam succinctas, et breves pariter a 
+      <lb ed="#B" n="111"/>longas, breves in verbis, longas in sententiis, u 
+      <lb ed="#B" n="112"/>rarus sit, qui non in earum coecutiat lectione 
+      <lb ed="#B" n="113"/>Augustinus in libr. de fid. et operibus e. 10. sta 
+      <lb ed="#B" n="114"/>tuit: Petrum, Johannem, Jacobum et Judam in 
+      <lb ed="#B" n="115"/>pistolis suis ad xml:id collimasse, ut oppugnaren 
+      <lb ed="#B" n="116"/>opinionem, quod fides h. e. vana fidei persuasio et 
+      <lb ed="#B" n="117"/>nuda professio sine operibus ad salutem sufficeret 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e2818">
+               <lb ed="#B" n="118"/>292. 7. Apocalypsis. De hoc libro itidem varia 
+      <lb ed="#B" n="119"/>runt antiquitatis testimonia. Euseb. libr. 3. Hist. 
+      <lb ed="#B" n="120"/>celes. e. 21. De Apocalypsi etiamnum apud 
+      mul<lb ed="#B" n="121" break="no"/>tos dispar est opinio, probantibus illam aliis, aliis 
+      <!--198.xml-->
+      <pb ed="#B" n="125"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>vero reprobantibus. c. 22. Conveniens fuerit, ut hoc 
+      <lb ed="#B" n="2"/>loco conatituti Scripturas novi instrumenti summatin 
+      <lb ed="#B" n="3"/>colligamus. Priore loco ponenda est cancta illo 
+      <lb ed="#B" n="4"/>quadrijuga evangelistarum Scriptura, quam 
+      apo<lb ed="#B" n="5" break="no"/>stolorum Acta aequuntur. Post haec subjungenda 
+      <lb ed="#B" n="6"/>cunt epiet. Pauli, illis cubjiciatur, quae prior 
+      Jo<lb ed="#B" n="7" break="no"/>hannia esse fertur, aimiliter et quae Petri est, ar 
+      <lb ed="#B" n="8"/>thentica. Post has ordinetur, si visum fuerit, Apo 
+      <lb ed="#B" n="9"/>calypeis Johannie, de qua quid sentiatur, quo loco 
+      <lb ed="#B" n="10"/>exponemus. Et haec quidem scripta pro indubitati 
+      <lb ed="#B" n="11"/>habentur. Quibus vero contradicitur, haec sunt, 
+      <lb ed="#B" n="12"/>epistola quae Jacobo tribuitur et epistola Judae 
+      e<lb ed="#B" n="13" break="no"/>posterior Petri et altera cum tertia Johannis etc. 
+      <lb ed="#B" n="14"/>Inter adulterina censeantur et Acta Pauli et libe 
+      <lb ed="#B" n="15"/>dictuo Pastor et Apocalypoia Petri. Praeterea e 
+      <lb ed="#B" n="16"/>circum fertur epistola Barnabae et apostolorum 
+      do<lb ed="#B" n="17" break="no"/>ctrinae dictae, ad haec et Apocalypsis Johannis, a 
+      <lb ed="#B" n="18"/>pidetur, quam nonnulli reprobant, alii vero certis 
+      <lb ed="#B" n="19"/>et indubitatis Scripturis adjudicant. lib. ejusd. c. 36. 
+      <lb ed="#B" n="20"/>ix sententia Papiae duos Johannes statuit: unum 
+      <lb ed="#B" n="21"/>apostolum, alterum presbyterum eive seniorem 
+      <lb ed="#B" n="22"/>extra apostolorum catalogum, et addit: Verosimile 
+      <lb ed="#B" n="23"/>est, alterum, nisi quis primum malit, Apocalypsin 
+      <lb ed="#B" n="24"/>illam vidisse, quae sub nomine Johannis circum 
+      <lb ed="#B" n="25"/>fertur. lib. 7. e. 24. ex Dionysio. Nonnulli eorum 
+      <lb ed="#B" n="26"/>qui noc praeceseerunt, librum hunc Apocalypseo 
+      <lb ed="#B" n="27"/>proreus reprobarunt ac rejecerunt, discussisque sin 
+      <lb ed="#B" n="28"/>gulis illius capitibus obecurum et nullis rationibus 
+      <lb ed="#B" n="29"/>fultum esse decernentes, denique et inscriptionem 
+      <lb ed="#B" n="30"/>mentiri. Johannia enim eam non esse, imo ne reve 
+      <lb ed="#B" n="31"/>ationem quidem esse dicerunt, quae admodum 
+      <lb ed="#B" n="32"/>craeso ignorantiae velo sit adoperta. Quin non 
+      <lb ed="#B" n="33"/>modo ex apostolis neminem, sed nec ex sanctis aus 
+      <lb ed="#B" n="34"/>iis, qui ad eccleciam pertinent, aliquem scripti hu 
+      <lb ed="#B" n="35"/>jus eose auctorem, sed Cerinthum haeresis illius 
+      <lb ed="#B" n="36"/>quam Cerinthianam vocant, conditorem nomine 
+      Jo<lb ed="#B" n="37" break="no"/>hannis tanquam fide digno figmentum inscriber 
+      <lb ed="#B" n="38"/>voluisee. Esse enim hoc doctrinae illius dogmo 
+      <lb ed="#B" n="39"/>reqnum Christi fore terrenum et quae ipse tanquam 
+      <lb ed="#B" n="40"/>corporis sui studiosue et vehementer carnalis 
+      conci<lb ed="#B" n="41" break="no"/>piverit, in illia se futurum somniasse, ventris, 
+      sci<lb ed="#B" n="42" break="no"/>licet et eorum quae ventri subserviunt, 
+      caturationi<lb ed="#B" n="43" break="no"/>bus, cibis nempe ac potibus et nuptiis etc. (Haec 
+      <lb ed="#B" n="44"/>cententia est manifeste falsa, quia blasphemia 
+      Ce<lb ed="#B" n="45" break="no"/>rinthi contra divinitatem Christi pluribus in locis 
+      <lb ed="#B" n="46"/>nujus libri refellitur. Dogma ipsius voluptarium de 
+      <lb ed="#B" n="47"/>terreno Christi regno nihil in illo praesidii invenis 
+      <lb ed="#B" n="48"/>ei locus ad fidei analogiam et Scripturae consensum 
+      <lb ed="#B" n="49"/>explicetur, unde subjicit Dionysius) Ego vero 
+      <lb ed="#B" n="50"/>librum hunc reprobare quidem non ausim, quod 
+      <lb ed="#B" n="51"/>hunc multi ex fratribus studiose legant, sec 
+      <lb ed="#B" n="52"/>majore de illo existimatione concepta, quam ut e 
+      <lb ed="#B" n="53"/>me intelligi possit, arcanam quandam et admira 
+      <lb ed="#B" n="54"/>bilem in eingulis illius capitibus futurarum rerum 
+      <lb ed="#B" n="55"/>ecapectationem contineri suspicor. Et postea: Vocar 
+      <lb ed="#B" n="56"/>hunc Johannem, et esae Scripturam hanc Johannis 
+      <lb ed="#B" n="57"/>non abnego, consentio enim eam esse sancti cujus 
+      <lb ed="#B" n="58"/>dam et divino Spiritu imbuti, verum esse hunc apo 
+      <lb ed="#B" n="59"/>otolum filium Zebedaei, fratrem Jacobi, cujus 
+      evan<lb ed="#B" n="60" break="no"/>gelium est secundum Johannem inscriptum et epi¬ 
+      <!--198.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>stola catholica, haud facile concesserim. Hujus 
+      <lb ed="#B" n="62"/>udicii, quod de Apocalypsi tulit Dionysius, 
+      me<lb ed="#B" n="63" break="no"/>ninit etiam xml:idem Eusebius lib. 3, c. 25. Hierony. 
+      <lb ed="#B" n="64"/>mus in epist. ad Dardanum tom. 4. f. 29: Graeci 
+      <lb ed="#B" n="65"/>de Apocalypsi contra communem Latinorum 
+      con<lb ed="#B" n="66" break="no"/>sensum dubitarunt, ut xml:id temporis plerique Latino 
+      <lb ed="#B" n="67"/>rum de epistola ad Hebraeos contra communen 
+      <lb ed="#B" n="68"/>Praecorum sententiam. Amphilochius in jambis 
+      <lb ed="#B" n="69"/>ad Seleucum de libris Scripturae sacrae. 
+      Apoca<lb ed="#B" n="70" break="no"/>ypein longe plurimi adulterinam dicunt. Junilius 
+      <lb ed="#B" n="71"/>Episcopus in quaestionibus c. 4: De Johannis 
+      <lb ed="#B" n="72"/>Apocalypsi apud orientales admodum dubitatur 
+      <lb ed="#B" n="73"/>Idem est recentiorum quorundam de hoc libro 
+      ju<lb ed="#B" n="74" break="no"/>dicium. Erasmus in annotat. Act. 1. p. 199: 
+      Apo<lb ed="#B" n="75" break="no"/>calypsin sero recepit Italia. Graecia ne nunc qui 
+      <lb ed="#B" n="76"/>dem satis approbat. in annot. Apoc. 22. p. 547. 
+      <lb ed="#B" n="77"/>Testatur D. Hieronymus, Apocalypsin ne aua qui 
+      <lb ed="#B" n="78"/>dem aetate fuisse receptam a Graecis; ad haec 
+      <lb ed="#B" n="79"/>quosdam eruditissimos viros totum hoc argumentum 
+      <lb ed="#B" n="80"/>ceu fictum multis conviciis insectatos fuisse, quas 
+      <lb ed="#B" n="81"/>nihil haberet apostolicae gravitatis, sed vulgatam 
+      <lb ed="#B" n="82"/>tantum rerum historiam figurarum involucris 
+      <lb ed="#B" n="83"/>idumbratam. Deinde nec in sententiis esse, quod 
+      <lb ed="#B" n="84"/>apostolica majestate dignum videatur. Ut de his 
+      <lb ed="#B" n="85"/>nterim nihil dicam, me nonnihil moverunt cum 
+      <lb ed="#B" n="86"/>aliae conjecturae, tum illae, quod revelationes scri 
+      <lb ed="#B" n="87"/>bens tam solicite inculcat suum nomen, etc. Haec, 
+      <lb ed="#B" n="88"/>inquam, me nonnihil moverent, quominus crederen 
+      <lb ed="#B" n="89"/>esse Johannis evangelistae, nisi me consensus orbis 
+      <lb ed="#B" n="90"/>alio vocaret, praecipue vero auctoritas ecclesiae, si 
+      <lb ed="#B" n="91"/>amen hoc opus animo comprobat ecclesia, ut 
+      Jo<lb ed="#B" n="92" break="no"/>iannis evangelistae velit haberi et pari esse pondere 
+      <lb ed="#B" n="93"/>cum ceteris canonicis libris. Jam Dionysius 
+      <lb ed="#B" n="94"/>Tyri episcopus ac martyr in compendio vitarum 
+      <lb ed="#B" n="95"/>prodidit, Johannem evangelium suum scripsiese in 
+      <lb ed="#B" n="96"/>insula Patmo, ceterum de Apocalypei nullam 
+      <lb ed="#B" n="97"/>omnino mentionem facit. Ne Anastasius quidem 
+      <lb ed="#B" n="98"/>Graecus in suo catalogo audet affirmare, opus hoc 
+      <lb ed="#B" n="99"/>llius esse, tantum ait receptum a quibusdam 
+      tan<lb ed="#B" n="100" break="no"/>quam illius opus. Equidem video veteres theologos 
+      <lb ed="#B" n="101"/>magis ornandae rei gratia hinc adducere testimo 
+      <lb ed="#B" n="102"/>tia, quam ut rem seriam evincant. Luth. in praefat 
+      <lb ed="#B" n="103"/>Apocal. rem in medio relinquit, an sit Johannis 
+      <lb ed="#B" n="104"/>apost. liber, nec tamen prohibet, quin statuatur esse 
+      <lb ed="#B" n="105"/>Joh. interim agnoscit esse prophetiam divinitus 
+      in<lb ed="#B" n="106" break="no"/>piratam. Camerarius in praefat. Apoc. Oratio 
+      <lb ed="#B" n="107"/>dissimilis est ejus, qua conscripta exstat evangelii 
+      <lb ed="#B" n="108"/>aepositio et epistolae compositio 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e3074">
+               <lb ed="#B" n="109"/>293. Sed demonstrari potest argumentis non 
+      con<lb ed="#B" n="110" break="no"/>temnendis, librum Apocalypseos esse canonicum et 
+      <lb ed="#B" n="111"/>a Johanne apostolo scriptum 1. ex ἐπιγραφῇ. 
+      In<lb ed="#B" n="112" break="no"/>scriptio est satis luculenta. Apocalypsis Johannis 
+      <lb ed="#B" n="113"/>Theologi. Quod autem theologus ille sit Johannes 
+      <lb ed="#B" n="114"/>apostolus κατ᾽ ἐξοχήν sic dictus, apparet ex 
+      confor<lb ed="#B" n="115" break="no"/>mitate exordii in hoc libro et in evangelica historis 
+      <lb ed="#B" n="116"/>uti etiam in prima epistola usurpati. Auctor hujus 
+      <lb ed="#B" n="117"/>ibri c. 1, v. 1. et 2. scribit: Jesum Christum hanc 
+      <lb ed="#B" n="118"/>ἐποκάλυψιν dedisse Johanni servo suo, qui 
+      testifi<lb ed="#B" n="119" break="no"/>catus sit sermonem Dei et testimonium Jesu Christi 
+      <lb ed="#B" n="120"/>et quaecunque vidit. Eodem fere modo de se lo¬ 
+      <!--199.xml-->
+      <pb ed="#B" n="126"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>quitur Johannes in historia evangelica c. 21, v. 24: 
+      <lb ed="#B" n="2"/>Hic est discipulus ille, qui sermonem perhibet d. 
+      <lb ed="#B" n="3"/>his et scripsit haec, et scimus, quod verum est 
+      testi<lb ed="#B" n="4" break="no"/>monium ejus. Pari ratione etiam primam episte 
+      <lb ed="#B" n="5"/>lam exorditur: Quod erat ab initio, quod vidimus 
+      <lb ed="#B" n="6"/>quod audivimus, quod oculis nostris perspeximus 
+      <lb ed="#B" n="7"/>id annuntiamus vobis. 1 Joh. 1, v. 1. 2. et. 
+      <lb ed="#B" n="8"/>2. ex stilo. Peculiare est Johanni prae reliquis libro 
+      <lb ed="#B" n="9"/>rum N. T. scriptoribus Filium Dei vocare Aóγot 
+      <lb ed="#B" n="10"/>Joh. 1, v. 1. 1. Joh. 1, v. 1. jam vero eandem 
+      <lb ed="#B" n="11"/>appellationem tribuit Filio Dei in hoc libro. 
+      Apo<lb ed="#B" n="12" break="no"/>19, v. 13. 3. ex circumstantia loci et temporis. Ire 
+      <lb ed="#B" n="13"/>naeus lib. 5, c. 5. et ex eo Eusebius lib. 3. Histor. 
+      <lb ed="#B" n="14"/>eccles. c. 16. testantur, Johannem tum cum a De 
+      <lb ed="#B" n="15"/>mitiano in Patmum relegatus esset, vidisse Apo 
+      <lb ed="#B" n="16"/>calypsin et vidisse eam fere sub jinem imperii 
+      Do<lb ed="#B" n="17" break="no"/>mitiani, cui consentit etiam Hieronymus de vir 
+      <lb ed="#B" n="18"/>illustrib. anno Christi 97. juxta Funccii computa 
+      <lb ed="#B" n="19"/>tionem. Jam vero hic ipse liber testatur, quod Jo 
+      <lb ed="#B" n="20"/>hannes hanc visionem a se descriptam in Patm 
+      <lb ed="#B" n="21"/>sub finem imperii Domitiani viderit. Apoc. 1, v. 9. 
+      <lb ed="#B" n="22"/>Ego Johannes, qui et frater vester sum et 
+      sociu<lb ed="#B" n="23" break="no"/>in afflictione et reqno et tolerantia J. C., eram in 
+      <lb ed="#B" n="24"/>insula, quae vocatur Patmos, propter sermonem 
+      <lb ed="#B" n="25"/>Dei et testimonium Jesu Christi. 4. ex collation. 
+      <lb ed="#B" n="26"/>Si instituatur collatio harum visionum cum prophe 
+      <lb ed="#B" n="27"/>ticis versionibus, apparebit, Apocalypsin non pro 
+      <lb ed="#B" n="28"/>cul a natura propheticarum visionum, praesertim 
+      <lb ed="#B" n="29"/>Ezechielis recedere, imo etiam easdem illustrare 
+      <lb ed="#B" n="30"/>quales sunt de quatuor animalibus, de Gog e 
+      <lb ed="#B" n="31"/>Magog, de dimensione templi ete. 5. ex eventu 
+      <lb ed="#B" n="32"/>Eventus vaticiniorum interpres optimus, quo plerae 
+      <lb ed="#B" n="33"/>que visiones jam tum comprobatae sunt, canonicae 
+      <lb ed="#B" n="34"/>et apostolicae hujus libri auctoritati luculentur 
+      <lb ed="#B" n="35"/>praebet testimonium. Jerem. 28, v. 9: Cum venere 
+      <lb ed="#B" n="36"/>Verbum ejus, scietur propheta, quem mittit Deus i 
+      <lb ed="#B" n="37"/>veritate. Iren. lib. 4. adv. haeres. c. 43. Omni 
+      <lb ed="#B" n="38"/>prophetia priusquam habeat efficaciam, aenigmate 
+      <lb ed="#B" n="39"/>et ambiquitas sunt hominibus, cum autem veneri 
+      <lb ed="#B" n="40"/>tempus et evenit, quod prophetatum est, tunc 
+      pro<lb ed="#B" n="41" break="no"/>phetiae habent liquidam et certam expositionem 
+      <lb ed="#B" n="42"/>6. ex praedictione. Danieli prophetae facta est 
+      pro<lb ed="#B" n="43" break="no"/>missio de explicatione vaticinii, quamdiu duratura 
+      <lb ed="#B" n="44"/>sit regni antichristiani xml:idololatria ac tyraunis. Dar 
+      <lb ed="#B" n="45"/>12, v. 4. et 9. haec promissio impleta fuit in 
+      Apoe<lb ed="#B" n="46" break="no"/>lypticis hisce visionibus c. 11. 12. 13. 17. ete. 7. e 
+      <lb ed="#B" n="47"/>qualitate. Tanta est hujus scripti sublimitas ac 
+      mi<lb ed="#B" n="48" break="no"/>jestas, ut nulli ex vetustissimis etiam patribus tri 
+      <lb ed="#B" n="49"/>bui possit ob futurorum praedictionem, quae 
+      div<lb ed="#B" n="50" break="no"/>nae omniscientiae est propria Esai. 41, v. 22. ne 
+      <lb ed="#B" n="51"/>nisi apostolo per Spiritus sancti inspirationem 
+      e<lb ed="#B" n="52" break="no"/>per propheticas visiones revelata. Hieronymus in 
+      <lb ed="#B" n="53"/>epistol. ad Paulin. Apocalypsis tot habet sacre 
+      <lb ed="#B" n="54"/>menta, quot verba. Parum dixi, pro merito volo 
+      <lb ed="#B" n="55"/>minis laus omnis inferior est, in verbis eingulo 
+      <lb ed="#B" n="56"/>multiplices latent intelligentiae. Joachimus 
+      Abba<lb ed="#B" n="57" break="no"/>hanc prophetiam omnibus aliorum prophetarum ve 
+      <lb ed="#B" n="58"/>ticiniis praefert. 8. ex utilitate. Ecclesiae utilitas 
+      <lb ed="#B" n="59"/>cum quadam necessitate conjuncta hujus libri au 
+      <lb ed="#B" n="60"/>ctoritatem probat, alioqui enim deterior fuisset 
+      <!--199.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ecclesiae Novi Testamenti conditio quam Veteris, si 
+      <lb ed="#B" n="62"/>nullo canonicorum scriptorum libro sub horrendis 
+      <lb ed="#B" n="63"/>antichristi tenebris constituta, divinitus fuisset in 
+      <lb ed="#B" n="64"/>structa. 9. ex testimoniis veterum. In concilio 
+      <lb ed="#B" n="65"/>Ancyrano c. 4. citatur nomine Johannis, quod Jo 
+      <lb ed="#B" n="66"/>hannes sacramentum Apocalyseos in spiritu, 
+      no<lb ed="#B" n="67" break="no"/>in corpore viderit. Concilium Carthaginiense 3 
+      <lb ed="#B" n="68"/>can. 17. numerat hunc librum inter canonica N. T. 
+      <lb ed="#B" n="69"/>oracula. In concilio Toletano 4. can. 16: 
+      Apoca<lb ed="#B" n="70" break="no"/>upsin librum multorum conciliorum auctoritas et 
+      <lb ed="#B" n="71"/>synodica sanctorum praesulum Romanorum decreto 
+      <lb ed="#B" n="72"/>Johannis evangelistae esae praescribunt, et inter do 
+      <lb ed="#B" n="73"/>vinos libroo recipiendum constituerunt. Et quio 
+      <lb ed="#B" n="74"/>plurimi sunt, qui ejus auctoritatem non recipiunt, 
+      <lb ed="#B" n="75"/>cumque in ecclesia Dei praedicare contemnunt, ai 
+      <lb ed="#B" n="76"/>quis eum deincepa non receperit, aut a pascha 
+      us<lb ed="#B" n="77" break="no"/>que ad pentecosten missarum tempore in ecclesia 
+      <lb ed="#B" n="78"/>non praedicaverit, caecommunicationis sententiam 
+      <lb ed="#B" n="79"/>habebit. Dionys. eceles. hierarch. c. 3. vocat 
+      Apoca<lb ed="#B" n="80" break="no"/>calypsin arcanam et mysticam visionem dilecti 
+      dis<lb ed="#B" n="81" break="no"/>cipuli. Justinus in Dial. cum Tryphone dicit, ess 
+      <lb ed="#B" n="82"/>Johannis evangelistae: ἐπιιδὴ καὶ παρ᾽ ἡμῖν ἀνή¬ 
+      <lb ed="#B" n="83"/>τις ῳ ὄνομα Ἰωάννης εἰς τῶν ἀποστόλων 1οῦ Χριστοῦ 
+      <lb ed="#B" n="84"/>ἐν ἀποκαλύψει γενομένῃ ἀυτῷ χίλια ἔτη ποιήσειν ἐν 
+      <lb ed="#B" n="85"/>Περουσαλὴμ τοὺς τῷ ἡμετέρῳ Χριστῷ πιστεύσαντα 
+      <lb ed="#B" n="86"/>προει ἥτευσεν. (ad hunc Justini locum respicit Euse 
+      <lb ed="#B" n="87"/>bius lib. 4. Histor. e. 18. scribens: Justinus recor 
+      <lb ed="#B" n="88"/>datur Apocalypsis Johannis, manifeste illam apo 
+      <lb ed="#B" n="89"/>stoli esae dicens) Irenaeus bis allegat sub nomine 
+      <lb ed="#B" n="90"/>Johannis apostoli, praecipue vero lib. 5. c. 25. p. 33. 
+      <lb ed="#B" n="91"/>scribit: Sibi fuisse notos quoadam, qui ab ipso 
+      Jo<lb ed="#B" n="92" break="no"/>hanne explicationem myjsteriorum in Apocalypae 
+      <lb ed="#B" n="93"/>propositorum audiverant. Hieronymus de vir. illustr. 
+      <lb ed="#B" n="94"/>refert: Irenaeum commentarios in Apocalypsin 
+      <lb ed="#B" n="95"/>scripsisse. Theophilus Antiochenae ecclesiae epi 
+      <lb ed="#B" n="96"/>scopus in libro contra haeresin Hermogenis, 
+      Apo<lb ed="#B" n="97" break="no"/>calypseos Johanneae testimoniis utitur, referente 
+      <lb ed="#B" n="98"/>Eusebio lib. 4. Histor. eccles. c. 23. Melito 
+      Sar<lb ed="#B" n="99" break="no"/>densis episcopus librum scripsit de Apocalypsi 
+      Jo<lb ed="#B" n="100" break="no"/>hannis, referente eodem Eusebio lib. 4. e. 25. 
+      Dio<lb ed="#B" n="101" break="no"/>lysius Alexandrinus etsi negat esse Johannis 
+      <lb ed="#B" n="102"/>tamen agnoscit esse auctoris alicujus divino Spirita 
+      <lb ed="#B" n="103"/>imbuti apud Euseb. lib. 7. Hist. c. 24. Clemens 
+      <lb ed="#B" n="104"/>Alexandrinus lib. 2. paedag. c. 12. Apocalypsin. 
+      <lb ed="#B" n="105"/>citat. Origenes homil. 7. in Josuam et in Psal. s. 
+      <lb ed="#B" n="106"/>eam Johanni apostolo tribuit, quod facit etiam 
+      Eu<lb ed="#B" n="107" break="no"/>sebius in Chron. ann. 96. Athanasius in Synope 
+      <lb ed="#B" n="108"/>seribit: Apocalypsin a priscis patribus approbatam 
+      <lb ed="#B" n="109"/>Epiphanius haeres. 51. et 76. Chrysostomus homil. 3. 
+      <lb ed="#B" n="110"/>in Ps. 9I. Damascenus lib. 4. c. 18. Apocalypsi. 
+      <lb ed="#B" n="111"/>et sacram et Johannis esse agnoscunt, ubi observa 
+      <lb ed="#B" n="112"/>Lenaeum et alios veteres testes habuisse suae nar 
+      <lb ed="#B" n="113"/>rationis ecclesias Asiaticas, quarum auctoritate 
+      <lb ed="#B" n="114"/>Irenaeus numerum bestiae c. 14. corrigit, ut non 
+      <lb ed="#B" n="115"/>sit legendum xis sed xës non 616, sed 666. eo 
+      sci<lb ed="#B" n="116" break="no"/>icet modo, quo nunc legimus. Eadem omnino est 
+      <lb ed="#B" n="117"/>Latinorum patrum sententia. Tertullian. lib. 4. adv 
+      <lb ed="#B" n="118"/>Marcion. p. 226: Etei Apocalypsin Johannis 
+      Mar<lb ed="#B" n="119" break="no"/>cion respuit, ordo tamen episcoporum ad 
+      Orige<lb ed="#B" n="120" break="no"/>nem recensus in Johannem stabit auctorem. Cypri 
+      <!--200.xml-->
+      <pb ed="#B" n="127"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>anus de exhortat. martyr. c. 3. et seqq. Apocaly. 
+      <lb ed="#B" n="2"/>pein ut reliquas Scripturas passim citat. Idem 
+      fi<lb ed="#B" n="3" break="no"/>ciunt Hilarius praefat. in Psalm. Ambrosius in 
+      <lb ed="#B" n="4"/>Psal. 40. ubi Johanni evangelistae disertis verbi 
+      <lb ed="#B" n="5"/>eam tribuit, August. lib. 2. de doctr. Christ. c.. 
+      <lb ed="#B" n="6"/>et tract. 36. in Joh. Rufinus in expos. Symb. Isi 
+      <lb ed="#B" n="7"/>dorus lib. 6. etymol. c. 1. ubi Johannis aposto 
+      <lb ed="#B" n="8"/>eam esse agnoscunt. Hieronymus in epist. ad 
+      Da<lb ed="#B" n="9" break="no"/>dan. dicit, hanc esse omnium Latinorum patrum 
+      <lb ed="#B" n="10"/>sententiam. Graeci quidem non receperunt Apoca 
+      <lb ed="#B" n="11"/>lypsin, teste eodem d. I. sed ex testimoniis 
+      paul<lb ed="#B" n="12" break="no"/>superius adductis apparet, illos et paucos et 
+      obseu<lb ed="#B" n="13" break="no"/>ros fuisso. Merito igitur scribit Chytraeus in Apoc 
+      <lb ed="#B" n="14"/>Vetustiosimos doctores, qui tomporibus apostolorum 
+      <lb ed="#B" n="15"/>vicini fuerunt, communi conseneu hunc librum Jo 
+      <lb ed="#B" n="16"/>hanni apostolo adscripeisse, quod testimoniis 
+      Ju<lb ed="#B" n="17" break="no"/>stini, Irenaei, Tertulliani, Apollonii, Cypriani, Ori 
+      <lb ed="#B" n="18"/>genis, Epiphanii, Augustini, Hippolyti, Andreae 
+      Ca<lb ed="#B" n="19" break="no"/>rariensis, Aretae, etc. confirmari possit. Quid quod 
+      <lb ed="#B" n="20"/>in Marcionitis a Tertull. lib. 4. adv. Marcionem, in 
+      <lb ed="#B" n="21"/>Theodocianis ab Epiphanio haeres. 51. et 54. ij 
+      <lb ed="#B" n="22"/>Alogianis a Philastrio et August. tanquam haeres. 
+      <lb ed="#B" n="23"/>fuit improbatum, quod canonicam hujus libri aucto 
+      <lb ed="#B" n="24"/>ritatem in dubium vocarunt 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e3433">
+               <lb ed="#B" n="25"/>294. Argumenta, quae in contrarium proferuntur 
+      <lb ed="#B" n="26"/>fero sie habent. 1. ex ἐκιγραφῇ. Evangeliste 
+      <lb ed="#B" n="27"/>nunquam nomen suum adscripoit, neque 
+      praedica<lb ed="#B" n="28" break="no"/>scipeum per evangelium, neque per epistolam. Is 
+      <lb ed="#B" n="29"/>vero qui Apocalypein scripeit, mox in ipso libri 
+      <lb ed="#B" n="30"/>initio nomen suum praefigit dicens: Apocalypsi 
+      <lb ed="#B" n="31"/>J. C. quam dedit ipei, ut servis ipeius ostendat ve- 
+      <lb ed="#B" n="32"/>lociter, et significavit misso per evangelium suum 
+      <lb ed="#B" n="33"/>cervo ipoius Johanni, qui testificatus est Verbum 
+      <lb ed="#B" n="34"/>Dei et testimonium ipsius quaecunque vidit. Apoc. 1. 
+      <lb ed="#B" n="35"/>v. 1. et 2. Deinde et epistolam scribit Johannes 
+      <lb ed="#B" n="36"/>ceptem ccclesiia, quae sunt in Agia. Gratia vobis 
+      <lb ed="#B" n="37"/>et pax, v. 4. Evangelista vero ne catholicae quidem 
+      <lb ed="#B" n="38"/>opictolae nomen quum praeficit, aed ἀπερίττως a 
+      <lb ed="#B" n="39"/>mysterio divinae revelationis orsua est ad hunc mo- 
+      <lb ed="#B" n="40"/>dum: Quod audivimus, quod oculia nostris con- 
+      <lb ed="#B" n="41"/>epeximus, 1. Joh. 1. v. 1. Sed ne in altera quidem 
+      <lb ed="#B" n="42"/>nec tertia, quae sub Johannia nomine 
+      circumferun<lb ed="#B" n="43" break="no"/>tur, quantumvia brevibus epistolis, nomen suum 
+      <lb ed="#B" n="44"/>ohannes praeponit, sed eine nomine prosbyter scri- 
+      <lb ed="#B" n="45"/>poit. Hic voro contentus non fuit, postquam seipsum 
+      <lb ed="#B" n="46"/>cemel nominavit, consequenter, quae dicenda erant 
+      <lb ed="#B" n="47"/>procequi, sed rurcua repetendo dicit: Ego Johannes 
+      <lb ed="#B" n="48"/>frater vester Apoc. 1, v. 9. Quin circa calcem 
+      <lb ed="#B" n="49"/>etiam ista dicit: Beatus qui servat verba prophe- 
+      <lb ed="#B" n="50"/>tiae hujus, et ego Johannes audivi et vidi iste 
+      <lb ed="#B" n="51"/>Apoc. 22, v. 7. et 8. Itaque quod Johannes qui- 
+      <lb ed="#B" n="52"/>dam sit, qui icta ccripsit, credendum est ad hunc 
+      <lb ed="#B" n="53"/>modum loquenti. Quis vero ille eit, incertum est, 
+      <lb ed="#B" n="54"/>non enim ccipsum eose dicit, sicut in evangelio ple 
+      <lb ed="#B" n="55"/>risque locis, dilectum a Domino discipulum, neque 
+      <lb ed="#B" n="56"/>cum qui supra pectus ejus recubuerit, neque fratrem 
+      <lb ed="#B" n="57"/>Jacobi, neque eum qui Dominum viderit et audie 
+      <lb ed="#B" n="58"/>rit. Etenim horum aliquid dicieset, ei seipsum 
+      <lb ed="#B" n="59"/>manifestare voluioset. Verum nihil horum, sed 
+      <lb ed="#B" n="60"/>fratrem se et consortem nostrum ac testem Jesu 
+      <!--200.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>beatumque propter visionem et auditam 
+      revelatio<lb ed="#B" n="62" break="no"/>nem esse dixit. Arbitror autem multoa fuisse ejus 
+      <lb ed="#B" n="63"/>dem cum Johanne apostolo nominis, qui propte 
+      <lb ed="#B" n="64"/>dilectionem erga illum, et quod ipsum admiraren 
+      <lb ed="#B" n="65"/>tur aemulare uterque consimiliter a Domino diligi 
+      <lb ed="#B" n="66"/>voluerint, xml:ideoque sibi hoc nominis usurpaverint 
+      <lb ed="#B" n="67"/>Haec Dionysius apud Eusebium lib. 7. hist. c. 24. 
+      <lb ed="#B" n="68"/>Simili ratione colligit Erasmus in annot. ad. c. ult. 
+      <lb ed="#B" n="69"/>Apoc. Scribens revelationes tam solicite inculca 
+      <lb ed="#B" n="70"/>suum nomen, Ego Johannes, Ego Johannes, perindo 
+      <lb ed="#B" n="71"/>quasi syngrapham scriberet, non librum, xml:idque non 
+      <lb ed="#B" n="72"/>solum praeter morem aliorum apostolorum, verum 
+      <lb ed="#B" n="73"/>multo magis praeter suum morem, qui in evangelio 
+      <lb ed="#B" n="74"/>modestiora narrans, non exprimit tamen usquam 
+      <lb ed="#B" n="75"/>suum vocabulum, aed notulis indicat, discipulus illo 
+      <lb ed="#B" n="76"/>quem diligebat Jesus et Paulus coactus referre d 
+      <lb ed="#B" n="77"/>visionibus suis rem sub alterius exponit persono 
+      <lb ed="#B" n="78"/>At hic tam arcana cum angelis colloquia describens. 
+      <lb ed="#B" n="79"/>quot locis inculcat, Ego Johannes? Ad haec in 
+      <lb ed="#B" n="80"/>Graecis, quos ego viderim, codicibus non erat titu 
+      <lb ed="#B" n="81"/>lus Johannis evangelistae sed Johannis theologi 
+      <lb ed="#B" n="82"/>Resp.: 1. per inversionem. Quia Johannes toties 
+      <lb ed="#B" n="83"/>inculcat suum nomen, xml:ideo dubitari non debet, 
+      han<lb ed="#B" n="84" break="no"/>Apocalypsin esse Johannis. Si nomen suum prae 
+      <lb ed="#B" n="85"/>termisisset ex eo contra canonicam hujus libri 
+      au<lb ed="#B" n="86" break="no"/>ctoritatem argumentum ducerent, ut exemplo 
+      epi<lb ed="#B" n="87" break="no"/>stolae ad Hebraeos constat, nunc toties expresso 
+      <lb ed="#B" n="88"/>Johannis nomine, dubitationem tamen movent. 2. Nor 
+      <lb ed="#B" n="89"/>gnorans Johannes (ait Rupertus in comm.) fore 
+      <lb ed="#B" n="90"/>aliquando non solum haereticos, aed nonnullos 
+      etian<lb ed="#B" n="91" break="no"/>catholicos, qui librum hunc propter obscuritatem 
+      <lb ed="#B" n="92"/>mysteriorum, aliaeve causas rejicerent, vel eas 
+      <lb ed="#B" n="93"/>Johannia apostoli et evangelistae negarent, quo ad 
+      <lb ed="#B" n="94"/>versus istorum calumnias et argumentationes librum 
+      <lb ed="#B" n="95"/>praemuniret, voluit crebra nominis sui 
+      commemora<lb ed="#B" n="96" break="no"/>tione auctoritatem et fidem libro astruere. 3. Feci 
+      <lb ed="#B" n="97"/>hoc Johannes more et exemplo prophetarum 
+      prae<lb ed="#B" n="98" break="no"/>sertim Danielis, cum cujus prophetia, ut observa 
+      <lb ed="#B" n="99"/>Graserus in plag. reg. hic liber in multis convenis 
+      <lb ed="#B" n="100"/>cumprimis vero in quatuor capitibus, utpote primo 
+      <lb ed="#B" n="101"/>in auctoribus, quod utrique sanguinis 
+      necessitudin<lb ed="#B" n="102" break="no"/>Christo fuerint conjuncti ac prae aliis ipsi cari, unde 
+      <lb ed="#B" n="103"/>Daniel vir desideriorum, i. e. desideratissimus, ve 
+      <lb ed="#B" n="104"/>vir expetibilium ac desiderabilium vocatur, ut 
+      hae<lb ed="#B" n="105" break="no"/>appellatio, respectu rerum, quae ei revelantur, ipss 
+      <lb ed="#B" n="106"/>tribuatur Dan. 9, v. 23. c. 10, v. 11. 
+      <lb ed="#B" n="107"/>Johanne <!-- line coord error -->
+      <lb ed="#B" n="108"/>vero discipulus, quem Dominus dilexit Joh. 13. 
+      <lb ed="#B" n="109"/>v. 23. c. 19, v. 26. c. 21, v. 20. Deinde in materia 
+      <lb ed="#B" n="110"/>Utriusque vaticinii principalis scopus est historia 
+      <lb ed="#B" n="111"/>praecipuorum symptomatum ecclesiae, quae eidem 
+      <lb ed="#B" n="112"/>per suas periodos sub utroque foedere accidere 
+      de<lb ed="#B" n="113" break="no"/>buerunt, ut ejus fides et patientia probarentur. 
+      <lb ed="#B" n="114"/>cujus historiae praecipuum caput utrobique est 
+      my<lb ed="#B" n="115" break="no"/>sterium antichr. quod Daniel ad typum Antiochi 
+      <lb ed="#B" n="116"/>Epiph. Joh. ad exemplar Romani imperii describit. 
+      <lb ed="#B" n="117"/>Tertio in forma stili. Forma stili ac characte 
+      <lb ed="#B" n="118"/>germonis utrobique xml:idem fere, sublimis sc. 
+      euccin<lb ed="#B" n="119" break="no"/>ctus, symbolicus et per conseq. obscurus, utpote 
+      <lb ed="#B" n="120"/>ubi res variarum et perplexarum visionum 
+      labyrin<lb ed="#B" n="121" break="no"/>this involvantur, secus ac in aliorum prophetarum 
+      <!--201.xml-->
+      <pb ed="#B" n="128"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>concionibus. Aug. I. 20. de civ. Dei c. 17. In 
+      ho<lb ed="#B" n="2" break="no"/>quidem libro, cujus nomen est Apocalypsis, obscur 
+      <lb ed="#B" n="3"/>multa dicuntur, ut mentem legentis exerceant, e 
+      <lb ed="#B" n="4"/>pauca in eo eunt, ex quorum manifestatione indo 
+      <lb ed="#B" n="5"/>gentur cetera cum labore, maxime quia sic eadem 
+      <lb ed="#B" n="6"/>multis modis repetit, ut alia atque alia dicere vi 
+      <lb ed="#B" n="7"/>deatur, cum aliter atque aliter haec ipsa dicere in 
+      <lb ed="#B" n="8"/>vestigetur. Denique in fortuna, quam in canonica 
+      <lb ed="#B" n="9"/>auctoritatis existimatione utrumque scriptum est ex 
+      <lb ed="#B" n="10"/>pertum. Liber Danielis post reditum ex captivitate 
+      <lb ed="#B" n="11"/>Babylon. non sine haesitatione in canonem receptu 
+      <lb ed="#B" n="12"/>est, ut monuimus superius § 135. eandem 
+      sorten<lb ed="#B" n="13" break="no"/>experta est Apocalypsis, ut ex antea dictis consta 
+      <lb ed="#B" n="14"/>Cum ergo inter Danielis prophetiam et Apocal. Je 
+      <lb ed="#B" n="15"/>hannis tanta sit convenientia, xml:ideo mirum non es 
+      <lb ed="#B" n="16"/>Johannem exemplo Danielis nomen suum toties in 
+      <lb ed="#B" n="17"/>culcare voluisse, imo et debuisse, quod nequaquam 
+      <lb ed="#B" n="18"/>arrogantiae sed consuetudini propheticae et ipsi ne 
+      <lb ed="#B" n="19"/>cessitati tribuendum. 4. Dissimilitudo omnino quae 
+      <lb ed="#B" n="20"/>dam est inter historiam evangelicam et inter hunc 
+      <lb ed="#B" n="21"/>librum propheticum. Veritas et certitudo evange 
+      <lb ed="#B" n="22"/>licae historiae non erat toties inculcanda, cum res 
+      <lb ed="#B" n="23"/>in oculis omnium gestae fuerint, hujus vero libi 
+      <lb ed="#B" n="24"/>auctoritas omnino erat diligenter asserenda, 
+      und<lb ed="#B" n="25" break="no"/>nomen suum βεβαιώσεως causa toties adjecit. 5. Thec 
+      <lb ed="#B" n="26"/>logi nomen xml:ideo Johanni fuit attributum, quia pra 
+      <lb ed="#B" n="27"/>ceteris evangelistis et apostolis Deitatem Christi asse 
+      <lb ed="#B" n="28"/>ruit. Dionys. in epist. ad Johannem in Patmo exulam 
+      <lb ed="#B" n="29"/>tem scripta, Epiphanius haeres. 51. Athanasius in 
+      <lb ed="#B" n="30"/>Synopsi, Cyrill. Alexandr. lib. 3. de Trinit. Cyril. 
+      <lb ed="#B" n="31"/>Hierosolymit. cat. 12. Chrysostomus in Ps. 37. At 
+      <lb ed="#B" n="32"/>gustinus tract. 36. in Joh. Johanni apostolo theologi 
+      <lb ed="#B" n="33"/>cognomen tribuunt; nec alius ex antiquitate produe 
+      <lb ed="#B" n="34"/>potest Johannes praeter hunc apostolum, qui theo 
+      <lb ed="#B" n="35"/>logi cognomen fuerit sortitus. 6. exemplar Complu 
+      <lb ed="#B" n="36"/>tense, quod antiquissimo archetypo respondere jud 
+      <lb ed="#B" n="37"/>catur, expresse habet: Apocalypsis s. apostoli 
+      e<lb ed="#B" n="38" break="no"/>evangelistae Johannis theologi 
+</p>
+            <p xml:id="zef3dd-d1e246-d1e3741">
+               <lb ed="#B" n="39"/>295. 2. Ex stili diversitate. Si sensus hujus libri 
+      <lb ed="#B" n="40"/>et verba structuramque evangelii et epistolae 
+      con<lb ed="#B" n="41" break="no"/>sideres, haud immerito alius ab evangelista colliqu 
+      <lb ed="#B" n="42"/>tur. Etenim concordant inter se evangelium et 
+      ep<lb ed="#B" n="43" break="no"/>stola. Similia sunt utrimque exordia. Evangelium 
+      <lb ed="#B" n="44"/>in principio, inquit, erat Verbum Joh. 1, v. 1. Ept 
+      <lb ed="#B" n="45"/>stola, quod erat, inquit, ab initio. I. Joh. 1, v. 
+      <lb ed="#B" n="46"/>Evangelium: Et Verbum caro factum est et habi 
+      <lb ed="#B" n="47"/>tavit in nobis et vidimus gloriam ejus, gloriam 
+      tan<lb ed="#B" n="48" break="no"/>quam unigeniti a Patre. Joh. 1, v. 14. Epistole 
+      <lb ed="#B" n="49"/>eadem habet parumper immutata. Quod audivimus 
+      <lb ed="#B" n="50"/>inquit, quod vidimus oculis nostris, quod 
+      perspex<lb ed="#B" n="51" break="no"/>mus et manus nostrae contrectaverunt de verbo vito 
+      <lb ed="#B" n="52"/>et vita manifestata est 1. Joh. 1, v. 1. et 2. Qu 
+      <lb ed="#B" n="53"/>attente legit, inveniet utrinque frequenter vitam 
+      <lb ed="#B" n="54"/>frequenter lucem, dehortationem a tenebris, creber 
+      <lb ed="#B" n="55"/>rime veritatem, gratiam, gaudium, carnem ac 
+      san<lb ed="#B" n="56" break="no"/>quinem Domini, judicium, peccatorum remissionem 
+      <lb ed="#B" n="57"/>dilectionem Dei erga nos, praeceptum nos invicer 
+      <lb ed="#B" n="58"/>diligendi, servanda esse cuncta praecepta, redargu 
+      <lb ed="#B" n="59"/>tionem mundi, diaboli et antichristi, promissionem 
+      <lb ed="#B" n="60"/>Spiritus cancti, adoptionem Dei, fidem a nobi 
+      <!--201.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ubique expetitam, ubique Patrem et Filium, et e 
+      <lb ed="#B" n="62"/>per omnia character utriusque notetur, prorau 
+      <lb ed="#B" n="63"/>unus et xml:idem evangelii et epistolae color reperietur 
+      <lb ed="#B" n="64"/>Apocolypsia vero ab utrisque est omnium alienie 
+      <lb ed="#B" n="65"/>sima et ad illa prope ne verbo quidem, ut sic dicam 
+      <lb ed="#B" n="66"/>accedit et conjungitur, nec syllabam aliquam cum illi 
+      <lb ed="#B" n="67"/>communem habet. Haec Dionysius apud. Euseb. d.. 
+      <lb ed="#B" n="68"/>Eodem modo coneludit Erasmus (quem solum Bellar. hî 
+      <lb ed="#B" n="69"/>perstringit suppresso Dionysii Alexandrini nomine) O 
+      <lb ed="#B" n="70"/>ne commemorem, inquit, stilum non parum dissonam 
+      <lb ed="#B" n="71"/>tem ab eo, qui est in evangelio et epistola. Resp. 
+      <lb ed="#B" n="72"/>1. Diversitas rerum et argumenti etiam stili 
+      diver<lb ed="#B" n="73" break="no"/>sitatem parit. In evangelio describitur historia, in 
+      <lb ed="#B" n="74"/>epistolis traduntur dogmata, praecepta et παραινέσεις 
+      <lb ed="#B" n="75"/>In hoc libro continetur prophetia de futuris rebus 
+      <lb ed="#B" n="76"/>per figuras et imagines, unde adhibentur verba 
+      sym<lb ed="#B" n="77" break="no"/>bolica, quae mysticum habent sensum reconditum 
+      <lb ed="#B" n="78"/>At talis character in historico et dogmatico libri 
+      <lb ed="#B" n="79"/>non fuisset conveniens. Nec nos ipsi in scriptis ac 
+      <lb ed="#B" n="80"/>curatioribus et in epistolis eodem stilo utimur. Ad 
+      <lb ed="#B" n="81"/>quid de patrum scriptis dicemus, quae in exegeticis 
+      <lb ed="#B" n="82"/>dogmaticis et polemicis plurimum inter se discre 
+      <lb ed="#B" n="83"/>pant. 2. Johannes potius ea verba, quae in 
+      vision<lb ed="#B" n="84" break="no"/>audivit, consignare voluit, quam suo sermonis ge 
+      <lb ed="#B" n="85"/>nere prophetiam contexere. 3. Adde quod alique 
+      <lb ed="#B" n="86"/>itili et phraseos convenientia deprehendatur, ut 
+      <lb ed="#B" n="87"/>monuimus superius 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e3854">
+               <lb ed="#B" n="88"/>296. 3. Ex defectu testificationis. Nec meminii 
+      <lb ed="#B" n="89"/>nec cogitat, ne epistola quidem de hac Apocalypei. 
+      <lb ed="#B" n="90"/>ut interim de evangelio taceam, nec vicinsim 
+      Apoca<lb ed="#B" n="91" break="no"/>lypsis de epistola, cum Paulus aliquid de revela 
+      <lb ed="#B" n="92"/>ionibus suis eiqnificet in epistolio suis, quas tamen 
+      <lb ed="#B" n="93"/>non sic inscripsit, ut eas apocalypses appellaris 
+      <lb ed="#B" n="94"/>Dionysius apud Eusebium d. I. Resp. 1. nec Paulu. 
+      <lb ed="#B" n="95"/>in suis epistolis reliquarum meminit, ecquis tamer 
+      <lb ed="#B" n="96"/>dixerit, eas non esse a Paulo scriptas? 2. Quidam 
+      <lb ed="#B" n="97"/>ex Epiphanio haeres. 51. Eusebio lib. 3. hist. c. 24. 
+      <lb ed="#B" n="98"/>Athanasio in Synopsi. Beda in lib. de sex mund 
+      <lb ed="#B" n="99"/>aetatibus colligunt, Apocalypsin ante evangelium 
+      <lb ed="#B" n="100"/>fuisse scriptam, quo sensu accipiunt verba Apoc. 10. 
+      <lb ed="#B" n="101"/>v. 11: Oportet te iterum prophetare gentibus, popo 
+      <lb ed="#B" n="102"/>lis, linquis et regibus multis. Atqui in historis 
+      <lb ed="#B" n="103"/>evangelica non potuit commode mentionem facere 
+      <lb ed="#B" n="104"/>Apocalypseos. 3. Si propterea Apocalypsis non est 
+      <lb ed="#B" n="105"/>Johannis, quia ejus nec in evangelio nec in epistola 
+      <lb ed="#B" n="106"/>fit mentio, consequens fuerit, epist. primam catholi 
+      <lb ed="#B" n="107"/>cam itidem non esse Johannis, cum in evangelio 
+      <lb ed="#B" n="108"/>non fiat ejusdem mentio. At de auctoritate vel 
+      <lb ed="#B" n="109"/>auctore primae illius epistolae nunquam fuit in 
+      ee<lb ed="#B" n="110" break="no"/>elesia dubitatum. 4. Paulus epistolas suas nolui 
+      <lb ed="#B" n="111"/>appellare apocalypses, quia uno duntaxat 
+      loc<lb ed="#B" n="112" break="no"/>unam ἀποκάλυιριν describit, sed hic liber totu 
+      <lb ed="#B" n="113"/>ferme descriptione ἀποκαλύψεων occupatus est, unde 
+      <lb ed="#B" n="114"/>potiori merito sortitus fuit inscriptionem
+</p>
+            <p xml:id="zef3dd-d1e246-d1e3915">
+               <lb ed="#B" n="115"/>297. 4. Ex qualitate phraseos Adhuc ex ipsa 
+      <lb ed="#B" n="116"/>phrasi conjecturari potest, quae eit evangelii et epi 
+      <lb ed="#B" n="117"/>stolae, deinde et Apocalypseos hujus divereitas. 
+      <lb ed="#B" n="118"/>Illae namque non modo inoffensae secundum Grae¬!¬ 
+      <lb ed="#B" n="119"/>cam dictionem, sed et disertissimio dictionibus, 
+      syl<lb ed="#B" n="120" break="no"/>logiomie et etructuris exponitionia scriptae sunt, ac 
+      <!--202.xml-->
+      <pb ed="#B" n="129"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>procul abest, ut vox aliqua barbara aut soloecismus, 
+      <lb ed="#B" n="2"/>vel omnino xml:idiotismus in illis reperiatur. Evange 
+      <lb ed="#B" n="3"/>lista enim habuit εἐν λόγον καὶ τὴν γνῶσιν sermonis 
+      <lb ed="#B" n="4"/>ac scientiae facultatem. De altero vero non nego 
+      <lb ed="#B" n="5"/>quod et revelationem viderit et acientiam ac prophe 
+      <lb ed="#B" n="6"/>tiam acceperit, interea tamen dialectum ac linguar 
+      <lb ed="#B" n="7"/>illius haud exacte Graece loquentem sed xml:idiomate 
+      <lb ed="#B" n="8"/>cubinde barbarico utentem ac alicubi etiam 
+      coloec<lb ed="#B" n="9" break="no"/>zantem video. Dionysius d. I. Resp. 1. causa hujus 
+      <lb ed="#B" n="10"/>rei ex eo oritur, quod ex prophetis, praesertim 
+      ver<lb ed="#B" n="11" break="no"/>ex Daniele multa adducat ac proinde Hebraie 
+      <lb ed="#B" n="12"/>idiomati inhaereat. 2. Si in specie ac sigillatii 
+      <lb ed="#B" n="13"/>idioma illud barbaricum et soloecismi adducerentur 
+      <lb ed="#B" n="14"/>facile ad ea responderi posset. 3. Collatio ipsa po 
+      <lb ed="#B" n="15"/>tius contrarium ostendet, videlicet magnam ess 
+      <lb ed="#B" n="16"/>phraseos in Apocalypsi cum evangelio et epistola 
+      <lb ed="#B" n="17"/>Johannis convenientiam 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e3974">
+               <lb ed="#B" n="18"/>298. 5. Ex veterum silentio. Dionysius Tyri 
+      ep<lb ed="#B" n="19" break="no"/>scopuo ac martyr in compendio vitarum prodidi 
+      <lb ed="#B" n="20"/>Johannem evangelium euum scripsisse in insulo 
+      <lb ed="#B" n="21"/>Patmo, ceterum de Apocalypsi nullam facit men 
+      <lb ed="#B" n="22"/>tionem. Ne Anastasius quidem Graecus in suo co 
+      <lb ed="#B" n="23"/>talogo audet affirmare, opus hoc illius esse. Erasn. 
+      <lb ed="#B" n="24"/>d. I. Huc referri potest, quod concilium Laodicenum 
+      <lb ed="#B" n="25"/>can. 59. et Nazianzenus in carmin. nullam facian 
+      <lb ed="#B" n="26"/>Apocalypseos mentionem. In can. apostol. 84. iti. 
+      <lb ed="#B" n="27"/>dem omittitur Apocalypsis. Respon. 1. hoc 
+      dur<lb ed="#B" n="28" break="no"/>tarat probat, a quibusdam olim de hoc libro fuisse 
+      <lb ed="#B" n="29"/>dubitatum ac proinde ad secundi ordinis canonicos 
+      <lb ed="#B" n="30"/>eundem pertinere. 2. loco illorum pauculorum, qu 
+      <lb ed="#B" n="31"/>hujus libri non meminerunt, produci possunt quam 
+      <lb ed="#B" n="32"/>plurimi patres Graeci pariter ac Latini, qui honor 
+      <lb ed="#B" n="33"/>ficum testimonium ei dederunt. 3. Eusebius, qui in 
+      <lb ed="#B" n="34"/>Historia ecelesiastica de hujus libri auctore dubitar. 
+      <lb ed="#B" n="35"/>videtur, in Chronico declarat, se nihil omnino d 
+      <lb ed="#B" n="36"/>ejus auctore vel auctoritate dubitare. 4. Si canon 
+      <lb ed="#B" n="37"/>apostolico 84. insistere velimus in canonem 
+      recipien<lb ed="#B" n="38" break="no"/>dus erit tertius Maccabaeorum, Clementis epistola 
+      <lb ed="#B" n="39"/>cluae et ejusdem constitutiones apostolicae, contra 
+      <lb ed="#B" n="40"/>ab eodem excludendi libri Esdrae, quorum utrum 
+      <lb ed="#B" n="41"/>que pugnat cum unanimi totius ecclesiae primitiva 
+      <lb ed="#B" n="42"/>euffragio. Multis evinci potest argumentis, canone 
+      <lb ed="#B" n="43"/>Illos apostolicos esse supposititios et apocryphos 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e4033">
+               <lb ed="#B" n="44"/>299. 5. Ex obscuritate. Magna et fere insupere 
+      <lb ed="#B" n="45"/>bilis est hujus libri obecuritas, propter quam qui 
+      <lb ed="#B" n="46"/>busdam videtur rejiciendus. Resp. 1. obscuritater 
+      <lb ed="#B" n="47"/>illam cum visionibus Ezechielis ac Danielis habe 
+      <lb ed="#B" n="48"/>communem. Quod si propter obscuritatem illar 
+      <lb ed="#B" n="49"/>rejiciendus, utique Danielis prophetiae ante comple 
+      <lb ed="#B" n="50"/>mentum xml:idem objici potuisset. 2. Obscuritas illi 
+      <lb ed="#B" n="51"/>oritur tum ex materia sive rebus, quas tractat, tur 
+      <lb ed="#B" n="52"/>ex forma sive modo tractandi. Proponit enim pro 
+      <lb ed="#B" n="53"/>phetias de rebus futuris, easque in figuris, visioni 
+      <lb ed="#B" n="54"/>bus ac imaginibus sine explicatione addita tractat 
+      <lb ed="#B" n="55"/>ex quo non potest non obscuritas oriri, per quam 
+      <lb ed="#B" n="56"/>taedio legentium Scripturam Deus occurrere voluis 
+      <lb ed="#B" n="57"/>sieut reliquis locis perspicuis, in quibus fidei dos 
+      <lb ed="#B" n="58"/>mata traduntur, fami nostrae prospexit. 3. Obser 
+      <lb ed="#B" n="59"/>ritas illa lucem sortitur tum ex collatione cum alii 
+      <lb ed="#B" n="60"/>Scripturae locis, praesertim cum prophetia Danielis 
+      <!--202.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tum vel maxime ex eventu in oculos omnium incui 
+      <lb ed="#B" n="62"/>rente. 4. Quamvis multa sint in hoc libro vaticinis 
+      <lb ed="#B" n="63"/>obscurissima, multa tamen etiam insunt praecepta 
+      <lb ed="#B" n="64"/>clarissima, ut de constantia in persecutionibus, de 
+      <lb ed="#B" n="65"/>exsecrandis haereticis, de patientia, de fide retinenda 
+      <lb ed="#B" n="66"/>de metuendis divinis judiciis et amandis promissi 
+      <lb ed="#B" n="67"/>coelestibus 
+      </p>
+            <p xml:id="zef3dd-d1e246-d1e4093">
+               <lb ed="#B" n="68"/>300. 6. Ex materia sive contentis. 1. In e. 3 
+      <lb ed="#B" n="69"/>v. 18 ecstat epistola ad ecclesiam Thyatirensem 
+      <lb ed="#B" n="70"/>scripta. Atqui ecclesia Thyatirensis nondum exstitit 
+      <lb ed="#B" n="71"/>tempore Johannis, sed longe post Johannem alique 
+      <lb ed="#B" n="72"/>ecclesia illic fuit constituta. Epiphanius ut hunc no 
+      <lb ed="#B" n="73"/>dum solvat, haeresi 51. respondet, Johannem spiritu 
+      <lb ed="#B" n="74"/>prophetico praevidisse futuram Thyatiris olim ecele 
+      <lb ed="#B" n="75"/>siam, xml:ideoque vera ipsum scripsisse, licet tunc tem 
+      <lb ed="#B" n="76"/>poris ecclesia Thyatirensis nondum fuerit collecta.) 
+      <lb ed="#B" n="77"/>Sed cum Johannes in epistola ad Thyatirenses tam 
+      <lb ed="#B" n="78"/>perspicue pios ab impiis distinguat, xml:ideo verisimi 
+      <lb ed="#B" n="79"/>lius est, quod de ecclesiae Thyatirensis constitutione 
+      <lb ed="#B" n="80"/>post obitum Johannis demum facta apud scriptore 
+      <lb ed="#B" n="81"/>quosdam exstat, xml:id non de prima ejusdem planta 
+      <lb ed="#B" n="82"/>tione et generatione, sed instauratione et repara 
+      <lb ed="#B" n="83"/>tione ejusdem esse accipiendum. 2. semina Chilia 
+      <lb ed="#B" n="84"/>stici erroris in eo continentur, Apoc. 20. Resp. 
+      <lb ed="#B" n="85"/>negari nequit, magni nominis viros Chiliastarum 
+      <lb ed="#B" n="86"/>errori olim haesisse implicitos, utpote Papiam, Ire 
+      <lb ed="#B" n="87"/>naeum, Justinum, Tertullianum et alios, qui statue 
+      <lb ed="#B" n="88"/>runt exacto mundi millenario sexto Christum e coelo 
+      <lb ed="#B" n="89"/>desceusurum et ligato Satana cum sanctis suis mille 
+      <lb ed="#B" n="90"/>annos his in terris regnaturum, quibus elapsis 
+      Sa<lb ed="#B" n="91" break="no"/>tanam iterum solutum iri et adversus ecclesiam 
+      <lb ed="#B" n="92"/>gentes exteras Gog et Magog excitaturum. Ham 
+      <lb ed="#B" n="93"/>opinionem ex c. 20. hujus libri probare voluerunt. 
+      <lb ed="#B" n="94"/>sed nuspiam testatur Scriptura, Christum ante diem 
+      <lb ed="#B" n="95"/>extremum visibili et externo modo in terris regna 
+      <lb ed="#B" n="96"/>turum, sed diem adventus ipsius ad judicium voca 
+      <lb ed="#B" n="97"/>extremum et novissimum, quo et universalis 
+      resur<lb ed="#B" n="98" break="no"/>rectio et judicium finale sit futurum. Explicandus 
+      <lb ed="#B" n="99"/>igitur hic locus Apocalypticus, ne cum fidei analogis 
+      <lb ed="#B" n="100"/>pugnet, quod qua ratione fieri possit, monstratum 
+      <lb ed="#B" n="101"/>fuit disputatione 3 contra novos fanaticos instituta 
+      <lb ed="#B" n="102"/>3. Bellarminus lib. 1. de verbo Dei c. 19. Blasius 
+      <lb ed="#B" n="103"/>de Viegas in Apocal. p. 16. tribuunt Luthero, quod 
+      <lb ed="#B" n="104"/>in prologo dicat, se in Apocalypei hoc desiderare, 
+      <lb ed="#B" n="105"/>quod beatos fore asserat, qui servant verba pro 
+      <lb ed="#B" n="106"/>phetiae hujus, cum tamen nemo intelligat, quae sint 
+      <lb ed="#B" n="107"/>illa. Item quod in praefatione N. T. dicat, se Apo 
+      <lb ed="#B" n="108"/>calypsin neque pro prophetico, neque apostolico libr. 
+      <lb ed="#B" n="109"/>aqnoscere, sed similem judicare libro quarto Esdrae, 
+      <lb ed="#B" n="110"/>Resp. in praefationibus Lutheri, quas hodie legimus 
+      <lb ed="#B" n="111"/>nihil tale occurrit, sed potius contrarium, 
+      praefa<lb ed="#B" n="112" break="no"/>tione erudita ad intelligentiam hujus prophetiae non 
+      <lb ed="#B" n="113"/>mediocre lectori attulit adjumentum, quomodo igi 
+      <lb ed="#B" n="114"/>tur non haberet pro libro apostolico? Verba illa 
+      <lb ed="#B" n="115"/>Beatus qui legit verba prophetiae hujus Apoe. 
+      <lb ed="#B" n="116"/>v. 3 explicationem statim habent conjunctam, 
+      addi<lb ed="#B" n="117" break="no"/>tur namque: Tempus enim prope est, q. d. etsi in 
+      <lb ed="#B" n="118"/>hoc libro res futurae narrantur, tamen illarum 
+      co<lb ed="#B" n="119" break="no"/>gnitio ad quemlibet pertinet, quia res illae brevi fier 
+      <lb ed="#B" n="120"/>incipient, ac proinde fieri potest, ut eos, qui tempore 
+      <!--203.xml-->
+      <pb ed="#B" n="130"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>scriptionis vixerunt, attingant. Relinquitur igitur 
+      <lb ed="#B" n="2"/>Apocalypsin esse apostolicum canonicum scriptum 
+      <lb ed="#B" n="3"/>Capitibus constat 22, in quibus post prooemium 
+      <lb ed="#B" n="4"/>septem visiones ordine describuntur. Septenariu 
+      <lb ed="#B" n="5"/>numerus utpote mysticus in hoc libro frequens est 
+      <lb ed="#B" n="6"/>Recensentur enim septem epistolae, septem 
+      sigill<lb ed="#B" n="7" break="no"/>septem tubae, septem phialae, ete 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

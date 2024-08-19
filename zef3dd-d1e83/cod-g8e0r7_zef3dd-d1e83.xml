@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 1</title>
+        <author ref="#JohannGerhard">Johann Gerhard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 1</title>
+          <date when="2024-08-19">August 19, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="13"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="zef3dd-d1e83"><!-- zef3dd-l1c1 -->
+        <head xml:id="zef3dd-d1e83-Hd1e101">Caput 1</head>
+        <head xml:id="zef3dd-d1e83-Hd1e103" type="question-title">De Onomatologia Scripturae sacrae</head>
+        <p xml:id="zef3dd-d1e83-d1e106">
+          <!--86.xml-->
+          <pb ed="#B" n="13"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>LOCUS PRIMUS 
+          <lb ed="#B" n="2"/>DE 
+          <lb ed="#B" n="3"/>SCRIPTURA SAORA. 
+          <!--86.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="4"/>1. Cum Scriptura Sacra sit unicum et propriur 
+          <lb ed="#B" n="5"/>theologiae principium, xml:ideo ab ea merito initium 
+          <lb ed="#B" n="6"/>facimus. Quidam ab articulo de DEO explicationem 
+          <lb ed="#B" n="7"/>locorum theologicorum inchoandam censent, cum 
+          <lb ed="#B" n="8"/>ipse sit principium essendi et ipsius Scripturae sacra 
+          <lb ed="#B" n="9"/>auctor, sed in disciplinarum tractatione non tam 
+          a<lb ed="#B" n="10" break="no"/>essendi quam cognoscendi principium; nec tam ad 
+          <lb ed="#B" n="11"/>rei dignitatem quam tradendi et percipiendi 
+          facili<lb ed="#B" n="12" break="no"/>tatem respectus habetur. Ex Pontificiis quidam 
+          or<lb ed="#B" n="13" break="no"/>diuntur ab articulo de ecclesia. Convenienter xml:id 
+          <lb ed="#B" n="14"/>quidem, si ipsorum hypotheses respiciantur, Scripturae 
+          <lb ed="#B" n="15"/>enim auctoritatem insolidum ab ecclesia depender. 
+          <lb ed="#B" n="16"/>asserunt, sed minus recte si ipsam veritatem respicias, 
+          <lb ed="#B" n="17"/>Ex Scriptura enim unice discenda et petenda sunt 
+          <lb ed="#B" n="18"/>quae de ecclesiae vel notis vel privilegiis magno 
+          <lb ed="#B" n="19"/>conatu disputantur. Insistemus autem usitatae 
+          me<lb ed="#B" n="20" break="no"/>thodo, ut a nominis explicatione exorsi ad πραγμ 
+          <lb ed="#B" n="21"/>τολογίαν per causas expediendam descendamus. 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e165">
+          <lb ed="#B" n="22"/>CAPUT I. 
+          <lb ed="#B" n="23"/>DE ONOMATOAOTIA SCRIPTU 
+          <lb ed="#B" n="24"/>RAE SACRAE. 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e174">
+          <lb ed="#B" n="25"/>2. 1. Ad ὅνοματολογίαν pertinet 1. ἐτυμολογίς 
+          <lb ed="#B" n="26"/>Scriptura sic vocatur a formali externo, scribend 
+          <lb ed="#B" n="27"/>scil. actione qua verbum Dei viva voce antea 
+          pro<lb ed="#B" n="28" break="no"/>pagatum Dei jussu in literas est redactum. Hujus 
+          <lb ed="#B" n="29"/>scriptionis Deus ipse augustum fecit initium, quando 
+          <lb ed="#B" n="30"/>legem suam in monte Sinai tabulis lapideis inscripsit 
+          <lb ed="#B" n="31"/>quae ob xml:id dicitur E 22 Scriptura 
+          Dei<lb ed="#B" n="32" break="no"/>Exod. 32, v. 16. Dicitur autem Scriptura ut et 
+          <lb ed="#B" n="33"/>biblia ἐξοχικῶς, καιʼ ἀνιονομασίαν et κατ᾽ ἐξαίρετοι 
+          <lb ed="#B" n="34"/>λόγον, quia sunt βίβιος θεοῦ liber a Deo profectus 
+          <lb ed="#B" n="35"/>de Deo tractans et ad Deum ducens. Differentiae 
+          <lb ed="#B" n="36"/>causa vocatur Scriptura sacra appellatione ex 
+          Ron<lb ed="#B" n="37" break="no"/>I. v. 2 et 2. Tim. 3, v. 15 petita, ubi γραφαὶ ἀγία 
+          <lb ed="#B" n="38"/>et ἱερὰ γράμματα dicuntur. Rationes appellationis 
+          <!--86.xml-->
+          <cb ed="#B" n="c"/>
+          <lb ed="#B" n="39"/>petendae 1. a causa efficiente principali, ab auctore 
+          <lb ed="#B" n="40"/>summo, qui est Deus sanctus ille Sanctorum, imo 
+          <lb ed="#B" n="41"/>ipsa sanctitas. Esa. 6, v. 3. Dan. 9, v. 24. 2. a. 
+          <lb ed="#B" n="42"/>causa instrumentali, quae sunt sancti Dei homine, 
+          <lb ed="#B" n="43"/>2. Petr. 1, v. 21. prophetae scil. et apostoli5 
+          <lb ed="#B" n="44"/>Spir. S. φερόμενοι. Theodor. praef. in Psalm. tom 
+          <lb ed="#B" n="45"/>1, p. 79. Gregor. in praef. Jobi c. 1 docent, manus 
+          <lb ed="#B" n="46"/>Scriptorum sacrorum calamos S. S. fuisse, quibus 
+          <lb ed="#B" n="47"/>ille in describendis sacris voluminibus fuit usus. 
+          <lb ed="#B" n="48"/>3. a materia, continet enim sacra et divina mysteria 
+          <lb ed="#B" n="49"/>sancta vitae praecepta. Psalm. 105, v. 42. historia. 
+          <lb ed="#B" n="50"/>sacras ete. I. a fine et effectu, quia Spir. S. per 
+          <lb ed="#B" n="51"/>Scripturae lectionem et meditationem hominem 
+          san<lb ed="#B" n="52" break="no"/>etificat. Joh. 17, v. 17. Clemens Alexandr. in 
+          Pa<lb ed="#B" n="53" break="no"/>raenet. ad gentes p. 29. Sunt vere sacrae literae, 
+          <lb ed="#B" n="54"/>quae sacros faciunt et deificant. 5. ab adjuncto, 
+          <lb ed="#B" n="55"/>quia ab omnibus, non solum profanis, sed etiam 
+          <lb ed="#B" n="56"/>ecclesiasticis scriptis est separata, et in sublim 
+          <lb ed="#B" n="57"/>canonicae auctoritatis sede constituta, cui servia 
+          <lb ed="#B" n="58"/>omnis fidelis et pius intellectus. 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e256">
+          <lb ed="#B" n="59"/>3. 2. ὁμονυμία. Scripturae sacrae nomen 
+          usurpa<lb ed="#B" n="60" break="no"/>tur vel γενικῶς, generaliter et improprie pro 
+          omni<lb ed="#B" n="61" break="no"/>bus libris in codice biblico contentis, sive illi sin 
+          <lb ed="#B" n="62"/>canonici sive apocryphi; vel εἰδικῶς, specialiter 
+          e<lb ed="#B" n="63" break="no"/>proprie pro solis canonicis V. et N. T. libris. Sic 
+          <lb ed="#B" n="64"/>Hieronym. praef. in Judith. scribit, Nicaenam 
+          syno<lb ed="#B" n="65" break="no"/>dum librum illum in sacris Scripturis numerasse 
+          <lb ed="#B" n="66"/>qui tamen ex eo non efficitur canonicus. Concilium 
+          <lb ed="#B" n="67"/>Toletanum 2. Can. I librum sapientiae nominat Scri 
+          <lb ed="#B" n="68"/>pturam sacram, qui tamen itidem est extra canonem 
+          <lb ed="#B" n="69"/>Non poterunt Pontificii hanc vocabuli distinctionem 
+          <lb ed="#B" n="70"/>repudiare, cum ipsi quoque ex canone quosdam ex 
+          <lb ed="#B" n="71"/>cludant, qui in codice biblico continentur, ut in 
+          <lb ed="#B" n="72"/>ferius apparebit. 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e289">
+          <lb ed="#B" n="73"/>4. Bellarminus adhuc latiorem et generaliorem 
+          <lb ed="#B" n="74"/>Scripturae sacrae appellationem statuit, quando 
+          <lb ed="#B" n="75"/>libr. 2 de conciliis c. 12 §. dico secundo, pro 
+          defen<lb ed="#B" n="76" break="no"/>sione Gratiani, qui in jure canonico e. in canonicis. 
+          <lb ed="#B" n="77"/>dist. 19. Pontificum decretales dixerat esse sacra 
+          <lb ed="#B" n="78"/>et canonicas Scripturas, sic disputat: Decreta 
+          pon<lb ed="#B" n="79" break="no"/>tificum dicuntur Scripturae sacrae, ut distinguantur 
+          <!--87.xml-->
+          <pb ed="#B" n="14"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>a profanis; et canonicae, ut distinguantur a scripti 
+          <lb ed="#B" n="2"/>patrum, quae non sunt regula. Et postea. Canones 
+          <lb ed="#B" n="3"/>pontificum et conciliorum suo modo possunt dici 
+          <lb ed="#B" n="4"/>scripta sacra et canonica, quod probat ex act.. 
+          <lb ed="#B" n="5"/>cynodi VII. ete. Cum Martha extr. de 
+          celebra<lb ed="#B" n="6" break="no"/>miss. ubi glossa dicit Sacra Scriptura hic appellar 
+          <lb ed="#B" n="7"/>tur scripta Augustini. Sed nos repudiata illa ἀκυρο 
+          <lb ed="#B" n="8"/>loγίᾳ solis canonicis V. ac N. T. libris Scriptura 
+          <lb ed="#B" n="9"/>Sacrae et canonicae appellationem proprie et 
+          speci<lb ed="#B" n="10" break="no"/>fice acceptam vendicamus, interim ex hae Bellarmin 
+          <lb ed="#B" n="11"/>distinetione utile illud consectarium deducimus. 8. 
+          <lb ed="#B" n="12"/>ex appellatione Scripturae Sacrae pontificum et 
+          con<lb ed="#B" n="13" break="no"/>ciliorum canonibus attributa nequaquam probari 
+          po<lb ed="#B" n="14" break="no"/>test, pontificum et conciliorum decreta pertinere ad 
+          <lb ed="#B" n="15"/>Scripturae canonem, utique etiam ex appellatione 
+          <lb ed="#B" n="16"/>Scripturae sacrae libris apocryphis attributa non 
+          <lb ed="#B" n="17"/>poterit probari apoeryphos illos ac controversos libros 
+          <lb ed="#B" n="18"/>ad Scripturae canonem pertinere. Sed verum prius 
+          <lb ed="#B" n="19"/>Ergo et posterius. Nulla proinde vis inest argumento. 
+          <lb ed="#B" n="20"/>ab appellatione Scripturae saerae desumto, quod 
+          to<lb ed="#B" n="21" break="no"/>ties Bellarminus urget pro asserenda controversorum 
+          <lb ed="#B" n="22"/>illorum librorum auctoritate, ut suo loco pleniu 
+          <lb ed="#B" n="23"/>monebitur 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e363">
+          <lb ed="#B" n="24"/>5. Pertinet et hoc ad ὁμωνυμίαν vocis explicandam 
+          <lb ed="#B" n="25"/>quod Scripturae nomine non tam formale externum 
+          <lb ed="#B" n="26"/>sive signa, h. e apices literarum, scribendi actus e 
+          <lb ed="#B" n="27"/>dictiones, quibus divina revelatio est descripta, quam 
+          <lb ed="#B" n="28"/>ipeum materiale sive signatum, adeoque illud ipsum 
+          <lb ed="#B" n="29"/>quod scribendo notatur ac significatur, ipsum sc. De 
+          <lb ed="#B" n="30"/>verbum de essentia et voluntate Dei nos instruens 
+          <lb ed="#B" n="31"/>sit intelligendum. Quidam illud sic efferunt, quod 
+          <lb ed="#B" n="32"/>verbum Dei sumatur vel οὐσιωδως, pro ipsa sententia 
+          <lb ed="#B" n="33"/>quam Deus exprimit, vel ἐπουσιωδῶς seu secundum 
+          <lb ed="#B" n="34"/>πάθη, quae sunt praedicatio et scriptio. Ut enim 
+          <lb ed="#B" n="35"/>in omni scriptura ab intelligente sive νοερῷ causa 
+          <lb ed="#B" n="36"/>perfecta, ita quoque in hae prophetica et 
+          apostolic<lb ed="#B" n="37" break="no"/>Scriptura duo sunt consideranda, vid. primo ipsa 
+          <lb ed="#B" n="38"/>literae, syllabae et dictiones, quae scribuntur, e 
+          <lb ed="#B" n="39"/>sunt externa symbola animi notiones significantia e 
+          <lb ed="#B" n="40"/>exprimentia; secundo ipsae sententiae, quae sum 
+          <lb ed="#B" n="41"/>veluti signatum externis illis literarum, syllabarum 
+          <lb ed="#B" n="42"/>et dictionum symbolis expressum, proinde Scripturae 
+          <lb ed="#B" n="43"/>nomine hic utrumque complectimur et posterius quidem 
+          <lb ed="#B" n="44"/>principaliter. 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e411">
+          <lb ed="#B" n="45"/>6. Ex quo πορισματικῶς colligimus. 1. Quaedam 
+          <lb ed="#B" n="46"/>praedicari de Scriptura respectu materialis, utpote 
+          <lb ed="#B" n="47"/>quod sit antiquior ecelesia, quod sit ipsum illud Dei 
+          <lb ed="#B" n="48"/>verbum a prophetis et apostolis viva voce olim prae 
+          <lb ed="#B" n="49"/>dicatum; quaedam respectu formalis, quod sit 
+          tem<lb ed="#B" n="50" break="no"/>poris ratione ecclesia posterior, quod in die novis 
+          <lb ed="#B" n="51"/>simo sit desitura, cum tamen ratione materialis ne 
+          <lb ed="#B" n="52"/>solvi nec interire possit. Joh. 10, v. 35. 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e431">
+          <lb ed="#B" n="53"/>7. 2. Inter verbum Dei et Scripturam sacrar 
+          <lb ed="#B" n="54"/>materialiter acceptam non esse reale aliquod discrimen 
+          <lb ed="#B" n="55"/>Probatur hoc 1. ex Scripturae materia. Idem 
+          a<lb ed="#B" n="56" break="no"/>nihil aliud prophetae et apostoli scripserunt, quod 
+          <lb ed="#B" n="57"/>divina inspiratione edocti prius viva voce praedica 
+          <lb ed="#B" n="58"/>runt. 1. Cor. 15, v. 1. 2. Cor. 1, v. 13. Phil. 
+          <lb ed="#B" n="59"/>v. 1. 2. Thess. 2, v. 15. 1. Joh. 1, v. 3 quod 
+          <!--87.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="60"/>postremum valde est emphaticum. Quod vidimus et 
+          <lb ed="#B" n="61"/>audivimus, annunciamus vobis. v. 4. Et haec 
+          scribi<lb ed="#B" n="62" break="no"/>mus vobis, ut gaudium vestrum sit plenum. v. 5 et 
+          <lb ed="#B" n="63"/>haec est annunciatio, quam audivimus ab eo, et 
+          an<lb ed="#B" n="64" break="no"/>nunciamus vobis. ταῦτα certe non sunt aliud atque 
+          <lb ed="#B" n="65"/>aliud. Irenaeus libr. 3 adv. haeres. c. 1, p. 169. 
+          <lb ed="#B" n="66"/>Non per alios dispositionem salutis nostrae cogno 
+          <lb ed="#B" n="67"/>vimus, quam per eos, per quos evangelium pervenit 
+          <lb ed="#B" n="68"/>ad nos, quod quidem tunc praeconiaverunt, posteo 
+          <lb ed="#B" n="69"/>vero per Dei voluntatem in Scripturis nobis tradi 
+          <lb ed="#B" n="70"/>derunt fundamentim et columnam fidei nostrae 
+          fu<lb ed="#B" n="71" break="no"/>turum. Niceph. fibr. 2. Histor. c. 34. Quae 
+          Pau<lb ed="#B" n="72" break="no"/>lus praesens oratione sua dilucide docuerat, eadem 
+          <lb ed="#B" n="73"/>per compendium absens in memoriam revocans epi 
+          <lb ed="#B" n="74"/>stolas dedit. 2. ex phrasium ἰσοδυναμίᾳ. Vaticinis 
+          <lb ed="#B" n="75"/>prophetica V. T. in N. T. quandoque allegantur his 
+          <lb ed="#B" n="76"/>verbis: Ut impleretur quod dictum est per propho 
+          <lb ed="#B" n="77"/>tam. <ref xml:id="zef3dd-d1e83-Rd1e492" target="http://scta.info/resource/mt1_22">Matth. 1, v. 22.</ref> <ref xml:id="zef3dd-d1e83-Rd1e495" target="http://scta.info/resource/mt2_15">c. 2, v. 15.</ref> <ref xml:id="zef3dd-d1e83-Rd1e499" target="http://scta.info/resource/mt4_14">c. 4. v. 14</ref> etc 
+          <lb ed="#B" n="78"/>quandoque vero hisce formulis, ut impleretur quod 
+          <lb ed="#B" n="79"/>scriptum est, quid dicit Scriptura? Scriptum est in 
+          <lb ed="#B" n="80"/>prophetis, Scriptum est, etc. Matth. 4. v. 4. 7. 10. 
+          <lb ed="#B" n="81"/>Marc. 15, v. 28. Joh. 19. v. 36. Rom. 4. v. 3. c. 10. 
+          <lb ed="#B" n="82"/>v. 11. c. 11, v. 2 ete. Ergo quod prophetae dixe 
+          <lb ed="#B" n="83"/>runt vel praedixerunt, xml:idem est cum eo quod 
+          scri<lb ed="#B" n="84" break="no"/>serunt. Sic legere et audire verbum Dei in pari 
+          <lb ed="#B" n="85"/>omnino censu habentur. Luc. 16, v. 29 jubentur 
+          di<lb ed="#B" n="86" break="no"/>vitis epulonis fratres audire Moysen et prophetas 
+          <lb ed="#B" n="87"/>It non poterant audire praedicationem Moysis et 
+          <lb ed="#B" n="88"/>prophetarum ante aliquot secula jam tum 
+          defun<lb ed="#B" n="89" break="no"/>ctorum. Ergo ad evolvenda ipsorum scripta 
+          remit<lb ed="#B" n="90" break="no"/>tuntur, ac proinde legere scripta Moysis et 
+          prophe<lb ed="#B" n="91" break="no"/>carum est audire Moysen et prophetas. Act. 13. 
+          <lb ed="#B" n="92"/>v. 27. Voces prophetarum leguntur per omne 
+          sab<lb ed="#B" n="93" break="no"/>batum. quisquis ergo praelectioni propheticorum 
+          <lb ed="#B" n="94"/>scriptorum interest, audit prophetarum voces, h. et 
+          <lb ed="#B" n="95"/>illud ipsum quod prophetae viva voce praedicarunt. 
+          <lb ed="#B" n="96"/>Act. 15, v. 21. Moyses ab antiquis temporibus habet 
+          <lb ed="#B" n="97"/>in singulis civitatibus τοὺς κηρύσσοντας αὐτὸν, qui 
+          <lb ed="#B" n="98"/>ipsum praedicent; quomodo vero Moyses, hoc est, 
+          <lb ed="#B" n="99"/>Hosaica doctrina in singulis civitatibus 
+          praedicaba<lb ed="#B" n="100" break="no"/>tur? explicatio statim sequitur, dum per omne 
+          sab<lb ed="#B" n="101" break="no"/>batum in synagogis legitur. Matth. 17, v. 5 voce 
+          <lb ed="#B" n="102"/>coelitus delata jubemur audire Christum, Luc. 10, 
+          <lb ed="#B" n="103"/>v. 16 jubemur audire apostolos. At non possumus 
+          <lb ed="#B" n="104"/>alia ratione eos hodie audire quam in evangelistarum 
+          <lb ed="#B" n="105"/>et apostolorum scriptis, canonicis V. T. libris omni 
+          <lb ed="#B" n="106"/>ex parte homogeneis, in illis enim et per illa nobi 
+          <lb ed="#B" n="107"/>loquuntur, sicut haec explicatio ab ipso Christo 
+          sup<lb ed="#B" n="108" break="no"/>peditatur Joh. 5, v. 39. Scrutamini Scripturas, illae 
+          <lb ed="#B" n="109"/>le me testificantur. 3. ex regula logica: Acciden 
+          <lb ed="#B" n="110"/>non mutat rei essentiam. Accidit Dei verbo sive 
+          <lb ed="#B" n="111"/>voce enuncietur, sive in literas redigatur. Unum 
+          <lb ed="#B" n="112"/>idemque Dei verbum est, sive praedicationis sive 
+          <lb ed="#B" n="113"/>scriptionis modo nobis innotescat, cum nec 
+          causa<lb ed="#B" n="114" break="no"/>efficiens principalis, nec materia, nec forma interna 
+          <lb ed="#B" n="115"/>nec finis mutetur, sed tantum modus patefactionis in 
+          <lb ed="#B" n="116"/>usu organico consistens variet. Exod. 20, v. 13. 
+          <lb ed="#B" n="117"/>scriptum est: Non occides. Hoc verbum xml:idem est 
+          <lb ed="#B" n="118"/>cum eo, quod postea praedicatum et viva voce in 
+          <!--88.xml-->
+          <pb ed="#B" n="15"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>Christo repetitum. Matth. 3, v. 21. 4. ex δεικτικ. 
+          <lb ed="#B" n="2"/>particula ab apostolis usurpata. Paulus de scrip 
+          <lb ed="#B" n="3"/>tura Mosaica et homogeneis V, ac N. T. libris δε 
+          <lb ed="#B" n="4"/>κτικῶς inquit. 1οῦτο ἔστι τὸ ῥήμα τῆς πίστεως, quod 
+          <lb ed="#B" n="5"/>praedicamus. Roman. 10, v. 9. Petr. 1. Epist. 1. 
+          <lb ed="#B" n="6"/>v. 25. scribit, Verbum DOMINI manet in aeternum 
+          <lb ed="#B" n="7"/>σοῦιο δέ ἔστε τὸ ῥήμα τὸ εὐαγγελισθὲν εἰς ὑμᾶς, 
+          ho<lb ed="#B" n="8" break="no"/>est verbum, quod evangelixatum est in vos. Quo 
+          <lb ed="#B" n="9"/>pertinet etiam dictum Johanniticum superius ad 
+          <lb ed="#B" n="10"/>ductum. 1. Joh. 1. v. 3. 4. et 5. 5. Ex similium 
+          <lb ed="#B" n="11"/>natura. Sicut unum xml:idemque est mandatum regium 
+          <lb ed="#B" n="12"/>quod voce praeconis promulgatur, et quod publio 
+          <lb ed="#B" n="13"/>programmate descriptum affigitur: ita quoque vel 
+          <lb ed="#B" n="14"/>bum Dei scriptum et non scriptum est unum atqu 
+          <lb ed="#B" n="15"/>idem verbum. Quemadmodum homo, qui luce hesterna 
+          <lb ed="#B" n="16"/>erat nudus, hodierna vero vestitus, unus homo est 
+          <lb ed="#B" n="17"/>qui bifariam sese habuit, non autem duplex seu 
+          du<lb ed="#B" n="18" break="no"/>homines: ita quoque verbum, quod prius praedies 
+          <lb ed="#B" n="19"/>tum fuit viva voce et postmodum literis consigni 
+          <lb ed="#B" n="20"/>tum est, non est duplex DEI verbum, sed unum 
+          <lb ed="#B" n="21"/>idemque, quod bifariam sese habuit. 6. ex conse 
+          <lb ed="#B" n="22"/>quente absurdo. Si est duplex verbum scriptur 
+          <lb ed="#B" n="23"/>et non scriptum, duplex etiam erit evangelium, e 
+          <lb ed="#B" n="24"/>duplex gratiae promissio. Contrarium testatur 
+          apo<lb ed="#B" n="25" break="no"/>stolus Gal. 3, v. 15. 16. Si divisio verbi in scriptur 
+          <lb ed="#B" n="26"/>et non scriptum esset, non divisio subjecti in 
+          su<lb ed="#B" n="27" break="no"/>accidentia, sed divisio generis in species, adeoque 
+          <lb ed="#B" n="28"/>ipeam verbi essentiam ingrederetur, consequens foret 
+          <lb ed="#B" n="29"/>verbo pronunciato Dei verbum evanescere, pereum 
+          <lb ed="#B" n="30"/>tibus libris verbum Dei perire, et quae sunt hujus 
+          <lb ed="#B" n="31"/>generis absurda alia complura. Contrarium 
+          testam<lb ed="#B" n="32" break="no"/>tur Christus Luo. 21, v. 33. et Esaias c. 40, v. . 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e657">
+          <lb ed="#B" n="33"/>8. 3. Pontificios inter verbum Dei scriptum et non 
+          <lb ed="#B" n="34"/>scriptum minus recte distinguere. Argumentis ipso 
+          <lb ed="#B" n="35"/>sum, quibus hypothesin suam probare conantur 
+          <lb ed="#B" n="36"/>satisfieri potest, si observetur I. posse hanc distinctio 
+          <lb ed="#B" n="37"/>nem certo modo ac respectu admitti, videl. si nomin 
+          <lb ed="#B" n="38"/>verbi non scripti intelligatur divina revelatio viv 
+          <lb ed="#B" n="39"/>voce a patriarchis ante exaratos libros Mosaico 
+          <lb ed="#B" n="40"/>propagata, sed post editum Scripturae canoner 
+          <lb ed="#B" n="41"/>nullum statui potest verbum Dei non scriptum 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e680">
+          <lb ed="#B" n="42"/>E1 
+          <lb ed="#B" n="43"/>scripto contradistinctum. 2. distinguendum esse inter 
+          <lb ed="#B" n="44"/>capita divinae revelationis principalis, necessaria 
+          <lb ed="#B" n="45"/>essentialia etc. atque inter uberiorem eorundem 
+          expli<lb ed="#B" n="46" break="no"/>cationem. Prophetae et apostoli literis consignarum 
+          <lb ed="#B" n="47"/>capita doetrinae suae principalia, quae sunt omnibu 
+          <lb ed="#B" n="48"/>acitu necessaria, quae viva voce latius ab eis 
+          exp<lb ed="#B" n="49" break="no"/>cita fuisse non negamus. Cyrill. libr. 12. in Jol 
+          <lb ed="#B" n="50"/>6. 68. sub sin. Non omnia, quae Dominus fecis 
+          <lb ed="#B" n="51"/>conscripta eiunt, sed quae scribentes tam ad more 
+          <lb ed="#B" n="52"/>quam ad dogmata putarunt sufficere, ut recta sicd 
+          <lb ed="#B" n="53"/>et operibus ac vortute rutilantes ad regnum coelo 
+          <lb ed="#B" n="54"/>rium perveniamus in Christo Jegu. Augustin. trae 
+          <lb ed="#B" n="55"/>49. in Joh. in princ. Cum multa fecisset Dominus 
+          <lb ed="#B" n="56"/>ESUS, non omnia scripta sunt, sicut canctus evar 
+          <lb ed="#B" n="57"/>gelista testatur, multa Dominum Christum et dixies 
+          <lb ed="#B" n="58"/>&amp; fecisse, quae scripta non sunt, electa sunt autem 
+          <lb ed="#B" n="59"/>quae scriberentur, quae saluti credentium eufficer 
+          <lb ed="#B" n="60"/>ialabontus 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e724">
+          <!--88.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="61"/>9. 3. συνωνυμία ** Scripturam sacram Spiritus 
+          <lb ed="#B" n="62"/>Sanct. vocat γραφ ὴν, vel γραφὰς κατʼ ἐξοχὴν Joh. 7, 
+          <lb ed="#B" n="63"/>v. 38. et 42. Aet. 8, v. 12. Rom. 4. v. 3. quandoque 
+          <lb ed="#B" n="64"/>vero addito epitheto γραφὰς ἀγίας Rom. 1, v. 2.45 
+          <lb ed="#B" n="65"/>ἱερὰ γράμματα 2. Tim. 3, v. 15. γραφὴν θεόπνευστον 
+          <lb ed="#B" n="66"/>v. 16. quia sieut Spiritu Sanct. φερόμενοι locuti sunt 
+          <lb ed="#B" n="67"/>ita quoque scripserunt sancti Dei homines. 2. Peti 
+          <lb ed="#B" n="68"/>I, v. 21. Rabini, teste Galatino libr. 1. de arcan. 
+          <lb ed="#B" n="69"/>Catholic. verit. c. 1. biblia vocant 727 rem De 
+          <lb ed="#B" n="70"/>sanctam. Item 87pa 172 domum sanctuarii, quem 
+          <lb ed="#B" n="71"/>titulum Venetiana Biblia habent praefixum. Cum 
+          <lb ed="#B" n="72"/>que inter verbum Dei et Scripturam sacram mato 
+          <lb ed="#B" n="73"/>rialiter consideratam non sit reale aliquod discrimen 
+          <lb ed="#B" n="74"/>Ideo ad συνωνυμίαν referendae sunt honorificae 
+          ap<lb ed="#B" n="75" break="no"/>pellationes, quae verbo Dei in Scripturis tribuuntur 
+          <lb ed="#B" n="76"/>utpote quod sit 117777 λόγος θεοῦ, verbum Dei, 
+          <lb ed="#B" n="77"/>a Deo editum et de Deo nos instruens, λόγια τοῦ θεοὶ 
+          <lb ed="#B" n="78"/>eloquia Dei. Rom. 3, v. 2. ζῶν ὁ λόγος 1οὖ θεοῦ 
+          vivu<lb ed="#B" n="79" break="no"/>et efficax Dei sermo Heb. 4. v. 12. ῥήματα τῆς ζωῆς 
+          <lb ed="#B" n="80"/>αἰωνίου, verba vitae aeternae. Joh. 6, v. 68. 
+          Cum<lb ed="#B" n="81" break="no"/>primis huc pertinet totus psalmus 119. in quo 
+          ver<lb ed="#B" n="82" break="no"/>bum Dei quamplurimis honorificis appellationibu 
+          <lb ed="#B" n="83"/>insignitur. 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e781">
+          <lb ed="#B" n="84"/>Compages librorum sacrorum vocatur a 
+          <lb ed="#B" n="85"/>Spir. Sanct. 1721111 490 liber legis Jos. 1, v. 8 
+          <lb ed="#B" n="86"/>–7177 70 liber Jchovae. Esa. 34. v. 16. &amp; 72) 
+          <lb ed="#B" n="87"/>lectio. Nehem. 8, v. 8. eo quod legi pensitarique ad 
+          <lb ed="#B" n="88"/>nostram salutem perpetuo debeat 
+        </p>
+        <p xml:id="zef3dd-d1e83-d1e794">
+          <lb ed="#B" n="89"/>10. Referenda etiam ad hunc locum honorifica illa 
+          <lb ed="#B" n="90"/>encomia et variae periphrases, quibus ecelesiastio 
+          <lb ed="#B" n="91"/>doctores Scripturam sacram exornant. Athanasiu 
+          <lb ed="#B" n="92"/>Dialog. 2. contra Maced. τροφὴ ψυχῆς ἡ γραφή. Basil. 
+          <lb ed="#B" n="93"/>in Ps. 1. Scriptura est communis medica anima 
+          <lb ed="#B" n="94"/>rum officinae. August. in enarr. Ps. 90. c. 2. e. 
+          <lb ed="#B" n="95"/>serm. 56. ad. fratr. in erem. Macarius homil. 33. 
+          <lb ed="#B" n="96"/>Gregor. libr. 4. Epist. 40. Scripturam vocant literas 
+          <lb ed="#B" n="97"/>invitatorias, a Deo per sanctos viros nobis transmis 
+          <lb ed="#B" n="98"/>sas, quibus ad aeternam patriam invitamur. Quid 
+          <lb ed="#B" n="99"/>est, ait August. Scriptura sacra, nisi quaedam 
+          ep<lb ed="#B" n="100" break="no"/>stola omnipotentis Dei ad creaturam suam, in quo 
+          <lb ed="#B" n="101"/>verba Dei sonant et cor Dei discitur? Dionysiu 
+          <lb ed="#B" n="102"/>Carthus. in comm. Epist. ad Titum. Divina eloquid 
+          <lb ed="#B" n="103"/>et rori et aquae et lacti et melli et vino assimilar 
+          <lb ed="#B" n="104"/>tur propter vim in ipsis generativam et augmentati 
+          <lb ed="#B" n="105"/>vam, sicut in lacte, et revivificativam sicut in vino 
+          <lb ed="#B" n="106"/>et mundicativam simul ac servativam, sicut in melle. 
+          <lb ed="#B" n="107"/>Petrus de Aliaco libr. 2. sentent. Scriptura penè 
+          <lb ed="#B" n="108"/>trat ut gladius, conterit ut malleus, ardet ut facula 
+          <lb ed="#B" n="109"/>velut gladius errorum zizania ascindit; velut malleus 
+          <lb ed="#B" n="110"/>haereses universas interimit; velut facula criminum 
+          <lb ed="#B" n="111"/>fasciculos comburit; velut lucerna per nocturna 
+          <lb ed="#B" n="112"/>hujus mundi silentia lumen commeantibus exsistit 
+          <lb ed="#B" n="113"/>Scriptura sacra est fidei mensura, morum et erre 
+          <lb ed="#B" n="114"/>rum censura et ad coelos viam monstrans cynogurò 
+          <lb ed="#B" n="115"/>Scriptura est os Spiritus sancti, per quod credente 
+          <lb ed="#B" n="116"/>vocat; est manus Spiritus s., per quam credentes 
+          <lb ed="#B" n="117"/>ducit ad vitam aeternam; est lux, per quam oculo 
+          <lb ed="#B" n="118"/>parvulorum illuminat. Scriptura est ἐκτύnωμα, ex 
+          <lb ed="#B" n="119"/>pressio divinae sapientiae, Spiritus S. afflatu sancti 
+          <lb ed="#B" n="120"/>hominibus communicata. Quod naufrago tabula 
+          <!--89.xml-->
+          <pb ed="#B" n="16"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>quod militi gladius; quod argentario malleus; quod 
+          <lb ed="#B" n="2"/>architecto regula; hoc fidelibus est Scriptura sacre 
+          <lb ed="#B" n="3"/>Confer aphor. practic. sub tit. Verbum De¬ 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

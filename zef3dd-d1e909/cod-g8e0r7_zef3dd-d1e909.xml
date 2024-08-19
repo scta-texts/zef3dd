@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="454"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e909"><!-- zef3dd-l4c2 -->
+            <head xml:id="zef3dd-d1e909-Hd1e101">Caput 2</head>
+            <head xml:id="zef3dd-d1e909-Hd1e103" type="question-title">De OMONYMIAI</head>
+            <p xml:id="zef3dd-d1e909-d1e106">
+               <lb ed="#B" n="4"/>CAPUT II 
+      <lb ed="#B" n="5"/>DE OMONYMIAI.
+</p>
+            <p xml:id="zef3dd-d1e909-d1e113">
+               <lb ed="#B" n="6"/>-18. Thesis 1: Nomen Jequ cum cognatis appel 
+      <lb ed="#B" n="7"/>lationibus tribuitur in V. T. etiam aliis hominibus 
+      <lb ed="#B" n="8"/>sed in significatione longe dispari, quam est eo 
+      <lb ed="#B" n="9"/>qua calvatori nostro assignatur. Cognatas appel 
+      <lb ed="#B" n="10"/>lationes voco, quae ab eadem radice θD descendum 
+      <lb ed="#B" n="11"/>Tales vero sunt Josua, Hoseas, Jeschua, Esaia. 
+      <lb ed="#B" n="12"/>Nomen Josuae Hebr. 27877) et per contractionem 
+      <lb ed="#B" n="13"/>273 tribuitur: 1. filio Nun Moysis servo et suc 
+      <lb ed="#B" n="14"/>cessori, populi Israëlitici duci. Is primo dictus 
+      fui<lb ed="#B" n="15" break="no"/>213 Hoseas, ob imperativo S7, quod nomer 
+      <lb ed="#B" n="16"/>fuit quasi votum et precatio, ut Deus salvet, sed 
+      <lb ed="#B" n="17"/>cum Deus promisisset, quod per hunc ipsum filiur 
+      <lb ed="#B" n="18"/>Nun praestiturus esset Israëlitis temporalem et 
+      ty<lb ed="#B" n="19" break="no"/>picam salutem, Moyses nomen ejus mutavit in 23777 
+      <lb ed="#B" n="20"/>Num. 13, v. 11.) vel a praeterito 275 vel a 
+      fu<lb ed="#B" n="21" break="no"/>turo 275 mutato8 in ). 2. Bethsemitae, in cuju 
+      <lb ed="#B" n="22"/>agro steterunt vaccae adducentes plaustrum, in quo 
+      <lb ed="#B" n="23"/>erat arca Domini; 1. Sam. 6. v. 14. vocatur is 277 
+      <lb ed="#B" n="24"/>3. principi civitatis Hierosolymae temporibus Josiae 
+      <lb ed="#B" n="25"/>regis 2. Reg. 23, v. 8, qui itidem vocatur 2777 
+      <lb ed="#B" n="26"/>4. Summo sacerdoti filio Josedec, qui post reditum 
+      <lb ed="#B" n="27"/>ex captivitate Babylonica sacerdotio functus es 
+      <lb ed="#B" n="28"/>Hag. 2, v. 5. Zach. 3, v. 1: Ostendit mihi Σi7 
+      <lb ed="#B" n="29"/>sacerdotem magnum. Hoseas dictus fuit: 1. cervus 
+      <lb ed="#B" n="30"/>Moysis, antequam nomen ejus a Moyse mutaretu 
+      <lb ed="#B" n="31"/>in Josuam. 2. unus ex prophetis filius Beeri. Hos.. 
+      <lb ed="#B" n="32"/>v. 1. Jeschua 278) vocatur unus ex janitoribus 
+      <lb ed="#B" n="33"/>qui fuerunt in ministerio Core Levitae 2. Paral. 31. 
+      <lb ed="#B" n="34"/>r. 15, unus ex sacerdotibus Leviticis, qui cum Z 
+      <lb ed="#B" n="35"/>rubabel venerunt Hierosolymam, Nehem. 7, v. 7. e 
+      <lb ed="#B" n="36"/>43. c. 8, v. 7, itemque unus ex filiis Pachath 
+      Nel<lb ed="#B" n="37" break="no"/>I. v. 11. Idem contractum 278) tribuitur sacerdot. 
+      <lb ed="#B" n="38"/>filio Josedec Esdr. 2. v. 2. c. 3, v. 2. Neh. 7, v. 7. Esaia 
+      <lb ed="#B" n="39"/>2 est unus ex prophetis, filius Amox prophetae 
+      <lb ed="#B" n="40"/>qui fuit frater Amaziae regis a Manasse interfectu 
+      <lb ed="#B" n="41"/>Es. I, v. I. sic dictus est ob Πσοο; salutes e 
+      <lb ed="#B" n="42"/>consolationes, de quibus concionatus est. Quidam 
+      <lb ed="#B" n="43"/>addunt nomen 138) vel 178° Gen. 46. v. 17. Num 
+      <lb ed="#B" n="44"/>26. v. 44, sed in eo non habetur * radicalis. 
+      Gra<lb ed="#B" n="45" break="no"/>cum Tησοῦς tribuitur in visione LXX interpp. 1. 
+      <lb ed="#B" n="46"/>Josuae successori Moysis Sirac. 46, v. 1. Act. 7. 
+      <lb ed="#B" n="47"/>v. 45. Hebr. 1, v. 8. 2. Josuae sacerdoti magno 
+      <lb ed="#B" n="48"/>filio Josedec, Sir. 49, v. 14; 3. auctori libri eccle 
+      <lb ed="#B" n="49"/>ciastici, qui fuit filius Sirach, nepos autem Jesu sibi 
+      <lb ed="#B" n="50"/>ὀμωνύμου, in prooem. illius scripti; 4. in N. 7. 
+      <lb ed="#B" n="51"/>cuidam doctori Christiano, qui cognomento JJust 
+      <lb ed="#B" n="52"/>fuit appellatus Col. 4. v. II, quique ex circumcisione 
+      <lb ed="#B" n="53"/>i. e. ex Judaismo hoc nomen retinuerat 
+      </p>
+            <p xml:id="zef3dd-d1e909-d1e220">
+               <lb ed="#B" n="54"/>19. Quamvis vero nomen J7B) et Tησοῦς etiam 
+      <!--527.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="55"/>aliis tribuatur, tamen non eodem modo ac sens 
+      <lb ed="#B" n="56"/>tribuitur illis, quo Christo. 1. Christo tribuitur non 
+      <lb ed="#B" n="57"/>tantum ἀρχικῶς καὶ ἑξαιρέτως, sed plane μονοτρόπως 
+      <lb ed="#B" n="58"/>ipse enim est unicus humani generis salvator, in 
+      <lb ed="#B" n="59"/>quo solo vera salus nobis proposita Matth. I, v. 21 
+      <lb ed="#B" n="60"/>Actor. 4. v. 12. c. 10, v. 43, reliquis ob corporalem 
+      <lb ed="#B" n="61"/>quandam salutem, quam populo praestiterunt, ve 
+      <lb ed="#B" n="62"/>in memoriam salutis a majoribus ipsorum praesti 
+      <lb ed="#B" n="63"/>tae, vel etiam boni ominis duntaxat ac separatae 
+      <lb ed="#B" n="64"/>salutis causa nomen illud sortiti fuerunt. 2. Qui in 
+      <lb ed="#B" n="65"/>V. T. salvatores dicti, illi omnes fuerunt tantum 
+      <lb ed="#B" n="66"/>typi unici illius salvatoris in N. T. mittendi. Ut 
+      <lb ed="#B" n="67"/>enim Josua Moysis minister et successor populum 
+      <lb ed="#B" n="68"/>Israëliticum in terram promissam introduxit, quod 
+      <lb ed="#B" n="69"/>Moyses praestare non poterat; sic Christus in vitam 
+      <lb ed="#B" n="70"/>aeternam per regionem Canaan praefiguratam nos 
+      <lb ed="#B" n="71"/>introducit, quod lex praestare non poterat. Joh. 1. 
+      <lb ed="#B" n="72"/>v. 17. Sicut arca Domini subsistit in agro Josuae 
+      <lb ed="#B" n="73"/>Bethsemitae, sic Christus est vera illa salutis arca 
+      <lb ed="#B" n="74"/>unicum propitiatorium, Rom. 3, v. 23, cujus typus 
+      <lb ed="#B" n="75"/>fuit arca foederis in tabernaculo. Sicut Josua, filiu 
+      <lb ed="#B" n="76"/>Josedec, reparationi templi post captivitatem 
+      Baby<lb ed="#B" n="77" break="no"/>lonicam praefuit, sic Christus est spiritualis 
+      templi<lb ed="#B" n="78" break="no"/>in N. T. reparator et architectus, Zach. 6, v. 12. 
+      <lb ed="#B" n="79"/>Sicut Jesus Sirach fuit doctor sapientissimus ac 
+      ce<lb ed="#B" n="80" break="no"/>leberrimus sui temporis, sic Christus coelesti sua 
+      <lb ed="#B" n="81"/>sapientia et doctrina mundum illuminavit. Bernl. 
+      <lb ed="#B" n="82"/>homil. 3. super Missus est col. 27: Duos Jesus lego in 
+      <lb ed="#B" n="83"/>typo hujus (Jesu Nazareni) praecessisse, ambos populi 
+      <lb ed="#B" n="84"/>praefuisse, quorum unus populum suum de 
+      Baby<lb ed="#B" n="85" break="no"/>lone eduxit, alter suum in terras promissionis in 
+      <lb ed="#B" n="86"/>troduxit. Et illi quidem illos, quibus praeerant 
+      <lb ed="#B" n="87"/>ab hostibus defendebant, sed numquid salvabant, 
+      <lb ed="#B" n="88"/>peccatis eorum? is autem noster Jesus a 
+      peccati<lb ed="#B" n="89" break="no"/>salvat populum suum et introducit in terram viven 
+      <lb ed="#B" n="90"/>tium. 3. Galatinus et qui ipsum sequuntur Pagni 
+      <lb ed="#B" n="91"/>nus, Jansenius in c. 7. Harm. diversitatem 
+      deriva<lb ed="#B" n="92" break="no"/>tionis quaerunt. 378) inquiunt est nomen simplex 
+      <lb ed="#B" n="93"/>derivatum a rad. 3D5 salvavit, sed 7717) est 
+      com<lb ed="#B" n="94" break="no"/>positum ex 117575 et 378, quod salutem et 
+      felicita<lb ed="#B" n="95" break="no"/>tem significat. Item 278) xml:idem significat, quod 
+      <lb ed="#B" n="96"/>alvator, sive salvatio ipsa, Q7*) vero redditu 
+      <lb ed="#B" n="97"/>Deus salvabit ex Jehovah et θ. Atqui 1. LXX. 
+      <lb ed="#B" n="98"/>Josephus et Philo lib. de carit. Hebraeum Jeschua 
+      <lb ed="#B" n="99"/>sive Josua vertunt τησοῦς. 2. Aggaeus c. 1, v. 1. 
+      <lb ed="#B" n="100"/>2. 14. et c. 2. v. 3. 5. Zacharias c. 3, v. 1. Jesum 
+      <lb ed="#B" n="101"/>pontificem Filium Josedec, Christi typum, nominam 
+      <lb ed="#B" n="102"/>Jeschua sive Jesum, qui ab Esdra lib. 1. c. 3, 
+      <lb ed="#B" n="103"/>2. 8. 9. et c. 4, v. 3. vocatur Jehoschua sive Josua 
+      <lb ed="#B" n="104"/>3. utriusque nominis in Hebraeo eaedem literae et 
+      <lb ed="#B" n="105"/>eadem radix SW*. Ergo ad nominis et 
+      etymologia<lb ed="#B" n="106" break="no"/>diversitatem non satis tuto recurritur 
+      </p>
+            <p xml:id="zef3dd-d1e909-d1e343">
+               <lb ed="#B" n="107"/>20. Qu. h. I. An Jeguitae recte faciant a Jesi 
+      <lb ed="#B" n="108"/>galvatore sese denominando? Pontificii non modo 
+      <lb ed="#B" n="109"/>Franciscum vocant Jesum typicum propter vulnera 
+      <lb ed="#B" n="110"/>quinque, quae ab angelo ipsi fingunt impressa, ut 
+      <lb ed="#B" n="111"/>salvatoris nostri typum perfecte exprimere posset 
+      <lb ed="#B" n="112"/>unde in libr. Conformitat. in prosa f. 194. ipsum 
+      <lb ed="#B" n="113"/>hisce compellant verbis: Tu pro nobis semper pio 
+      <lb ed="#B" n="114"/>prode Christo stigmata, Francisce Jesu typice, dus 
+      <!--528.xml-->
+      <pb ed="#B" n="455"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>normaque Minorum, ete., sed etiam integrum ordi 
+      <lb ed="#B" n="2"/>nem novorum monachorum a salvatore Jesu 
+      vocan<lb ed="#B" n="3" break="no"/>societatum Jesuitarum. Nec solum nomen, sed 
+      <lb ed="#B" n="4"/>etiam rem nomine denotatam aliis tribuunt, tum 
+      <lb ed="#B" n="5"/>oblique merita operum propugnando, tot enim 
+      sal<lb ed="#B" n="6" break="no"/>vatores constituunt, quot sanctis operum merita tra 
+      <lb ed="#B" n="7"/>buunt; tum directe. Fingunt Franciscum quinque 
+      <lb ed="#B" n="8"/>illis vulnerum stigmatis servare a morte aeterna vi 
+      <lb ed="#B" n="9"/>vos, qui a tempore illius usque ad finem mundi 
+      vi<lb ed="#B" n="10" break="no"/>xerunt, cui blasphemiae cum Petrus Paulus 
+      Verge<lb ed="#B" n="11" break="no"/>rius refutationem opponeret, Paulus III. illud Ver 
+      <lb ed="#B" n="12"/>gerii scriptum damnavit ann. 1559. Sed ante Jesuita 
+      <lb ed="#B" n="13"/>quidam monachi a Jesu sese denominari voluerunt 
+      <lb ed="#B" n="14"/>Platina commemorat circa annum 1326. ortos fuisse 
+      <lb ed="#B" n="15"/>8. in Lusitania, qui se voluerunt nominari milites 
+      Jesu<lb ed="#B" n="16" break="no"/>Circa annum 1366. Jesuatorum ordo Senis originem 
+      <lb ed="#B" n="17"/>coepit, de quibus Sabellicus numerat, quod primo 
+      <lb ed="#B" n="18"/>dicti fuerint Apostolici, postea vero Jequati ab eo 
+      <lb ed="#B" n="19"/>quod Jesu regis summi nomen frequens fuerit in 
+      <lb ed="#B" n="20"/>ore illorum. Anno Domini 1410. quidam Bononiensis 
+      <lb ed="#B" n="21"/>instituit ordinem servatoris. Illorum vestigiis 
+      insi<lb ed="#B" n="22" break="no"/>stere voluerunt nostri temporis Jesuitae, quorum 
+      <lb ed="#B" n="23"/>ordo circa ann. Christi 1555. a Paulo IV. fuit 
+      <lb ed="#B" n="24"/>confirmatus, qui divinum hoc nomen propterea 
+      <lb ed="#B" n="25"/>sibi arrogarunt, quod doctrinam et vitam Jesu 
+      <lb ed="#B" n="26"/>Christi omnium perfectissime sequerentur. In prae 
+      <lb ed="#B" n="27"/>Epi. Indic. vocant se athletas novos, qui jam 
+      fati<lb ed="#B" n="28" break="no"/>scenti daceraeque fidei Christianae et ecclesiae 
+      labo<lb ed="#B" n="29" break="no"/>canti auccurrerunt. Bened. Arias Mont. in 
+      praefa<lb ed="#B" n="30" break="no"/>Bibl. Antverp. ann. 1584. sibi soli sapere, soli 
+      ben<lb ed="#B" n="31" break="no"/>vivere Jesumque proprius insequi et comitari 
+      vi<lb ed="#B" n="32" break="no"/>dentur atque xml:id palam professi jactitant. Sed hoc 
+      <lb ed="#B" n="33"/>nomen est 1. novum. Perpetuo alias ipsis in ore es 
+      <lb ed="#B" n="34"/>antiquitas catholica, sed hoc nomen nec antiquum 
+      <lb ed="#B" n="35"/>est nec catholicum. Perpetuo nos accusant novitatis 
+      <lb ed="#B" n="36"/>sed ipsi potius hujus criminis se obstringunt reos 
+      <lb ed="#B" n="37"/>novi nominis vendicatione. Doctrinae et religioni 
+      <lb ed="#B" n="38"/>veteri quomodo novo appellatio congruit? 2. est 
+      <lb ed="#B" n="39"/>schismaticum. Omnes Christi discipuli jam inde a 
+      <lb ed="#B" n="40"/>temporibus apostolicae praedicationis in N. T. unc 
+      <lb ed="#B" n="41"/>Christianorum nomine appellantur, ut unius mystici 
+      <lb ed="#B" n="42"/>corporis membra sub uno capite Christo sese esse 
+      <lb ed="#B" n="43"/>ipsi nominis unitate admoneantur, quisquis aliam 
+      <lb ed="#B" n="44"/>denominationem adsciscit, vinculum unitatis dissol 
+      <lb ed="#B" n="45"/>vit, 1. Cor. 1, v. 12. Ignat. Epist. 6. ad Magnes. 
+      <lb ed="#B" n="46"/>Simus digni cognomento hoc Christiano, quod acce 
+      <lb ed="#B" n="47"/>pimus, qui enim alio nomine appellatur praeter hoc, 
+      <lb ed="#B" n="48"/>hic non est Dei. Qui se Christianum negat, negato 
+      <lb ed="#B" n="49"/>simul Christi convincitur. e. Non solum, i1. q.. 
+      <lb ed="#B" n="50"/>ex Augustino; 3. superciliosum. Eccur enim pecu 
+      <lb ed="#B" n="51"/>liari et proprio nomine a reliquis Christianis 
+      <lb ed="#B" n="52"/>sejungi volunt? num ipsi soli sunt Jesu culto 
+      <lb ed="#B" n="53"/>res ac discipuli? num solis ipsis a Jesu promisss 
+      <lb ed="#B" n="54"/>ac parata salus? num in salute hominibus 
+      confe<lb ed="#B" n="55" break="no"/>renda ipsi soli sunt Jesu socii? Cur quod omnibus 
+      <lb ed="#B" n="56"/>vere piis commune, per quoddam sacrilegium sibi 
+      so<lb ed="#B" n="57" break="no"/>lis vendicant? Thuanus lib. 35, p. 735: Ab eo tem 
+      <lb ed="#B" n="58"/>pore, quo Guilielmus Pratensis, episcopus Clarae 
+      <lb ed="#B" n="59"/>montanus, scholam Claraemontanam Lutetiae illis 
+      <lb ed="#B" n="60"/>attribuit, Claraemontanae echolae sodales suppresso 
+      <!--528.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Jeguitarum superbo et ambitioso ut multis videba 
+      <lb ed="#B" n="62"/>tur nomine aliquamdiu nominati fuerunt; 1. rei 
+      no<lb ed="#B" n="63" break="no"/>tatae non convenit. Tantum enim a Jesu salvatore 
+      <lb ed="#B" n="64"/>novelli hi Jesuitae distant, quantum summum coelum 
+      <lb ed="#B" n="65"/>ib infima terra. Sive enim doctrinam sive vitam 
+      <lb ed="#B" n="66"/>sive fortunam Christi in his terris respicias, ubique 
+      <lb ed="#B" n="67"/>apparebit maxima non solum diversitas sed etiam 
+      contra<lb ed="#B" n="68" break="no"/>rietas. Christi doctrinam oppugnant, Pontificis autem 
+      <lb ed="#B" n="69"/>Romani decreta et traditiones humanas defendunt; 
+      <lb ed="#B" n="70"/>Christi humilitatem, mansuetudinem, patientiam, 
+      sim<lb ed="#B" n="71" break="no"/>plicitatem ete. non imitantur. Vide assertionem contri 
+      <lb ed="#B" n="72"/>Jesuitas c. 7. et seqq. tom. 1. doctrinae Jesuit. p. 17. 
+      <lb ed="#B" n="73"/>i. edit. Rupell. an. 89. et Epigr. Anti-Jesuiticum 
+      <lb ed="#B" n="74"/>quod incipit: 
+      <lb ed="#B" n="75"/>
+               <quote xml:id="zef3dd-d1e909-Qd1e535">Presbyteri a socio geritis qui nomina Jesu, 
+      <lb ed="#B" n="76"/>dispeream si vos Jesus amare potest,</quote>
+               <lb ed="#B" n="77"/>5. ab ipsis sanioribus Pontificiis improbatum. In 
+      con<lb ed="#B" n="78" break="no"/>rentu Posiaceno totius Gallicanae ecelesiae nomine ann. 
+      <lb ed="#B" n="79"/>1561. die 15. Dec. ipsis interdictum, ut ab appellatione 
+      <lb ed="#B" n="80"/>Jesu et Jesuitarum atque etiam societatis Jesu 
+      pror<lb ed="#B" n="81" break="no"/>sus abstinerent; 6. a Jesuitis temeraria ambitione 
+      <lb ed="#B" n="82"/>electum. Ribadeneira lib. 2. de vit. Ignat. c. 12. et 
+      <lb ed="#B" n="83"/>Maffeius libr. 2. de ead. c. 5. a Christo ipso 
+      socie<lb ed="#B" n="84" break="no"/>tati suae hoc nomen impositum tradunt, quando 
+      <lb ed="#B" n="85"/>Ignatio Romam profecto anno 1537. Deus 
+      apparen<lb ed="#B" n="86" break="no"/>Jesu filio suo Ignatii socios commendavit, quos etiam 
+      <lb ed="#B" n="87"/>Christus pro sociis receperit ad Ignatium dicens: Ego 
+      <lb ed="#B" n="88"/>vobis Romae propitius ero. Montaigne de la vérité 
+      de<lb ed="#B" n="89" break="no"/>fend. c. 66. a Pontifice nomen illud huic societati 
+      impo<lb ed="#B" n="90" break="no"/>situm fuisse praetendit. Sed utriusque asserti falsitas 
+      <lb ed="#B" n="91"/>apparet ex eo, quod hunc titulum ante 
+      confirmatio<lb ed="#B" n="92" break="no"/>nem in supplicibus suis literis ad Paulum III. pro 
+      <lb ed="#B" n="93"/>confirmatione impetranda datis usurparunt, sic enim 
+      <lb ed="#B" n="94"/>loquuntur: Qui in societate nostra, quam Jesu nomine 
+      <lb ed="#B" n="95"/>insiquiri cupimus, sub crucis vexillo militare vult 
+      </p>
+            <p xml:id="zef3dd-d1e909-d1e582">
+               <lb ed="#B" n="96"/>21. Excipit Gretserus in Apolog. contra Steinium. 
+      <lb ed="#B" n="97"/>Si fideles a Christo recte denominantur Christiani, 
+      <lb ed="#B" n="98"/>se quoque et ordinis sui socios non minus recto 
+      <lb ed="#B" n="99"/>nominari Jesuitas a nomine Jesu. Resp. est ratio 
+      <lb ed="#B" n="100"/>onge dispar. 1. Christiani vocamur in Scripturis 
+      <lb ed="#B" n="101"/>set. 11, v. 26, nuspiam vero Jesuitae. 2. Christiani 
+      <lb ed="#B" n="102"/>a Christo vocamur, quia unctionis spiritualis 
+      parti<lb ed="#B" n="103" break="no"/>cipes reddimur, sed Jesuitae dici non possumus, quia 
+      <lb ed="#B" n="104"/>in promerenda vel conferenda salute Christus nullos 
+      <lb ed="#B" n="105"/>admittit socios. ** Panormitanus: Christiani nomen 
+      <lb ed="#B" n="106"/>recte assumtum, nam et unctionem Christus nobis 
+      <lb ed="#B" n="107"/>communicavit: At Jesuani recte dici non potuimus 
+      <lb ed="#B" n="108"/>quoniam servator unus ipse.** Si excipiant, non 
+      <lb ed="#B" n="109"/>active se vocari Jesuitas, sed passive, respondemus 
+      <lb ed="#B" n="110"/>hoc sensu omnes vere pios se vocare posse Jesuitas 
+      <lb ed="#B" n="111"/>i. e. salutis per Christum participes factos, cur ergo 
+      <lb ed="#B" n="112"/>quod omnibus proprium sibi solis vendicant? 3. Alian 
+      <lb ed="#B" n="113"/>liversitatis rationem ostendit Ludolphus 
+      Carthusien<lb ed="#B" n="114" break="no"/>sis, qui ducentis ante Jesuitarum exortum annis vixit 
+      <lb ed="#B" n="115"/>Sic enim scribit par. I. de vit. Christ. c. 10: Chri 
+      <lb ed="#B" n="116"/>stus est nomen gratiae, Jesus est nomen gloriae 
+      <lb ed="#B" n="117"/>honoris et sanctitatis. Sicut enim in hac rita per 
+      <lb ed="#B" n="118"/>qratiam baptismi a Christo dicimur Christiani, sic 
+      <lb ed="#B" n="119"/>in coelesti gloria in Domino Jcsu dicemur Jesuitae. 
+      <lb ed="#B" n="120"/>id est a salvatore salvati. Sancti qui in coelis sunt 
+      <!--529.xml-->
+      <pb ed="#B" n="456"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>et fruuntur aeterna gloria, veri sunt Jesuitae 
+      trium<lb ed="#B" n="2" break="no"/>phantes et sancti servi Dei, qui vero adhuc in terri 
+      <lb ed="#B" n="3"/>de; unt et militant pugnantque, in multis periculis 
+      <lb ed="#B" n="4"/>militiae suae nomen retinere et gerere debent, quod 
+      <lb ed="#B" n="5"/>est verum Christianorum nomen. Si vero ita e 
+      <lb ed="#B" n="6"/>gerunt, ut sancti, qui in aeterna gloria sedent supe 
+      <lb ed="#B" n="7"/>throno salutis, nomen Jesuitarum tum obtinere 
+      po<lb ed="#B" n="8" break="no"/>cunt. Quia vero haberi volunt in numero militan 
+      <lb ed="#B" n="9"/>tium et pugnantium sub Christi vexillo, Christi quo 
+      <lb ed="#B" n="10"/>que nomine contenti eint, cum quo congruit illud 
+      <lb ed="#B" n="11"/>
+               <name xml:id="zef3dd-d1e909-Nd1e668">Pelbarti de Themiswar</name> in Pomerio sermonum part 
+      <lb ed="#B" n="12"/>aestiv. de circume. serm. 4: JJesus est nomen divi 
+      <lb ed="#B" n="13"/>num et aeternae salutis, Christus autem dicitur unctus 
+      <lb ed="#B" n="14"/>et sic est nomen militiae Christianae. Hoc nomes 
+      <lb ed="#B" n="15"/>Christianus, quo norunt se tanquam pugiles unctos 
+      <lb ed="#B" n="16"/>in pugna contra mundum, carnem et diabolum, undo 
+      <lb ed="#B" n="17"/>in praesenti competit nobis nomen Christi propter 
+      <lb ed="#B" n="18"/>militiam salvificam, sed in futuro, cum erimus in 
+      <lb ed="#B" n="19"/>salute, competet nobis nomen Jesu, xml:id est, salutis 
+      <lb ed="#B" n="20"/>Floruit hic auctor anno 1437.); 4. vere pii ac fide 
+      <lb ed="#B" n="21"/>les dicuntur Christiani a Christo, quia in Christo 
+      sa<lb ed="#B" n="22" break="no"/>lutem suam unice quaerunt, doctrinae et voci Christ 
+      <lb ed="#B" n="23"/>unice adhaerent, per fidem sunt membra Christi, e 
+      <lb ed="#B" n="24"/>a Christo spiritualis unctionis participes redduntu 
+      <lb ed="#B" n="25"/>sed Jesuitae sub nomine Jesu doctrinam et 
+      ver<lb ed="#B" n="26" break="no"/>ipsius membra oppugnant, xml:ideo illis convenit, quod 
+      <lb ed="#B" n="27"/>Irenaeus de sui temporis haereticis scribit lib. 1, c. 3. 
+      <lb ed="#B" n="28"/>Christi quidem Jesu nomen tanquam irritamentum 
+      <lb ed="#B" n="29"/>praeferunt, Antichristi autem impietatem varie in 
+      <lb ed="#B" n="30"/>troducentes mortificant multos per nomen bonun 
+      <lb ed="#B" n="31"/>sententiam suam male disperdentes et per dulcedo 
+      <lb ed="#B" n="32"/>nem et decorem nominis amarum et malignum 
+      pri<lb ed="#B" n="33" break="no"/>cipis apostasiae serpentis venenum porrigentes, quod 
+      <lb ed="#B" n="34"/>Athanasius orat. 2. contra Arianos et lib. 3. a. 
+      <lb ed="#B" n="35"/>Theoph. de Arianis: Jesuitismum simulant et contro 
+      <lb ed="#B" n="36"/>Jesum pugnant, nomen Jesu habent et ore diabol 
+      <lb ed="#B" n="37"/>loquuntur, quod Serapion episcopus de quibusdam 
+      <lb ed="#B" n="38"/>haereticis: pro pellibus ovium Christum induti d 
+      <lb ed="#B" n="39"/>cunt se quidem, quod non sunt, quod autem sunt 
+      <lb ed="#B" n="40"/>dici nolunt, sed suam improbitatem amictu nomini 
+      <lb ed="#B" n="41"/>tequnt, qui commune quidem nomen habent, studem 
+      <lb ed="#B" n="42"/>vero, ut nomen Christi funditus deleant, qui 
+      contr<lb ed="#B" n="43" break="no"/>Jesum militant et Jesum invocan 
+      </p>
+            <p xml:id="zef3dd-d1e909-d1e741">
+               <lb ed="#B" n="44"/>22. Thesis 2: Nomen Christi itidem tribuitu 
+      <lb ed="#B" n="45"/>etiam aliis hominibus in V. T., sed sensu longe di 
+      <lb ed="#B" n="46"/>spari quam nostro salvatori. Graecum χριστὸς rο 
+      <lb ed="#B" n="47"/>spondet Hebraeo 182, quod in genere tribuitu 
+      <lb ed="#B" n="48"/>sacerdotibus et regibus. Lev. 4. v. 3: Si sacerdos 
+      <lb ed="#B" n="49"/>qovvari, qui unctus est, peccaverit, quo sensu qui 
+      <lb ed="#B" n="50"/>dam accipiunt Psalm. 105, v. 15: nolite tanger 
+      <lb ed="#B" n="51"/>222 Christos meos, xml:id est, patres, qui fuerui 
+      <lb ed="#B" n="52"/>magni instar regum oleo unctorum; in specie 1. 
+      Saul<lb ed="#B" n="53" break="no"/>1. Sam. 12, v. 3. c. 24, v. 6. est unctus Domin 
+      <lb ed="#B" n="54"/>2. Sam. I. clypeus Saulis non est unctus oleo, i. e. 
+      <lb ed="#B" n="55"/>ita cecidit ac si non fuisset in regem unctus. 2. De 
+      <lb ed="#B" n="56"/>vidi, qui fuit Christi typus 2. Sam. 19, v. 21. c. 22 
+      <lb ed="#B" n="57"/>v. 51. 3. Cyro Persarum regi, quem Scriptura 
+      vo<lb ed="#B" n="58" break="no"/>cat Cores Esa. 45, v. 1. Quae vero differentia sit 
+      <lb ed="#B" n="59"/>inter unctionem regum ac sacerdotum V. T. a. 
+      <lb ed="#B" n="60"/>unctionem Christi in N. T. et per conseq. inter 
+      <!--529.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Christos illos typicos et Christum nostrum verum 
+      <lb ed="#B" n="62"/>expositum fuit superius. Hic notamus illud, quod 
+      <lb ed="#B" n="63"/>Christi nomen duplici ratione Salvatori nostro 
+      tr<lb ed="#B" n="64" break="no"/>buitur: 1. absolute quatenus Christus consideratur 
+      <lb ed="#B" n="65"/>ut persona in se duabus naturis constans; 2. relate 
+      <lb ed="#B" n="66"/>quatenus Christus consideratur ut caput ecclesiae 
+      <lb ed="#B" n="67"/>cum qua unum corpus mysticum constituit. Priorem 
+      <lb ed="#B" n="68"/>significationem vocant propriam, posteriorem syneo 
+      <lb ed="#B" n="69"/>dochicam. 1. Cor. 12, v. 12: Sicut corpus unum 
+      <lb ed="#B" n="70"/>est et membra habet multa, ita et Christus. C. 15. 
+      <lb ed="#B" n="71"/>v. 28: ipse Filius subjectus erit Patri. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

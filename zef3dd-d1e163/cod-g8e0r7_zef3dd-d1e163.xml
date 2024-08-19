@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="34"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e163"><!-- zef3dd-l1c5 -->
+            <head xml:id="zef3dd-d1e163-Hd1e101">Caput 5</head>
+            <head xml:id="zef3dd-d1e163-Hd1e103" type="question-title">De divisionibus librorum biblicorum</head>
+            <p xml:id="zef3dd-d1e163-d1e106">
+               <lb ed="#B" n="9"/>CAPUT V. 
+      <lb ed="#B" n="10"/>DE DIVISIONIBUS LIBRORUM 
+<lb ed="#B" n="11"/>BIBLICORUM. 
+</p>
+            <p xml:id="zef3dd-d1e163-d1e115">
+               <lb ed="#B" n="12"/>55. Libri biblici variis modis distinguuntur, utpot 
+      <lb ed="#B" n="13"/>1. in libros V. et N. T. (Augustinus libr. 3. ac 
+      <lb ed="#B" n="14"/>Bonifac. c. 4. putat rectius vocari Vetus et Novus 
+      <lb ed="#B" n="15"/>instrumentum) Libri V. T. sunt, qui ante Christum 
+      <lb ed="#B" n="16"/>exhibitum editi; libri N. T. qui post Christum 
+      exh<lb ed="#B" n="17" break="no"/>bitum scripti et ecclesiae commendati. Ubi observa 
+      <lb ed="#B" n="18"/>libros V. T. eos vocari, non quod nihil plane cont 
+      <lb ed="#B" n="19"/>neant de substantia, gratia et felicitate N. T. propte 
+      <lb ed="#B" n="20"/>Christum credentibus in eum promissa, sed quo 
+      <lb ed="#B" n="21"/>futurum ac suo tempore complendum pronuntient 
+      <lb ed="#B" n="22"/>ac praefigurent illud, quod in N. T. annuntiatur 
+      com<lb ed="#B" n="23" break="no"/>pletum Rom. 3, v. 21. c. 16, v. 26 quo dubio proeu 
+      <lb ed="#B" n="24"/>respexit Augustinus, quando maluit vocare libros) 
+      <lb ed="#B" n="25"/>et N. instrumenti, cum non temporis solum, sed etiam 
+      <lb ed="#B" n="26"/>substantiae respectu V. et N. T. distinguantur. 
+      Ca<lb ed="#B" n="27" break="no"/>terum haec duo Testamenta veteres praefigurari 
+      a<lb ed="#B" n="28" break="no"/>denotari dicunt per duos Cherubinos propitiatoriur 
+      <lb ed="#B" n="29"/>in arca foederis alis suis tegentes. Exod. 25, v. 2. 
+      <lb ed="#B" n="30"/>Greg. homil. 6. in Ezech. per duos viros uvam 
+      e<lb ed="#B" n="31" break="no"/>terra Canaan portantes. Cant. 7, v. 4. Hieronyn. 
+      <lb ed="#B" n="32"/>in c. 13. Matth. per vetera et nova, quae scriba docti 
+      <lb ed="#B" n="33"/>ad regnum coelorum de suo thesauro proferre 
+      die<lb ed="#B" n="34" break="no"/>tur, Matth. 13, v. 52. Iren. libr. 4, c. 21. Chryso 
+      <lb ed="#B" n="35"/>stom. homil. 48. in Matth. per duo ubera, qua 
+      <lb ed="#B" n="36"/>matri ecclesiae tribuuntur. Cant. 6, v. 13. Augus 
+      <lb ed="#B" n="37"/>tract. 3. in 1. Epist. Jol. 
+      </p>
+            <p xml:id="zef3dd-d1e163-d1e174">
+               <lb ed="#B" n="38"/>56. 2. In libros propheticos et apostolicos, qua 
+      <lb ed="#B" n="39"/>divisio priori est affinis, petita ex Eph. 2, v. 20. 
+      <lb ed="#B" n="40"/>Exstructi estis super fundamentum prophetarum e 
+      <lb ed="#B" n="41"/>apostolorum, quod Ambros. in comm. illius loci si 
+      <lb ed="#B" n="42"/>exponit, supra Vetus et Novum Testamentum 
+      col<lb ed="#B" n="43" break="no"/>locati. Quod enim apostoli praedicaverunt, propheta 
+      <lb ed="#B" n="44"/>futurum praedixerunt. Appellatio librorum propho 
+      <lb ed="#B" n="45"/>ticorum petita est non tam ex materia sive rebu 
+      <lb ed="#B" n="46"/>contentis, quam ex causa efficiente instrumental 
+      <lb ed="#B" n="47"/>nomine enim eo generaliter accepto intelliguntu 
+      <lb ed="#B" n="48"/>omnes V. T. libri a prophetis scripti, sive prophetia 
+      <lb ed="#B" n="49"/>sive historias, sive legales conciones contineant. Apo 
+      <lb ed="#B" n="50"/>stolicorum librorum nomine itidem generaliter accepte 
+      <lb ed="#B" n="51"/>intelliguntur omnes N. T. libri ab apostolis et evar 
+      <lb ed="#B" n="52"/>gelistis (quorum duo videlicet Matthaeus et Johas 
+      <lb ed="#B" n="53"/>nes pertinent ad apostolorum dodecada, duo vero 
+      <lb ed="#B" n="54"/>videl. Marcus et Lucas apostolorum jussu scripserum 
+      <lb ed="#B" n="55"/>et ipsorum scriptura ab apostolis est probata) divin 
+      <lb ed="#B" n="56"/>Spiritus S. inatinctu exarati 
+      </p>
+            <p xml:id="zef3dd-d1e163-d1e219">
+               <lb ed="#B" n="57"/>57. 3. I Libri V. T. a Christo subdividuntur. 
+      <!--107.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="58"/>Moysen, prophetas et pealmos. Luc. 24. v. 44. Moy. 
+      <lb ed="#B" n="59"/>ses est stirps et radix, prophetici libri constituunt. 
+      <lb ed="#B" n="60"/>arborem cum suis fructibus, psalmi sunt flores. Ne 
+      <lb ed="#B" n="61"/>que enim probatur nobis, quod quidam statuunt, 
+      <lb ed="#B" n="62"/>psalmorum nomine generaliter accepto intelligi libro 
+      <lb ed="#B" n="63"/>numeris astrictos, quales sunt, Jobus, Psalterium 
+      <lb ed="#B" n="64"/>Proverbia, Ecclesiastes, Canticum canticorum, Thren 
+      <lb ed="#B" n="65"/>sed verisimilius censemus specialiter intelligi librum 
+      <lb ed="#B" n="66"/>psalmorum, ut hac ratione Moyses ceu fons et sca 
+      <lb ed="#B" n="67"/>turigo, stirps et radix, ac pealmi tanquam flos 
+      seri<lb ed="#B" n="68" break="no"/>pturarum a reliquis propheticis libris distinguantu 
+      <lb ed="#B" n="69"/>Luc. 16, v. 29. Actor. 26. v. 22. Christus et 
+      Pau<lb ed="#B" n="70" break="no"/>lus V. T. libros distinguunt in Moysen et 
+      propheta<lb ed="#B" n="71" break="no"/>i. e. in libros Mosaicos et propheticos, quia Moyse 
+      <lb ed="#B" n="72"/>reliquorum prophetarum est ἀρχηγὸς καὶ ἔξαρχος 
+      </p>
+            <p xml:id="zef3dd-d1e163-d1e261">
+               <lb ed="#B" n="73"/>58. 4. Rabbini eos dividunt in 1J legem, &amp;22 
+      <lb ed="#B" n="74"/>prophetas et 122112 hagiographa. *7M continet 
+      <lb ed="#B" n="75"/>pentateuchum, quod ipsi vocant 7W κi τ
+      mr<lb ed="#B" n="76" break="no"/>et per abbreviationem zari quinarium legis. S12: 
+      <lb ed="#B" n="77"/>alii sunt EJENJ priores alii S2771&amp; posteriores 
+      <lb ed="#B" n="78"/>Priores sunt quatuor: Josuae, Judicum, Samuelis 
+      e<lb ed="#B" n="79" break="no"/>Regum libri. Posteriores itidem sunt quatuor 
+      <lb ed="#B" n="80"/>Esaias, Jeremias, Ezechiel et liber 792 1717 vel pe 
+      <lb ed="#B" n="81"/>crasin 39*1) duodecim prophetarum, quos minore 
+      <lb ed="#B" n="82"/>vocant. 237112 eunt reliqui omnes numero undecim 
+      <lb ed="#B" n="83"/>Psalterium, Proverbia, Job, (qui tres libri cum sin 
+      <lb ed="#B" n="84"/>poëtici, peculiari nomine 1eχvixῷ ex primis nominum 
+      <lb ed="#B" n="85"/>Hebraeorum literis composito vocantur 1 2.) zar 
+      <lb ed="#B" n="86"/>wari quinque volumina, videlicet Canticum canti 
+      <lb ed="#B" n="87"/>corum, Ruth, Threni, Ecclesiastes et Esther, deinde 
+      <lb ed="#B" n="88"/>Duniel, libri Esdrae et Paralipomena. Elias Levita 
+      <lb ed="#B" n="89"/>praefat. 3. in Masoreth. p. 40. Quamvis vero 
+      qui<lb ed="#B" n="90" break="no"/>dam ex Christianis tum veteribus, tum recentioribus 
+      <lb ed="#B" n="91"/>interpretibus hanc divisionem approbent, ut pater 
+      <lb ed="#B" n="92"/>ex Hieronym. praefat. in Esdr. et Nehem., Purchete 
+      <lb ed="#B" n="93"/>part. 1. victor. adv. Judaeos c. 8. Galatin. 1. de. 
+      <lb ed="#B" n="94"/>arcan. c. 1. ete. non tamen nihil in ea desiderar. 
+      <lb ed="#B" n="95"/>potest. Primo enim laborat ἄλληλουχίᾳ, cum omnes 
+      <lb ed="#B" n="96"/>sacri libri sint hagiographi. Secundo Danielem ex 
+      <lb ed="#B" n="97"/>numero prophetarum, ac libros Paralipomenon ab 
+      <lb ed="#B" n="98"/>historicis separat sine probabili aliqua ratione. Quod 
+      <lb ed="#B" n="99"/>si enim Josuae et Judicum libri digni habiti 
+      <lb ed="#B" n="100"/>sunt prophetarum nomine, qui sunt mere historici 
+      <lb ed="#B" n="101"/>utique in eorum numerum etiam Paralipomenon libri 
+      <lb ed="#B" n="102"/>referri potuissent, Psalterio, Proverbiis et Jobo in 
+      <lb ed="#B" n="103"/>odarum partem relatis. 3. fundamentum hujus 
+      di<lb ed="#B" n="104" break="no"/>visionis est perquam lubricum. Per S2n2 inte 
+      <lb ed="#B" n="105"/>ligunt libros per Spiritum sanctum, et non per 
+      pro<lb ed="#B" n="106" break="no"/>phetiam dictatos, ut scribit R. D. Kimchi in prooem 
+      <lb ed="#B" n="107"/>Psalm. Spiritum sanctum vocant, quando Spiritus 
+      <lb ed="#B" n="108"/>hominem vigilantem invadit, eumque ad vaticinandum 
+      <lb ed="#B" n="109"/>impellit. Prophetiam vocant, qua homini dormient 
+      <lb ed="#B" n="110"/>vel extra se rapto per Spiritum sanctum aliquid 
+      reve<lb ed="#B" n="111" break="no"/>latur. Fabricius in partit. Cod. Hebr. c. 12. Ali 
+      <lb ed="#B" n="112"/>prophetiam a Spiritu sancto distinguunt hoc modo 
+      <lb ed="#B" n="113"/>ut prophetae in ecstasi a communi hominum statu 
+      <lb ed="#B" n="114"/>et sensibus emoti vel per somnium, vel per visionem 
+      <lb ed="#B" n="115"/>vel per auditum vocis sibi loquentis tradita divini 
+      <lb ed="#B" n="116"/>eloquia proferre intelligantur. Sed Spiritus sanctu 
+      <lb ed="#B" n="117"/>metonymice intelligitur absque sensuum mutatione 
+      <!--108.xml-->
+      <pb ed="#B" n="35"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>aliqua hominem excitare ad psallendum vel 
+      loquen<lb ed="#B" n="2" break="no"/>dum. Helvic. in tract. de Chald. paraphr. c. 2. Qui 
+      <lb ed="#B" n="3"/>dam existimant, per Sr2 hagiographa intellig. 
+      <lb ed="#B" n="4"/>libros scriptos instinctu Spiritus sancti, sed non 
+      pra<lb ed="#B" n="5" break="no"/>dicatos. At haec omnia destituuntur certis et in 
+      <lb ed="#B" n="6"/>motis fundamentis 
+      </p>
+            <p xml:id="zef3dd-d1e163-d1e381">
+               <lb ed="#B" n="7"/>59. 5. Quidam ex christianis doctoribus veteribu 
+      <lb ed="#B" n="8"/>libros Veteris Testamenti dividunt in legales, histe 
+      <lb ed="#B" n="9"/>ricos, paraeneticos et propheticos. Legales sunt 
+      <lb ed="#B" n="10"/>quinque libri Moysis. Historici sunt libri a Josu 
+      <lb ed="#B" n="11"/>usque ad historiam Jobi inclusive. Paraenetici sui 
+      <lb ed="#B" n="12"/>libri Salomonis. Prophetici sunt libri prophetarum 
+      <lb ed="#B" n="13"/>majorum et minorum. De Psalmorum libro scribunt 
+      <lb ed="#B" n="14"/>quod ex omnibus, quae in reliquis libris continentu 
+      <lb ed="#B" n="15"/>quaedam utilia contineat. Basilius serm. de virtu 
+      <lb ed="#B" n="16"/>et laudib. Psalmorum tom. 1, p. 214. August. in. 
+      <lb ed="#B" n="17"/>propl. Psalm. tom. 8. col. 1. 
+      </p>
+            <p xml:id="zef3dd-d1e163-d1e407">
+               <lb ed="#B" n="18"/>60. 6. Huic divisioni affinis est illa recentiorum 
+      <lb ed="#B" n="19"/>qua libros Veteris Testamenti dividunt in 
+      legale<lb ed="#B" n="20" break="no"/>historicos, doctrinales et propheticos. Ad legale 
+      <lb ed="#B" n="21"/>referunt pentateuchon. Ad historicos librum Josuae 
+      <lb ed="#B" n="22"/>Judicum, Ruth, libros Samuelis, Regum, Paralipe 
+      <lb ed="#B" n="23"/>menon, Esrae, Nehemiae. Ad doctrinales Jobun 
+      <lb ed="#B" n="24"/>Psalterium. Proverbia, Ecclesiasten, Canticum 
+      can<lb ed="#B" n="25" break="no"/>ticorum. Ad propheticos quatuor majores et duo 
+      <lb ed="#B" n="26"/>decim minores prophetas. Qui dichotomia delectam 
+      <lb ed="#B" n="27"/>tur, dividunt Veteris Testamenti libros in historico 
+      <lb ed="#B" n="28"/>et didascalicos. Historici distinguuntur juxta tripli 
+      <lb ed="#B" n="29"/>cem Israëliticae ecclesiae et reipublicae statum, vi 
+      <lb ed="#B" n="30"/>delicet ante possessionem terrae Canaan, in ipss 
+      <lb ed="#B" n="31"/>possessione et post adeptam possessionem. Didasca 
+      <lb ed="#B" n="32"/>lici dividuntur in poëticos et propheticos. Pflache 
+      <lb ed="#B" n="33"/>rus tres constituit Veteris Testamenti librorum classe 
+      <lb ed="#B" n="34"/>juxta triplex Christi officium, sacerdotale scilicet 
+      <lb ed="#B" n="35"/>regium et propheticum. Christum sacerdotem doce 
+      <lb ed="#B" n="36"/>Pentateuchon. Regem describunt libri subsequem 
+      <lb ed="#B" n="37"/>tes historici. Prophetam et doctorem proponunt 
+      <lb ed="#B" n="38"/>libri hagiographi et prophetie. 
+</p>
+            <p xml:id="zef3dd-d1e163-d1e455">
+               <lb ed="#B" n="39"/>61. 7. Prophetici libri ratione causae instrumer 
+      <lb ed="#B" n="40"/>talis et adjuncti temporis subdistingui possunt in 
+      <lb ed="#B" n="41"/>libros illorum, qui prophetarunt ante captivitater 
+      <lb ed="#B" n="42"/>Babylonicam, ut Esaias, Jeremias, Hoseas, Joël, Amos 
+      <lb ed="#B" n="43"/>Obadias, Jonas, Micheas, Nahum, Habacue et So 
+      <lb ed="#B" n="44"/>phonias; illorum qui prophetarunt in ipsa captivitate 
+      <lb ed="#B" n="45"/>ut Ezechiel et Daniel; denique illorum, qui pos 
+      <lb ed="#B" n="46"/>captivitatem prophetarunt, ut Haggaeus, Zacharia 
+      <lb ed="#B" n="47"/>et Malachias. Post Moysen ac Davidem 
+      scripsiss<lb ed="#B" n="48" break="no"/>videntur prophetae hoc ordine. I. Jonas. 2. Hosea 
+      <lb ed="#B" n="49"/>3. Amos. 4. Esaias. 5. Micheas. 6. Joël. 7. Nahum 
+      <lb ed="#B" n="50"/>3. Habacuc. 9. Jeremias. 10. Sophonias. 11. Oba 
+      <lb ed="#B" n="51"/>dias (eum tamen quidam Jonae σύγχρονον statuur 
+      <lb ed="#B" n="52"/>et sub Achab et Jerobeam eum prophetasse volum 
+      <lb ed="#B" n="53"/>12. Daniel. 13. Esechiel. 14. Haggaeus. 13. Z. 
+      <lb ed="#B" n="54"/>charias. 16. Malachia¬ 
+      </p>
+            <p xml:id="zef3dd-d1e163-d1e492">
+               <lb ed="#B" n="55"/>62. 8. Libri Novi Testamenti distinguuntur in 
+      <lb ed="#B" n="56"/>historiales, doctrinales et propheticum. Historiale 
+      <lb ed="#B" n="57"/>tradunt historiam vel Christi, ut quatuor evangelista 
+      <lb ed="#B" n="58"/>vel apostolorum, ut Acta. Doctrinales sunt epistola 
+      <lb ed="#B" n="59"/>Pauli, Jacobi, Petri, Johannis et Judae. Prophet 
+      <lb ed="#B" n="60"/>cus unus est, videlicet Apocalypsis. Epistolae Pauli 
+      <!--108.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>
+               <lb ed="#B" n="62"/>quaedam scriptae sunt ante captivitatem, quae sunt 
+      <lb ed="#B" n="63"/>numero septem. 1. prior ad Thessalonicenses. 2. 
+      <lb ed="#B" n="64"/>posterior ad Thessalonicenses. 3. prior ad Timo 
+      <lb ed="#B" n="65"/>theum. 4. prior ad Corinthios. 5. ad Titum. 6. 
+      po<lb ed="#B" n="66" break="no"/>terior ad Corinthios. 7. ad Romanos. Quaedam in 
+      <lb ed="#B" n="67"/>captivitate, ad quam classem pertinent sex reliquae. 
+      <lb ed="#B" n="68"/>de quibus non usque adeo certo constat, quo ordine 
+      <lb ed="#B" n="69"/>scriptae fuerint, nonnulli tamen hunc ponunt: 1. ad 
+      <lb ed="#B" n="70"/>Philippenses. 2. ad Colossenses. 3. ad Philemonem. 
+      <lb ed="#B" n="71"/>1. ad Ephesios. 5. ad Galatas. 6. posterior ad 
+      Ti<lb ed="#B" n="72" break="no"/>motheum 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

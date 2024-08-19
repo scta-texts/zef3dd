@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="144"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e315"><!-- zef3dd-l1c15 -->
+            <head xml:id="zef3dd-d1e315-Hd1e101">Caput 15</head>
+            <head xml:id="zef3dd-d1e315-Hd1e103" type="question-title">De punctis vocalibus, an sint codici biblico coaeva</head>
+            <p xml:id="zef3dd-d1e315-d1e106">
+               <lb ed="#B" n="41"/>CAPUT XV 
+      <lb ed="#B" n="42"/>DE PUNCTIS VOCALIBUS, AN 
+<lb ed="#B" n="43"/>SINT CODICI BIBLICO COAEVA 
+</p>
+            <p xml:id="zef3dd-d1e315-d1e115">
+               <lb ed="#B" n="44"/>334. Inter argumenta reliqua, quibus textus Ho 
+      <lb ed="#B" n="45"/>braici corruptelas Pontificii demonstrare conantur 
+      <lb ed="#B" n="46"/>quamvis etiam hanc hypothesin 
+      Pontifie<lb ed="#B" n="47" break="no"/>tueantur eo fine, ut obtineant, laicos a Scripturae 
+<lb ed="#B" n="48"/>lectione arcendos. Sic enim scribit Thomas 
+      Ha<lb ed="#B" n="49" break="no"/>dingus contra Ivellum 15. sect. 7. apud Ivellun 
+      <lb ed="#B" n="50"/>tom. I. p. 123: A multis antiquis et fide dignissi 
+      <lb ed="#B" n="51"/>mis auctoribus proditum est, in gente Israëlitio 
+      <lb ed="#B" n="52"/>LXX duntaxat seniores legere ac intelligere potuiss 
+      <lb ed="#B" n="53"/>mysteria sacrorum librorum, quos biblia vocamu 
+      <lb ed="#B" n="54"/>Cum enim literae Hebraicae vocalibus carcant, ill 
+      <!--217.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="55"/>soli Scripturam per consonantes legere potuerunt 
+      <lb ed="#B" n="56"/>eoque modo rulgus ab ejusdem lectione exclusum 
+      <lb ed="#B" n="57"/>fuit.) non postremo loco numerandum est illud 
+      <lb ed="#B" n="58"/>quod Rabbini codici biblico addiderint puncta, facile 
+      <lb ed="#B" n="59"/>igitur fieri potuisse, ut in odium Christianorum 
+      <lb ed="#B" n="60"/>biblia Hebraica corruperint. Sic enim hac de re 
+      <lb ed="#B" n="61"/>disserit Bellarm. lib. 2. de verbo Dei c. 2. S. penult. 
+      <lb ed="#B" n="62"/>Scripturae Hebraicae non sunt omnino integrae e 
+      <lb ed="#B" n="63"/>purae, sed habent suos quosdam errores, qui par 
+      <lb ed="#B" n="64"/>tim irrepserunt negligentia vel ignorantia librar 
+      <lb ed="#B" n="65"/>orum eto. partim ignorantia Rabbinorum, qui addo 
+      <lb ed="#B" n="66"/>derunt puncta. Cum enim possint dictiones Hebrat 
+      <lb ed="#B" n="67"/>cae variis modis legi, si punctis careant, non es 
+      <lb ed="#B" n="68"/>mirum, si aliquando ipsi quoque in notatione pur 
+      <lb ed="#B" n="69"/>ctorum a vero aberraverint. Potest etiam fieri, u 
+      <lb ed="#B" n="70"/>ex pravo affectu et odio in Christum ea lecti 
+      <lb ed="#B" n="71"/>interdum ipsis magis probata sit, quae minus 
+      Chri<lb ed="#B" n="72" break="no"/>stianis favebat. S. ult. Errores, qui additione put 
+      <lb ed="#B" n="73"/>ctorum acciderunt, nihil omnino veritati 
+      officiun<lb ed="#B" n="74" break="no"/>puncta enim extrinsecus addita sunt, nec textum 
+      mu<lb ed="#B" n="75" break="no"/>tant, itaque possumus, ei volumus, puncta et 
+      de<lb ed="#B" n="76" break="no"/>trahere et aliter legere. Gordonus Huntlaeus 
+      con<lb ed="#B" n="77" break="no"/>rov. 1, cap. 9. demonstraturus, tempore quider 
+      <lb ed="#B" n="78"/>synagogae Judaicae ante et usque ad Christum 
+      <lb ed="#B" n="79"/>temque ab ascensione Domini usque ad tempore 
+      <lb ed="#B" n="80"/>Hieronymi et Augustini biblia Hebraica a 
+      Judaeo<lb ed="#B" n="81" break="no"/>rum corruptione fuisse libera, sed post morten 
+      <lb ed="#B" n="82"/>8. Hieronymi intra paucos annos exortam fuiss 
+      <lb ed="#B" n="83"/>maximam depravationem, inter cetera adducit 
+      <lb ed="#B" n="84"/>etiam illud, quod circa illud tempus puncta 
+      <lb ed="#B" n="85"/>distinctiones et accentus a duobus Judaeis E 
+      <lb ed="#B" n="86"/>Aaron filio Aser et R. Jacob filio Naphtali non 
+      <lb ed="#B" n="87"/>sine insigni dissidio fuerint inventa et introducto 
+      <lb ed="#B" n="88"/>Ex eo nascitur quaestio: An puncta vocalia liter 
+      <lb ed="#B" n="89"/>in bibliorum editione fuerint coaeva, an vere 
+      post<lb ed="#B" n="90" break="no"/>rioribus temporibus addita 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e224">
+               <lb ed="#B" n="91"/>335. Prius affirmant, 1. quidam ex Rabbinio, v 
+      <lb ed="#B" n="92"/>ostendit Buxtorfius in praef. thesaur. grammat 
+      <lb ed="#B" n="93"/>edit. prioris. In libro Zoar, inquit p. 55. qui 
+      om<lb ed="#B" n="94" break="no"/>nium Hebraeorum consensu ante Masorethas et edi 
+      <lb ed="#B" n="95"/>tum Thalmud conscriptus est, inveni loca, in qui 
+      <lb ed="#B" n="96"/>bus non tantum punctorum et accentuum fit mentio 
+      <lb ed="#B" n="97"/>sed et nomina quorundam, ut Chirek, Cholem, 
+      Schu<lb ed="#B" n="98" break="no"/>rek, Saegol, Zere, Scheva, Saegolta, Malkaph eto 
+      <lb ed="#B" n="99"/>exprimuntur. R. D. Kimchi testatur, puacta simus 
+      <lb ed="#B" n="100"/>cum lege in monte Sinai a Deo prodita 
+      fuise<lb ed="#B" n="101" break="no"/>cui nequaquam adversatur, quod xml:idem in nipha 
+      <lb ed="#B" n="102"/>scribit: Ordinatores punctorum posuisse discrimen 
+      <lb ed="#B" n="103"/>inter primam vocem praeteriti niphal et primar 
+      <lb ed="#B" n="104"/>vocem participii singularem ejusdem conjugationi 
+      <lb ed="#B" n="105"/>adscribentes praeterito; participio. Nam per 
+      <lb ed="#B" n="106"/>ordinatores punctorum non intelligit primos eorum 
+      <lb ed="#B" n="107"/>auctores, sed reparatores, qui puncta in diuturnis 
+      a<lb ed="#B" n="108" break="no"/>variis exiliis Judaeorum negligenter adscripta e 
+      <lb ed="#B" n="109"/>observata emendarunt, et ad aeternam Dei in 
+      mont<lb ed="#B" n="110" break="no"/>Sinai ordinationem revocarunt. ** Observationum 
+      <lb ed="#B" n="111"/>notarum, censurarum Rabbinorum προσθήκη non 
+      au<lb ed="#B" n="112" break="no"/>ctores, sed correctores punctorum arguit Masorethas* 
+      <lb ed="#B" n="113"/>Kimchio assentitur R. Levi filius Joseph in libri 
+      <lb ed="#B" n="114"/>Samadar affirmans puncta una cum lege esse data 
+      <!--218.xml-->
+      <pb ed="#B" n="145"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>In libro Horaiath Hakkorach ita scriptum legitur: 
+      <lb ed="#B" n="2"/>Quidam punctatorum, qui veram rationem puncta 
+      <lb ed="#B" n="3"/>tionis non tenuerunt, objiciunt ac dicunt: Quare non 
+      <lb ed="#B" n="4"/>sunt facti duo accentus Zarka in dictione una 
+      <lb ed="#B" n="5"/>sicut duo postea facti sunt? Hi nosse debent, quod 
+      <lb ed="#B" n="6"/>non nisi unum Zarka in mundo fuerit et quod 
+      <lb ed="#B" n="7"/>Moysi non fuit ostensum nisi unum Zarka. In 
+      <lb ed="#B" n="8"/>libro Samadar in principio ita legitur: Si dixerit 
+      <lb ed="#B" n="9"/>aliquis, unde scimus, quod ex ore DEI dictata es 
+      <lb ed="#B" n="10"/>punctatio et accentuum ratio? Responderi potes 
+      <lb ed="#B" n="11"/>Scripturam perfectam sive perfecte datam fuisse, 
+      <lb ed="#B" n="12"/>juxta illud: Scribes itaque in lapidibus omnia verbo 
+      <lb ed="#B" n="13"/>legis istius explanando bonum Deut. 27, v. 8. Niso 
+      <lb ed="#B" n="14"/>itaque fuissent puncta et accentus, quibus 
+      explican<lb ed="#B" n="15" break="no"/>tur voces, nemo potuisset intelligere sensum earum? 
+      <lb ed="#B" n="16"/>2. ex nostris theologis plerique omnes Chemnicius 
+      <lb ed="#B" n="17"/>in Harmonia c. 51. p. 339. Flacius part. 2. Clav. 
+      <lb ed="#B" n="18"/>Script. p. 629. Hafenreff. in templ. Ezech. p. 170. ete. 
+      <lb ed="#B" n="19"/>3. ex recentioribus grammaticis Hebraeie Buxtorfius 
+      <lb ed="#B" n="20"/>in Thesaur. p. 59. edit. prior. Cevalerius in gramm. 
+      <lb ed="#B" n="21"/>p. 23. Fabricius in partit. cod. Hebr. e. 2. Engel. 
+      <lb ed="#B" n="22"/>bertus Engels in praefat. lexic. Schindi. Joh. 
+      Bal<lb ed="#B" n="23" break="no"/>thasar Baumbach de lingg. orient. auctoritate ete 
+      <lb ed="#B" n="24"/>Crinesius in disput. de confus. lingg. ete. 4. ex 
+      Cal<lb ed="#B" n="25" break="no"/>vinianis Junius in animadv. ad lib. 2. Bellarm. de 
+      <lb ed="#B" n="26"/>verbo Dei e. 2. Alstedius in praecogn. theolog. 
+      <lb ed="#B" n="27"/>§. 276. Polanus lib. 1. Syntagm. c. 37. p. 75. 
+      <lb ed="#B" n="28"/>4* Petrus Morentinus Navarrus grammat. Hebr. 
+      <lb ed="#B" n="29"/>Kupellis editae ann. 1590. Drusius in tract. de 
+      <lb ed="#B" n="30"/>recta ratione legendi linguam sanctam p. 6. 24 
+      <lb ed="#B" n="31"/>Distinguunt illi inter biblia particularia sive 
+      pr<lb ed="#B" n="32" break="no"/>vata, quae in privatis aedibus a privatis fuerunt 
+      <lb ed="#B" n="33"/>lecta; et publica sive authentica, quae publice in 
+      <lb ed="#B" n="34"/>synagogis praelegebantur Act. 15, v. 21. Illa 
+      con<lb ed="#B" n="35" break="no"/>cedunt caruisse punctis ob descriptionis molestiam 
+      <lb ed="#B" n="36"/>et difficultatem; haec vero puncta habuisse astruum 
+      <lb ed="#B" n="37"/>ob religionis necessitatem 
+  </p>
+            <p xml:id="zef3dd-d1e315-d1e366">
+               <lb ed="#B" n="38"/>336. Probamus hanc sententiam sequentibus 
+      ar<lb ed="#B" n="39" break="no"/>gumentis: 1. ex Christi assertione Matth. 5, v. 18. 
+      <lb ed="#B" n="40"/>ubi de immota verbi divini firmitate et perpetui 
+      <lb ed="#B" n="41"/>tate sic loquitur: Amen amen, dico vobis, 
+      done<lb ed="#B" n="42" break="no"/>transeat coelum et terra, jota unum aut unus 
+      ape<lb ed="#B" n="43" break="no"/>non praeteribit a lege. Cui parallelus est locus 
+      <lb ed="#B" n="44"/>Lnc. 16, v. 17: Facilius est coelum et terram 
+      prae<lb ed="#B" n="45" break="no"/>terire, quam de lege unum apicem cadere. Per 
+      jot<lb ed="#B" n="46" break="no"/>intelligitur Jod, quae est minima apud Hebraeos 
+      <lb ed="#B" n="47"/>litera per κεραίας intelligit eminentias et apices. 
+      <lb ed="#B" n="48"/>hoc est puncta, quae vocalium vicem in lingua 
+      He<lb ed="#B" n="49" break="no"/>braea obtinent, ex quo sic inferimus: Quodcunque 
+      <lb ed="#B" n="50"/>Christus statuit essentialem scriptae legis partem 
+      <lb ed="#B" n="51"/>id ipsi scriptae legi est coaevum. Sed puncta vo 
+      <lb ed="#B" n="52"/>calia Christus statuit essentialem scriptae legis 
+      <lb ed="#B" n="53"/>partem. Ergo puncta vocalia sunt scriptae legi 
+      <lb ed="#B" n="54"/>coaeva. Ulterius: Firmitas legis divinae ac Scri 
+      <lb ed="#B" n="55"/>pturae dependet a Deo auctore. Jam vero firmitas 
+      <lb ed="#B" n="56"/>illa tribuitur a Christo etiam κεραίαις punctis et 
+      <lb ed="#B" n="57"/>apicibus. Ergo illa quoque Deum auctorem agno 
+      <lb ed="#B" n="58"/>seunt ac proinde, cum Deus legem suam tabulis 
+      la<lb ed="#B" n="59" break="no"/>pideis inscriberet Exod. 24, v. 12. c. 31, v. 18. 
+      <lb ed="#B" n="60"/>ipsae quoque κεραῖαι puncta vocalia Dei digito sunt 
+      <!--218.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>scripta. Contra eos, qui puncta vocalia statuunt 
+      <lb ed="#B" n="62"/>esse inventum Rabbinorum in Tiberiade congrega 
+      <lb ed="#B" n="63"/>torum, ex verbis Christi tale formari potest 
+      argu<lb ed="#B" n="64" break="no"/>mentum: Quodcunque Christus scriptae legi tribuit, 
+      <lb ed="#B" n="65"/>illud jamdum tempore Christi in lege scripta 
+      ex<lb ed="#B" n="66" break="no"/>titit, nec sequentibus demum seculis ei est 
+      ad<lb ed="#B" n="67" break="no"/>jectum. Sed κεραίας ac puncta vocalia Christur 
+      <lb ed="#B" n="68"/>scriptae legi tribuit. Ergo. Excipiunt 1. 
+      evangeli<lb ed="#B" n="69" break="no"/>stas non verba formalia, sed verborum duntaxa 
+      <lb ed="#B" n="70"/>sensum ex ore Christi retulisse, proinde ex 
+      voca<lb ed="#B" n="71" break="no"/>bulo κεραιῶν non posse argumentum aliquod elici 
+      <lb ed="#B" n="72"/>Resp. unde vero probant, quod tanquam certum 
+      <lb ed="#B" n="73"/>issumunt? Certe Matthaeus et Lucas eodem tenore 
+      <lb ed="#B" n="74"/>sententiam Christi recitant, utique ergo verba ipss 
+      <lb ed="#B" n="75"/>etinuerunt. Ac si vel maxime demus, evangelistas 
+      <lb ed="#B" n="76"/>sensum duntaxat recitare, nihilo tamen minus 
+      fir<lb ed="#B" n="77" break="no"/>num maneret, tempore evangelistarum puncta 
+      legi<lb ed="#B" n="78" break="no"/>scriptae fuisse adjecta, alias sententiam Christi non 
+      <lb ed="#B" n="79"/>potuissent hujusmodi verbis exprimere. 2. 
+      Pe<lb ed="#B" n="80" break="no"/>εεραίαν non intelligi puncta vocalia, sed literae 
+      <lb ed="#B" n="81"/>particulam atque adeo flexum instar corniculi, 
+      qua<lb ed="#B" n="82" break="no"/>lis cernitur in summitate literarum* etc 7. 
+      Plu<lb ed="#B" n="83" break="no"/>tarchus enim in Numa κεραίαν γραμμῆς vocat 
+      fasti<lb ed="#B" n="84" break="no"/>qium seu extremitatem lineae in modum corniculi 
+      <lb ed="#B" n="85"/>protensam. ** Atque in hac sententia etiam est 
+      <lb ed="#B" n="86"/>Barradius tom. 2. lib. 7. in conc. evang. qui vult, 
+      <lb ed="#B" n="87"/>quod nomine κεραίας veniat fastigium ipsius Jod. 
+      <lb ed="#B" n="88"/>Resp. ipsemet non audet nostram rationem 
+      simplici<lb ed="#B" n="89" break="no"/>per rejicere, sic enim rescribit d. I. c. 14. fol. 436. b: 
+      <lb ed="#B" n="90"/>Nisi forte tempore Christi aliqui erant literarum 
+      <lb ed="#B" n="91"/>ipices, qui postea exciderint.&amp;* Alii putant per 
+      <lb ed="#B" n="92"/>spices intelligi distinctivos illos commota et colo 
+      <lb ed="#B" n="93"/>denotantes ut et Raphe lineam transversam pos 
+      <lb ed="#B" n="94"/>quamlibet vocalem mobilem literis Begadcephat 
+      im<lb ed="#B" n="95" break="no"/>positam. Drusius lib. 2. animadv. c. 60. intelligit. 
+      <lb ed="#B" n="96"/>de apicibus, quibus olim distinctae fuerunt literae 
+      <lb ed="#B" n="97"/>Resch et Daleth, de quibus Hieronymus in 
+      com<lb ed="#B" n="98" break="no"/>ment. Sophon. 2. Resp. Christus inter jota et 
+      <lb ed="#B" n="99"/>κεραίαν manifeste distinguit, ergo κεραία non potest 
+      <lb ed="#B" n="100"/>notare ejusmodi corniculum, quale est Jod. Quare 
+      <lb ed="#B" n="101"/>ut per jota intelligitur Jod ex literis minima, ita 
+      <lb ed="#B" n="102"/>per κεραίαν intelligitur minutissimum punctum ex 
+      <lb ed="#B" n="103"/>ocalibus, quale est Cholem, Chirec, Schurec et 
+      ac<lb ed="#B" n="104" break="no"/>centibus, quale est Rebia ete. Severissimae enim 
+      <lb ed="#B" n="105"/>prohibitiones in decalogo per minutissimum 
+      punctu<lb ed="#B" n="106" break="no"/>lum ad caput literae longissimae 5 ita signantur &amp;5 
+      <lb ed="#B" n="107"/>Eodem sensu vertit Lutherus Matth. 5, v. 18: 
+      <lb ed="#B" n="108"/>Es wird nicht zergehen der kleinste Buchstabe, noch 
+      <lb ed="#B" n="109"/>ein Tittel vom Gesetz. Quodsi enim illis, qui 
+      con<lb ed="#B" n="110" break="no"/>rarium sentiunt, per κεραίαν metaphorice 
+      intelli<lb ed="#B" n="111" break="no"/>gere licet lineolas transversas, quae non habent 
+      <lb ed="#B" n="112"/>figuram corniculi, utique etiam per κεραίαν meta 
+      <lb ed="#B" n="113"/>phorice intelligi possunt puncta vocalia, quorum 
+      <lb ed="#B" n="114"/>pleraque cum punctulis duntaxat notentur, xml:ideo in 
+      <lb ed="#B" n="115"/>sensu syncedochico κεραῖαι appellantur. Quid quod 
+      <lb ed="#B" n="116"/>accentus quidam, ut Athnach, Jareach, Ben-jomo, 
+      <lb ed="#B" n="117"/>Sarka ete. corniculi figuram fere obtineant, 
+      quod<lb ed="#B" n="118" break="no"/>que Karne-parah a corniculi figura denominationem 
+      <lb ed="#B" n="119"/>acceperit 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e550">
+               <lb ed="#B" n="120"/>337. 2. A punctorum natura et conditione. Quod 
+      <!--219.xml-->
+      <pb ed="#B" n="146"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>est lectionis ac scriptionis quasi anima et spiritur 
+      <lb ed="#B" n="2"/>illud in prima bibliorum scriptione omissum ess 
+      <lb ed="#B" n="3"/>nullo modo verisimile est. Puncta vocalia sui 
+      <lb ed="#B" n="4"/>lectionis et scriptionis quasi anima et spiritus 
+      <lb ed="#B" n="5"/>Ergo puncta vocalia in prima bibliorum scription 
+      <lb ed="#B" n="6"/>omissa fuisse nullo modo est verisimile. Major est 
+      <lb ed="#B" n="7"/>manifestae veritatis. Quod enim est lectionis et 
+      <lb ed="#B" n="8"/>scriptionis quasi anima et spiritus, illud etiam est 
+      <lb ed="#B" n="9"/>essentialis Scripturae pars, illud si in prima biblio 
+      <lb ed="#B" n="10"/>rum scriptione omissum esset, partem duntaxat 
+      Scri<lb ed="#B" n="11" break="no"/>pturae et quidem indigniorem et inferiorem a 
+      Scri<lb ed="#B" n="12" break="no"/>pturae auctoribus videl. Deo et sanctis Dei 
+      hom<lb ed="#B" n="13" break="no"/>nibus prophetis haberemus, quod nemo facile dixeri 
+      <lb ed="#B" n="14"/>Assumtum probatur 1. ex testimoniis Rabbinorum 
+      <lb ed="#B" n="15"/>In libro Zoar sic legitur: Non est ullis literis pi 
+      <lb ed="#B" n="16"/>testas ad proferendum in hanc vel illam 
+      parten<lb ed="#B" n="17" break="no"/>praeterquam cum punctis literarum. Omnes enir 
+      <lb ed="#B" n="18"/>illae sunt tanquam corpus sine anima. Cum advo 
+      <lb ed="#B" n="19"/>niunt puncta, ecce corpua constituitur in statur 
+      <lb ed="#B" n="20"/>qua. Petrus Cevallerius citat dictum R. Nechonia 
+      <lb ed="#B" n="21"/>ex libro Sepher habbair: Similia sunt puncta lito 
+      <lb ed="#B" n="22"/>rarum legis Mosaicae animae vitali in corpore 
+      ho<lb ed="#B" n="23" break="no"/>minis. Aben Ezra dixit: Sine supra et infra, ho 
+      <lb ed="#B" n="24"/>est sine accentibus et punctis vocalibus non 
+      pote<lb ed="#B" n="25" break="no"/>intelligi Scriptura. HOc R. Aben Ezrae dictur 
+      <lb ed="#B" n="26"/>allegat Lutherus in c. 47. Genes. et addit: Sir 
+      <lb ed="#B" n="27"/>intra. Elias Levita in lib. Canticorum 
+      Can<lb ed="#B" n="28" break="no"/>tic. 3: Comparantur literae corporibus. Ista 
+      dece<lb ed="#B" n="29" break="no"/>(vocalia) sunt eis quasi animae. Quemadmodur 
+      <lb ed="#B" n="30"/>gitur corpus eine anima est cadaver motu destiti 
+      <lb ed="#B" n="31"/>tum, sic ocriptura Hebraica eine punctis vocalibu 
+      <lb ed="#B" n="32"/>est emortua et ad motionem sive lectionem parum 
+      <lb ed="#B" n="33"/>apta. Idem in praefat. Cant. dicit, literas ess, 
+      <lb ed="#B" n="34"/>scalam, vocales vero clavos, qui scalam gradij 
+      <lb ed="#B" n="35"/>cant. 2. ex testimoniis Christianorum Hebraice do 
+      <lb ed="#B" n="36"/>ctorum. Johannes Isaacus conversus Judaeus scribit 
+      <lb ed="#B" n="37"/>eum, qui aine punctis et accentibus Scripturam legit 
+      <lb ed="#B" n="38"/>similem esse homini equitanti equum ἀχαλίνωτο 
+      <lb ed="#B" n="39"/>effrenem. Fabricius in partit. Hebraic. c. 2: S 
+      <lb ed="#B" n="40"/>officium cignandi, seu quod xml:idem est, consonand 
+      <lb ed="#B" n="41"/>non potuit notari eine consonorum eignis, mult 
+      <lb ed="#B" n="42"/>minus sonorum naturalium discretio esse potuit 
+      ein<lb ed="#B" n="43" break="no"/>vocalium notis. ** Genebrardus initio Isagoge 
+      <lb ed="#B" n="44"/>suae ad legenda scripta Rabbinorum asserit, lectio 
+      <lb ed="#B" n="45"/>nem sine punctis esse mancam, imminutam. ** Job 
+      <lb ed="#B" n="46"/>Balthasar Baumbach in traet. de linguarum orienta 
+      <lb ed="#B" n="47"/>antique necessitate et utilitate; Sine vocalibus conse 
+      <lb ed="#B" n="48"/>nantes proferri non poseunt et omnis linqua, quo 
+      <lb ed="#B" n="49"/>illis destituta est, manca, imperfecta et mutila effi 
+      <lb ed="#B" n="50"/>citur. 3. ex nomine punctorum. Puncta sive voes 
+      <lb ed="#B" n="51"/>les Hebraeis dicuntur DWZI) motiones, quia 
+      sc<lb ed="#B" n="52" break="no"/>licet per pronuntiationem movent literas. Erg 
+      <lb ed="#B" n="53"/>animae instar consonantibus sensum et motum 
+      con<lb ed="#B" n="54" break="no"/>ferunt. 4. ex re ipsa. Omnis oratio animi sensa ex 
+      <lb ed="#B" n="55"/>primens, eique correspondens scriptio consta 
+      <lb ed="#B" n="56"/>dictionibus, dictiones syllabis, syllabae literis e 
+      <lb ed="#B" n="57"/>vocalibus. Absque vocali nulla potest 
+      constar<lb ed="#B" n="58" break="no"/>cyllaba, ergo nec dictio, necoratio; unde etiam 
+      <lb ed="#B" n="59"/>vocales hoc nomen sortitae sunt, quod per se edam 
+      <lb ed="#B" n="60"/>vocem sive sonum; consonantes inde sic dictae, 
+      <!--219.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>quod non nisi cum vocalibus sonent, ab illis scilice 
+      <lb ed="#B" n="62"/>motae et quasi animatae. Si vocales ex dictionibus 
+      <lb ed="#B" n="63"/>tolluntur, genuina earum significatio ignoratur 
+      <lb ed="#B" n="64"/>Ignoratis vero dictionum genuinis significationibus. 
+      <lb ed="#B" n="65"/>sententiarum significata ignorari consequens est 
+      <lb ed="#B" n="66"/>Si accentus distinctivi removeantur, sententiarum 
+      <lb ed="#B" n="67"/>sensus confunduntur. Si excipere velint, puncto 
+      <lb ed="#B" n="68"/>esse quidem necessaria ad lectionem, non autem 
+      <lb ed="#B" n="69"/>ad scriptionem, resp. finem scriptionis esse lectio 
+      <lb ed="#B" n="70"/>nem et intellectionem alterius. At qui sine puncti 
+      <lb ed="#B" n="71"/>scribit, hunc finem assequi nequit, nisi alteri omnis 
+      <lb ed="#B" n="72"/>omnium vocum punctatio sit percognita. Quinimo 
+      <lb ed="#B" n="73"/>si vel maxime punctatura sit ei cognita, in multi 
+      <lb ed="#B" n="74"/>tamen haerere et dubitare cogetur, quando scil. una 
+      <lb ed="#B" n="75"/>eademque dictio diversas punctationes admittit. 
+      <lb ed="#B" n="76"/>Addimus ergo tertium argumentum 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e730">
+               <lb ed="#B" n="77"/>338. 3. Ex ambiguitatis et incertitudinis periculo. 
+      <lb ed="#B" n="78"/>Quicquid Scripturam sacram reddit ambiguam et 
+      <lb ed="#B" n="79"/>incertam, illud nequaquam astrui debet. Atqui 
+      hy<lb ed="#B" n="80" break="no"/>pothesis illa, quod puncta vocalia consonantibu 
+      <lb ed="#B" n="81"/>non sint coaeva, verum a Rabbinis post aliquot se 
+      <lb ed="#B" n="82"/>culorum decursus demum addita, Scripturam reddit. 
+      <lb ed="#B" n="83"/>dubiam et incertam. Ergo hypothesis illa non est 
+      <lb ed="#B" n="84"/>astruenda. Major sua luce radiat. Si enim 
+      Scri<lb ed="#B" n="85" break="no"/>ptura uos debet σοφίσαι ad salutem 2. Tim. 3, v. 15. 
+      <lb ed="#B" n="86"/>utique oportet eam esse certam, perspicuam et per 
+      <lb ed="#B" n="87"/>fectam, quas ejusdem dotes contra Pontificios summ 
+      <lb ed="#B" n="88"/>studio defendimus. Assumtum probatur 1. ex 
+      con<lb ed="#B" n="89" break="no"/>sideratione illarum vocum, quae varia puncta ad 
+      <lb ed="#B" n="90"/>mittunt et pro diversitate punctorum etiam signifi 
+      <lb ed="#B" n="91"/>cationem mutant. Sic Soriet si punctetur hoc 
+      <lb ed="#B" n="92"/>modo S&amp; significat fratres; sin alio mod 
+      <lb ed="#B" n="93"/>CI&amp; animalia noxia denotat. 227 si punctetu 
+      <lb ed="#B" n="94"/>727 est loquens; si 223 significat dictum est; a 
+      <lb ed="#B" n="95"/>727 significat dixit; si 737 significat verbum; e 
+      <lb ed="#B" n="96"/>significat pestem; si 727 ductum significat et 
+      <lb ed="#B" n="97"/>metaleptico ovile sive caulum. Ecquis vero 
+      no<lb ed="#B" n="98" break="no"/>certos reddet, quae punctatura et consequente 
+      <lb ed="#B" n="99"/>quae vocis significatio sit acceptanda, si ejus 
+      <lb ed="#B" n="100"/>modi vox diversorum punctorum capax in Scripturi 
+      <lb ed="#B" n="101"/>occurrat? 2. ex inductione locorum, in quibus LX 
+      <lb ed="#B" n="102"/>interpp. ob punctorum absentiam ab Hebraica 
+      ver<lb ed="#B" n="103" break="no"/>tate deflexerunt. Genes. 15, v. 11. 21N 21337 et 
+      <lb ed="#B" n="104"/>abigebat eas, scilicet aves. LXX reddiderunt, συν
+      e<lb ed="#B" n="105" break="no"/>κάθισεν, αὐτοῖς, legerunt substitutis aliis punctis 
+      <lb ed="#B" n="106"/>C 2177. Genes. 47, v. 31:. Et incurvavit e 
+      <lb ed="#B" n="107"/>Israel cuper caput ?JaI lecti; LXX reddiderunt 
+      <lb ed="#B" n="108"/>προσεκύνησεν ἐπὶ τὸ ἄκρον τῆς ῥάβδου, quo modo 
+      <lb ed="#B" n="109"/>etiam citatur Hebr. 11, v. 21; legerunt ergo ?1327 
+      <lb ed="#B" n="110"/>baculi, et de suo addiderunt αὐτοῦ, ut ad Josephum 
+      <lb ed="#B" n="111"/>referatur. 1. Reg. 10, v. 19. 5723N77 et caput 
+      ro<lb ed="#B" n="112" break="no"/>lundum colio a parte posteriori; LXX verterunt 
+      <lb ed="#B" n="113"/>μόσχων vilulorum, legerunt ergo substitutis alii 
+      <lb ed="#B" n="114"/>punctis 233. Psal. 88, v. 11 i 2877 mortui 
+      re<lb ed="#B" n="115" break="no"/>turgunt; LXX reddiderunt, ἂν ἰατροὶ ἀναστήσουσι 
+      <lb ed="#B" n="116"/>legerunt 77;23. Psal. 9I, v. 6. 237na peste 
+      <lb ed="#B" n="117"/>ΙΧ ἀπὸ πράγματος legerunt 72772. Peal. 120, v. 
+      <lb ed="#B" n="118"/>715a7a habitavi cum Mesech; LXX reddide 
+      <lb ed="#B" n="119"/>runt ἡ παροικία μου ἐμακρώθη, legerunt 7a eiaa 
+      <lb ed="#B" n="120"/>Esa. 5, v. 1721233 arietes, LXX reddiderunt 
+      <!--220.xml-->
+      <pb ed="#B" n="147"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>διηρπασμένοι oppressi; Legerunt ergo S233 
+      <lb ed="#B" n="2"/>Esa. 17, v. 11 22 2827 et doloris desperati. 
+      <lb ed="#B" n="3"/>LXX verterunt: καὶ ὡς πατὴρ ἀνθρώπου, legerum 
+      <lb ed="#B" n="4"/>igitur B2 2827. Oseae 3, v. i 27 n377&amp; 
+      ama<lb ed="#B" n="5" break="no"/>tam a socio; LXX verterunt ἀγαπῶσαν πονηρά 
+      <lb ed="#B" n="6"/>legerunt J] malum. Hujusmodi exempla plura ad 
+      <lb ed="#B" n="7"/>duci possent. 3. ex detorsione Scripturae in sensum 
+      <lb ed="#B" n="8"/>falsum et haereticum substitutis aliis punctis poss. 
+      <lb ed="#B" n="9"/>bili, imo facillima. Genes. 3, v. 15 e7 ipsum 
+      <lb ed="#B" n="10"/>scil. semen mulieris conteret caput serpentis. Sed 
+      <lb ed="#B" n="11"/>remotis punctis legi potest &amp;71 ipsa, hoc est Maria 
+      <lb ed="#B" n="12"/>ut volunt Pontificii. Exod. 17, v. 14. Deut. 23, v. 18 
+      <lb ed="#B" n="13"/>jubet Deus delere 72½ memoriam sive mentionem 
+      <lb ed="#B" n="14"/>Amalec. Si removeantur puncta nativa et substitu 
+      <lb ed="#B" n="15"/>antur alia, poterit legi 521, quod masculum sign 
+      <lb ed="#B" n="16"/>ficat, qua ratione non peccasset Saul parcens opimi 
+      <lb ed="#B" n="17"/>gregium et jumentorum Amalec 1. Sam. 15, v. 9. 
+      <lb ed="#B" n="18"/>R. Jonathan Ezech. 48, v. 35 legit πυ τῖτι 
+      <lb ed="#B" n="19"/>Dominus nomen ejus, ut divinitatem Messiae ne 
+      <lb ed="#B" n="20"/>gare possit, cum exemplaria punctata constante 
+      <lb ed="#B" n="21"/>legant   Jehora ibi. Aut igitur conce 
+      <lb ed="#B" n="22"/>dendum, Scripturam esse ἀμφίλογον καὶ λόξιον 
+      <lb ed="#B" n="23"/>cerei instar in omnem partem flexilem, aut puncta 
+      <lb ed="#B" n="24"/>erunt cum literis simul juncta in prima Scripturae 
+      <lb ed="#B" n="25"/>editione. Excipiunt: 1. Totam Hebraeorum 
+      sapien<lb ed="#B" n="26" break="no"/>tiam in scriptis Thalmudicis et Rabbinicis, qua 
+      <lb ed="#B" n="27"/>plurima sunt, sine punctis esse traditam, sin 
+      <lb ed="#B" n="28"/>punctis legi et publice in scholis proponi, nec 
+      quem<lb ed="#B" n="29" break="no"/>quam esse, qui illic omnia incerta esse 
+      conquera<lb ed="#B" n="30" break="no"/>tur. Resp. I. non est eadem ratio Thalmudicorum 
+      <lb ed="#B" n="31"/>librorum et Scripturae sacrae. Illis enim sine dis 
+      <lb ed="#B" n="32"/>pendio salutis carere possumus, ac parum refert 
+      <lb ed="#B" n="33"/>si vel maxime a vero sensu propter ambiguitatem 
+      <lb ed="#B" n="34"/>vocum et punctorum carentiam quandoque aliquis 
+      <lb ed="#B" n="35"/>aberret; sed Scripturae codicem ab omni ambigu 
+      <lb ed="#B" n="36"/>tate et errandi periculo Deus quam longissim 
+      <lb ed="#B" n="37"/>abesse voluit. 2. Thalmudici libri non sunt ex 
+      im<lb ed="#B" n="38" break="no"/>mediato Spiritus sancti afflatu scripti, sed homines 
+      <lb ed="#B" n="39"/>erroribus obnoxios auctores habent. Ex illis igitur 
+      <lb ed="#B" n="40"/>de Scriptura sacra θεοπνεύστῳ judicari non potest 
+      <lb ed="#B" n="41"/>nec debet. 3. Quod Thalmudici et Rabbinici libri 
+      <lb ed="#B" n="42"/>punctis distituuntur, fit propter compendium seri 
+      <lb ed="#B" n="43"/>ptionis, ut celerius ea absolvi possit. Sed haec 
+      <lb ed="#B" n="44"/>ratio in codice biblico cessat. 4. Exercitatos in 
+      <lb ed="#B" n="45"/>Hebraea lingua absque punctis legere posse in 
+      pro<lb ed="#B" n="46" break="no"/>patulo est, interim tamen sine punctorum admini 
+      <lb ed="#B" n="47"/>culo proprium et genuinum sensum in quibusdam 
+      <lb ed="#B" n="48"/>assequi nequeunt, ut ex dictis constat. 5. Deu 
+      <lb ed="#B" n="49"/>non solum eruditis et exercitatis, sed omnibus in 
+      <lb ed="#B" n="50"/>universum hominibus, etiam rudioribus, per verbi 
+      <lb ed="#B" n="51"/>sui revelationem et Scripturae promulgationem 
+      con<lb ed="#B" n="52" break="no"/>sulere voluit. Illis vero puncta ad lectionem esse 
+      <lb ed="#B" n="53"/>necessaria, negari omnino nequit. 6. Ecquis 
+      no<lb ed="#B" n="54" break="no"/>certos reddet, quod Thalmudici et Rabbinici illi libri 
+      <lb ed="#B" n="55"/>in prima scriptione caruerint punctis? Excipiunt 
+      <lb ed="#B" n="56"/>2. Ambiquitatem illam oriri non ex punctorum ab 
+      <lb ed="#B" n="57"/>centia, sed ex multiplici vocum significatione, para 
+      <lb ed="#B" n="58"/>tam autem esse eidem medelam, si antecedentis 
+      <lb ed="#B" n="59"/>cum consequentibus conferantur, partium diligen 
+      <lb ed="#B" n="60"/>collatio instituatur et scopus semper respiciatur, 
+      <!--220.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Resp. 1. Quamvis ex vocum quarundam multiplie 
+      <lb ed="#B" n="62"/>ignificatu interdum ambiguitas oriatur, ea tamen 
+      <lb ed="#B" n="63"/>longe major et difficilior oritur, si puncta penitus 
+      <lb ed="#B" n="64"/>removeantur. 2. Textus συναφείαν esse medium 
+      <lb ed="#B" n="65"/>utilissimum removendae ambiguitati isti inserviens 
+      <lb ed="#B" n="66"/>facile concedimus, interim tamen res ipsa testatur 
+      <lb ed="#B" n="67"/>medium illud non esse sufficiens, ut patet ex 
+      pro<lb ed="#B" n="68" break="no"/>rime adductis exemplis. 3. De propositione non 
+      <lb ed="#B" n="69"/>lossum judicium ferre, nisi partes ejusdem, videlic. 
+      <lb ed="#B" n="70"/>subjectum et praedicatum, prius probe intelligam 
+      <lb ed="#B" n="71"/>Jam vero de genuino subjecti et praedicati in 
+      pro<lb ed="#B" n="72" break="no"/>ositione sensu non semper possum ex contextu 
+      ju<lb ed="#B" n="73" break="no"/>dicare. 4. Vel solum LXX interpretum exemplum 
+      <lb ed="#B" n="74"/>quos biblia sine punctis ad manum habuisse apparet 
+      <lb ed="#B" n="75"/>quando versionem suam adornarunt, manifestum 
+      <lb ed="#B" n="76"/>facit, ex solo contextu non posse genuinam 
+      cujus<lb ed="#B" n="77" break="no"/>ue vocis significationem perdisci, si puncta remo 
+      <lb ed="#B" n="78"/>reantur 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e1008">
+               <lb ed="#B" n="79"/>339. 4. Ex Scripturae perspicuitate. Deus voluit? 
+      <lb ed="#B" n="80"/>verbum suum clare et perspicue scribi. At scriptio 
+      <lb ed="#B" n="81"/>sine punctis apud Hebraeos est obscura, imo 
+      ob<lb ed="#B" n="82" break="no"/>scurior quam apud Graecos per abreviaturas. Erg. 
+      <lb ed="#B" n="83"/>verisimile non est, quod Deus absque punctis 
+      ver<lb ed="#B" n="84" break="no"/>bum suum scribi voluerit, quando per sua organa 
+      <lb ed="#B" n="85"/>n literas illud redegit. Qui statuunt, puncta s 
+      <lb ed="#B" n="86"/>Rabbinis inventa et Scripturis addita, illi coguntur 
+      <lb ed="#B" n="87"/>tatuere, Scripturam sacram ab hominum 
+      inventio<lb ed="#B" n="88" break="no"/>nibus majorem lucem obtinuisse. Consequens illud 
+      <lb ed="#B" n="89"/>est falsum, quia Deus voluit Scripturam in se e 
+      <lb ed="#B" n="90"/>per se esse claram, perspicuam et firmam, non 
+      au<lb ed="#B" n="91" break="no"/>tem ab hominum inventis lucem mutuari. ** Deut. 
+      <lb ed="#B" n="92"/>27, v. 8 jubetur Moyses scribere omnia legis verba 
+      <lb ed="#B" n="93"/>ata1o3 declarando bene. At sine punctis si 
+      <lb ed="#B" n="94"/>scripsisset, non bene declarasset.** Propheta 
+      re<lb ed="#B" n="95" break="no"/>gius Psal. 19, v. 9. Psal. 119, v. 105. et ex eo 
+      <lb ed="#B" n="96"/>Petrus 2. epist. 1, v. 19 Scripturam prophetican 
+      <lb ed="#B" n="97"/>vocant lucem ac lucernam in loco caliginoso lucen 
+      <lb ed="#B" n="98"/>tem, quia scilicet nativa et insita luce divinitus es 
+      <lb ed="#B" n="99"/>instructa, per quam homines ad salutarem Dei 
+      agni<lb ed="#B" n="100" break="no"/>ionem et vitam aeternam illuminare potest, 
+      nequa<lb ed="#B" n="101" break="no"/>quam vero indiget, ut hominum adinventionibus 
+      lu<lb ed="#B" n="102" break="no"/>aliqua ei inferatur. Ergo etiam antecedens ac 
+      pro<lb ed="#B" n="103" break="no"/>inde verisimile nullo modo censendum, quod puncta 
+      <lb ed="#B" n="104"/>vocalia a Rabbinis Scripturae sint addita. Majoris 
+      <lb ed="#B" n="105"/>veritas, quod scilicet illi qui statuunt, puncta i 
+      <lb ed="#B" n="106"/>Rabbinis inventa et Scripturis addita, cogantur sta 
+      <lb ed="#B" n="107"/>tuere, Scripturam saeram ab hominum 
+      inventioni<lb ed="#B" n="108" break="no"/>bus majorem lucem obtinuisse, itidem in aprico est 
+      <lb ed="#B" n="109"/>uia nemini dubium vel obscurum, quod textus 
+      <lb ed="#B" n="110"/>punctatus planior sit et magis perspicuus, quam 
+      <lb ed="#B" n="111"/>qui punctis destituitur. Si enim peregrina puncta 
+      <lb ed="#B" n="112"/>substituantur, in alium plane sensum, quam qui ex 
+      <lb ed="#B" n="113"/>punctato textu oritur, facile abduci possumus. Ac 
+      <lb ed="#B" n="114"/>quilibet expendat, an non ipsum fidei nostrae 
+      funda<lb ed="#B" n="115" break="no"/>mentum lubricum et incertum, vel certe ab 
+      homi<lb ed="#B" n="116" break="no"/>num inventis dependere statuatur, si biblia 
+      He<lb ed="#B" n="117" break="no"/>praica absque punctis a Moyse et prophetis edita, 
+      <lb ed="#B" n="118"/>postmodum vero exactis aliquot seculis ea adjecta 
+      di<lb ed="#B" n="119" break="no"/>cautur? hoc certe xml:idem foret, ac si quis dicat, 
+      cor<lb ed="#B" n="120" break="no"/>pus literaturae sacrae a sanctis Dei hominibus nos 
+      <!--221.xml-->
+      <pb ed="#B" n="148"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>accepisse, animam vero et spiritum ejusdem 
+      no<lb ed="#B" n="2" break="no"/>Rabbinis debere. Quantum momenti ac ponderis si 
+      <lb ed="#B" n="3"/>in punctis, praesertim etiam in puncto Dagesch a 
+      <lb ed="#B" n="4"/>significationem vocis intendendam, imo etiam 
+      mu<lb ed="#B" n="5" break="no"/>tandam, Hebraicae linguae peritis ignotum minim 
+      <lb ed="#B" n="6"/>est. Quod si ergo ab auctoribus punctorum illa 
+      <lb ed="#B" n="7"/>fortificationes, imo mutationes significationum unio 
+      <lb ed="#B" n="8"/>dependent et non a prophetis Spiritu Dei impulsi. 
+      <lb ed="#B" n="9"/>plurimum profecto certitudini et auctoritati 
+      Ser<lb ed="#B" n="10" break="no"/>pturae sacrae decedet. Si a Rabbinis demum ver 
+      <lb ed="#B" n="11"/>lectio et pronuntiatio prophetarum esset ostensa 
+      <lb ed="#B" n="12"/>aedificati essemus super fundamentum Rabbinorum 
+      <lb ed="#B" n="13"/>non autem super fundamentum prophetarum Ephes 
+      <lb ed="#B" n="14"/>2. v. 20. Excipiunt, veram lectionem fuisse tradi 
+      <lb ed="#B" n="15"/>tam et conservatam in synagoga. Resp. 1. hac ri 
+      <lb ed="#B" n="16"/>tione verus et genuinus Scripturae sensus unio 
+      <lb ed="#B" n="17"/>pendebit ab ecclesia. Scriptura erit litera mortu 
+      <lb ed="#B" n="18"/>et inanime cadaver, cui motum et sensum eccles, 
+      <lb ed="#B" n="19"/>inspirare cogatur. 2. Nulla est memoria tam felix 
+      <lb ed="#B" n="20"/>quae in tot myriadibus syllabarum omnes vocale 
+      <lb ed="#B" n="21"/>observare possit. 3. Quaedam vocales sunt sib 
+      <lb ed="#B" n="22"/>valde similes et hominum pronuntiatio variat, 
+      fa<lb ed="#B" n="23" break="no"/>cile igitur ex eo potuisset error oboriri et propa 
+      <lb ed="#B" n="24"/>gari. 4. Temporibus Manassis et Ammon ante Jo 
+      <lb ed="#B" n="25"/>siam liber legis annis circiter 67 fuit neglectu 
+      <lb ed="#B" n="26"/>5. Nullum commodius medium, quo Scripturae pu 
+      <lb ed="#B" n="27"/>ritas et integritas in synagogis conservari potuerit 
+      <lb ed="#B" n="28"/>quam si biblia publica in synagogis praelecta 
+      pun<lb ed="#B" n="29" break="no"/>ctata fuisse statuantur 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e1171">
+               <lb ed="#B" n="30"/>340. 5. Ex Scripturae perfectione. Quaecunque 
+      <lb ed="#B" n="31"/>hypothesis statuit, integras dictiones Scripturae ter 
+      <lb ed="#B" n="32"/>tui esse insertas, illa asserenda non est, quia labe 
+      <lb ed="#B" n="33"/>factat Scripturae perfectionem, quae in eo consistis 
+      <lb ed="#B" n="34"/>quod nec augmentum nec diminutionem admitta 
+      <lb ed="#B" n="35"/>Deut. 4. v. 2. c. 12 v. ult. Proverb. 30, v. 5. Apoc 
+      <lb ed="#B" n="36"/>22, v. 18. 19. Jam vero hypothesis illa, quod puncta 
+      <lb ed="#B" n="37"/>a Rabbinis sint addita, infert secum illud, quod in 
+      <lb ed="#B" n="38"/>tegrae dictiones a Rabbinis textui Scripturae sin 
+      <lb ed="#B" n="39"/>insertae. Avenarius in gramm. p. 605. ex Masor. 
+      <lb ed="#B" n="40"/>adducit aliquot loca, in quibus literis omissis 
+      pe<lb ed="#B" n="41" break="no"/>sola puncta vocalia dictiones exprimuntur. Jud. 2. 
+      <lb ed="#B" n="42"/>v. 13 habetur Scheva cum Zere, pro quo legen 
+      <lb ed="#B" n="43"/>dum 122 filii. Ruth. 3, v. 5 et 17 reperiuntur 
+      ha<lb ed="#B" n="44" break="no"/>vocales, pro quibus legendum *28 ad me. 2. 
+      San<lb ed="#B" n="45" break="no"/>16, v. 23 habetur punctulum Chirek, pro quo le 
+      <lb ed="#B" n="46"/>gendum O&amp; vir. 2. Sam. 18. v. 20 repetitur 
+      Zer<lb ed="#B" n="47" break="no"/>pro quo legendum J2 eo quod. 2. Reg. 19, v. 3 
+      <lb ed="#B" n="48"/>reperitur Scheva cum Cametz, pro quo legendum 
+      <lb ed="#B" n="49"/>prixax Zebaoth. c. ejusdem v. 37 habentur duo 
+      <lb ed="#B" n="50"/>cametz, pro quibus legendum 723 filii ejus 
+      <lb ed="#B" n="51"/>c. seq. v. 13 habetur, pro quo legendum 32 
+      omn<lb ed="#B" n="52" break="no"/>Psalm. 96 v. 3 habetur Saegol, pro quo legendum 
+      <lb ed="#B" n="53"/>Fe. Jerem. 31, v. 38 habetur Cametz cum Chire 
+      <lb ed="#B" n="54"/>"pro quo legendum: C2 venientes. Jer. 56 
+      <lb ed="#B" n="55"/>v. 29 habetur Cametz, pro quo legendum 112 
+      ill<lb ed="#B" n="56" break="no"/>Hujus loci est etiam illud, quod S hajediah siv 
+      <lb ed="#B" n="57"/>demonstrativum multoties per solam punctationei 
+      <lb ed="#B" n="58"/>repraesentetur, cujus tamen praesentia vel absenti 
+      <lb ed="#B" n="59"/>aliquid ponderis interdum obtinet. Hujusmodi loca! 
+      <!--221.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>tredecim ex Masora adducit Avenarius in gramm. 
+      <lb ed="#B" n="61"/>p. 53. 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e1247">
+               <lb ed="#B" n="62"/>341. 6. Ex Judaeorum erga Scripturam religione 
+      <lb ed="#B" n="63"/>Non est verisimile Rabbinos puncta fuisse auso 
+      <lb ed="#B" n="64"/>addere. Quamvis enim in Scripturis ad praecor 
+      <lb ed="#B" n="65"/>ceptas suas opiniones detorquendis audaces sint 
+      <lb ed="#B" n="66"/>tamen in scriptione retinenda ad superstitionem 
+      <lb ed="#B" n="67"/>usque diligentes sunt, adeo ut si quae litera for 
+      <lb ed="#B" n="68"/>tuito aut loco suo mota aut aliter picta fuerit, au 
+      <lb ed="#B" n="69"/>etiam desideretur, non audeant eam restituere, sed 
+      <lb ed="#B" n="70"/>si diversas lectiones invenerunt, alteram in margin 
+      <lb ed="#B" n="71"/>scripserunt, alteram in textu invariatam reliquerum 
+      <lb ed="#B" n="72"/>addentes 2D2 N57 *p legitur (haec vel illa dictio 
+      <lb ed="#B" n="73"/>et non scribitur (in textu.) Quinimo si litera in 
+      <lb ed="#B" n="74"/>textu quandoque reliquas quantitate excedat, u 
+      <lb ed="#B" n="75"/>J in voce vnvj et 7 in voce 17&amp; Deut. 6. v. 4 
+      <lb ed="#B" n="76"/>vel a reliquis excedatur ut * in voce E727 
+      <lb ed="#B" n="77"/>Genes. 2, v. 4. vel invertatur ut 3 in voce 2022 
+      <lb ed="#B" n="78"/>Num. 10, v. 35. vel suspendatur, ut 2 in voce 
+      <lb ed="#B" n="79"/>–127 Jud. 18, v. 30. tamen noluerunt hoc corri 
+      <lb ed="#B" n="80"/>gere, sed in margine duntaxat anomalian annota 
+      <lb ed="#B" n="81"/>runt, ut ex notis Masorethicis constat. Ecquis igitur 
+      <lb ed="#B" n="82"/>sibi persuaderi patietur, quod tantum licentiae 
+      <lb ed="#B" n="83"/>Rabbini sibi arrogarint, ut omnibus et singulis 
+      Scri<lb ed="#B" n="84" break="no"/>pturae dictionibus puncta addiderint, quae non 
+      <lb ed="#B" n="85"/>fuerint ipsis coaeva 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e1303">
+               <lb ed="#B" n="86"/>342. 7. Ex absurdorum consecutione. Si puncta 
+      <lb ed="#B" n="87"/>non sunt codici Hebraeo coaeva, sed a Rabbini 
+      <lb ed="#B" n="88"/>demum post aliquot secula eidem addita, 
+      conse<lb ed="#B" n="89" break="no"/>quens fuerit, 1. per aliquot centurias annorum 
+      Ser<lb ed="#B" n="90" break="no"/>pturae sacrae essentiam non fuisse integram, utpot 
+      <lb ed="#B" n="91"/>parte aliqua essentiali destitutam. 2. Scripturam 
+      <lb ed="#B" n="92"/>majorem certitudinem et perspicuitatem ex homin 
+      <lb ed="#B" n="93"/>bus mutuari, quam ex se et sua ipsius natura 
+      <lb ed="#B" n="94"/>obtineat. 3. Scripturam non esse a Deo per pro 
+      <lb ed="#B" n="95"/>phetas traditam, quoad singula verba, cum sin 
+      <lb ed="#B" n="96"/>punctis vocalibus verba constare nullo modo possint 
+      <lb ed="#B" n="97"/>proinde non totam Scripturam esse θεόπνευστον. 
+      <lb ed="#B" n="98"/>4. Veram et genuinam lectionem Scripturae a Rabbi. 
+      <lb ed="#B" n="99"/>norum invento, hoc est a lubrico hominum judicio 
+      <lb ed="#B" n="100"/>pendere ac fidem nostram humanae traditioni innit 
+      <lb ed="#B" n="101"/>5. Scripturam cujusvis detorsioni esse expositam 
+      <lb ed="#B" n="102"/>Si enim puncta sunt inventum humanum, licebi 
+      <lb ed="#B" n="103"/>illis remotis alium sensum excogitare. 6. Nihil 
+      <lb ed="#B" n="104"/>certi ex Scripturis colligi posse, cum substitutis 
+      <lb ed="#B" n="105"/>aliis atque aliis punctis sensus subinde mutetur 
+      <lb ed="#B" n="106"/>7. Judaeorum majores aut ignorantiae aut 
+      invidia<lb ed="#B" n="107" break="no"/>accusandos esse. Hoc, si sciverunt puncta et non 
+      <lb ed="#B" n="108"/>communicaverunt; illud, si nesciverunt, cum tamen 
+      <lb ed="#B" n="109"/>scriptam legem integram Deus ipsis communica 
+      <lb ed="#B" n="110"/>verit. 8. Neminem obligari, ut Scripturae credat 
+      <lb ed="#B" n="111"/>Aut enim notae vocalium posterioribus seculis in 
+      <lb ed="#B" n="112"/>ventae cum naturali vocum sono ubique conveniunt 
+      <lb ed="#B" n="113"/>aut discrepant. Si conveniunt, vocales statim cum 
+      <lb ed="#B" n="114"/>literis exstiterunt. Si discrepant, nos notatis illi 
+      <lb ed="#B" n="115"/>sonis non tenemur, sed aliam vocum φώνησιν e 
+      <lb ed="#B" n="116"/>textuum alium sensum fuisse facile suspicabimur 
+      <lb ed="#B" n="117"/>Quae omnia cum sint absurda et ἀσύστατα, xml:ideo 
+      <lb ed="#B" n="119"/>antecedens, ex quo talia consequuntur, non est 
+      po<lb ed="#B" n="118" break="no"/>nendum<!-- line coord error -->
+  </p>
+            <p xml:id="zef3dd-d1e315-d1e1381">
+      <!--222.xml-->
+               <pb ed="#B" n="149"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>343. Qui contrarium statuunt, in duas distin 
+      <lb ed="#B" n="2"/>guuntur classes. Quidam enim disputant, puncta 
+      <lb ed="#B" n="3"/>esse addita ante Christi nativitatem ab 20 
+      <lb ed="#B" n="4"/>273 1022 a viris cynagogae magnae, videlio 
+      <lb ed="#B" n="5"/>ab Esdra, Daniele, Zacharia, Malachia, Hanania 
+      <lb ed="#B" n="6"/>Nehemia, Zerubabel, Josua filio Josedec ete. e 
+      <lb ed="#B" n="7"/>aliis sanctis prophetis, qui post reditum ex 
+      Baby<lb ed="#B" n="8" break="no"/>lonica captivitate concilium celebrarint, quod ve 
+      <lb ed="#B" n="9"/>cant synagogam magnam, inque eo libros sacro 
+      <lb ed="#B" n="10"/>ordinarint, et puncta illis addiderint. (Eorum 
+      sen<lb ed="#B" n="11" break="no"/>tentia est tolerabilior quam reliquorum; qui ad tem 
+      <lb ed="#B" n="12"/>pora post Christum natum punctorum inventionem 
+      <lb ed="#B" n="13"/>referunt, cum viri illi synagogae magnae, quo 
+      <lb ed="#B" n="14"/>etiam Masorae auctores esse eruditi statuunt, pro 
+      <lb ed="#B" n="15"/>phetico spiritu excelluerint.) Quidam vero existi 
+      <lb ed="#B" n="16"/>mant, puncta esse inventa et eodici biblico addit; 
+      <lb ed="#B" n="17"/>post Christi nativitatem. Sed et ipsi in assignando 
+      <lb ed="#B" n="18"/>tempore et annorum numero plurimum 
+      variam<lb ed="#B" n="19" break="no"/>Quidam enim post destructionem templi usque ad 
+      <lb ed="#B" n="20"/>punctorum nativitatem 236 annos numerant; quidam 
+      <lb ed="#B" n="21"/>anno 470. post Christi nativitatem puncta fuisse 
+      <lb ed="#B" n="22"/>addita suspicantur; quidam in annum ab everse 
+      <lb ed="#B" n="23"/>templo 436. qui est a Christo nato annus 510. pur 
+      <lb ed="#B" n="24"/>ctorum inventionem referunt. Eo enim anno 
+      dicun<lb ed="#B" n="25" break="no"/>Rabbinos in Tiberiade urbe Galilaeae eam ob 
+      rer<lb ed="#B" n="26" break="no"/>convenisse, et operis illius principes fuisse quendam 
+      <lb ed="#B" n="27"/>Aaronem et Jacobum, illum de tribu Aser, hunc di 
+      <lb ed="#B" n="28"/>tribu Naphtalim; in eo autem omnes conveniunt 
+      <lb ed="#B" n="29"/>puncta vocalia non esse codici Hebraeo coaeva. It. 
+      <lb ed="#B" n="30"/>statuunt 1. ex Rabbinis Elias Levita Judaeus 
+      Ge<lb ed="#B" n="31" break="no"/>manus in praefat. 3. libri Masoreth hammasoreth. 
+      <lb ed="#B" n="32"/>ubi R. Jonam grammaticum pro sua sententia ad 
+      <lb ed="#B" n="33"/>ducit. 2. ex Pontiflciis Genebrardus in chron. p. 18. 
+      <lb ed="#B" n="34"/>Sixtus Senensis lib. 2. Biblioth. sanct. ** 
+      Stapleto<lb ed="#B" n="35" break="no"/>nus relect. controv. 5. q. 3. art. 1. ** Frauciso 
+      <lb ed="#B" n="36"/>Picus Mirandulan. lib. 7. de praenotion. c. 8. Gala. 
+      <lb ed="#B" n="37"/>libr. 1. de arcan. Cath. verit. c. 8. Torniellus, Pineda 
+      <lb ed="#B" n="38"/>Bellarminus, Huntlaeus. ** cujus verba controv. 1. 
+      <lb ed="#B" n="39"/>c. 9: Post mortem Hieronymi puncta, distinctione 
+      <lb ed="#B" n="40"/>et accentus a duobus Judaeis R. Aaron filio Ase 
+      <lb ed="#B" n="41"/>et R. Jacob filio Nephtali non eine insigni dissi 
+      <lb ed="#B" n="42"/>dio fuerunt inventa et introducta. Sixtus Senensis 
+      <lb ed="#B" n="43"/>lib. 3. Biblioth. p. 153: Puncta longe post tempore 
+      <lb ed="#B" n="44"/>Constantini reperta a Judaeis Babylonis Aegyptiae 
+      <lb ed="#B" n="45"/>quae nunc Cayrum appellatur, opera ac solertio 
+      <lb ed="#B" n="46"/>R. Hammay et R. Asse auctorum Thalmudicae 
+      do<lb ed="#B" n="47" break="no"/>ctrinae ete** 3. ex grammaticis Hebraeis recer 
+      <lb ed="#B" n="48"/>tioribus Drusius de rect. rat. legendi et in animadi 
+      <lb ed="#B" n="49"/>Buxtorfius in edit. poster. Thesauri, Petrus Mart 
+      <lb ed="#B" n="50"/>nius in Technolog. Reuchlinus lib. 3. de art. Caba. 
+      <lb ed="#B" n="51"/>list. p. 741. ** Arcanum punctionis revelatum, quod 
+      <lb ed="#B" n="52"/>prodiit Lugduni Batavorum ann. 1624. obstetr. 
+      <lb ed="#B" n="53"/>catu Thomae Erpenii ex professo negat ete.* 
+      <lb ed="#B" n="54"/>4. ex nostris B. Lutherus in comm. c. 36. et c. 4° 
+      <lb ed="#B" n="55"/>Genes. ubi dicit, puncta in Hebraea linqua recens 
+      <lb ed="#B" n="56"/>esse inventum, quibus non possimus ubique tuto nita 
+      <lb ed="#B" n="57"/>Item, rationem punctorum esse levissimam, plenar 
+      <lb ed="#B" n="58"/>ambiquitatis, admodum incertam. ** Hutterus lib. 1. 
+      <lb ed="#B" n="59"/>de missa contra Bellarmin. c. 6. p. 98. Consta 
+      <lb ed="#B" n="60"/>punctionem bibliorum non ejusdem esse antiquitatis! 
+      <!--222.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>cum ipso textu Hebraeo, sed multis seculis 
+      <lb ed="#B" n="62"/>onteriorem
+  </p>
+            <p xml:id="zef3dd-d1e315-d1e1529">
+               <lb ed="#B" n="63"/>344. Antequam hujus sententiae argumenta pro 
+      <lb ed="#B" n="64"/>feramus, monemus, eandem cum chronologia minime 
+      <lb ed="#B" n="65"/>convenire. Masorae enim auctores judicium de 
+      pun<lb ed="#B" n="66" break="no"/>etis, distinctionibus et accentibus tanquam jam ante 
+      <lb ed="#B" n="67"/>in textu sacro exstantibus ferunt, ut ex inspectione 
+      <lb ed="#B" n="68"/>operis Masorethici manifestum. Utique ergo ipsi 
+      <lb ed="#B" n="69"/>punctorum, distinctionum et accentuum in eodie 
+      <lb ed="#B" n="70"/>sacro non fuerunt auctores. Quod si Masorae 
+      aucto<lb ed="#B" n="71" break="no"/>res statuantur viri synagogae magnae, Esdras, 
+      Da<lb ed="#B" n="72" break="no"/>niel, Zacharias ete. ut plerique eruditi confirmant 
+      <lb ed="#B" n="73"/>manifestum est, longe ante natum Christum puncta 
+      <lb ed="#B" n="74"/>vocalia fuisse codici biblico addita, adeoque textui 
+      <lb ed="#B" n="75"/>coaeva, cum auctor eorum Masorethis antiquior non 
+      <lb ed="#B" n="76"/>possit monstrari alius quam ipsi sancti DEI homi 
+      <lb ed="#B" n="77"/>nes, per quos Scriptura primum fuit edita. Si 
+      ver<lb ed="#B" n="78" break="no"/>Masorae auctores statuantur magistri Tiberienses 
+      <lb ed="#B" n="79"/>id est, qui in Tiberiade circa annum Christi 508. 
+      <lb ed="#B" n="80"/>vel ut alii volunt 510. conventum egerunt, non 
+      <lb ed="#B" n="81"/>potest inventio punctorum Tiberiensibus tribui, cum 
+      <lb ed="#B" n="82"/>Masorethae uti dictum de punctis, distinetionibus et 
+      <lb ed="#B" n="83"/>accentibus tanquam ante exstantibus loquantur. 
+      No<lb ed="#B" n="84" break="no"/>tandum etiam illud, quod Masorae auctores sint 
+      an<lb ed="#B" n="85" break="no"/>tiquiores scriptoribus Thalmudicis, cum in Thalmuo 
+      <lb ed="#B" n="86"/>Hierosolymitano, quod Babylonico antiquius, rerum 
+      <lb ed="#B" n="87"/>praecipuarum in Masorethico opere contentarum 
+      mer<lb ed="#B" n="88" break="no"/>tio injiciatur, ut Buxtorf. in Tiberiade lib. 1. c. 8. 
+      <lb ed="#B" n="89"/>ostendit. Jam vero scriptores Thalmudici antiquio 
+      <lb ed="#B" n="90"/>res sunt magistris Tiberiensibus, ut docet Elias 
+      <lb ed="#B" n="91"/>Levita praefat. 3. libri Masoreth Hammasoreth. Ergo 
+      <lb ed="#B" n="92"/>Tiberienses magistri non possunt esse auctores 
+      pun<lb ed="#B" n="93" break="no"/>ctorum, quippe quorum, ut jam ante exstantium 
+      <lb ed="#B" n="94"/>Masorethae Tiberiensibus antiquiores mentionem 
+      fa<lb ed="#B" n="95" break="no"/>ciunt 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e1603">
+               <lb ed="#B" n="96"/>345. Argumenta potiora eorum, qui negant 
+      pun<lb ed="#B" n="97" break="no"/>eta esse literis in codice biblico coaeva, haec sunt 
+      <lb ed="#B" n="98"/>1. A linquae Hebraeae perfectione. Punctorum 
+      <lb ed="#B" n="99"/>non est absoluta quaedam necessitas, cum tota Ho 
+      <lb ed="#B" n="100"/>braicorum verborum inflexio principaliter in literis 
+      <lb ed="#B" n="101"/>consistat, in nominibus vero numeri, casus et genere 
+      <lb ed="#B" n="102"/>listinquantur per literas serviles. In aliis linquis 
+      <lb ed="#B" n="103"/>(inquiunt) conjugandi et declinandi variatio princi 
+      <lb ed="#B" n="104"/>paliter in vocalibus haeret, sed in Hebraea linquo 
+      <lb ed="#B" n="105"/>pendet a literis servilibus. Resp. 1. Si vel maxime 
+      <lb ed="#B" n="106"/>saretur, non esse absolutam punctorum necessita 
+      <lb ed="#B" n="107"/>tem, illud tamen duntaxat sequeretur, potuisse olim 
+      <lb ed="#B" n="108"/>bibliorum quaedam exemplaria carere punctis, non 
+      <lb ed="#B" n="109"/>autem revera omnia caruisse. 2. Quamvis ad 
+      nomi<lb ed="#B" n="110" break="no"/>num et verborum inflexionem literae potissimum 
+      <lb ed="#B" n="111"/>adhibeantur, ipsae tamen radices, remotis punctis 
+      <lb ed="#B" n="112"/>genuinis et substitutis aliis, sensum gignunt alium 
+      <lb ed="#B" n="113"/>ac longe diversum. 3. Ad ipsam verborum ac 
+      nomi<lb ed="#B" n="114" break="no"/>num inflexionem puncta aliquid facere, notum est 
+      <lb ed="#B" n="115"/>Hebraeae linguae peritis. 1727 legi potest 5725 
+      <lb ed="#B" n="116"/>verbum meum, *337 verba mea, *727 in regimine, 
+      <lb ed="#B" n="117"/>verba. 4. Multae dantur voces significatrices absque
+      <lb ed="#B" n="119"/>servilibus, quae vel radices ipsae, vel a radice per
+      <lb ed="#B" n="118"/>solam diversam punctationem descendentes. <!-- line coord error --> 
+  </p>
+            <p xml:id="zef3dd-d1e315-d1e1660">
+      <!--223.xml-->
+               <pb ed="#B" n="150"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>346. 2. A Graecae versionis in N. T. allegatione 
+      <lb ed="#B" n="2"/>Christus et apostoli in N. T. Hebraeas dictione 
+      <lb ed="#B" n="3"/>exprimunt, sicut in versione LXX interpp. habentur 
+      <lb ed="#B" n="4"/>. et ratione vocalium ab Hebraeis punctis plurimus 
+      <lb ed="#B" n="5"/>variant, ut ex genealogia Christi Matth. 1. et Luc.. 
+      <lb ed="#B" n="6"/>cumprimis apparet. Resp. 1. Quae ex V. T. Chr. 
+      <lb ed="#B" n="7"/>stus et apostoli allegant, ea licet non secundur 
+      <lb ed="#B" n="8"/>literas et verba, tamen secundum sensum cum text, 
+      <lb ed="#B" n="9"/>Hebraeo consentiunt. 2. Quod LXX interpp. vel 
+      <lb ed="#B" n="10"/>sionem potius quam textum Hebraicum in 
+      all<lb ed="#B" n="11" break="no"/>gatione sequantur, factum xml:ideo, quia Graeca versi 
+      <lb ed="#B" n="12"/>tunc erat usitatissima et communissima, ut superiu 
+      <lb ed="#B" n="13"/>ex Hieron. ostendimus. 3. Quod LXX quaedam; 
+      <lb ed="#B" n="14"/>V. T. aliter legunt, quam puncta genuina 
+      postulan<lb ed="#B" n="15" break="no"/>id arguit, eos fuisse usos exemplari non punctato 
+      <lb ed="#B" n="16"/>nequaquam vero probat omnia bibliorum exemplari. 
+      <lb ed="#B" n="17"/>etiam, ea quae in synagogis asservabantur, puncti 
+      <lb ed="#B" n="18"/>caruisse. 4. An versio illa Graeca, quae hodie exsta 
+      <lb ed="#B" n="19"/>sit LXX intepretum, eruditi non sine ratione 
+      dub<lb ed="#B" n="20" break="no"/>tant. Bellarm. lib. 2. de verbo Dei c. 6: Licet non 
+      <lb ed="#B" n="21"/>ignorem, nonnullos in ea sententia esse, ut existimer 
+      <lb ed="#B" n="22"/>interpretationem LXX seniorum penitus interiiss 
+      <lb ed="#B" n="23"/>multo probabilius censeo, illam adhuc superess 
+      <lb ed="#B" n="24"/>sed adeo corruptam et vitiatam, ut omnino ali 
+      <lb ed="#B" n="25"/>esse videatur. 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e1723">
+               <lb ed="#B" n="26"/>347. 3. A nominum propriorum diversa lection 
+      <lb ed="#B" n="27"/>Septuaginta interpp. et auctor Latinae versionis 
+      <lb ed="#B" n="28"/>vulgatae, uti etiam Hieronymus pleraque nomine 
+      <lb ed="#B" n="29"/>propria patriarcharum, regum, pontificum, saces 
+      <lb ed="#B" n="30"/>dotum, prophetarum, urbium ete. longe aliis voco 
+      <lb ed="#B" n="31"/>libus et punctis enuntiant, quam in Masorethico ser 
+      <lb ed="#B" n="32"/>punctato exemplari legantur, ut apparet ex inter 
+      <lb ed="#B" n="33"/>pretatione nominum Hebraeorum tradita ab 
+      Hier<lb ed="#B" n="34" break="no"/>nymo et Aria Montano. Resp. 1. Interpretes 
+      no<lb ed="#B" n="35" break="no"/>observarunt accurate et superstitiose in nominibi 
+      <lb ed="#B" n="36"/>propriis singulas literas et literarum apices, sed 
+      <lb ed="#B" n="37"/>propter εύφωνίαν leviter quandoque aliquid infle 
+      <lb ed="#B" n="38"/>etunt. 2. Quaelibet enim lingua nomina 
+      propri<lb ed="#B" n="39" break="no"/>aliena ad suarum aurium judicium conformat, u 
+      <lb ed="#B" n="40"/>interdum vix agnoscas, an eadem sint, an divers 
+      <lb ed="#B" n="41"/>Nomen prophetae Or) Latini pronuntiant Eze 
+      <lb ed="#B" n="42"/>chiel. 3. Si ex inflexione illa propriorum nominur 
+      <lb ed="#B" n="43"/>ab interpretibus facta inferri posset, puncta ess 
+      <lb ed="#B" n="44"/>recens inventum Rabbinorum, posset ex eodem 
+      prin<lb ed="#B" n="45" break="no"/>cipio inferri, in ipsis literis etiam factam esse 
+      mu<lb ed="#B" n="46" break="no"/>tationem, quod tamen hujus opinionis patroni non 
+      <lb ed="#B" n="47"/>admittu: 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e1774">
+               <lb ed="#B" n="48"/>348. 4. A Dagesch et puncti 1οῦ V condition 
+      <lb ed="#B" n="49"/>Puncta distinquentia consonantium varietatem, quo 
+      <lb ed="#B" n="50"/>lia sunt Dagesch, quod literam duplicat, et apex supe 
+      <lb ed="#B" n="51"/>rior, qui O dextrum et sinistrum, hoc est, Schin es 
+      <lb ed="#B" n="52"/>Sin distinguit, aeque vetusta esse oportet, ac punctè 
+      <lb ed="#B" n="53"/>vocalia. Jam vero ex Judic. 12, v. 6. colligitur 
+      <lb ed="#B" n="54"/>tempore judicum non fuisse illud punctum in ein 
+      <lb ed="#B" n="55"/>stro vel dextro cornu literae B observatum. Resi. 
+      <lb ed="#B" n="56"/>1. Illud duntaxat ex eo loco colligitur, quod Ephra 
+      <lb ed="#B" n="57"/>mitae non potuerint s cum aspiratione ch, sed 
+      tam<lb ed="#B" n="58" break="no"/>tum s tenue pronuntiare, quia pro schibboleth diee 
+      <lb ed="#B" n="59"/>bant sibboleth, unde ex hoc xml:idiomate linguae agno 
+      <lb ed="#B" n="60"/>scebantur, perinde ut hodie Saxones sch pronuntiam 
+      <!--223.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ut s tenue, nequaquam vero ex eo evinci potest, 
+      <lb ed="#B" n="62"/>nullam fuisse differentiam inter D Schin jamin et 
+      <lb ed="#B" n="63"/>&amp; Sin smol, sed potius contrarium. 2. Nisi enir 
+      <lb ed="#B" n="64"/>distinctio fuisset inter Schin jamin et Sin smol, nos 
+      <lb ed="#B" n="65"/>potuissent Ephraimitae per xml:id ab aliis discerni 
+      <lb ed="#B" n="66"/>3. Quod O in O postea mutatur in voce 1528, non 
+      <lb ed="#B" n="67"/>probat, tunc non fuisse usitatum Sin smol, 
+      se<lb ed="#B" n="68" break="no"/>Spiritui s. placuit, hae ratione magis perspicue blae 
+      <lb ed="#B" n="69"/>sum Ephraimitarum sermonem exprimere. 4. Quanta 
+      <lb ed="#B" n="70"/>autem vis sit et efficacia punctuli Dagesch ad 
+      con<lb ed="#B" n="71" break="no"/>stituendum, fortificandum et intendendum, quam 
+      <lb ed="#B" n="72"/>doque etiam mutandum significationes vocum, notum 
+      <lb ed="#B" n="73"/>est Hebraeae linguae gnaris 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e1837">
+               <lb ed="#B" n="74"/>349. 5. A carminum Hebraicorum ignoratione. 
+      <lb ed="#B" n="75"/>Ratio carminis, quo scripti sunt Pealmi, Threni 
+      <lb ed="#B" n="76"/>et Jobus, fuit in vocalium numero, quantitate et 
+      <lb ed="#B" n="77"/>qualitate. Joseph. lib. 7. Antiquit. c. 10: At si 
+      <lb ed="#B" n="78"/>iisdem vocalibus uterentur biblia punctata, quibus 
+      <lb ed="#B" n="79"/>usus est David et reliqui pealmographi, qui fieri 
+      <lb ed="#B" n="80"/>posset, ut ratio carminum nobis non innotesceret, 
+      <lb ed="#B" n="81"/>Resp. 1. Si olim ex vocalibus dijudicata sunt car 
+      <lb ed="#B" n="82"/>mina, ergo vocales illae in libris biblicis, saltem 
+      <lb ed="#B" n="83"/>quibusdam, exstiterunt. 2. Ex hoc argumento in 
+      <lb ed="#B" n="84"/>ferri posset, biblia nostra habere puncta plane di 
+      <lb ed="#B" n="85"/>versa ab illis, quibus libri psalmographorum olim 
+      <lb ed="#B" n="86"/>fuere lecti, adeoque remotis genuinis in rythmicis 
+      <lb ed="#B" n="87"/>illis libris haberemus puncta peregrina. 3. Duple: 
+      <lb ed="#B" n="88"/>est vocalium officium: prius inservire lectioni, e 
+      <lb ed="#B" n="89"/>eam quasi animare, posterius rationem carminum 
+      <lb ed="#B" n="90"/>ostendere. Quamvis igitur respectu posterioris offici 
+      <lb ed="#B" n="91"/>usus vocalium hodie non sit exacte nobis notus 
+      <lb ed="#B" n="92"/>ex eo tamen elici nequit, etiam prioris officii 
+      ra<lb ed="#B" n="93" break="no"/>tione non esse eundem hodie vocalium usum, qui 
+      <lb ed="#B" n="94"/>olim fuit. 4. Ex hoc ipso agnoscant infidelem 
+      tra<lb ed="#B" n="95" break="no"/>ditionis custodiam, per quam etiam iste vocalium 
+      <lb ed="#B" n="96"/>usus in ratione carminum monstranda ad nos 
+      pro<lb ed="#B" n="97" break="no"/>pagari debuisset. Quod si ergo punctorum consei 
+      <lb ed="#B" n="98"/>vatio soli traditioni accepta fertur, quilibet facil 
+      <lb ed="#B" n="99"/>intelligit, quam infideli custodi accepta feratur, et 
+      <lb ed="#B" n="100"/>quam lubricum religionis nostrae statuatur funda 
+      <lb ed="#B" n="101"/>mentum. 5. Non ex solis vocalibus et earum 
+      quan<lb ed="#B" n="102" break="no"/>titate, sed etiam ex accentibus et vocum inflexion 
+      <lb ed="#B" n="103"/>per literas ratio carminis apud Hebraeos constitit 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e1905">
+               <lb ed="#B" n="104"/>350. 6. A punctorum in hodiernis Hebraeorum 
+      <lb ed="#B" n="105"/>scriptis omissione. Hebraei, Chaldaei, Arabes, 
+      Syr<lb ed="#B" n="106" break="no"/>scripta sua absque punctis confieere solent. Erge 
+      <lb ed="#B" n="107"/>puncta non sunt essentialis pars scripturae 
+      He<lb ed="#B" n="108" break="no"/>braicae. Resp. 1. Omittunt puncta ob festinatam 
+      <lb ed="#B" n="109"/>scriptionem, quae tamen ad lectionem omnino re 
+      <lb ed="#B" n="110"/>quiruntur, sive addita sint in scriptione, sive omissâ 
+      <lb ed="#B" n="111"/>2. Proinde sunt essentialis pars orationis, ut 
+      supe<lb ed="#B" n="112" break="no"/>rius demonstravimus. 3. Quilibet agnoscit, ea quas 
+      <lb ed="#B" n="113"/>absque punctis scripta sunt, aliis atque aliis 
+      purn<lb ed="#B" n="114" break="no"/>etis substitutis sensum gignere diversum. Ergo 8 
+      <lb ed="#B" n="115"/>vel maxime non pertinerent ad essentiam scriptio 
+      <lb ed="#B" n="116"/>nis, tamen ad certitudinem lectionis et conformita 
+      <lb ed="#B" n="117"/>tem sententiae ex scripto petendae requiruntur vel 
+      <lb ed="#B" n="118"/>maxime. 4. Tam in Syra, quam in Arabica lingui 
+      <lb ed="#B" n="119"/>felicius possumus progredi sine punctorum admini 
+      <lb ed="#B" n="120"/>culo, quam in Hebraea. 5. Baumbachius in d. tract. 
+      <!--224.xml-->
+      <pb ed="#B" n="151"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>de ling. orient. per inversionem respondet: Cum 
+      <lb ed="#B" n="2"/>duae linquae, Syriaca videl. et Arabica, quae al 
+      <lb ed="#B" n="3"/>Hebraea ortae sunt, vocales habeant, ut ex libri 
+      <lb ed="#B" n="4"/>manuscript. et impressis apparet, matrem 
+      videlice<lb ed="#B" n="5" break="no"/>Hebraicam illia carere verisimile non est 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e1962">
+               <lb ed="#B" n="6"/>351. 7. A punctorum suppressione. Si puncta vet 
+      <lb ed="#B" n="7"/>ribus fuerunt nota, unde est, quod nulla eorum fid 
+      <lb ed="#B" n="8"/>mentio apud Hebraeos, cur non fuerunt adhibite 
+      <lb ed="#B" n="9"/>in numeris in fronte librorum ac versuum? Resp. 
+      <lb ed="#B" n="10"/>1. plus est in consequente, quam antecedens 
+      pe<lb ed="#B" n="11" break="no"/>mittit. Non enim sequitur, puncta vocalia non ad 
+      <lb ed="#B" n="12"/>hibentur ab Hebraeis veteribus in numeris, nec in 
+      <lb ed="#B" n="13"/>fronte librorum vel versuum. Ergo plane fuerum 
+      <lb ed="#B" n="14"/>eis ignota. A negato enim rei usu ad negationem 
+      <lb ed="#B" n="15"/>ipsius rei non valet consequentia. 2. Multo minu 
+      <lb ed="#B" n="16"/>a negato particulari rei usu ad ipsius rei negatio 
+      <lb ed="#B" n="17"/>nem procedi potest. Quamvis in numeris et in 
+      <lb ed="#B" n="18"/>frontispiciis librorum non sint usi vocalibus, tame 
+      <lb ed="#B" n="19"/>ad lectionem ipsis fuere necessaria. 3. Bellarminu. 
+      <lb ed="#B" n="20"/>quidem in Institut. gramm. p. 8. scribit, vetere 
+      <lb ed="#B" n="21"/>Hebraeos, cum nullas haberent vocales, usos ess 
+      <lb ed="#B" n="22"/>interdum earum loco quatuor consonantibus &amp;* 
+      <lb ed="#B" n="23"/>et5 et quidem per &amp; et * expresisse a, quandoqu 
+      <lb ed="#B" n="24"/>etiam vocales alias, per7 o et u, per0 e et i. Pe 
+      <lb ed="#B" n="25"/>trus Martinius in technolog. p. 16. tres duntaxa 
+      <lb ed="#B" n="26"/>ejusmodi characteres recenset, &amp;3 et 7, atque addit 
+      <lb ed="#B" n="27"/>tres illas literas ab auctore Jethsirah vocari imi 
+      <lb ed="#B" n="28"/>matres, quod nemo possit sine illarum aliqua 
+      pro<lb ed="#B" n="29" break="no"/>ferre vel dictionem vel literam. Sed si vel maxime 
+      <lb ed="#B" n="30"/>consonantibus his loco vocalium usi fuissent, ipss 
+      <lb ed="#B" n="31"/>tamen puncta vocalia non fuerunt ipsis ignota vel 
+      <lb ed="#B" n="32"/>inusitata. 4. Thalmudicos scriptores nullam facer 
+      <lb ed="#B" n="33"/>punctorum mentionem, acriter contendit Elias Le 
+      <lb ed="#B" n="34"/>vita, sed refelli potest ex tractat. Thalmudie 
+      <lb ed="#B" n="35"/>2773 c. 4. ubi adducitur dictum R. Mai, quod 
+      pe<lb ed="#B" n="36" break="no"/>pausas versuum et accentus orationi quasi gustu 
+      <lb ed="#B" n="37"/>detur. 5. In libro Zoar, qui ante Thalmudicum 
+      <lb ed="#B" n="38"/>opus secretiori lingua Hierosolymitana scriptus e 
+      <lb ed="#B" n="39"/>positionem non solum pentateuchi, sed etiam 
+      reli<lb ed="#B" n="40" break="no"/>quorum V. T. librorum continet et magnae apud 
+      <lb ed="#B" n="41"/>Judaeos est auctoritatis, diserta fit vocalium mentio 
+      <lb ed="#B" n="42"/>6. Quod in numeratione et ordine versuum punct 
+      <lb ed="#B" n="43"/>non fuerunt adhibita, xml:id tribuendum vel ipsorum 
+      <lb ed="#B" n="44"/>exilitati, vel consonantium sufficientiae, vel causae 
+      <lb ed="#B" n="45"/>alicui nobis ignotae, non autem ex eo inferendum 
+      <lb ed="#B" n="46"/>quod veteribus puncta vocalia fuerint prorsus in 
+      <lb ed="#B" n="47"/>cognita 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e2056">
+               <lb ed="#B" n="48"/>352. 8. A Chaldaica quorundam vocalium appel 
+      <lb ed="#B" n="49"/>latione. Non omnia puncta habent nomina 
+      He<lb ed="#B" n="50" break="no"/>braica, sed quaedam sunt Chaldaica. Ergo, 
+      <lb ed="#B" n="51"/>Rabbinis eunt inventa. Resp. 1. Rabbini illi, quod 
+      <lb ed="#B" n="52"/>volunt esse punctorum auctores, non scripserum 
+      <lb ed="#B" n="53"/>Chaldaice, sed eorum xml:idioma magis Hebraeo quam 
+      <lb ed="#B" n="54"/>Chaldaeo sermoni fuit cognatum. 2. Quaedam voes 
+      <lb ed="#B" n="55"/>lium nomina esse origine Hebraea et ad justam 
+      <lb ed="#B" n="56"/>ipeorum pronuntiationem spectare, negari nequit 
+      <lb ed="#B" n="57"/>argumentum igitur procedit a particulari. 3. Nomin. 
+      <lb ed="#B" n="58"/>illa grammatica saepe immutantur, unde aliquot 
+      vo<lb ed="#B" n="59" break="no"/>cales et accentus ac alia vocabula grammatica 
+      ha<lb ed="#B" n="60" break="no"/>bent plura nomina. 4. Argumentum hoc probat, 
+      <!--224.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>antiquas appellationes Hebraicas punctorum voca 
+      <lb ed="#B" n="62"/>lium periisse, non autem ipsa puncta esse recens 
+      <lb ed="#B" n="63"/>inventum; nam a novitate vocabuli ad novitatem 
+      <lb ed="#B" n="64"/>ipsius rei non est firma consequentia. 5. Si 
+      gram<lb ed="#B" n="65" break="no"/>matica illo tempore, cum haec lingua incorrupta et 
+      <lb ed="#B" n="66"/>integra erat, eamque in vulgari colloquio Judae 
+      <lb ed="#B" n="67"/>usurpabant, conscripta fuisset, utique etiam puncti 
+      <lb ed="#B" n="68"/>vocalia Hebraicas appellationes accepissent. Nunc 
+      <lb ed="#B" n="69"/>vero qua tempestate grammaticae institutiones 
+      com<lb ed="#B" n="70" break="no"/>positae sunt, neglecta jacebant, magnaque 
+      barba<lb ed="#B" n="71" break="no"/>ries invaluerat. Non igitur admodum mirandum 
+      <lb ed="#B" n="72"/>est, etiam exoticis et peregrinis vocabulis vocales 
+      <lb ed="#B" n="73"/>appellatas esse, praesertim cum literae similiter 
+      <lb ed="#B" n="74"/>magna ex parte Syriaca nomina habeant, quae sunt 
+      <lb ed="#B" n="75"/>verba Baumbachii d. traet. de lingg. oriental 
+      </p>
+            <p xml:id="zef3dd-d1e315-d1e2124">
+               <lb ed="#B" n="76"/>353. 9. Ab Hieronymi praetermissione. Hierony. 
+      <lb ed="#B" n="77"/>mus nullam facit punctorum mentionem. Erge 
+      <lb ed="#B" n="78"/>rerisimile non est, ipsius tempore eadem exstitisse 
+      <lb ed="#B" n="79"/>Resp. 1. In historicis argumentum ab auctoritate 
+      <lb ed="#B" n="80"/>negativa parvi est ponderis. 2. Hieronymus nec 
+      <lb ed="#B" n="81"/>Masorethici operis, nec Chaldaicarum paraphrasium 
+      <lb ed="#B" n="82"/>mentionem facit, utriusque tamen auctoribus 
+      recen<lb ed="#B" n="83" break="no"/>tior est Hieronymus 3. Si vel maxime a praeceptore 
+      <lb ed="#B" n="84"/>suo Barrabano Judaeo Hieronymus accepisset 
+      codi<lb ed="#B" n="85" break="no"/>cem non punctatum (characteribus perquam 
+      mi<lb ed="#B" n="86" break="no"/>nutis exscriptum, ut loquitur prooem in 7. 
+      com<lb ed="#B" n="87" break="no"/>ment. Ezechiel.), ex eo tamen inferri non posset 
+      <lb ed="#B" n="88"/>exemplaria bibliorum publica et authentica punctis 
+      <lb ed="#B" n="89"/>fuisse destituta. 4. Quidam demonstrare conantur. 
+      <lb ed="#B" n="90"/>Hieronymum punctorum non fuisse prorsus ignarum 
+      <lb ed="#B" n="91"/>In e. 3. Jonae tom. 5. p. 140 scribit: Satis miror 
+      <lb ed="#B" n="92"/>cur ita translatum sit, cum in Hebraeo nec litera 
+      <lb ed="#B" n="93"/>rum, nec syllabarum, nec accentuum, nec verbi sit 
+      <lb ed="#B" n="94"/>ulla communitas, ubi voce accentuum puncta voca 
+      <lb ed="#B" n="95"/>lia ipsum intelligere in notis ad indicem operum 
+      <lb ed="#B" n="96"/>Hieronymi tit. Hebraeus, asseritur. In quaest. super 
+      <lb ed="#B" n="97"/>Genes. agnoscit, punctum irregulare vocabulo 
+      <lb ed="#B" n="98"/>723p2 Genes. 19, v. 33 suprascriptum: 
+      Appun<lb ed="#B" n="99" break="no"/>gunt, inquit, desuper quasi incredibile, et quod 
+      <lb ed="#B" n="100"/>rerum natura non capiat, coire quempiam nescien 
+      <lb ed="#B" n="101"/>tem. At si punctuationem irregularem agnovit, 
+      uti<lb ed="#B" n="102" break="no"/>que etiam regularis punctuationis ignarus hauc 
+      <lb ed="#B" n="103"/>uit. Lib. 7 comment. in Ezech. c. 27 tom. 4. p. 414. 
+      <lb ed="#B" n="104"/>sic scribit: Frequenter Hebraea nomina pro diver 
+      <lb ed="#B" n="105"/>ritate accentuum et mutatione literarum vocalium 
+      <lb ed="#B" n="106"/>que vel maxime, quae apud illos habent 
+      proprie<lb ed="#B" n="107" break="no"/>tates suas, varie interpretantur. Quaest. in e. 47. 
+      <lb ed="#B" n="108"/>Genes. v. ult. de voce T1 ita loquitur: Hoc loco 
+      <lb ed="#B" n="109"/>quidam frustra simulant adorasse Jacob summita 
+      <lb ed="#B" n="110"/>tem sceptri Joseph, quod videl. honorans filium 
+      po<lb ed="#B" n="111" break="no"/>testatem ejus adoraverit, cum in Hebraeo multo 
+      ali<lb ed="#B" n="112" break="no"/>ter legatur. Et adoravit Israël ad caput lectuli 
+      <lb ed="#B" n="113"/>Jam vero diversa significatio inter 21132 sceptrum 
+      <lb ed="#B" n="114"/>et *1t27 lectum notans non nisi ex punctis 
+      dis<lb ed="#B" n="115" break="no"/>cerni potest. 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="403"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e754"><!-- zef3dd-l3c4 -->
+            <head xml:id="zef3dd-d1e754-Hd1e101">Caput 4</head>
+            <head xml:id="zef3dd-d1e754-Hd1e103" type="question-title">Primum argumentum ex Novo Testamento pro adstruendo trinitatis mysterio deductum</head>
+            <p xml:id="zef3dd-d1e754-d1e106">
+               <lb ed="#B" n="42"/>CAPUT IV. 
+      <lb ed="#B" n="43"/>CONTINENS PRIMUM ARGUMEN 
+      <lb ed="#B" n="44"/>TUM EX N. T. PRO ADSTRUENDO 
+      <lb ed="#B" n="45"/>TRINITATIS MYSTERIO 
+      DEDU<lb ed="#B" n="46" break="no"/>CTUM 
+</p>
+            <p xml:id="zef3dd-d1e754-d1e119">
+               <lb ed="#B" n="47"/>75. Hisce igitur de ratione ordinis praemiss 
+      <lb ed="#B" n="48"/>primum principale argumentum producimus ex Sec 
+      <lb ed="#B" n="49"/>φανεία in baptiami Christo collati 
+      administration<lb ed="#B" n="50" break="no"/>Matth. 3, v. 16. Marc. 1, v. 10. Luc. 3, v. 23 
+      <lb ed="#B" n="51"/>Fater, prima persona trinitatis, de coelo edit 
+      han<lb ed="#B" n="52" break="no"/>vocem: Hic est filius meus dilectus, in quo 
+      mih<lb ed="#B" n="53" break="no"/>complacuit. Filius in Jordane baptiaatur. Spiritus? 
+      <!--476.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="54"/>in specie corporali columbae super Christum de 
+      <lb ed="#B" n="55"/>scendit. Hic ergo manifestissima trinitas apparuit 
+      <lb ed="#B" n="56"/>Pater in voce, Filius in homine, Spiritus s. in co 
+      <lb ed="#B" n="57"/>lumba. Aug. traet. 6. in Joh. Cum hac θεοφανει 
+      <lb ed="#B" n="58"/>conjungimus historiam transfigurationis Christi de 
+      <lb ed="#B" n="59"/>scriptam <ref xml:id="zef3dd-d1e754-Rd1e153">Matth. 17, v. 5.</ref>
+               <ref xml:id="zef3dd-d1e754-Rd1e155">Marc. 9, v. 7.</ref>
+               <ref xml:id="zef3dd-d1e754-Rd1e158">Luc. 9. 
+      <lb ed="#B" n="60"/>v. 35.</ref> in qua itidem audita fuit vox Patris e coelo: 
+      <lb ed="#B" n="61"/>Hic est filius meus dilectus, hunc audite. Filiu 
+      <lb ed="#B" n="62"/>transfiguratur, ut facies ejus splendeat sicut 
+      sol<lb ed="#B" n="63" break="no"/>Spiritus s. manifestat se in nube lucida 
+      </p>
+            <p xml:id="zef3dd-d1e754-d1e170">
+               <lb ed="#B" n="64"/>76. Antequam vero ex hac θεοφανείᾳ in Christi 
+      <lb ed="#B" n="65"/>baptismo facta argumentum formemus, notari jube 
+      <lb ed="#B" n="66"/>mus, eam factam esse: I. in solenni Jesu Christi ad 
+      <lb ed="#B" n="67"/>officium suum inauguratione in V. T. aliquoties 
+      <lb ed="#B" n="68"/>praedicta. Deut. 18, v. 18: Ponam verba mea in 
+      <lb ed="#B" n="69"/>ore ejus. Ps. 2, v. 7: Constitui regem meum supe 
+      <lb ed="#B" n="70"/>Sion. Esa. 42, v. 1: Ecce electus meus, compla 
+      <lb ed="#B" n="71"/>cuit sibi in eo anima mea, dedi spiritum 
+      meum<lb ed="#B" n="72" break="no"/>super eum. C. 61, v. 1: Spiritus Domini super 
+      me<lb ed="#B" n="73" break="no"/>eo quod unxerit me; 2. non in occulto aliquo 
+      an<lb ed="#B" n="74" break="no"/>gulo, sed publice in multorum hominum praesentis 
+      <lb ed="#B" n="75"/>et conspectu, xml:id quod ostendunt tum προηγούμενο 
+      <lb ed="#B" n="76"/>tum πραχθέν, tum etiam ἐπόμενα. Baptista mox in 
+      <lb ed="#B" n="77"/>ministerii sui initio, cum ad baptizandum mitteretur, 
+      <lb ed="#B" n="78"/>acceperat a Deo hoc responsum, quod visurus sit 
+      <lb ed="#B" n="79"/>Spiritum s. super Messiam descendere Joh. 1, v. 33. 
+      <lb ed="#B" n="80"/>eam vero revelationem non sibi soli reservavit ne 
+      <lb ed="#B" n="81"/>occultavit, sed auditoribus ad baptismum suum 
+      a<lb ed="#B" n="82" break="no"/>cedentibus communicavit, cum fuerit vox clamantis 
+      <lb ed="#B" n="83"/>cumque post Christum baptizatum eam repetiverit v. 32. 
+      <lb ed="#B" n="84"/>Omnibus igitur manifestationem Messiae cupidissim. 
+      <lb ed="#B" n="85"/>exspectantibus haec ipsa θεοφάνεια facta est. Luca. 
+      <lb ed="#B" n="86"/>c. 3, v. 21. diserte annotat eam esse factam, cum 
+      <lb ed="#B" n="87"/>baptizaretur omnis populus, qui ex Hierosolymo 
+      <lb ed="#B" n="88"/>tota Judaea et regione circa Jordanem ad ipsum 
+      <lb ed="#B" n="89"/>exiverat Matth. 3, v. 5. Ergo quae hic 
+      describun<lb ed="#B" n="90" break="no"/>tur, non contigerunt remotis arbitris ac testibus in 
+      <lb ed="#B" n="91"/>ter solum Christum et Johannem, quasi nullus ex 
+      <lb ed="#B" n="92"/>populo quicquam eorum vel viderit vel audierit, sed 
+      <lb ed="#B" n="93"/>in publico totius populi conspectu, inde etiam 
+      Chri<lb ed="#B" n="94" break="no"/>stus Joh. 5, v. 37. ad hoc testimonium coelitus 
+      sib<lb ed="#B" n="95" break="no"/>datum provocat. Qui misit me Pater, ipse testime 
+      <lb ed="#B" n="96"/>nium de me perhibuit. Quod vero ibidem additur: 
+      <lb ed="#B" n="97"/>Nec vocem ejus unquam audivistis, neque speciem 
+      <lb ed="#B" n="98"/>ejus vidistis, illud vel accipiendum est de tempore 
+      <lb ed="#B" n="99"/>promulgatae legis Deut. 4, v. 12; vel de illis ipsi 
+      <lb ed="#B" n="100"/>auditoribus, cum quibus loquebatur, ut sit sensus 
+      <lb ed="#B" n="101"/>ideo non curatis testimonium Patris, quod de 
+      m<lb ed="#B" n="102" break="no"/>perhibuit, quia non interfuistis solenni illi specta 
+      <lb ed="#B" n="103"/>culo circa baptismum meum facto, proinde etiam 
+      <lb ed="#B" n="104"/>non audivistis vocem ejus e coelo sonantem, nec 
+      <lb ed="#B" n="105"/>vidistis speciem illam columbae e coelo visibilite 
+      <lb ed="#B" n="106"/>descendentem; vel de interiore auditu fidei, ut 
+      si<lb ed="#B" n="107" break="no"/>sensus: vocati quidem estis Dei vocé, sed vos eam 
+      <lb ed="#B" n="108"/>non audivistis, i. e. corde non recepistis, nec fidem 
+      <lb ed="#B" n="109"/>illi adhibere voluistis; nequaquam vero sensu eo 
+      <lb ed="#B" n="110"/>quod nullus hominum vocem illam coelestis Patris 
+      <lb ed="#B" n="111"/>praeter Johannem et Christum audiverit. 3. Eo tem 
+      <lb ed="#B" n="112"/>pore, quo Christus anno aetatis 30. completo mini 
+      <lb ed="#B" n="113"/>sterium suum praedicandi in his terris erat inchos 
+      <!--477.xml-->
+      <pb ed="#B" n="404"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>turus, ea enim aetate sacerdotes Levitici ad publica 
+      <lb ed="#B" n="2"/>ministeria olim adhibebantur. Fuit igitur haec θe0 
+      <lb ed="#B" n="3"/>φάνεια non solum solennis confirmatio ministeri 
+      <lb ed="#B" n="4"/>Messiae, sed etiam brevis comprehensio illius do 
+      <lb ed="#B" n="5"/>etrinae, quae tempore N. T. in ecclesia erat 
+      pra<lb ed="#B" n="6" break="no"/>dicanda; 4. coelum in ea fuisse apertum ae 
+      diffis<lb ed="#B" n="7" break="no"/>sum, non quod fuerit tantum chasma aliquod in 
+      <lb ed="#B" n="8"/>aëre, sed ipsius coeli mirabilis ac singularis diffissio 
+      <lb ed="#B" n="9"/>sive scissura ita comparata, ut non universum 
+      coe<lb ed="#B" n="10" break="no"/>lum nec super totam terram, sed illa tantum part 
+      <lb ed="#B" n="11"/>coeli, ubi Christus in ripa Jordanis stabat et orabat 
+      <lb ed="#B" n="12"/>nec super Johannem baptizantem et alios adstantes 
+      <lb ed="#B" n="13"/>sed super solum Christum aperiretur, ut ex circum 
+      <lb ed="#B" n="14"/>stantiis textus erudite colligit D. Chemn. in Harm 
+      <lb ed="#B" n="15"/>c. 17. Haec ipsa coeli apertio fuit publica 
+      com<lb ed="#B" n="16" break="no"/>monefactio non solum de coelesti origine hujus per 
+      <lb ed="#B" n="17"/>sonae et ejus doctrinae, quod ea quae in coelo e 
+      <lb ed="#B" n="18"/>terra iterum esset copulaturus ac coelum credent 
+      <lb ed="#B" n="19"/>bus aperturus, sed etiam de solennitate et veritat 
+      <lb ed="#B" n="20"/>hujus θεοφανείας, quod vox coelitus delata et 
+      pu<lb ed="#B" n="21" break="no"/>blice audita sit ipsius coelestis Patris vox, et quod 
+      <lb ed="#B" n="22"/>columba ex aperta illa coeli parte desuper 
+      descen<lb ed="#B" n="23" break="no"/>dens sit ipse Dei spiritus, quo accommodari potest 
+      <lb ed="#B" n="24"/>illud 1. Joh. 5, v. 7: Tres, sunt qui testimonium 
+      <lb ed="#B" n="25"/>dant in coelo, Pater, Verbum et Spiritus, xml:id est 
+      <lb ed="#B" n="26"/>tres sunt natura divini ac coelestes testes, qui in 
+      <lb ed="#B" n="27"/>baptismo Christi visibilibus et externis symbolis se 
+      <lb ed="#B" n="28"/>se manifestarunt. Ex illa enim scissura coeli vidit 
+      <lb ed="#B" n="29"/>baptista emicantem et per radios e coelo usque ad 
+      <lb ed="#B" n="30"/>Christum in ripa Jordanis orantem sese porrigenter 
+      <lb ed="#B" n="31"/>lucem augustiorem ae diviniorem, quam pro huju 
+      <lb ed="#B" n="32"/>mundi ratione. In illa coelesti luce Spiritus s. in 
+      <lb ed="#B" n="33"/>corporali specie columbae descendendo sensim se 
+      <lb ed="#B" n="34"/>demisit super Christum, et ex illa ipsa luce vox su 
+      <lb ed="#B" n="35"/>per Christum delata fuit, ut ex collatione hujus 
+      <lb ed="#B" n="36"/>historiae cum transfiguratione Christi monstrat 
+      <lb ed="#B" n="37"/>Chemn. d. I. p. 18 
+      </p>
+            <p xml:id="zef3dd-d1e754-d1e369">
+               <lb ed="#B" n="38"/>77. Hisce igitur, quae mirabilem illam θεοφάνεια 
+      <lb ed="#B" n="39"/>cujus similis non exstat in tota Scriptura, nobis 
+      ma<lb ed="#B" n="40" break="no"/>gis commendatam et augustam reddere 
+      possum<lb ed="#B" n="41" break="no"/>praenotatis, ex ea pro adstruendo trinitatis dogmat. 
+      <lb ed="#B" n="42"/>tale formamus argumentum. In quot distinctis per 
+      <lb ed="#B" n="43"/>sonis unus ac verus Deus in solenni inauguratione 
+      <lb ed="#B" n="44"/>Messiae ejusdemque baptismo sese revelavit, tor 
+      <lb ed="#B" n="45"/>personae, non plures, nec pauciores, in deitate sunt 
+      <lb ed="#B" n="46"/>agnoscendae. Sed in tribus distinctis personis unus 
+      <lb ed="#B" n="47"/>ac verus Deus in solenni illa Messiae inauguratione 
+      <lb ed="#B" n="48"/>sese revelavit. Ergo. Major est manifesta, quis 
+      <lb ed="#B" n="49"/>finis illius revelationis fuit non tantum confirmati 
+      <lb ed="#B" n="50"/>ministerii Christi, sed etiam illustrior patefactio tra 
+      <lb ed="#B" n="51"/>nitatis, quae N. T. peculiariter erat reservata, neque 
+      <lb ed="#B" n="52"/>cuiquam esse potest dubium, quin Deum eo modo 
+      <lb ed="#B" n="53"/>agnoscere, invocare et colere debeamus, quo 
+      ses<lb ed="#B" n="54" break="no"/>nobis patefecit et patefactionem illam in verbo 
+      su<lb ed="#B" n="55" break="no"/>annotari voluit. Ad minoris confirmationem haec 
+      <lb ed="#B" n="56"/>duo pertinent. 1. Eum qui se in illa Messiae 
+      inau<lb ed="#B" n="57" break="no"/>guratione revelavit, fuisse et esse unum illum ad 
+      <lb ed="#B" n="58"/>verum Deum. 2. Unum illum ac verum Deum in 
+      <lb ed="#B" n="59"/>tribus distinetis personis sese revelasse 
+      </p>
+            <p xml:id="zef3dd-d1e754-d1e419">
+               <lb ed="#B" n="60"/>18. Prius confirmamus 1. ex circumstantiarum con¬ 
+      <!--477.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>sideratione. Coelum miraculose diffinditur ac scin 
+      <lb ed="#B" n="62"/>ditur, qualis coelorum apertio etiam in aliis divinis 
+      <lb ed="#B" n="63"/>majestatis apparitionibus facta legitur, quia coelum 
+      <lb ed="#B" n="64"/>est arcana sedes gloriae Dei; Ezech. 1, V. 1. Actor. 
+      <lb ed="#B" n="65"/>i, v. 55. et 56. Apoc. 4. v. 1. et 3. c. 11, v. 19. Ex 
+      <lb ed="#B" n="66"/>illa coeli fissura emicat lux quaedam augustior ad 
+      <lb ed="#B" n="67"/>divinior, quae erat symbolum ac monitorium, 
+      reve<lb ed="#B" n="68" break="no"/>lare se eum, qui habitat in lace coelesti ac inacces 
+      <lb ed="#B" n="69"/>sibili 1. Timoth. 6, v. 16; qualis lux circumfulgebat 
+      <lb ed="#B" n="70"/>angelum primum nativitatis dominicae praeconem 
+      <lb ed="#B" n="71"/>quae vocatur δόξα κυρίου Luc. I, v. 9. ac Paulum 
+      <lb ed="#B" n="72"/>in via Damasci Act. 9, v. 3. c. 22, v. 6. c. 26, v. 13. 
+      <lb ed="#B" n="73"/>sicut olim Exod. 16, v. 10. gloria Domini conspi 
+      <lb ed="#B" n="74"/>ciebatur in nube, hoc est, insolita quaedam lux et 
+      <lb ed="#B" n="75"/>splendor majestatem Dei praesentis nuntians in eo 
+      <lb ed="#B" n="76"/>lumna nubis conspiciebatur.) Ex illa luce 
+      audieba<lb ed="#B" n="77" break="no"/>tur vox Patris coelestis, quam fuisse veri Dei vocem 
+      <lb ed="#B" n="78"/>nemini dubium; in eadem luce descendebat Spiritus 
+      <lb ed="#B" n="79"/>s. in corporali specie columbae super Christum 
+      <lb ed="#B" n="80"/>quod ipsum veram ejus divinitatem arguit, quia in 
+      <lb ed="#B" n="81"/>eadem luce coelesti, ex qua vox Patris sonat, descendit 
+      <lb ed="#B" n="82"/>Filius in ripa Jordanis stans proclamatur dilectus 
+      <lb ed="#B" n="83"/>Dei filius, in quo ipsi sit complacitum, quodsi ve 
+      <lb ed="#B" n="84"/>rus et naturalis est Dei filius, utique ejusdem es 
+      <lb ed="#B" n="85"/>cum Patre naturae ac essentiae, neque enim fas est 
+      <lb ed="#B" n="86"/>Filium patris degenerem suspicari, sed aequalis 
+      <lb ed="#B" n="87"/>necesse est fateri altitudinis et ejusdem dignitatis. 
+      <lb ed="#B" n="88"/>potestatis et essentiae. Bernh. serm. 1. de adv. 
+      <lb ed="#B" n="89"/>col. 1: Vitiosa et monstrosa esset Dei generatio, si 
+      <lb ed="#B" n="90"/>ex ejus utero diversa prodiisset natura. Aug. lib. 3. 
+      <lb ed="#B" n="91"/>contra Maxim. c. 18. Nec caret emphasi bina 
+      arti<lb ed="#B" n="92" break="no"/>culi repetitio. Hic est ὁ υἱὸς ὁ ἀγακητός ille Filius 
+      <lb ed="#B" n="93"/>ille dilectus a reliquorum filiorum sorte singularite 
+      <lb ed="#B" n="94"/>exemtus. Dicit Pater, sibi in hoc filio esse 
+      com<lb ed="#B" n="95" break="no"/>placitum, i. e. omnem suam complacentiam in 
+      ho<lb ed="#B" n="96" break="no"/>silio aequiescere, residere et quasi depositam esse 
+      <lb ed="#B" n="97"/>ita ut propter ipsum etiam credentes habeat dilectos 
+      <lb ed="#B" n="98"/>Eph. 1, v. 5. et de ecclesia etiam dicatur, vocaberis 
+      <lb ed="#B" n="99"/>beneplacitum meum in ea Esa. 62, v. 1. Quae phra 
+      <lb ed="#B" n="100"/>sis totum redemtionis mysterium complectitur, quod 
+      <lb ed="#B" n="101"/>hic Filius genus humanum propter peccatum Dei 
+      ini<lb ed="#B" n="102" break="no"/>micum sit reconciliaturus 2. Cor. 5, v. 19. Col. I. 
+      <lb ed="#B" n="103"/>v. 19. Eph. 1, v. 5, ad quam reconciliationem et 
+      <lb ed="#B" n="104"/>redemtionem divina natura requirebatur, ut alibi 
+      <lb ed="#B" n="105"/>ostenditur. 
+      </p>
+            <p xml:id="zef3dd-d1e754-d1e526">
+               <lb ed="#B" n="106"/>79. 2. Ex aliorum Scripturae locorum collatione 
+      <lb ed="#B" n="107"/>Patrem, cujus vox e coelo auditur, esse verum 
+      <lb ed="#B" n="108"/>Deum, nullus in ecclesia Christiana dubitat. A 
+      <lb ed="#B" n="109"/>confirmatur xml:id ex eo, quia is, qui Johannem misi 
+      <lb ed="#B" n="110"/>ad baptizandum, eidem dixit, super quem videris 
+      <lb ed="#B" n="111"/>Spiritum descendentem, hic est, qui baptizat in Spo 
+      <lb ed="#B" n="112"/>ritu. Joh. 1, v. 33. xml:idem etiam dixit: Hic est Filiu 
+      <lb ed="#B" n="113"/>meus dilectus et Spiritum sanctum super eum de 
+      <lb ed="#B" n="114"/>misit. Jam vero is, qui Johannem misit ad bapti 
+      <lb ed="#B" n="115"/>zandum, est verus Deus, Johan. 1, v. 6. Utimu 
+      <lb ed="#B" n="116"/>etiam hac collatione. Qui in baptismo Christi dixit: 
+      <lb ed="#B" n="117"/>Hic est Filius meus dilectus, xml:idem etiam in 
+      transfigura<lb ed="#B" n="118" break="no"/>tione Christi hanc vocem repetivit, Matth. 17, v.! 
+      <lb ed="#B" n="119"/>Jam vero is, qui in transfiguratione Christi dixit 
+      <lb ed="#B" n="120"/>Hìc est Filius meus dilectus, fuit et est verus Deus, 
+      <!--478.xml-->
+      <pb ed="#B" n="405"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>2. Petr. 1, v. 16: Fuimus ἐπόπται illius (Christi). 
+      <lb ed="#B" n="2"/>magnitudinis. V. 17: accipiens enim a Deo Patr. 
+      <lb ed="#B" n="3"/>honorem et gloriam, voce ad ipsum delata. Ergo 
+      <lb ed="#B" n="4"/>Filium, ad quem vox illa Patris, tu es Filius 
+      meu<lb ed="#B" n="5" break="no"/>facta est et super quem Spiritus sanctus descendit 
+      <lb ed="#B" n="6"/>esse verum Deum probamus hoc modo: I. Ad quem 
+      <lb ed="#B" n="7"/>Pater coelestis hoc loco dicit: Tu es Filius mer 
+      <lb ed="#B" n="8"/>dilectus, xml:idem est, qui Ps. 2, v. 7. dicit, inquit 
+      nar<lb ed="#B" n="9" break="no"/>rabo decretum, quod Dominus dixit ad me, Filius 
+      <lb ed="#B" n="10"/>meus es tu. Atqui is qui Ps. 2, v. 7. sic hoc 
+      lo<lb ed="#B" n="11" break="no"/>quitur, est verus Deus. Ergo etiam is, ad quem 
+      <lb ed="#B" n="12"/>Pater coelestis hoc loco dicit, Tu ea Filius meus di 
+      <lb ed="#B" n="13"/>lectus, est verus Deus. Assumtum probatur, quis 
+      <lb ed="#B" n="14"/>est talis Dei Filius. 1. qui hodie, xml:id est, ab aeterno 
+      <lb ed="#B" n="15"/>est a Patre genitus v. 7. Quae contra hanc 
+      inte<lb ed="#B" n="16" break="no"/>pretationem ex literali verborum sensu profluenter 
+      <lb ed="#B" n="17"/>afferunt, alibi explicantur, hoc loco urgemus 
+      argu<lb ed="#B" n="18" break="no"/>mentum ex Hebr. 1, v. 5. et 6. Cujus generatio 
+      <lb ed="#B" n="19"/>nis respectu Filius angelorum productionem 
+      hom<lb ed="#B" n="20" break="no"/>nis creatione anteriorem longissimo intervallo 
+      exce<lb ed="#B" n="21" break="no"/>dit, est primogenitus Dei Filius, cui ab angelis ado 
+      <lb ed="#B" n="22"/>ratio debetur, de ea non potest cogitari vel 
+      die<lb ed="#B" n="23" break="no"/>quod sit generatio quaedam temporanea, vel 
+      desti<lb ed="#B" n="24" break="no"/>natio ac vocatio ad officium, vel quicquam ulli crea 
+      <lb ed="#B" n="25"/>turae competens. Jam vero generationis illius 
+      re<lb ed="#B" n="26" break="no"/>spectu, quae Ps. 2, v. 7. Filio tribuitur, ipse pro 
+      <lb ed="#B" n="27"/>ductionem angelorum longissimo intervallo excedit 
+      <lb ed="#B" n="28"/>ete. Ergo; 2. in quem fiducia cordis collocandi 
+      <lb ed="#B" n="29"/>v. 13. Ex quo sic concludimus. In quo fiduciam 
+      <lb ed="#B" n="30"/>cordis collocare debemus, is est verus et aeternu 
+      <lb ed="#B" n="31"/>Deus; Psalm. 118, v. 8. Jerem. 17, v. 7. Atqu 
+      <lb ed="#B" n="32"/>in Filio debemus fiduciam cordis collocare. Erg. 
+      <lb ed="#B" n="33"/>est verus et aeternus Deus. 3. cui gentes dantur in 
+      <lb ed="#B" n="34"/>hereditatem et termini terrae in possessionem v. 8. 
+      <lb ed="#B" n="35"/>Unde sic inferimus. Is, cui competit universale to 
+      <lb ed="#B" n="36"/>tius terrae et omnium gentium imperium, est veru 
+      <lb ed="#B" n="37"/>Deus 1. Timoth. 1, v. 17. c. 6, v. 15. Filio tale 
+      <lb ed="#B" n="38"/>imperium competit. II. Ad quem Pater coelestis 
+      ho<lb ed="#B" n="39" break="no"/>loco dicit: Tu ea Filius meus dilectus, est is, de quo 
+      <lb ed="#B" n="40"/>Esa. 42, v. 1. dicitur: Ecce dilectus meus, in quo 
+      <lb ed="#B" n="41"/>complacui. Jam vero is, de quo Esa. 42, v. 15 
+      <lb ed="#B" n="42"/>Pater coelestis sic loquitur, est verus Deus, quod 
+      <lb ed="#B" n="43"/>probatur hoc modo. Is qui datus est in lucem 
+      gen<lb ed="#B" n="44" break="no"/>tium, est verus Deus, quia ut prima lucis corporalis 
+      <lb ed="#B" n="45"/>creatio est opus vere ac mere divinum, sic spiritua 
+      <lb ed="#B" n="46"/>lis illa gentium illuminatio est itidem opus divinum 
+      <lb ed="#B" n="47"/>2. Cor. 4. v. 6. Atqui is, de quo dicitur: Ecce di 
+      <lb ed="#B" n="48"/>lectus meus, datus est in lucem gentium Esa. 42. 
+      <lb ed="#B" n="49"/>v. 6. Ergo. Ulterius, qui datus est in saluter 
+      <lb ed="#B" n="50"/>gentium, is est salus sive salutare Dei sive a 
+      De<lb ed="#B" n="51" break="no"/>constitutum et datum usque ad extremum terrae 
+      <lb ed="#B" n="52"/>Esa. 49. v. 6. Jam vero extra Deum non est 
+      tali<lb ed="#B" n="53" break="no"/>salvator Esa. 43, v. 11. c. 45, v. 21. Hosea 1, v. 7. 
+      <lb ed="#B" n="54"/>Salvabo eos in Domino Deo suo. III. Is, qui hoc 
+      <lb ed="#B" n="55"/>loco vocatur ἀγαπητὸς vἱ’ς, alibi appellatur μoνογε 
+      <lb ed="#B" n="56"/>νὴς Joh. 1, v. 14. ac ἴδιος θεοῦ υἱός Rom. 8, v. 32 
+      <lb ed="#B" n="57"/>Jam vero qui est μονογενὴς καὶ ἴδιος θεοῦ υἱός, i 
+      <lb ed="#B" n="58"/>Patri suo aequalis est Joh. 5, v. 18. et per consec 
+      <lb ed="#B" n="59"/>verus Deus. Huc pertinet observatio illa, quod 
+      <lb ed="#B" n="60"/>Hebr. 11, v. 17. Isaacus appellatur μονογενὴς, qui 
+      <!--478.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Gen. 22, v. 2. vocatur ἀγαπητός. fuit autem Isaacus 
+      <lb ed="#B" n="62"/>Christi typus, qua de re alibi plenius. IV. Is, super 
+      <lb ed="#B" n="63"/>quem Spiritus s. h. I. in specie columbae descendit 
+      <lb ed="#B" n="64"/>et super ipsum manet, dicitur unctus oleo laetitia 
+      <lb ed="#B" n="65"/>prae consortibus suis Psalm. 45, v. 8. Spiritum s. 
+      <lb ed="#B" n="66"/>cecepisse non ad mensuram Johann. 3, v. 34. ita 
+      <lb ed="#B" n="67"/>ut ex ejus plenitudine omnes possimus accipere gro 
+      <lb ed="#B" n="68"/>tiam pro gratia Joh. 1, v. 16. Jam vero, cui modo 
+      <lb ed="#B" n="69"/>illo plane singulari et ἐξαιρέτῳ sine mensura 
+      Spiri<lb ed="#B" n="70" break="no"/>tus s. datur, ut aliis etiam eum dare possit, is est 
+      <lb ed="#B" n="71"/>verus Deus 
+      </p>
+            <p xml:id="zef3dd-d1e754-d1e726">
+               <lb ed="#B" n="72"/>30. Spiritum s. esse verum Deum colligitur ex 
+      <lb ed="#B" n="73"/>20, quod in mirabili illa δεορανείᾳ Patri et Filio 
+      <lb ed="#B" n="74"/>conjungitur, ac sicut Pater in voce audibili sese 
+      <lb ed="#B" n="75"/>manifestat, Filius in assumta carne sese conspicien 
+      <lb ed="#B" n="76"/>lum exhibet, sic Spiritus s. in specie columbae 
+      <lb ed="#B" n="77"/>descendit et quidem in illa ipsa luce, ex qua vor 
+      <lb ed="#B" n="78"/>patris coelestis audiebatur. Conferenda etiam sunt 
+      <lb ed="#B" n="79"/>reliqua Scripturae dicta. Esa. 6l, v. 1: Spiritu 
+      <lb ed="#B" n="80"/>Domini super me, eo quod unxerit me, ad annuntian 
+      <lb ed="#B" n="81"/>dum mansuetis misit me. Id Christus ipse apuo 
+      <lb ed="#B" n="82"/>Lucam c. 4, v. 18. sic explicat: Spiritus Domin 
+      <lb ed="#B" n="83"/>super me, propter quod unxit me, evongelizare 
+      pau<lb ed="#B" n="84" break="no"/>peribus misit me, ubi xml:id, quod propheta de Jehoval 
+      <lb ed="#B" n="85"/>dixerat, ad Spiritum s. accommodatur, ac ne ulli 
+      <lb ed="#B" n="86"/>dubium sit, Spiritui s. illud opus missionis vere 
+      com<lb ed="#B" n="87" break="no"/>petere, confero locum ex Luc. 4. v. 1: JJesus plenus 
+      <lb ed="#B" n="88"/>Spiritu s. regressua est a Jordane et agebatur a 
+      <lb ed="#B" n="89"/>Spiritu in deserto. Ille igitur Spiritus, qui super 
+      <lb ed="#B" n="90"/>Christum circa Jordanem in specie columbae 
+      de<lb ed="#B" n="91" break="no"/>scenderat, Christum in desertum egit et ad offici. 
+      <lb ed="#B" n="92"/>partes exsequendas misit, quam potestatem Spiritus, 
+      <lb ed="#B" n="93"/>s. in Christum, qua homo est, nequaquam obtineret, 
+      <lb ed="#B" n="94"/>nisi verus Jehovah esset, fatentur enim adversarii. 
+      <lb ed="#B" n="95"/>Christo homine nihil quicquam praestantius esse in 
+      <lb ed="#B" n="96"/>coelo et terra praeter solum verum Deum. Confero 
+      <lb ed="#B" n="97"/>etiam locum Esa. 48, v. 16: Nunc Jehovdh mitti 
+      <lb ed="#B" n="98"/>me et Spiritus ejus, quae esse verba Messiae 
+      intell<lb ed="#B" n="99" break="no"/>gitur ex contextu illius loci, statim enim additur 
+      <lb ed="#B" n="100"/>r. 17: haec dicit Dominus redemtor tuus, sar 
+      <lb ed="#B" n="101"/>ctus Iaral, ac Christus Joh. 18, v. 20. sibi accom. 
+      <lb ed="#B" n="102"/>modat, quod apud Esaiam v. 16. dicitur, in 
+      abscon<lb ed="#B" n="103" break="no"/>dito non aum locutus, unde sic concludimus: Qui 
+      <lb ed="#B" n="104"/>Christum ad officium suum misit, is est verus Deus 
+      <lb ed="#B" n="105"/>Spiritus s. misit Christum ad officium suum. Ergo 
+      <lb ed="#B" n="106"/>Sic ergo confirmatum dedimus prius membrum, quod 
+      <lb ed="#B" n="107"/>videlicet is, qui in hae Messiae inauguratione sese 
+      <lb ed="#B" n="108"/>evelavit, sit verus Deus 
+      </p>
+            <p xml:id="zef3dd-d1e754-d1e809">
+               <lb ed="#B" n="109"/>81. Posterius quod unus ille ac verus Deus in 
+      <lb ed="#B" n="110"/>tribus distinctis personis sese revelaverit, probamu 
+      <lb ed="#B" n="111"/>hoc modo: 1. Tria sunt dictincta nomina. Is enim 
+      <lb ed="#B" n="112"/>cujus vox e coelo auditur, vocatur Pater, 2. Petr. 1. 
+      <lb ed="#B" n="113"/>v. 17. Qui in ripa Jordanis stat, vocatur Filius 
+      <lb ed="#B" n="114"/>Matth. 3, v. 17. Marc. 1, v. 11. Luc. 3, v. 22. Qu. 
+      <lb ed="#B" n="115"/>In specie corporali columbae descendit, vocatur 
+      Spi<lb ed="#B" n="116" break="no"/>ritus, τὸ πνεῦμα Marc. 1. v. 10. Spiritus Dei 
+      <lb ed="#B" n="117"/>Matth. 1, v. 16. Spiritus s. Luc. 3, v. 22. 2. Tria. 
+      <lb ed="#B" n="118"/>sunt externa symbola, in quibus hi tres sese 
+      mani<lb ed="#B" n="119" break="no"/>festant: Pater in roce audibili, Filius in assumto 
+      <lb ed="#B" n="120"/>carne, Spiritus s. in corporali specie columbae 
+      <!--479.xml-->
+      <pb ed="#B" n="406"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Ambros. serm. 21: Adest Deuo Pater, cum 
+      bapti<lb ed="#B" n="2" break="no"/>tatur Dominus, adest Spiritus s. Et quia Deus 
+      <lb ed="#B" n="3"/>videri non potest, Spiritus in columba, Pater 
+      descon<lb ed="#B" n="4" break="no"/>dit in voce quodque solum ad adstruendam fidem ho 
+      <lb ed="#B" n="5"/>minibus necessarium erat, exhibet salvatorem, fideo 
+      <lb ed="#B" n="6"/>enim nostra nisi auditu non constat et visu, 
+      xml:ide<lb ed="#B" n="7" break="no"/>se Spiritus in columba oculis cubdit, Pater in voc 
+      <lb ed="#B" n="8"/>ae auribus subministrat. Nam nisi propter nostran 
+      <lb ed="#B" n="9"/>fidem ista fieri oportuicset, potuit Pater et Spiritus 
+      <lb ed="#B" n="10"/>s. tanquam invisibilis Deus ad Verbum Filium in 
+      <lb ed="#B" n="11"/>pisibili prolapsione descendere. Igitur propte 
+      <lb ed="#B" n="12"/>nostram fidem aperto coelo Spiritus ad Christum 
+      <lb ed="#B" n="13"/>Pater ad Filium, vox descendit ad Verbum, Verbum 
+      <lb ed="#B" n="14"/>enim Christus est, at bene Pater vox et Filius Ver 
+      <lb ed="#B" n="15"/>bum dicitur, quia Verbum non nisi de voce procedit 
+      <lb ed="#B" n="16"/>August. lib. 2. de Trinit. c. 10: Patris persono 
+      <lb ed="#B" n="17"/>ostenditur in illa voce. Hic est Filius meus, 
+      ete<lb ed="#B" n="18" break="no"/>non quia fieri potuit vox sine opere Filii et Spire 
+      <lb ed="#B" n="19"/>tue a. (trinitas quippe inseparabiliter operata, 
+      <lb ed="#B" n="20"/>sed quia ea vox facta est, quae solius 
+      personam<lb ed="#B" n="21" break="no"/>Patris ostenderet, sicut humanam illam formam es 
+      <lb ed="#B" n="22"/>virgine Maria trinitas operata est, aed solius Fila 
+      <lb ed="#B" n="23"/>persona est. Visibilem namque solius Filii naturam 
+      <lb ed="#B" n="24"/>invisibilis trinitas operata est. Spiritus s. non 
+      assum<lb ed="#B" n="25" break="no"/>sit visibilem illam speciem columbae in persona 
+      <lb ed="#B" n="26"/>suae unitatem, sicut Filius assumtam carnem, interim 
+      <lb ed="#B" n="27"/>tamen in illa patefactione voluit etiam ipse in 
+      pe<lb ed="#B" n="28" break="no"/>culiari specie ad tempus assumta se conspiciendum 
+      <lb ed="#B" n="29"/>exhibere, ut distinctio personarum illustrius 
+      osten<lb ed="#B" n="30" break="no"/>deretur. 3. Trium distinctae actiones describuntur 
+      <lb ed="#B" n="31"/>Alius est, qui de coelo clamat. Hic est Filius meus 
+      <lb ed="#B" n="32"/>quae verba non possunt eo sensu ad Filium referri 
+      <lb ed="#B" n="33"/>quasi ipsius etiam haec vox fuerit, alias esset 
+      su<lb ed="#B" n="34" break="no"/>ipsius filius, nec ad Spiritum s. alias esset Spiritus s. 
+      <lb ed="#B" n="35"/>filius. Alius est, qui in ripa Jordanis post susceptum 
+      <lb ed="#B" n="36"/>paptismum orat; Alius qui in specie columbae 
+      de<lb ed="#B" n="37" break="no"/>scendit et super Christum manet. Is, cujus vox de 
+      <lb ed="#B" n="38"/>coelo sonat, auditur, non videtur; is qui in specie 
+      <lb ed="#B" n="39"/>columbae descendit, videtur, sed non auditur; is 
+      <lb ed="#B" n="40"/>qui in Jordane baptizatus in ripa consistit, videtur 
+      <lb ed="#B" n="41"/>in assumta carne, auditur in orationis voce. 4. Trium 
+      <lb ed="#B" n="42"/>distinctarum personarum beneficia describuntur. Pater 
+      <lb ed="#B" n="43"/>Filium suum dilectum in hunc mundum misit, per 
+      <lb ed="#B" n="44"/>quem locutus est cum genere humano ac per 
+      eur<lb ed="#B" n="45" break="no"/>dem mundum sibi reconciliavit. Filius humanam 
+      <lb ed="#B" n="46"/>naturam in personae unitatem assumsit, suscepi 
+      <lb ed="#B" n="47"/>nostri causa baptismum ut impleret omnem justitiam, 
+      <lb ed="#B" n="48"/>Spiritus s. super Christum visibiliter descendit eumque 
+      <lb ed="#B" n="49"/>invisibiliter uncit, ut annuntiaret captivis 
+      indulgen<lb ed="#B" n="50" break="no"/>tiam, clausia apertionem Esa. 61, v. 3, hoc est 
+      <lb ed="#B" n="51"/>Spiritus s. per ministerium evangelii a Christo in 
+      <lb ed="#B" n="52"/>propria persona inchoatum et apostolis commendatum 
+      <lb ed="#B" n="53"/>distribuit beneficia Christi passione ac merito parta 
+      <lb ed="#B" n="54"/>Ad haec distincta trium divinitatis personarum 
+      be<lb ed="#B" n="55" break="no"/>neficia in admiranda illa θεοφανεί nobis proposit. 
+      <lb ed="#B" n="56"/>in invocatione respicere debemus et contra omne 
+      <lb ed="#B" n="57"/>adversariorum argutias fidei simplicitate in hac 
+      re<lb ed="#B" n="58" break="no"/>velatione acquiescere, sicut pii veteres dicunt: Si 
+      <lb ed="#B" n="59"/>non credis trinitatem, comitare Johannem ad 
+      Jor<lb ed="#B" n="60" break="no"/>donem et xml:idebia.
+</p>
+            <p xml:id="zef3dd-d1e754-d1e974">
+      <!--479.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>82. Excipiunt Photiniani 1. non probari ex 
+      ho<lb ed="#B" n="62" break="no"/>loco tres illos esse unius indivisae essentiae 
+      perso<lb ed="#B" n="63" break="no"/>ias. Goslav. contr. Keckerm. p. 42. part. 1. c. 4. 
+      <lb ed="#B" n="64"/>Resp. imo vero si de Patre, Filio et Spiritu a, qui 
+      <lb ed="#B" n="65"/>n hac θεοφανείᾳ sese manifestant, vere affirmare ad 
+      <lb ed="#B" n="66"/>firmiter demonstrare possumus, quod quilibet eorum 
+      <lb ed="#B" n="67"/>sit verus Deus et vero ex aliis Scripturae locis adeo 
+      <lb ed="#B" n="68"/>que ex ipsa adversariorum concessione non est nis 
+      <lb ed="#B" n="69"/>unus verus Deus, ex eo immote colligitur, harum 
+      <lb ed="#B" n="70"/>trium personarum esse unam divinam essentiam 
+      <lb ed="#B" n="71"/>Conjungimus autem pro ὁμοουσίᾳ earum 
+      de<lb ed="#B" n="72" break="no"/>monstranda etiam reliqua Scripturae dicta suo 
+      <lb ed="#B" n="73"/>loco enumerata. Patrem esse verum Deum et 
+      <lb ed="#B" n="74"/>distinetam a Filio personam concedunt 
+      Photi<lb ed="#B" n="75" break="no"/>niani; Filium esse distinctam a Patre personam 
+      <lb ed="#B" n="76"/>concedunt, verum et aeternum Deum esse negant 
+      <lb ed="#B" n="77"/>Spiritum s. esse virtutem Dei concedunt, sed esse 
+      <lb ed="#B" n="78"/>personam a Patre et Filio distinctam negant. 
+      Quod<lb ed="#B" n="79" break="no"/>si ergo demonstratum fuerit, Filium esse verum et 
+      <lb ed="#B" n="80"/>aeternum Deum, Spiritum s. esse personam divinam, 
+      <lb ed="#B" n="81"/>probata erit horum trium ὁμοουσία. Utrumque tum 
+      <lb ed="#B" n="82"/>ex collatione hujus loci cum aliis Scripturae dictis, 
+      <lb ed="#B" n="83"/>ad quae in hac ipsa θεοφανεία remittimur, tum ex 
+      <lb ed="#B" n="84"/>ipsa circumstantiarum consideratione demonstravimus. 
+      <lb ed="#B" n="85"/>superius; 2. non posse ex hoc loco probari Spiritus 
+      <lb ed="#B" n="86"/>s. esse personam. Goslav. d. I. non apparet hinc 
+      <lb ed="#B" n="87"/>Spiritus s. esse personam. (At nudae virtuti non 
+      <lb ed="#B" n="88"/>competit corporalem speciem assumere, in ea 
+      appa<lb ed="#B" n="89" break="no"/>rere et descendere, quis enim unquam legit, audivit 
+      <lb ed="#B" n="90"/>vidit Dei misericordiam, sapientiam ete. in externa 
+      <lb ed="#B" n="91"/>quadam forma assumta comparentem? sed est 
+      vir<lb ed="#B" n="92" break="no"/>tutis per eo subsistentis, xml:id est, certae personae.) 
+      <lb ed="#B" n="93"/>Schmaltzius tribus rationibus contrarium evincere 
+      <lb ed="#B" n="94"/>conatur, prima est a simplici negatione ducta: Quod 
+      <lb ed="#B" n="95"/>Spiritus s. sub peculiari columbae opecie super 
+      Chri<lb ed="#B" n="96" break="no"/>tum apparuerit, nec textus docet, nec rei veritas 
+      <lb ed="#B" n="97"/>fert. Contra Frantzius p. 35. At quid manifestius 
+      <lb ed="#B" n="98"/>verbis illis evangelistarum. Vidit Johannes Spiritur 
+      <lb ed="#B" n="99"/>Dei descendentem tanquam columbam, et venientem 
+      <lb ed="#B" n="100"/>cuper ipsum (Christum) Matth. 3, v. 16. Marc. I. 
+      <lb ed="#B" n="101"/>5. 10. Descendit Spiritus s. corporali specie quasi 
+      <lb ed="#B" n="102"/>columba in ipsum. Luc. 3, v. 22. Secunda a phras 
+      <lb ed="#B" n="103"/>kvangelistae. Spiritus e., qui ita descendit, ut 
+      ma<lb ed="#B" n="104" break="no"/>teret super Christum Johann. 1, v. 33. Quomodo per 
+      <lb ed="#B" n="105"/>lona esse potest, cum de persona, quales eunt Deus 
+      <lb ed="#B" n="106"/>et Christus, nusquam legatur, quod maneant vel sini 
+      <lb ed="#B" n="107"/>juper aliquem, quemadmodum de rebue nempe 
+      de<lb ed="#B" n="108" break="no"/>tra Dei, de pace et misericordia xml:id legimus. Contri 
+      <lb ed="#B" n="109"/>Schopp. de Trin. p. 34. Resp. non de Christo solum 
+      <lb ed="#B" n="110"/>Johann. 14. v. 10. dicitur: Pater in me manens ipe 
+      <lb ed="#B" n="111"/>facit opera, sed etiam de piis dicit Christus Job. 6. 
+      <lb ed="#B" n="112"/>. 56: Qui manducat carnem meam et bibit cangui 
+      <lb ed="#B" n="113"/>nem meum, in me manet et ego in illo. Johann. 14. 
+      <lb ed="#B" n="114"/>5. 16: Spiritus s. manebit μεθʼ ἡμῶν, v. 17. παρ 
+      <lb ed="#B" n="115"/>ὑμῖν. V. 23: Si quis diligit me, sermonem meum 
+      cer<lb ed="#B" n="116" break="no"/>vabit, et Pater meus diliget eum, et ad eum 
+      venie<lb ed="#B" n="117" break="no"/>mus καὶ μονὴν παῤʼ. αὐτῷ ποιήσομεν. C. 15, v. 4. 
+      <lb ed="#B" n="118"/>manete in me, et ego in vobis. Quemadmodum igitur 
+      <lb ed="#B" n="119"/>phrasis illa de Patre usurpata, quod maneat in 
+      Filio<lb ed="#B" n="120" break="no"/>quod eit in Filio Johann. 14. v. 10, notat arctissimam 
+      <!--480.xml-->
+      <pb ed="#B" n="407"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>illam περιχώρησιν, qua propter essentiae unitatem 
+      <lb ed="#B" n="2"/>Pater est in Filio et Filius in Patre Johanm. 10. 
+      <lb ed="#B" n="3"/>v. 30: sic phrasis illa de Spiritu s. usurpata, quod 
+      <lb ed="#B" n="4"/>manserit super Filium, itidem notat peculiarem illum 
+      <lb ed="#B" n="5"/>inhabitationis modum, quo Spiritus s. in Christo 
+      man<lb ed="#B" n="6" break="no"/>sit, seu ut propheta loquitur, requievit Esa. II, v. ; 
+      <lb ed="#B" n="7"/>quomodo non habitat in reliquis sanctis, unde etiam 
+      <lb ed="#B" n="8"/>de nullo illorum dioitur, quod Spiritus s. super 
+      eum<lb ed="#B" n="9" break="no"/>ta maneat, ut in eo requiescat et ex ejus 
+      plenitu<lb ed="#B" n="10" break="no"/>dine alii accipiant. Tertia a comparationis 
+      parti<lb ed="#B" n="11" break="no"/>cula. Verba sicut columbam, non sunt referendo 
+      <lb ed="#B" n="12"/>ad rei essentiam, ut scilicet ita res animata eit 
+      Spi<lb ed="#B" n="13" break="no"/>ritus a. quemadmodum est columba, sed ad exter 
+      <lb ed="#B" n="14"/>nam speciem et modum, xml:idque non ipsius rei sed 
+      <lb ed="#B" n="15"/>descensua illius; contra Frantz. d. I. Quia Scripture 
+      <lb ed="#B" n="16"/>dicit, tanquam columba, apparet vocem tanquam vel 
+      <lb ed="#B" n="17"/>sicut tum ad verbum descendentem referendam esse 
+      <lb ed="#B" n="18"/>tum etiam columbini descensus, non autem 
+      colum<lb ed="#B" n="19" break="no"/>bini corporis eimilitudinem declarare. Idem iisdem 
+      <lb ed="#B" n="20"/>verbis docet Socin. in explic. loc. de Spiritus a 
+      <lb ed="#B" n="21"/>p. 103. Resp. manifesta sunt verba evangelistae 
+      <lb ed="#B" n="22"/>Luc. 8, v. 22: Descendit Spiritus σωματiκῷ elδe 
+      <lb ed="#B" n="23"/>ὡσεὶ περιστερά, fuit ergo verus et realis descensus, 
+      <lb ed="#B" n="24"/>qui Spiritui s. tribuitur non absolute et eimpliciter 
+      <lb ed="#B" n="25"/>respectu invisibilis ac divinae suae essentiae, sec 
+      <lb ed="#B" n="26"/>relate, respectu scilicet corporalis illius speciei ad 
+      <lb ed="#B" n="27"/>tempus assumtae. Adverbium ὡσεί non ad verbum 
+      <lb ed="#B" n="28"/>descendentem, sed ad columbam diserte refertur, u 
+      <lb ed="#B" n="29"/>ipsa textus inspectio ostenderit. Illud σωματικῳ 
+      <lb ed="#B" n="30"/>clδεs non tam ad verbum καταβῆναι quam ad nomen 
+      <lb ed="#B" n="31"/>πνεύματος pertinet, ut sit sensus, corporalem illam 
+      <lb ed="#B" n="32"/>speciem, in qua Spiritus s. apparuit, fuisse colum 
+      <lb ed="#B" n="33"/>bam. Socinus d. I. urget vocem εἶδος p. 149. Resp. 
+      <lb ed="#B" n="34"/>εἶδος significat formam externam, cui ipsa rei essentis 
+      <lb ed="#B" n="35"/>est substrata. Sic columba illa proprietatibus sui 
+      <lb ed="#B" n="36"/>individuantibus fuit instructa. An columbae species 
+      <lb ed="#B" n="37"/>in qua Spiritus s. fuerit verum animal de novo sine 
+      <lb ed="#B" n="38"/>aliarum columbarum ministerio creatum, quod pos 
+      <lb ed="#B" n="39"/>officium illud statim desierit, an vero tantummodo 
+      <lb ed="#B" n="40"/>fuerit similitudo sive simulaerum columbae, cujus 
+      <lb ed="#B" n="41"/>usus tantum fuerit, ut praesentiam Spiritus signares 
+      <lb ed="#B" n="42"/>hoc loco operose quaerere non est necesse, sed sui 
+      <lb ed="#B" n="43"/>ficit nobis contra adversarios, quod in peculiari et 
+      <lb ed="#B" n="44"/>listincta specie tanquam distineta a Patre et Filio 
+      <lb ed="#B" n="45"/>persona Spiritus s. sese manifestaverit. Remotis ig. 
+      <lb ed="#B" n="46"/>tur Schmaltzii φλναρίαις pro Spiritus sancti per 
+      <lb ed="#B" n="47"/>sonalitate sic concludimus: Qui de coelo vocen 
+      <lb ed="#B" n="48"/>edit, persona est; qui in Jordanis ripa stat, per 
+      <lb ed="#B" n="49"/>sona est, fatentibus adversariis. At quibus 
+      ar<lb ed="#B" n="50" break="no"/>gumentis ex hac historia propria eorum personalita 
+      <lb ed="#B" n="51"/>demonstratur, iisdem etiam Spiritus s. personalitas 
+      <lb ed="#B" n="52"/>demonstrari potest. Si non potest ex eo, quod 
+      Spi<lb ed="#B" n="53" break="no"/>ritus s. in specie columbae visibiliter descendit, 
+      in<lb ed="#B" n="54" break="no"/>ferri Spiritum s. esse personam, utique etiam ex 
+      e<lb ed="#B" n="55" break="no"/>quod Pater edit vocem audibilem e coelo, et 
+      Filiu<lb ed="#B" n="56" break="no"/>in assumta carne conspicitur, non poterit inferr 
+      <lb ed="#B" n="57"/>quod Pater sit distincta persona a Filio et Filius e 
+      <lb ed="#B" n="58"/>Patre. Regerit Goslavius contra Keckerm. p. 80. 
+      <lb ed="#B" n="59"/>Non oine, quod apparet, est subsistens, siquidem 
+      <lb ed="#B" n="60"/>ntiam accidentia apparont. Resp. illa ipsa acciden¬ 
+      <!--480.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tia, quae primo immediate et per se in sensus in 
+      <lb ed="#B" n="62"/>currunt, testantur de substantia, quae mediantibus 
+      <lb ed="#B" n="63"/>illis accidentibus sensibus sese offert. Cum enim 
+      <lb ed="#B" n="64"/>accidentia per se non subsistant, sed in suo sub 
+      <lb ed="#B" n="65"/>jecto, xml:ideo etiam de eo testantur. Sic ergo σωμα 
+      <lb ed="#B" n="66"/>τικὸν illud εἶδος περιστερᾶς, quod Johannes vidit 
+      <lb ed="#B" n="67"/>non fuit merum ae nudum accidens, sed res aliqua 
+      <lb ed="#B" n="68"/>vere subsistens
+  </p>
+            <p xml:id="zef3dd-d1e754-d1e1270">
+               <lb ed="#B" n="69"/>83. 8. Si vel macime Spiritus s. in specie 
+      colum<lb ed="#B" n="70" break="no"/>bae apparuisset, num hinc efficeretur, ait Schmalta 
+      <lb ed="#B" n="71"/>ontra Frantz. d. I. Spiritum canctum esse 
+      acter<lb ed="#B" n="72" break="no"/>num et immensum adeoque conservatorem coeli e 
+      <lb ed="#B" n="73"/>terrae? nonne enim aliquid in forma columbae ap 
+      <lb ed="#B" n="74"/>parere potest, quod tamen aeternum non sit? nonne 
+      <lb ed="#B" n="75"/>pero necessarium etiam est illud non esse 
+      immen<lb ed="#B" n="76" break="no"/>tum, quod in specie columbae apparet? nonne deni 
+      <lb ed="#B" n="77"/>sue tantum non blasphemum est, illud esse 
+      creato<lb ed="#B" n="78" break="no"/>rem et conservatorem coeli et terrae, quod in forma 
+      <lb ed="#B" n="79"/>columbae apparet? Resp. nos non ita nude et crude 
+      <lb ed="#B" n="80"/>colligimus: Spiritus s. in specie columbae apparuit 
+      <lb ed="#B" n="81"/>orgo est aeternus et immensus adeoque conservato: 
+      <lb ed="#B" n="82"/>coeli et terrae; sed primario ac principaliter ex 
+      <lb ed="#B" n="83"/>hac θεοφανείᾳ concludimus, in deitate esse tres 
+      <lb ed="#B" n="84"/>realiter distinctas personas, cum in hac patefactione 
+      <lb ed="#B" n="85"/>Deus sese sic manifestaverit, ac Spiritum s. esse 
+      <lb ed="#B" n="86"/>distinetam a Patre et Filio personam, cum in specie 
+      <lb ed="#B" n="87"/>columbae sese distinete manifestet, sicut Pater in 
+      <lb ed="#B" n="88"/>audibili voce et Filius in assumta carne. Quod rem 
+      <lb ed="#B" n="89"/>psam attinet, Photiniani concedunt, Spiritum a 
+      <lb ed="#B" n="90"/>esse virtutem et potentiam Dei; atqui negare 
+      neque<lb ed="#B" n="91" break="no"/>unt, illam potentiam esse aeternam ac per eandem 
+      <lb ed="#B" n="92"/>Deum coelum et terram condidisse, negare igitur 
+      <lb ed="#B" n="93"/>non, debent Spiritum s. esse aeternum et coeli ac 
+      <lb ed="#B" n="94"/>terrae ut conditorem ita conservatorem. Quod 
+      <lb ed="#B" n="95"/>Schmaltzius ex hac θεοφανείς concludere satagit 
+      <lb ed="#B" n="96"/>Spiritum s. non esse immensum, in eo peccat 
+      mani<lb ed="#B" n="97" break="no"/>festo paralogismo consequentis, illud enim duntaxat 
+      <lb ed="#B" n="98"/>sequitur, corporalem illam speciem columbae non 
+      <lb ed="#B" n="99"/>uisse immensam, nec esse coeli et terrae 
+      conditri<lb ed="#B" n="100" break="no"/>cem, sed ex eo perquam ἀπαιδεύτως infertur, ipsum 
+      <lb ed="#B" n="101"/>Spiritum s., qui in illa specie columbae apparuit, non 
+      <lb ed="#B" n="102"/>esse immensum, cum Ps. 139, v. 5. Sap. 1, v. 7. 
+      <lb ed="#B" n="103"/>diserte xml:id adstruatur ac Spiritum s. non esse 
+      crea<lb ed="#B" n="104" break="no"/>torem coeli et terrae, cum Gen. 1, v. 3. Job. 26. 
+      <lb ed="#B" n="105"/>v. 13. Ps. 33, v. 6. illud opus creationis ei diserte 
+      <lb ed="#B" n="106"/>ribuatur 
+  </p>
+            <p xml:id="zef3dd-d1e754-d1e1355">
+               <lb ed="#B" n="107"/>84. 4. Contrarium potius ex hoc loco colligitur. 
+      <lb ed="#B" n="108"/>quam quod sint tres personae unius divinae 
+      essen<lb ed="#B" n="109" break="no"/>iae. Si enim Philippi regula certa est, distingus 
+      <lb ed="#B" n="110"/>realiter omnia, quae separari a se invicem 
+      possun<lb ed="#B" n="111" break="no"/>sequitur Patrem, Filium et Spiritum s. realiter 
+      di<lb ed="#B" n="112" break="no"/>stinqui, aeparantur enim a se invicem. Nam non 
+      <lb ed="#B" n="113"/>descendit Pater de coelo nec in Jordane baptizatus 
+      <lb ed="#B" n="114"/>nec Spiritus a. compellat Filium aut lavatur aquae 
+      <lb ed="#B" n="115"/>baptismo; quae vero realiter distinguuntur, ejusdem 
+      <lb ed="#B" n="116"/>ssentiae singularis esse nequeunt Gosl. d. I. Resp. 
+      <lb ed="#B" n="117"/>distinguendum inter externa symbola tanquam signum 
+      <lb ed="#B" n="118"/>et personas trinitatis tanquam signatum. Externa 
+      <lb ed="#B" n="119"/>illa symbola, vox Patris, assumta natura Filii, 
+      spe<lb ed="#B" n="120" break="no"/>cies columbae, in qua Spiritus s. se manifestat, non 
+      <!--481.xml-->
+      <pb ed="#B" n="408"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>solum realiter sed etiam essentialiter distinguuntur 
+      <lb ed="#B" n="2"/>ac separantur, sed personae trinitatis, quae in hisce 
+      <lb ed="#B" n="3"/>externis symbolis se manifestant, realiter quidem 
+      <lb ed="#B" n="4"/>non tamen essentialiter, sed personaliter tantum 
+      di<lb ed="#B" n="5" break="no"/>stinguuntur, ut colligitur ex omnibus Scripturae 
+      di<lb ed="#B" n="6" break="no"/>ctis, quae essentiae divinae unitatem probant, pro 
+      <lb ed="#B" n="7"/>inde ut alias comparatio non est extendenda ultra 
+      <lb ed="#B" n="8"/>illud tertium, propter quod instituitur, ita haec sym 
+      <lb ed="#B" n="9"/>bolica trinitatis manifestatio per tria symboli 
+      <lb ed="#B" n="10"/>externa non est ulterius extendenda, quam u 
+      <lb ed="#B" n="11"/>verum ac reale personarum discrimen manifestet 
+      <lb ed="#B" n="12"/>nequaquam vero, ut unitati divinae essentiae oppo 
+      <lb ed="#B" n="13"/>natur. Begula illa, quod ea, quae separari a s 
+      <lb ed="#B" n="14"/>invicem possunt, realiter distinquantur, non est 
+      con<lb ed="#B" n="15" break="no"/>vertibilis, non enim ea, quae realiter distinguuntur 
+      <lb ed="#B" n="16"/>statim a se invicem naturali virtute separari pos 
+      <lb ed="#B" n="17"/>sunt, ut patet exemplum propriorum, quae a 
+      philo<lb ed="#B" n="18" break="no"/>sophis dicuntur secunda naturae momenta, ae si ve 
+      <lb ed="#B" n="19"/>maxime de reali distinctione pro essentiali accepta 
+      <lb ed="#B" n="20"/>esset verissima, tamen non posset nec deberet ad 
+      <lb ed="#B" n="21"/>ferri ad trinitatis mysterium, in quo personas 
+      tre<lb ed="#B" n="22" break="no"/>realiter quidem, non tamen essentialiter, sed perso 
+      <lb ed="#B" n="23"/>naliter distingui ex verbo Dei novimus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

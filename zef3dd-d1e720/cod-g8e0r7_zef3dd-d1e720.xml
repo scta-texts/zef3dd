@@ -1,0 +1,1987 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="371"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e720"><!-- zef3dd-l3c1 -->
+            <head xml:id="zef3dd-d1e720-Hd1e101">Caput 1</head>
+            <head xml:id="zef3dd-d1e720-Hd1e103" type="question-title">Prooemialis IIPOOEQPIAN complectens</head>
+            <p xml:id="zef3dd-d1e720-d1e106">
+      <!--444.xml-->
+               <pb ed="#B" n="371"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>LOCUS TERTIUS 
+      <lb ed="#B" n="2"/>DE SANOTISSAO 
+      <lb ed="#B" n="3"/>THΣ ΠANATIAΣ ΚAI YΠIEPAPPHTOY TPAAΟΣ 
+      <lb ed="#B" n="4"/>MYSTERIO.
+  </p>
+            <p xml:id="zef3dd-d1e720-d1e124">
+      <!--444.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="5"/>1. Sacrosanctum et augustum trinitatis mysterium 
+      <lb ed="#B" n="6"/>ex aeternae et immotae veritatis in verbo revelatae 
+      <lb ed="#B" n="7"/>tabulis asserturi ac contra venenatas θεομάχων Photis 
+      <lb ed="#B" n="8"/>nianorum linguas propugnaturi divinae gratiae 
+      robu<lb ed="#B" n="9" break="no"/>intimis gemitibus desiderantes ex Alcuini hymno sic 
+      <lb ed="#B" n="10"/>precamur p. 70. edit. Constant. ann. 96: Adesto, 
+      <lb ed="#B" n="11"/>lumon verum, Pater omnipotens Deus. Adesto, lumen 
+      <lb ed="#B" n="12"/>de lumine verbum et Filius Dei, Deus omnipotens 
+      <lb ed="#B" n="13"/>Adesto sancte Spiritus, Patris et Filii concordio 
+      <lb ed="#B" n="14"/>Deus omnipotens. Adesto Deue unus omnipoten 
+      <lb ed="#B" n="15"/>Pater, Filius et Spiritus s. Hanc fidem in te, per 
+      <lb ed="#B" n="16"/>te, de te confitemur. Te unum in substantia, trinum 
+      <lb ed="#B" n="17"/>in personis confitemur. Pater, Filius et Spiritu 
+      <lb ed="#B" n="18"/>sanctus, o beata trinitas, Deus, Dominus, 
+      para<lb ed="#B" n="19" break="no"/>cletus. Caritas, gratia, communicatio. Genitor, ge 
+      <lb ed="#B" n="20"/>nitus, regenerans. Verum lumen, verum lumen ea 
+      <lb ed="#B" n="21"/>lumine, illuminatio. Invisibilis invisibiliter, visibilis 
+      <lb ed="#B" n="22"/>invisibiliter, invisibilis visibiliter. Fons, flumen 
+      <lb ed="#B" n="23"/>irrigatio. A quo, per quem, in quo omnia. Viven 
+      <lb ed="#B" n="24"/>vita, vita a vivente, vivificator viventium. Veraa 
+      <lb ed="#B" n="25"/>Pater, veritas Filius, veritatis Spiritus. Una es 
+      <lb ed="#B" n="26"/>sentia, una virtus, una bonitas. Deus, supra quem 
+      <lb ed="#B" n="27"/>nihil, extra quem nihil, sine quo nihil. Deus, 
+      su<lb ed="#B" n="28" break="no"/>quo totum, in quo totum, cum quo totum. Te invo 
+      <lb ed="#B" n="29"/>camus, te adoramus, te laudamus. Doce fidem 
+      <lb ed="#B" n="30"/>excita spem, infunde caritatem. Amen. Hisce ac 
+      <lb ed="#B" n="31"/>Deum precibus praemissis ad ipsam articuli 
+      explica<lb ed="#B" n="32" break="no"/>tionem progredimur, quam duabus absolvemus 
+      par<lb ed="#B" n="33" break="no"/>tibus. Prior continebit prooemialem, de hoc 
+      my<lb ed="#B" n="34" break="no"/>sterio προθεωρίαν; posterior ipsam articuli hujus 
+      <lb ed="#B" n="35"/>proponet ἔργασίαν, quae erit tum ὀνοματολογική, tur 
+      <lb ed="#B" n="36"/>πραγματολογική 
+  </p>
+            <p xml:id="zef3dd-d1e720-d1e200">
+      <!--444.xml-->
+               <cb ed="#B" n="c"/>
+               <lb ed="#B" n="37"/>CAPUT I. 
+      <lb ed="#B" n="38"/>PROOEMIALEM IIPOOEQPIAN 
+      <lb ed="#B" n="39"/>COMPLECTENS. 
+  </p>
+            <p xml:id="zef3dd-d1e720-d1e214">
+               <lb ed="#B" n="40"/>2. Prooemialem προθεωρίαν sex thecibus absol 
+      <lb ed="#B" n="41"/>remus, quarum singulis ἔκθεσιν, ἀντίθεσιν ac ζ
+      yrj<lb ed="#B" n="42" break="no"/>μάτων ἐπίλυσιν subjungemus, tandem vero omnibus 
+      <lb ed="#B" n="43"/>absolutis generalem ὥφέλειαν πρὸς πρᾶξιν subjicie 
+      <lb ed="#B" n="44"/>mus. Sit ergo thesis 1: Mysterium trinitatis sal 
+      <lb ed="#B" n="45"/>vandis omnibus scitu ac creditu necessarium est 
+      <lb ed="#B" n="46"/>Ἐxθεσις. 1. Excludimus ab hominibus salvandis non 
+      <lb ed="#B" n="47"/>solum trinitatis negationem, sed etiam ignorationem 
+      <lb ed="#B" n="48"/>Quaedam in verbo revelata ita comparata sunt, ut 
+      <lb ed="#B" n="49"/>citra salutis discrimen possint ignorari, quamvis sine 
+      <lb ed="#B" n="50"/>ejusdem periculo non possint negari, sed trinitatis 
+      <lb ed="#B" n="51"/>non solum negatio, verum etiam ignoratio est damna 
+      <lb ed="#B" n="52"/>bilis. 2. Non requirimus ab omnibus ecelesiae mem 
+      <lb ed="#B" n="53"/>bris aequalem cognitionis gradum, cum lux notitiae 
+      <lb ed="#B" n="54"/>spiritualis ac fidei in quibusdam sit illustrior, in 
+      <lb ed="#B" n="55"/>quibusdam vero obscurior. 3. Nec perfectam et 
+      <lb ed="#B" n="56"/>plenam hujus mysterii κατάληιριν ac intuitivam noti 
+      <lb ed="#B" n="57"/>tiam a salvandis requirimus, cum ad eam in 
+      ha<lb ed="#B" n="58" break="no"/>vita provehi non possimus, Exod. 33. v. 20. 1. Cor 
+      <lb ed="#B" n="59"/>13, v. 9. quo sensu Cyprian. serm. 1. de bapt. 
+      <lb ed="#B" n="60"/>Christi recte pronuntiat, quod sibi soli nota sit 
+      <lb ed="#B" n="61"/>rinitas; sed hoc duntaxat asserimus, quod ad fidem 
+      <lb ed="#B" n="62"/>catholicam omnibus salvandis necessariam non 
+      con<lb ed="#B" n="63" break="no"/>fusa et implicita, sed distincta et explioita trium 
+      di<lb ed="#B" n="64" break="no"/>vinitatis personarum cognitio et confessio requi 
+      <lb ed="#B" n="65"/>rati 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e273">
+               <lb ed="#B" n="66"/>3. Demonstramus hoc: 1. ex tradita in Scripturis 
+      <lb ed="#B" n="67"/>Dei definitione. Qui non agnoscit Deum, prout in 
+      <lb ed="#B" n="68"/>verbo suo se revelavit, is a vero Deo aberrat; qui 
+      <lb ed="#B" n="69"/>definitionem Dei in Scripturis traditam ignorat vel 
+      <lb ed="#B" n="70"/>negat, is Deum ipsum ignorat vel negat. At quis 
+      <lb ed="#B" n="71"/>quis trinitatis mysterium ignorat, is non agnosci 
+      <lb ed="#B" n="72"/>Deum, prout in verbo suo se revelavit, is definitio 
+      <lb ed="#B" n="73"/>nem Dei in Scripturis traditam ignorat. Ergo a 
+      <!--445.xml-->
+      <pb ed="#B" n="372"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>vero Deo aberrat ac Deum ipsum ignorat. Major 
+      <lb ed="#B" n="2"/>est manifestae veritatis. Qui enim non agnoscit 
+      <lb ed="#B" n="3"/>Deum, prout in verbo se revelavit, is in corde suo 
+      <lb ed="#B" n="4"/>sibi ipsi xml:idolum aliquid fingit, xml:id quod toties 
+      Scri<lb ed="#B" n="5" break="no"/>ptura testatur, quoties xml:idololatrias eos accusat, qui 
+      <lb ed="#B" n="6"/>alium divini cultus excogitant modum, praeter et 
+      <lb ed="#B" n="7"/>extra illum, quem Deus ipse in verbo suo 
+      praescri<lb ed="#B" n="8" break="no"/>psit. Negari etiam nequit, eum, qui defensionem rei 
+      <lb ed="#B" n="9"/>negat, rem ipsam negare, cum definitio sit λόγος 
+      <lb ed="#B" n="10"/>οὐσίας. Minoris veritas patebit ex sequentibus 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e321">
+               <lb ed="#B" n="11"/>4. 2. Ex arctissima et indissolubili personarum 
+      <lb ed="#B" n="12"/>trinitatis unione. Quarum personarum una non es 
+      <lb ed="#B" n="13"/>extra aliam, earum una non potest agnosci, coli, in 
+      <lb ed="#B" n="14"/>vocari, nisi simul agnoscatur, colatur et invocetur 
+      <lb ed="#B" n="15"/>etiam altera. Ratio est, quia mensura ac norma 
+      <lb ed="#B" n="16"/>cognitionis est rei cujusque cognoscendae naturae 
+      <lb ed="#B" n="17"/>Jam vero personae trinitatis sic se habent ad se in 
+      <lb ed="#B" n="18"/>vicem, ut earum una non sit extra aliam, propter 
+      <lb ed="#B" n="19"/>ὅμοουσίαν et mutuam personarum περιχώρησιν, Joh. 
+      <lb ed="#B" n="20"/>14. v. 11: Ego in Patre, et Pater in me. Erg. 
+      <lb ed="#B" n="21"/>etiam earum una non potest agnosci, coli, invocari 
+      <lb ed="#B" n="22"/>nisi simul agnoscatur, colatur et invocetur etiam 
+      <lb ed="#B" n="23"/>altera. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e352">
+               <lb ed="#B" n="24"/>5. 3. Ex diserta Salvatoris asseveratione. Matth. 
+      <lb ed="#B" n="25"/>11, v. 26: Nemo novit Filium nisi Pater, nec 
+      Pa<lb ed="#B" n="26" break="no"/>trem quis novit nisi Filius, et cui voluerit Filius 
+      <lb ed="#B" n="27"/>revelare. Ergo extra Filii revelationem in verbo 
+      <lb ed="#B" n="28"/>traditam non potest Pater agnosci. Cumprimis 
+      <lb ed="#B" n="29"/>vero evidens est locus Joh. 5, v. 23: Pater 
+      pe<lb ed="#B" n="30" break="no"/>Filium omnia operatur, ut omnes honorent Filium 
+      <lb ed="#B" n="31"/>καθώς, sicut et Patrem honorant. Qui non honorat 
+      <lb ed="#B" n="32"/>Filium, non honorat Patrem, qui misit eum, ex quo 
+      <lb ed="#B" n="33"/>promtum est colligere. Qui Filium non honorat, in 
+      <lb ed="#B" n="34"/>nec Patrem honorat. Qui Filium Dei ignorat, i 
+      <lb ed="#B" n="35"/>eum non honorat. Qui verum Deum illum esse nega 
+      <lb ed="#B" n="36"/>is non honorat eum, καθώς, sicut Patrem honorat 
+      <lb ed="#B" n="37"/>h. e. non tribuit illi eundem et aequalem cum 
+      Patr<lb ed="#B" n="38" break="no"/>honorem. Ergo qui Filium Dei ignorat, is nec 
+      <lb ed="#B" n="39"/>Patrem honorat et consequenter verum Deum non 
+      <lb ed="#B" n="40"/>agnoscit, colit, invocat, honorat. Ex quo funda 
+      <lb ed="#B" n="41"/>mento Jobannes pronuntiat 1. Epist. 2. v. 23: Omni 
+      <lb ed="#B" n="42"/>qui negat Filium, is nec Patrem habet. 2. Epist. v. 9. 
+      <lb ed="#B" n="43"/>Qui non manet in doctrina Christi, Deum non 
+      <lb ed="#B" n="44"/>habet 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e400">
+               <lb ed="#B" n="45"/>6. 4. Ex gentilium extra ecclesia descriptione 
+      <lb ed="#B" n="46"/>Gentiles ex naturae lumine cognoscere potuerunt 
+      <lb ed="#B" n="47"/>esse Deum eundemque esse unum, bonum, justum 
+      <lb ed="#B" n="48"/>scelerum vindicem. Sed quia trinitatis mysterium 
+      <lb ed="#B" n="49"/>In verbo et in solo gratiae lumine patefactum per 
+      <lb ed="#B" n="50"/>naturae lumen cognoscere non potuerunt, xml:ideo salu 
+      <lb ed="#B" n="51"/>tarem Dei agnitionem Scriptura eis derogat ac 
+      meran<lb ed="#B" n="52" break="no"/>ἄγνωσίαν respectu ad salvificam notitiam habito illis 
+      <lb ed="#B" n="53"/>ribuit. Eph. 2, v. 12: eratis quondam ἄθεοι sine 
+      <lb ed="#B" n="54"/>Deo, ratio praemittitur, quia erant χωρὶς χριστο 
+      <lb ed="#B" n="55"/>cine Christi cognitione, ex quo nascitur haec propo 
+      <lb ed="#B" n="56"/>sitio. Qui cognitione Christi Dei Filii ac 
+      mediato<lb ed="#B" n="57" break="no"/>ris nostri destitutus est, is est sine Deo, h. e. verum 
+      <lb ed="#B" n="58"/>Deum non cognoscit. Conf. Act. 17, v. 30. Rom. 16 
+      <lb ed="#B" n="59"/>v. 14. Gal. 4. 8. Ex hoc fundamento infert Joh. 1. 
+      <lb ed="#B" n="60"/>Epist. 5, v. 11: Vitam acternam dedit nobis Deus 
+      <!--445.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>et haec vita est in Filio ejus. V. 12: qui non habe 
+      <lb ed="#B" n="62"/>Filium Dei, non habet vitam. Subsumo. Qui igno 
+      <lb ed="#B" n="63"/>rat Filium, is non habet Filium; ergo non habet 
+      <lb ed="#B" n="64"/>vitam et per consequens nec salutarem et salvificam. 
+      <lb ed="#B" n="65"/>θεογνωσίαν, quippe in qua consistit vita aeterna 
+      <lb ed="#B" n="66"/>Joh. 17, v. 3. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e455">
+               <lb ed="#B" n="67"/>7. 5. Ex mysterii hujus conditione. Ignorato vel 
+      <lb ed="#B" n="68"/>negato trinitatis mysterio tota salutis οἰκoνoμία 
+      <lb ed="#B" n="69"/>gnoratur vel negatur. Utique ergo fides et 
+      con<lb ed="#B" n="70" break="no"/>fessio trinitatis est necessaria. Antecedens probo 
+      <lb ed="#B" n="71"/>Post lapsum protoplaston omnes homines nascuntu 
+      <lb ed="#B" n="72"/>sub jugo peccati et servitute diaboli ac natura 
+      <lb ed="#B" n="73"/>unt filii irae Ephes. 2, v. 3; ab hac Dei ira neme 
+      <lb ed="#B" n="74"/>iberari potest nisi per Christum vera fide appreher 
+      <lb ed="#B" n="75"/>num. Joh. 3, v. 36: Qui non credit in Filium 
+      <lb ed="#B" n="76"/>super eum manet Dei ira. Ratio est in aprico 
+      <lb ed="#B" n="77"/>quia nemo potest sufficientem pro peccatis 
+      satis<lb ed="#B" n="78" break="no"/>actionem praestare, infinitam Dei iram placare et 
+      <lb ed="#B" n="79"/>ex Satanae regno se ipsum liberare; nisi ergo Christi 
+      <lb ed="#B" n="80"/>atisfactionem et obedientiam fide sibi applicet 
+      <lb ed="#B" n="81"/>sub peccati, irae divinae et damnationis (quae tria 
+      <lb ed="#B" n="82"/>ese mutuo consequuntur) pondere cogitur manere 
+      <lb ed="#B" n="83"/>At qui ignorat Filium, is non credit nec potest ere 
+      <lb ed="#B" n="84"/>dere in Filium. Qui Filii divinitatem negat, non 
+      <lb ed="#B" n="85"/>potest satisfactionem pro peccatis apud ipsum 
+      quae<lb ed="#B" n="86" break="no"/>rere, cum ad eam infinita virtus requiratur. Ergo 
+      <lb ed="#B" n="87"/>Conf. Dn. D. Meisn. in consid. theol. Phot. p. 256 
+      <lb ed="#B" n="88"/>8. 6. Ex piorum veterum testificatione. Athanas 
+      <lb ed="#B" n="89"/>in Symb: Fides catholica haec est, ut unum Deum 
+      <lb ed="#B" n="90"/>in trinitate et trinitatem in unitate veneremur 
+      <lb ed="#B" n="91"/>Hanc fidem nisi quis integram inviolatamque 
+      tenu<lb ed="#B" n="92" break="no"/>erit, salvus esse non poterit. Nazianz. sub. fin 
+      <lb ed="#B" n="93"/>orat. 2. de pace: τριὰς πᾶσί ποιε γνωσθησομέν 
+      <lb ed="#B" n="94"/>τοῖς μὲν τῇ ἐλλάμψει τοῖς δὲ κολάσει 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e519">
+               <lb ed="#B" n="95"/>9. Antithesis mysterii hujus cognitionem ad 
+      sa<lb ed="#B" n="96" break="no"/>lutem aeternam esse necessariam, directe negant 
+      <lb ed="#B" n="97"/>Photiniani, ethnicorum, Turcarum et Judaeorum 
+      <lb ed="#B" n="98"/>vestigiis insistentes. Soc. in lib. quod evang. se 
+      <lb ed="#B" n="99"/>Photin. adjungere debeant p. 28. ut ignorationem et 
+      <lb ed="#B" n="100"/>negationem, ita quoque confessionem trinitatis negat 
+      <lb ed="#B" n="101"/>esse per se damnabilem, unde nostra de Deo 
+      uni<lb ed="#B" n="102" break="no"/>trino sententiam refert inter eos errores, qui per se 
+      <lb ed="#B" n="103"/>psi aeternam salutem non adimunt, quamvis facilo 
+      <lb ed="#B" n="104"/>impediant, quo minus quis viam, quae ad eam 
+      du<lb ed="#B" n="105" break="no"/>cit, cognitam habeat perque eam gradiatur. Idem 
+      <lb ed="#B" n="106"/>p. 2. ad Radec. p. 82: Est quidem Deus et Chri 
+      <lb ed="#B" n="107"/>stus fundamentum salutis nostrae, sed non 
+      quate<lb ed="#B" n="108" break="no"/>nus eorum essentiam et substantiam recte novimus, 
+      <lb ed="#B" n="109"/>sed quatenus Dei voluntatem per Christum patefo 
+      <lb ed="#B" n="110"/>ctam tenemus. Schmaltz. contra Ravensp. p. 66. 
+      <lb ed="#B" n="111"/>Vera in Deum et Christum fides sine opinione 
+      tri<lb ed="#B" n="112" break="no"/>nitatis consistere potest. Catech. Racov. p. 25. ad. 
+      <lb ed="#B" n="113"/>quaestionem: Quaenam sint, quae ad essentiam Dei 
+      <lb ed="#B" n="114"/>pertinent ad salutem prorsus necessaria, respondet, 
+      <lb ed="#B" n="115"/>sunt ea, quod Deus eit, quod tantum unus, quod 
+      <lb ed="#B" n="116"/>aeternus, quod perfecte justus, perfecte sapiens e 
+      <lb ed="#B" n="117"/>perfecte potens. Plura ergo necessaria esse negat, 
+      <lb ed="#B" n="118"/>alias plura addidisset. Ostor. in inst. c. 3. p. 28: 
+      <lb ed="#B" n="119"/>Praeter haec (enumerata sex capita) nihil aliuc 
+      <!--446.xml-->
+      <pb ed="#B" n="373"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>scimus cognitu necessarium, quantum essentiam 
+      De<lb ed="#B" n="2" break="no"/>attinet 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e587">
+               <lb ed="#B" n="3"/>10. 2. Indirecte: 1. Pontificii, dum quidam e 
+      <lb ed="#B" n="4"/>ipsis: 1. negant ex Scripturis sacris trinitatis 
+      my<lb ed="#B" n="5" break="no"/>sterium sufficienter demonstrari posse, ut postes 
+      <lb ed="#B" n="6"/>videbimus. Atqui si trinitatis mysterium non potes 
+      <lb ed="#B" n="7"/>ex Scripturis demonstrari, non erit fundamendali. 
+      <lb ed="#B" n="8"/>aliquis fidei articulus ad salutem scitu omnibus ne 
+      <lb ed="#B" n="9"/>cessarius, cum in Scripturis omnia, quae ad fidei 
+      <lb ed="#B" n="10"/>et mores necessaria sunt, contineri, alibi plen 
+      <lb ed="#B" n="11"/>comprobatum fuerit; 2. quidam ex illis tribuum 
+      <lb ed="#B" n="12"/>jentilibus salutem, ut in traet. proxime praecedent 
+      <lb ed="#B" n="13"/>in e. de naturali Dei notitia fuit ostensum. Atque 
+      <lb ed="#B" n="14"/>si gentiles saniores fuerunt salvati, dogma de trini 
+      <lb ed="#B" n="15"/>tate non erit scitu ac creditu ad salutem necess, 
+      <lb ed="#B" n="16"/>rium, cum gentiles ad ejus cognitionem ex naturae 
+      <lb ed="#B" n="17"/>lumine adspirare non potuerint; 3. dum fidem impli 
+      <lb ed="#B" n="18"/>citam, quae est mera ignorantia, commendant Thom 
+      <lb ed="#B" n="19"/>22. q. 2. art. 7. Biel. 3. sent. dist. 25. q. un. tris 
+      <lb ed="#B" n="20"/>duntaxat numerant, quae omnes Christiani etiam 
+      <lb ed="#B" n="21"/>laici ac simplices explicite et in particulari ere 
+      <lb ed="#B" n="22"/>dere teneantur, videl. quod Deus sit, quod remune 
+      <lb ed="#B" n="23"/>rator sit et quod redemtor sit, in reliquis fidem 
+      <lb ed="#B" n="24"/>implicitam illis sufficere statuunt. Quamvis vero ad 
+      <lb ed="#B" n="25"/>dant, articulum trinitatis itidem explicite esse 
+      cr<lb ed="#B" n="26" break="no"/>dendum, cum incarnationis articulus eundem 
+      pra<lb ed="#B" n="27" break="no"/>supponat; tamen quod una manu concessere, altera 
+      <lb ed="#B" n="28"/>mox eripiunt, quando addunt sufficiens esse 
+      <lb ed="#B" n="29"/>si trinitas credatur confuse seu generaliter 
+      <lb ed="#B" n="30"/>non autem distincte, ut cujuscunque persona 
+      <lb ed="#B" n="31"/>proprietas personalis cognoscatur. Quid quod 
+      <lb ed="#B" n="32"/>carbonarius ille, cujus fidem commendant et laici 
+      <lb ed="#B" n="33"/>ad imitandum proponunt, nec distinete nec confus 
+      <lb ed="#B" n="34"/>trinitatem crediderit, sed simpliciter professu 
+      <lb ed="#B" n="35"/>fuerit, ae credere, quod credit ecclesia, et ecclesia 
+      <lb ed="#B" n="36"/>credere, quod ipse credat. Vid. Pigg. lib. Hierareh. 
+      <lb ed="#B" n="37"/>eccles. c. 5. Hosium de auctor. Script. lib. 3. Esper 
+      <lb ed="#B" n="38"/>saeum in 2. Tim. 3. ete. 2. quidam ex Calviniani 
+      <lb ed="#B" n="39"/>illi sc. qui gentilibus sanioribus salutem tribuum 
+      <lb ed="#B" n="40"/>Cinglius et ejus asseclae, ut suo loco ostendimu 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e672">
+               <lb ed="#B" n="41"/>11. Qu. 1. An etiam in V. T. mysterium 
+      trin<lb ed="#B" n="42" break="no"/>tatis fuerit ad salutem creditu necessarium? Affirm 
+      <lb ed="#B" n="43"/>ex adductis rationibus, quae plane generales sui 
+      <lb ed="#B" n="44"/>et omnes vere credentes non solum sub N., se 
+      <lb ed="#B" n="45"/>etiam V. T. respiciunt. Nec ex N. duntaxat 
+      <lb ed="#B" n="46"/>se <!--line coord error --> 
+      <lb ed="#B" n="47"/>etiam ex V. T. fundamenta nostrae de trinitate 
+      con<lb ed="#B" n="48" break="no"/>fessionis postea adducemus; interim fatemur, 
+      maj<lb ed="#B" n="49" break="no"/>rem lucem et claritatem hujus doctrinae esse i 
+      <lb ed="#B" n="50"/>N. T. quam in V., ut hic quoque locum habet 
+      illu<lb ed="#B" n="51" break="no"/>Lutheri, quo saepe dicere fuit solitus, V. T. sil. 
+      <lb ed="#B" n="52"/>videri instar solis, a quo V. T. instar lunae suam 
+      <lb ed="#B" n="53"/>lucem mutuetur. Urgemus hoc loco oraculum Da 
+      <lb ed="#B" n="54"/>vidicum Ps. 80, v. 10: Non erit tibi Deus 
+      alienu<lb ed="#B" n="55" break="no"/>gave extraneus. Graeca et vulgata reddiderunt, 
+      Deu<lb ed="#B" n="56" break="no"/>recens, quam explicationem Socinus in defens. anin 
+      <lb ed="#B" n="57"/>P. 301. frustra insectatur, quia Deus alienus est 
+      <lb ed="#B" n="58"/>etiam Deus recens, et Deus recens est Deus alienus 
+      <lb ed="#B" n="59"/>vud. 5, v. 8. aperte dii alieni dicuntur Ex 
+      <lb ed="#B" n="60"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="61"/>E7I Dii novi seu recentes. At contra hoc prae 
+      <lb ed="#B" n="62"/>ceptum graviter peccant Photiniani, qui Christum 
+      <!--446.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="63"/>in N. T. factum esse Deum statuunt. Sic enir 
+      <lb ed="#B" n="64"/>Socin. d. I. 302: Novi Foederis oraculis admonit 
+      <lb ed="#B" n="65"/>Christum pro Deo nostro habemus et adoramus 
+      <lb ed="#B" n="66"/>cum tamen interim non modo dicamus eum, quo 
+      <lb ed="#B" n="67"/>tempore psalmus ille compositus fuit, Dei populo 
+      <lb ed="#B" n="68"/>non fuisse cognitum, ut Deum, qui tunc coli deberet 
+      <lb ed="#B" n="69"/>sed ne exstitisse quidem eum revera, affirmare 
+      <lb ed="#B" n="70"/>non dubitamus. Damnamus igitur I. illos, qui 
+      re<lb ed="#B" n="71" break="no"/>ferente Dn. Chem. p. I. loc. c. 2. de trin. p. 86 
+      <lb ed="#B" n="72"/>blasphemarunt, in Nicena et Constantinopolitana 
+      <lb ed="#B" n="73"/>synodis primum fabricatam esse trinitatem, cum 
+      <lb ed="#B" n="74"/>prius pie crediderit ecclesia unum esse 
+      Deum<lb ed="#B" n="75" break="no"/>Horum blasphemiam Photiniani jampridem fecerunt 
+      <lb ed="#B" n="76"/>suam, unde in Patres Nicenos tam acerbe debacchan 
+      <lb ed="#B" n="77"/>tur. Pisecius cont. Camp. p. 63. scribit: 
+      Omne<lb ed="#B" n="78" break="no"/>Nicenae fidei architectos agrestes et solidae erud 
+      <lb ed="#B" n="79"/>tionis expertes fuisse. Atqui illud est repetita 
+      anti<lb ed="#B" n="80" break="no"/>quae fidei confessio ejusdemque adversus novos ad 
+      <lb ed="#B" n="81"/>versarios assertio, aliud novorum articulorum fides 
+      <lb ed="#B" n="82"/>in ecclesiam introductio. 2. Anabaptistas πνευμαιε 
+      <lb ed="#B" n="83"/>μάχους, qui doctrinam de divinitate Spiritus s. 
+      no<lb ed="#B" n="84" break="no"/>fuisse notam in ecclesia Patrum sub V. T., sec 
+      <lb ed="#B" n="85"/>revelatam primum post adscensionem Christi per ape 
+      <lb ed="#B" n="86"/>stolos, quod ex Act. 19, v. 2. stabilire conantur 
+      <lb ed="#B" n="87"/>Atqui Spiritus s. est tertia deitatis persona, de cu 
+      <lb ed="#B" n="88"/>jus vera divinitate non minus quam de Filii 
+      dei<lb ed="#B" n="89" break="no"/>tate in V. T. praeclara et illustria exstant testi 
+      <lb ed="#B" n="90"/>monia 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e792">
+               <lb ed="#B" n="91"/>12. Qu. 2. An Photiniani suis salvis hypothesibus 
+      <lb ed="#B" n="92"/>asserere possint vel ex animo etiam asserant, 
+      no<lb ed="#B" n="93" break="no"/>stram de divinitate confessionem non esse errorem 
+      <lb ed="#B" n="94"/>damnabilem? Neg. 1. quia alibi asserunt dogma 
+      <lb ed="#B" n="95"/>Illud nostrum esse non solum vehementem errorem 
+      <lb ed="#B" n="96"/>Socin. quod evangel. p. 28, sed etiam blasphemum 
+      <lb ed="#B" n="97"/>et horrendum dogma Theodor. Schimberg in 
+      prae<lb ed="#B" n="98" break="no"/>fat. refut. Carol. praefixa fol. 11. Socin. in animad. 
+      <lb ed="#B" n="99"/>assert. 6. Antichristianum commentum Schmalta 
+      <lb ed="#B" n="100"/>cont. Frantz. p. 10. Socin. in animadv. assert. 1.; 2. 
+      <lb ed="#B" n="101"/>quia Pontificios negant esse Christianos propterea 
+      <lb ed="#B" n="102"/>quod personam in Christo non humanam sed 
+      divi<lb ed="#B" n="103" break="no"/>nam statuant. quod absurda credant, Deum immor 
+      <lb ed="#B" n="104"/>talem esse hominem factum et mortuum esse, unam 
+      <lb ed="#B" n="105"/>numero essentiam in tribus personis exsistere ete 
+      <lb ed="#B" n="106"/>Schmaltz. in refut. nov. monst. Smiglecii. At 
+      <lb ed="#B" n="107"/>haec dogmata nobis cum Pontificiis sunt communia; 
+      <lb ed="#B" n="108"/>3. xml:idololatria committitur non tantum ratione mod 
+      <lb ed="#B" n="109"/>ac medii, quando verus Deus colitur non divine 
+      <lb ed="#B" n="110"/>h. e. juxta modum in verbo divinitus praescriptum. 
+      <lb ed="#B" n="111"/>sed etiam ac vel maxime ratione objecti, quando in 
+      <lb ed="#B" n="112"/>qui non est verus Deus, colitur divine, ex quibu 
+      <lb ed="#B" n="113"/>omnibus sic concludimus: Dogma, quod est vehe 
+      <lb ed="#B" n="114"/>menter erroneum, blasphemum, antichristianum, 
+      xml:ido<lb ed="#B" n="115" break="no"/>lolatricum, quodque amplexus desinit esse Christis 
+      <lb ed="#B" n="116"/>nus, illud merito pro damnabili errore habetur 
+      <lb ed="#B" n="117"/>Sed juxta Photinianorum hypothesin nostram de 
+      <lb ed="#B" n="118"/>trinitate dogma tale est. Ergo. Addo et illud 
+      <lb ed="#B" n="119"/>4. qui negat Christum esse personam vere huma 
+      <lb ed="#B" n="120"/>nam, is in Christi salvatoris cognitione turpiter ad 
+      <lb ed="#B" n="121"/>damnabiliter errat. Hypothesis de trinitate nega 
+      <lb ed="#B" n="122"/>Christum esse personam humanam. Ergo. Utra¬ 
+      <!--447.xml-->
+      <pb ed="#B" n="374"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>que propositio est; Schmaltz. contra Frantz 
+      <lb ed="#B" n="2"/>p. 281. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e875">
+               <lb ed="#B" n="3"/>13. Thesis prooemialis. 2. De mysterio 
+      trinitati<lb ed="#B" n="4" break="no"/>non tantum in ecclesia θετικῶς docendum, sed etiar 
+      <lb ed="#B" n="5"/>contra ejusdem impugnatores ἀνιιθετικῶς 
+      disputan<lb ed="#B" n="6" break="no"/>dum. Prior pars hujus theseos sponte sequitur 
+      e<lb ed="#B" n="7" break="no"/>prima hactenus confirmata. Cum enim fides et 
+      cor<lb ed="#B" n="8" break="no"/>fessio trinitatis ad salutem sit necessaria et vero 
+      <lb ed="#B" n="9"/>nemini post lapsum per naturam insit sive innasea 
+      <lb ed="#B" n="10"/>tur, xml:ideo necessarium est, ut haec doctrina in ecclo 
+      <lb ed="#B" n="11"/>ia ex verbo Dei proponatur, dextre explicetur e 
+      <lb ed="#B" n="12"/>rudioribus inculcetur, ut ad veram veri Dei 
+      cogn<lb ed="#B" n="13" break="no"/>tionem ac per eandem ad vitam aeternam produ 
+      <lb ed="#B" n="14"/>cantur, Job. 17, v. 3. c. 20. v. ult. Posterior 
+      the<lb ed="#B" n="15" break="no"/>seos pars non eo sensu accipienda, I. quod a qui 
+      <lb ed="#B" n="16"/>busvis concionatoribus in omnibus ac singulis 
+      cor<lb ed="#B" n="17" break="no"/>cionibus errores Photinianorum perstringi, argument. 
+      <lb ed="#B" n="18"/>ipsorum recensenda et inculcanda, etiam illis, qui 
+      <lb ed="#B" n="19"/>bus ne quidem nomen Photinianorum innotuit 
+      <lb ed="#B" n="20"/>2. vel quod. scrupulose ac temere extra limite 
+      <lb ed="#B" n="21"/>progressu facto de hoc mysterio disserendum; sec 
+      <lb ed="#B" n="22"/>quod in scriptis publicis, in scholis Christianis ad 
+      <lb ed="#B" n="23"/>pro re nata, si ecclesiae cujusdam particularis ne 
+      <lb ed="#B" n="24"/>cessitas xml:id exigat, in concionibus etiam contra 
+      <lb ed="#B" n="25"/>pestilentissimos Antitrinitariorum errores ipsum fide 
+      <lb ed="#B" n="26"/>fundamentum directe evertentes disserendum sit. Io 
+      <lb ed="#B" n="27"/>enim requirit: I. summa necessitas. Adversarii 
+      <lb ed="#B" n="28"/>veritatis magno conatu hanc doctrinae 
+      Christiana<lb ed="#B" n="29" break="no"/>acropolin impugnant, illorum igitur furori obviam 
+      <lb ed="#B" n="30"/>eundum, nec permittendum, ut pro veritate adstru 
+      <lb ed="#B" n="31"/>enda inveniamur segniores, quam illi in eadem 
+      op<lb ed="#B" n="32" break="no"/>pugnanda Cassian. lib. I. de incarn.: Morbo resui 
+      <lb ed="#B" n="33"/>gente nunquam cessare debet medicina, sed quante 
+      <lb ed="#B" n="34"/>major est aegritudo, tanto constantior requiritu 
+      <lb ed="#B" n="35"/>curatio; 2. mandati divini auctoritas. Quibus enim 
+      <lb ed="#B" n="36"/>docendi munus in ecclesiis ac scholis commissum 
+      <lb ed="#B" n="37"/>illis divinitus mandatum non solum docere, sed 
+      <lb ed="#B" n="38"/>etiam τοὺς ἀντιλέγονιας. ἐλέγχειν Tit. 1, v. 9. τοὺς 
+      <lb ed="#B" n="39"/>ἀντιδιατιθεμένους παιδεύειν 2. Tim. 2, v. 25. κα. 
+      <lb ed="#B" n="40"/>ιοὺς φρενακάνας ἐπισιόμίζειν Tit. 1, v. 11, quòd 
+      <lb ed="#B" n="41"/>alibi exemplo reparatorum templi Hierosolymitani 
+      <lb ed="#B" n="42"/>Neh. 4. v. 17, pastorum, medicorum, agricolarum e 
+      <lb ed="#B" n="43"/>hortulanorum latius fuit confirmatum; 3. multiples 
+      <lb ed="#B" n="44"/>utilitas. Ecclesiae doctores hac ratione muneris 
+      su<lb ed="#B" n="45" break="no"/>partes implent, seductorea redduntur αὗιοκαιάκριιο 
+      <lb ed="#B" n="46"/>Tit. 3. v. 11, educti in viam veritatis revocantu 
+      <lb ed="#B" n="47"/>persistentes in fidei orthodoxia in eadem confirmar 
+      <lb ed="#B" n="48"/>tur et adversus errores corruptae rationi plausibiles 
+      <lb ed="#B" n="49"/>muniuntur. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e979">
+               <lb ed="#B" n="50"/>14. Antilhegis. Quibusdam videtur, cum hoc ho 
+      <lb ed="#B" n="51"/>minum genere non disputationibus sed proscriptioni 
+      <lb ed="#B" n="52"/>bus, carceribus, librorum exustionibus et nudis ana 
+      <lb ed="#B" n="53"/>hematisationibus agendum esse, cum eorum 
+      bla<lb ed="#B" n="54" break="no"/>phemiae in autiquissimis primitivae ecelesiae concilii 
+      <lb ed="#B" n="55"/>jam olim sint damnatae. Marcianus l. Nemo 4. e. 
+      <lb ed="#B" n="56"/>de summ. trinit. et fid. cathol.: Nemo clericus vel 
+      <lb ed="#B" n="57"/>militaris vel alterius cujuelibet conditionis de 
+      fid<lb ed="#B" n="58" break="no"/>Christiana publice turbis coadunatia et audientibus 
+      <lb ed="#B" n="59"/>tractare conetur in posterum ex hoc tumultus e 
+      <lb ed="#B" n="60"/>perfidiae occasionem requirens. Nam et injuriam 
+      <!--447.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>facit judicio reverendissimae synodi, si quis semel 
+      <lb ed="#B" n="62"/>judicata ac recte deposita revolvere et publice dis 
+      <lb ed="#B" n="63"/>putare contenderit. Eadem constitutio exstat in 
+      <lb ed="#B" n="64"/>actis concilii Chalcedonensis act. 3. Resp. non imus 
+      <lb ed="#B" n="65"/>inficias, severitatem illam adversus haereticorum 
+      <lb ed="#B" n="66"/>primipilos (quos Lutherus noster ducios vocat) 
+      <lb ed="#B" n="67"/>Christiano magistratu quandoque non solum utiliter 
+      <lb ed="#B" n="68"/>adhiberi, sed etiam necessario exercendam, quando 
+      <lb ed="#B" n="69"/>scilicet venenum doctrinae suae in ecclesiis 
+      orthodo<lb ed="#B" n="70" break="no"/>ris suae curae et fidei commissis! spargere nitun 
+      <lb ed="#B" n="71"/>tur, sed media illa sola ad haereseos exstirpationem 
+      <lb ed="#B" n="72"/>non videntur sufficientia, proinde tum ad seducto 
+      <lb ed="#B" n="73"/>rum informationem, tum ad nostram et aliorum in 
+      <lb ed="#B" n="74"/>veritate confirmationem necessarium est, ut funda 
+      <lb ed="#B" n="75"/>nenta doctrinae ex verbo Dei proponantur et 
+      con<lb ed="#B" n="76" break="no"/>trariorum argumentorum explicatio subjungatur. 
+      <lb ed="#B" n="77"/>Fides enim non est incerta quaedam opinio in 
+      <lb ed="#B" n="78"/>utramque partem fluctuans, sed ἀμειάπτωτος, certa 
+      <lb ed="#B" n="79"/>ac immota scientia, per quam mens pii hominis in 
+      <lb ed="#B" n="80"/>veritatis agnitione et confessione ita confirmatur, 
+      <lb ed="#B" n="81"/>ut nec capitis periculum pro ea recuset adire. 
+      Mar<lb ed="#B" n="82" break="no"/>ciani constitutionem quod attinet, ea temeritati 
+      no<lb ed="#B" n="83" break="no"/>atorum ac seditiosis conatibus turbatorum est 
+      op<lb ed="#B" n="84" break="no"/>posita, prohibet enim de fide contendere, h. e. 
+      <lb ed="#B" n="85"/>contentiose disputare, ex disputatione tumultus e 
+      <lb ed="#B" n="86"/>perfidiae occasionem quaerere, ut in d. I. diserte 
+      <lb ed="#B" n="87"/>additur, unde glossa addit, quod hoc semper 
+      prae<lb ed="#B" n="88" break="no"/>sumatur, nisi fiat cauea addiscendi in scholis vel 
+      <lb ed="#B" n="89"/>causa convincendi haereticos; hic enim finis 
+      opti<lb ed="#B" n="90" break="no"/>mus est, unde ex L. Quoniam 23. c. de episc. et 
+      <lb ed="#B" n="91"/>eleric. glossa colligit, quod de fide catholica publice 
+      <lb ed="#B" n="92"/>disputare ad reprobandam pravam haerotioorum 
+      <lb ed="#B" n="93"/>pinionem liceat. Ergo non simpliciter, sed 
+      secun<lb ed="#B" n="94" break="no"/>lum quid imperator ejusmodi disputationes 
+      prohi<lb ed="#B" n="95" break="no"/>bet. Optandum quidem foret, eorum, quae ex mani 
+      <lb ed="#B" n="96"/>festis scripturis in conciliis primitivae ecclesiae 
+      <lb ed="#B" n="97"/>praesertim oecumenicis orthodoxe definita, tantam 
+      <lb ed="#B" n="98"/>apud omnes esse auctoritatem, ut nihil quicquam 
+      <lb ed="#B" n="99"/>in illis in dubium revocaretur, sed cum haeretica 
+      <lb ed="#B" n="100"/>pravitas et ecclesiae catholicae consensum et 
+      con<lb ed="#B" n="101" break="no"/>ciliorum etiam antiquissimorum auctoritatem proterve 
+      <lb ed="#B" n="102"/>ejiciat, xml:ideo ex Scripturis, quas se recipere asserunt, 
+      <lb ed="#B" n="103"/>omnino convinci debent. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e1104">
+               <lb ed="#B" n="104"/>15. Thesis. 3. mysterium trinitatia non ex patrum 
+      <lb ed="#B" n="105"/>ivulis nec ex turbidis echolasticorum lacunis, sed 
+      <lb ed="#B" n="106"/>ex limpidissimis Scripturarum aacrarum fontibus 
+      <lb ed="#B" n="107"/>probari debet atque etiam potest. Postquam in 
+      pri<lb ed="#B" n="108" break="no"/>oribus thesibus rò δ1ι confirmatum, quod mysterium 
+      <lb ed="#B" n="109"/>rinitatis docendum et credendum sit, succedit quae 
+      <lb ed="#B" n="110"/>stio de 1ῷ διότι, ex quo principio doctrina hujus 
+      <lb ed="#B" n="111"/>mysterii petenda sit, ubi diserte dicimus ex solo et 
+      <lb ed="#B" n="112"/>inico Dei verbo. 1. Non negamus ecclesiae 
+      primi<lb ed="#B" n="113" break="no"/>tivae catholicae unanimem de hoc mysterio 
+      consen<lb ed="#B" n="114" break="no"/>ium, quem confirmant antiquissimi scriptores 
+      ecele<lb ed="#B" n="115" break="no"/>iastici, etiam illi qui ante Nicenum concilium vixe 
+      <lb ed="#B" n="116"/>unt, magnum pondus apud pios et cordatos obtinere 
+      <lb ed="#B" n="117"/>ac obtinere etiam debere, cum quilibet intelligat 
+      <lb ed="#B" n="118"/>quod publica illa et colennis ecclesiae apostolicis 
+      <lb ed="#B" n="119"/>temporibus proximae perpetua successione ad haec 
+      <lb ed="#B" n="120"/>usque tempora conservata confessio et Antitrinita¬ 
+      <!--448.xml-->
+      <pb ed="#B" n="375"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>riorum, Samosateniorum, Arianorum etc. in cele 
+      <lb ed="#B" n="2"/>berrimis et antiquissimis totius Christiani orbi 
+      <lb ed="#B" n="3"/>conciliis damnatio maximum adversus novos damna 
+      <lb ed="#B" n="4"/>tarum haeresium interpolatores praejudicium affe 
+      <lb ed="#B" n="5"/>rat, qua de re praeclarus locus exstat apud Basi 
+      <lb ed="#B" n="6"/>lium lib. 1. cont. Eunomium: Quid dicis (inquit 
+      <lb ed="#B" n="7"/>ne tribuamus plus praegressis? ac revereamur 
+      mul<lb ed="#B" n="8" break="no"/>titudinem et eorum, qui nunc sunt Christiani, et 
+      <lb ed="#B" n="9"/>eorum, qui nati sunt ab eo tempore, quo praedi 
+      <lb ed="#B" n="10"/>cari coepit evangelium? ne reputemus dignitater 
+      <lb ed="#B" n="11"/>eorum, qui omnigenis donie spiritualibus claruerunt. 
+      <lb ed="#B" n="12"/>sed clausis in totum animi oculis et omnium 
+      san<lb ed="#B" n="13" break="no"/>ctorum memoria ex mente ejecta otiosum ac purgo 
+      <lb ed="#B" n="14"/>tum cor suum quisque inductionibus ac sophismatis 
+      <lb ed="#B" n="15"/>tuis supponamus? Interim tamen cum isti θεομάχο 
+      <lb ed="#B" n="16"/>consensum illum susque deque habeant (Schmaltz 
+      <lb ed="#B" n="17"/>cont. Frantz. disp. 1. p. 1: Auctoritas ecclesia 
+      <lb ed="#B" n="18"/>catholicae, ad quam Frantzius provocat, sic 
+      com<lb ed="#B" n="19" break="no"/>parata est, ut nullus error ex illius testimonio de 
+      <lb ed="#B" n="20"/>monstrari non possit), inprimis vero cum fides nostra 
+      <lb ed="#B" n="21"/>non debeat ultimo resolvi in ecclesiae auctoritatem 
+      <lb ed="#B" n="22"/>sed in Scripturae sacrae immotam firmitatem, xml:ideo 
+      <lb ed="#B" n="23"/>primarium ac summum fidei fundamentum non pot 
+      <lb ed="#B" n="24"/>est in illo ecclesiae consensu statui 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e1202">
+               <lb ed="#B" n="25"/>16. 2. Neque xml:id inficias imus, quod consensus 
+      <lb ed="#B" n="26"/>ecclesiae primitivae opponi possit ac debeat insanis 
+      <lb ed="#B" n="27"/>illis adversariorum clamoribus, quibus nostram de 
+      <lb ed="#B" n="28"/>trinitate confessionem novitatis accusare, imo ad 
+      <lb ed="#B" n="29"/>antichristo Romano in ecclesiam introductam esso 
+      <lb ed="#B" n="30"/>asserere non verentur. Catech. Racov. Germ. in 
+      pra<lb ed="#B" n="31" break="no"/>fat. ad acad. Witeberg. p. 2. fac. b. Pari 
+      impru<lb ed="#B" n="32" break="no"/>dentia ministri Transsylvani lib. 2. c. 6. patres, qu 
+      <lb ed="#B" n="33"/>ante concilium Nicenum fnerunt, Iqnatium, JJust 
+      <lb ed="#B" n="34"/>num, Irenaeum, Tertullianum, Cyprianum, ete. suo 
+      <lb ed="#B" n="35"/>putant; reliquos etsi sibi contrarios fateantur, tame 
+      <lb ed="#B" n="36"/>testimonia Hilarii, Chrysostomi, Ambrosii, Cyrilli 
+      <lb ed="#B" n="37"/>Hieronymi et Augustini citant contra nos, ut ostem 
+      <lb ed="#B" n="38"/>dant patres sibi ipsis contradixisse. Ann. 1568. Albae 
+      <lb ed="#B" n="39"/>Juliae excusus est libellus de mediatoris Jesu Christi 
+      <lb ed="#B" n="40"/>hominis divinitate, in cujus c. 8. initio ab Origene 
+      <lb ed="#B" n="41"/>facto recensentur auctores, qui Photiniano dogmat 
+      <lb ed="#B" n="42"/>vel directe vel oblique, vel in totum vel ex parte i 
+      <lb ed="#B" n="43"/>articulo de trinitate assenserint. Schmaltz. contra 
+      <lb ed="#B" n="44"/>Frantz. p. 10: Propediem exsibilatur ista absurdis 
+      <lb ed="#B" n="45"/>sima simul et falsissima de Dei essentia opinio a 
+      <lb ed="#B" n="46"/>ea futura est de trinitatis dogmate existimatio 
+      <lb ed="#B" n="47"/>qualis est hodie inter evangelicos de missa ponti 
+      <lb ed="#B" n="48"/>ficia, de purgatorio et aliis hujusmodi nugis, unum 
+      <lb ed="#B" n="49"/>haec omnia auctorem habent, Antichristum scilicet 
+      <lb ed="#B" n="50"/>Theod. Schimbergius in praefat. refutat. Carolii 
+      pra<lb ed="#B" n="51" break="no"/>fixa f. 11: Manifestum est trinitatis dogma et divi 
+      <lb ed="#B" n="52"/>nitatem Filii non esse veros fidei articulos, qui 
+      <lb ed="#B" n="53"/>sunt impossibilia mentis, xml:ideo in rei veritate 
+      sun<lb ed="#B" n="54" break="no"/>blasphema dogmata ex imo orco, per filium perdi 
+      <lb ed="#B" n="55"/>tionis virtute Satanae ecclesiis gentium obtruso 
+      <lb ed="#B" n="56"/>F. 12. addit, trinitatem esse xml:idolum Antichristi 
+      <lb ed="#B" n="57"/>2. Thess. 2. Sed medacissimam illam blasphemian 
+      <lb ed="#B" n="58"/>potenter reprimit unanimis antiquissimorum eccle 
+      <lb ed="#B" n="59"/>siae scriptorum in trinitatis dogmate asserendo 
+      con<lb ed="#B" n="60" break="no"/>sensus, qui ejus est evidentiae, ut nec ipse Socinu 
+      <!--448.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ab illis suffragium exspectare ausus fuerit. Sic enim 
+      <lb ed="#B" n="62"/>perquam profecto titubanter scribit adv. Bell. e 
+      <lb ed="#B" n="63"/>Wiek. f. 477: Ex scriptis nostrorum hominum nun 
+      <lb ed="#B" n="64"/>quam ostendetur eos asserere aut existimare, scri 
+      <lb ed="#B" n="65"/>ptores ante concilium Nicenum, qui hodie exstant, 
+      <lb ed="#B" n="66"/>nostrae sententiae fuisse, (si cum Photinianis non 
+      <lb ed="#B" n="67"/>senserunt nec trinitatis dogma damnarunt, utique 
+      <lb ed="#B" n="68"/>illud approbarunt) quamvis persuasi omnes simus, 
+      <lb ed="#B" n="69"/>eos non minus, imo vero magis adversariorum 
+      sen<lb ed="#B" n="70" break="no"/>tentiae repugnare, quam nostrae. Nisi nostrae 
+      sen<lb ed="#B" n="71" break="no"/>tentiae nomine intelligatur simpliciter xml:id quod ser 
+      <lb ed="#B" n="72"/>timus de uno illo Deo, quod videlicet is nullus 
+      <lb ed="#B" n="73"/>cilius sit praeter Jesu Christi patrem. Hanc enim 
+      <lb ed="#B" n="74"/>eandem istorum patrum fuisse sententiam, ei non 
+      <lb ed="#B" n="75"/>omnium, at certe maximae partis illorum (vide quam 
+      <lb ed="#B" n="76"/>titubet lingua haeretica) omnino nobis perquademus 
+      <lb ed="#B" n="77"/>quamvis alioquin a nobis dissentiant, quatenus 
+      Chri<lb ed="#B" n="78" break="no"/>stum seu Dei Filium ante orbem conditum ex 
+      <lb ed="#B" n="79"/>ipsius Patris substantia exstitisse volunt et patribus 
+      <lb ed="#B" n="80"/>illis sub V. T. saepius apparuisse, imo illum unum 
+      <lb ed="#B" n="81"/>Deum ipsius patrem et ipsum mundum et alio 
+      <lb ed="#B" n="82"/>omnia deinceps per eum fecisse et quaecunque eos 
+      <lb ed="#B" n="83"/>icire voluerit, hominibus per eum patefecisse. (Patre. 
+      <lb ed="#B" n="84"/>ante Nicenum concilium non solum Photinianis, sed 
+      <lb ed="#B" n="85"/>etiam Arianis contradicunt, xml:id est, non solum testantu 
+      <lb ed="#B" n="86"/>Filium ante suam incarnationem in V. T. exstitisse 
+      <lb ed="#B" n="87"/>ac omnia per ipsum esse condita, sed etiam ab ae 
+      <lb ed="#B" n="88"/>terno ex Patris essentia ipsum esse genitum et unum 
+      <lb ed="#B" n="89"/>cum Patre Deum esse asserunt, ut in tract. de Dec 
+      <lb ed="#B" n="90"/>Patre et Filio §. 152. adductis ipsorum testimoniis 
+      <lb ed="#B" n="91"/>pstendimus, quibus plura ejusmodi ex Ignat 
+      <lb ed="#B" n="92"/>pist. ad Trallian., ad Philipp., ad Smyrn. Ire 
+      <lb ed="#B" n="93"/>naeo lib. 3. adv. haeres. cap. 6. p. 176. Justin. 
+      <lb ed="#B" n="94"/>apol. 2. pro Christ. p. 43. et 47. ut et 75. in 
+      dial<lb ed="#B" n="95" break="no"/>cum Tryph. p. 207. in ἐx8. π1σ1. p. 306. Severe 
+      <lb ed="#B" n="96"/>partriarch.! Alexandr. lib. de rit. bapt. et synaxeos 
+      <lb ed="#B" n="97"/>p. 80. Athenag. in apolog. Clem. Alex. in protrept. 
+      <lb ed="#B" n="98"/>ad gent. Cyprian. de xml:idol. vanit. Orig. hom. 8. in. 
+      <lb ed="#B" n="99"/>Exod. adjungi possunt.) Ut autem patrum, qui 
+      <lb ed="#B" n="100"/>ante Nicenum concilium vixerunt, suffragium 
+      Soci<lb ed="#B" n="101" break="no"/>nus sibi non audet vindicare, ita multo minus ab 
+      <lb ed="#B" n="102"/>iis, qui post concilium illud vixerunt, aliquid se 
+      im<lb ed="#B" n="103" break="no"/>petraturum confidit, sic enim addit p. 479: De 
+      pa<lb ed="#B" n="104" break="no"/>tribus, qui post fuerunt, non est, quod quidquam 
+      <lb ed="#B" n="105"/>dicamus, cum nos contra ipsa quodammodo perpe 
+      <lb ed="#B" n="106"/>quo disputemus, quanquam ex ipsis, praecipue vero 
+      <lb ed="#B" n="107"/>c Hilario, multa depromi poseunt cum opinione de 
+      <lb ed="#B" n="108"/>Christo et personis dininitatis vulgo hodie recepto 
+      <lb ed="#B" n="109"/>minime consentanea (audet per intolerabilem 
+      impu<lb ed="#B" n="110" break="no"/>dentiam Hilarii suffragium sibi vindicare, cum ta 
+      <lb ed="#B" n="111"/>men 12 libros pro adstruendo trinitatis dogmate 
+      e<lb ed="#B" n="112" break="no"/>professo scripserit; videt Socinus xml:id ipsum sibi 
+      for<lb ed="#B" n="113" break="no"/>tissime adversari, xml:ideo addit), quae nullo pacto di 
+      <lb ed="#B" n="114"/>luuntur per testimonia, quae ex ipsis adverearii 
+      <lb ed="#B" n="115"/>citant. Nihil enim vetat, quin sibi ipsis contradi 
+      <lb ed="#B" n="116"/>cant, ut illis fere accidit, qui falsa dogmata tuen 
+      <lb ed="#B" n="117"/>tur (at quis patietur sibi persuaderi, quod pii vete 
+      <lb ed="#B" n="118"/>res illud ipsum aliis in locis eversum voluerint, quod 
+      <lb ed="#B" n="119"/>ex professo integris libris adversus contradicentes 
+      con<lb ed="#B" n="120" break="no"/>firmare allaborant?) Majori vero audacia dicam ar 
+      <!--449.xml-->
+      <pb ed="#B" n="376"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>impudentia in defens. animadv. p. 368. scribit: Ante 
+      <lb ed="#B" n="2"/>Constantini Magni tempora et aliquanto nihi 
+      <lb ed="#B" n="3"/>aperte constat de trino Deo a Christianis passin 
+      <lb ed="#B" n="4"/>adorato et invocato vel potius constat talem Deum 
+      <lb ed="#B" n="5"/>et praecipuis et plerisque Christianis tunc fuisse 
+      <lb ed="#B" n="6"/>incoquitum, xml:id enim ex omnium Christianorum scri 
+      <lb ed="#B" n="7"/>ptis, qui tempora illa antecesserunt (quae modo 
+      <lb ed="#B" n="8"/>adulterina aut supposititia non sint) intelligere 
+      <lb ed="#B" n="9"/>licet, in quibus ubique unus ille Deus Pater tantum 
+      <lb ed="#B" n="10"/>Domini nostri Jesu Christi esse asseritur. Sed 
+      <lb ed="#B" n="11"/>mox pag. 369. huic suae assertioni diffidens sub 
+      <lb ed="#B" n="12"/>jungit: Possumus adversario concedere, omnes Chra 
+      <lb ed="#B" n="13"/>stianos ab apostolorum temporibus trinum Deum 
+      <lb ed="#B" n="14"/>coluisse, nec tamen inde necessario sequetur xml:id 
+      fa<lb ed="#B" n="15" break="no"/>cere vere Christianorum esse ete. Ib. per intolerabi 
+      <lb ed="#B" n="16"/>lem calumniam addit, plerosque ex veteribus fuiss 
+      <lb ed="#B" n="17"/>tritheitas. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e1460">
+               <lb ed="#B" n="18"/>17. 3. Neque xml:id negamus, quod in dictis 
+      Scri<lb ed="#B" n="19" break="no"/>pturae recte explicandis, pie conferendis et contra 
+      <lb ed="#B" n="20"/>Antitrinitarios dextre urgendis patrum laboribus 
+      <lb ed="#B" n="21"/>grata mente uti possimus ac debeamus, cum ex 
+      <lb ed="#B" n="22"/>praecepto apostolico 1. Thess. 5, v. 20. et 21. pro 
+      <lb ed="#B" n="23"/>phetias haudquaquam spernere, sed omnia 
+      probar<lb ed="#B" n="24" break="no"/>et quod bonum est retinere piis conveniat. Re 
+      <lb ed="#B" n="25"/>ipsa ostendit, multa ab Photinianis hodie proferi 
+      <lb ed="#B" n="26"/>argumenta, quae ab Arianis et aliis haereticis olir 
+      <lb ed="#B" n="27"/>prolata ante aliquot secula ab Epiphanio, 
+      Athanasio<lb ed="#B" n="28" break="no"/>Cyrillo, Augustino et aliis Christi athletis, haeret 
+      <lb ed="#B" n="29"/>corum vero malleis protrita sunt ac conculcata 
+      <lb ed="#B" n="30"/>ecquis igitur negare velit, nos eadem contra 
+      ho<lb ed="#B" n="31" break="no"/>diernos adversarios arma induere posse ac eandem 
+      <lb ed="#B" n="32"/>victoriae spem armis illis obtinendam nobis praest. 
+      <lb ed="#B" n="33"/>esse? 4. Scholastici etiam quandoque utiles quasdam 
+      <lb ed="#B" n="34"/>et nervosas distinctiones suppeditant, quas cum 
+      <lb ed="#B" n="35"/>fructu in hac disputatione adhiberi posse non nega 
+      <lb ed="#B" n="36"/>mus, interim cuilibet primo statim intuitu obvium 
+      <lb ed="#B" n="37"/>quod multas curiosas et supervacaneas quaestiones 
+      <lb ed="#B" n="38"/>fidei simplicitati adjecerint, earum decisionem ex 
+      <lb ed="#B" n="39"/>philosophiae principiis petierint ac rem ipsam sae 
+      <lb ed="#B" n="40"/>pius magis impeditam quam expeditam reliquerim 
+      <lb ed="#B" n="41"/>it de mutuis illis, quibus se oppugnant, 
+      contra<lb ed="#B" n="42" break="no"/>lictionibus nihil addam. Vid. Erasm. in enchir. mil 
+      <lb ed="#B" n="43"/>Christ. annot. 1. Tim. 1. Ludov. Viv. in August 
+      <lb ed="#B" n="44"/>de e. D. lib. 2. capit. 13. lib. 19. c. 12. et alibi passim 
+      <lb ed="#B" n="45"/>Flacium de diss. p. 10. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e1523">
+               <lb ed="#B" n="46"/>18. Hoc vero sibi vult thesis nostra, quod ex unico 
+      <lb ed="#B" n="47"/>et proprio theologiae principio, ex Dei se. verbi 
+      <lb ed="#B" n="48"/>mysterii hujus confirmatio sit petenda, quod proba 
+      <lb ed="#B" n="49"/>mus: 1. ex Scripturae perfectione. Nullum est fide 
+      <lb ed="#B" n="50"/>Christianae dogma ad salutem scitu omnibus neces. 
+      <lb ed="#B" n="51"/>sarium, quod non possit ac debeat ex Scriptura sa 
+      <lb ed="#B" n="52"/>cra sufficienter probari, ut alibi demonstratum. Jan 
+      <lb ed="#B" n="53"/>vero dogma de trinitate tale est. Ergo; 2. ex 
+      my<lb ed="#B" n="54" break="no"/>sterii hujus conditione. Quaecunque vel ex patribus 
+      <lb ed="#B" n="55"/>vel ex Scholasticis, vel ex naturali ratione de 
+      ho<lb ed="#B" n="56" break="no"/>mysterio disseruntur, ea nondum praebent firmum 
+      <lb ed="#B" n="57"/>stabile ac immotum fidei fundamentum, sed quando 
+      <lb ed="#B" n="58"/>Dei vocem in Scripturis sonantem, addimus, tum de 
+      <lb ed="#B" n="59"/>mum revelationi divinae aequiescimus. Quia mire 
+      <lb ed="#B" n="60"/>laec sunt (inquit Chemnicius p. 1. Locor. p. 79.) e 
+      <!--449.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>longe supra omnem creaturam captum posita, 
+      qua<lb ed="#B" n="62" break="no"/>de trinitate personarum in sacrosancta divinitate 
+      <lb ed="#B" n="63"/>dicuntur, quaerenda sunt testimonia divinae 
+      pate<lb ed="#B" n="64" break="no"/>factionis, quae ita sint firma, certa et perspicua, 
+      <lb ed="#B" n="65"/>ut conscientia illis in hoc tanto mysterio tuto 
+      ac<lb ed="#B" n="66" break="no"/>quiescere possit. Difficillime enim mens humana 
+      <lb ed="#B" n="67"/>assentitur illis arcanis tam longe extra conspectum 
+      <lb ed="#B" n="68"/>imo contra omne judicium rationis positis, et facile 
+      <lb ed="#B" n="69"/>incipit animus vagari speculationibus, nisi semper 
+      <lb ed="#B" n="70"/>in conspectu sint hujusmodi testimonia, quae mentes 
+      <lb ed="#B" n="71"/>nostras intra justos terminos ac limites a Dec 
+      <lb ed="#B" n="72"/>praescriptos revocent; 3. ex divina ordinatione 
+      <lb ed="#B" n="73"/>Ut in reliquis fidei articulis, ita quoque in hoc ipso 
+      <lb ed="#B" n="74"/>fundamentum salutis concernente ad legem et ac 
+      <lb ed="#B" n="75"/>testimonium remittimur Esa. 8, v. 20. Luc. 16, v. 29. 
+      <lb ed="#B" n="76"/>2. Petri 1, v. 19. Pater coelestis ablegat nos ad 
+      <lb ed="#B" n="77"/>Christum Filium suum audiendum Deut. 18, v. 18. 
+      <lb ed="#B" n="78"/>Matth. 3, v. ult. c. 17, v. 5. Christus remittit nos 
+      <lb ed="#B" n="79"/>ad Scripturas Joh. 5, v. 39. ac per apostolum suum 
+      <lb ed="#B" n="80"/>estatur, quod sacrae literae sufficienter ad salutem 
+      <lb ed="#B" n="81"/>nos instruere possint 2. Timoth. 3, v. 15; ergo etiam 
+      <lb ed="#B" n="82"/>le hoc mysterio ad salutem cognitu necessario 
+      suf<lb ed="#B" n="83" break="no"/>ficienter nos instruere poterit; 4. ex perpetua 
+      eccle<lb ed="#B" n="84" break="no"/>siae observatione. Quemadmodum enim in doctrina 
+      <lb ed="#B" n="85"/>le vita ac moribus perpetua ecclesiae spiritualis 
+      <lb ed="#B" n="86"/>natris vox est, Joh. 2, v. 5: Quodcunque dixerit 
+      <lb ed="#B" n="87"/>obis, facite: ita quoque in doctrina de fide ejusdem 
+      <lb ed="#B" n="88"/>perpetua vox est. Quodcunque dixerit vobis, hoc 
+      <lb ed="#B" n="89"/>credite, Justin. in cohort. ad Graec. p. 29: Modis 
+      <lb ed="#B" n="90"/>scire omnibus convenit, nullo plane pacto aliter 
+      <lb ed="#B" n="91"/>aut aliunde de Deo disci quicquam posse, quam 
+      <lb ed="#B" n="92"/>1 solis prophetis, inde in antiquissimis illis 
+      primi<lb ed="#B" n="93" break="no"/>ivae ecclesiae conciliis contea trinitatis hostes 
+      habi<lb ed="#B" n="94" break="no"/>tis non ex proprio arbitrio articulos fidei 
+      determi<lb ed="#B" n="95" break="no"/>larunt, sicut in antichristianis conciliis postea 
+      fa<lb ed="#B" n="96" break="no"/>tum, sed conclusiones suas ex Scripturis deduxerunt 
+      <lb ed="#B" n="97"/>Athanas. in epistol. ad Epiet: Quae in synodo a 
+      <lb ed="#B" n="98"/>patribus secundum sacras Scripturas exposita eso 
+      <lb ed="#B" n="99"/>ides, sufficiens est ad destructionem totius 
+      impie<lb ed="#B" n="100" break="no"/>latis. Constantinus Imperator ad patres in synodo 
+      <lb ed="#B" n="101"/>Nicena congregatos dixit: Erstant libri evangelici 
+      <lb ed="#B" n="102"/>et apostolici et priscorum oracula prophetarum, 
+      <lb ed="#B" n="103"/>quae nos evidenter docent, quid de re divina 
+      sta<lb ed="#B" n="104" break="no"/>uendum sit, itaque ex dictis illis divinitus 
+      inspi<lb ed="#B" n="105" break="no"/>ratis sumamus quaestionum solutionem. Gelas. 
+      Cy<lb ed="#B" n="106" break="no"/>izen. in act. conc. Nic. c. 5. Tripart. lib. 2. c. 5. 
+      <lb ed="#B" n="107"/>inde Nic. Cusanus lib. 2. de concord. cath. verit. 
+      <lb ed="#B" n="108"/>c. 6: In loco congregationis in medio ponebantus 
+      <lb ed="#B" n="109"/>sacra evangelia, et secundum testimonia Scripturo 
+      <lb ed="#B" n="110"/>rum decrevit olim synodus 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e1671">
+               <lb ed="#B" n="111"/>19. Antithesis. 1. Photiniani nos accusant, quod 
+      <lb ed="#B" n="112"/>scelesiae tantum, h. e. humana auctoritate permoti, 
+      <lb ed="#B" n="113"/>trinitatem credamus, cum divina, hoc est, Scriptu 
+      <lb ed="#B" n="114"/>rae auctoritate illud dogma destituatur. Socin. in 
+      <lb ed="#B" n="115"/>defens. animadv. contra Eutrop. 0. 3. p. 51: De 
+      <lb ed="#B" n="116"/>trinitatis dogmate nullum prorsus exstat divinum 
+      <lb ed="#B" n="117"/>testimonium, imo innumerabilia divina testimonia 
+      <lb ed="#B" n="118"/>ei apertissime refragantur. Ostorod. contra Tradel. 
+      <lb ed="#B" n="119"/>part. 2. c. 1. p. 87: Ne unicus quidem monstrari 
+      <lb ed="#B" n="120"/>potest Scripturae locus, ex quo saltem obscure tri¬ 
+      <!--450.xml-->
+      <pb ed="#B" n="377"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>nitas deprehendi possit. Sed quid de hac 
+      accusa<lb ed="#B" n="2" break="no"/>tione statuendum sit patebit ex sequentibus. 2. Ea 
+      <lb ed="#B" n="3"/>Pontificiis quidam asserunt, mysterium trinitate 
+      <lb ed="#B" n="4"/>non posse Scripturis sacris demonstrari. Imma 
+      <lb ed="#B" n="5"/>nuel a Vega in oppugnat. Dei Samosateniani p. 16 
+      <lb ed="#B" n="6"/>non nisi admissa traditione stare trinitatem. I. 
+      <lb ed="#B" n="7"/>Credere se tres personas ejusdem naturae et maj. 
+      <lb ed="#B" n="8"/>statis, non aliunde quam unde nobis compertum 
+      <lb ed="#B" n="9"/>hoc scriptum, quod habemus evangelium Mattha. 
+      <lb ed="#B" n="10"/>esse vel Marci, i. e., ut ipse exponit, ab ecclesis 
+      <lb ed="#B" n="11"/>Eccius in locis et Pistorius in epit. colloq. Emmer 
+      <lb ed="#B" n="12"/>ting. trinitatem non posse probari e sacris literis 
+      <lb ed="#B" n="13"/>sed esse ecclesiae traditionem asserunt. Possevinus 
+      <lb ed="#B" n="14"/>lib. 8. biblioth. p. 418: Lutherani, si quid de trini 
+      <lb ed="#B" n="15"/>tate solide evulgarunt, in vitula nostra araverunt 
+      <lb ed="#B" n="16"/>nimirum ex nostris synodis et patribus, quos priu 
+      <lb ed="#B" n="17"/>blaspheme accusaverant, tanquam ex fidis armamen 
+      <lb ed="#B" n="18"/>tariis tela omnia petere coacti sunt. Lind. in par 
+      <lb ed="#B" n="19"/>opl. lib. 3. c. 5. p. 104: Sunt quaedam dogmo 
+      <lb ed="#B" n="20"/>tum genera, quae in Scriptura aut non sunt 
+      com<lb ed="#B" n="21" break="no"/>prehensa aut, si comprehensa, ita profecto recondito 
+      <lb ed="#B" n="22"/>illic delitescunt inclusa, imo abstrusa, ut nisi a 
+      <lb ed="#B" n="23"/>hominibus acutissimi ingenii acutique judicii ea 
+      <lb ed="#B" n="24"/>cludi ac erui non possint. Posterioris exemplum 
+      <lb ed="#B" n="25"/>est, Spiritum a Filio procedere, Filium patri ὁμο 
+      <lb ed="#B" n="26"/>ουσιον esse ectremae unctionis sacramentum α L 
+      <lb ed="#B" n="27"/>Jacobo esse commemoratum, ete. Provocat ad hanc 
+      <lb ed="#B" n="28"/>Pontificiorum confessionem Ostorod. contra Tradel 
+      <lb ed="#B" n="29"/>part. 2. e. 1. p. 86: Pontificii in publicis scripta 
+      <lb ed="#B" n="30"/>ingenue confessi sunt pluralitatem personarum i 
+      <lb ed="#B" n="31"/>Deo ex Verbo non posse demonstrari. Schmaltz 
+      <lb ed="#B" n="32"/>disp. 1. contra Frantz. p. 1: Fassi sunt ipsimet Ponti 
+      <lb ed="#B" n="33"/>ficii Hosius Card. et Wiekus Jesuita trinitatis de 
+      <lb ed="#B" n="34"/>qma ex cacris literis solis probari non posse. Sed 
+      <lb ed="#B" n="35"/>huic quorundam Pontificiorum incogitantiae oppo 
+      <lb ed="#B" n="36"/>nimus aliorum saniorum judicium: Campian. rat. 9. 
+      <lb ed="#B" n="37"/>Num trinitas personarum in bibliis non fuit, quid 
+      <lb ed="#B" n="38"/>vocabula ista non sunt? Bellarm. lib. 1. de Christ 
+      <lb ed="#B" n="39"/>a c. 4. usque ad 9. inclusive Christi divinitatem ex saer 
+      <lb ed="#B" n="40"/>literis adstruere laborat, lib. 2. c. 6. sex classes ar 
+      <lb ed="#B" n="41"/>gumentorum pro trinitate personarum in divinis 
+      e<lb ed="#B" n="42" break="no"/>Scriptura adducit; lib. 2. de concil. c. 12. §. Si 
+      <lb ed="#B" n="43"/>etiam: Cum Nicenum concilium definivit, Christum 
+      <lb ed="#B" n="44"/>esse homousion Patri, deduxit conclusionem ex Scro 
+      <lb ed="#B" n="45"/>pturis, in quibus diserte continetur unum esse Deur 
+      <lb ed="#B" n="46"/>et Patrem esse Deum ac Filium esse Deum, es 
+      <lb ed="#B" n="47"/>quibus sequitur necessario, Patrem et Filium esse 
+      <lb ed="#B" n="48"/>ejusdem substantiae et divinitatis. Idem statuur 
+      <lb ed="#B" n="49"/>Gregor. de Valent., Beeanus, eto 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e1808">
+               <lb ed="#B" n="50"/>20. Thesis 1. Mjsterium trinitatis non solum ex 
+      <lb ed="#B" n="51"/>N. sed etiam ex V. T. confirmari potest ac debe 
+      <lb ed="#B" n="52"/>Non hoc dicimus, quod testimoniorum de trinitate 
+      <lb ed="#B" n="53"/>in V. ac N. T. sit eadem claritas et evidentia, quia 
+      <lb ed="#B" n="54"/>clarior hujus mysterii revelatio N. T. fuit reservata 
+      <lb ed="#B" n="55"/>Paul. Weidn. in loc fid. praecip. p. 82: Populu 
+      <lb ed="#B" n="56"/>udaeorum maxime ad xml:idololatriam pronus ero 
+      <lb ed="#B" n="57"/>ne igitur in eorum errorem, qui plures Deos cole 
+      <lb ed="#B" n="58"/>bant, incideret, caute a divina providentia factum 
+      <lb ed="#B" n="59"/>est, ut ipsum trinitatis divinae arcanum non 
+      expli<lb ed="#B" n="60" break="no"/>cite, sed implicite illis traderetur, quia vero pe¬ 
+      <!--450.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Messiam xml:idololatria penitus erat explodenda a 
+      <lb ed="#B" n="62"/>univereus orbis ad unius Dei cultum reducendus. 
+      <lb ed="#B" n="63"/>ideo sacramentum illud trinitatis explicite atque 
+      <lb ed="#B" n="64"/>aperte remotis involucris revelandum ad dies Mee 
+      <lb ed="#B" n="65"/>siae reservatum fuit, ut videlicet luce oriente um 
+      <lb ed="#B" n="66"/>brae evanescerent, quod omnis quoque Cabbalistarum 
+      <lb ed="#B" n="67"/>schola plane testatur asserens ipsius divinae trint 
+      <lb ed="#B" n="68"/>tatis arcana tantummodo usque ad Messiae tempus 
+      <lb ed="#B" n="69"/>recondita latere debuisse, ete. 2. Nec hoc volumus 
+      <lb ed="#B" n="70"/>quod in disceptatione contra pertinacem adversarium 
+      <lb ed="#B" n="71"/>ab obscurioribus V. T. dictis faciendum sit initium, 
+      <lb ed="#B" n="72"/>sed hoc duntaxat asserimus, quod ex V. T. pr. 
+      <lb ed="#B" n="73"/>adstruendo trinitatis dogmate quaedam testimonia 
+      <lb ed="#B" n="74"/>afferri possint et debeant, cum Deus semper al 
+      <lb ed="#B" n="75"/>initio sese sic patefecerit et ecclesia omnibus 
+      ter<lb ed="#B" n="76" break="no"/>poribus Deum ita agnoverit, invocarit ac celebrarit. 
+      <lb ed="#B" n="77"/>quod in una indivisa essentia sint tres distinctae 
+      <lb ed="#B" n="78"/>jeraonae 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e1879">
+               <lb ed="#B" n="79"/>21. Hanc thesin probamus 1. ex thesi prima. Si 
+      <lb ed="#B" n="80"/>enim dogma de trinitate omnibus salvandis scitu ad 
+      <lb ed="#B" n="81"/>creditu necessarium est, utique ejus vestigia in sa 
+      <lb ed="#B" n="82"/>eris literis Veteris Testamenti exstare oportet, alias 
+      <lb ed="#B" n="83"/>Scripturae perfectio labefactabitur; 2. ex ipsa 
+      re<lb ed="#B" n="84" break="no"/>evidentia. Ostendemus suo loco doctrinam de 
+      trini<lb ed="#B" n="85" break="no"/>ate non in N. tantum sed etiam in V. T. certa 
+      e<lb ed="#B" n="86" break="no"/>illustria habere testimonia; 3. ec prohibitione 
+      di<lb ed="#B" n="87" break="no"/>vina. Ps. 81, v. 10: Non erit in te Deus alienu 
+      <lb ed="#B" n="88"/>r vulg. reddidit Deus recens nec incurvabis te 
+      <lb ed="#B" n="89"/>DEO extraneo Atqui si mysterium trinitatis in 
+      <lb ed="#B" n="90"/>V. T. penitus fuisset ignotum, utique in N. T. per 
+      <lb ed="#B" n="91"/>cultum Filii et S. s. Deus recens introduceretur 
+      <lb ed="#B" n="92"/>Es. 43, v. 10: Ante me non est formatus Deus et 
+      <lb ed="#B" n="93"/>post me non erit. Atqui si in N. T. Filius Dei est 
+      <lb ed="#B" n="94"/>factus Deus, ut Photiniani volunt, ae divino cultu 
+      <lb ed="#B" n="95"/>in N. T. affici coepit, utique post Deum Patrem 
+      <lb ed="#B" n="96"/>alius formatus est Deus 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e1921">
+               <lb ed="#B" n="97"/>22. Antithesis. Photiniani xml:id proterve negant 
+      <lb ed="#B" n="98"/>Socin. in defens. animadv. contra Eutropium c.. 
+      <lb ed="#B" n="99"/>. 216: Ipsi adversarii mysterium istud plurium in 
+      <lb ed="#B" n="100"/>Deo personarum culgo in Israëlis populo ante 
+      <lb ed="#B" n="101"/>Christi adventum ignotum fuisse passim confitentur. 
+      <lb ed="#B" n="102"/>Confundit discrimen inter notitiam obscuriorem et 
+      <lb ed="#B" n="103"/>omnimodam; ἀγνωσίαν illam populo Israëlitico 
+      tr<lb ed="#B" n="104" break="no"/>buimus, respectu ad N. T. revelationem habito, 
+      <lb ed="#B" n="105"/>hanc ab eo removemus) Johan. Sommerus lib. 1 
+      <lb ed="#B" n="106"/>refutat. Petri Carolini c. 2: In V. T. libris 
+      trini<lb ed="#B" n="107" break="no"/>tatis doctrinam quaerendam esse putant, qui in cote 
+      <lb ed="#B" n="108"/>argentum inveniri posse non dubitant. Neque enim 
+      <lb ed="#B" n="109"/>in universa illa doctrina jota unum reperietur. 
+      <lb ed="#B" n="110"/>quod vel suspicionem saltem hujus opinionis apud 
+      <lb ed="#B" n="111"/>Judaeos ante Christum fuisse ostendat. Schmaltzius 
+      <lb ed="#B" n="112"/>in praefat. refutat. doct. Frantz. ad lectorem: Quis 
+      <lb ed="#B" n="113"/>ex V. T. homini sensato dogma trinitatis, quis 
+      <lb ed="#B" n="114"/>Filii praeaeternitatem ostendet? Certe Judaei 
+      an<lb ed="#B" n="115" break="no"/>tiqui istis omnibus Scripturis fidem adhibebant et 
+      <lb ed="#B" n="116"/>tamen ista portenta prorsus ignorabant? Quid quod 
+      <lb ed="#B" n="117"/>non pauci viri docti iique insignes theologi 
+      sense<lb ed="#B" n="118" break="no"/>runt dogma trinitatis et alia in V. T. nullo modo 
+      <lb ed="#B" n="119"/>fuisse revelata, sed reservata ad tempus novi foederio 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e1973">
+               <lb ed="#B" n="120"/>23. Thesis 5. Mysterium ex trinitatis naturali 
+      <!--451.xml-->
+      <pb ed="#B" n="378"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>ratione a priori cumprimis probari nec potest ne 
+      <lb ed="#B" n="2"/>debet. 1. Distinguendum est inter confirmationem 
+      <lb ed="#B" n="3"/>alicujus dogmatis et ejusdem jam confirmati et de 
+      <lb ed="#B" n="4"/>monstrati illustrationem. Ratiocinationes ex lumine 
+      <lb ed="#B" n="5"/>naturae petitae et ad trinitatis mysterium adhibita 
+      <lb ed="#B" n="6"/>non confirmationum sed illustrationum qualiumcun 
+      <lb ed="#B" n="7"/>que loco sunt censendae. 2. Scholastici distinguunt 
+      <lb ed="#B" n="8"/>inter rationes praecedentes et sequentes, sive a 
+      <lb ed="#B" n="9"/>priori et a posteriori. Th. p. 1. q. 32. art. 1: Ad 
+      al<lb ed="#B" n="10" break="no"/>quam rem dupliciter inducitur ratio, primo ad pro 
+      <lb ed="#B" n="11"/>bandum sufficienter aliquam radicem, sccundo qua 
+      <lb ed="#B" n="12"/>radici jam positae ostendit congruere 
+      consequente<lb ed="#B" n="13" break="no"/>affectus, hoc posteriori (inquit) modo probatur tro 
+      <lb ed="#B" n="14"/>nitas ex rationibus, posita enim trinitate congruur 
+      <lb ed="#B" n="15"/>hae rationes. Ludov. Viv. lib. 2. de verit. fid 
+      <lb ed="#B" n="16"/>Christ. p. 101: Antequam veritatem eam (de 
+      trin<lb ed="#B" n="17" break="no"/>tate) Christus retegeret, neque veritatis neque 
+      ro<lb ed="#B" n="18" break="no"/>tionum venisset ulli unquam hominum in mentem 
+      <lb ed="#B" n="19"/>sed postquam veritatem a coelesti seu potius mag 
+      <lb ed="#B" n="20"/>stro Deo accepimus, rationes se nobis coeperum 
+      <lb ed="#B" n="21"/>ostendere atque aperire. Sed vix possunt illae qua 
+      <lb ed="#B" n="22"/>lescunque illustrationes rationum pondus in 
+      ho<lb ed="#B" n="23" break="no"/>mysterio obtinere, ut postea apparebit. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e2034">
+               <lb ed="#B" n="24"/>24. Confirmatur prior theseos pars 1. ex myster. 
+      <lb ed="#B" n="25"/>hujus conditione. Quod dogma supra omnem hu 
+      <lb ed="#B" n="26"/>manae rationis captum est positum, ad illud cogno 
+      <lb ed="#B" n="27"/>scendum ratio humana ex suis principis provehi 
+      ne<lb ed="#B" n="28" break="no"/>quit, alias enim non esset supra rationem. 
+      Se<lb ed="#B" n="29" break="no"/>dogma trinitatis tale est, ut colligitur ex Matth. i. 
+      <lb ed="#B" n="30"/>v. 26. c. 16, v. 17. Joh. 1, v. 18. 1. Cor. 2. v. 11. etc. 
+      <lb ed="#B" n="31"/>2. ex viae cognoscendi remotione. Ad cognitionem 
+      <lb ed="#B" n="32"/>Dei per creaturas ex naturae lumine non aliter du 
+      <lb ed="#B" n="33"/>cimur, nisi quatenus Deus est earum principium e 
+      <lb ed="#B" n="34"/>causa. Non est autem earum principium et causs 
+      <lb ed="#B" n="35"/>nisi per divinam suam virtutem omnibus tribu 
+      <lb ed="#B" n="36"/>personis communem, xml:ideo per creaturas cognitionem 
+      <lb ed="#B" n="37"/>consequi non valemus, nisi eorum quae Patri, Filis 
+      <lb ed="#B" n="38"/>et Spiritui s. sunt communia, quocirca per creatura 
+      <lb ed="#B" n="39"/>ex lumine naturae ad cognoscendam personarum 
+      di<lb ed="#B" n="40" break="no"/>stinctionem non possumus pertingere. Quaestio di 
+      <lb ed="#B" n="41"/>Deo uno et trino non est, an sit Deus, vel quae at 
+      <lb ed="#B" n="42"/>tributa Deo competant secundum respectum ad eres 
+      <lb ed="#B" n="43"/>turas, ut est illarum causa; sed quid secundum se 
+      <lb ed="#B" n="44"/>sit Deus, ad illud vero non potest homo rationis sua 
+      <lb ed="#B" n="45"/>viribus assurgere. Basil. lib. 1. contra Eunom. 
+      <lb ed="#B" n="46"/>Communis notio esse Deum, non autem quid si 
+      <lb ed="#B" n="47"/>nobis suggerit. Unde etiam nullus saniorum 
+      genti<lb ed="#B" n="48" break="no"/>lium, etiamsi rationem diligenter excoluerit et librum 
+      <lb ed="#B" n="49"/>naturae diligenter excusserit, vel ex principiis nobiscum 
+      <lb ed="#B" n="50"/>natis per ἔμφυιον vel ex creaturarum inspectione pe 
+      <lb ed="#B" n="51"/>ἐπίκτηιον notitiam trinitatis mysterium cognoscere 
+      <lb ed="#B" n="52"/>potuit; 3. ex evidenti a minore ad majus illation 
+      <lb ed="#B" n="53"/>Si per lapsum protoplaston menti nostrae tanta calig 
+      <lb ed="#B" n="54"/>est inducta, ut ne quidem ad rerum naturalium a 
+      <lb ed="#B" n="55"/>sublunarium perfectam cognitionem penetrare poss 
+      <lb ed="#B" n="56"/>mus, quanto minus ad summi illius in divinis 
+      my<lb ed="#B" n="57" break="no"/>sterii, quod Deus in essentia unus, in personis 
+      tri<lb ed="#B" n="58" break="no"/>nus sit, cognitionem naturali mentis lumine et acu 
+      <lb ed="#B" n="59"/>mine penetrare poterimus. Sed illud Eccl. 8, v. 17: 
+      <lb ed="#B" n="60"/>Intellexi quod omnium operum Dei nullam possi 
+      <!--451.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>homo invenire rationem eorum, quae fiunt sub sole 
+      <lb ed="#B" n="62"/>et quanto plus laboraverit ad quaerendum, tant 
+      <lb ed="#B" n="63"/>minus inveniat. Sap. 9, v. 165 Difficile aestimamu 
+      <lb ed="#B" n="64"/>quae in terra sunt, et quae in prospectu sunt inve 
+      <lb ed="#B" n="65"/>timus cum labore; quae autem in coelis sunt, qui 
+      <lb ed="#B" n="66"/>investigabit? 4. ex ratiocinationum, quae afferuntur 
+      <lb ed="#B" n="67"/>consideratione. Potiores, quae a veteribus vel 
+      re<lb ed="#B" n="68" break="no"/>centioribus formantur, hae sunt: Prima a Dei per 
+      <lb ed="#B" n="69"/>fectione, quam urgent Scotus 1. sent. 2. Raymund 
+      <lb ed="#B" n="70"/>de Sabaud. in theol. nat. c. 46. et seqq: Summe per 
+      <lb ed="#B" n="71"/>fecto attribuendum est quicquid dicit perfectionem 
+      <lb ed="#B" n="72"/>Sed generatio dicit perfectionem. Vid. loc. de trib. 
+      <lb ed="#B" n="73"/>Eloh. §. 65. Secunda a Dei intellectione. Damaso 
+      <lb ed="#B" n="74"/>lib. 1. orth. fid. e. 6: O θεὸς οὐκ ἀλογός ἐστι, λόγα 
+      <lb ed="#B" n="75"/>δὲ ἔχων, οὐκ ἀνυπόστατον ἔξει, οὐκ ἀρξάμενον τοι 
+      <lb ed="#B" n="76"/>εἶναι οὐδὲ παυσόμενον, οὐ γὰρ ἡν, ὅτε ἡν ὁ θεὸς 
+      <lb ed="#B" n="77"/>ἄλογος. ε. τ: δεῖ τὸν λόγον καὶ πνεῦμα ἔχειν, καὶ γὰ 
+      <lb ed="#B" n="78"/>ὁ ἡμέτερος λόγος οὐκ ἀμοιρός ἐυτι πνεύματος ete 
+      <lb ed="#B" n="79"/>Hanc Damasceni ratiocinationem quidam 
+      recentio<lb ed="#B" n="80" break="no"/>scriptor sic amplificat: Deus habet eccellentissimum 
+      <lb ed="#B" n="81"/>intellectum, ergo et objectum ejus oportet esse 
+      per<lb ed="#B" n="82" break="no"/>fectissimum, Deo autem nihil perfectius, xml:idcirco d 
+      <lb ed="#B" n="83"/>vini intellectus objectum nullum erit aliud quam 
+      <lb ed="#B" n="84"/>pse Deus, xml:ideoque Dei intellectus ab aeterno in s 
+      <lb ed="#B" n="85"/>ipsum reflexus ext. Omnis autem intellectus intello 
+      <lb ed="#B" n="86"/>git per imaginem objecti. Quare et Deus, dum al 
+      <lb ed="#B" n="87"/>aeterno semet ipsum perfectissime intellexit, concepo 
+      <lb ed="#B" n="88"/>ac peperit in se ipso perfectissimam imaginem suts 
+      <lb ed="#B" n="89"/>ipsius, quae est ipsius Filius. Cum vero intellectus 
+      <lb ed="#B" n="90"/>divinae essentiae insit, etiam voluntas inerit, quae 
+      <lb ed="#B" n="91"/>cum sit perfectissima et sic objectum requirat per 
+      <lb ed="#B" n="92"/>fectissimum, xml:ideo in se ipsum reflectitur et in ipse 
+      <lb ed="#B" n="93"/>Deo tanquam infinito bono acquiescit et hinc sum 
+      <lb ed="#B" n="94"/>mam voluptatem et amorem produci necesse est. Ergo 
+      <lb ed="#B" n="95"/>dum aeternus Pater imaginem sui ipsius, Filium v 
+      <lb ed="#B" n="96"/>delicet, concipit ac perfectissima voluntate appetii 
+      <lb ed="#B" n="97"/>necesse est perfectissimum amorem ac voluptatem 
+      <lb ed="#B" n="98"/>pleniasimam a Patre in Filium et a Filio in Patren 
+      <lb ed="#B" n="99"/>tanquam imagine in archetypum procedere atque ito 
+      <lb ed="#B" n="100"/>per conjunctum intellectum et voluntatem utriusque 
+      <lb ed="#B" n="101"/>tertium modum exsistendi seu personam in divino 
+      <lb ed="#B" n="102"/>essentia poni, quae vocatur Spiritus sanctus. Terti 
+      <lb ed="#B" n="103"/>ex boni communicatione. Summi et infiniti boni ese 
+      <lb ed="#B" n="104"/>se summe et infinite communicare. At Deus est 
+      <lb ed="#B" n="105"/>summum bonum. Ergo summe et infinite se commi 
+      <lb ed="#B" n="106"/>nicat. Jam vero in productione non communicavit 
+      <lb ed="#B" n="107"/>se Deus infinite et summe, sed particulariter 
+      respect<lb ed="#B" n="108" break="no"/>certorum quorundam bonorum. Quarta ex analogico 
+      <lb ed="#B" n="109"/>collatione. Invenitur una natura in una hypostas 
+      <lb ed="#B" n="110"/>ut in quolibet angelo, plures in pluribus ut in multi 
+      <lb ed="#B" n="111"/>angelis, plures in una ut in homine, ubi duae na 
+      <lb ed="#B" n="112"/>turae, anima et caro, una spiritualis, altera corpo 
+      <lb ed="#B" n="113"/>ralis, in unam hypostasin humanam conveniunt 
+      <lb ed="#B" n="114"/>igitur verisimile est, esse quoque unam naturam, di 
+      <lb ed="#B" n="115"/>pinam scilicet, in pluribus hypostasibus in Patre 
+      <lb ed="#B" n="116"/>Filio et Spiritu sancto. Quinta ex continua meri a 
+      <lb ed="#B" n="117"/>puri actus operatione. Deus est merus ac 
+      puru<lb ed="#B" n="118" break="no"/>actus, ergo ab acterno egit, nón autem produxit ali 
+      <lb ed="#B" n="119"/>quid extra ae per creationem. Ergo intra se per 
+      <lb ed="#B" n="120"/>generationem Filium, per spirationem Spiritum san¬ 
+      <!--452.xml-->
+      <pb ed="#B" n="379"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>ctum. Ludov. Vives lib. 2. de verit. relig. p. 102. 
+      <lb ed="#B" n="2"/>Deum scholae omnes sapientum merum esse actum 
+      <lb ed="#B" n="3"/>confirmarunt, potestas enim in quocunque sit ente 
+      <lb ed="#B" n="4"/>imperfectionem quandam in eo notat, quae 
+      procu<lb ed="#B" n="5" break="no"/>abest ab excellentia divinae essentiae. Quod ei merus 
+      <lb ed="#B" n="6"/>sit actus, nunquam cessavit, egit ergo quamdiu 
+      fui<lb ed="#B" n="7" break="no"/>in otio enim et cessatione statim potestas locum in 
+      <lb ed="#B" n="8"/>venit. Jam inde igitur a tota aeternitate, quando 
+      <lb ed="#B" n="9"/>quidem aeternus est, egit aliquid. In Deo autem 
+      <lb ed="#B" n="10"/>est natura, nempe vis et virtus, est etiam faculta, 
+      <lb ed="#B" n="11"/>per quam naturam agit juxta intimam et propriam 
+      <lb ed="#B" n="12"/>vim ac potentiam. Est etiam in eodem Deo volus 
+      <lb ed="#B" n="13"/>tas libera, per quam agit, ubi et quando vult ete 
+      <lb ed="#B" n="14"/>Sexta a vestigii in creaturis impressione. Effectum 
+      <lb ed="#B" n="15"/>refert naturam suae causae. Creaturae sunt 
+      De<lb ed="#B" n="16" break="no"/>conditoris effectum. Ergo referunt creatoris 
+      su<lb ed="#B" n="17" break="no"/>naturam. Jam vero in omnibus rebus creatis di 
+      <lb ed="#B" n="18"/>vinae trinitatis effigiem ac imaginem vel certe vest 
+      <lb ed="#B" n="19"/>gium aliquod animadverti posse asserunt, qua de 
+      <lb ed="#B" n="20"/>re postea. Vide pleniorem harum rationum 
+      dedu<lb ed="#B" n="21" break="no"/>ctionem apud Scotum, Raymundum et Lud. Vivem 
+      <lb ed="#B" n="22"/>d. I. Mornaeum de verit. relig. Christian. c. 5. Si 
+      <lb ed="#B" n="23"/>vonar. lib. 3. de ver. fid. c. 3. p. 181. eto. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e2307">
+               <lb ed="#B" n="24"/>25. At hae rationes i. non potueruut ex naturae 
+      <lb ed="#B" n="25"/>lumine ab ethnicis divinae revelationis in Verbo factae 
+      <lb ed="#B" n="26"/>ignaris formari, sed a Christianis, quibus trinitatis in verbe 
+      <lb ed="#B" n="27"/>mysterium patefactum est, sunt excogitatae; 2. si solae 
+      <lb ed="#B" n="28"/>seorsim ac per se considerentur, sunt infirmae, 
+      qui<lb ed="#B" n="29" break="no"/>multas patiuntur ἐνσιάσεις, quas larga manu Photi 
+      <lb ed="#B" n="30"/>nianorum scripta suppeditant; 3. sunt etiam imper 
+      <lb ed="#B" n="31"/>fectae, quia nec omnes simul sumtae nec singulae 
+      <lb ed="#B" n="32"/>speciatim acceptae illud evidenter probant, ad quod 
+      <lb ed="#B" n="33"/>lemonstrandum adhibentur videlicet: 1. Filium s 
+      <lb ed="#B" n="34"/>Patre genitum esse personam per se subsistentem a 
+      <lb ed="#B" n="35"/>Patre realiter distinctam; 2. eundem esse Patr. 
+      <lb ed="#B" n="36"/>ὁμοούσιον, unius indivisae essentiae cum Patre; 3. 
+      g<lb ed="#B" n="37" break="no"/>nerationem illam Filii ex essentia Patris esse sin 
+      <lb ed="#B" n="38"/>plicissime aeternam; 4. productionem illam, quae 
+      <lb ed="#B" n="39"/>Patre statuitur ab aeterno facta, terminari ad Filius 
+      <lb ed="#B" n="40"/>et ad Spiritum sanctum, xml:id est, non plures nec 
+      pau<lb ed="#B" n="41" break="no"/>ciores personas esse a Patre productas quam duas 
+      <lb ed="#B" n="42"/>5. Filium a Patre esse productum per generationem 
+      <lb ed="#B" n="43"/>Spiritum s. per spirationem, i. e. Filium esse 
+      al<lb ed="#B" n="44" break="no"/>aeterno a Patre genitum, Spiritum s. ab eodem e 
+      <lb ed="#B" n="45"/>Filio ab aeterno processisse, haec mysteria simul 
+      <lb ed="#B" n="46"/>sumta, ut in hac doctrina omnino simul sumi 
+      deben<lb ed="#B" n="47" break="no"/>omnem humanae rationis captum excedunt, ac proind 
+      <lb ed="#B" n="48"/>naturali ratione probari non possunt. Si ergo qua 
+      <lb ed="#B" n="49"/>tuor argumentis ostendimus, mysterium trinitatis 
+      <lb ed="#B" n="50"/>non posse ex ratione probari, quod confirmat etiam 
+      <lb ed="#B" n="51"/>illud Athan. in epist. ad Serapion. circa med.: 
+      De<lb ed="#B" n="52" break="no"/>tas non demonstratione rationum traditur, sed fide 
+      <lb ed="#B" n="53"/>et pia cogitatione cum religione 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e2375">
+               <lb ed="#B" n="54"/>26. Posterior theseos pars, quod videlicet myste 
+      <lb ed="#B" n="55"/>rium trinitatis ex naturali ratione non debeat pro 
+      <lb ed="#B" n="56"/>bari, sequitur ex priore. Si enim probari ex ration 
+      <lb ed="#B" n="57"/>nequit, frustra ad rationes naturales nos recipiendi 
+      <lb ed="#B" n="58"/>operam ludimus. Thomas p. 1. q. 32. art. 1. xml:id ipsum 
+      <lb ed="#B" n="59"/>probat ex incommodi consecutione. Qui nititur (in 
+      <lb ed="#B" n="60"/>quit) naturali ratione trinitatem probare, dupliciter 
+      <!--452.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>derogat fidei: 1. quia dignitas fidei est, ut eit de 
+      <lb ed="#B" n="62"/>rebus invisibilibus, quae rationem humanam 
+      exce<lb ed="#B" n="63" break="no"/>dunt; 2. derogat fidei quantum ad utilitatem alios 
+      <lb ed="#B" n="64"/>ad eam trahendi, credunt enim infideles, quod 
+      hujus<lb ed="#B" n="65" break="no"/>modi rationibus utamur, cum tamen non sint 
+      co<lb ed="#B" n="66" break="no"/>qende. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e2411">
+               <lb ed="#B" n="67"/>27. Antithesis. I. Scholastici, (de quibus Scotus 
+      <lb ed="#B" n="68"/>lib. 3. sent. dist. 24. q. 1. praedicat, quod 
+      philoso<lb ed="#B" n="69" break="no"/>phiam cum theologia maximo cum fructu miscuerint 
+      <lb ed="#B" n="70"/>ratiocinationibus ejusmodi ut in aliis, ita quoque in 
+      <lb ed="#B" n="71"/>noe articulo plus aequo indulgent, quin et curiosis, 
+      <lb ed="#B" n="72"/>ptiosis ac spinosis quaestionibus de hoc mysterio 
+      mo<lb ed="#B" n="73" break="no"/>tis et agitatis fidei Christianae simplicitatem non 
+      <lb ed="#B" n="74"/>mediocriter labefactarunt. Raymundus Lullus 
+      existi<lb ed="#B" n="75" break="no"/>mavit, sola vi naturali intellectus seclusa revelatione 
+      <lb ed="#B" n="76"/>hoc mysterium demonstrari posse; illi favet nonnihi 
+      <lb ed="#B" n="77"/>Gerson alphab. 13. lit. H. Henricus quodlib. 8. q. 24. 
+      <lb ed="#B" n="78"/>Rich. Victorin. lib. 1. de trinit. c. 4. Gregor. de 
+      <lb ed="#B" n="79"/>Valent. lib. de unit. et trin. proleg. c. 2: Et ei ratio 
+      <lb ed="#B" n="80"/>veritatem hujus mysterii propter ipsius altitudinem 
+      <lb ed="#B" n="81"/>capere nequit, tamen nec ullam in eo falsitatem de 
+      <lb ed="#B" n="82"/>prehendere valet, atque adeo argumenta omnia, quae 
+      <lb ed="#B" n="83"/>contra illud fiunt, tanquam infirma et fallacia dio 
+      <lb ed="#B" n="84"/>solvi possunt, et quidem evidenter. 2. Keckermannu. 
+      <lb ed="#B" n="85"/>rationi in hoc mysterio demonstrando plus tribuis 
+      <lb ed="#B" n="86"/>quam Scripturae. Sic enim orditur trinitatis 
+      demon<lb ed="#B" n="87" break="no"/>trationem lib. 1. syst. theol. c. 3: Antitrinitariis 
+      <lb ed="#B" n="88"/>palam faciemus, trinitatem personarum promanare 
+      <lb ed="#B" n="89"/>ex ipsa Dei essentia et Deum Deum esse non 
+      posse<lb ed="#B" n="90" break="no"/>nisi tres habeat distinctos exsistendi modos sive per 
+      <lb ed="#B" n="91"/>sonas, xml:id ubi ostenderimus, etiam testimonia 
+      produ<lb ed="#B" n="92" break="no"/>cemus ex cacris literis. Sic ergo discursum 
+      philo<lb ed="#B" n="93" break="no"/>sophicum ex proprietatibus naturae intelligentis 
+      pe<lb ed="#B" n="94" break="no"/>titum praeponit divinis Spiritus s. oraculis. 
+      Quant<lb ed="#B" n="95" break="no"/>rectius Justin. in ἐκθ. πίστ. p. 294: δεῖ πρὸς τοὺς τῇ 
+      <lb ed="#B" n="96"/>ἐκκλησίας τροφίμους μὴ λογισμοῖς ἀνθρωπίνοις διευ 
+      <lb ed="#B" n="97"/>θύνειν τὰ θεῖα, ἀλλὰ πρὸς τὸ βούλημα τῆς διδασκα¬ 
+      <lb ed="#B" n="98"/>lίας τοῦ πνεύματος τῶν λόγων ποιεῖσθει τῆν ἔ 
+      <lb ed="#B" n="99"/>θεσι 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e2485">
+               <lb ed="#B" n="100"/>28. Qu. 1. Quid statuendum de vestigiis trinita 
+      <lb ed="#B" n="101"/>tis, quae in creaturis demonstrantur? Ea, quae infro 
+      <lb ed="#B" n="102"/>nos sunt, scribit Augustin. lib. 11. de civ. Dei c. 28. 
+      <lb ed="#B" n="103"/>nec aliquo modo essent, nec aliqua specie 
+      contine<lb ed="#B" n="104" break="no"/>rentur, nec aliquem ordinem vel appeterent vel 
+      te<lb ed="#B" n="105" break="no"/>nerent, nisi ab illo facta essent, qui summe est, qui 
+      <lb ed="#B" n="106"/>summe sapiens est, qui summe bonus est, ergo 
+      pe<lb ed="#B" n="107" break="no"/>omnia quae fecit mirabili stabilitate, currentes quase 
+      <lb ed="#B" n="108"/>quaedam ejus alibi magis alibi minus impressa 
+      ve<lb ed="#B" n="109" break="no"/>stigia colligamus, in nobis autem ipsis ejus imag 
+      <lb ed="#B" n="110"/>nem contuentes tanquam minor ille evangelicus filius 
+      <lb ed="#B" n="111"/>ad nosmet ipsos conversi surgamus. Statuit ergo 
+      <lb ed="#B" n="112"/>Augustinus in creatura intellectuali ac rationali ima 
+      <lb ed="#B" n="113"/>ginem, in irrationalibus vero creaturis reliquis 
+      vest<lb ed="#B" n="114" break="no"/>gium quoddam trinitatis conspici, quod discrimen 
+      <lb ed="#B" n="115"/>ejusdemque rationem latius exposuimus in loc. de 
+      <lb ed="#B" n="116"/>trib. Eloh. §. 69. et 70. Horum vestigiorum complura 
+      <lb ed="#B" n="117"/>a veteribus recensentur, quorum pleraque enumerat 
+      <lb ed="#B" n="118"/>Augustinus a lib. 9. de trinitate usque ad 15. Uta. 
+      <lb ed="#B" n="119"/>mur in illis recensendis quodam ordine: 1. Quae 
+      <lb ed="#B" n="120"/>dam vestigia sunt omnibus creaturis communia 
+      <!--453.xml-->
+      <pb ed="#B" n="380"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>quaedam certis creaturis propria. Communia haec 
+      <lb ed="#B" n="2"/>sunt. Deus omnia fecit in numero, pondere et 
+      men<lb ed="#B" n="3" break="no"/>sura. Quaelibet creatura quandam in se ostendit e 
+      <lb ed="#B" n="4"/>unitatem et speciem et ordinem. Tres solae sum 
+      <lb ed="#B" n="5"/>affectiones entis omnibus rebus communes, unum 
+      <lb ed="#B" n="6"/>verum, bonum. In omnibus creaturis est principium 
+      <lb ed="#B" n="7"/>medium et finis; substantia, virtus et operatio; esse 
+      <lb ed="#B" n="8"/>posse, agere. Totum universum constat triplici crea 
+      <lb ed="#B" n="9"/>turarum genere. Unum est substantiarum spirituo 
+      <lb ed="#B" n="10"/>lium, i. e. angelorum, alterum est substantiarum 
+      <lb ed="#B" n="11"/>partim spiritualium, partim corporalium, ut 
+      homi<lb ed="#B" n="12" break="no"/>num tertium est substantiarum omnino corporalium 
+      <lb ed="#B" n="13"/>ut brutorum, arborum, ete. 2. Creaturae sunt vel 
+      <lb ed="#B" n="14"/>rationales vel irrationales. Rationales sunt vel ax 
+      <lb ed="#B" n="15"/>geli vel homines. In rationalibus illis creaturis non 
+      <lb ed="#B" n="16"/>tantum vestigium sed etiam imago quaedam trinita 
+      <lb ed="#B" n="17"/>tis occurrit. Innumerabilis illa multitudo angelorum 
+      <lb ed="#B" n="18"/>in tres hierarchias dispescitur, singulis hierarchiis 
+      <lb ed="#B" n="19"/>tres ordines assignantur, in qua tripartita 
+      distinetion<lb ed="#B" n="20" break="no"/>divinae trinitatis vestigium aliquod conspici arbitrai 
+      <lb ed="#B" n="21"/>tur. In singulis vero angelis intellectualibus illi 
+      <lb ed="#B" n="22"/>essentiis et animabus hominum ratiocinandi facultate 
+      <lb ed="#B" n="23"/>praeditis imaginem quandam trinitatis monstrare sat 
+      <lb ed="#B" n="24"/>agunt. Mens meminit sui, intelligit se, diligit se 
+      <lb ed="#B" n="25"/>Mens est quasi parens, notitia ejus quasi proles, amo 
+      <lb ed="#B" n="26"/>de ipsa mente et notitia procedit. Tres sunt hu 
+      <lb ed="#B" n="27"/>manae animae facultates, rationalis, sensitiva, v 
+      <lb ed="#B" n="28"/>getativa. Tres sunt rationalis animae facultates 
+      <lb ed="#B" n="29"/>intelligentia, voluntas et memoria. Et sumus et 
+      <lb ed="#B" n="30"/>nos esse novimus et nostrum esse ac nosse diligimus 
+      <lb ed="#B" n="31"/>3. Creaturae irrationales vel sunt animatae vel in 
+      <lb ed="#B" n="32"/>animatae. In animatis creaturis tam sensitiva quam 
+      <lb ed="#B" n="33"/>vegetativa tantum anima praeditis haec cccur 
+      <lb ed="#B" n="34"/>runt vestigia. Tres sunt sensus interiores, 
+      sensu<lb ed="#B" n="35" break="no"/>communis, phantasia et memoria. Herbae et flores 
+      <lb ed="#B" n="36"/>habent formam, odorem seu saporem ac vim, vire 
+      <lb ed="#B" n="37"/>et effectus. 4. Inanimatae vel sunt coelestes vel 
+      <lb ed="#B" n="38"/>sublunares. In earum pluribus trinitatis 
+      monstran<lb ed="#B" n="39" break="no"/>vestigium. Tria in sole considerantur, quod est 
+      <lb ed="#B" n="40"/>quod lucet, quod calet, i. e. substantia solis, radiu 
+      <lb ed="#B" n="41"/>et calor. In iride sunt tres distincti colores ita 
+      <lb ed="#B" n="42"/>conjuncti, ut quo modo committantur vel separentur 
+      <lb ed="#B" n="43"/>discernere nequeas. In igne est species ignis, 
+      splen<lb ed="#B" n="44" break="no"/>dor et calor. Splendor ab igne nascitur, calor ob 
+      <lb ed="#B" n="45"/>igne et splendore generatur. Fons, rivus, flumet 
+      <lb ed="#B" n="46"/>tria sunt ejusdem naturae, ete. Ex radice arbori 
+      <lb ed="#B" n="47"/>exsurgit truncus, ex utroque ramus. 5. Nec solur 
+      <lb ed="#B" n="48"/>in naturalibus, sed etiam in artificialibus ac in 
+      di<lb ed="#B" n="49" break="no"/>sciplinis talia vestigia quaerunt. Tria sunt, quae in 
+      <lb ed="#B" n="50"/>unoquoque artifice quaeruntur, ut aliquid efficiat. 
+      <lb ed="#B" n="51"/>natura, doctrina, usus. Natura ingenio, doctrin 
+      <lb ed="#B" n="52"/>scientia, usus fructu dijudicandus. Aug. 11. de civit 
+      <lb ed="#B" n="53"/>Dei c. 25. affert huc tripartitam philosophiae divisio 
+      <lb ed="#B" n="54"/>nem in physicam, logicam, ethicam; per physicam 
+      <lb ed="#B" n="55"/>denotari dicit Patrem, qui est naturarum omnium 
+      <lb ed="#B" n="56"/>auctor, per logicam Filium intelligentiae datorem 
+      <lb ed="#B" n="57"/>per ethicam Spiritum s. amoris, quo bene beateque 
+      <lb ed="#B" n="58"/>vivitur, inspiratorem. Lutheri nostri hoc est: Pate 
+      <lb ed="#B" n="59"/>in divinis est grammatica, Filius dialectica, 
+      Spiri<lb ed="#B" n="60" break="no"/>tus s. rhetorica. Alii observant radicem apud 
+      <!--453.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Hebraeos esse triliteram; nomen Jehovah habere 
+      tre<lb ed="#B" n="62" break="no"/>literas, scribi per tria substrato, ternarium apud 
+      <lb ed="#B" n="63"/>omnes gentes esse sacrum. Quid vero de his vesti 
+      <lb ed="#B" n="64"/>giis et comparationibus statuendum? Resp. xml:idem quod 
+      <lb ed="#B" n="65"/>de rationibus ex lumine naturae petitis: 1. illustrant 
+      <lb ed="#B" n="66"/>tantum, non probant; 2. plus in illis dissimili 
+      <lb ed="#B" n="67"/>tudinis quam similitudinis; 3. a posteriori 
+      peti<lb ed="#B" n="68" break="no"/>tae sunt, non a priori, non sunt cognitionis 
+      pa<lb ed="#B" n="69" break="no"/>rentes sed soboles, non adducunt ad cognoscendum 
+      <lb ed="#B" n="70"/>sed adducuntur ad cognitum repraesentandum. Vid. 
+      <lb ed="#B" n="71"/>Heisn. p. 1. sobr. phil. sect. 4. c. 9. q. 2; 4. sobrio 
+      <lb ed="#B" n="72"/>ae caute illis utendum; 5. adversario opponi 
+      ne<lb ed="#B" n="73" break="no"/>queunt, credentem oblectare possunt. Annotabo de 
+      <lb ed="#B" n="74"/>his similitudinibus egregium locum ex Hilar. 1. d. 
+      <lb ed="#B" n="75"/>trin. p. 7: Si qua nos de natura Dei et nativitate 
+      <lb ed="#B" n="76"/>tractantes comparationum exempla asserimus, nemo 
+      <lb ed="#B" n="77"/>ra existimet absolute in se rationis perfectionem 
+      <lb ed="#B" n="78"/>continere. Comparatio enim terrenorum ad Deum 
+      <lb ed="#B" n="79"/>nulla est, sed infirmitas intelligentiae nostrae coëgit. 
+      <lb ed="#B" n="80"/>spirituales quasdam ex inferioribus tanquam 
+      su<lb ed="#B" n="81" break="no"/>periorum indices quaerere, ut rerum familiarium 
+      <lb ed="#B" n="82"/>consuetudine admonente ex aensus nostri 
+      conscien<lb ed="#B" n="83" break="no"/>tia ad insoliti sensus opinionem adduceremur 
+      <lb ed="#B" n="84"/>Omnis igitur comparatio homini potius utilis 
+      habe<lb ed="#B" n="85" break="no"/>atur quam Deo apta, quia intelligentiam magis 
+      <lb ed="#B" n="86"/>significat quam explicat neque naturis carnis et 
+      <lb ed="#B" n="87"/>spiritus aut invisibilium ac tractabilium 
+      coaequan<lb ed="#B" n="88" break="no"/>dis praesumta reputetur protestans infirmitati se 
+      <lb ed="#B" n="89"/>humanae intelligentiae necessariam et ab invidio 
+      <lb ed="#B" n="90"/>esse liberam non satisfacientis exempli 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e2739">
+               <lb ed="#B" n="91"/>29. Qu. 2. Quid de allegoriis, quae ad hoc 
+      my<lb ed="#B" n="92" break="no"/>sterium adhibentur, judicandum? Etiam in illis ve 
+      <lb ed="#B" n="93"/>teris ecclesiae doctores, praesertim Origenes et ex 
+      <lb ed="#B" n="94"/>recentioribus Berthorius satis quandoque copiose. 
+      <lb ed="#B" n="95"/>Animi gratia quasdam enumerabimus: Genes. 18 
+      <lb ed="#B" n="96"/>Deus volens cum Abrahamo foedus inire ac 
+      pro<lb ed="#B" n="97" break="no"/>missionem de benedicto semine confirmare jussit 
+      <lb ed="#B" n="98"/>ut sibi sumeret in sacrificium vaccam triennem et 
+      <lb ed="#B" n="99"/>capram et arietem trium annorum, per quod 
+      trini<lb ed="#B" n="100" break="no"/>tatis mysterium ducunt praefiguratum. Weidn. in 
+      <lb ed="#B" n="101"/>loc. fid. Christ. praecis. traet. 1. p. 147. Genes. 18. 
+      <lb ed="#B" n="102"/>ribus occurrit Abraham et unum adorat. In eo quod 
+      <lb ed="#B" n="103"/>res vidit, trinitatis mysterium intellexit, quod autem 
+      <lb ed="#B" n="104"/>quasi unum adoravit, in tribus personis unum Deum 
+      <lb ed="#B" n="105"/>cognovit. August serm. 70. de temp. Cum tres 
+      vir<lb ed="#B" n="106" break="no"/>visi sunt, nec quisquam in eis vel forma vel aetat 
+      <lb ed="#B" n="107"/>vel potestate major caeteris dictus est, cur non hic 
+      <lb ed="#B" n="108"/>accipiamus visibiliter insinuatam per creaturam vi 
+      <lb ed="#B" n="109"/>sibilem trinitatis aequalitatem atque in tribus per 
+      <lb ed="#B" n="110"/>sonis unam eandemque substantiam? ete. Id. lib. 2. 
+      <lb ed="#B" n="111"/>de trinit. c. 11. Vid. loc. §. 15. Just. in dial. cum 
+      <lb ed="#B" n="112"/>Tryph. p. 213: Moyses beatus et fidelis Dei mi 
+      <lb ed="#B" n="113"/>nister indicat visum esse Abrahamo ad saltum 
+      <lb ed="#B" n="114"/>Mamre Deum cum eis, qui secum fuere duobus 
+      <lb ed="#B" n="115"/>angelis ad judicium Sodomitarum missis ab alio 
+      <lb ed="#B" n="116"/>qui semper in supercoelestibus manet et a nemine 
+      <lb ed="#B" n="117"/>visus neque cum quopiam per se ipsum collocutur 
+      <lb ed="#B" n="118"/>est, quem fabricatorem et patrem cunctarum rerum 
+      <lb ed="#B" n="119"/>novimus. Tria contenta in arca, tabulae decalogi, 
+      <lb ed="#B" n="120"/>virga Aaron frondens et urna aurea habens manna 
+      <!--454.xml-->
+      <pb ed="#B" n="381"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>designant tria Deo attributa. Nam in virga poter 
+      <lb ed="#B" n="2"/>tia ejus; in tabulis, in quibus erat lex magnae ss 
+      <lb ed="#B" n="3"/>pientiae, signatur Dei sapientia; in mannae dulco 
+      <lb ed="#B" n="4"/>dine bonitas ejus. Potentia tribuitur Patri, sapien 
+      <lb ed="#B" n="5"/>tia Filio, bonitas Spiritui sancto. Quod Exod. 23. 
+      <lb ed="#B" n="6"/>v. 17. Israëlitae ter in anno in tribus sc. festis 
+      so<lb ed="#B" n="7" break="no"/>lennioribus coram Deo comparere cogebantur, 
+      illu<lb ed="#B" n="8" break="no"/>Basilius in c. 1. Esai. ad trinitatem accommodat 
+      <lb ed="#B" n="9"/>Fidem, inquit, ss. trinitatis Deus exigit, nam, ut ar 
+      <lb ed="#B" n="10"/>glossa, in paschate immolatur Filius, in pentecoste 
+      <lb ed="#B" n="11"/>datur Spiritus s., in collecta frugum potentia crea 
+      <lb ed="#B" n="12"/>toris Patris significatur. Num. 15. Israëlitae in 
+      <lb ed="#B" n="13"/>angulis palliorum suorum habebant fimbrias, 
+      pe<lb ed="#B" n="14" break="no"/>quas Dei et mandatorum ejus admonerentur 
+      <lb ed="#B" n="15"/>erant illae quatuor filiorum sed duplicatorum, in 
+      <lb ed="#B" n="16"/>superiore quidem sui parte tres nodos haben 
+      <lb ed="#B" n="17"/>tes, in inferiori vero duos. Per tres nodo 
+      <lb ed="#B" n="18"/>superiores trinitas personarum, per duos autem 
+      <lb ed="#B" n="19"/>inferiores duo insinuantur testamenta. Dan. 5. v. 5. 
+      <lb ed="#B" n="20"/>praefiguratur trinitas Danieli. Tres digiti unius 
+      <lb ed="#B" n="21"/>manus scribunt in pariete contra faciem regis 
+      Be<lb ed="#B" n="22" break="no"/>sazer convivantis, tres illi digiti notant tres perso 
+      <lb ed="#B" n="23"/>nas trinitatis, de quibus dicitur: Quis apprehendis 
+      <lb ed="#B" n="24"/>molem terrae tribus digitis? Esa. 40, v. 12, hoc eso 
+      <lb ed="#B" n="25"/>sustentat mundum virtute trium personarum, qua 
+      <lb ed="#B" n="26"/>sunt unus Deus, una manus in essentia et virtus 
+      <lb ed="#B" n="27"/>divina, quae in mentem inscribit humanam, excita 
+      <lb ed="#B" n="28"/>novos motus, ponderare facit gravitatem peccatorur 
+      <lb ed="#B" n="29"/>ete. Quid de hisce allegoriis statuendum? Resi 
+      <lb ed="#B" n="30"/>idem quod de adductis comparationibus, ut enim 
+      <lb ed="#B" n="31"/>illae sunt similitudines petitae ex libro naturae, ita 
+      <lb ed="#B" n="32"/>et hae sunt picturae ex libro Scripturae. 1. Si 
+      con<lb ed="#B" n="33" break="no"/>gruae sint, et concinna coornant et illustrant, nos 
+      <lb ed="#B" n="34"/>probant. Luth. in e. 18. Genes. p. 216: Defenda 
+      <lb ed="#B" n="35"/>mus doctores nostros contra virulentas linqguas, qui 
+      <lb ed="#B" n="36"/>occulto sensu vidisse Abrahamum trinitatem di 
+      <lb ed="#B" n="37"/>cunt, siquidem Deus ei apparuit non in paucior 
+      <lb ed="#B" n="38"/>bus nec pluribus personis quam tribus, recte erg 
+      <lb ed="#B" n="39"/>hoc loco patres usi sunt, aliud tamen est probar 
+      <lb ed="#B" n="40"/>aliud ornare. 2. Sin vero minus aptae ac decente 
+      <lb ed="#B" n="41"/>eruditi eas contemnunt, adversarii derident, infirmi 
+      <lb ed="#B" n="42"/>iisdem offenduntu: 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e2904">
+               <lb ed="#B" n="43"/>30. Qu. 2. Quid de testimoniis, quae ex gentilibus 
+      <lb ed="#B" n="44"/>scriptoribus pro adstruendo trinitatis mysterio 
+      pro<lb ed="#B" n="45" break="no"/>feruntur, judicandum. Quaedam illorum ex Luo 
+      <lb ed="#B" n="46"/>Vive, Mornaeo, Pansa, Ficino, Scaligero, Georg 
+      <lb ed="#B" n="47"/>vezio, ete. commemoravimus in loc. §. 73. Plura 
+      <lb ed="#B" n="48"/>exstant apud Cyrillum lib. 8. contra Julianum 
+      e<lb ed="#B" n="49" break="no"/>Steuchum lib. 2. de peren. phil., quibus et hae 
+      <lb ed="#B" n="50"/>conjungi possunt. Suidas de Trismegisto. Mereu 
+      <lb ed="#B" n="51"/>rius Trismegistus, xml:id est, ter maximus, is fuit sapien 
+      <lb ed="#B" n="52"/>Aeqyptius. Floruit autem ante Pharaonem. Apper 
+      <lb ed="#B" n="53"/>latus est ter maximus, quoniam de trinitate edidi 
+      <lb ed="#B" n="54"/>oraculum dicens in trinitate unam esse divinitatem 
+      <lb ed="#B" n="55"/>has verbis: Erat lumen intellectuale ante lume 
+      <lb ed="#B" n="56"/>intellectuale, et erat semper meus mentis luminose 
+      <lb ed="#B" n="57"/>Et nihil aliud erat quam horum unitas et Spiritu 
+      <lb ed="#B" n="58"/>omnia continens. Ectra hunc non Deus, non ax 
+      <lb ed="#B" n="59"/>gelus, non substantia ulla alia. Omnium enim De 
+      <lb ed="#B" n="60"/>minus Pater et Deus et omnia sub ipso et in ipso 
+      <!--454.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>sunt. Nam verbum ejus perfectum exsistens et 
+      fo<lb ed="#B" n="62" break="no"/>cundum et opifex lapsum in foecunda natura et aque 
+      <lb ed="#B" n="63"/>foecunda prolificam fecit aquam. Trismegesti philo 
+      <lb ed="#B" n="64"/>sophiam secutus Plato in epistola ad Dionysium 
+      <lb ed="#B" n="65"/>qui eum de natura Dei percunctatus fuerat, sic 
+      re<lb ed="#B" n="66" break="no"/>spondet: De natura primi loquendum est tecum 
+      <lb ed="#B" n="67"/>per aenigmata, ete. Sic habet res, circa omnium 
+      <lb ed="#B" n="68"/>regem omnia sunt et illius gratia exsistunt 
+      omnio<lb ed="#B" n="69" break="no"/>alleque est causa omnium bonorum, secundum 
+      au<lb ed="#B" n="70" break="no"/>tem circa secundam et tertium circa tertiam. 
+      Ploti<lb ed="#B" n="71" break="no"/>nus philosophus Platonicus scripsit librum περὶ 
+      <lb ed="#B" n="72"/>τριῶν ἀρχικῶν ὑποστάσεων, cujus libri meminit 
+      Au<lb ed="#B" n="73" break="no"/>gust. Damascius Platonicus scribit, Aegyptios prim 
+      <lb ed="#B" n="74"/>principio ter fuisse acclamare solitos. Arist. 1. de 
+      <lb ed="#B" n="75"/>coelo et mundo scribit, Pythagoricos in tribus 
+      po<lb ed="#B" n="76" break="no"/>suisse perfectionem rerum velut principio, medio 
+      <lb ed="#B" n="77"/>et fine, et in deorum saeris numerum hunc usur 
+      <lb ed="#B" n="78"/>pari solitum colligitur ex illo Maronis: Numer 
+      <lb ed="#B" n="79"/>deus impare gaudet. Reuchlin. in annot. ad q. 1. 
+      <lb ed="#B" n="80"/>Athanas: Pagani circa unitatem deitatis 
+      laboran<lb ed="#B" n="81" break="no"/>tes deprehenderunt aliquam pluralitatem 
+      exsisten<lb ed="#B" n="82" break="no"/>tem supra omnes deos. Fabulantur enim 
+      Joven<lb ed="#B" n="83" break="no"/>unum et excellentissimum deum sine ulla commo 
+      <lb ed="#B" n="84"/>stione solum ex capite suo Minervam genuisse, quae 
+      <lb ed="#B" n="85"/>certe praevaleat diis omnibus. A Jove et Minerva 
+      <lb ed="#B" n="86"/>productam postea dicunt Bulen, xml:id est, consilium 
+      <lb ed="#B" n="87"/>quae duo aequalem habent cum patre potestatem et 
+      <lb ed="#B" n="88"/>ab Hesiodo in Theogonia vocantur duo prudente 
+      <lb ed="#B" n="89"/>partus Jovis. Mahumetes in Corano azoara 24 
+      <lb ed="#B" n="90"/>sic loquentem Deum introducit: Non est quicquam 
+      <lb ed="#B" n="91"/>a nobis absconditum, qui certum modum atque 
+      men<lb ed="#B" n="92" break="no"/>suram ubique servamus ventis imperantes et 
+      imbre<lb ed="#B" n="93" break="no"/>ad rerum vegetationem e coelo dimittentes vitam 
+      <lb ed="#B" n="94"/>damus et mortem inducimus. Nos hominem de 
+      <lb ed="#B" n="95"/>terra et luto plasmavimus; (sic ergo, qui parem 
+      <lb ed="#B" n="96"/>non habet inter angelos vel creaturas reliquas, de 
+      <lb ed="#B" n="97"/>se ipso in plurali loquitur, quae vero illa pluralitas?) 
+      <lb ed="#B" n="98"/>azoara 25: Ipse namque Deus et Spiritus suua 
+      bene<lb ed="#B" n="99" break="no"/>dictus hunc librum veracissimum composuerunt, 
+      <lb ed="#B" n="100"/>(habes dualitatem personarum, in divinis additu 
+      <lb ed="#B" n="101"/>autem etiam Verbum) azoara 11: Jesus Mariae 
+      <lb ed="#B" n="102"/>filius, Dei nuntius, suusque Spiritus et Verbum 
+      <lb ed="#B" n="103"/>Mariae coelitus missum. (en igitur mittentem, 
+      Spir<lb ed="#B" n="104" break="no"/>tum et Verbum, sed azoara 12. statim subjungitur 
+      <lb ed="#B" n="105"/>contrarium) Quid ergo de talibus testimoniis 
+      statu<lb ed="#B" n="106" break="no"/>endum? 1. In quibusdam duntaxat similia habent 
+      <lb ed="#B" n="107"/>non vero eadem cum doctrina Christiana. In verbis 
+      <lb ed="#B" n="108"/>nobiscum consentiunt, in verborum istorum explica 
+      <lb ed="#B" n="109"/>tione ae sensu dissentiunt, unde Aug. 10. de cir 
+      <lb ed="#B" n="110"/>Dei e. 29. de illis pronuntiat, quod qualitercunque 
+      <lb ed="#B" n="111"/>et per quaedam tenuis imaginationis umbracula 
+      <lb ed="#B" n="112"/>quo nitendum sit, viderint. 2. In quibus eadem 
+      <lb ed="#B" n="113"/>docent, illa hauserunt 1. partim ex Scripturae sa 
+      <lb ed="#B" n="114"/>crae lectione) Justin. Martyr. in paraen. ad gentes 
+      <lb ed="#B" n="115"/>Eusebius in lib. de praeparat. evang. et Theodoret. 
+      <lb ed="#B" n="116"/>in libro de Graecorum affect. Platonem ex Hebraeo 
+      <lb ed="#B" n="117"/>rum libris multa in suos traustulisse probant. 
+      Hin<lb ed="#B" n="118" break="no"/>Numenius philosophus dicebat τι ἐσιι Πλάτων ε 
+      <lb ed="#B" n="119"/>Μωυσῆς ἀιτικίίιν; Et Aristobulus Judaeus ad 
+      Phi<lb ed="#B" n="120" break="no"/>lometora lib. 1. citante Euseb. Legem, inquit, 6, 
+      <!--455.xml-->
+      <pb ed="#B" n="382"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>stram in multis Plato secutus est, aperte namque 
+      <lb ed="#B" n="2"/>in multis diligenter examinasse singula videtur 
+      <lb ed="#B" n="3"/>Mosaica enim volumina ante Alexandrum et ant 
+      <lb ed="#B" n="4"/>Persarum imperia traducta fuerant, unde plurim 
+      <lb ed="#B" n="5"/>sicut et Pythagoras philosophus accepit. Aug. lib. t 
+      <lb ed="#B" n="6"/>de c. D. c. 11. demonstrat, Platonem scriptura 
+      <lb ed="#B" n="7"/>Hebraeas per interpretem didicisse, non ut scribend 
+      <lb ed="#B" n="8"/>traneferret, sicut Ptolemaeus, sed ut colloquendo, qui 
+      <lb ed="#B" n="9"/>continerent, quantum capere potuisset, addiscere 
+      <lb ed="#B" n="10"/>Lud. Viv. in comm. Aug. ibid. scholiastes in episto 
+      <lb ed="#B" n="11"/>Greg. Nazianz. ad Nemesium: Christianis olim a 
+      <lb ed="#B" n="12"/>ethnicis quibusdam objectum est, multa in libris di 
+      <lb ed="#B" n="13"/>vinitus inopiratis inveniri, quae a Platone aliisque 
+      <lb ed="#B" n="14"/>auctoribus accepta, imo surrepta essent. Sed falsui 
+      <lb ed="#B" n="15"/>hoc plagii crimine juste in eosdem retorserunt, cum 
+      <lb ed="#B" n="16"/>alii multi tum inprimis Clemens Alexandrinus, qui 
+      <lb ed="#B" n="17"/>in libris στρωμ. innumera loca Scripturae produci 
+      <lb ed="#B" n="18"/>quae ethnici scriptores in sua volumina transtulerunt, 
+      <lb ed="#B" n="19"/>partim ex conversatione cum Hebraeis (Plato in 
+      <lb ed="#B" n="20"/>Aegyptum usque perrexit. Aug. d. I.); partii 
+      <lb ed="#B" n="21"/>ex oraculorum ac Sibyllarum revelatione. 3. Ger 
+      <lb ed="#B" n="22"/>tilium de trinitate testimonia plus valent ad 
+      convin<lb ed="#B" n="23" break="no"/>cendos ethnicos quam ad confirmandos Christiano 
+      <lb ed="#B" n="24"/>vel haereticos refellendos. Aug. lib. 13. cont. 
+      Far<lb ed="#B" n="25" break="no"/>stum c. 15: Si Sibylla et Orpheus et nescio qui 
+      <lb ed="#B" n="26"/>Hermes, vel si qui alii vates vel theologi vel sapies 
+      <lb ed="#B" n="27"/>tes vel philosophi de Filio Dei aut de Patre Dee 
+      <lb ed="#B" n="28"/>vera praedixisse aut dixisse perhibentur, valet qui 
+      <lb ed="#B" n="29"/>dem aliquid ad paganorum vanitatem revincendam 
+      <lb ed="#B" n="30"/>non tamen ad istorum auctoritatem amplexandam 
+      <lb ed="#B" n="31"/>cum illum Deum nos colere ostendimus, de quo nec 
+      <lb ed="#B" n="32"/>illi tacere potuerunt, qui suos congentiles populo 
+      <lb ed="#B" n="33"/>idola et daemonia colenda partim docere ausi 
+      sun<lb ed="#B" n="34" break="no"/>partim prohiberi non sunt augi. 1. testimoniis illi 
+      <lb ed="#B" n="35"/>veritas Christianae fidei per se minime indiget. Aut 
+      <lb ed="#B" n="36"/>lib. 18. de civ. Dei c. 47: Quisquis alienigena, i.. 
+      <lb ed="#B" n="37"/>nec ex Israël progenitus, nec ab illo populo in 
+      ca<lb ed="#B" n="38" break="no"/>nonem sacrarum literarum receptus, legitur aliquid 
+      <lb ed="#B" n="39"/>prophetasse de Christo, si ad nostram notitiam venis 
+      <lb ed="#B" n="40"/>aut venerit, ad cumulum a nobis commemorari potes, 
+      <lb ed="#B" n="41"/>non quod necessarius sit, etiamsi desit, sed quia non 
+      <lb ed="#B" n="42"/>incongrue creditur fuisse et in aliis gentibus 
+      homi<lb ed="#B" n="43" break="no"/>nes, quibus hoc mysterium revelatum est, et qui hoc 
+      <lb ed="#B" n="44"/>etiam praedicere impulsi sunt 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e3182">
+               <lb ed="#B" n="45"/>31. Qu. 4. Rectene dictum a Thoma Aquinat 
+      <lb ed="#B" n="46"/>p. 1. q. 82. art. 1. ex naturali ratione defendi posse 
+      <lb ed="#B" n="47"/>non esse impossibile, quod fides Christiana de tro 
+      <lb ed="#B" n="48"/>nitate praedicat? Resp. apud Christianos ex verbe 
+      <lb ed="#B" n="49"/>Dei institutos ac trinitatis mysterium fide ample 
+      <lb ed="#B" n="50"/>etentes per naturales rationes illud obtineri potes 
+      <lb ed="#B" n="51"/>sed apud gentiles trinitatem ignorantes et apud hac 
+      <lb ed="#B" n="52"/>reticos eam praefracte negantes obtineri vix poterit. 
+      <lb ed="#B" n="53"/>cum enim illi seposita verbi coelestis luce ex rationi 
+      <lb ed="#B" n="54"/>principiis de hoc mysterio judicare praesumant, ind 
+      <lb ed="#B" n="55"/>accidit, ut illud absurdum et impossibile pronuntient 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e3208">
+               <lb ed="#B" n="56"/>32. Thessis. 6. Mysterium trinitatis ex ratior 
+      <lb ed="#B" n="57"/>naturali oppugnari non debet, expugnari non potes 
+      <lb ed="#B" n="58"/>EB. Luth. in lib. de votis monasticis c. 5. de lumine 
+      <lb ed="#B" n="59"/>rationis et naturae ejusdemque in divinis usu 
+      si<lb ed="#B" n="60" break="no"/>disputat: Natura tametei lucem et opera De no¬ 
+      <!--455.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>attingat per se, ita ut in affirmativis, quod ajunt 
+      <lb ed="#B" n="62"/>fallax sit ejus judicium, in negativis tamen est cer 
+      <lb ed="#B" n="63"/>tum. Non enim capit ratio, quid sit Deus, certis 
+      <lb ed="#B" n="64"/>sime tamen capit, quid non eit Deus. Ita licet non 
+      <lb ed="#B" n="65"/>videat, quid rectum et bonum sit coram Deo, nempe 
+      <lb ed="#B" n="66"/>fidem, scit tamen evidenter infidelitatem, homicidio 
+      <lb ed="#B" n="67"/>esse mala, qua et Christus utitur, dum dicit: Omni 
+      <lb ed="#B" n="68"/>reqnum in se divisum desolari, et Paulus dum dicit, 
+      <lb ed="#B" n="69"/>neo naturam docere, ut mulier velato capite pro 
+      <lb ed="#B" n="70"/>phetet. Quod ergo huic rationi evidenter adversa 
+      <lb ed="#B" n="71"/>tur, certum est xml:id multo magis Deo adversari, quo 
+      <lb ed="#B" n="72"/>modo enim coelesti veritati non repugnabit, quod 
+      <lb ed="#B" n="73"/>terrenae veritati repugnat? ete. Ex hoc Lutheri loc. 
+      <lb ed="#B" n="74"/>quidam evincere conatur, in summis fidei mysterii 
+      <lb ed="#B" n="75"/>rationis naturalis judicium consulendum esse, et quio 
+      <lb ed="#B" n="76"/>quid illi deprehenditur adversum, xml:id protinus ut 
+      fa<lb ed="#B" n="77" break="no"/>sum esse rejiciendum. Sed committunt fallaciam 
+      <lb ed="#B" n="78"/>παρὰ τὸ πῇ καὶ ἀπλῶς. Neque enim absoluto et 
+      <lb ed="#B" n="79"/>simpliciter de omnibus, quae in theologia traduntu 
+      <lb ed="#B" n="80"/>Lutheri dictum accipiendum est, sed de illis 
+      dun<lb ed="#B" n="81" break="no"/>taxat, quae lumine naturae sunt nota, non autem 
+      <lb ed="#B" n="82"/>quae sunt merae revelationis ac purae ut vocant 
+      <lb ed="#B" n="83"/>fidei, xml:id quod apparet: 1. ex subjectis a Luther 
+      <lb ed="#B" n="84"/>exemplis, quae omnia ita comparata sunt, ut 
+      sphae<lb ed="#B" n="85" break="no"/>ram rationis non supergrediantur; 2. ex aliis 
+      ejus<lb ed="#B" n="86" break="no"/>dem locis, in quibus severe ae graviter prohibet, ne 
+      <lb ed="#B" n="87"/>ex ratione de summis fidei mysteriis judicemus, 
+      a<lb ed="#B" n="88" break="no"/>que ea, quae ratio nostra judicat absurda, falsa e 
+      <lb ed="#B" n="89"/>impossibilia, ut talia repudiemus. In disputat. di 
+      <lb ed="#B" n="90"/>dicto Verbum caro factum est, tom. 1. Lat. Wit. 
+      <lb ed="#B" n="91"/>s. 413: Sorbona mater errorum pessime definivit, 
+      <lb ed="#B" n="92"/>idem esse verum in philosophia et theologia, impie 
+      <lb ed="#B" n="93"/>que damnavit eos, qui contrarium definierunt; 3. &amp; 
+      <lb ed="#B" n="94"/>consequentibus absurdis. Quod si enim hoc Luther 
+      <lb ed="#B" n="95"/>dictum ad mysteria supra omnem rationis captur 
+      <lb ed="#B" n="96"/>posita extendere velimus, consequetur, rationi 
+      con<lb ed="#B" n="97" break="no"/>mittendum esse judicium de illis, quae penitur 
+      <lb ed="#B" n="98"/>ignorat, rationem esse fidei nostrae magistram, ratio 
+      <lb ed="#B" n="99"/>nem non esse sub fidei obsequium captivandam, quin 
+      <lb ed="#B" n="100"/>imo omnia fidei mysteria, quae natura et ration 
+      <lb ed="#B" n="101"/>ignota sunt, tanquam absurda et impossibilia erunt ne 
+      <lb ed="#B" n="102"/>ganda et repudianda, xml:id quod ex seqq. erit manifestius 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e3318">
+               <lb ed="#B" n="103"/>33. Demonstramus igitur theseos utrumque 
+      mem<lb ed="#B" n="104" break="no"/>brum, cum posterius ex priore dependeat, 1. ex le 
+      <lb ed="#B" n="105"/>gibus et requisitis in vera demonstratione. Vera et 
+      <lb ed="#B" n="106"/>efficax demonstratio debet peti non ἐξ ἀλλοτρίων 
+      <lb ed="#B" n="107"/>sed ἐκ τῶν οἰκείων, ne committatur μετάβασις εἰ 
+      <lb ed="#B" n="108"/>ἄλλο γένος, ἀνάγκη γὰρ ἐκ τοῦ αὐτοῦ γένους τὰ ἄκρι 
+      <lb ed="#B" n="109"/>κεαὶ τὰ μέσα εἶναι Arist. 1. analyt. c. 7. cont. 58 
+      <lb ed="#B" n="110"/>Atqui quando in summis fidei articulis omnem 
+      hu<lb ed="#B" n="111" break="no"/>manae rationis captum transscendentibus argumenta 
+      <lb ed="#B" n="112"/>ἀνασκεύαστικὰ ex naturali ratione proferuntur, e 
+      <lb ed="#B" n="113"/>non sunt petita ἐξ οἰκείων, nec est in illis termino 
+      <lb ed="#B" n="114"/>rum συγγένεια. Ergo τρόπος παιδείας et leges vera 
+      <lb ed="#B" n="115"/>demonstrationis violantur. Qui a natura ad 
+      my<lb ed="#B" n="116" break="no"/>steria, a sensu ad fidem, ab oculo ad oraculum 
+      a<lb ed="#B" n="117" break="no"/>gumenta ducunt, ἀπαιδευσίαν committunt; 2. ex 
+      ra<lb ed="#B" n="118" break="no"/>tionis imperfectione. Intellectus noster tanta laborat 
+      <lb ed="#B" n="119"/>imperfectione et infirmitate, ut in rebus judicio ejus 
+      <lb ed="#B" n="120"/>subjectis saepius fallatur et aberret, xml:id quod testa¬ 
+      <!--456.xml-->
+      <pb ed="#B" n="383"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tum reddunt querelae praestantissimorum 
+      philoso<lb ed="#B" n="2" break="no"/>phorum; Aristot. lib. 2. metaph. c. 1. Scal. exer. 1. 
+      <lb ed="#B" n="3"/>sect. 1. exerc. 31. sect. s. exerc. 307. sect. 12. Quante 
+      <lb ed="#B" n="4"/>gitur conjunctum erit cum periculo res fidei eju 
+      <lb ed="#B" n="5"/>judicio committere, ita ut veritas articulorum fidei 
+      <lb ed="#B" n="6"/>in Scripturis patefacta propterea negetur, quia ratio 
+      <lb ed="#B" n="7"/>ad eorum notitiam nequit assurgere; 3. ex rationi 
+      <lb ed="#B" n="8"/>corruptione. Ratio humana non solum laborat in 
+      <lb ed="#B" n="9"/>firmitate, sed etiam coecitate, tenebris et erroribus 
+      <lb ed="#B" n="10"/>in rebus fidei dijudicandis Rom. 1. v. 21. 1. Cor.1. 
+      <lb ed="#B" n="11"/>v. 19. Eph. 4. v. 17, nec solum destituitur δυνάμε 
+      <lb ed="#B" n="12"/>divina plene et perfecte cognoscendi, sed etiam cor 
+      <lb ed="#B" n="13"/>trario habitu errores et vitia sectandi est corrupta 
+      <lb ed="#B" n="14"/>s. Cor. 2, v. 14: Animalis homo οὐ δέχεται τὰ τοῖ 
+      <lb ed="#B" n="15"/>πνεύματος τοῦ θεοῦ, μωρία γὰρ αὐτῷ ἐσιιν καὶ οἱ 
+      <lb ed="#B" n="16"/>δύναται γνῶναι ὅτι πνευματικῶς ἀνακρίνεται. Illatio 
+      <lb ed="#B" n="17"/>apostoli est talis: Spiritualia oportet epiritualites 
+      <lb ed="#B" n="18"/>judicari, i. e. ad spiritualia mysteria percipienda 
+      <lb ed="#B" n="19"/>et judicanda requiritur intellectus Spiritus s. luce 
+      collu<lb ed="#B" n="20" break="no"/>stratus et judicii normam solum ac unice Scriptura 
+      <lb ed="#B" n="21"/>sacras, in quibus vox et judicium Spiritus s. continetur 
+      <lb ed="#B" n="22"/>constituens. Jam vero homo ψυχικός, qui nihil in se 
+      <lb ed="#B" n="23"/>eximium habet praeter animam rationalem, qui suit 
+      <lb ed="#B" n="24"/>indulget λογισμοῖς, nondum est S. s. luce collustra 
+      <lb ed="#B" n="25"/>tus, sed haeret adhuc in connatis intellectui tenebris 
+      <lb ed="#B" n="26"/>nec sequitur normam, juxta quam unice de rebu 
+      <lb ed="#B" n="27"/>et mysteriis spiritualibus judicandum. Ergo ad 
+      <lb ed="#B" n="28"/>piritualia judicanda plane est ineptus. Rom. 8 
+      <lb ed="#B" n="29"/>v. θ. φρόνημα σαρκός, (quo nomine intelliguntur non 
+      <lb ed="#B" n="30"/>solum appetitus et affectus sensitivi, sed etiam 
+      prae<lb ed="#B" n="31" break="no"/>clarissimae cogitationes et ratiocinationes in non 
+      <lb ed="#B" n="32"/>renatis) non solum non sunt laudabiles, sed etiam 
+      <lb ed="#B" n="33"/>ipsa advereus Deum inimicitia, in quo est magni 
+      <lb ed="#B" n="34"/>δείνωσις, ut substantivum pro adjectivo positum in 
+      <lb ed="#B" n="35"/>telligatur. 4. ex νοητῶν ac πιστῶν collatione. Quem 
+      <lb ed="#B" n="36"/>admodum rà νoyrà non sunt judicanda ex αἰσθ 
+      <lb ed="#B" n="37"/>σει, ita τὰ πιστὰ non sunt judicanda ex νοήσει 
+      <lb ed="#B" n="38"/>Contra judicium rationis non potest nec debet ui 
+      <lb ed="#B" n="39"/>geri judicium sensuum. Ergo etiam contra judicium 
+      <lb ed="#B" n="40"/>fidei non debet urgeri judicium rationis πιστείωμεν τ 
+      <lb ed="#B" n="41"/>τέχνῃ τὰ τεχνικά τῇ φύσει τὰ φυσικὰ καὶ τῷ θεῷ τὰ θεῖς 
+      <lb ed="#B" n="42"/>5. ex philosophicorum axiomatum conditione. Quand 
+      <lb ed="#B" n="43"/>contra trinitatis mysterium proferuntur ratiocinatio 
+      <lb ed="#B" n="44"/>nes humanae, tunc axiomata philosophica accipium 
+      <lb ed="#B" n="45"/>tur ut generalia, cum tamen sint specialia et in 
+      <lb ed="#B" n="46"/>sua duntaxat sphaera obtineant veritatem. Sic axioma 
+      <lb ed="#B" n="47"/>illud, quot sunt personae tot essentiae, valet quidem 
+      <lb ed="#B" n="48"/>in tota rerum universitate, sed non est extendendum ad 
+      <lb ed="#B" n="49"/>ipsum Dominum universitatis; valet in essentia finita 
+      <lb ed="#B" n="50"/>sed non est applicandum ad essentiam Dei 
+      infini<lb ed="#B" n="51" break="no"/>tam; valet in sphaera sublunari, sed non 
+      pertrahen<lb ed="#B" n="52" break="no"/>dum est ad sphaeram supercoelestem. Miserae 
+      au<lb ed="#B" n="53" break="no"/>tem insipientiae ac fraudis sophisticae est 
+      particu<lb ed="#B" n="54" break="no"/>lare accipere ut universale, determinatum ut in 
+      <lb ed="#B" n="55"/>determinatum. Omnia argumenta, quae contra 
+      <lb ed="#B" n="56"/>mysterium trinitatis ex ratione formantur, in majore 
+      <lb ed="#B" n="57"/>propositione assumunt aliquod axioma, quod 
+      vale<lb ed="#B" n="58" break="no"/>in rerum creatarum natura tantum ac proinde est 
+      <lb ed="#B" n="59"/>particulare, xml:idque applicant ad increatam et 
+      infini<lb ed="#B" n="60" break="no"/>tam Dei essentiam, i. e. assumunt illud tanquam 
+      <!--456.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ibsolute et simpliciter utile contra ipsius logicae 
+      <lb ed="#B" n="62"/>eges. E. g. Una numero essentia non potest esse 
+      <lb ed="#B" n="63"/>n tribus numero distinctis hypostasibus. Divina 
+      <lb ed="#B" n="64"/>natura est una numero essentia. Ergo. Major non 
+      <lb ed="#B" n="65"/>potest aliter probari quam ex inductione rerum 
+      <lb ed="#B" n="66"/>creatarum finitarum, at ex eo nondum probatur 
+      <lb ed="#B" n="67"/>quod eadem sit ratio increatae et infinitae essentiae 
+      <lb ed="#B" n="68"/>ergo utilitas axiomatis probari nequit; 6. ex 
+      myste<lb ed="#B" n="69" break="no"/>riorum natura ac ratione. Mysterii trinitatis ac 
+      re<lb ed="#B" n="70" break="no"/>liquorum proprie dictorum mysteriorum ea est 
+      na<lb ed="#B" n="71" break="no"/>tura ac ratio, ut captum rationis transscendant, i. 
+      e<lb ed="#B" n="72" break="no"/>ut ratio citra verbi revelationem ad eorum notitiam 
+      <lb ed="#B" n="73"/>non possit pertingere et ut posita verbi revelatione 
+      <lb ed="#B" n="74"/>nihilo tamen minus ratio ex suis principiis non 
+      <lb ed="#B" n="75"/>possit nec debeat de illis statuere. Eph. 3, v. 8 
+      <lb ed="#B" n="76"/>1. Cor. 2, v. 7. 1. Tim. 6, v. 18. etc. Ergo etiam 
+      <lb ed="#B" n="77"/>non debet suos λογισμοὺς veritati coelesti in illis 
+      <lb ed="#B" n="78"/>nysteriis opponere. 7. ex potentiae et essentiae di 
+      <lb ed="#B" n="79"/>vinae collatione. Quemadmodum ratio non potest 
+      <lb ed="#B" n="80"/>nec debet pronuntiare, quid Deus possit, quid non 
+      <lb ed="#B" n="81"/>possit, cum plus praestare Deus possit quam 
+      no<lb ed="#B" n="82" break="no"/>ntelligimus (Eph. 3, v. 20), ita quoque non potes 
+      <lb ed="#B" n="83"/>nec debet pronuntiare, quid Deus sit, quid non sit 
+      <lb ed="#B" n="84"/>ed in hisce definiendis lucem verbi unice debet 
+      se<lb ed="#B" n="85" break="no"/>qui. Finitus est intellectus noster, ergo non debe 
+      <lb ed="#B" n="86"/>libi sumere judicium, quousque infinita Dei potentis 
+      <lb ed="#B" n="87"/>se extendat, et quod in divina essentia personae 
+      <lb ed="#B" n="88"/>sint vel non sint. 8. ex apostolica jussione. 2. Cor 
+      <lb ed="#B" n="89"/>10, v. 5. captivantes rationem sub fidei obsequium 
+      <lb ed="#B" n="90"/>Si ratio contra fidei mysteria in Scripturis revelata 
+      <lb ed="#B" n="91"/>ex suis principiis disputans esset audienda, utique 
+      <lb ed="#B" n="92"/>non foret opus eandem captivare, cui enim liberum 
+      <lb ed="#B" n="93"/>permittitur, ut in suis logismis pro libitu discurrat 
+      <lb ed="#B" n="94"/>lli non est injiciendum captivationis vinculum 
+      <lb ed="#B" n="95"/>Sed posterius requirit apostolus, cum quo congruit 
+      <lb ed="#B" n="96"/>illud Salomonis Prov. 3, v. 5: Fide Domino ex tote 
+      <lb ed="#B" n="97"/>corde et intelligentiae tuae, ne innitaris. 9. ex 
+      mul<lb ed="#B" n="98" break="no"/>tiplici ad absurdum deductione. Si ratio contra 
+      <lb ed="#B" n="99"/>rinitatis mysterium ex suis principiis disputanm 
+      <lb ed="#B" n="100"/>audienda, consequens erit: i. quod ultima fidei 
+      <lb ed="#B" n="101"/>nostrae resolutio fieri debeat non in 
+      Scriptura<lb ed="#B" n="102" break="no"/>sacras, sed in judicium nostrae rationis, quippe cui 
+      <lb ed="#B" n="103"/>le ipsis Scripturarum assertionibus judicium permit 
+      <lb ed="#B" n="104"/>itur; 2. rationis judicio plus tribuetur quam judicio 
+      <lb ed="#B" n="105"/>Spiritus s., quod in Scripturis revelatum ac 
+      propo<lb ed="#B" n="106" break="no"/>situm; 3. diversa disciplinarum genera ac principis 
+      <lb ed="#B" n="107"/>pessima quadam usëei confundentur; 4. rationi 
+      hu<lb ed="#B" n="108" break="no"/>manae talis ac tanta praerogativa dabitur, ut supra 
+      <lb ed="#B" n="109"/>angelorum intellectum elevetur, quia ipsimet desi 
+      <lb ed="#B" n="110"/>derant παρακύψαι in evangelii mysteria (1. Petr. 2. 
+      <lb ed="#B" n="111"/>v. 12); 5. omnia fidei mysteria uno ictu atque 
+      im<lb ed="#B" n="112" break="no"/>petu subruentur, quia par et aequalis est omnium 
+      <lb ed="#B" n="113"/>ratio in eo, quod captum humani intellectus 
+      tran<lb ed="#B" n="114" break="no"/>scendant, ete. Vid. D. D. Meisn. in consid. theo 
+      <lb ed="#B" n="115"/>Photin. p. 311 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e3620">
+               <lb ed="#B" n="116"/>34. 10. Ex unanimi patrum testificatione. Multa 
+      <lb ed="#B" n="117"/>in hanc sententiam ex patribus adduximus in loe 
+      <lb ed="#B" n="118"/>le interp. Script. §. 170, quibus paucula hoc loco 
+      <lb ed="#B" n="119"/>addimus. Tatianus contra gentes: τὰ τῆς ἡμετέρας 
+      <!--457.xml-->
+      <pb ed="#B" n="384"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>παιδείας ἐσὶν ἀνωτέρω τῆς κοσμικῆς καταλήψεως. 
+      <lb ed="#B" n="2"/>Justin. In confut. Graecor. quaest. p. 163: οὐ χρὶ 
+      <lb ed="#B" n="3"/>τοῖς ἡμετέροις ἐνθυμήμασι μετρεῖν του θεοῦ τὰ ἔργα 
+      <lb ed="#B" n="4"/>ὑπὲρ νοῦν γὰρ καὶ αἴσθησιν καὶ λόγον τοῦ θεοῖ 
+      <lb ed="#B" n="5"/>ἔργα. In ἐκθ. πίστεως p. 3δ4: ὅταν ἐγὼ ζητῶν ἐπαπὸ 
+      <lb ed="#B" n="6"/>ρήσω, 1ότε τοῦ μύσιηρίου τῶν Χρισμανῶν ἀνακράζω τ 
+      <lb ed="#B" n="7"/>θαῦμα, ὅτι ὑπὲρ νουν, ὑπὲρ λόγον, ὑπὲρ κατάληψιν 
+      <lb ed="#B" n="8"/>κτισιῆς σύσεως τὰ ἡμέτερα, ὅταν δὲ καί σοι κὰ κοιαῦτο 
+      <lb ed="#B" n="9"/>σητοῦντι ἀπορία τις ἐπείῃ, πρόφερε 1οῖς τηνουμένοι. 
+      <lb ed="#B" n="10"/>ἐτοίμην λύσιν τῆν πίστιν. P. 297: Quomodo trinita 
+      <lb ed="#B" n="11"/>in unitate et in trinitate unitas neque ex aliis per 
+      <lb ed="#B" n="12"/>cunctari ipse velim neque mihi ipsi persuadere pos 
+      <lb ed="#B" n="13"/>sim rerum arcanarum et ineffabilium rationem u 
+      <lb ed="#B" n="14"/>lingua lutea et carnè squalida proferre audeam 
+      <lb ed="#B" n="15"/>Greg. Nazianz. in orat. in laudem Neronis: Ho 
+      <lb ed="#B" n="16"/>Pater et Filius et Spiritus s. commune habent, quod mi 
+      <lb ed="#B" n="17"/>nime creati sunt quodque divinitate junguntur. Hac 
+      <lb ed="#B" n="18"/>proprietate inter ce distinguuntur, quod Pater inge 
+      <lb ed="#B" n="19"/>nitus, Filius genitus, Spiritus s. procedens. Quods 
+      <lb ed="#B" n="20"/>nodum quaerere pergis, quid iis relicturus es, quod 
+      <lb ed="#B" n="21"/>solos mutuo se cognoscere atque a se mutuo cognosco 
+      <lb ed="#B" n="22"/>Scriptura testatur aut iis etiam nostrum, quibus in 
+      <lb ed="#B" n="23"/>altero aevo divinitus illustrari contingit. Idem in 
+      <lb ed="#B" n="24"/>orat. de fide: Haec est causa erroris, haec origo 
+      <lb ed="#B" n="25"/>haereseos Arianae, dum non intelligunt Dei virtutem 
+      <lb ed="#B" n="26"/>neque tanti cacramenti dispositionem cognoscunt, u 
+      <lb ed="#B" n="27"/>Deum humanis conditionibus comparent. 
+      Proclu<lb ed="#B" n="28" break="no"/>archiep. Constant. serm. de fide ad Armenios p. 31. 
+      <lb ed="#B" n="29"/>Syllogismos rationis, qui fidei articulis ab 
+      haerelici<lb ed="#B" n="30" break="no"/>ppponuntur, vocat ἀράχνης ἀσθενεστέρους et addi 
+      <lb ed="#B" n="31"/>λημῶν ὁφθαλμὸς ἡλίου ἀκτίνας καθαρῶς οὐ δέχεια 
+      <lb ed="#B" n="32"/>καὶ ἀσθένουσα διάνοια πίστεως οὐ πρόσίεται ὕννος 
+      <lb ed="#B" n="33"/>Lippus oculus solis radios non recipit et mens in 
+      <lb ed="#B" n="34"/>firma sublimitatem fidei non comprehendit. Homil. 
+      <lb ed="#B" n="35"/>in transfig. Dom. p. 86: 1ἰ λογισμοῖς ἀνθρωπίνοις καθ¬ 
+      <lb ed="#B" n="36"/>υβρίζεις τα θεῖα; Cur humanis ratiocinationibus 
+      re<lb ed="#B" n="37" break="no"/>divinas infamas? Chrysost. homil. 5. in 1. Tim. 
+      <lb ed="#B" n="38"/>Nihil commune habet humana ratio cum divinis col 
+      <lb ed="#B" n="39"/>lata, xml:ideoque blaephemia est rationibus velle divine 
+      <lb ed="#B" n="40"/>discutere. August. 12. de c. D. c. 17: Ilas argi 
+      <lb ed="#B" n="41"/>mentationes si ratio refutare non poeset, fides 
+      irr<lb ed="#B" n="42" break="no"/>dere deberet. In enchir. c. 4: Haec sunt defendendo 
+      <lb ed="#B" n="43"/>ratione, quae vel a ceneibus corporeis inchoata vel 
+      <lb ed="#B" n="44"/>ab intelligentia mentis inventa. Quae autem nec 
+      <lb ed="#B" n="45"/>corporeo sensu acperti sumus nec mente assequi vo 
+      <lb ed="#B" n="46"/>luimus aut valemus, eis sine ulla dubitatione cro 
+      <lb ed="#B" n="47"/>denda sunt testibus, a quibus ea, quae divina vocar. 
+      <lb ed="#B" n="48"/>meruit Scriptura, confecta est. Bernh. epist. 190. 
+      <lb ed="#B" n="49"/>Quid magis contra rationem quam ratione rationem 
+      <lb ed="#B" n="50"/>conari transscendore? et quid magis contra fidem, 
+      <lb ed="#B" n="51"/>quam credere nolle, quod non possis ratione attingere. 
+      <lb ed="#B" n="52"/>35. 11. Ex, ipsa advereariorum confessione 
+      <lb ed="#B" n="53"/>Quamvis enim mysterium trinitatis argumentis ex 
+      <lb ed="#B" n="54"/>ratione petitis impugnare non desinant, tamen multi 
+      <lb ed="#B" n="55"/>modis huic ipsorum praxi repugnat theoria: 1. quia 
+      <lb ed="#B" n="56"/>docent, colam Scripturam sacram esse fidei normam 
+      <lb ed="#B" n="57"/>ac regulam. Schmaltz. contra Scopper. p. 3: Solo 
+      <lb ed="#B" n="58"/>Scriptura eot fidei norma et divina tantum auctori 
+      <lb ed="#B" n="59"/>tate etandum quoad credenda. Id. in praefat 
+      <!--457.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>cont. Frantz. Suis propriis nititur Christi religis 
+      <lb ed="#B" n="61"/>principiis, nec alieni operis ullo nostro indiges 
+      <lb ed="#B" n="62"/>Pisecius in praefat. resp. ad rationes Campiam 
+      <lb ed="#B" n="63"/>Alii: Veritas divinorum non a natura, non a sensus 
+      <lb ed="#B" n="64"/>non a theorematis physicis, sed a Deo, sed ab 
+      ora<lb ed="#B" n="65" break="no"/>culis et legibus divinis dependet. Et postea: Ad 
+      <lb ed="#B" n="66"/>egum divinarum firmam et colidam auctoritatem 
+      <lb ed="#B" n="67"/>quicquid est controversiarum, in religione Christiana 
+      <lb ed="#B" n="68"/>capendimus. Atqui si sola Scriptura est credendorum 
+      <lb ed="#B" n="69"/>regula, si in divinis divina tantum auctoritate 
+      stan<lb ed="#B" n="70" break="no"/>dum, cur igitur rationis judicium in divinis mysterii 
+      <lb ed="#B" n="71"/>sequuntur? 2. negant Dei judicia ratione discutienda 
+      <lb ed="#B" n="72"/>2sso. Socin. in solut. scrupul. resp. ad 11. p. 40. 
+      <lb ed="#B" n="73"/>Non sunt Dei imperscrutabilia judicia humanae 
+      ra<lb ed="#B" n="74" break="no"/>ionis modulo metienda. Idem adv. Mennonitas p. 77. 
+      <lb ed="#B" n="75"/>Natura humana eua sponte fragilis et imbecillio eat 
+      <lb ed="#B" n="76"/>in iis exsequendis, quae bona sunt et Deo accepta, 
+      <lb ed="#B" n="77"/>quippe quibus plerumque non appetitus modo, qui in 
+      <lb ed="#B" n="78"/>homine vehementissimus est, sed ex parte etiam ratio 
+      <lb ed="#B" n="79"/>pea repugnet, cujus rei tectimonium evidentissimum 
+      <lb ed="#B" n="80"/>in ipso Adamo habemus ejusque conjuge, qui 
+      ante<lb ed="#B" n="81" break="no"/>quam peccassent et ita antequam labem aliquam ex 
+      <lb ed="#B" n="82"/>peccato contraxissent, adeo tamen fragiles et 
+      imbe<lb ed="#B" n="83" break="no"/>cilles fuerunt, ut spreta aperta Dei monitione ex 
+      <lb ed="#B" n="84"/>vetita sibi arbore partim appetitu impulsi, partim 
+      <lb ed="#B" n="85"/>atione persuasi comederint ac gravissime pecca 
+      <lb ed="#B" n="86"/>perint. Socin. ad object. Cutteni p. 92: Nos 
+      viri<lb ed="#B" n="87" break="no"/>bus naturalibus parum in divinis rebus tribuimus 
+      <lb ed="#B" n="88"/>scientes teste apostolo hominem animalem non per 
+      <lb ed="#B" n="89"/>cipere, quae eunt Spiritus Dei. Sommerus in refut 
+      <lb ed="#B" n="90"/>2. Carolini p. 59. b: Non sunt Dei actiones ad ho 
+      <lb ed="#B" n="91"/>minum regulas examinandae. Atqui si Dei judicia 
+      <lb ed="#B" n="92"/>et actiones non sunt ad regulas rationis examinanda 
+      <lb ed="#B" n="93"/>quanto minus ipsa Dei essentia rationis modulo erit 
+      <lb ed="#B" n="94"/>metienda; 3. rationi judicium in divinis quandoque 
+      <lb ed="#B" n="95"/>lerogant. Eniedin. in loc. Script. p. 178: Neme 
+      <lb ed="#B" n="96"/>ilienas et philosophicas contemplationes ad 
+      simpli<lb ed="#B" n="97" break="no"/>cem apostolorum cermonem et doctrinam afferat 
+      <lb ed="#B" n="98"/>Praefator Eniedini: In re tam ardua non hominis 
+      <lb ed="#B" n="99"/>ratiocinationibus, sed imprimis expresso opus est 
+      <lb ed="#B" n="100"/>verbo juxta illud: ad legem et oraculum, in lege quio 
+      <lb ed="#B" n="101"/>scriptum est. Idem in defens. animadv. contra 
+      Eu<lb ed="#B" n="102" break="no"/>tropium p. 49: Ea Christiano homini de Deo cre 
+      <lb ed="#B" n="103"/>denda eunt, licet rationi minus consentanea, quae ab 
+      <lb ed="#B" n="104"/>spso Deo non quidem patefacta esse putantur, sed 
+      <lb ed="#B" n="105"/>evera sunt patefacta. Ostorod in Instit. c. 29. 
+      <lb ed="#B" n="106"/>p. 196: Nimis periculosum foret rem tanti 
+      mo<lb ed="#B" n="107" break="no"/>nenti (quod haeretici capitaliter puniendi) hominis 
+      <lb ed="#B" n="108"/>vitam, imo acternam salutem concernentem humanae 
+      <lb ed="#B" n="109"/>rationi et judicio committere. Idem contra Tradel 
+      <lb ed="#B" n="110"/>part. I. c. 7, p. 53: in ultimo argumento doctor 
+      <lb ed="#B" n="111"/>passus cet se a ratione seduci, sed debuisset h.l) 
+      <lb ed="#B" n="112"/>physica poetponere. Schmaltz. de Christi divinit 
+      <lb ed="#B" n="113"/>p. 9l. 92: Desinant in hujusmodi rebus in modos 
+      <lb ed="#B" n="114"/>inquirere, quibus Deua usus est et quos ut 
+      ignore<lb ed="#B" n="115" break="no"/>mus, cum non sine causa voluisse etatuendum est. 
+      <lb ed="#B" n="116"/>Discant acquiescere in testimoniis eacrarum 
+      litera<lb ed="#B" n="117" break="no"/>tum manifestis. Idem contra Frantz. p. 165: 
+      Osten<lb ed="#B" n="118" break="no"/>dat nobis Franlzius ex eacris literis euas opiniones 
+      <!--458.xml-->
+      <pb ed="#B" n="385"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>et nos eas pro certis recipiemus, etiamsi rationem 
+      <lb ed="#B" n="2"/>nostram superent. Johan. Lycinius Namisloviensi 
+      <lb ed="#B" n="3"/>Polonus in paraenesi Polonica et Latina ad ministros 
+      <lb ed="#B" n="4"/>evangel. pro ineunda concordia anno 1597. edita 
+      <lb ed="#B" n="5"/>Fateor rationem omnibus viribus coërcendam, tum 
+      <lb ed="#B" n="6"/>2. videlicet, cum manifestissimis verbis aliquid in Scri 
+      <lb ed="#B" n="7"/>ptura dicitur, quod vel supra vel contra rationem 
+      <lb ed="#B" n="8"/>sit. Ibi ratio subsistat oportet et humiliter dictis ac 
+      <lb ed="#B" n="9"/>quiescat nec inquirat, quomodo xml:id fieri potuerit. Ibid 
+      <lb ed="#B" n="10"/>id declarat exemplo articuli de creatione omnium ex 
+      <lb ed="#B" n="11"/>nihilo. Atqui si ea, quae ex sacris literis demor 
+      <lb ed="#B" n="12"/>strari possunt, credenda sunt, licet ratione compro 
+      <lb ed="#B" n="13"/>hendi nequeant, utique mysterium trinitatis, quod 
+      <lb ed="#B" n="14"/>ex sacris literis demonstrare parati sumus, non era 
+      <lb ed="#B" n="15"/>argumentis ex ratione petitis oppugnandum; 4. qui 
+      <lb ed="#B" n="16"/>dam ex ipsis negant naturalem Dei notitiam, Socir 
+      <lb ed="#B" n="17"/>in praelect. c. 2. p. 3. in resp. ad object. Cuten 
+      <lb ed="#B" n="18"/>p. 86. Ostorod. instit. e. 1. p. 10. Atqui si ratio 
+      <lb ed="#B" n="19"/>non potest ad aliqualem Dei notitiam suis viribu 
+      <lb ed="#B" n="20"/>assurgere, eccur judicium de summis fidei mysteriis 
+      <lb ed="#B" n="21"/>illi velimus tribuere? 5. negant a naturalibus ad 
+      <lb ed="#B" n="22"/>supernaturalia, ab humanis ad divina argumentum 
+      <lb ed="#B" n="23"/>duci posse. Schmaltz. in exam. 157. errorum er 
+      <lb ed="#B" n="24"/>91. p. 27: Urget Smiglecius Christum non posse 
+      <lb ed="#B" n="25"/>appellari filium Dei secundum carnem, h. e. pro 
+      <lb ed="#B" n="26"/>pter conceptionem, quia ad filium constituendus 
+      <lb ed="#B" n="27"/>requiratur, ut sit de substantia Patris. Ego xml:id 
+      <lb ed="#B" n="28"/>veriem esse fateor in cursu quotidiano, cum qui 
+      <lb ed="#B" n="29"/>Pater alicujus est naturaliter, dico tamen poss 
+      <lb ed="#B" n="30"/>etiam eum alicujus filium appellari, qui ab eo q 
+      <lb ed="#B" n="31"/>neratur et Patrem vicissim dici alicujus posse eum 
+      <lb ed="#B" n="32"/>qui ad alicujus generationem aliquid adjicit, lico 
+      <lb ed="#B" n="33"/>id, quod ad ejus generationem adjicit, non sit a 
+      <lb ed="#B" n="34"/>ejus substantia. Haec omnia nunquam poterum 
+      <lb ed="#B" n="35"/>cum hypothesi illa, quam in controversia de 
+      trini<lb ed="#B" n="36" break="no"/>tatis mysterio arcte tenent, conciliari 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e3982">
+               <lb ed="#B" n="37"/>36. Antithegis. Quod olim Tertullianus lib. de 
+      <lb ed="#B" n="38"/>resurr. carnis c. 3, p. 315. de omnibus haeretici 
+      <lb ed="#B" n="39"/>dixit: Aufer illis quaecunque cum ethnicis 
+      capiun<lb ed="#B" n="40" break="no"/>ut de Scripturis solis quaestiones suas sistant, e 
+      <lb ed="#B" n="41"/>stare non possunt; xml:idem de Photinianis jure merite 
+      <lb ed="#B" n="42"/>que dicimus. Aufer illis, quae cum ethnicis sapiunt 
+      <lb ed="#B" n="43"/>quae ex rationis pharetra contra trinitatis mysterium 
+      <lb ed="#B" n="44"/>tela depromunt, ut ex Scripturis assertiones sua 
+      <lb ed="#B" n="45"/>unice confirment, et stare non poterunt. Quae enim 
+      <lb ed="#B" n="46"/>machinae, qui arietes, quos labefactando trinitati 
+      <lb ed="#B" n="47"/>dogmati adhibent? uno verbo judicium corrupta 
+      <lb ed="#B" n="48"/>rationis Socinus in lib. quod evangelici p. 28. tr. 
+      <lb ed="#B" n="49"/>nitatem impugnaturus in prima acie collocat ho 
+      <lb ed="#B" n="50"/>argumentum, quod dogma illud pugnet cum ratione 
+      <lb ed="#B" n="51"/>Quoci attinet (inquit) communem sensum, nemo es 
+      <lb ed="#B" n="52"/>tam stolidus, qui non videat, pugnare haec inter 
+      <lb ed="#B" n="53"/>88 illum Deum nostrum coeli terraeque creatores 
+      <lb ed="#B" n="54"/>Esse unum tantum numero et tamen tres esse, quorum 
+      <lb ed="#B" n="55"/>unusquisque eit ille Deus noster. P. 29: Tam 
+      Pon<lb ed="#B" n="56" break="no"/>taficii quam Evangelici fateri coacti sunt, mysterius 
+      <lb ed="#B" n="57"/>ut ipsi vocant trinitatis, h. e. trium in uno Deo per 
+      <lb ed="#B" n="58"/>sonarum, omnem humanum captum excedere. Sed 
+      <lb ed="#B" n="59"/>melius dicerent, si, quemadmodum ex ipsis quidam 
+      <lb ed="#B" n="60"/>Jortasse loquuntur, faterentur non modo cupra, sed 
+      <!--458.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>contra omnem humanum captum illud esse. De 
+      <lb ed="#B" n="62"/>auctor. Script. p. 51: Nullo modo verum esse potest 
+      <lb ed="#B" n="63"/>cui ratio prorsus sensusque communis repuquant 
+      <lb ed="#B" n="64"/>Catech. Racov. p. 37: Rationi adversatur trinitatis 
+      <lb ed="#B" n="65"/>dogma. Theodos. Schimberg. in praefat. refutationi 
+      <lb ed="#B" n="66"/>*P. Carolini a Joh. Sommero adornatae et ann. 1582. 
+      <lb ed="#B" n="67"/>Ingolstadii ut fert titulus excusae. 3. Fides 
+      nun<lb ed="#B" n="68" break="no"/>quam amplectitur impossibilia mentis, unde mani 
+      <lb ed="#B" n="69"/>festum est, trinitatem et divinitatem Filii non ess 
+      <lb ed="#B" n="70"/>articulos fidei veros, quia sunt impossibilia mentis, 
+      <lb ed="#B" n="71"/>ideo in rei veritate sunt dogmata blasphema et 
+      hor<lb ed="#B" n="72" break="no"/>renda. Similia occurrunt apud Schmaltz in refut 
+      <lb ed="#B" n="73"/>Frantz. p. 60. 137. 165. 372. 421. Goslavium in 
+      <lb ed="#B" n="74"/>praefat. tract. contra Kecker. Argumenta quae pro 
+      <lb ed="#B" n="75"/>ferunt in praelect. de Photin. examinavimus. 
+      Theo<lb ed="#B" n="76" break="no"/>rema ipsis perquam familiare, quod mysteria fidei 
+      <lb ed="#B" n="77"/>non sint contra, sed supra rationem, quomodo 
+      acci<lb ed="#B" n="78" break="no"/>piendum et explicandum sit ostendimus disp. 10. de 
+      <lb ed="#B" n="79"/>glor. Dei §. 13. 14. et 15. Hoc loco examinabimus. 
+      <lb ed="#B" n="80"/>distinetionem Socini in defensionem animad. ad 
+      <lb ed="#B" n="81"/>versus Eutropium c. 3, p. 50, qua omnibus 
+      argumen<lb ed="#B" n="82" break="no"/>tis pro nostra thesi adductis satisfacere conatur. Longe 
+      <lb ed="#B" n="83"/>aliud est, inquit, quidpiam mente non capere et ca 
+      <lb ed="#B" n="84"/>pere mente quippiam esse non posse, seu aliquid 
+      <lb ed="#B" n="85"/>negare, quia xml:id apprehendere nequeas et xml:idcirco ali 
+      <lb ed="#B" n="86"/>quid negare, quia xml:id esse non posse deprehendas. 
+      <lb ed="#B" n="87"/>Alterum omnino stultum est, ubi Dei testimonium 
+      <lb ed="#B" n="88"/>ea de re non obscurum profertur. Alterum vero 
+      tan<lb ed="#B" n="89" break="no"/>tam vim habet, ut divina ipsa testimonia, quantum 
+      <lb ed="#B" n="90"/>vis prima facie aperta aliter interpretari et permiti 
+      <lb ed="#B" n="91"/>tat et cogat, quam ipsa verba sonent. Resp. 1. my 
+      <lb ed="#B" n="92"/>steria fidei non solum eo sensu ac respectu sunt 
+      <lb ed="#B" n="93"/>supra rationem, quod ratio citra revelationem verbi 
+      <lb ed="#B" n="94"/>ad eorum notitiam non possit adspirare, sed etiam 
+      <lb ed="#B" n="95"/>quod posita verbi revelatione nihilo tamen minus 
+      <lb ed="#B" n="96"/>ratio non possit eadem comprehendere, quia 1. Cor. 2. 
+      <lb ed="#B" n="97"/>v. 14. non solum τὸ γνῶναι, sed etiam τὸ δέχεσθα 
+      <lb ed="#B" n="98"/>spiritualia homini animali denegatur, ac si ratio de 
+      <lb ed="#B" n="99"/>illis velit judicium ferre, judicat ea esse μωρίαν 
+      <lb ed="#B" n="100"/>2. Id quod ex natura mysteriorum apparet, sunt enim 
+      <lb ed="#B" n="101"/>supra rationem ὑπὲρ λόγον, ὑπὲρ νοῦν, ὑπὲρ πᾶσα 
+      <lb ed="#B" n="102"/>κατάληψιν, proponuntur in lumine gratiae, non in 
+      <lb ed="#B" n="103"/>lumine naturae, docentur in schola Spiritus s., non 
+      <lb ed="#B" n="104"/>in schola sapientum hujus seculi, procedunt ex font. 
+      <lb ed="#B" n="105"/>infinitae sapientiae divinae, non ex rivulis scientiae 
+      <lb ed="#B" n="106"/>humanae. 3. Proinde ratio non debet de illis judi 
+      <lb ed="#B" n="107"/>cium sibi sumere, nec juxta regulam suorum prim 
+      <lb ed="#B" n="108"/>cipiorum ea examinare. Quae enim ignorat de illis 
+      <lb ed="#B" n="109"/>nec affirmare nec negare quicquam debet, sed ac 
+      <lb ed="#B" n="110"/>superiorem scholam Spiritus s. in qua traduntur 
+      <lb ed="#B" n="111"/>eadem amandare. 4. Quod si judicium sibi de illis 
+      <lb ed="#B" n="112"/>sumat et ex suis principiis quicquam de illis pro 
+      <lb ed="#B" n="113"/>nuntiare praesumat, perverso et praepostero ordine 
+      <lb ed="#B" n="114"/>agit, quae enim supra rationem ex rationis legibus 
+      <lb ed="#B" n="115"/>non sunt judicanda, quae supra naturam, ex naturae 
+      <lb ed="#B" n="116"/>legibus non sunt aestimanda. 5. Membra igitur So 
+      <lb ed="#B" n="117"/>cinianae distinctionis non sunt sibi invicem ἀντιδιηρη¬ 
+      <lb ed="#B" n="118"/>μένως opposita, sed potius subordinata, ac unum 
+      <lb ed="#B" n="119"/>eorum sequitur ex altero, imo ineludit alterum. Quia 
+      <lb ed="#B" n="120"/>mysteria fidei non sunt propterea neganda, quod ra¬ 
+      <!--459.xml-->
+      <pb ed="#B" n="386"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tione ea apprehendere ac mente eadem capere 
+      ne<lb ed="#B" n="2" break="no"/>queas (ut Socinus concedit), ergo etiam non sunt 
+      <lb ed="#B" n="3"/>propterea neganda, quia ea esse non posse depreher 
+      <lb ed="#B" n="4"/>das, h. e. quia ex principiis rationis aestimata viden 
+      <lb ed="#B" n="5"/>tur impossibilia, quae enim παράδοξα et ἀδύνατε 
+      <lb ed="#B" n="6"/>judicio rationis, ea non sunt statim coram Deo παρά 
+      <lb ed="#B" n="7"/>δοξα καὶ ἀδύναια Genes. 18, v. 14. Zach. 8, v. 6 
+      <lb ed="#B" n="8"/>Matth. 19, v. 26. Luc. 1, v. 38. c. 18, v. 26. 6. 
+      Bre<lb ed="#B" n="9" break="no"/>viter, si mysteria sunt supra rationem, non possunt 
+      <lb ed="#B" n="10"/>capi a mente et ratione, ut Socinus concedit. Si non 
+      <lb ed="#B" n="11"/>possunt capi a ratione, ratio non debet de illis judi 
+      <lb ed="#B" n="12"/>cium sumere, an talia esse possint necne? Sin jud 
+      <lb ed="#B" n="13"/>cium sibi sumat, ψευδωνύμου γνώσεως ἀντιθέσεις 
+      for<lb ed="#B" n="14" break="no"/>mat (1. Tim. 6. v. 20), adeoque ex arena funiculos 
+      <lb ed="#B" n="15"/>nectit. 
+      </p>
+            <p xml:id="zef3dd-d1e720-d1e4210">
+               <lb ed="#B" n="16"/>37. Usus praeticus est exhortatorius, ut pio 
+      stu<lb ed="#B" n="17" break="no"/>dio mysterium trinitatis ex proprio theologiae 
+      prin<lb ed="#B" n="18" break="no"/>cipio ex Scriptura scilicet sacra perdiscamus, nec 
+      <lb ed="#B" n="19"/>plausibilibus humanae rationis argumentis ab ejus 
+      <lb ed="#B" n="20"/>confessione nos dimoveri patiamur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

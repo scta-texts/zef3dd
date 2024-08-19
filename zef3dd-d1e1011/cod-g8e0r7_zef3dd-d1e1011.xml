@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="516"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e1011"><!-- zef3dd-l4c8 -->
+            <head xml:id="zef3dd-d1e1011-Hd1e101">Caput 8</head>
+            <head xml:id="zef3dd-d1e1011-Hd1e103" type="question-title">De communicatione naturarum</head>
+            <p xml:id="zef3dd-d1e1011-d1e106">
+      <!--623.xml-->
+               <pb ed="#B" n="516"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>CAPUT VIII 
+      <lb ed="#B" n="2"/>DE COMMUNICATIONE 
+      NATU<lb ed="#B" n="3" break="no"/>RARUM 
+  </p>
+            <p xml:id="zef3dd-d1e1011-d1e122">
+               <lb ed="#B" n="4"/>148. Thesis: Ex unione personali oritur natura 
+      <lb ed="#B" n="5"/>rum communicatio, propter quam concretum unius 
+      <lb ed="#B" n="6"/>naturae de concreto alterius naturae praedicatur. 
+      <lb ed="#B" n="7"/>Exθεσι5: Communicationem ex unione personali or 
+      <lb ed="#B" n="8"/>tam diximus esse duplicem, videlicet tum naturarur 
+      <lb ed="#B" n="9"/>tum eorum, quae naturas consequuntur, xml:idiomatur 
+      <lb ed="#B" n="10"/>scilicet naturalium et operationum. De priore 
+      ho<lb ed="#B" n="11" break="no"/>loco agimus, de posteriore in sequentibus. Quidam 
+      <lb ed="#B" n="12"/>addunt communicationem hypostaseos, qua Aόγo 
+      <lb ed="#B" n="13"/>assumendo naturam humanam propriam suam per 
+      <lb ed="#B" n="14"/>sonam illi communicavit, ut in ea et per eam sub 
+      <lb ed="#B" n="15"/>sistat. Nos hanc hypostaseos communicationem 
+      mi<lb ed="#B" n="16" break="no"/>nime negamus, interim ad formale potius quam 
+      a<lb ed="#B" n="17" break="no"/>consequens unionis eam pertinere statuimus. 
+      Cun<lb ed="#B" n="18" break="no"/>enim Verbum carnem factum esse sit Λόγου ὑπόστα 
+      <lb ed="#B" n="19"/>τεν factam esse carnis ὑπόστασιν, et vero ὑπόστασις 
+      <lb ed="#B" n="20"/>Verbi non desierit esse Aόγου propria, nec Λογος 
+      <lb ed="#B" n="21"/>suam ὑόσιασιν in carnem essentialiter transfuderit. 
+      <lb ed="#B" n="22"/>relinquitur, quod Λόγου ὑπόσιασις facta sit carnis 
+      <lb ed="#B" n="23"/>ὑπόστασις per communicationem, ac proinde ipsum 
+      <lb ed="#B" n="24"/>formale unionis in illa ὑποστάσεως communication 
+      <lb ed="#B" n="25"/>consistere non immerito censetur. 
+      Communicati<lb ed="#B" n="26" break="no"/>naturarum in persona Christi est arctissima et in 
+      <lb ed="#B" n="27"/>tima divinae naturae 10ῦ Aόγyoυ et assumtae huma 
+      <lb ed="#B" n="28"/>nae κοινωνία ac συνδύασις, per quam ὁ Λόγος a 
+      <lb ed="#B" n="29"/>sumens naturam humanam personaliter assumtam 
+      <lb ed="#B" n="30"/>sibique unitam intima et profundissima περιχωρήσε 
+      <lb ed="#B" n="31"/>permeat, perficit, inhabitat sibique appropriat, ut 
+      <lb ed="#B" n="32"/>ex utraque sibi invicem communicante fiat unum 
+      <lb ed="#B" n="33"/>incommunicabile, una scilicet persona, ac tales 
+      resul<lb ed="#B" n="34" break="no"/>tent praedicationes, per quas concretum unius 
+      na<lb ed="#B" n="35" break="no"/>turae de concreto alterius naturae vere et realiter 
+      <lb ed="#B" n="36"/>dicatur 
+      </p>
+            <p xml:id="zef3dd-d1e1011-d1e196">
+               <lb ed="#B" n="37"/>149. Hanc naturarum in Christo communicationem 
+      <lb ed="#B" n="38"/>demonstramus: 1. ex dictio Scripturae. Col. 2, v. 9. 
+      <lb ed="#B" n="39"/>In Christo habitat tota plenitudo deitatis σωματι 
+      <lb ed="#B" n="40"/>κῶς. In quo tota plenitudo deitatis habitat, inte 
+      <lb ed="#B" n="41"/>illud et inter divinam naturam datur communicatio 
+      <lb ed="#B" n="42"/>In carne Christi sive in natura humana assumta 
+      <lb ed="#B" n="43"/>habitat tota plenitudo deitatis. Ergo inter naturan 
+      <lb ed="#B" n="44"/>humanam assumtam et inter naturam divinam 1οῦ 
+<lb ed="#B" n="45"/>1όγου datur communicatio. Major patet: 1. xml:id. 
+      <lb ed="#B" n="46"/>quod alteri sic inhabitat, ut sit ejusdem ἐντελέχεια 
+      <lb ed="#B" n="47"/>eum illo quoque habitaculum quandam communica 
+      <lb ed="#B" n="48"/>tionem obtinet; 2. habitatio Dei in sanctis tum in 
+      <lb ed="#B" n="49"/>hac tum in futura vita non est sine κοινωνίᾳ, erg 
+      <lb ed="#B" n="50"/>multo magis inhabitatio τοῦ Λόγου in carne assumta 
+      <lb ed="#B" n="51"/>non erit sine communicatione; 3. tota plenitudo dei 
+      <lb ed="#B" n="52"/>tatis, cum sit purissimus ac merissimus actus, non 
+      <lb ed="#B" n="53"/>potest in altero sine vera et reali communicatione 
+      <lb ed="#B" n="54"/>habitare; 4. in quo deitatis plenitudo habitat, illud 
+      <lb ed="#B" n="55"/>deitatem per κατοίκησιν personalem quasi possidet 
+      <lb ed="#B" n="56"/>Assumtum probatur: 1. ex voce σωματικως, quae 
+      <lb ed="#B" n="57"/>exprimit habitaculum illud, in quo tota plenitudo 
+      <lb ed="#B" n="58"/>deitatis habitat, quod est 1ὸ σῶμα sive assumta na¬ 
+      <!--623.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="59"/>tura humana, quae Joh. 2, v. 21. vocatur templum 
+      <lb ed="#B" n="60"/>Hieronymus in comm: Omnis plenitudo 
+      divina<lb ed="#B" n="61" break="no"/>iaturae in corpore ejus inhabitat. Eodem mod 
+      <lb ed="#B" n="62"/>explicant Athanas. orat. 4. contra Arianos. Cyrill. 
+      <lb ed="#B" n="63"/>libr. 4. in Johann. c. 23. libr. 2. ad Reginas. Leo 
+      <lb ed="#B" n="64"/>perm. 10. de incarnat. de Epiph. hom. 7. Augustin. 
+      <lb ed="#B" n="65"/>epist. 53. in corpore seu in templo. Cyrill. libr. 12. 
+      <lb ed="#B" n="66"/>in Joh. c. 15: Corpus Christi vere est templum, i 
+      <lb ed="#B" n="67"/>pso enim voluit habitare corporaliter tota pleni 
+      <lb ed="#B" n="68"/>udo deitatis. Damascen. libr. 3. c. 6: σωματικῶς 
+      <lb ed="#B" n="69"/>τοῦι᾽ ἔστιν ἐν τῇ σαρκὶ αὐιοῦ; 2. nisi plenitudo dei 
+      <lb ed="#B" n="70"/>tatis in Christo eo modo inhabitare dicatur, ut i 
+      <lb ed="#B" n="71"/>ipsius carne habitet, tollitur discrimen inter 
+      inhabi<lb ed="#B" n="72" break="no"/>tans et habitaculum, ac dicetur divinitas κατοικεῖ 
+      <lb ed="#B" n="73"/>in se ipsa; 3. in Deo omnia sunt essentialia seu in 
+      <lb ed="#B" n="74"/>psa essentia, ergo illius respectu habitans ab 
+      habi<lb ed="#B" n="75" break="no"/>taculo distingui nequit; 4. quicquid de 
+      Christ<lb ed="#B" n="76" break="no"/>praedicatur, vel secundum divinam tantum vel se 
+      <lb ed="#B" n="77"/>eundum humanam tantum vel secundum uframque 
+      <lb ed="#B" n="78"/>naturam de ipso praedicatur. Sed in ipso habitare 
+      <lb ed="#B" n="79"/>totam plenitudinem deitatis non de divina tantum 
+      <lb ed="#B" n="80"/>natura accipi potest, in ea enim nihil habitat, sed 
+      <lb ed="#B" n="81"/>essentia divina xml:identificat sibi omnia, quae sunt in 
+      <lb ed="#B" n="82"/>ea, nec de utraque, ergo de humana natura 
+      acci<lb ed="#B" n="83" break="no"/>piendum, sensu scilicet eo, quod divinae naturae 
+      <lb ed="#B" n="84"/>nabitaculum proprium sit humana natura assumta 
+      <lb ed="#B" n="85"/>5. scopus apostoli est conferre Christum qua 
+      homi<lb ed="#B" n="86" break="no"/>nem cum aliis sanctis, quod longe alio modo, quam 
+      <lb ed="#B" n="87"/>in reliquis sanctis plenitudo deitatis habitet, vide 
+      <lb ed="#B" n="88"/>icet personaliter; 6. fructum illius inhabitationis 
+      <lb ed="#B" n="89"/>spostolus constituit eum, quod Christus secundum 
+      <lb ed="#B" n="90"/>humanam naturam sit ecclesiae caput. Utique ergo 
+      <lb ed="#B" n="91"/>nabitaculum constituit humanam Christi naturam 
+      <lb ed="#B" n="92"/>Perstat ergo conclusio, quod inter naturam divinan 
+      <lb ed="#B" n="93"/>τοῦ Λόγου et inter naturam humanam assumtam 
+      <lb ed="#B" n="94"/>detur communicatio; Hebr. 2, v. 14: sicut pueri, 
+      <lb ed="#B" n="95"/>εεκοινώνηκεν, communicant carni et sanguini, ei 
+      <lb ed="#B" n="96"/>ipse similiter participavit iisdem. Describitur qui 
+      <lb ed="#B" n="97"/>lem in his verbis unio personalis, interim optimi 
+      <lb ed="#B" n="98"/>ratione ex illis colligi potest, unionem illam non 
+      <lb ed="#B" n="99"/>esse factam absque κοινωνίᾳ. Quemadmodum enim 
+      <lb ed="#B" n="100"/>inter carnem et sanguinem, xml:id est, inter corpus et 
+      <lb ed="#B" n="101"/>inter animam in homine est quaedam κοινωνία, ita 
+      <lb ed="#B" n="102"/>uoque inter divinam et humanam naturam in 
+      <lb ed="#B" n="103"/>hristo; Chrysostomus, Theophylactus ac Cyrillus 
+      <lb ed="#B" n="104"/>addunt dictum Joh. 1, v. 14: Verbum caro factum 
+      <lb ed="#B" n="105"/>est, καὶ ἐσκήνωσεν ἐν ἡμῖν, et habitavit in nobis 
+      <lb ed="#B" n="106"/>putat enim posterius membrum esse additum ad 
+      <lb ed="#B" n="107"/>praecavendam naturae confusionem ac insinuandam 
+      <lb ed="#B" n="108"/>earum distinctionem, sic enim illud interpretatur. 
+      <lb ed="#B" n="109"/>quod Aόγος in assumta carne personaliter habitarit. 
+      <lb ed="#B" n="110"/>sicut anima in proprio corpore tanquam tabernaculo 
+      <lb ed="#B" n="111"/>suo dicitur habitare 2. Cor. 5, v. 6. Sed simplicius 
+      <lb ed="#B" n="112"/>est de conversatione tempore exinanitionis inter ho 
+      <lb ed="#B" n="113"/>mines hoc accipere et oeconomicam τῆς σκήνης 
+      signi<lb ed="#B" n="114" break="no"/>ficationem, qua accipitur pro tabernaculis, in quibus 
+      <lb ed="#B" n="115"/>patriarchae et Israëlitae habitabant, ut et polemicam 
+      <lb ed="#B" n="116"/>ae castrensem, quia accipitur pro tentoriis, in qui 
+      <lb ed="#B" n="117"/>bus milites hostibus oppositi degunt, huc 
+      acco<lb ed="#B" n="118" break="no"/>modore.
+</p>
+            <p xml:id="zef3dd-d1e1011-d1e382">
+      <!--624.xml-->
+               <pb ed="#B" n="517"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>150. 2. Ex rationibus: 1. a pari. Si ὑπόστασις 
+      <lb ed="#B" n="2"/>τοῦ Aόγου vere et realiter communicata est assum 
+      <lb ed="#B" n="3"/>tae carni, utique etiam inter divinam naturam 
+      ro<lb ed="#B" n="4" break="no"/>Aöγoυ et humanam assumtam est vera et realis 
+      <lb ed="#B" n="5"/>communicatio. Ratio connexionis est, quia ὑπόστα 
+      <lb ed="#B" n="6"/>σις τοῦ Λόγου et natura divina τοῦ Λόγου non dis 
+      <lb ed="#B" n="7"/>ferunt realiter. Sed ὑnόσιασιν τοῦ Λόγου carni esse 
+      <lb ed="#B" n="8"/>communicatam, jam ante ostendimus. Ergo. S 
+      <lb ed="#B" n="9"/>propria 10ῦ Aόγου communicata sunt assumtae carni 
+      <lb ed="#B" n="10"/>utique etiam naturae divinae communicatio illi facta 
+      <lb ed="#B" n="11"/>cum haec nihil aliud sit, quam xml:idiomata sunt di 
+      <lb ed="#B" n="12"/>vina. Sed verum prius, ut suo loco demonstrabitur 
+      <lb ed="#B" n="13"/>** Potestne σαρκογενεσία τῷ Λόγῳ realiter tribui, u 
+      <lb ed="#B" n="14"/>tamen nulla inter essentiam τοῦ Λόγου et σάρκα in 
+      <lb ed="#B" n="15"/>tercedat vera communio? aut habitabitne tota dei 
+      <lb ed="#B" n="16"/>tatis plenitudo in Christi humanitate absque omn 
+      <lb ed="#B" n="17"/>omnino communione?“* 2. a minori. Si ex unione 
+      <lb ed="#B" n="18"/>spirituali credentium cum Christo et piorum cur 
+      <lb ed="#B" n="19"/>Deo oritur quaedam κοινωνία, multo magis ex union 
+      <lb ed="#B" n="20"/>personali divinae et humanae naturae in Christe 
+      <lb ed="#B" n="21"/>quae priore longe arctior et intimior est, κοινωνίς 
+      <lb ed="#B" n="22"/>orietur. Sed verum prius. 2. Petr. 1, v. 4. Act. 5. 
+      <lb ed="#B" n="23"/>v. 4. pii dicuntur θείας κοινωνοὶ φύσεως; δ. a 
+      con<lb ed="#B" n="24" break="no"/>sequente. Praedicandi modus sequitur modum es 
+      <lb ed="#B" n="25"/>sendi et dici de aliquo requirit inesse. Si in per 
+      <lb ed="#B" n="26"/>sona Christi Deus vere et realiter est ac dicitu 
+      <lb ed="#B" n="27"/>homo, et homo vere ac realiter est ac dicitur Deus 
+      <lb ed="#B" n="28"/>itique inter divinam humanam naturam in Christe 
+      <lb ed="#B" n="29"/>est κοινωνία. Nihil enim vere et realiter potest 
+      al<lb ed="#B" n="30" break="no"/>altero denominari, quod non cum ipso quandam 
+      com<lb ed="#B" n="31" break="no"/>municationem obtineat. Quemadmodum ergo Filius 
+      <lb ed="#B" n="32"/>Dei dicitur filius hominis, quia ὑπόσιασιν suam rea 
+      <lb ed="#B" n="33"/>liter cum assumta humanitate communicavit, et filiu 
+      <lb ed="#B" n="34"/>hominis dicitur Filius Dei, quia assumta natura 
+      hu<lb ed="#B" n="35" break="no"/>mana facta est realiter particeps hypostaseos 
+      Fili<lb ed="#B" n="36" break="no"/>Dei, sic Deus vere et realiter est homo, quia realites 
+      <lb ed="#B" n="37"/>communicavit suam naturam cum assumta 
+      humani<lb ed="#B" n="38" break="no"/>tate, et homo vere et realiter est Deus, quia 
+      hu<lb ed="#B" n="39" break="no"/>mana natura realiter particeps facta est naturae 
+      di<lb ed="#B" n="40" break="no"/>vinae; 4. ex absurdo. Si non est realis naturarum 
+      <lb ed="#B" n="41"/>communicatio, Filius Dei non erit vere et realite 
+      <lb ed="#B" n="42"/>homo, attributa humanitatis non poterunt tribui Filio 
+      <lb ed="#B" n="43"/>Dei, opera Aόγου propria non poterunt de assumta 
+      <lb ed="#B" n="44"/>humanitate vere et realiter praedicari etc., falsum 
+      <lb ed="#B" n="45"/>erit, quod per mortem Filii simus Deo reconciliati 
+      <lb ed="#B" n="46"/>quod sanguis Christi nos mundet a peccato; 5. ea 
+      <lb ed="#B" n="47"/>natura unitorum. Quaecunque unita, ita comparat 
+      <lb ed="#B" n="48"/>sunt, ut eorum unum sit velut ἐντελέχεια, alterum 
+      <lb ed="#B" n="49"/>vero velut δύναμις, ea non uniuntur sine quadam 
+      <lb ed="#B" n="50"/>communicatione. At naturae duae in Christo unitae 
+      <lb ed="#B" n="51"/>sic se habent, ut una earum, divina scilicet sit velut 
+      <lb ed="#B" n="52"/>ἐντελέχεια, humana vero velut δύναμις. Ergo 6. e. 
+      <lb ed="#B" n="53"/>περιχωρήει mutua. Quaecunque ita sunt unita, ut 
+      <lb ed="#B" n="54"/>inter ea intercedat περιχώρησις, qua profundissime 
+      <lb ed="#B" n="55"/>et intime sibi immanent, inter ea est quaedam κoc 
+      <lb ed="#B" n="56"/>νωνία. Sed inter naturam divinam τοῦ Λόγου et hu 
+      <lb ed="#B" n="57"/>manam assumtam est mutua περιχώρησις, ut 
+      osten<lb ed="#B" n="58" break="no"/>dimus superius. Ergo. 
+      </p>
+            <p xml:id="zef3dd-d1e1011-d1e517">
+               <lb ed="#B" n="59"/>151. 3. Ex similibus. Sicut anima et corpus per 
+      <lb ed="#B" n="60"/>inionem mutuam quandam sortiuntur κοινωνίαν, ob 
+      <!--624.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>quam anima dicitur ἐνσώμαιος, et corpus dicitur 
+      <lb ed="#B" n="62"/>μίρυχον, quia anima ut ἐνχελέχεια, corpus ut δύνα¬ 
+      <lb ed="#B" n="63"/>μιν perficit, inhabitat, ac cum eo naturam suam ita 
+      <lb ed="#B" n="64"/>communicat, ut cum corpore constituat unum 
+      com<lb ed="#B" n="65" break="no"/>positum et suppositum, quod est homo: sic divina 
+      <lb ed="#B" n="66"/>et humana natura in Christo per unionem persona 
+      <lb ed="#B" n="67"/>em tali participant κοινωνίᾳ, ut natura divina τοὶ 
+      <lb ed="#B" n="68"/>Λόγου habitet in humana, eandem perficiat, eam sibi 
+      <lb ed="#B" n="69"/>appropriet et cum ea constituat unam personam 
+      <lb ed="#B" n="70"/>quae est et dicitur Christus. Sicut ferrum et ignis 
+      <lb ed="#B" n="71"/>eo modo uniuntur, ut κοινωνία quaedam ipsis 
+      interce<lb ed="#B" n="72" break="no"/>lat, propter quam ferrum dicitur ignitum: sic pro 
+      <lb ed="#B" n="73"/>pter divinae et humanae naturae in Christo unionem 
+      <lb ed="#B" n="74"/>homo dicitur Deus et Deus homo. Confer. Sigwardum 
+      <lb ed="#B" n="75"/>contra iren. Paraei p. 512. 4. Ec dictis patrum: 
+      <lb ed="#B" n="76"/>Iren. lib. 4. c. 34: Per unionem facta est communis 
+      <lb ed="#B" n="77"/>Dei et hominis. Athan. ad Epictet. unionem vocat. 
+      <lb ed="#B" n="78"/>κοινωνίαν Verbi ad carnem. Basil. in homil de nat 
+      <lb ed="#B" n="79"/>Christi: Quemadmodum Filius Dei particepe factu 
+      <lb ed="#B" n="80"/>et carnis et canguinis, ita humana Domini caro 
+      <lb ed="#B" n="81"/>particepe facta est deitatis. Concil. Ephesin. can. 5: 
+      <lb ed="#B" n="82"/>Si quis audet dicere hominem Christum Deiferum 
+      <lb ed="#B" n="83"/>et non potius Deum veraciter dixerit tanquam Filium 
+      <lb ed="#B" n="84"/>per naturam, secundum quod Verbum caro 
+      factun<lb ed="#B" n="85" break="no"/>est et communicavit eimiliter, ut noe carni et 
+      gan<lb ed="#B" n="86" break="no"/>quini, anathema sit. 
+      </p>
+            <p xml:id="zef3dd-d1e1011-d1e585">
+               <lb ed="#B" n="87"/>152. Antithesis. 1. De Samosateno memorat 
+      Sui<lb ed="#B" n="88" break="no"/>las f. 737, quod docuerit τὰς δύο φύσεις διηρημέ¬ 
+      <lb ed="#B" n="89"/>νως ἔχούσας καὶ ἀκοινωνήνους πρὸς ἑαυτὰς εἶνα 
+      <lb ed="#B" n="90"/>παντάκασιν ἐν Χριστῷ ὡς ἄλλου ὅντος αὐιοῦ τοῖ 
+      <lb ed="#B" n="91"/>ζριστοῦ καὶ ἄλλου τοῦ ἐν αὐτῷ κατοικοῦντος θεοῖ 
+      <lb ed="#B" n="92"/>Λόγου, duas naturas in Christo esse divisas ac 
+      se<lb ed="#B" n="93" break="no"/>paratas a sese, quarum neutra alteri quicquam 
+      com<lb ed="#B" n="94" break="no"/>municet, tanquam aliud quiddam eit Christus, et 
+      <lb ed="#B" n="95"/>aliud in eo habitans Dei Verbum. 2. Jesuitae 
+      com<lb ed="#B" n="96" break="no"/>municationem naturarum itidem negant, 
+      Busaeu<lb ed="#B" n="97" break="no"/>disp. de pers. Christi thes. 14: Non solum Catholici 
+      <lb ed="#B" n="98"/>sed etiam Calviniani quidam diserte docent, nec ri 
+      <lb ed="#B" n="99"/>nec nomine in persona Christi aut communicatas esse 
+      <lb ed="#B" n="100"/>zut communicari potuisse naturas earumque 
+      pro<lb ed="#B" n="101" break="no"/>prietates. Bellarm. libr. 3. de Christo c. 9. §. sc. 
+      <lb ed="#B" n="102"/>cunda: Communicatio xml:idiomatum ex unione 
+      hypo<lb ed="#B" n="103" break="no"/>statica secuta non est realis, respectu ipearum natu 
+      <lb ed="#B" n="104"/>rarum, ut volunt Lutherani, neque est plane verbalis. 
+      <lb ed="#B" n="105"/>ut volunt Beza et Martyr, aed est realis 
+      respecti<lb ed="#B" n="106" break="no"/>hypostaseos utriusque naturae, non autem respecti 
+      <lb ed="#B" n="107"/>Ipsarum naturarum. Atqui si est realis communis 
+      <lb ed="#B" n="108"/>ratio respectu hypostaseos, utique etiam respectu 
+      <lb ed="#B" n="109"/>psarum naturarum, quia utriusque naturae una 
+      <lb ed="#B" n="110"/>est hypostasis, ac divina natura non differt realiter 
+      <lb ed="#B" n="111"/>a sua ὑποστάσει. Non autem sequitur, ut 
+      Bellar<lb ed="#B" n="112" break="no"/>minus infert: Divinitas non est facta passibilis. Ergo 
+      <lb ed="#B" n="113"/>non est realis communicatio respectu naturarum 
+      <lb ed="#B" n="114"/>quia ad realem communicationem naturarum sufficit 
+      <lb ed="#B" n="115"/>concretum unius naturae de concreto alterius natura 
+      <lb ed="#B" n="116"/>vere et realiter praedicari, quamvis in abstracto 
+      na<lb ed="#B" n="117" break="no"/>turae de se invicem non praedicentur. 3. Calviniani 
+      <lb ed="#B" n="118"/>naturarum communicationem evertunt. Beza in Colloq 
+      <lb ed="#B" n="119"/>Hompelg. p. 203: Communicationem, xml:id est 
+      unio<lb ed="#B" n="120" break="no"/>nem naturarum admittens, in qua manent eingulae 
+      <!--625.xml-->
+      <pb ed="#B" n="518"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>naturae per se etiam in unione euis proprietatibus 
+      <lb ed="#B" n="2"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="3"/>distinctae citra ullam aliam communicationem. Ad 
+      <lb ed="#B" n="4"/>monitio Neostad. p. 70: Praedicatio humanorum de 
+      <lb ed="#B" n="5"/>Deo et divinorum de homine quantum ad naturas, 
+      tan<lb ed="#B" n="6" break="no"/>um est verbalis. ** Chamier. Panstrat. Cath. tom 
+      <lb ed="#B" n="7"/>2. lib. 4. c. 2. p. 56. Communionem respectu natura. 
+      <lb ed="#B" n="8"/>plane verbalem esse veritati consentienter dici as 
+      <lb ed="#B" n="9"/>serit. ** Medulla Catech. an. 606. Marpurgi edita 
+      <lb ed="#B" n="10"/>j. 45. Herborn. in spie. p. 25. reprehendunt, si qui 
+      <lb ed="#B" n="11"/>licat 1ὸν Aíγον incarnatum realiter habere carnem 
+      <lb ed="#B" n="12"/>et sanguinem. Danaeus in exam. lib. Chemnic. p. 290. 
+      <lb ed="#B" n="13"/>Communicatio τοῦ Aόγου et humanae naturae est 
+      <lb ed="#B" n="14"/>appellationis tantum seu honoris verbalis communi 
+      <lb ed="#B" n="15"/>catio propter indissolubilem illum unitarum 
+      natura<lb ed="#B" n="16" break="no"/>rum nexum. Paraeus quidem in Irenico hoc telum 
+      <lb ed="#B" n="17"/>a se et sociis suis repellere conatur p. 264: Chri 
+      <lb ed="#B" n="18"/>stum hominem esse Deum non verbaliter, sed rea 
+      <lb ed="#B" n="19"/>liter, imo realissime, quia duarum naturarum unio 
+      <lb ed="#B" n="20"/>divinae et humanae in persona Christi non est 
+      ver<lb ed="#B" n="21" break="no"/>balis, sed realis, imo realissima, adde, ei volunt 
+      <lb ed="#B" n="22"/>gubstantialissima. Sed praeterquam quod 
+      incom<lb ed="#B" n="23" break="no"/>node loquitur, dum unionem voeat substantialem 
+      <lb ed="#B" n="24"/>imo substantialissimam, quae est personalis, 
+      meri<lb ed="#B" n="25" break="no"/>verborum praestigiis ludit et incautioribus imponere 
+      <lb ed="#B" n="26"/>conatur. Statim enim mentem suam plenius 
+      expli<lb ed="#B" n="27" break="no"/>cando subjungit: Realiter et substantialiter Christus 
+      <lb ed="#B" n="28"/>homo est Deus deitate sua, et Christus Deus es 
+      <lb ed="#B" n="29"/>lomo humanitate σua. Quid volunt amplius? an v 
+      <lb ed="#B" n="30"/>Christum hominem dicamus esse Deum humanitate 
+      <lb ed="#B" n="31"/>sua et Christum Deum esse hominem etiam huma 
+      <lb ed="#B" n="32"/>nitate sua? anathema Eutycheti. At si homo non 
+      <lb ed="#B" n="33"/>est Deus humanitate sua (personaliter), quomodo realis 
+      <lb ed="#B" n="34"/>naturae communicatio stabit, quomodo Filius 
+      Dei<lb ed="#B" n="35" break="no"/>suam hypostasin realiter carni communicasse 
+      dicen<lb ed="#B" n="36" break="no"/>lus erit, quomodo Maria erit θεοrόκoς, quomodo 
+      <lb ed="#B" n="37"/>Christo homini datum erit nomen, quod est supra 
+      <lb ed="#B" n="38"/>omne nomen? Et quid multis? Nunquam poterum 
+      <lb ed="#B" n="39"/>Jρθοδοξίαν de vera et reali naturarum in Christo 
+      <lb ed="#B" n="40"/>communicatione tueri, qui 1. hypostaseos 
+      communi<lb ed="#B" n="41" break="no"/>cationem negant, ac de unione personali non recti 
+      <lb ed="#B" n="42"/>lentiunt; 2. personales propositiones peregrinis 
+      expo<lb ed="#B" n="43" break="no"/>sitionibus pervertunt; 3. xml:idiomatum communicationem 
+      <lb ed="#B" n="44"/>egant, xml:id quod Calvinianos facere partim ex dictis 
+      <lb ed="#B" n="45"/>constat, partim ex dicendis plenius apparebit 
+      <lb ed="#B" n="46"/>153. Quaeritur h. I. An propter realem commu 
+      <lb ed="#B" n="47"/>uicationem naturarum dici debeat vel possit: naturo 
+      <lb ed="#B" n="48"/>divina est humana et humana natura est divina. 
+      <lb ed="#B" n="49"/>Ita sibi persuaserunt Jesuitae et Calviniani, quia 
+      <lb ed="#B" n="50"/>propterea quod divinitas de humanitate et humani 
+      <lb ed="#B" n="51"/>as de divinitate in abstracto praedicari nequeat. 
+      <lb ed="#B" n="52"/>realem naturarum communicationem negant, sed 
+      <lb ed="#B" n="53"/>perquam ἀπαιδεύτως. Nam 1. aliud est essem 
+      <lb ed="#B" n="54"/>tialis mutatio ac conversio, aliud vero reali 
+      <lb ed="#B" n="55"/>communicatio. Si divinitas in humanitatem es 
+      <lb ed="#B" n="56"/>sentialiter mutata ac conversa esset, vel humani 
+      <lb ed="#B" n="57"/>cas deitate absorpta, tunc demum recte et vero 
+      <lb ed="#B" n="58"/>liceretur: divinitas est humanitas, et humanitas est, 
+      <lb ed="#B" n="59"/>deitas, sed quia non naturarum conversionem, non 
+      <lb ed="#B" n="60"/>essentiae mutationem, non alterutrius naturae 
+      aboli<lb ed="#B" n="61" break="no"/>4. tionem, sed realem naturarum communicationem ex¬ 
+      <!--625.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>personali unione resultantem statuimus, xml:ideo 
+      Deun<lb ed="#B" n="63" break="no"/>esse hominem, et hominem esse Deum dicimus; 
+      <lb ed="#B" n="64"/>l. quicquid cum alterutro καθ᾽ ἔνωσιν 
+      communica<lb ed="#B" n="65" break="no"/>ur, non in abstracto, sed in concreto ae παρωνύμω 
+      <lb ed="#B" n="66"/>de illo praedicatur. Regius lib. 1. disp. Logie. de 
+      <lb ed="#B" n="67"/>praedicat. p. 260. Quare cum communicatio illa 
+      <lb ed="#B" n="68"/>naturarum, quam in Christo statuimus, facta sit κas 
+      <lb ed="#B" n="69"/>ἔνωσιν, per et propter unionem personalem, xml:ideo non 
+      <lb ed="#B" n="70"/>licimus in abstracto: divinitas est humanitas, sed in 
+      <lb ed="#B" n="71"/>concreto: Deus est homo; 3. quemadmodum ob 
+      com<lb ed="#B" n="72" break="no"/>nunicationem hypostaseos dico, quod natura Christi 
+      <lb ed="#B" n="73"/>humana sit ἐνυπόστατος, ὑποστᾶσα ἐν αὐνῷ τῷ Λόγῳ. 
+      <lb ed="#B" n="74"/>et ut pii veteres loquuntur, λογωθεῖσα, θεωθεῖσα 
+      <lb ed="#B" n="75"/>it Scholastici personata; non autem quod sit 
+      ips<lb ed="#B" n="76" break="no"/>ypostasis τοῦ Λόγου: ita ob communicationem ni 
+      <lb ed="#B" n="77"/>turarum non dico, quod humana natura sit divina 
+      <lb ed="#B" n="78"/>et quod divina sit humana, sed quod Deus sit homo, 
+      <lb ed="#B" n="79"/>et homo sit Deus; 4. sicut ob unionem ferri et ignis 
+      <lb ed="#B" n="80"/>ρατὰ συνδύασιν non dico ferrum est ignis, sed ferrum 
+      <lb ed="#B" n="81"/>est ignitum; propter unionem animae et corporis non 
+      <lb ed="#B" n="82"/>lico: anima est corpus, et corpus est anima, sed 
+      <lb ed="#B" n="83"/>orpus est animatum, ἔμψυχον, et anima est ἐνσώ¬ 
+      <lb ed="#B" n="84"/>ιαιος: sic propter unionem personalem Aόγου e 
+      <lb ed="#B" n="85"/>carnis non dico: humanitas est deitas, et deitas est 
+      <lb ed="#B" n="86"/>umanitas, sed homo est Deus, non οὐσιωδῶς 
+      scili<lb ed="#B" n="87" break="no"/>et, sed ὑποστατικῶς, humana natura est deificata, 
+      <lb ed="#B" n="88"/>incta deitate, corpus est deificatum, deitate plenum, 
+      <lb ed="#B" n="89"/>νθεον, caro est θεωθεῖσα, deificata ete. haec enim 
+      <lb ed="#B" n="90"/>oquendi formulae omnes apud pios veteres 
+      occur<lb ed="#B" n="91" break="no"/>unt 
+      </p>
+            <p xml:id="zef3dd-d1e1011-d1e871">
+               <lb ed="#B" n="92"/>154. Usus practicus est consolatorius. Ipsum! 
+      <lb ed="#B" n="93"/>edemtionis humanae mysterium et salutis nostrae? 
+      <lb ed="#B" n="94"/>undamentum verae et reali naturarum in Christo 
+      <lb ed="#B" n="95"/>communicatioui innititur. Quia enim inter Aόγον. 
+      <lb ed="#B" n="96"/>assumentem et naturam humanam assumtam est vera 
+      <lb ed="#B" n="97"/>t realis communicatio, xml:ideo semen mulieris potuit 
+      <lb ed="#B" n="98"/>conterere caput serpentis Gen. 3, v. 16; xml:ideo filius 
+      <lb ed="#B" n="99"/>hominis carnem suam dare potuit pro mundi vita 
+      <lb ed="#B" n="100"/>Johann. 6, v. 5l; xml:ideo sanguinem suum effundere 
+      <lb ed="#B" n="101"/>otuit in remissionem peccatorum Matth. 26, v. 28. 
+      <lb ed="#B" n="102"/>ideo sanquis Christi nos mundare potest a 
+      peccati<lb ed="#B" n="103" break="no"/>JOhann. 1, v. 7. Contra vero si non est realis 
+      <lb ed="#B" n="104"/>naturarum communicatio, non potuit semen mulieris 
+      <lb ed="#B" n="105"/>conterere caput serpentis, non potuit caro Christi 
+      <lb ed="#B" n="106"/>lari pro mundi vita, nec sanguis ejus in 
+      remissio<lb ed="#B" n="107" break="no"/>nem peccatorum effundi, nec potest sanguis Christi 
+      <lb ed="#B" n="108"/>os mundare a peccatis, quia sanguis humanae 
+      na<lb ed="#B" n="109" break="no"/>urae, quae nec essentialiter Deus est, nec realiter 
+      <lb ed="#B" n="110"/>tum Deo communionem habet, non potest effundi in 
+      <lb ed="#B" n="111"/>remissionem peccatorum; caro humanae naturae, 
+      <lb ed="#B" n="112"/>quae nec essentialiter Deus est nec realem cum 
+      di<lb ed="#B" n="113" break="no"/>vina natura communionem habet, non potest dari 
+      <lb ed="#B" n="114"/>pro mundi vita, destituitur enim infinita illa virtut. 
+      <lb ed="#B" n="115"/>et efficacia, quae ad satisfactionem divinae justitiae 
+      <lb ed="#B" n="116"/>praestandam requiritur. 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

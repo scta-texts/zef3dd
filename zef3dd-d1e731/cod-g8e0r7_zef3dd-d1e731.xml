@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="386"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e731"><!-- zef3dd-l3c2 -->
+            <head xml:id="zef3dd-d1e731-Hd1e101">Caput 2</head>
+            <head xml:id="zef3dd-d1e731-Hd1e103" type="question-title">De ONOMATOAOTIAN</head>
+            <p xml:id="zef3dd-d1e731-d1e106">
+               <lb ed="#B" n="21"/>CAPUT II. 
+      <lb ed="#B" n="22"/>ONOMATOAOTIAN 
+      EXPO<lb ed="#B" n="23" break="no"/>NENS 
+</p>
+            <p xml:id="zef3dd-d1e731-d1e115">
+               <lb ed="#B" n="24"/>38. Exposuimus hactenus priorem hujus tractatu 
+      <lb ed="#B" n="25"/>partem sex theses prooemiales complectentem, succe 
+      <lb ed="#B" n="26"/>dit pars posterior, quae ipsam hujus articuli ἐργα¬ 
+      <lb ed="#B" n="27"/>σίαν continet. Constat illa tum ὁνοματολογίς tum 
+      <lb ed="#B" n="28"/>πραγματολογίᾳ. Ονοματολογία est vel generalis vel 
+      <lb ed="#B" n="29"/>rpecialis. Generalem duabus thesibus complectemui 
+      <lb ed="#B" n="30"/>Specialis appellationes Hebraeas, Graecas, Latinas 
+      <lb ed="#B" n="31"/>et Germanicas, quibus ecclesia in hoc articulo uti 
+      <lb ed="#B" n="32"/>tur, recensebit. Sit ergo partis prioris ὁνοματολογ¬ 
+      <lb ed="#B" n="33"/>κ5 SECTIO I. de ὀνομαιολογίᾳ generali. Thesis i. 
+      <lb ed="#B" n="34"/>Licitum est in mysterio trinitatis explicando uti vo 
+      <lb ed="#B" n="35"/>cabulis, quae αὐτολεξεὶ non exstant in Scripturis 
+      <lb ed="#B" n="36"/>cacris. Thesi huic subjungemus ἔχθεσιν. 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e146">
+               <lb ed="#B" n="37"/>39. Ecclesiae non quidem competit αὐτοκραrορικ 
+      <lb ed="#B" n="38"/>potestas novos fidei articulos condendi, cum ad vocen 
+      <lb ed="#B" n="39"/>Christi sponsi sui in Scripturis unice sonantem divine 
+      <lb ed="#B" n="40"/>mandato sit adstricta Deut. 4, v. 2. c. 12. v. ult 
+      <lb ed="#B" n="41"/>Esa. 8. v. 20. Matth. 17, v. 5. Joh. 10, v. 27. interim. 
+      <lb ed="#B" n="42"/>tamen articulos fidei in Scripturis propositos aliis 
+      <lb ed="#B" n="43"/>etiam verbis, quam quae in illis exstant, explicare 
+      <lb ed="#B" n="44"/>potest, quod probamus 1. a necessitate. Haeretie. 
+      <lb ed="#B" n="45"/>quamvis in sensu ab ecclesiae dogmatibus diversa 
+      <lb ed="#B" n="46"/>imo contraria doceant, tamen aemulantur Scripturae 
+      <lb ed="#B" n="47"/>phrases ὅμοια μὲν λαλοῦντες, ἀνόμοια δὲ φρονοῦντες 
+      <lb ed="#B" n="48"/>ut Irenaeus in praefat. lib. 1. de illis loquitur, sum 
+      <lb ed="#B" n="49"/>instar hyaenae, quae noctu ovium adit stabula 
+      red<lb ed="#B" n="50" break="no"/>litisque quas audit vocibus pastores evocat, egresso 
+      <lb ed="#B" n="51"/>aniat ac devorat. Ipsa igitur necessitas ecelesiam 
+      <lb ed="#B" n="52"/>coëgit, ut talibus in mysterio trinitatis explicand 
+      <lb ed="#B" n="53"/>ateretur vocabulis, quae ex latibulis haereticam na¬ 
+      <!--459.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="54"/>νουργίαν protraherent, ac inter orthodoxian ecelesiae 
+      <lb ed="#B" n="55"/>et errores haereticorum manifestum discrimen 
+      face<lb ed="#B" n="56" break="no"/>rent. Sic cum ecclesia doceret tres esse, in quorum 
+      <lb ed="#B" n="57"/>nomine baptizamur, qui dant in coelo testimonium ete. 
+      <lb ed="#B" n="58"/>Pater scilicet Filius et Spiritus s., mox Sabellius hoc 
+      <lb ed="#B" n="59"/>sie depravavit, quod illi tres non eint reali quodam 
+      <lb ed="#B" n="60"/>discrimine distincti, sed unam eandemque 
+      personan<lb ed="#B" n="61" break="no"/>modo vocari Patrem, modo Filium, modo Spiritum 
+      <lb ed="#B" n="62"/>quo accommodavit illud, quod ecclesia dixit, tris 
+      <lb ed="#B" n="63"/>esse nomina, xml:ideo ut a Sabelliana illa depravatione 
+      <lb ed="#B" n="64"/>prthodoxia hujus articuli liberaretur, ecclesia illos 
+      <lb ed="#B" n="65"/>res vocare coepit tres distinctas personas. 
+      Cum<lb ed="#B" n="66" break="no"/>ecclesia doceret, Patrem et Filium esse unum Joh. 10. 
+      <lb ed="#B" n="67"/>v. 30, mox Arius illud sic depravavit, eos esse unum 
+      <lb ed="#B" n="68"/>consensu ac voluntate, sicut credentium dicitur cor 
+      <lb ed="#B" n="69"/>unum Actor. 4. v. 32, xml:ideo ut ab Ariana illa depra 
+      <lb ed="#B" n="70"/>vatione orthodoxia hujus articuli liberaretur, ecclesia 
+      <lb ed="#B" n="71"/>locere coepit Filium esse Patri ὁμοούσεον, undo 
+      Am<lb ed="#B" n="72" break="no"/>prosius lib. 3. de fid. c. 7. dicit, patres Nicenos 
+      <lb ed="#B" n="73"/>verbum ὁμοούσιος in tractatu fidei poeuisse, quod 
+      vi<lb ed="#B" n="74" break="no"/>derint adversariis xml:id cose formidini, ut velut 
+      eva<lb ed="#B" n="75" break="no"/>ginato ab ipsie gladio ipoorum nefandae caput 
+      hac<lb ed="#B" n="76" break="no"/>reseos amputarent 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e240">
+               <lb ed="#B" n="77"/>40. 2. Ab utilitate. Triplex est horum vocabu 
+      <lb ed="#B" n="78"/>orum utilitas, adhibita enim sunt partim uberiori 
+      <lb ed="#B" n="79"/>explicationis, partim melioris distinctionie, partin 
+      <lb ed="#B" n="80"/>solidioris ac plenioris refutationis causa. Quando 
+      <lb ed="#B" n="81"/>tres personae deitatis asseruntur ac ὁμοουσία 
+      earum<lb ed="#B" n="82" break="no"/>dem defenditur, quoad rem Scripturis nihil additur 
+      <lb ed="#B" n="83"/>tum xml:id ipsum in eis si non totidem verbis tamer 
+      <lb ed="#B" n="84"/>lliis xml:idem significantibus tradatur, interim ex ue 
+      <lb ed="#B" n="85"/>illarum appellationum haec utilitas ad ecclesiam 
+      re<lb ed="#B" n="86" break="no"/>lit, quod breviter et nervose sanam de hoc mysteria 
+      <lb ed="#B" n="87"/>doctrinam talibus appellationibus complectitur, quae 
+      <lb ed="#B" n="88"/>non possunt in peregrinum et haereticum sensum al 
+      <lb ed="#B" n="89"/>adversariis coelestis veritatis pertrahi. Huc 
+      referan<lb ed="#B" n="90" break="no"/>tur dicta piorum veterum: Athanasius in disputatione 
+      <lb ed="#B" n="91"/>cum Ario coram Probo judice gentili tom. 2. p. 374: 
+      <lb ed="#B" n="92"/>Ecclesiasticae semper moris est disciplinae, ei quando 
+      <lb ed="#B" n="93"/>aereticorum nova doctrina exsurgit, contra incolen 
+      <lb ed="#B" n="94"/>tes quaestionum mutationes rebus immutabiliter 
+      ma<lb ed="#B" n="95" break="no"/>nentibus nominum vocabula immutare et significantiu 
+      <lb ed="#B" n="96"/>rerum naturas exprimore, quae tamen excistentium 
+      <lb ed="#B" n="97"/>causarum virtutibus congruunt, et quae magis easdem 
+      <lb ed="#B" n="98"/>antiquitus fuisse demonstrent, non ortus novitatem 
+      <lb ed="#B" n="99"/>mensurent. Et postea: Contra incolentes et furtivas 
+      <lb ed="#B" n="100"/>laereticae intelligentiae pravitates quaedam 
+      confe<lb ed="#B" n="101" break="no"/>sionis nomina non temere praesumta, sed ex conse 
+      <lb ed="#B" n="102"/>juenti ratione collecta fidei auctoritatibus 
+      fuerun<lb ed="#B" n="103" break="no"/>inserta, ita tot novorum verborum religioco intellecli 
+      <lb ed="#B" n="104"/>exstiterunt abeolutiones, quot fuerunt quaecitae vel 
+      <lb ed="#B" n="105"/>gubministratae perfidiae occasiones, licet totidem 
+      eyl<lb ed="#B" n="106" break="no"/>labis et literis vocabula non legantur in cacria literis 
+      <lb ed="#B" n="107"/>Jregor. Nazianz. orat. in sancta lumin.: Non est de 
+      <lb ed="#B" n="108"/>nominibus odiosa contentione certandum, quamdit 
+      <lb ed="#B" n="109"/>syllabae ad eandem sententiam ferent. Fateamu 
+      <lb ed="#B" n="110"/>oquendi necessitate parta esse haec vocabula, cum 
+      <lb ed="#B" n="111"/>opus est copiosa dispoeitione advereum insidias 
+      hae<lb ed="#B" n="112" break="no"/>reticorum, fateamur ete. August. lib. 5. de trinis 
+      <lb ed="#B" n="113"/>0. 9: Magna prorque inopia humanum laborat elo 
+      <!--460.xml-->
+      <pb ed="#B" n="387"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>quium. Dictum eat tamen trea personae, non ut 
+      <lb ed="#B" n="2"/>illud diceretur, sed ne taceretur omnino. Non enim 
+      <lb ed="#B" n="3"/>rei ineffabilis eminentia hoc vocabulo explicari rales 
+      <lb ed="#B" n="4"/>Lib. 7. de trinit. c. 4: Est improbitag quaedam, s 
+      <lb ed="#B" n="5"/>quis vocabula improbet, quae non aliud explicant 
+      <lb ed="#B" n="6"/>quam quod Scripturis expositum traditur. Vide 
+      <lb ed="#B" n="7"/>ibid. plura traet. 97. in Johan. Apostolus 2. Tim. 2. 
+      <lb ed="#B" n="8"/>non dicit: Verborum novitatea devita aed addit 
+      pro<lb ed="#B" n="9" break="no"/>fanas, sunt enim et doctrinae religionia congruentes 
+      <lb ed="#B" n="10"/>verborum novitatea, gicut ipsum nomen Chriatianorum 
+      <lb ed="#B" n="11"/>quando dici coeperit, scriptum est. Act. 11. ete. 
+      re<lb ed="#B" n="12" break="no"/>ipsae, quae in ecclesia novis appellantur nominibus 
+      <lb ed="#B" n="13"/>et ante aua nomina erant et religionia veritate 
+      fir<lb ed="#B" n="14" break="no"/>mantur, qua etiam contra improbos defenduntur 
+      <lb ed="#B" n="15"/>Quod ei omnis novitas profana esset, nec a Domino 
+      <lb ed="#B" n="16"/>dicoretur: Mandatum novum do vobis, nec testamen 
+      <lb ed="#B" n="17"/>tum appellaretur novum, nec cantaretur in univera 
+      <lb ed="#B" n="18"/>terra canticum novum. Thom. p. 1. q. 29. art. 3. 
+      <lb ed="#B" n="19"/>Ad inveniendum nova nomina antiquam de Deo fi 
+      <lb ed="#B" n="20"/>dem eiqui ficantia coëgit necessitas dioputandi cum 
+      <lb ed="#B" n="21"/>haereticie 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e375">
+               <lb ed="#B" n="22"/>41. Antithecis. I. Ariani, Sabelliani et reliqui 
+      <lb ed="#B" n="23"/>Antitrinitarii contra orthodoxos hoc urgebant, quod 
+      <lb ed="#B" n="24"/>nomina οὐσίας, ὁμοουσίας, ὑποστάσεως non exstent in 
+      <lb ed="#B" n="25"/>sacris literis. Magna invidia (ait Dn. D. Chemnicius 
+      <lb ed="#B" n="26"/>tom. 1. loc. p. 86.) praegravabantur orthodoxi patres 
+      <lb ed="#B" n="27"/>ab haereticis specioso hoc praetextu, quod scilice 
+      <lb ed="#B" n="28"/>ecclecia de illa inaccessibili Juce divinitatis non alite 
+      <lb ed="#B" n="29"/>deberet sentire, quam ipsa divinitas prodiens ex 
+      ar<lb ed="#B" n="30" break="no"/>cana majestatis suge sede se patefecit, nec aliter 
+      <lb ed="#B" n="31"/>deberet loqui, aed linguam Spiritus o. imitari, 
+      adeo<lb ed="#B" n="32" break="no"/>qua ipea etiam verba totidem cyllabis et literis 
+      expr<lb ed="#B" n="33" break="no"/>mere. Arius in disputatione cum Athanasio p. 373. 
+      <lb ed="#B" n="34"/>Cur apostolicae fidei superadjicitur verbum, ρ
+      uju<lb ed="#B" n="35" break="no"/>nec prophetae nec apostoli mentionem faciunt 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e408">
+               <lb ed="#B" n="36"/>42. 2. Vestigiis istorum majorum insistunt Nec 
+      <lb ed="#B" n="37"/>Photiniani. Nicol. Paruta in thesibus hoc prime 
+      <lb ed="#B" n="38"/>loco urget, quod nuspiam in Scripturis κατὰ ῥηtό 
+      <lb ed="#B" n="39"/>dicatur esse tres personas ejusdem divinae essentiae 
+      <lb ed="#B" n="40"/>Parutae sententiam Socinus in animadv. ad 16. assert. 
+      <lb ed="#B" n="41"/>Posnan. num. 1. sic explicat: Quod nomen trinitatis 
+      <lb ed="#B" n="42"/>in adcris literis non exstet, hoc tanquam indiciun 
+      <lb ed="#B" n="43"/>aliquod falsitatia adversariorum sententiae dictum 
+      <lb ed="#B" n="44"/>aliquando a nostris fuit, non autem quod pro solido 
+      <lb ed="#B" n="45"/>argumento ad eos refutandos xml:id dicerent. Idem in 
+      <lb ed="#B" n="46"/>defens. animad. p. 42: Nomina, quibus adversari 
+      <lb ed="#B" n="47"/>necesse habent uti ad sua dogmata explicando 
+      <lb ed="#B" n="48"/>nusquam apud sacros scriptores legi, indicium quod 
+      <lb ed="#B" n="49"/>dam esse potest falsitatis ipsorum dogmatum. P. 450. 
+      <lb ed="#B" n="50"/>Quod nomina essentiae et trinitatis in sacris literis 
+      <lb ed="#B" n="51"/>non exstent, non ut solidum aliquod argumentum ad 
+      <lb ed="#B" n="52"/>adveraarios refellendos, sed ut indicium quoddam 
+      <lb ed="#B" n="53"/>falsae ipeorum sententiae a nostris aliquando comme 
+      <lb ed="#B" n="54"/>moratum fuit. Atqui 1. quomodo possunt illud pro 
+      <lb ed="#B" n="55"/>indicio falsitatis habere, ex quo argumentum peter 
+      <lb ed="#B" n="56"/>non audent? 2. concedant nobis Patrem, Filium e 
+      <lb ed="#B" n="57"/>Spiritum esse Deum, et tamen non nisi unum esse 
+      <lb ed="#B" n="58"/>Deum, nec adigemus eos, ut vocibus illis ecelesia 
+      <lb ed="#B" n="59"/>sticis utantur; 3. ipsimet Photiniani quaedam voca 
+      <lb ed="#B" n="60"/>hula usurpant, quae in Scripturis non exstant, docent 
+      <!--460.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>enim CHRISTUM esse factum DEUM, ac bis in 
+      <lb ed="#B" n="62"/>coelum adscendisse, quorum neutrum in Scripturis. 
+      <lb ed="#B" n="63"/>vel κακὰ ῥητόν vel κατὰ πρᾶγμα exstat. Socin. in 
+      <lb ed="#B" n="64"/>defens. animadv. p. 191. Christum esse factum Deum 
+      <lb ed="#B" n="65"/>dici potest, licet xml:id in sacris literis expresse non 
+      <lb ed="#B" n="66"/>reperiatur. Confer disp. 2. ex dicto 1. Joh. 5. §. 1. 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e482">
+               <lb ed="#B" n="67"/>43. 3. Non potest simpliciter et sine commoda 
+      <lb ed="#B" n="68"/>interpretatione addita probari, quod Calv. lib. I. 
+      <lb ed="#B" n="69"/>Instit. o. 13. sect. 3. scribit: Utinam sepulta essent 
+      <lb ed="#B" n="70"/>nomina (trinitatis, ὁμοουσίας ete.), constaret modo 
+      <lb ed="#B" n="71"/>naec inter omnes fides, Patrem et Filium et 
+      Spiri<lb ed="#B" n="72" break="no"/>tum s. esse unum Deum. Nimirum de occasione et 
+      <lb ed="#B" n="73"/>prigine harum appellationum, quae fuit haereties 
+      <lb ed="#B" n="74"/>perversitas, non autem de ipso appellationum usu 
+      <lb ed="#B" n="75"/>illud accipiendum eri¬ 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e504">
+               <lb ed="#B" n="76"/>14. Quaeritur hoc loco: An vocabula ex 
+      commun<lb ed="#B" n="77" break="no"/>loquendi consuetudine desumta et ad hoc mysterium 
+      <lb ed="#B" n="78"/>accommodata eandem per omnia significationem in 
+      <lb ed="#B" n="79"/>illa applicatione retineant? Resp. minime vero, sed 
+      <lb ed="#B" n="80"/>scelesia donat illa jure suae civitatis et in peculiar 
+      <lb ed="#B" n="81"/>nignificatione illis utitur. Frustra igitur haeretici a 
+      <lb ed="#B" n="82"/>proprietatibus finitae essentiae ac personae finitae 
+      <lb ed="#B" n="83"/>argumenta petunt, quibus sublime illud mysterium 
+      <lb ed="#B" n="84"/>la tribus distinctis personis in una indivisa deitatis 
+      <lb ed="#B" n="85"/>essentia impugnent, frustra etiam urgent vulgarem 
+      <lb ed="#B" n="86"/>oquendi modum, cum ab eo aliquanto abeant 
+      <lb ed="#B" n="87"/>uando ad qualemcunque hujus mysterii 
+      explicatio<lb ed="#B" n="88" break="no"/>nem ab ecclesia adhibentur. Si confitemur tres dei 
+      <lb ed="#B" n="89"/>catis personas, de quibus essentia divina velut 
+      quid<lb ed="#B" n="90" break="no"/>dam commune praedicetur, sed longe aliter compa 
+      <lb ed="#B" n="91"/>rata est illa essentiae de tribus personis 
+      praedicatio<lb ed="#B" n="92" break="no"/>quam si de Petro, Paulo et Johanne communis ἀν¬ 
+      <lb ed="#B" n="93"/>θρωπότiης praedicetur, ut ex seqq. erit manifestum 
+      <lb ed="#B" n="94"/>Athanas. in epist. de synod. Nicen. decret. Tametsi 
+      <lb ed="#B" n="95"/>eaedem dictiones de Deo et hominibus (et aliis 
+      <lb ed="#B" n="96"/>creatis rebus) in Scripturis habeantur, hominum 
+      <lb ed="#B" n="97"/>tamen perspicacium est, lectioni attendere, ut rem 
+      <lb ed="#B" n="98"/>cum judicio discernant et pro natura rerum voca 
+      <lb ed="#B" n="99"/>bula accipiant sine intellectus confusione, ne quae 
+      <lb ed="#B" n="100"/>Dei sunt, humano more intelligant, xml:id enim es 
+      <lb ed="#B" n="101"/>vinum aqua miscere et alienum ignem altari in 
+      <lb ed="#B" n="102"/>ferro 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e565">
+               <lb ed="#B" n="103"/>15. Thesis. 2. Non est probanda eorum temeri 
+      <lb ed="#B" n="104"/>tas, qui novis vocabulis ab ecclesia nondum reco 
+      <lb ed="#B" n="105"/>ptis in hoc mysterio explicando utuntur. Rationem 
+      <lb ed="#B" n="106"/>petimus 1. a praecepto apostoli 1. Tim. 6, v. 20. 
+      <lb ed="#B" n="107"/>Depositum custodi devitans τὰς βεβήλους καινοφωνίας 
+      <lb ed="#B" n="108"/>profanas vocum novitates. (Quidam legunt κενοφω¬ 
+      <lb ed="#B" n="109"/>νίας, ut inter has voces ita inter res significata 
+      <lb ed="#B" n="110"/>est maxima cognatio, nova persaepe etiam vans 
+      <lb ed="#B" n="111"/>Actor. 17, v. 21); 2. ab incommodo multiplici, quod 
+      <lb ed="#B" n="112"/>illam temeritatem sequitur, datur enim adversariis 
+      <lb ed="#B" n="113"/>calumniandi occasio, sparguntur semina 
+      dissensio<lb ed="#B" n="114" break="no"/>num in ecclesia, singularitatis oritur suspicio eto 
+      <lb ed="#B" n="115"/>contra vero moderati animi est, cum ecclesia non solum 
+      <lb ed="#B" n="116"/>reverenter sentire, sed etiam loqui ac obsequentium 
+      <lb ed="#B" n="117"/>liberorum est matris vocem non dedignari. August. 
+      <lb ed="#B" n="118"/>lib. 10. de civitate Dei c. 23: Liberis verbis 
+      loquun<lb ed="#B" n="119" break="no"/>tur philosophi, nec in rebus ad intelligendum 
+      <lb ed="#B" n="120"/>difficillimis offensionem religiosarum aurium per¬ 
+      <!--461.xml-->
+      <pb ed="#B" n="388"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>timescunt, nobis autem ad certam regulam loqui 
+      fa<lb ed="#B" n="2" break="no"/>est, ne verborum licentia etiam de rebus, quae hic 
+      <lb ed="#B" n="3"/>significantur, impiam gignat opinionem. Itaque non 
+      <lb ed="#B" n="4"/>dicimus duo vel tria principia, cum de Deo loqui 
+      <lb ed="#B" n="5"/>mur, sicut nec duos vel tres Deos nobis licitum est 
+      <lb ed="#B" n="6"/>dicere. Confer Basil. lib. 2. contra Eunom. non 
+      <lb ed="#B" n="7"/>longe ab initio. Hieron. in epistola ad Damasum di 
+      <lb ed="#B" n="8"/>verbo hypost. Damasc. lib. 1, c. 2. qui omnes 
+      prae<lb ed="#B" n="9" break="no"/>ceptum de cavenda vocum novitate in divinis quan 
+      <lb ed="#B" n="10"/>siligentissime inculcant. 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e636">
+               <lb ed="#B" n="11"/>46. Usus practicus occurrit geminus: I. ut ea, quae 
+      <lb ed="#B" n="12"/>a veteribus incommode dicta juxta fidei analogiam 
+      <lb ed="#B" n="13"/>explicemus, non autem imitemur. Justin. in dia 
+      <lb ed="#B" n="14"/>cum Tryph. p. 209. et 213. Filium vocat ἄλλο 
+      <lb ed="#B" n="15"/>καὶ ἕτερον θεόν, sed observa quod introducat 
+      loquen<lb ed="#B" n="16" break="no"/>tem Tryphonem Judaeum, qui de hoc summo mi 
+      <lb ed="#B" n="17"/>sterio non satis accurate loquitur, cujus sermonem 
+      <lb ed="#B" n="18"/>ipse Justinus postea sequitur. Tertull. advers. Prax 
+      <lb ed="#B" n="19"/>Tres sunt non statu, sed gradu; nec subsistentia 
+      <lb ed="#B" n="20"/>sed forma; nec potestate, sed specie unius subet 
+      <lb ed="#B" n="21"/>stentiae, unius status, unius potestatis, quia 
+      unu<lb ed="#B" n="22" break="no"/>Deus. (Bellarm. lib. I. de Christo c. 10. sic 
+      excu<lb ed="#B" n="23" break="no"/>sat, quod per gradum intelligunt ordinem persons 
+      <lb ed="#B" n="24"/>rum; auctor epistolae ad lectorem Tertull. praefixae 
+      <lb ed="#B" n="25"/>Statum voces, quod Scholastici substantiam, gradum 
+      <lb ed="#B" n="26"/>quod hi notionem, formam, quod hi proprietates 
+      <lb ed="#B" n="27"/>speciem, quod hi habendi modum.) Hilarius 
+      abu<lb ed="#B" n="28" break="no"/>sive dixit tres subetantias, substantias pro personis. 
+      <lb ed="#B" n="29"/>non pro essentia accipiens, ut Thom. 1. sent. dist 
+      <lb ed="#B" n="30"/>24. art. 1. monet; 2. ut ab innovandi libidine e 
+      <lb ed="#B" n="31"/>nova vocabula confingendi temeritate abstineamus. 
+      <lb ed="#B" n="32"/>Sic probari nequit, quod quidam disputare coepit 
+      <lb ed="#B" n="33"/>unam esse deitatis essentiam, tres vero exsistentias, 
+      <lb ed="#B" n="34"/>quod quidam personas trinitatis differre dicunt, cum 
+      <lb ed="#B" n="35"/>differentia proprie sit eorum, quae essentialiter 
+      dif<lb ed="#B" n="36" break="no"/>ferunt; quod tres personae in una essentia 
+      divin<lb ed="#B" n="37" break="no"/>dicuntur subsistere, cum contra potius essentia in 
+      <lb ed="#B" n="38"/>personis tribus subsistere dicenda sit. Damaso 
+      <lb ed="#B" n="39"/>ib. 3. c. 6: Essentia per se non subsistit, sed in 
+      <lb ed="#B" n="40"/>ipsie hypostasibus servatur. Confer tract. de nat 
+      <lb ed="#B" n="41"/>Dei §. 64. ubi plures incommodas locutiones recen 
+      <lb ed="#B" n="42"/>suimus 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e708">
+               <lb ed="#B" n="43"/>47. Exposita ὀνοματολογίς generali, transitum 
+      fa<lb ed="#B" n="44" break="no"/>timus ad apecialem, quae appellationes 1. Hebraeas 
+      <lb ed="#B" n="45"/>2. Graecas; 3. Latinas; 4. Germanicas in huju 
+      <lb ed="#B" n="46"/>e mysterii explicatione usitatas explicabit. I. Sit erge 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e719">
+               <lb ed="#B" n="47"/>articulus primus de appellationibus Hebraeis. Ho 
+      <lb ed="#B" n="48"/>braei mysterium trinitatis trina repetitione nominis 
+      <lb ed="#B" n="49"/>Jehovah et TZ exprimere solent, ut in πραγματο 
+      <lb ed="#B" n="50"/>λογίᾳ apparebit. Divinitatem tribus personis 
+      con<lb ed="#B" n="51" break="no"/>munem vocant 11222 habitationem, vel quia 
+      habi<lb ed="#B" n="52" break="no"/>tavit sive mansit Heb. 772u: gloria Domini supe 
+      <lb ed="#B" n="53"/>montem Sinai Exod. 24, v. 16, vel quia habita 
+      <lb ed="#B" n="54"/>tuper arcam foederis in medio duorum Cherubin 
+      <lb ed="#B" n="55"/>Exod. 26, v. 8, vel quia in cordibus credentium 
+      ha<lb ed="#B" n="56" break="no"/>bitat ad eos veniens et mansionem apud illos 
+      fa<lb ed="#B" n="57" break="no"/>ciene Joh. 14, v. 23. Essentiam vocant 13711. (G. 
+      <lb ed="#B" n="58"/>lat. lib. 2. de arcan. c. 3. scribit –77777.) a 
+      radie<lb ed="#B" n="59" break="no"/>* fuit, exstitit, a qua radice etiam nomen 
+      Jeho<lb ed="#B" n="60" break="no"/>vah descendit, quod tribus divinitatis personis ex 
+      <!--461.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>aequo tribuitur. Galat. d. I. essentiam etiam vocat 
+      <lb ed="#B" n="62"/>7r, quae vox exstat Esa. 28. v. 29. Mich. 6. 
+      <lb ed="#B" n="63"/>v. 9. a rad. J et per apocopen O) fuit, exstitit. 
+      <lb ed="#B" n="64"/>est. Personam appellant Ctar, facies a rad. *12r. 
+      <lb ed="#B" n="65"/>convertit, quo referri potest illud Deut. 4. v. 37. et 
+      <lb ed="#B" n="66"/>eduxit te 73173 facie qua in robore magno ex 
+      <lb ed="#B" n="67"/>degypto. Targum reddidit 1773 verbo quo 
+      <lb ed="#B" n="68"/>quod est proprium nomen Filii, qui est secunda 
+      <lb ed="#B" n="69"/>trinitatis persona. Exod. 33, v. 14. 20 facies mea 
+      <lb ed="#B" n="70"/>ibit, et quietem dabo vobis. Targum 22 
+      divini<lb ed="#B" n="71" break="no"/>tas mea, praesentia mea ibit. LXX. αὐtός, ipsemet 
+      <lb ed="#B" n="72"/>go ibo, quia Filius, qui Israëlitas ex Aegypto per 
+      <lb ed="#B" n="73"/>lesertum duxit, est verus Deus, unius ejusdemque 
+      <lb ed="#B" n="74"/>tum Patre essentiae. Esa. 63, v. 8: Et angelus 
+      <lb ed="#B" n="75"/>317, faciei ejus servavit eos, cujus emphaticae 
+      ap<lb ed="#B" n="76" break="no"/>pellationis vim suo loco expendemus. Veteres 
+      Rab<lb ed="#B" n="77" break="no"/>bini tres deitatis personas vocant tres 17am 
+      pro<lb ed="#B" n="78" break="no"/>prietates a rad. 7772 mensuravit. Quia enim 
+      pro<lb ed="#B" n="79" break="no"/>prietates discrimen personarum introducunt, xml:idec 
+      <lb ed="#B" n="80"/>per tres Py7 mysterium trinitatis quandoque ex 
+      <lb ed="#B" n="81"/>primunt, quem loquendi modum imitatur Confessie 
+      <lb ed="#B" n="82"/>Wirtenbergis in c. de Deo: In hac una aeterno 
+      <lb ed="#B" n="83"/>divinitate tres esse confitemur per se cubeistentes 
+      <lb ed="#B" n="84"/>proprietates sive personas 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e808">
+               <lb ed="#B" n="85"/>18. 2. Appellationes Graecae sunt: 1. οὗσία, 
+      <lb ed="#B" n="86"/>2. ὁμοούσιος, δ. ὑπόστασις, 4. ὑπαρξις, 5. πρόσωκον. 
+      <lb ed="#B" n="87"/>De voce οὐσίας notanda 1. ἐτυμολογία. Dicitur 
+      <lb ed="#B" n="88"/>ρυσία ab ὧν, quod est Dei nomen proprium. Exod. 
+      <lb ed="#B" n="89"/>, v. 14: Et dicent mihi, quod est 7u]j nomen ejus 
+      <lb ed="#B" n="90"/>quid dicam illis? Et dicebat DEUS ad Moysen: 
+      <lb ed="#B" n="91"/>τστιὰ γώε τιορς LXΧ. ἐγὰ εἰμι ὁ ἄν, eqo 
+      <lb ed="#B" n="92"/>rum qui est. Sic dices filiis Israel. τ7ts ero 
+      <lb ed="#B" n="93"/>LXX. ὁ ὧν misit me ad vos. Et dicebat amplius 
+      <lb ed="#B" n="94"/>7τν κύριος Deus Abraham, Deus Isaac, 
+      Deu<lb ed="#B" n="95" break="no"/>Jacob misit me ad vos, h. e. *m nomen meum in 
+      <lb ed="#B" n="96"/>aeternum. Johannes Apoc. 1, v. 4. et c. 4. v. 8. 
+      <lb ed="#B" n="97"/>sic expressit, ὁ ὧν καὶ ὁ ἡν καὶ ὁ ἐρχόμενος, qui 
+      <lb ed="#B" n="98"/>st, qui erat, et qui erit. Confer Cyrill. lib. 1. de 
+      <lb ed="#B" n="99"/>rinit. 2. Origo. Nomen οὖσίας exstat quidem in 
+      <lb ed="#B" n="100"/>Scripturis, Tob. 4, v. 181 ἐκληρονόμησε τῆν οὐσίαν 
+      <lb ed="#B" n="101"/>Luc. 15, v. 12: δός μοι τὸ ἐπιβάλλον μέρος τῆς οὐσίας. 
+      <lb ed="#B" n="102"/>V. 13: διεσκόρπισε τὴν οὗσίαν; sed in ea significa 
+      <lb ed="#B" n="103"/>tione non accipitur in doctrina de trinitate, unde 
+      <lb ed="#B" n="104"/>Epiphan. haeres. 73. p. 385. recte scribit: Essentiae 
+      <lb ed="#B" n="105"/>nomen nudo modo in V. ac N. T. non habetur, 
+      <lb ed="#B" n="106"/>sensus autem et significatio ubique habetur. Basi 
+      <lb ed="#B" n="107"/>pist. 43: haec duo vocabula οὐσία et ὑπόστασις non 
+      <lb ed="#B" n="108"/>sunt ex phrasi Scripturae, sed ex communi loquendi 
+      <lb ed="#B" n="109"/>zonsuetudine sumta. Socrat. lib. 6. c. 21. Sane 
+      <lb ed="#B" n="110"/>quidam ex veteribus conati fuere in Scripturis hanc 
+      <lb ed="#B" n="111"/>tocem quaerere. Athanasius allegat ex Jerem. 23, 
+      <lb ed="#B" n="112"/>1. 22: Si stetissent in subetantia mea, avertissem 
+      <lb ed="#B" n="113"/>eos a studiis eorum peccimis. Nagianz. affert 
+      e<lb ed="#B" n="114" break="no"/>libro Sap. 16, v. 21: Substantiam tuam et 
+      dulcedi<lb ed="#B" n="115" break="no"/>nem tuam, quam in filios habes, ostendebas 
+      <lb ed="#B" n="116"/>Sed illa testimonia plane sunt peregrina 
+      <lb ed="#B" n="117"/>Bellarmin. itidem lib. 2. de Christo c. 3. signi. 
+      <lb ed="#B" n="118"/>ficationem illam, qua in Scripturis accipitur 
+      <lb ed="#B" n="119"/>ad hunc articulum accommodare conatur, 
+      <lb ed="#B" n="120"/>οὖσία (inquit) Luc. 15. significat opes paternas. 
+      <!--462.xml-->
+      <pb ed="#B" n="389"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Quae autem sunt DEI opes nigi ipsius divinitas, 
+      <lb ed="#B" n="2"/>quae est summum et infinitum bonum. Sed cum 
+      <lb ed="#B" n="3"/>hoc coactius sit et calumniis adversariorum obnox 
+      <lb ed="#B" n="4"/>um, simplicius statuitur, nomen hoc αὐτολεξεὶ in 
+      e<lb ed="#B" n="5" break="no"/>significatione, qua illud in mysterio trinitatis usur 
+      <lb ed="#B" n="6"/>pamus, in sacris literis non haberi. Neque tamer 
+      <lb ed="#B" n="7"/>propterea ab Antitrinitariis repudiari debet, primo 
+      <lb ed="#B" n="8"/>quia res ipsa in Scriptura habetur, quando enim 
+      <lb ed="#B" n="9"/>Scriptura et nomen Jehova et attributa et opera et 
+      <lb ed="#B" n="10"/>gloriam divinam Patri, Filio et Spiritui sancto 
+      com<lb ed="#B" n="11" break="no"/>munem facit, utique essentiam divinam tribus 
+      hisc<lb ed="#B" n="12" break="no"/>communem esse docet, nomen enim Jehovah es 
+      <lb ed="#B" n="13"/>essentiae notificativum ac formatur a verbo θ7. 
+      <lb ed="#B" n="14"/>fuit, exstitit, et litera*, quae est formativa nominum 
+      <lb ed="#B" n="15"/>propriorum; attributa et opera testantur de 
+      divin<lb ed="#B" n="16" break="no"/>essentia, quia attributa essentialia in Deo sunt ipsa 
+      <lb ed="#B" n="17"/>Dei essentia ac opera divina efficiuntur per 
+      poten<lb ed="#B" n="18" break="no"/>tiam divinam, quae est ipsa Dei essentia, denique 
+      <lb ed="#B" n="19"/>gloria divina utpote quaedam relatio fundament 
+      <lb ed="#B" n="20"/>loco respicit divinam essentiam. Secundo quia 
+      con<lb ed="#B" n="21" break="no"/>cretum hujus nominis videlicet rò ens et ejus 
+      radi<lb ed="#B" n="22" break="no"/>in Scripturis habetur, ut ex c. 3. Exod. et c. 1 
+      <lb ed="#B" n="23"/>Apocal. ostendimus. Socin. in animadv. Posn. assert. 
+      <lb ed="#B" n="24"/>17. n. 2: Graviter errant, qui propterea, quod Deu 
+      <lb ed="#B" n="25"/>pocetur qui erit, verbum essentiae inde deduci a 
+      <lb ed="#B" n="26"/>firmant. Cum enim cssentia aliquid, quod jam ei 
+      <lb ed="#B" n="27"/>vel significet, vel certe perpetuo indicet, quomod 
+      <lb ed="#B" n="28"/>ex verbo erit, quod in omnino aliquid futurum 
+      <lb ed="#B" n="29"/>rignificat, essentiae nomen duci poterit? Resp. 
+      He<lb ed="#B" n="30" break="no"/>braeum *&amp; et in praeterito et in praesenti et in 
+      <lb ed="#B" n="31"/>futuro verti poterit, ut Hebraeae linguae xml:idiotism 
+      <lb ed="#B" n="32"/>constat, unde etiam LXX verterunt ὁ ὧν, quam 
+      <lb ed="#B" n="33"/>versionem approbat Johannes in Apocal. c. 1, V. 4. 
+      <lb ed="#B" n="34"/>Nec tempora apud Deum succedunt vel labuntur, sed 
+      <lb ed="#B" n="35"/>respectu nostri aeternitas vocabulis temporis 
+      conti<lb ed="#B" n="36" break="no"/>nuationem significantibus exprimitur. Tertio quis 
+      <lb ed="#B" n="37"/>ynonyma ejusdem in illis habentur; ea vero sunt θ
+      el<lb ed="#B" n="38" break="no"/>ρύσις 2. Petr. 1, v. 4. Galat. 4. v. 8. θεότης Col. 2, 
+      <lb ed="#B" n="39"/>θειότης Rom. 1, v. 20. Sap. 18, v. 9. Quid vero aliud est 
+      <lb ed="#B" n="40"/>divina natura, deitas, divinitas, quam divina essem 
+      <lb ed="#B" n="41"/>tia, τοῦ θεοῦ οὐσία vel θεία οὐσία? Quidam huc 
+      re<lb ed="#B" n="42" break="no"/>ferunt appellationem μορφῆς Phil. 2, v. 6. Christu 
+      <lb ed="#B" n="43"/>cum esset ἐν μορφῇ τοῦ θεοῦ, unde Tilenus in not 
+      <lb ed="#B" n="44"/>ad lib. 2. Bellarmin. de Christo c. 3: οὗσία, φύσις 
+      <lb ed="#B" n="45"/>μοραὴ in Deo xml:idem sunt. Sed ibi μορφή non signi 
+      <lb ed="#B" n="46"/>ficat primo ac principaliter ipsam essentiam et ni 
+      <lb ed="#B" n="47"/>turam divinam in se et absolute secundum εἶνα 
+      <lb ed="#B" n="48"/>consideratam, sed quatenus foras suis actionibus 
+      <lb ed="#B" n="49"/>progreditur ac humanis sensibus sese conspiciendam 
+      <lb ed="#B" n="50"/>exhibet, opponitur enim ei forma servi, quae πρώνω 
+      <lb ed="#B" n="51"/>et immediate non significat naturam et efficaciam 
+      servi<lb ed="#B" n="52" break="no"/>sed statum servilem ad tempus assumtum, qua de 
+      <lb ed="#B" n="53"/>re alibi plenius. 3. Significatio. Ούσίας vox de DEO 
+      <lb ed="#B" n="54"/>usurpata significat numero unam et indivisam 
+      essen<lb ed="#B" n="55" break="no"/>tiam tribus deitatis personis communem, quae non 
+      <lb ed="#B" n="56"/>est partialiter in tribus personis, ita ut pars ejus 
+      <lb ed="#B" n="57"/>sit in Patre, pars in Filio, pars in Spiritu sancto, seo 
+      <lb ed="#B" n="58"/>tota est in Patre, tota in Filio, tota in Spiritu 
+      <lb ed="#B" n="59"/>sancto propter infinitatem et immaterialitatem. Or 
+      <lb ed="#B" n="60"/>chodoxus apud Athanas. dial. 1: ἡ οὗσία ἱὴν κοινό¬ 
+      <!--462.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>τητα σημαίνει. Idem Athanas. in definitionibus 
+      <lb ed="#B" n="62"/>Natura, essentia, genus, forma unum sunt. Damase 
+      <lb ed="#B" n="63"/>sagog. c. 1: οὐσία καὶ φύσις καὶ μορφὴ κατὰ τοὺς 
+      <lb ed="#B" n="64"/>ἐγίους πατέρας ταῦτὸν ἔστίν. Nicetas lib. 3. thesauri 
+      <lb ed="#B" n="65"/>c. 14: Natura, essentia, genus et forma pro una 
+      <lb ed="#B" n="66"/>pademque re in ecclesiasticie dogmatibus capiuntur. 
+      <lb ed="#B" n="67"/>Damasc. in dial. c. 39: οὗσία ἐσιὶ πρᾶγμα αὐθύπαρ 
+      <lb ed="#B" n="68"/>ετον μὴ δεόμενον ἄλλου πρὸς σύστασιν. Idem το 
+      <lb ed="#B" n="69"/>μηδʼ ἄλλο μηδʼ ἐν ἑτέρῳ ἔχων τὴν ὑπαρξιν, ἀλλἐ 
+      <lb ed="#B" n="70"/>ἑαυτῷ ὅν. Boetius lib. de duab. naturis latine 
+      essen<lb ed="#B" n="71" break="no"/>tiam interpretatur, quo pacto translata est vox ista 
+      <lb ed="#B" n="72"/>Jraeca a Servio Flavio teste Quintiliano lib. 3. c. 7. 
+      <lb ed="#B" n="73"/>at lib. 8. c. 3. 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e1058">
+               <lb ed="#B" n="74"/>49. Antithegis. Ariani in conc. Syrm. et Arimir. 
+      <lb ed="#B" n="75"/>non minus voce οὐσίας quam ὑποστάσεως 
+      abstinen<lb ed="#B" n="76" break="no"/>lum judicarunt. Photiniani negant Deum vocari 
+      <lb ed="#B" n="77"/>osse οὐσίαν, essentiam. Transylvani dicunt vocem 
+      <lb ed="#B" n="78"/>ὥσίας a Mercurio Trismegisto, qui in Pimandri 
+      <lb ed="#B" n="79"/>nulta de Dei οὐσίς philosophatur, acceptam et ad 
+      <lb ed="#B" n="80"/>Christiana fidei dogmata perverse traductam. Nico. 
+      <lb ed="#B" n="81"/>Paruta thes. 5: An non longe differt essentia Dei al 
+      <lb ed="#B" n="82"/>exsistente Deo, cum essentia, ei vere et proprie 
+      lo<lb ed="#B" n="83" break="no"/>quamur, non sit ipse Deus, sed ipsius Dei 
+      attribu<lb ed="#B" n="84" break="no"/>um? Essentiae enim vox nihil vivum 
+      intelligensv<lb ed="#B" n="85" break="no"/>significat, non magis quam naturae vel divinitatis 
+      <lb ed="#B" n="86"/>ned cujusque rej statum et dispositionem. Et 
+      quem<lb ed="#B" n="87" break="no"/>admodum non dicimus naturam et divinitatem esse 
+      <lb ed="#B" n="88"/>Deum, sic neque essentiam. Recte poseumus unan 
+      <lb ed="#B" n="89"/>divinam essentiam dicere, sicut unus est Deus exer 
+      <lb ed="#B" n="90"/>stens, sed unum esse Deum essentiam nequaquam, 
+      <lb ed="#B" n="91"/>hoc enim esset non solum confundere prorsus statum 
+      <lb ed="#B" n="92"/>ei cum ipsa re, sed etiam aliud loqui quam 
+      Scri<lb ed="#B" n="93" break="no"/>ptura. Socinus in defens. animadv. Posnan. p. 42. 
+      <lb ed="#B" n="94"/>dductis illis Parutae verbis subjicit: Ex his 
+      aper<lb ed="#B" n="95" break="no"/>issimum est, ab ipso essentiae DEI nomen non 
+      re<lb ed="#B" n="96" break="no"/>jici, ac praeterea quid illud eit, quod ipse negat, 
+      <lb ed="#B" n="97"/>in Scripturis sanctis dici aut contineri, nempe 
+      essen<lb ed="#B" n="98" break="no"/>tiam esse Deum, vel unum esse Deum essentiam 
+      <lb ed="#B" n="99"/>non autem ipsum DEI essentiae nomen. Resp. 1. 
+      <lb ed="#B" n="100"/>noc loco non illud potissimum quaeritur, an DEUS 
+      <lb ed="#B" n="101"/>possit vocari sua essentia vel οὐσία, sed an nomer 
+      <lb ed="#B" n="102"/>ρύσlας et essentiae usurpari in hoc mysterio possit. 
+      <lb ed="#B" n="103"/>an vero ut absurdum et a Scripturis alienum sit 
+      <lb ed="#B" n="104"/>penitus rejiciendum. 2. De eo potissimum hic quae 
+      <lb ed="#B" n="105"/>ritur, an de tribus distinctis deitatis personis una 
+      <lb ed="#B" n="106"/>communis essentia divina recte praedicetur; xml:id si 
+      <lb ed="#B" n="107"/>concedunt adversarii, salva res est, sin negant, 
+      pro<lb ed="#B" n="108" break="no"/>ferant suae negationis argumenta. 3. Ostendimus in 
+      <lb ed="#B" n="109"/>tract. de attributis divinis propter summam 
+      simplici<lb ed="#B" n="110" break="no"/>tatem de Deo non solum nomina concreta, sed etiam 
+      <lb ed="#B" n="111"/>abstracta praedicari. Sicut ergo Deus non solum 
+      <lb ed="#B" n="112"/>est sapiens, sed ipsa sapientia, non solum est verax 
+      <lb ed="#B" n="113"/>sed ipsa veritas, non solum bonitas, sed ipsum 
+      bo<lb ed="#B" n="114" break="no"/>num: ita quoque non solum est ens, sed etiam 
+      essen<lb ed="#B" n="115" break="no"/>tia. 4. Magnum igitur, imo infinitum discrimen oc 
+      <lb ed="#B" n="116"/>currit in his praedicationibus, quando de tribus in 
+      <lb ed="#B" n="117"/>dividuis humanis praedico humanitatem sive huma 
+      <lb ed="#B" n="118"/>nam naturam, et quando de tribus deitatis personi 
+      <lb ed="#B" n="119"/>praedico divinam naturam sive essentiam, unde 
+      Au<lb ed="#B" n="120" break="no"/>justinus lib. 7. de trinit. recte pronuntiat: Essentia 
+      <!--463.xml-->
+      <pb ed="#B" n="390"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>praedicatur de Patre, Filio et Spiritu 8. non ut 
+      ge<lb ed="#B" n="2" break="no"/>nus de speciebus, nec ut species de individuis, nec 
+      <lb ed="#B" n="3"/>ut totum de partibus, sed alio quodam ineffabili e 
+      <lb ed="#B" n="4"/>incomprehengibili modo, quod Augustini pronuntia 
+      <lb ed="#B" n="5"/>tum verissimum esse ostendit collatio. Essentia ho 
+      <lb ed="#B" n="6"/>minum est nomen universale, quod per se revera 
+      <lb ed="#B" n="7"/>non exsistit, sed cogitatione tantum colligitur et in 
+      <lb ed="#B" n="8"/>ellectu comprehenditur. Essentia vero in divinis 
+      <lb ed="#B" n="9"/>non est quiddam imaginarium, ut genus vel species, 
+      <lb ed="#B" n="10"/>sed revera exsistit, quamvis sit communicabilis, 
+      quo<lb ed="#B" n="11" break="no"/>discrimen annotat Chemnîc. p. 1. loc. p. 83. Essentia 
+      <lb ed="#B" n="12"/>respectu divinarum personarum 1. non lest species 
+      <lb ed="#B" n="13"/>quia non eo modo personae trinitatis participant 
+      <lb ed="#B" n="14"/>essentiam, sicut individua naturam communem, a 
+      <lb ed="#B" n="15"/>nihil extra eam se diffundit, cujus sit veluti pars, ut 
+      <lb ed="#B" n="16"/>homo est species animalis, Petrus individuum 
+      hu<lb ed="#B" n="17" break="no"/>manae speciei; 2. non dicitur de multis individuis 
+      <lb ed="#B" n="18"/>numerica essentia differentibus, quo modo tres 
+      ho<lb ed="#B" n="19" break="no"/>mines numero differre dicuntur; 3. non praedicatur 
+      <lb ed="#B" n="20"/>in forma plurali de individuis, non enim tres per 
+      <lb ed="#B" n="21"/>sonae sunt tres dii vel tres essentiae divinae, sicus 
+      <lb ed="#B" n="22"/>Petrus, Paulus, Johannes sunt tres homines; 4. nec 
+      <lb ed="#B" n="23"/>pluribus nec paucioribus personis competit quam tribus 
+      <lb ed="#B" n="24"/>cum essentia humana non sit ad determinatum nume 
+      <lb ed="#B" n="25"/>rum personarum restricta. De uno homine non pos 
+      <lb ed="#B" n="26"/>sum dicere, quod tota ἀνθρωκότης sit in eo, sed de 
+      <lb ed="#B" n="27"/>una deitatis persona recte pronuntiare possum, quod 
+      <lb ed="#B" n="28"/>tota plenitudo deitatis sit in ipsa Col. 2. v. 9. 
+      Rati<lb ed="#B" n="29" break="no"/>pendet ab essentiae divinae infinitate, in tribus 
+      hu<lb ed="#B" n="30" break="no"/>manis individuis non est numero una essentia, sed 
+      <lb ed="#B" n="31"/>tantum specie una. Sed in tribus deitatis personis 
+      <lb ed="#B" n="32"/>est una numero et penitus indivisa essentia. Per 
+      <lb ed="#B" n="33"/>sonae humanae distinguuntur substantia, tempore, 
+      <lb ed="#B" n="34"/>voluntate, accidentibus animi et corporis, potentia 
+      <lb ed="#B" n="35"/>operatione, statu, dignitate ete. Sic alia est sub 
+      <lb ed="#B" n="36"/>stantia Petri quam Pauli, Petrus docuit ante Paulum 
+      <lb ed="#B" n="37"/>Petrus dissidet a Paulo, Paulus in gentibus, Petrus 
+      <lb ed="#B" n="38"/>apud Judaeos praedicavit ete., sed in trinitate non 
+      <lb ed="#B" n="39"/>ita distinguuntur personae, Filius enim Patri es 
+      <lb ed="#B" n="40"/>ὁμοοῦσιος, ὁμαιώνιος, συναῖδιος, una utriusque es 
+      <lb ed="#B" n="41"/>essentia et potentia, una voluntas, una operatio, quae 
+      <lb ed="#B" n="42"/>pater agit, ταῦτα ὁμοίως etiam agit Filius Joh.? 
+      <lb ed="#B" n="43"/>v. 19. De personis humanis dici nequit, quod una 
+      <lb ed="#B" n="44"/>sit in alia, sed de se et Patre Christus dicit Joh. 14 
+      <lb ed="#B" n="45"/>v. 10: Ego in Patre, et Pater in me. De personis 
+      <lb ed="#B" n="46"/>humanis dici nequit, quod propter naturam 
+      commu<lb ed="#B" n="47" break="no"/>nem, ubi est una persona, ibi sit etiam altera, quia 
+      <lb ed="#B" n="48"/>localiter sunt distinctae. Sed de se et Patre 
+      Chr<lb ed="#B" n="49" break="no"/>stus pronuntiat Joh. 8, v. 29: Pater non relinquis 
+      <lb ed="#B" n="50"/>me solum. De personis humanis dici nequit, quod 
+      <lb ed="#B" n="51"/>propter naturam communem, qui honorat unam, 
+      ho<lb ed="#B" n="52" break="no"/>norat etiam alteram, quin potius una potest 
+      hono<lb ed="#B" n="53" break="no"/>rari, altera interim ignominia affici, sed de se e 
+      <lb ed="#B" n="54"/>patre dicit Christus Joh. 5, v. 23: Qui non honora 
+      <lb ed="#B" n="55"/>Filium, is nec Patrem honorat; 5. impiae et blas 
+      <lb ed="#B" n="56"/>phemae sunt illae assertiones Parutae, quod longe 
+      <lb ed="#B" n="57"/>differat essentia Dei a Deo exsistente (hoc enim 
+      <lb ed="#B" n="58"/>perinde est ac si quis velit dicere, sapientiam Dei 
+      <lb ed="#B" n="59"/>differre a Deo sapiente, bonitatem Dei a Deo bono 
+      <lb ed="#B" n="60"/>quod essentiae vox nihil vivum intelligeneve eignifi 
+      <!--463.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>50. 2. ὁμοούσιος. De hae voce notanda 1. ἐτυ¬) 
+      <lb ed="#B" n="62"/>graphis patrum tom. 1. p. 85.) habetur vox ὁμοου¬ 
+      <lb ed="#B" n="63"/>cet, non magis quam naturae vel divinitatis, (
+      Atqui<lb ed="#B" n="64" break="no"/>essentia divina, natura divina ac divinitas nihil alius 
+      <lb ed="#B" n="65"/>realiter sunt quam ipse Deus, quem negare esse ent 
+      <lb ed="#B" n="66"/>vivum et intelligens est Deum ipsum negare) quod 
+      <lb ed="#B" n="67"/>non poseumus dicere naturam et divinitatem 
+      cxo<lb ed="#B" n="68" break="no"/>Deum, (ut enim Deus est sua bonitas, sua sapientia, 
+      <lb ed="#B" n="69"/>sic etiam est sua natura, sua divinitas, sua cscentia. 
+      <lb ed="#B" n="70"/>μόλογία. Ambros. lib. 3. de fide c. 7. monet, 
+      ho<lb ed="#B" n="71" break="no"/>nomen non esse a Scripturis alienum, cum formetus 
+      <lb ed="#B" n="72"/>ab οὐσίᾳ eodem fere modo, quo περιούσιὸς Tit. 2. 
+      <lb ed="#B" n="73"/>v. 14. et ἐπιούσιος Matth. 6, v. 11. Luc. 11, v. 3. 
+      <lb ed="#B" n="74"/>Dicitur ab ὁμῶς et οὐσίᾳ, quod essentia una et 
+      in<lb ed="#B" n="75" break="no"/>divisa aequaliter illis personis competat, quae dicum 
+      <lb ed="#B" n="76"/>tur ὁμοουσιοι. Ariani unica duntaxat litera inserta 
+      <lb ed="#B" n="77"/>vim et efficaciam hujus vocis intervertere 
+      conaban<lb ed="#B" n="78" break="no"/>tur, dicentes Filium esse Patri non ὁμοούοιον sed 
+      <lb ed="#B" n="79"/>ὁμοιούσιον, similis, non ejusdem cssentiae. 2. Origo. 
+      <lb ed="#B" n="80"/>Triani graviter accusabant veteres Catholicos ob 
+      novi<lb ed="#B" n="81" break="no"/>nujus nominis in concilio Niceno introductionem 
+      <lb ed="#B" n="82"/>permisisset. Sub nomine Justini, qui secundo post 
+      <lb ed="#B" n="83"/>eosdemque vocabant homousianos. Illis pii vetere 
+      <lb ed="#B" n="84"/>dupliciter respondebant. Primo quidam ostender 
+      <lb ed="#B" n="85"/>conati sunt etiam ante concilium Nicenum fuisse 
+      <lb ed="#B" n="86"/>illud in usu ecclesiae. In historia Prochori, qui fuit 
+      <lb ed="#B" n="87"/>inus ex septem diaconis Act. 6, v. 5. Stephani 
+      <lb ed="#B" n="88"/>protomartyris consobrinus (quae exstat in 
+      orthodoxo<lb ed="#B" n="89" break="no"/>σίου τριάδος, sed illa Prochori historia est auctori 
+      <lb ed="#B" n="90"/>recentioris, neque enim φράσις nec narrationis δεινό¬ 
+      <lb ed="#B" n="91"/>της apostolicae majestati respondet. Sunt qui 
+      existi<lb ed="#B" n="92" break="no"/>est quam in paraeneticis et apologeticis ad Graecos 
+      <lb ed="#B" n="93"/>mant, Prochori narrationem esse librum illum, qui 
+      <lb ed="#B" n="94"/>sub nomine Circuitus Johannis inter apocrypha ab 
+      <lb ed="#B" n="95"/>Athanasio in synopsi recensetur. Habet multa 
+      fabu<lb ed="#B" n="96" break="no"/>losa, utpote Johannem, cum ei ebrte obtogiscet Aeia, 
+      <lb ed="#B" n="97"/>pravisoime xml:id tulisos ac vehementer ingemuiseo ceque 
+      <lb ed="#B" n="98"/>ad pedes coliorum Ohristi apoctolorum abjeciese, quod 
+      <lb ed="#B" n="99"/>anto apostolo indignum. Item postquam Johannes 
+      <lb ed="#B" n="100"/>ex olla olei ferventis illaecus exivisset, a fidelibus, 
+      <lb ed="#B" n="101"/>qui illic aderant, templum in ejus honorem fuisae 
+      <lb ed="#B" n="102"/>zonstructum, quod Domitianus persecutor nunquam 
+      <lb ed="#B" n="103"/>Christum natum seculo vixit, exstat liber, cui titulus 
+      <lb ed="#B" n="104"/>κθεσις πίστεως περὶ τῆς ὁμοουσίου τριάδος. Sed 
+      eun<lb ed="#B" n="105" break="no"/>Justini esse eruditi dubitant, quorum sententiam pro 
+      <lb ed="#B" n="106"/>pamus 1. ex styli ratione. Stylus in eo libro nitidios 
+      <lb ed="#B" n="107"/>et in agonisticis ad Tryphonem teste Sylburgio 
+      <lb ed="#B" n="108"/>2. ex allegationis omissione. Eusebius, Hieronymus, 
+      <lb ed="#B" n="109"/>Photius, Honorius meminissent utique hujus libri 
+      <lb ed="#B" n="110"/>cum illis temporibus multum ad certamina de trini 
+      <lb ed="#B" n="111"/>tate Justini auctoritas conferre potuisset, cumque alias 
+      <lb ed="#B" n="112"/>scriptorum, quae Justinus reliquit, catalogum 
+      con<lb ed="#B" n="113" break="no"/>cripserint. Leontius Hierosolymitanus et Euthymius 
+      <lb ed="#B" n="114"/>Zigabenus in seculo sexto ejus libri mentionem 
+      fa<lb ed="#B" n="115" break="no"/>ciunt, ex quo conjectura oritur, scriptum esse circa 
+      <lb ed="#B" n="116"/>annum 400; 3. ex contentorum consideratione. Vocel 
+      <lb ed="#B" n="117"/>ύσίας et ὑποσιάσεως in illo libro saepius distinguum 
+      <lb ed="#B" n="118"/>tur et explicantur. At ei hic liber est Justini, mirum 
+      <lb ed="#B" n="119"/>alicui haud immerito videatur, Gregorium Nyssenum 
+      <lb ed="#B" n="120"/>Basilii Magni fratris sui admonitionem hac de n 
+      <!--464.xml-->
+      <pb ed="#B" n="391"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>eguisse, ac Basilium de hoc argumento prolixo ad 
+      <lb ed="#B" n="2"/>fratrem scribentem nullam ejus libri mentionem 
+      fe<lb ed="#B" n="3" break="no"/>cisse. Vocabulum μονάδος, τριάδος et alia hujus 
+      <lb ed="#B" n="4"/>loctrinae nondum adeo in ecclesia erant usitata 
+      <lb ed="#B" n="5"/>itaque nuspiam illorum in γνησίοις et indubitatis 
+      <lb ed="#B" n="6"/>Justini scriptis fit mentio, cum tamen doctrinam de 
+      <lb ed="#B" n="7"/>Deo Patre, Filio et Spiritu s. aliquoties ex professo 
+      <lb ed="#B" n="8"/>tractet. Multo apertius (inquit Chemnicius) es di 
+      <lb ed="#B" n="9"/>stinctius disaerit de mysteriis trinitatis et incarna 
+      <lb ed="#B" n="10"/>tionis, quam ocriptores ejus seculi facere solent. In 
+      <lb ed="#B" n="11"/>principio ἐxθ. a patrum doctrinis se de Deo 
+      erudi<lb ed="#B" n="12" break="no"/>tum dicit, cum Just. in epist. ad Diogn. se 
+      aposto<lb ed="#B" n="13" break="no"/>lorum diccipulum appellat. In fine discrimen 
+      inha<lb ed="#B" n="14" break="no"/>bitationis Aόγου in carne et inhabitationis ejusdem 
+      <lb ed="#B" n="15"/>in aliis rebus creatis late explicatur, ex quo 
+      colligi<lb ed="#B" n="16" break="no"/>tur, post Nestorii controversiam in ecclesia motam 
+      <lb ed="#B" n="17"/>ibrum hunc fuisse confectum; 4. ex auctorum testa 
+      <lb ed="#B" n="18"/>ficatione. Philippus in epist. ad Camer. Perionius 
+      <lb ed="#B" n="19"/>Sylburgius, Chemnicius de lect. patr. Bellarmin. de 
+      <lb ed="#B" n="20"/>script. ecclesiast. ete. de eo dubitant. Athanas. in 
+      <lb ed="#B" n="21"/>epist. de sent. Dionysii Alexandrini refert, Diony 
+      <lb ed="#B" n="22"/>sium Alexandrinum in apologia ad Dionys. Rom. hoc 
+      <lb ed="#B" n="23"/>nomine esse usum; lib. de decret. syn. Nicen. addu 
+      <lb ed="#B" n="24"/>eit testimonia utriusque Dionysii, Theognosti et 
+      Ori<lb ed="#B" n="25" break="no"/>genis; in libr. de synod. Arimin. et Seleuc. dicit 
+      con<lb ed="#B" n="26" break="no"/>cilium Nicenum esse usum iis vocibus, quibus majo 
+      <lb ed="#B" n="27"/>res usi fuerant. Secundo: quidam vero fatentur, 
+      <lb ed="#B" n="28"/>hoc nomen a concilii Niceni patribus primum fuisse 
+      <lb ed="#B" n="29"/>usurpatum, sed repudiari non posse, cum res ipsa in 
+      <lb ed="#B" n="30"/>Scripturis contineatur. August. tract. 97. in Johann 
+      <lb ed="#B" n="31"/>Adversus impietatem Arianorum hacreticorum novum 
+      <lb ed="#B" n="32"/>nomen patres homousion condiderunt, sed non rem 
+      <lb ed="#B" n="33"/>novam tali nomine signaverunt, hoc enim vocatus 
+      <lb ed="#B" n="34"/>homousion, quod est, Ego et Pater unum sumus 
+      <lb ed="#B" n="35"/>unius videlicet ejusdemque substantiae. Lib. 3. contra 
+      <lb ed="#B" n="36"/>Maxim. c. 14: Verbum illud ὁμοούσιος adv. haere 
+      <lb ed="#B" n="37"/>ticos Arianos veritatis auctoritate et auctoritatia 
+      <lb ed="#B" n="38"/>veritate firmatum esse scribit. Tertio: Ambrosius 
+      <lb ed="#B" n="39"/>lib. 3. de fide c. 7. monet, patres conc. Nic. occa 
+      <lb ed="#B" n="40"/>sionem hujus nominis usurpandi accepisse ex verbis 
+      <lb ed="#B" n="41"/>Eusebii Nicomediensis haeretici Ariani, qui in qua 
+      <lb ed="#B" n="42"/>dam epistola scripserat: Si verum Dei Filium et 
+      <lb ed="#B" n="43"/>increatum dicimus, homousion cum Patre incipimus 
+      <lb ed="#B" n="44"/>confiteri. Haec, ait Ambrosius, cum lecta esset in 
+      <lb ed="#B" n="45"/>Niceno concilio epistola, hoc verbum in tractatu fide 
+      <lb ed="#B" n="46"/>posuerunt patres, quod viderunt adversariis eas 
+      <lb ed="#B" n="47"/>formidini 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e1541">
+               <lb ed="#B" n="48"/>51. 3. Significatio. Quemadmodum Christus 
+      di<lb ed="#B" n="49" break="no"/>vino plane artificio tum essentiae unitatem, tum per 
+      <lb ed="#B" n="50"/>sonalem distinctionem exprimit, quando Johann. 10 
+      <lb ed="#B" n="51"/>v. 30. de se et Patre dicit: Ego et Pater unum 
+      su<lb ed="#B" n="52" break="no"/>mus. Per xml:id, quod ait unum, Arium perculit; 
+      pe<lb ed="#B" n="53" break="no"/>illud, quod ait sumus, Sabellium stravit, cum 
+      ne<lb ed="#B" n="54" break="no"/>sumus de uno, nec unum diceret de diverso. 
+      Augu<lb ed="#B" n="55" break="no"/>stin. lib. de quinque haeres. c. 7. sic nomen ὁμοού¬ 
+      <lb ed="#B" n="56"/>σιος utrumque complectitur, quod Filius sit distincta 
+      <lb ed="#B" n="57"/>a Patre persona ac quod sit unius ejusdemque cum 
+      <lb ed="#B" n="58"/>Patre essentiae. Ambrosius l. 3. de fide cap. 7. 
+      <lb ed="#B" n="59"/>Recte homousion Patri Filium dicimus, quia verbi 
+      <lb ed="#B" n="60"/>eo et personarum distinctio et naturae unitas signi¬ 
+      <!--464.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ficatur. Id ipsum latius exponit Athanasius in 
+      lil<lb ed="#B" n="62" break="no"/>de decret. synodi Arim. et Seleuc., ubi monet, 
+      ho<lb ed="#B" n="63" break="no"/>mousios non dici de illis, quae quomodocunque 
+      ha<lb ed="#B" n="64" break="no"/>bent unam essentiam, sed de illis tantum, quorum 
+      <lb ed="#B" n="65"/>unum est ab altero et ab illo recipit eandem 
+      essen<lb ed="#B" n="66" break="no"/>tiam. Sabellius fatebatur, Patris et Filii esse 
+      ean<lb ed="#B" n="67" break="no"/>dem essentiam, sed negabat Filium esse a Patre ab 
+      <lb ed="#B" n="68"/>aeterno genitum et personaliter ab eo distinctum 
+      <lb ed="#B" n="69"/>Arius fatebatur Filium esse a Patre et personalite. 
+      <lb ed="#B" n="70"/>ib eo distingui, sed negabat eandem per generatio 
+      <lb ed="#B" n="71"/>nem a Patre essentiam accepisse, utrique igitur 
+      op<lb ed="#B" n="72" break="no"/>positum fuit a concil. Nic. nomen ὁμοούσιος. 
+      Epi<lb ed="#B" n="73" break="no"/>phanius in Ancorato monet, aliud esse συνούσιον, 
+      <lb ed="#B" n="74"/>liud ὁμοούσιον; illud significat unitatem sine distin 
+      <lb ed="#B" n="75"/>ctione, hoc vero significat unitatem cum distinctione 
+      <lb ed="#B" n="76"/>inius ab alio. Alii ex veteribus tradunt discrimen 
+      <lb ed="#B" n="77"/>asse inter ὁμοούσιον et ὁμοιούσιον. Item inter ὁμοού 
+      <lb ed="#B" n="78"/>σιον ac ἑτερούσιον, ut per ὁμοουσίαν non tantum similis 
+      <lb ed="#B" n="79"/>sed aequalis, imo numero eadem essentia, potentia, 
+      <lb ed="#B" n="80"/>aeternitas, voluntas, operatio et majestas intelligatur. 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e1620">
+               <lb ed="#B" n="81"/>52. 4. Antithesis. 1. Ariani nomen ὁμοούσιος 
+      <lb ed="#B" n="82"/>oderant vel maxime, xml:ideo omnes alias voces tolera 
+      <lb ed="#B" n="83"/>bant praeter istam, quia scilicet hanc non poterant 
+      <lb ed="#B" n="84"/>ad suum haereticum sensum detorquere. Athanas 
+      <lb ed="#B" n="85"/>in lib. de decr. synod. Nicenae. Theod. lib. 2. Hist. 
+      <lb ed="#B" n="86"/>c. 18. et 19. Tripart. lib. 5. c. 21. et 33. tradunt. 
+      <lb ed="#B" n="87"/>Arianos a Catholicis petiisse, ut unam saltem 
+      vocen<lb ed="#B" n="88" break="no"/>pmitterent, quae nec in Scriptura, neo in symbolo 
+      <lb ed="#B" n="89"/>ipostolico habetur, vel saltem unam literam 
+      omitte<lb ed="#B" n="90" break="no"/>cent, et pro ὁμοούσιον dicerent ὁμοιούσιον, sic pacem 
+      <lb ed="#B" n="91"/>cum Catholicis se culturos sunt polliciti. Sed 
+      Ca<lb ed="#B" n="92" break="no"/>holici recte hoc recusarunt. Cum vero in concilio 
+      <lb ed="#B" n="93"/>Ariminensi simpliciores ab Arianis decepti nomen 
+      <lb ed="#B" n="94"/>ομοούσιον esse tollendum consentirent, mox 
+      Arian<lb ed="#B" n="95" break="no"/>toto orbe decreverunt, Catholicos in suas partes 
+      <lb ed="#B" n="96"/>transiisse ac temporis progressu pro ὁμοιούσιον 
+      <lb ed="#B" n="97"/>substituerunt ἐτερούσιον. Theodor. lib. ejusd. c. 21. 
+      <lb ed="#B" n="98"/>Equidem patres concilii Antiocheni, contra 
+      Sa<lb ed="#B" n="99" break="no"/>mosatenum ann. 266. habiti, diserte negaverant, 
+      <lb ed="#B" n="100"/>dque ante natam Arii haeresin, Filium esse 
+      Patri<lb ed="#B" n="101" break="no"/>nomousion, unde quibusdam etiam orthodoxis et fidem 
+      <lb ed="#B" n="102"/>Nicenam amplectentibus hoc vocabulum insolentius 
+      <lb ed="#B" n="103"/>ac periculosius fuit visum. Sed Athanasius in lib 
+      <lb ed="#B" n="104"/>de decret. synodi Nicen. monet, alio sensu a patri 
+      <lb ed="#B" n="105"/>bus Nicenis et aliis orthodoxis fuisse receptum, alie 
+      <lb ed="#B" n="106"/>sensu a patribus Antiochenis rejectum. Samosate 
+      <lb ed="#B" n="107"/>nus enim FFilium Patri dicebat ὁμοούσιον tantum 
+      <lb ed="#B" n="108"/>juxta speciem, non secundum numerum, sicut Petrus 
+      <lb ed="#B" n="109"/>est Paulo ὁμοούσιος propter eandem specie humani 
+      <lb ed="#B" n="110"/>atem. Sed synodi Nicenae patres Filium 
+      vocan<lb ed="#B" n="111" break="no"/>Patri ὁμοούσιον secundum ac propter eandem numere 
+      <lb ed="#B" n="112"/>essentiam divinam. Inde Hilarius in lib. de synod. 
+      <lb ed="#B" n="113"/>circa fin. scribit: Male homousion Samosatenus 
+      con<lb ed="#B" n="114" break="no"/>fessus est, sed numquid melius Ariani negaverunt: 
+      <lb ed="#B" n="115"/>octoginta episcopi olim respuerunt, sed trecenti decem 
+      <lb ed="#B" n="116"/>et octo nuper receperunt. Illi contra haereticum 
+      <lb ed="#B" n="117"/>improbaverunt, numquid et isti non adversum 
+      haere<lb ed="#B" n="118" break="no"/>ticum probaverunt? si et probando et improbando 
+      <lb ed="#B" n="119"/>unum utrique statuerunt, quid bene constituta 
+      con<lb ed="#B" n="120" break="no"/>vellimus? 3. Pontificii Luthero tribuunt, quod seri 
+      <!--465.xml-->
+      <pb ed="#B" n="392"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>pserit, animam suam odisse nomen ὁμοουσίου, und 
+      <lb ed="#B" n="2"/>eo nomine Arianismi eum peragunt reum. Bellar 
+      <lb ed="#B" n="3"/>min. praefat. cont. de Christo §. Sed mittamus. in 
+      <lb ed="#B" n="4"/>jud. de lib. concord. mend. 3. Possevinus l. 3. de 
+      <lb ed="#B" n="5"/>notis verbi Dei p. 68. Campian. rat. 8. Gregor. de 
+      <lb ed="#B" n="6"/>Valent. in lib. de unit. et trinit. c. 7, p. 146. (quo 
+      <lb ed="#B" n="7"/>rum verba adduximus in loc. de natura Dei §. 2. 
+      <lb ed="#B" n="8"/>et Disp. 4. de gloria Dei §. 1.) Eandem orbitam 
+      <lb ed="#B" n="9"/>terit Calvinista Bremensis Johannes Lampadius in 
+      <lb ed="#B" n="10"/>cens. ubiquit. c. 6. p. 45. sic scribens: Nos non 
+      <lb ed="#B" n="11"/>tantum ὅμοιον, sed etiam ὁμοούσιον, quanquam hoc 
+      <lb ed="#B" n="12"/>vocabulum Luthero displicet, cum ait: Anima 
+      me<lb ed="#B" n="13" break="no"/>odit verbum ὁμοούσιον, Christum confitemur. Resp. 
+      <lb ed="#B" n="14"/>Bellarminus lib. 2. de Christo e. 3. refert, patres 
+      <lb ed="#B" n="15"/>coucilii Antiocheni negasse Filium esse Patri ὁμοού 
+      <lb ed="#B" n="16"/>σιον, ac nihilominus eos recte seusisse, nec Ariana 
+      <lb ed="#B" n="17"/>haereseos affines fuisse. 2. Luther. in lib. de cone 
+      <lb ed="#B" n="18"/>et eceles. tom. 7. Jen. Germ. fol. 243. vocem ho 
+      <lb ed="#B" n="19"/>mousios in explicatione hujus mysterii non tantum 
+      <lb ed="#B" n="20"/>usurpat, sed etiam pro eadem strenue pugnat; 3. ii 
+      <lb ed="#B" n="21"/>confut. rationum Latomi tom. 2. oper. Latin. fol. 407. 
+      <lb ed="#B" n="22"/>non absolute et categorice, sed secundum quid e 
+      <lb ed="#B" n="23"/>certo respectu dicit: quod si anima mea odit nomes 
+      <lb ed="#B" n="24"/>homousios; 4. diserte ibidem addit non de re, se 
+      <lb ed="#B" n="25"/>de ipso vocabulo sese agere, modo rem teneam, in 
+      <lb ed="#B" n="26"/>quit, in concilio per Scripturas definitam, 
+      haereti<lb ed="#B" n="27" break="no"/>cus non ero; 5. Lampadii calumniae merito 
+      oppon<lb ed="#B" n="28" break="no"/>tur Thomae Mortoni Angli patrocinium, quod Luth 
+      <lb ed="#B" n="29"/>praefat. lib. 1. apol. Cathol. c. 5. 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e1779">
+               <lb ed="#B" n="30"/>53. 3. ὑπόστασις. Hujus vocabuli itidem notanda 
+      <lb ed="#B" n="31"/>1. ἐτυμόλογία. Dicitur ὑπόστασις ab ὑφίστασθο 
+      <lb ed="#B" n="32"/>subsistere, firmiter stare. Neque vero opus est varia, 
+      <lb ed="#B" n="33"/>hujus vocabuli significationes recensere, cum ea 
+      nul<lb ed="#B" n="34" break="no"/>lam habeant cognationem cum significatione ea, in 
+      <lb ed="#B" n="35"/>qua h. I. usurpatur, nisi quis huc referre velit, quod 
+      <lb ed="#B" n="36"/>Arist. lib. de mund. distinguit inter μετέωρα ἔμφα 
+      <lb ed="#B" n="37"/>τικὰ et ὑποστατικά; 2. origo. In Scripturis sacri, 
+      <lb ed="#B" n="38"/>nomen ὑποσιάσεως haberi dubium nullum, cum d 
+      <lb ed="#B" n="39"/>firma fiducia et immota animi confidentia usurpetu 
+      <lb ed="#B" n="40"/>2. Cor. 6. v. 4. c. 11, v. 16. Hebr. 3, v. 14. c. 11. 
+      <lb ed="#B" n="41"/>v. I. ete., xml:id vero in quaestione est, an in ea signi 
+      <lb ed="#B" n="42"/>ficatione usurpetur, quam in trinitatis mysterio 
+      obti<lb ed="#B" n="43" break="no"/>net? Cum autem nullus Scripturae locus afferri pos 
+      <lb ed="#B" n="44"/>sit, qui verisimili quadam ratione illud probet, nis 
+      <lb ed="#B" n="45"/>is qui exstat Hebr. 1, v. 3: Filius est χαρακτὴρ τῇ 
+      <lb ed="#B" n="46"/>ὑποστάστεως τοῦ Πατρός, inde quaestionis scopus e 
+      <lb ed="#B" n="47"/>redit, an in loco illo apostolico ὑπόστασις in ea 
+      signi<lb ed="#B" n="48" break="no"/>ficatione usurpetur, in qua nomen personae in ex 
+      <lb ed="#B" n="49"/>plicatione hujus articuli accipitur? Affirmant ex 
+      <lb ed="#B" n="50"/>Pontificiis Bellarmin. lib. 2. de Christo c. 4. Ribera 
+      <lb ed="#B" n="51"/>in e. 1. Hebr. p. 59. Salmeron tom. 2. tract. 11 
+      <lb ed="#B" n="52"/>p. 103. ex Calvinianis Calv. 1. Institut. c. 13. sect. 1. 
+      <lb ed="#B" n="53"/>Zanch. 1. de trib. Elohim c. 2. Ursin. p. 2. Catech. 
+      <lb ed="#B" n="54"/>q. 23. et alii complures. Verba Calvini sic habent 
+      <lb ed="#B" n="55"/>Pro essentia accipere hypostasin Hebr. I, v. 3. no 
+      <lb ed="#B" n="56"/>durum modo, sed absurdum quoque est, cum enim 
+      <lb ed="#B" n="57"/>simplex et individua sit Dei essentia, qui totam in 
+      <lb ed="#B" n="58"/>se continet, neque portione aut defluxu, sed inteqro 
+      <lb ed="#B" n="59"/>perfectione, improprie, imo inepte dicetur ejus cho 
+      <lb ed="#B" n="60"/>racter. Ex quibus Calvini verbis primum hujus sen¬ 
+      <!--465.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tentiae argumentum ἀνασκευαστικόν peti potest, 
+      <lb ed="#B" n="62"/>natura divinae essentiae deductum, ea enim cum 
+      sit<lb ed="#B" n="63" break="no"/>simplicissima et penitus indivisa, xml:ideo Filius non v. 
+      <lb ed="#B" n="64"/>detur dici posse character essentiae paternae. Et 
+      <lb ed="#B" n="65"/>sentia Filii non est similis essentiae Patris, sed 
+      pror<lb ed="#B" n="66" break="no"/>sus eadem, ergo essentiae respectu non potest Filius 
+      <lb ed="#B" n="67"/>dici χαρακτήρ sive expressa essentia Patris. Alterur 
+      <lb ed="#B" n="68"/>argumentum ἀνασκευαστικόν peti potest a Patris e 
+      <lb ed="#B" n="69"/>Filii ὁμοουσίᾳ, in quo et cujus respectu Pater et 
+      <lb ed="#B" n="70"/>Filius sunt simplicissime unum, in eo et illius 
+      re<lb ed="#B" n="71" break="no"/>spectu Filius non potest dici character Patris, qui 
+      <lb ed="#B" n="72"/>character et imago non potest dici ratione sui ipsius. 
+      <lb ed="#B" n="73"/>Atqui in essentia et respectu essentiae Pater et F 
+      <lb ed="#B" n="74"/>lius sunt simplicissime unum. Ergo. 3. ab absurde 
+      <lb ed="#B" n="75"/>Si Filius dicitur imago essentiae Patris, tum essentia 
+      <lb ed="#B" n="76"/>Patris erit exemplar imagini respondens, quia imago 
+      <lb ed="#B" n="77"/>non dicitur ad se, sed distinguitur ab exemplari, u 
+      <lb ed="#B" n="78"/>res producta a producente, ac Filii essentia non eri 
+      <lb ed="#B" n="79"/>ipsa Patris essentia. At posterius absurdum, quia 
+      <lb ed="#B" n="80"/>essentia Patris non est illud exemplar, cui correlat 
+      <lb ed="#B" n="81"/>respondet Filii imago, sed est potius tertium illud 
+      <lb ed="#B" n="82"/>sive fundamentum, in quo exemplar et imago 
+      con<lb ed="#B" n="83" break="no"/>veniunt. Κατασκευαστικὰ argumenta haec sunt: 1. 
+      <lb ed="#B" n="84"/>propria hujus vocis significatione ὑπόστασις proprie 
+      <lb ed="#B" n="85"/>et in nativa sua significatione notat aliquid subsistent 
+      <lb ed="#B" n="86"/>ac distinguitur ab οὐσίᾳ, quae naturam pluribus in 
+      <lb ed="#B" n="87"/>dividuis communem designat. Atqui verosimile non 
+      <lb ed="#B" n="88"/>est, apostolum hanc nativam vocis significationem 
+      <lb ed="#B" n="89"/>confundere voluisse; 2. a scopi apostolici conside 
+      <lb ed="#B" n="90"/>ratione. Apostolus emphatica appellatione Christur 
+      <lb ed="#B" n="91"/>vocat characterem, h. e. expressam et perfectam ima 
+      <lb ed="#B" n="92"/>ginem. Jam vero ipsum nomen imaginis deducit 
+      <lb ed="#B" n="93"/>nos ad cogitationem de correlato. Imago enim non 
+      <lb ed="#B" n="94"/>est sui ipsius imago, sed alterius. August. lib.. 
+      <lb ed="#B" n="95"/>de trinit. c. 1: Imago est nomen personale, cum 
+      <lb ed="#B" n="96"/>mago non dicatur ad se, sed ad aliud. Filius erge 
+      <lb ed="#B" n="97"/>dicitur imago Patris, quia, quicquid Pater habe 
+      <lb ed="#B" n="98"/>proprium, xml:id in Filio est expressum, qui cum sit s 
+      <lb ed="#B" n="99"/>Patre genitus, xml:ideo character personae Patris dici 
+      <lb ed="#B" n="100"/>tur; 3. ex Christi filiatione. Christus secundum 
+      de<lb ed="#B" n="101" break="no"/>tatem sive ὁ Λγos illius est imago, cujus est Fi 
+      <lb ed="#B" n="102"/>lius, inde enim atque xml:ideo est imago Patris, qui al 
+      <lb ed="#B" n="103"/>aeterno est a Patre genitus exprimens perfecte et 
+      <lb ed="#B" n="104"/>plene eum, a quo genitus est. Jam vero ὁ Λόγο 
+      <lb ed="#B" n="105"/>est Filius non essentiae sed personae Patris, quia 
+      <lb ed="#B" n="106"/>persona proprie loquendo generat non essentia 
+      <lb ed="#B" n="107"/>Ergo etiam personae, non essentiae imago dicitur. 
+      <lb ed="#B" n="108"/>4. ex loci apostolici collatione. Quo sensu ac 
+      mod<lb ed="#B" n="109" break="no"/>Filius dicitur imago Dei invisibilis Coloss. 1, v. 15. 
+      <lb ed="#B" n="110"/>eo sensu ac modo dicitur χαρακτὴρ τῆς ὑποσιάσεως 
+      <lb ed="#B" n="111"/>Jam vero Filius dicitur imago Dei invisibilis re 
+      <lb ed="#B" n="112"/>spectu personae, quia persona Patris est illud corre 
+      <lb ed="#B" n="113"/>latum, cui Filius dicitur similis. Ergo. 5. ex 
+      con<lb ed="#B" n="114" break="no"/>notata relatione. Quicquid in divinis relative 
+      die<lb ed="#B" n="115" break="no"/>tur et originem seu processionem significat, illuo 
+      <lb ed="#B" n="116"/>est personale et dicitur cum relatione ad personam 
+      <lb ed="#B" n="117"/>Imago dicitur relative, quia refertur ad personam 
+      <lb ed="#B" n="118"/>et significat originem, a quo, seu processionem, ex 
+      <lb ed="#B" n="119"/>uo. Ergo. 6. ex veterum testificatione. 
+      Chryso<lb ed="#B" n="120" break="no"/>stomus, Theodoretus, Theophylactus et Oecumenius 
+      <!--466.xml-->
+      <pb ed="#B" n="393"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>in comment. h. I. Nyssenus in lib. de different. es 
+      <lb ed="#B" n="2"/>sentiae et suppositi. Thom. p. 1. q. 35. art I. it. 
+      <lb ed="#B" n="3"/>itatuunt, quam sententiam etiam quidam ex nostri 
+      <lb ed="#B" n="4"/>sequuntur. D. Huter. in loc. de Deo, Dn. D. Meis 
+      <lb ed="#B" n="5"/>ner. p. 2. sobr. Phil. 417. Gravver. in exam. Sophi 
+      <lb ed="#B" n="6"/>stie. p. 20. etc. 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e2003">
+               <lb ed="#B" n="7"/>54. Contra vero D. Chemnicius p. 1. loc. p. 88 
+      <lb ed="#B" n="8"/>vocabulum ὑπόσιασις (inquit) exstat quidem (Hebi 
+      <lb ed="#B" n="9"/>1, v. 3), aed aliter usurpatur, quam nunc ecclesio 
+      <lb ed="#B" n="10"/>eo utitur, quod enim nunc usitate in ecclesia voca 
+      <lb ed="#B" n="11"/>mus οὐσίαν, ibi ὑπόστασις appellatur. Idem statui 
+      <lb ed="#B" n="12"/>Dn. D. Mentzerus tom. 3. disp. Gissens. disp. 4. 
+      <lb ed="#B" n="13"/>th. 58, pro qua sententia hae rationes afferri pos 
+      <lb ed="#B" n="14"/>sunt: 1. ex ipsa vocabuli significatione. 2. Cor. 9. 
+      <lb ed="#B" n="15"/>v. 4. Hebr. 3, v. 14. c. 11, v. 1. verti potest pro 
+      <lb ed="#B" n="16"/>substantia seu argumento et fulcimento gloriation. 
+      <lb ed="#B" n="17"/>ac rerum sperandarum, sed pro persona accipi ni 
+      <lb ed="#B" n="18"/>quit; 2. ex textus apostoli connexione. Quo mod 
+      <lb ed="#B" n="19"/>ac sensu Filius dicitur ἀπαύγασμα τῆς δόξης, ed 
+      <lb ed="#B" n="20"/>modo ac sensu etiam vocatur χαρακτὴρ τῆς ὑποστο 
+      <lb ed="#B" n="21"/>σεως. Jam vero δόξα Patris non notat personam 
+      <lb ed="#B" n="22"/>ejus ut a Patre distinguitur, sed aeternam ac divi 
+      <lb ed="#B" n="23"/>nam ejus majestatem et gloriam. Ergo nec 
+      hypo<lb ed="#B" n="24" break="no"/>stasis notat personam Patris, ut ab essentia distin 
+      <lb ed="#B" n="25"/>guitur; 3. ab imaginis conditione. Filius est χαρι 
+      <lb ed="#B" n="26"/>κτὴρ Patris in eo, in quo est Patri quam simillimu 
+      <lb ed="#B" n="27"/>vel potius aequalis et cum Patre simplicissim 
+      <lb ed="#B" n="28"/>unum, non in eo, in quo a Patre distinguitu 
+      <lb ed="#B" n="29"/>Imago enim et character est similitudinis. Jan 
+      <lb ed="#B" n="30"/>vero Filius est Patri similis vel potius aequalis, 
+      im<lb ed="#B" n="31" break="no"/>cum Patre simplicissime unum in essentia, gloris 
+      <lb ed="#B" n="32"/>potentia ac majestate, quam eandem, habet cum 
+      <lb ed="#B" n="33"/>Patre communem, non in persona, quam habet 
+      <lb ed="#B" n="34"/>Patre vere et realiter distinctam. Inde atque 
+      xml:ide<lb ed="#B" n="35" break="no"/>Filius dicitur imago Patris, quia ut Pater est verus 
+      <lb ed="#B" n="36"/>Deus, aeternus, omnipotens, omnisapiens, ita quo 
+      <lb ed="#B" n="37"/>que Filius est verus Deus, aeternus, etc.; atqui de 
+      <lb ed="#B" n="38"/>tas, aeternitas, omnipotentia pertinent ad essentiam 
+      <lb ed="#B" n="39"/>non ad notionem hypostaticam; 1. a denomination 
+      <lb ed="#B" n="40"/>ratione. Filius xml:ideo dicitur imago Patris non solum 
+      <lb ed="#B" n="41"/>quia Patris consilium de salute nostra nobis 
+      pat<lb ed="#B" n="42" break="no"/>facit, sed etiam quia ἐν ἑαυτῷ ὅλον δεικνύσει τὸ 
+      <lb ed="#B" n="43"/>γεννήσαντα. Basil. in c. 1. Joh. totam essentiam 
+      <lb ed="#B" n="44"/>Patris in se exprimit, in ipso Patrem videmus eto 
+      <lb ed="#B" n="45"/>Vide loc. de Deo Patre et Filio §. 159. Atqui hae 
+      <lb ed="#B" n="46"/>non pertinent ad personam, juxta quam a Patre 
+      <lb ed="#B" n="47"/>distinguitur, sed ad communem, imo unam utrius 
+      <lb ed="#B" n="48"/>que naturam; 5. ab usitata in ecclesia appellatione 
+      <lb ed="#B" n="49"/>Filius dicitur imago Patris essentialis, substantialis 
+      <lb ed="#B" n="50"/>naturalis, non autem imago personalis. Ergo non 
+      <lb ed="#B" n="51"/>personae, sed naturae respectu sic appellatur; 6. 
+      <lb ed="#B" n="52"/>vulgata versione, quae reddidit, quod Filius si 
+      <lb ed="#B" n="53"/>imago substantiae Patris, non personae vel substantia 
+      <lb ed="#B" n="54"/>Luth. seines Wesens; 7. ex Syr. versione, quae habet vocen 
+      <lb ed="#B" n="55"/>Tmarietj essentiae, ut et Arabica, quae habet vocen 
+      <lb ed="#B" n="56"/>Xe splendoris, lucis, jubaris;; 8. ex veterum testi 
+      <lb ed="#B" n="57"/>ficatione. Epiphan. lib. 2. tom. 2. haeres. 69. hype 
+      <lb ed="#B" n="58"/>stasin in loco illo apostolico exponit per essentiam 
+      <lb ed="#B" n="59"/>Basil. epist. 43. Cyrill. dial. 1. de trinit. trip. lib. 
+      <!--466.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>6, c. 21. hanc vocem non ex Scripturae phras. 
+      <lb ed="#B" n="61"/>sed ex communi loquendi consuctudine sumtam 
+      <lb ed="#B" n="62"/>Canerums 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e2131">
+               <lb ed="#B" n="63"/>55. Pro decisione quaestionis repetimus 1. distii 
+      <lb ed="#B" n="64"/>ctionem in loc. de nat. Dei §. 34. traditam 
+      inte<lb ed="#B" n="65" break="no"/>personam et personalitatem. Vox hypostaseos Hebi 
+      <lb ed="#B" n="66"/>I, v. 3. non significat personalitatem seu persona 
+      <lb ed="#B" n="67"/>em proprietatem formaliter acceptam, sed 
+      perso<lb ed="#B" n="68" break="no"/>nam, h. e. essentiam Patris charactere hypostatico 
+      <lb ed="#B" n="69"/>insignitam, ut sit sensus: Filius est character 
+      hypo<lb ed="#B" n="70" break="no"/>staseos Patris, h. e. primae personae, quae est Pater 
+      <lb ed="#B" n="71"/>Dicitur autem imago personae Patris, non quia 
+      pe<lb ed="#B" n="72" break="no"/>jonam Patris sibi communicatam habet, sed 
+      qui<lb ed="#B" n="73" break="no"/>eandem numero essentiam habet, quam Pater. Qui 
+      <lb ed="#B" n="74"/>dam hanc distinctionem sic efferunt. Personae vor 
+      <lb ed="#B" n="75"/>sumitur vel materialiter et concrete pro persona 
+      es<lb ed="#B" n="76" break="no"/>sentiam habente, vel formaliter et praecise, ut 
+      di<lb ed="#B" n="77" break="no"/>stinguitur ab essentia et est xml:idem quod personalitas 
+      <lb ed="#B" n="78"/>Priori sensu Filius dicitur imago personae Patris 
+      <lb ed="#B" n="79"/>non autem posteriori. 2. Distinguendum inter ima 
+      <lb ed="#B" n="80"/>ginis correlatum et fundamentum. Correlatum, 
+      pro<lb ed="#B" n="81" break="no"/>pter quod Filius dicitur imago ac character Patris 
+      <lb ed="#B" n="82"/>est persona Patris, ut probant argumenta priori 
+      <lb ed="#B" n="83"/>sententiae; sed fundamentum, ratione cujus Filiu 
+      <lb ed="#B" n="84"/>dicitur imago Patris, est essentia Patris per aeter 
+      <lb ed="#B" n="85"/>nam generationem Filio communicata, ut 
+      proban<lb ed="#B" n="86" break="no"/>argumenta sententiae posterioris, inde in Syriaca 
+      <lb ed="#B" n="87"/>epistola conc. Ephesini ad Nestor. dicitur, quod 
+      <lb ed="#B" n="88"/>Filius propter unam eandemque substantiam imago 
+      <lb ed="#B" n="89"/>et character splendor gloriae Patris exsistat, 
+      <lb ed="#B" n="90"/>Quemadmodum igitur de voce ὁμοούσιος diximus 
+      <lb ed="#B" n="91"/>eam et essentiae unitatem et personalem distinctio 
+      <lb ed="#B" n="92"/>nem simul exprimere, ita quoque vox characteris et 
+      <lb ed="#B" n="93"/>imaginis respicit et personam Patris tanquam suum 
+      <lb ed="#B" n="94"/>correlatum et essentiam Patris tanquam fundamen 
+      <lb ed="#B" n="95"/>tum et quasi formale similitudinis. Nazian. orat. 5. 
+      <lb ed="#B" n="96"/>de Filio tom. 1. p. 165: Filius dicitur imago Patris 
+      <lb ed="#B" n="97"/>tanquam ejusdem essentiae cum Patre, cum Filius 
+      <lb ed="#B" n="98"/>a Patre sit, non Pater a Filio, inde Scholastici dis 
+      <lb ed="#B" n="99"/>putant, de ratione imaginis esse non tantum simi 
+      <lb ed="#B" n="100"/>litudinem, sed etiam originem, non enim ovum dici 
+      <lb ed="#B" n="101"/>tur imago alterius ovi, licet eit ibi quaedam 
+      simili<lb ed="#B" n="102" break="no"/>tudo, quia non est de illo expressum. Sed nec quae 
+      <lb ed="#B" n="103"/>libet similitudo ex altera expressa proprie loquend 
+      <lb ed="#B" n="104"/>est imago, sed duntaxat illa similitudo, quae vel 
+      <lb ed="#B" n="105"/>secundum speciem vel secundum proprium accident 
+      <lb ed="#B" n="106"/>ex altero est expressa. Si enim secundum genus 
+      <lb ed="#B" n="107"/>duntaxat similitudo sit expressa, non dicitur proprio 
+      <lb ed="#B" n="108"/>imago, v. g. vermiculus ex homine oritur, sed imago 
+      <lb ed="#B" n="109"/>hominis non dicitur, quia est similitudo duntaxat se 
+      <lb ed="#B" n="110"/>cundum genus. Similiter si similitudo expressa sit 
+      <lb ed="#B" n="111"/>secundum commune accidens, imago proprie nos 
+      <lb ed="#B" n="112"/>dicitur v. g. si album aliquod producatur ad simili 
+      <lb ed="#B" n="113"/>tudinem alterius albi, non potest proprie diei, quod 
+      <lb ed="#B" n="114"/>sit ad alterius albi imaginem productum, quia 
+      al<lb ed="#B" n="115" break="no"/>bedo est commune accidens non solum multorum 
+      <lb ed="#B" n="116"/>individuorum, sed etiam multarum specierum. Filius 
+      <lb ed="#B" n="117"/>autem recte dicitur imago Patris, quia est ibi ex 
+      <lb ed="#B" n="118"/>pressa similitudo secundum speciem. Quare cum in 
+      <lb ed="#B" n="119"/>divinis Filius sit expressa similitudo Patris non se¬ 
+      <!--467.xml-->
+      <pb ed="#B" n="394"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>cundum speciem tantum, sed secundum eandem 
+      nu<lb ed="#B" n="2" break="no"/>mero essentiam, inde consequitur, Filium esse per 
+      <lb ed="#B" n="3"/>fectissimo et maxime proprio modo Patris imaginem 
+      <lb ed="#B" n="4"/>3. Aliud est loqui de persona, aliud de charactere 
+      <lb ed="#B" n="5"/>personae. Filius non est persona Patris, quia Pater 
+      <lb ed="#B" n="6"/>non communicavit Filio personam, nec est eadem 
+      <lb ed="#B" n="7"/>Patris et Filii persona, sed est character persona 
+      <lb ed="#B" n="8"/>Patris, quia exactissime refert personam Patris, indi 
+      <lb ed="#B" n="9"/>scilicet atque xml:ideo, quia in sua persona eandem 
+      nu<lb ed="#B" n="10" break="no"/>mero essentiam habet quam Pater, ut Pater vitam 
+      <lb ed="#B" n="11"/>habet in se ipso, ita quoque Filius vitam, h. e. 
+      es<lb ed="#B" n="12" break="no"/>sentiam vivificam, habet in se ipso Joh. 5, v. 26. 
+      <lb ed="#B" n="13"/>adeoque omnia habet, quae Pater habet Joh. 16. 
+      <lb ed="#B" n="14"/>v. 15. 4. Imago ἀμέσως respectum habet ad per 
+      <lb ed="#B" n="15"/>sonam, quia imago quatenus talis est vocabulum 
+      re<lb ed="#B" n="16" break="no"/>lativum; ἐμκέσως respectum habet ad essentiam 
+      <lb ed="#B" n="17"/>Quia enim Filius in divinis non quovis modo, non 
+      <lb ed="#B" n="18"/>accidentaliter, non imperfecte, sed modo 
+      perfectis<lb ed="#B" n="19" break="no"/>simo est substantialis Patris imago, xml:ideo requiritur, 
+      <lb ed="#B" n="20"/>it unam eandemque cum Patre habeat essentiam, 
+      <lb ed="#B" n="21"/>Ad rationem cujuscunque imaginis in genere ad 
+      <lb ed="#B" n="22"/>ceptae sufficit, esse quamdam similitudinem 
+      inte<lb ed="#B" n="23" break="no"/>exemplar et imaginem illi correspondentem, sed ad 
+      <lb ed="#B" n="24"/>rationem perfectissimae illius imaginis, quam in Filio 
+      <lb ed="#B" n="25"/>respectu Patris Scriptura collocat, requiritur xml:identi 
+      <lb ed="#B" n="26"/>tas essentiae in Patre et Filio, xml:ideo ἐμμέσως et 
+      conse<lb ed="#B" n="27" break="no"/>quenter ad essentiam Patris nomen imaginis 
+      re<lb ed="#B" n="28" break="no"/>spectum habet. Thom. p. 1. q. 35. art. 2: 
+      Duplici<lb ed="#B" n="29" break="no"/>ter alicujus imago in aliquo reperitur, vel ut in re 
+      <lb ed="#B" n="30"/>ejusdem naturae, vel ut in re diversae naturae, si 
+      <lb ed="#B" n="31"/>cut imago hominis in ligno, figura regis in denaris 
+      <lb ed="#B" n="32"/>Prior est perfecta et essentialis, posterior 
+      imper<lb ed="#B" n="33" break="no"/>fecta et accidentalis, ad priorem requiritur ὁμο¬ 
+      <lb ed="#B" n="34"/>ουσία, ad posteriorem vero minime. 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e2337">
+               <lb ed="#B" n="35"/>56. Bellarm. lib. 2. de Christo c. 4. etiam huc ac 
+      <lb ed="#B" n="36"/>commodat illa Scripturae loca, in quibus de fiduci 
+      <lb ed="#B" n="37"/>et gloriatione nomen ὑποστάσεως usurpatur 2. Cor 
+      <lb ed="#B" n="38"/>9, v. 4. c. 11, v. 16. Heb. 3, v. 14. c. 11, v. 1; hi 
+      <lb ed="#B" n="39"/>inquit, locis explicatur nomen hypostasis in 
+      gener<lb ed="#B" n="40" break="no"/>significare fundamentum seu basin, quae alia 
+      su<lb ed="#B" n="41" break="no"/>stentat et ipsa per se subsistit, ac fides dicitur 
+      hy<lb ed="#B" n="42" break="no"/>postasis, quia est fundamentum justitiae et non so 
+      <lb ed="#B" n="43"/>lum ipsa per se exsistit, sed etiam dat rebus spe 
+      <lb ed="#B" n="44"/>ratis cubsistentiam, quae enim speramus, in se non 
+      <lb ed="#B" n="45"/>sunt, sed per fidem jam quodammodo exsistere vi 
+      <lb ed="#B" n="46"/>dentur, hinc etiam accommodatur ad suppositum 
+      <lb ed="#B" n="47"/>seu personam, quae est fundamentum naturae e 
+      <lb ed="#B" n="48"/>omnium quae ad naturam consequuntur, omnio 
+      <lb ed="#B" n="49"/>enim in persona exsistunt et ipsa per se 
+      exsisti<lb ed="#B" n="50" break="no"/>Idem approbat quidam ex nostris in comm. c. 1 
+      <lb ed="#B" n="51"/>Hebr. p. 21. Vox ὑπόστασις, inquit, quando vel sub 
+      <lb ed="#B" n="52"/>stantiis inanimatis vel accidentibus tribuitur, nudam 
+      <lb ed="#B" n="53"/>cignificat subsistentiam, unde etiam Hebr. 3, v. 1. 
+      <lb ed="#B" n="54"/>et c. 11, v. 1. quandam subsistentiam significat, st 
+      <lb ed="#B" n="55"/>quidem et suo ac certo modo fides subsistentia dici 
+      <lb ed="#B" n="56"/>potest. Sed cum ὑπόστασις in adductis locis rectiu 
+      <lb ed="#B" n="57"/>explicetur per firmam fiduciam et confidentiam, cum 
+      <lb ed="#B" n="58"/>que fides non faciat res per se subsistere, nec ipss 
+      <lb ed="#B" n="59"/>per se subsistat, xml:ideo simplicius respondetur, aliter 
+      <lb ed="#B" n="60"/>accipi nomen ὑποστάσεως, quando de rebus inani¬ 
+      <!--467.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>matis vel accidentibus usurpatur, aliter vero, quand 
+      <lb ed="#B" n="62"/>de substantia intelligente praedicatur, ut exempla 
+      <lb ed="#B" n="63"/>etiam in profanis scriptoribus ostendunt. Majori 
+      <lb ed="#B" n="64"/>fortassis verisimilitudine huc referri posset, quod 
+      <lb ed="#B" n="65"/>Sap. 16, v. 21. dicitur ὑπόστασίς σου tuam in filios 
+      <lb ed="#B" n="66"/>ostendebat dulcedinem, h. e. tu ipse eam ostendebas. 
+      <lb ed="#B" n="67"/>et quod Job. 22. v. 20. dicitur: Si non succisa fuit 
+      <lb ed="#B" n="68"/>(3777 aubeistentia nostra LXX. ὑπόστασις, sed ibi 
+      <lb ed="#B" n="69"/>videtur eodem modo accipi, quo οὖσία Luc. 15, v. 12. 
+      <lb ed="#B" n="70"/>pro facultatibus scilicet, quomodo etiam Jud. 6. v. 5. 
+      <lb ed="#B" n="71"/>usurpatur. Caeterum in ipsa Scriptura vestigia ex 
+      <lb ed="#B" n="72"/>stant illius significationis, in qua vox ὑποστάσεων 
+      <lb ed="#B" n="73"/>in hoc articulo usurpatur, ita quoque in 
+      antiquis<lb ed="#B" n="74" break="no"/>simo ac perpetuo ecclesiae usu eadem recepta 
+      inve<lb ed="#B" n="75" break="no"/>nitur. Ut enim praetermittam Dionys. lib. de dit 
+      <lb ed="#B" n="76"/>nom. c. 1. Justin. in ἐκθ. πίστεως τρεῖς ὑποστάσεις 
+      <lb ed="#B" n="77"/>dixisse tres deitatis personas, cum de illorum libris 
+      <lb ed="#B" n="78"/>in genuini sint, non omnino nulla supersit dubitatio, 
+      <lb ed="#B" n="79"/>Athanasius in Symbol. et in Epist. de syn. Nicen 
+      <lb ed="#B" n="80"/>decret, Nazianz. orat. de Epiph. et omnes Graeci 
+      <lb ed="#B" n="81"/>patres hoc vocabulo in explicatione hujus mysterii 
+      <lb ed="#B" n="82"/>ituntur. Quod ergo Socrat. lib. 3. c. 5. Soxom. 
+      <lb ed="#B" n="83"/>l. 5. c. 11. Niceph. lib. 10. c. 13. scribunt, Hosium 
+      <lb ed="#B" n="84"/>Cordubensem in disputatione de Filii deitate 
+      pri<lb ed="#B" n="85" break="no"/>mum hujus nominis mentionem fecisse, xml:id de 
+      accu<lb ed="#B" n="86" break="no"/>rata οὐσίας et ὑποστάσεως distinctione accipiendum 
+      <lb ed="#B" n="87"/>Eodem sensu intelligendum, quod Socrates I. 6. Tri. 
+      <lb ed="#B" n="88"/>part. c. 21. docet, vocem ὑποστάσεως tempore 
+      <lb ed="#B" n="89"/>Athanasii in Graeca ecclesia primum faiisse 
+      re<lb ed="#B" n="90" break="no"/>coptom 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e2465">
+               <lb ed="#B" n="91"/>57. 3. Significatio. ὑπόσιασις hoc in loco eat 
+      <lb ed="#B" n="92"/>subsistens individuum, intelligens, incommunicabile, 
+      <lb ed="#B" n="93"/>non sustentatum ab alio. Scholastici dicunt, hypo 
+      <lb ed="#B" n="94"/>tasin significare primam substantiam, quam in 
+      ge<lb ed="#B" n="95" break="no"/>nere vocamus suppositum, et in natura intelligente 
+      <lb ed="#B" n="96"/>personam, unde inter essentiam et personam duples 
+      <lb ed="#B" n="97"/>discrimen constituunt: 1. a priori, quod essentis 
+      <lb ed="#B" n="98"/>ignificetur per modum formae totalis in alio exsi 
+      <lb ed="#B" n="99"/>tentis, hypostasis vero significetur per modum to 
+      <lb ed="#B" n="100"/>ius, quod non in alio, sed in se et per se exsistit, 
+      <lb ed="#B" n="101"/>illa enim subsistere dicimus, quae non in alio sed 
+      <lb ed="#B" n="102"/>in se exsistunt, ex quo ulterius colligunt, hypostasin 
+      <lb ed="#B" n="103"/>non addere ad essentiam aliquem gradum 
+      natura<lb ed="#B" n="104" break="no"/>aut actum, sed solum essendi modum; 2. a posteriori, 
+      <lb ed="#B" n="105"/>quod essentia sit communicabilis, hypostasis vero 
+      <lb ed="#B" n="106"/>ncommunicabilis, quod enim est in se, sive quod 
+      <lb ed="#B" n="107"/>per se subsistit, non potest esse in alio, cum ease 
+      <lb ed="#B" n="108"/>in alio sit non esse in se, ex quo colligunt 
+      hypo<lb ed="#B" n="109" break="no"/>stasin superaddere essentiae proprietatem aliquam, 
+      <lb ed="#B" n="110"/>h. e. aliquid seu aliquem modum, ratione cujus fiat 
+      <lb ed="#B" n="111"/>incommunicabilis. Sed haec omnia recte sunt ex 
+      <lb ed="#B" n="112"/>licanda, ne scilicet exclusive accipiantur, quod 
+      hy<lb ed="#B" n="113" break="no"/>postasis sit tantum modus subsistendi, aliud enim 
+      <lb ed="#B" n="114"/>est ὑπόστασις, aliud τρóπος ὑποστάσεως, sieut aliud 
+      <lb ed="#B" n="115"/>est persona, aliud personalis proprietas; ὑκόστασο 
+      <lb ed="#B" n="116"/>persona est ipsa essentia divina certo charactere 
+      hy<lb ed="#B" n="117" break="no"/>postatico insignita ac proprio subsistendi modo 4 
+      <lb ed="#B" n="118"/>reliquis distincta; τρόπος ὑποστάσεως, proprietas 
+      <lb ed="#B" n="119"/>personae est propria subsistendi ratio, per quam et 
+      <lb ed="#B" n="120"/>cujus ratione quaelibet persona ab altera distingui¬ 
+      <!--468.xml-->
+      <pb ed="#B" n="395"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tur. Id quidam sic efferunt, nomen ὑποστάσεως 
+      ac<lb ed="#B" n="2" break="no"/>cipi vel matorialiter et concrete, vel formaliter, ab 
+      <lb ed="#B" n="3"/>stracte et praecise, ut superius etiam ostendimus 
+      <lb ed="#B" n="4"/>Basil. epist. 48. Nyss. in lib. de differ. essent. et 
+      <lb ed="#B" n="5"/>hypost. Damasc. lib. 3. orth. fid. c. 3. ex veteribus 
+      <lb ed="#B" n="6"/>docent, tale esse discrimen inter cscentiam et hypo 
+      <lb ed="#B" n="7"/>staein, qualis eat inter epeciem et in individuum 
+      iv<lb ed="#B" n="8" break="no"/>inter humanam naturam et hominem individuo, v. ρ. 
+      <lb ed="#B" n="9"/>Petrum. Theodor. Dial. 1. tom. 2. p. 297. ait, essen 
+      <lb ed="#B" n="10"/>tiam et personam differre ut commune et proprium 
+      <lb ed="#B" n="11"/>vel ut genus ac epeciom ao individuum, quod latius 
+      <lb ed="#B" n="12"/>explicat Damaso. lib. de duab. voluntatibus Christ 
+      <lb ed="#B" n="13"/>p. 470; xml:id vero itidem recte accipiendum neque 
+      ul<lb ed="#B" n="14" break="no"/>tra mentem ipsorum extendendum, ipsimet enim 
+      mo<lb ed="#B" n="15" break="no"/>nent naturam sive essentiam divinam tribus deitati 
+      <lb ed="#B" n="16"/>personis communem non esse tantum specie una, 
+      sicu<lb ed="#B" n="17" break="no"/>in Petro. Paulo et Johanne est una ἀνθρωκότης, sed 
+      <lb ed="#B" n="18"/>esse eam etiam numero unam, ac proinde ut Luth 
+      <lb ed="#B" n="19"/>in e. 1. Genes. loquitur unissime unam, ita ut toto 
+      <lb ed="#B" n="20"/>divina essentia, non pars essentiae, sit in Patre, tota 
+      <lb ed="#B" n="21"/>in Filio, cujusque simile non occurrit in tota rerum 
+      <lb ed="#B" n="22"/>creatarum universitate. Damasc. in dialect. c. 66 
+      <lb ed="#B" n="23"/>ὑπόστασις οεt ἄναρχος τρόπος τῆς ἑκάστου ἀἰδίο 
+      <lb ed="#B" n="24"/>ὑπάρξεως, h. e. principio careno modus sempiterna 
+      <lb ed="#B" n="25"/>excistentiae uniuscujusque in s. trinitate. lib. 3. c. 1.. 
+      <lb ed="#B" n="26"/>cum Suida col. 964. ὑπόστασιν definiens ait, quod 
+      <lb ed="#B" n="27"/>sit τὸ ἰδικὸν παρὰ τὸ κοινόν, proprium supro 
+      <lb ed="#B" n="28"/>oonmm um¬ 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e2601">
+               <lb ed="#B" n="29"/>58. 4. Antithegis. 1. Patres concilii Sardicenet 
+      <lb ed="#B" n="30"/>anno 347. celebrati, quod Niceno conc. par statuitur 
+      <lb ed="#B" n="31"/>decreverunt, haereticorum esse tres hypostases 
+      a<lb ed="#B" n="32" break="no"/>terere, catholicorum autem unam tantum. Resp. de 
+      <lb ed="#B" n="33"/>Sardicensi concilio, an inter oecumenica et 
+      ortho<lb ed="#B" n="34" break="no"/>doxa concilia numerari debeat, adhuc quaestio est 
+      <lb ed="#B" n="35"/>plerique eo abeunt, quod duo fuerint concilia Sardi 
+      <lb ed="#B" n="36"/>censia, unum legitimum fidem Nicenam confirmans 
+      <lb ed="#B" n="37"/>alterum illegitimum, Arianorum perfidiae subscribens 
+      <lb ed="#B" n="38"/>Quod attinet rejectionem trium hypostascon in 
+      ho<lb ed="#B" n="39" break="no"/>concilio factam, ea non aliunde colligitur, quam ex 
+      <lb ed="#B" n="40"/>epistola synodiea a Theodoret. lib. 2. hist. c. 8. 
+      re<lb ed="#B" n="41" break="no"/>citata, sed Baron. ann. 347. n. 38. et 41. atque ex 
+      <lb ed="#B" n="42"/>eo Severinus Binius in not. ad conc. Sard. tom. 1. 
+      <lb ed="#B" n="43"/>p. 447. appendicem opistolae synodicae adjeetam, in 
+      <lb ed="#B" n="44"/>qua illa trium ὑποστάσεων rejectio exstat, 
+      virgul<lb ed="#B" n="45" break="no"/>censoria notant, cum Ursacius et Valens Sabollianae 
+      <lb ed="#B" n="46"/>haereseos affines in ea statuantur, quos consta 
+      <lb ed="#B" n="47"/>Ariana haeresi infectos fuisse, cumque ex Athanasi. 
+      <lb ed="#B" n="48"/>epistola ex synodo Alexandr. ad Euseb. et Lucifer 
+      <lb ed="#B" n="49"/>constet in Sardicensi concilio nullam prorsus fidei 
+      <lb ed="#B" n="50"/>regulam editam, nec priorem Nicenam vel apice 
+      <lb ed="#B" n="51"/>fuisse auctam. Adde quod ὑκοστάσεως nomine 
+      utam<lb ed="#B" n="52" break="no"/>tur pro οὐσίᾳ, dicunt enim se confiteri μίαν ὑκό¬ 
+      <lb ed="#B" n="53"/>στασιν, ἢν οἱ αἰρετικοὶ οὐσίαν προσαγορεύουσι τοι 
+      <lb ed="#B" n="54"/>πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ πνεύματος ἀγίου 
+      <lb ed="#B" n="55"/>2. Hieronym. tom. 2. in epist. 57. ad Damasur 
+      <lb ed="#B" n="56"/>p. 131. edit. Bas. ann. 53. veneni aliquid latere 
+      pu<lb ed="#B" n="57" break="no"/>tabat in voce ὑποστάσεως. Epistolam ipsam sic 
+      con<lb ed="#B" n="58" break="no"/>eludit: Obtestor beatitudinem tuam per crucifixum 
+      <lb ed="#B" n="59"/>mundi calutem, per ὁμοούσιον trinitatem, ut mihi 
+      <lb ed="#B" n="60"/>opistolis tuis aive tacendarum sive dicendarum hy¬ 
+      <!--468.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>postaseon detur auctoritas. Et ex ejusd. dial. adv. 
+      <lb ed="#B" n="62"/>Luciferianos p. 153. apparet, eam ob novitatem 
+      <lb ed="#B" n="63"/>fuisse multis in ecclesia suspectam. Lombard. lib. I. 
+      <lb ed="#B" n="64"/>sent. dist. 26. Hieronymi verba accipit secundum 
+      <lb ed="#B" n="65"/>quid, quasi propter haereticorum insidias ad 
+      Dama<lb ed="#B" n="66" break="no"/>sum ita scripserit. B. Lutherus in lib. de concil 
+      <lb ed="#B" n="67"/>id, quod de voco ὑποστάσεως Hieronymus 
+      scripse<lb ed="#B" n="68" break="no"/>rat, de voce ὁμοούσιος eum scripsisse autumat, quo 
+      <lb ed="#B" n="69"/>nomine grandis mendacii culpam, imo Arianae haere 
+      <lb ed="#B" n="70"/>seos crimen Luthero impingunt Bellarm. in 
+      praef<lb ed="#B" n="71" break="no"/>ib. de Christo et in jud. de Form. Concord. mend. 3. 
+      <lb ed="#B" n="72"/>Gregor. de Valent. lib. 1. de unit. et trinit. c. 7. 
+      <lb ed="#B" n="73"/>p. 146; sed ἀμάρτημα μνημονευτικὸν non erat tam 
+      <lb ed="#B" n="74"/>odiose exagitandum ae insignis mendacii loco 
+      tradu<lb ed="#B" n="75" break="no"/>cendum. Tandem vero ipse etiam Hieronymus voce 
+      <lb ed="#B" n="76"/>ὑποστάσεως usus est, sic enim scribit in epist. ad 
+      <lb ed="#B" n="77"/>August. et Alipium: Sabellii errorem declinantes 
+      <lb ed="#B" n="78"/>tres personas expressas sub proprietate distinquimus. 
+      <lb ed="#B" n="79"/>Non enim nomina tantummodo, sed etiam nominum 
+      <lb ed="#B" n="80"/>proprietates, h. e. personas, vel, ut Graeci 
+      expri<lb ed="#B" n="81" break="no"/>munt, ὑποστάσεις, hoc est subeistentias, confitemus 
+      <lb ed="#B" n="82"/>3. Notabile est, quod Greg. Nazianz. in orat. de 
+      <lb ed="#B" n="83"/>laud. Athanas. quaest. 31. memorat, Graecos, qui 
+      <lb ed="#B" n="84"/>ὑποστάσεις dicebant, Latinis visos fuisse tres οὐσία 
+      <lb ed="#B" n="85"/>sive essentias cum Ario dicere, eo quod tota 
+      Grae<lb ed="#B" n="86" break="no"/>corum profanorum schola discrimen inter 
+      hyposta<lb ed="#B" n="87" break="no"/>gin et ugian ignorat, ut Hieron. d. epist. ad Damas 
+      <lb ed="#B" n="88"/>loquitur; contra vero Latinos, qui rejecto nomine 
+      <lb ed="#B" n="89"/>hypostaseos dicebant tres personas Graecis visor 
+      <lb ed="#B" n="90"/>fuisse distinctionem non realem, sed tantum 
+      ratio<lb ed="#B" n="91" break="no"/>nem muneris seu officii inter Patrem, Filium et 
+      Spi<lb ed="#B" n="92" break="no"/>ritum s. agnoscere, atque hae ratione Sabellio favere 
+      <lb ed="#B" n="93"/>cum in Latinis scriptoribus personae nomen ad 
+      offi<lb ed="#B" n="94" break="no"/>cium et habitum accommodari consueverit. Cum 
+      <lb ed="#B" n="95"/>ergo ob illam λογομαχίαν res eo adducta esset, ut 
+      <lb ed="#B" n="96"/>periculum subesse videretur, ne orbis terrarum fines, 
+      <lb ed="#B" n="97"/>h. e. orientalis et occidentalis ecclesia, una cum 
+      syl<lb ed="#B" n="98" break="no"/>labis a se invicem distraherentur et abrumperentur. 
+      <lb ed="#B" n="99"/>Athanasius utramque partem convocavit et cum vi 
+      <lb ed="#B" n="100"/>leret eos in rebus xml:idem sentire, suasor et hortato 
+      <lb ed="#B" n="101"/>eis exstitit, ut propter concordiam in modis etiam 
+      <lb ed="#B" n="102"/>loquendi convenirent, unde factum, ut deincepe 
+      <lb ed="#B" n="103"/>Graeci pro hypostasi usurparent vocabulum προσ 
+      <lb ed="#B" n="104"/>10υ, et Latini pro persona etiam hypostasin 
+      dice<lb ed="#B" n="105" break="no"/>ent. 4. Socrates lib. 3. c. 5. et Niceph. lib. 10. 
+      <lb ed="#B" n="106"/>c. 15. dicunt vocem ὑποστάσεως esse barbaram et 
+      <lb ed="#B" n="107"/>philosophis paene incognitam, Nicephorum etiam 
+      nu<lb ed="#B" n="108" break="no"/>jamenta appellat disputationes de distinctione οὐσία 
+      <lb ed="#B" n="109"/>et ὑποστάσεως. Sed e sacris, ecelesiasticis et 
+      pro<lb ed="#B" n="110" break="no"/>anis scriptoribus contrarium facili negotio 
+      demon<lb ed="#B" n="111" break="no"/>strari potest. 5. Nicol. Taurell. in synopsi metaph. 
+      <lb ed="#B" n="112"/>p. 101. disputat, personas trinitatis non posse dici 
+      <lb ed="#B" n="113"/>hypostases. 6. Antitrinitarii ut ὁμοούσιον ita 
+      quo<lb ed="#B" n="114" break="no"/>quo ὑκοστάσεως nomen repudiam 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e2794">
+               <lb ed="#B" n="115"/>59. 4. *Yκαρεις ἀπὸ τοῦ ὑπάρχεν xml:idem in hoc 
+      my<lb ed="#B" n="116" break="no"/>terio est quod ὑπόστασις. Sic Justin. in ἐκθ. πιστ.) 
+      <lb ed="#B" n="117"/>dixit τρεῖς εἶναι τρόπους ὑπάρξεως. LXX. quidem. 
+      <lb ed="#B" n="118"/>hoc vocabulo utuntur, sed non in ea significatione, 
+      <lb ed="#B" n="119"/>in qua hoc loco usurpatur, verum pro jy7i, hapn 
+      e<lb ed="#B" n="120" break="no"/>(127 pro bonia facultatibus, divitiarum possessione, 
+      <!--469.xml-->
+      <pb ed="#B" n="396"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>quam etiam Latini vocant substantiam. Prov. 13. 
+      <lb ed="#B" n="2"/>v. 11. Jer. 9, v. 10. Dan. 11, v. 13. ete. Eodem 
+      <lb ed="#B" n="3"/>modo accipitur Actor. 2, v. 45. Hebr. 10, v. 34 
+      <lb ed="#B" n="4"/>5. πρόσωπον ἀπὸ τοῦ πρὸς et ὥπα Graeci usurpare 
+      <lb ed="#B" n="5"/>coeperunt pro ὑποστάσει, cum Latinos personae ap 
+      <lb ed="#B" n="6"/>pellatione hypostasin exprimere viderent. Just. in 
+      <lb ed="#B" n="7"/>jq. et resp. q. 17. p. 313: εἰς ἔοτιν ὁ θεὸς τῷ ἐν. 
+      <lb ed="#B" n="8"/>καὶ ἀδιαιρέτῳ τῆς οὐσίας. τρία δὲ πρόσωπα τῇ δια 
+      <lb ed="#B" n="9"/>ρέσει τῶν ὑποστάσεων. Athanas. in orat. quod 
+      <lb ed="#B" n="10"/>unus sit Christus. Nazianz. orat. in sanet. lum. eto 
+      <lb ed="#B" n="11"/>Exstat tum apud LXX interp. tum in N. T. sed in 
+      <lb ed="#B" n="12"/>significatione alia, quam in hoc mysterio usurpatur 
+      <lb ed="#B" n="13"/>Suidas in dictione ἄγιος huc accommodat Ps. 27. 
+      <lb ed="#B" n="14"/>v. 8: Ἐxquiσivi πρόσωπόν σου, τὸ πρόσωπόν σοῖ 
+      <lb ed="#B" n="15"/>Domine, requiram, ne avertas a me πρόσωπόν σου 
+      <lb ed="#B" n="16"/>Ex nostris quidam huc referunt 2. Cor. 1, v. 11. 
+      <lb ed="#B" n="17"/>ἶνα ἐκ πολλῶν προσώπων τὸ εἰς ἡμᾶς χάρισμα διὰ 
+      <lb ed="#B" n="18"/>πολλῶν εὑχαριστηθῇ, ubi προσώπων nihil aliud 
+      signi<lb ed="#B" n="19" break="no"/>ficat quam ἀνθρώκων sive προσώπων ἀνθρωπίνων 
+      <lb ed="#B" n="20"/>C. 3, v. 13: Moyses ponebat κάλυμμα ἐπὶ τὸ πρός 
+      <lb ed="#B" n="21"/>ωπον ἑαυτοῦ. C. 4. v. 6: Deus illuxit in cordibus 
+      <lb ed="#B" n="22"/>nostris ad illuminationem scientiae claritatio ἐν προ 
+      <lb ed="#B" n="23"/>ὥπῳ Ἰησοῦ Χριστοῦ. Sed in duobus posterioribu 
+      <lb ed="#B" n="24"/>locis πρόσωπον ponitur pro facie, in qua significa 
+      <lb ed="#B" n="25"/>tione h. I. non usurpatur. Commodius ergo huc re 
+      <lb ed="#B" n="26"/>ferri posset locus apostolicus 2. Cor. 2. v. 9: Si quid 
+      <lb ed="#B" n="27"/>donavi propter vos in persona Christi. (Isido, 
+      <lb ed="#B" n="28"/>dial. 1. ὑπόστασιν, πρόσωπον καὶ ἰδιότητα, xml:idem si 
+      <lb ed="#B" n="29"/>gnificare dicimus. Nicet. lib. 2. thesaur. c. 14. addi 
+      <lb ed="#B" n="30"/>nomen χαρακτῆρος καὶ ἀτόμου.) 2. Thess. 1, v. 8. 
+      <lb ed="#B" n="31"/>impii poenas dabunt aeternum exitium ἀπὸ προσα 
+      <lb ed="#B" n="32"/>που τοῦ κυρίου, h. e. sustinebunt exitium, cui 
+      adju<lb ed="#B" n="33" break="no"/>dicabuntur a Christo domino, qui in propria persons 
+      <lb ed="#B" n="34"/>ipparebit ac gloriosam suam potentiam demonstra 
+      <lb ed="#B" n="35"/>bit. Sed praestat etiam hanc vocem in hac signifi 
+      <lb ed="#B" n="36"/>catione, qua in mysterio trinitatis usurpatur, acceptam 
+      <lb ed="#B" n="37"/>ocare οὐ γραφικὴν ἀλλὰ ἐκκλησιαστικήν. β. τρισυ 
+      <lb ed="#B" n="38"/>τόστατος a tribus hypostasesi voce formata Deus 
+      ap<lb ed="#B" n="39" break="no"/>pellatur apud Dionys. de div. nom. c. 2. et Basi. 
+      <lb ed="#B" n="40"/>lium, Nyssenus appellat ἐνάδα τριπρόσωπον, quod 
+      <lb ed="#B" n="41"/>Photiniani per calumniam exponunt tripersonatus 
+      <lb ed="#B" n="42"/>Socin. in animadv. in assert. Posnan. 17. num. 1. 
+      <lb ed="#B" n="43"/>Tripersonatum Deum introducunt, licet tripersonat 
+      <lb ed="#B" n="44"/>vocem diserte nunquam proferant. In defens. ani 
+      <lb ed="#B" n="45"/>madv. p. 454: Cum plane insolens sit, ut quicquan 
+      <lb ed="#B" n="46"/>naturaliter tres personas habeat, unam autem 
+      unue<lb ed="#B" n="47" break="no"/>quisque habere comperiatur, merito, si Deue tres ips 
+      <lb ed="#B" n="48"/>tamen naturaliter personas habet, tripersonatus 
+      sin<lb ed="#B" n="49" break="no"/>ulla irrisione dici potest, sicut Geryon a poëtis tri 
+      <lb ed="#B" n="50"/>corpor dictus. 7. μονάς, 8. τριάς, essentiae unitatem 
+      <lb ed="#B" n="51"/>et personarum trinitatem denotant inque antiquissi 
+      <lb ed="#B" n="52"/>mis ecclesiae scriptoribus occurrunt. Justin. in ex 
+      <lb ed="#B" n="53"/>p. 297: μονὰς ἐν τριάδι νοεῖται, νριὰς ἐν μονάδι γνω 
+      <lb ed="#B" n="54"/>ρίζεται. Quid quod concretum τριάδος diserte exsta 
+      <lb ed="#B" n="55"/>1. Joh. 5, v. 7: Tres sunt, qui testimonium ete., e 
+      <lb ed="#B" n="56"/>hi tres unum gun¬ 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e2937">
+               <lb ed="#B" n="57"/>60. 3. Appellationes Latinae: 1. Essentia, cub 
+      <lb ed="#B" n="58"/>stantia, consubetantialis. 2. Persona, cubeistentio 
+      <lb ed="#B" n="59"/>3. Trinitas. 1. Nomen Graecum οὐσίας Latini ex 
+      <lb ed="#B" n="60"/>primunt per essentiam. Hilarius lib. de synodis) 
+      <!--469.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>p. 305: Essentia est res, quae est, vel ex quibu 
+      <lb ed="#B" n="62"/>pst et quas in eo, quod maneat, subsistii 
+      <lb ed="#B" n="63"/>Augustinus in lib. 12. de trinit. c. 2: Sicut ac 
+      <lb ed="#B" n="64"/>eo, quod est sapere, vocatur sapientia; sic ab eo 
+      <lb ed="#B" n="65"/>quod est esse, vocatur essentia novo quidem nomine 
+      <lb ed="#B" n="66"/>quo usi non sunt vetereo Latini sermonio auctores 
+      <lb ed="#B" n="67"/>sed jam nostris temporibus usitato, ne deesset etiam 
+      <lb ed="#B" n="68"/>linguae nostrae, quod Graeci appellant οὐσίαν, 
+      ho<lb ed="#B" n="69" break="no"/>enim verbum e verbo exprescum est, ut diceretu 
+      <lb ed="#B" n="70"/>essentia. Maluerunt autem uti nomine essentiae quam 
+      <lb ed="#B" n="71"/>substantiae 1. ut indicarent Deum esse οὗσίαν ὑκερ 
+      <lb ed="#B" n="72"/>οὐσιον, non inclusam categoriis, inter quas prim 
+      <lb ed="#B" n="73"/>est substantia. Damasc. lib. 1. c. 12: Deus eo 
+      <lb ed="#B" n="74"/>quoddam pelague substantiae infinitum. Vide loc. 
+      <lb ed="#B" n="75"/>le nat. Dei §. 32.; 2. quia Deus non substat 
+      acci<lb ed="#B" n="76" break="no"/>dentibus, sicut essentiae rerum creatarum, sed attri 
+      <lb ed="#B" n="77"/>buta sunt ipsius essentia; 3. quia nomen substantias 
+      <lb ed="#B" n="78"/>est ambiguum, quandoque enim pro οὐσίᾳ, 
+      quando<lb ed="#B" n="79" break="no"/>que vero pro ὑποστάσει ponitur. Sic Hilarius in lib. de 
+      <lb ed="#B" n="80"/>ynod. dicit in Deo esse tres substantias, h. e. 
+      per<lb ed="#B" n="81" break="no"/>onas, quo sensu etiam quidam laccipiunt, quod in 
+      <lb ed="#B" n="82"/>Lat. v. Hebr. 1, v. 3. Filius dicitur character 
+      sub<lb ed="#B" n="83" break="no"/>ptantiae Patris. August. lib. 7. de trin. c. 4: Lo 
+      <lb ed="#B" n="84"/>quendi causa de ineffabilibus ut fari aliquo modo 
+      <lb ed="#B" n="85"/>possemus, quod effari nullo modo poscumus, dictum 
+      <lb ed="#B" n="86"/>est a nostris Graecis una essentia, tres substantiae 
+      <lb ed="#B" n="87"/>h. e. una ueia, tres hypostases, aliter enim Graeci 
+      <lb ed="#B" n="88"/>accipiunt substantiam, quam Latini, a Latinis autem 
+      <lb ed="#B" n="89"/>una essentia vel cubstantia tres personae, quia non 
+      <lb ed="#B" n="90"/>aliter in sermone nostro h. e. Latino essentia quan 
+      <lb ed="#B" n="91"/>substantia solet intelligi. Contra vero Tertull. 
+      con<lb ed="#B" n="92" break="no"/>tra Praxeam, Hieron. ad Damas. August. Lib. 5. de 
+      <lb ed="#B" n="93"/>trinit. c. 9. ete. unam in Deo cubstantiam dicunt 
+      <lb ed="#B" n="94"/>res vero in eo substantias esse negant. Caeterum 
+      <lb ed="#B" n="95"/>nomen essentiae apud metaphysicos dupliciter 
+      acci<lb ed="#B" n="96" break="no"/>pitur, primo ut significat illud quod res est, tunc 
+      <lb ed="#B" n="97"/>exprimitur per nomen concretum, v. g. Paulus, Petrus 
+      <lb ed="#B" n="98"/>ete.; significat enim essentiam Petri, Pauli; secundo 
+      <lb ed="#B" n="99"/>ut significat illud, quo res est, et tunc exprimitur 
+      <lb ed="#B" n="100"/>per nomen abstractum, ut humanitas. Juxta priorem 
+      <lb ed="#B" n="101"/>significationem ens et essentia non differunt ne qui 
+      <lb ed="#B" n="102"/>dem in creaturis, juxta posteriorem differunt in 
+      <lb ed="#B" n="103"/>creaturis, sed non in Deo, Deus enim est sua ipsius 
+      <lb ed="#B" n="104"/>essentia, cum sit a se ipso et per se ipsum, quod 
+      <lb ed="#B" n="105"/>nulli creaturae competit 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e3050">
+               <lb ed="#B" n="106"/>61. 1. Persona respondet Graeco vocabulo ὑ
+      no<lb ed="#B" n="107" break="no"/>στάσεως. Notanda est hujus vocis 1. ctymologia. 
+      <lb ed="#B" n="108"/>Dicitur a personare, sive magnum sonum emittere et 
+      <lb ed="#B" n="109"/>nagna voce exclamare, ut est apud Gell. lib. 5. c. 7: 
+      <lb ed="#B" n="110"/>sed haec etymologia non congruit praesenti 
+      signifi<lb ed="#B" n="111" break="no"/>cationi. Beda super Boët. de trinit. tom. 8. col. 1112. 
+      <lb ed="#B" n="112"/>personam dici quasi per se unam; 2. origo. Cur 
+      <lb ed="#B" n="113"/>ex instituto Christi baptizemur in nomine Patris, 
+      <lb ed="#B" n="114"/>Cilii et Spiritus s. Matth. 28, v. 19, inde dixerunt, 
+      <lb ed="#B" n="115"/>esse tria ejusdem essentiae nomina, ut ex sequentis 
+      <lb ed="#B" n="116"/>de trinitate notum est. Sed cum Sabellius hoc de 
+      <lb ed="#B" n="117"/>pravaret ac diceret esse in divinis unam duntaxat 
+      <lb ed="#B" n="118"/>personam, sed 1ριώνυμον, inde coeperunt dicere esse 
+      <lb ed="#B" n="119"/>non tantum tria nomina, sed etiam tres nominum 
+      <lb ed="#B" n="120"/>proprietates. Cum Sabellius hoc itidem depravaret 
+      <!--470.xml-->
+      <pb ed="#B" n="397"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>dicendo esse tres proprietates, sicut est una tantur 
+      <lb ed="#B" n="2"/>anima, quae habet tres potentias, necessitate loquenò 
+      <lb ed="#B" n="3"/>coacti dixerunt esse tres personas sive ὑποστάσεις 
+      <lb ed="#B" n="4"/>Naxians. in orat. in sanct. lum: De Deo cum dio 
+      <lb ed="#B" n="5"/>uno lumine pariter et tribus illuminamini, tribus 
+      <lb ed="#B" n="6"/>quidem secundum proprietates vel se alicui ita li 
+      <lb ed="#B" n="7"/>buerit appellare secundum hypostases seu personas 
+      <lb ed="#B" n="8"/>Minime enim de verbis pugnamus, dummodo cylla 
+      <lb ed="#B" n="9"/>bae ad eundem sensum perducant. Uno autem e 
+      <lb ed="#B" n="10"/>cundum substantiae sive deitatis rationem, dividitu 
+      <lb ed="#B" n="11"/>enim divigibiliter, ut ita dicam et conjungitur indi 
+      <lb ed="#B" n="12"/>vivibiliter. Exstat autem haec vox in antiquissimi 
+      <lb ed="#B" n="13"/>Latinae ecclesiae doctoribus. Tertull. adv. Prax. 
+      <lb ed="#B" n="14"/>De Deo nihil inane potest prodire et carens sub 
+      <lb ed="#B" n="15"/>stantia, xml:ideo sermo Dei est res et persona quaedom 
+      <lb ed="#B" n="16"/>Quaecunque ergo substantia sermonis fuit, illam dio 
+      <lb ed="#B" n="17"/>personam et illi nomen Filii vendico. Cyprian. serm. 
+      <lb ed="#B" n="18"/>de Christi nativ. Hilar. lib. de synod. Hieronym. 
+      a<lb ed="#B" n="19" break="no"/>Damas. Lactant. lib. 4. div. instit. c. 39. Ambros 
+      <lb ed="#B" n="20"/>de inst. virg. c. 10. August. 11. de civ. Dei c. 14 
+      <lb ed="#B" n="21"/>ete. Sunt qui in ipsis Scripturis personae nome 
+      <lb ed="#B" n="22"/>exstare asserunt, ut quando de Deo dicitur, quod 
+      <lb ed="#B" n="23"/>non eit acceptor personarum Act. 10, v. 34. Rom.. 
+      <lb ed="#B" n="24"/>v. 11. etc., in quibus locis personam significare 
+      pu<lb ed="#B" n="25" break="no"/>tant hypostasin humanam. Bellarm. lib. 2. de Christe 
+      <lb ed="#B" n="26"/>c. 5, sed in illis etiam locis persona potius qualita 
+      <lb ed="#B" n="27"/>tem quam hypostasin significat. Dicitur enim phras 
+      <lb ed="#B" n="28"/>Hebraica alicujus faciem seu personam accipere, qui 
+      <lb ed="#B" n="29"/>facit aliquid in gratiam alterius consideratis externi 
+      <lb ed="#B" n="30"/>ejus adjunctis et qualitatibus, quae in oculos incui 
+      <lb ed="#B" n="31"/>runt vel menti obversantur, eumque nobis commen 
+      <lb ed="#B" n="32"/>dabilem reddunt, qualia sunt divitiae, honor, cognatio 
+      <lb ed="#B" n="33"/>dignitas, potentia, ete., ut interim causae 
+      merita<lb ed="#B" n="34" break="no"/>non expendantur 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e3165">
+               <lb ed="#B" n="35"/>62. 3. Significatio. Sicut essentiae est esse, it 
+      <lb ed="#B" n="36"/>hypostaseos per se subsistere. Sicut οὐσίας est κo 
+      <lb ed="#B" n="37"/>νότης, ita ὑποστάσεως ἰδιότης. **Ad personam 
+      tri<lb ed="#B" n="38" break="no"/>requiruntur: 1. ut per se subsistatur nec sit in ali 
+      <lb ed="#B" n="39"/>tanquam in subjecto; 2. ut sit intelligentis naturae 
+      <lb ed="#B" n="40"/>J. ut ab alia distinquatur neque de alia persona in 
+      <lb ed="#B" n="41"/>casu recto praedicetur. August. lib. 5. de trinit 
+      <lb ed="#B" n="42"/>c. 9: Revera cum Pater non sit Filius, et Filius 
+      <lb ed="#B" n="43"/>non sit Pater, et Spiritus s. ille, qui etiam 
+      donun<lb ed="#B" n="44" break="no"/>Dei vocatur, nec Pater sit nec Filius, tres utique 
+      <lb ed="#B" n="45"/>sunt. Ideoque pluraliter dictum est: ego et 
+      Pate<lb ed="#B" n="46" break="no"/>unum sumus ete. Tamen cum quaeritur, quid tres 
+      <lb ed="#B" n="47"/>magna prorsus inopia humanum laborat eloquium 
+      <lb ed="#B" n="48"/>Dictum est tamen tres personae, non ut illud dicere 
+      <lb ed="#B" n="49"/>tur, sed ne taceretur. Boëtius in lib. de duab. na 
+      <lb ed="#B" n="50"/>turis c. 17. personam definit, quod sit rationali 
+      <lb ed="#B" n="51"/>naturae individua substantia.** Richardus Victorinus 
+      <lb ed="#B" n="52"/>lib. 4. de trin. c. 18. addidit vocem incommunicabi 
+      <lb ed="#B" n="53"/>lis. Scholastici ex utroque definiunt, quod sit sud 
+      <lb ed="#B" n="54"/>stcantia intelligens, individua, incommunicabilis, et 
+      <lb ed="#B" n="55"/>definitioni recentiores addiderunt etiam illud, quo 
+      <lb ed="#B" n="56"/>non sit pars alterius, et quae non sustentata ab alio 
+      <lb ed="#B" n="57"/>propter naturam Christi humanam, quae est 
+      sul<lb ed="#B" n="58" break="no"/>stantia intelligens, individua et incommunicabilis, ne 
+      <lb ed="#B" n="59"/>tamen est persona, cum non per se, sed in Aόγ 
+      <lb ed="#B" n="60"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="61"/>subsistat. Scholastici tamen monent, Boëtii defini¬ 
+      <!--470.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>tionem sic explicari posse, ut non conveniat 
+      assumta<lb ed="#B" n="63" break="no"/>Christi naturae, dicunt enim individuum duobus 
+      mo<lb ed="#B" n="64" break="no"/>dis accipi, primo pro eo, quod est in se determinatum 
+      <lb ed="#B" n="65"/>et singulare, ut videlicet singulare ab universali 
+      dif<lb ed="#B" n="66" break="no"/>fert; secundo pro eo, quod absolute et complete sin 
+      <lb ed="#B" n="67"/>ulare est, hoc est, quod non solum est hoc 
+      singu<lb ed="#B" n="68" break="no"/>are determinatum, sed etiam per se ipsum, non 
+      au<lb ed="#B" n="69" break="no"/>tem in alio subsistit, quodque adeo suum quendam 
+      <lb ed="#B" n="70"/>terminum habet in toto complexu substantiae ulti 
+      <lb ed="#B" n="71"/>mum. Priori modo natura humana assumta est sub 
+      <lb ed="#B" n="72"/>stantia individua, non autem modo posteriori. Huge 
+      <lb ed="#B" n="73"/>Etherianus lib. 1. de process. Spiritus s. contra 
+      <lb ed="#B" n="74"/>Graecos e. 1: Persona est substantia e proprietati 
+      <lb ed="#B" n="75"/>bus ejusdem naturae rebus numero differens. Item: 
+      <lb ed="#B" n="76"/>Persona est substantia rationalis, quae per quas 
+      <lb ed="#B" n="77"/>proprietates singularis potest intelligi. Suidas: 
+      <lb ed="#B" n="78"/>Typostasis est essentia cum characteristicis proprie 
+      <lb ed="#B" n="79"/>tatibus. Lombard. lib. 1. dist. 25. c. 11. Personae. 
+      <lb ed="#B" n="80"/>nomen tribus modis sumitur: 1. pro essentia; 2. pro 
+      <lb ed="#B" n="81"/>ὑποστάσει; 3. pro proprietate. Alex. ab Ales p. 1. 
+      <lb ed="#B" n="82"/>q. 56. memb. 3. profert hanc definitionem, quam 
+      <lb ed="#B" n="83"/>vocat magistralem: Persona est hypostasis distincta 
+      <lb ed="#B" n="84"/>proprietate ad dignitatem pertinente. Idem p. 4 
+      <lb ed="#B" n="85"/>q. 4. memb. 6. personae rationem triplicem 
+      impor<lb ed="#B" n="86" break="no"/>care distinctionem, nempe singularitatis, 
+      incommu<lb ed="#B" n="87" break="no"/>nicabilitatis et dignitatis, qua nempe alia ab alia 
+      <lb ed="#B" n="88"/>distinguitur rationalitate individuali, quae est 
+      dignis<lb ed="#B" n="89" break="no"/>sima proprietas. Caeterum quamvis persona dicatur 
+      <lb ed="#B" n="90"/>substantia individua, tamen inter personam et indi 
+      <lb ed="#B" n="91"/>viduum philosophis sic appellatum intercedit quaedam 
+      <lb ed="#B" n="92"/>differentia, quam Durandus lib. 2. sent. dist. 3. q. 2. 
+      <lb ed="#B" n="93"/>at lib. 3. dist. 1. q. i. num. 17. sic explicat: Omnis 
+      <lb ed="#B" n="94"/>persona est suppositum et omne suppositum est in 
+      <lb ed="#B" n="95"/>dividuum, sed non omne individuum est suppositum. 
+      <lb ed="#B" n="96"/>aec omne suppositum est persona, quia quaelibet 
+      no<lb ed="#B" n="97" break="no"/>tura singularis, in quocunque genere sit, potest dici 
+      <lb ed="#B" n="98"/>individua, suppositum autem non dicitur nisi naturo 
+      <lb ed="#B" n="99"/>tingularis in praedicamento substantiae, nec quae 
+      <lb ed="#B" n="100"/>runque talis, sed solum completa. Persona dicitur 
+      <lb ed="#B" n="101"/>idem illud in natura intellectuali tantum. v. q. in 
+      <lb ed="#B" n="102"/>angelis, hominibus et ipso Deo. Individuum est 
+      la<lb ed="#B" n="103" break="no"/>rissimum et significat quamlibet naturam 
+      substantia<lb ed="#B" n="104" break="no"/>lem et accidentalem singularem et determinatam. 
+      <lb ed="#B" n="105"/>Suppositum vero quamvis substantialem 
+      naturan<lb ed="#B" n="106" break="no"/>completam per se subsistentem, persona vero 
+      sub<lb ed="#B" n="107" break="no"/>stantiam completam subsistentem in natura intelle 
+      <lb ed="#B" n="108"/>ctuali. Sed hic denuo observandum, magnum imo 
+      <lb ed="#B" n="109"/>infinitum discrimen esse inter personas humanas 
+      e<lb ed="#B" n="110" break="no"/>personas divinas. Quaelibet enim persona humana 
+      <lb ed="#B" n="111"/>suam propriam habet essentiam incommunicabilem 
+      <lb ed="#B" n="112"/>sed personae trinitatis habent unam et eandem essem 
+      <lb ed="#B" n="113"/>tiam communicabilem. Unitas essentiae in personis 
+      <lb ed="#B" n="114"/>trinitatis est numerica. Ratio pendet ab essentiae 
+      <lb ed="#B" n="115"/>numanae finitate, divinae vero infinitate, ut superius 
+      <lb ed="#B" n="116"/>diximus. Quidam personam definiunt, quod sit in 
+      <lb ed="#B" n="117"/>telligentis naturae incommunicabilis subsistentia, in 
+      <lb ed="#B" n="118"/>qua definitione persona accipitur formaliter et 
+      ab<lb ed="#B" n="119" break="no"/>stracte, in Boëtii vero definitione eadem materialiter 
+      <lb ed="#B" n="120"/>et concrete accipitur, de qua duplici personae ac 
+      <lb ed="#B" n="121"/>ceptione diximus superius. Salmeron. tom. 2. traet. 10. 
+      <!--471.xml-->
+      <pb ed="#B" n="398"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>hypostasin vocat substantiam primam, essentiam vero 
+      <lb ed="#B" n="2"/>cubstantiam secundam, sed hoc caute accipiendum 
+      <lb ed="#B" n="3"/>quia essentia non est genus nec species in divinis 
+      <lb ed="#B" n="4"/>in eo tamen est convenientia, quod essentia est 
+      tri<lb ed="#B" n="5" break="no"/>bus personis communis, hypostasis cuique propria 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e3380">
+               <lb ed="#B" n="6"/>63. 4. Antithesis. 1. Laurentius Valla lib. 6 
+      <lb ed="#B" n="7"/>elegant. c. 34. Boëtium accusat, quod definire ausus 
+      <lb ed="#B" n="8"/>fuerit personam per substantiam, cum significet po 
+      <lb ed="#B" n="9"/>tius accidens seu qualitatem, quae, cum in Deo 
+      lo<lb ed="#B" n="10" break="no"/>cum non habeat, xml:ideo non magis in Deo, quam i 
+      <lb ed="#B" n="11"/>bruto animali personam esse dicit. Sed de voce eo 
+      <lb ed="#B" n="12"/>elesiastica non est judicandum ex profanis scriptor 
+      <lb ed="#B" n="13"/>bus. Adde quod in probatis Latinae linguae aucto 
+      <lb ed="#B" n="14"/>ribus persona non solum significat qualitatem, 
+      se<lb ed="#B" n="15" break="no"/>etiam substantiam. Cic. lib. de invent. topic. et 
+      par<lb ed="#B" n="16" break="no"/>tit. dicit, alia esse rerum, alia personarum attributo 
+      <lb ed="#B" n="17"/>lib. 2. de orat: Hominum innumerabiles personae 
+      <lb ed="#B" n="18"/>Philipp. 6: Non alienum fuit, personas quasdam e 
+      <lb ed="#B" n="19"/>pobis recognosci, ut, quibuscum bellum gereretis 
+      <lb ed="#B" n="20"/>possitis taciti cogitare. Valer. Max. lib. 2. c. 21. 
+      <lb ed="#B" n="21"/>quoslibet homines vocat personas. Jesus Christi tris 
+      <lb ed="#B" n="22"/>constituunt juris objecta, personas, res et actione, 
+      <lb ed="#B" n="23"/>2. Photiniani personarum trinitatem in divinis ne 
+      <lb ed="#B" n="24"/>gantes definitionem personae talem proferunt, ex qua 
+      <lb ed="#B" n="25"/>mysterium illud se evertere posse sperant. Goslavi 
+      <lb ed="#B" n="26"/>contra Keckerm. part. 3. c. 1: Gravissimus ille de 
+      <lb ed="#B" n="27"/>trinitate error cognitione personae vera nullo ne 
+      <lb ed="#B" n="28"/>jotio deprehendi potest, ut mirer vehementer docto 
+      <lb ed="#B" n="29"/>alioquin viros sibi persuaderi pati, tres personas in 
+      <lb ed="#B" n="30"/>unica essentia consistere posse, cum eos minime lo 
+      <lb ed="#B" n="31"/>teat quamlibet personam requirere singularem essen 
+      <lb ed="#B" n="32"/>tiam. (Resp. si per nomen singularis essentiae in 
+      <lb ed="#B" n="33"/>telligat separatam et incommunicabilem essentiam 
+      <lb ed="#B" n="34"/>negamus in divinis personis eam requiri vel locum 
+      <lb ed="#B" n="35"/>habere, cum divina essentia sit infinita.) Ibid. c. 4. 
+      <lb ed="#B" n="36"/>ex Boëtii definitione incommunicabile expungendum 
+      <lb ed="#B" n="37"/>esse dicit, cum in verbo individuum xml:idem contineo 
+      <lb ed="#B" n="38"/>tur. (Atqui individuum et incommunicabile non sum 
+      <lb ed="#B" n="39"/>plane reciproca. Individuum dicit rationem tantum 
+      <lb ed="#B" n="40"/>singulariter subsistendi, ac respicit primam substar 
+      <lb ed="#B" n="41"/>tiam, incommunicabile explicat formale individui, a 
+      <lb ed="#B" n="42"/>respicit alias personas ejusdem naturae. In natura 
+      <lb ed="#B" n="43"/>aliquid potest esse haec et proinde prima substantis 
+      <lb ed="#B" n="44"/>ac consequenter individuum, quod tamen non est in 
+      <lb ed="#B" n="45"/>communicabile, ut ignis in ferro candente Jac 
+      <lb ed="#B" n="46"/>Mart. 2. de tribus Eloh. c. 4. multa individua in 
+      <lb ed="#B" n="47"/>dividuitate retenta amittunt incommunicabilitater 
+      <lb ed="#B" n="48"/>seu proprii suppositi rationem c. 6.) Ibid. personam 
+      <lb ed="#B" n="49"/>definit, quod sit cubstantia prima intelligens. Sed 
+      <lb ed="#B" n="50"/>in illa definitione omittitur formalis ratio personae 
+      <lb ed="#B" n="51"/>quae est incommunicabilitas 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e3483">
+               <lb ed="#B" n="52"/>64. 3. Trinitas. Hujus vocis notanda 1. ἐτυμο 
+      <lb ed="#B" n="53"/>λογία. Trinitatem dietam volunt quasi trium unita 
+      <lb ed="#B" n="54"/>tem, ut emphatice exprimat illud apostolicum i. Joh. 4 
+      <lb ed="#B" n="55"/>v. 7. et hi tres unum sunt. Thom. p. 1. q. 31. art. 1. 
+      <lb ed="#B" n="56"/>ex Isidoro lib. 1. c. 4. Atqui primo Latinum trini 
+      <lb ed="#B" n="57"/>tas respondet Graeco τριάς, quae non includit uni 
+      <lb ed="#B" n="58"/>tatis appellationem; secundo Athanasius in symi 
+      <lb ed="#B" n="59"/>dicit, unitatem in trinitate et trinitatem in unitat 
+      <lb ed="#B" n="60"/>veneremur. At quis ita loquitur, trium unitatem in 
+      <!--471.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>unitate veneramur? Tertio pii veteres unitatem 
+      siv<lb ed="#B" n="62" break="no"/>μονάδα, in essentia, trinitatem τριάδα in personis 
+      <lb ed="#B" n="63"/>agnoscunt, adeoque trinitatem ab unitate distinguunt 
+      <lb ed="#B" n="64"/>Quarto, si trinitas esset trium unitas, quaternitas 
+      <lb ed="#B" n="65"/>esset quatuor personarum unitas. Quinto Gentilis 
+      <lb ed="#B" n="66"/>in prothesibus ex eo colligit essentiam esse aliquid 
+      <lb ed="#B" n="67"/>quartum extra tres personas. Dicimus ergo nomen 
+      <lb ed="#B" n="68"/>trinitatis ternarium personarum formaliter et 
+      prae<lb ed="#B" n="69" break="no"/>cise, essentiae unitatem non nisi consequenter notare 
+      <lb ed="#B" n="70"/>ideoque illam Thomae etymologiam esse tantum allu 
+      <lb ed="#B" n="71"/>sivam et sonum vocis spectare, sicut dicimus civita 
+      <lb ed="#B" n="72"/>tem esse civium unitatem; 2. origo. Concretum in 
+      <lb ed="#B" n="73"/>Scripturis exstat, abstractum in antiquissimis 
+      eccle<lb ed="#B" n="74" break="no"/>niae scriptoribus, Tertulliano, contra Prax. Cypriar. 
+      <lb ed="#B" n="75"/>serm. de orat. Domin. Ambrosio etc. 3. Significo 
+      <lb ed="#B" n="76"/>tio. Trinitas ex vi ac prima impositione nomini 
+      <lb ed="#B" n="77"/>quarumlibet rerum ternarum numerum significat, sed 
+      <lb ed="#B" n="78"/>ecelesiastica loquendi consuetudine cum absolute 
+      po<lb ed="#B" n="79" break="no"/>nitur, singularem illum et incomprehensibilem divins 
+      <lb ed="#B" n="80"/>rum personarum ternarium ubi denotat, non 
+      signif<lb ed="#B" n="81" break="no"/>cat aliquid compositum ex tribus, sed tres personas 
+      <lb ed="#B" n="82"/>unius essentiae, unde etiam trinitas sive tres per 
+      <lb ed="#B" n="83"/>sonae simul sumtae non differunt ab essentia, alias 
+      <lb ed="#B" n="84"/>oco trinitatis introduceretur quaternitas. Magnum 
+      <lb ed="#B" n="85"/>proinde discrimen est inter trinum et triplex. 
+      Tri<lb ed="#B" n="86" break="no"/>num est, quod in essentia unum tres habet subsistend 
+      <lb ed="#B" n="87"/>modos, triplex, quo de tribus est compositum; trinum 
+      <lb ed="#B" n="88"/>Deum dicimus, sed triplicem dicere Christiana 
+      reli<lb ed="#B" n="89" break="no"/>gione prohibemur. Dicitur autem Deus trinus not 
+      <lb ed="#B" n="90"/>respectu essentiae, quae est numero una, non respecti 
+      <lb ed="#B" n="91"/>idiomatum essentialium, quippe quae cum essentia 
+      <lb ed="#B" n="92"/>sunt simplicissime rαυτὸ quid, non respectu generis 
+      <lb ed="#B" n="93"/>vel speciei, quia in Deo nec genus nec species; sed 
+      <lb ed="#B" n="94"/>respectu trium ὑπάρξεως τρόπων, qui sunt ἀγεννησία 
+      <lb ed="#B" n="95"/>in Patre, γέννησις in Filio, ἐκλόρευσις in Spiritus s. 
+      <lb ed="#B" n="96"/>Vide loc. de trib. Elohim §. 1. et 2. 
+</p>
+            <p xml:id="zef3dd-d1e731-d1e3587">
+               <lb ed="#B" n="97"/>65. 4. Antithesis. 1. Ut rem ipsam, ita quoque 
+      <lb ed="#B" n="98"/>nomen trinitatis repudiarunt haeretici veteres myste 
+      <lb ed="#B" n="99"/>rium μονάδος ἐν τριάδι καὶ τριάδος ἐν μονάδι 
+      negan<lb ed="#B" n="100" break="no"/>tes, quorum vestigiis hodie insistunt Photiniani, 
+      Anti<lb ed="#B" n="101" break="no"/>trinitarii ex eo merito dicti. Socin. in defens. anim 
+      <lb ed="#B" n="102"/>adv. p. 311: Veteres theologi, cum trinitatem nomi 
+      <lb ed="#B" n="103"/>nabant, non ut nunc fere fit, ipsam Dei essentiam 
+      <lb ed="#B" n="104"/>in tribus personis consistentem, sed simpliciter 
+      Pa<lb ed="#B" n="105" break="no"/>trem, Filium et Spiritum s. intelligebant. Et 
+      paul<lb ed="#B" n="106" break="no"/>anto: Potuit Hieronymus sanct. trinitatis nomine 
+      <lb ed="#B" n="107"/>intelligere, non quod tres sint in Deo personae 
+      <lb ed="#B" n="108"/>Pater, Filius et Spiritus s., sed quod illi tres in 
+      <lb ed="#B" n="109"/>nostraa salutis mjsterio concurrunt. 2. Calvinus in 
+      <lb ed="#B" n="110"/>epist. ad Polon. p. 1972. opusc. edit. ann. 1566: 
+      <lb ed="#B" n="111"/>Haec precatio communiter recepta, sancta trinitas, 
+      <lb ed="#B" n="112"/>inus Deus, mihi non placet. 3. Lutherum eodem 
+      <lb ed="#B" n="113"/>nomine graviter accusant Jesuitae. Bellarminus in 
+      <lb ed="#B" n="114"/>praefat. controv. de Christo et in jud. de Form. 
+      <lb ed="#B" n="115"/>Concord. mend. 3. col. 1539: Si Luthero probatu 
+      <lb ed="#B" n="116"/>loctrina catholica de unitate essentiae et trinitale 
+      <lb ed="#B" n="117"/>personarum, cur ex precibus communibus Germano 
+      <lb ed="#B" n="118"/>rum illam precatiunculam sustulit, sancta trinitas, 
+      <lb ed="#B" n="119"/>unus DEUS, miserere nobis? Gregor. de Valent 
+      <lb ed="#B" n="120"/>lib. 1. de unit. et trinit. c. 7, p. 146: Ut in voco 
+      <!--472.xml-->
+      <pb ed="#B" n="399"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>homousios non cyllabas, aed rem eignificatam Lutheri 
+      <lb ed="#B" n="2"/>anima odisse videtur, sic etiam in voce trinitatis 
+      <lb ed="#B" n="3"/>quippe quam in Germanicis precationibus ann. 1543. 
+      <lb ed="#B" n="4"/>illud expungi curavit: a. trinitas, unus Deus, 
+      mis<lb ed="#B" n="5" break="no"/>rere nobis. Tannerus disp. 3. in Thomam e. 1. 
+      <lb ed="#B" n="6"/>thes. 2. p. 137: Lutherus ipsam trinitatis vocen 
+      <lb ed="#B" n="7"/>exosus eam exe litaniis Germanicis submovit expuncto 
+      <lb ed="#B" n="8"/>illa precandi formula, cancta trinitas, unus Deus 
+      <lb ed="#B" n="9"/>miserore nobis, tam parum utique propitiam habiti 
+      <lb ed="#B" n="10"/>rus trinitatem, quam parum illi se supplicem prae 
+      <lb ed="#B" n="11"/>stitit. Sandaeus Jes. Herbipolensis in themate se 
+      <lb ed="#B" n="12"/>culari de secta Protest. deserenda thes. 232: Luthe 
+      <lb ed="#B" n="13"/>rus ut Deo debitum honorem detraheret, ex litani 
+      <lb ed="#B" n="14"/>orthodoxis usitatam precationis formam, cancta tri 
+      <lb ed="#B" n="15"/>nitas, unus Deus, miserere nobis, exturbavit, 
+      vocem<lb ed="#B" n="16" break="no"/>ipsam trinitas mordere et arrodere solitus eto 
+      <lb ed="#B" n="17"/>Eandem tibiam inflant Paraeus in Iren. c. 24. art. 14. 
+      <lb ed="#B" n="18"/>p. 147. Sladus in append. disp. 1. contra Vorstium 
+      <lb ed="#B" n="19"/>p. 61, sed ἔγκλημα illud a Luthero depulimus in loc 
+      <lb ed="#B" n="20"/>de tribus Elohim §. 3. Disp. 9. de gloria Dei 8. 
+      <lb ed="#B" n="21"/>6 <!-- line coord error --> 
+      <lb ed="#B" n="22"/>Nos libenter cum veteribus hac loquendi formul 
+      <lb ed="#B" n="23"/>utimur. Nazianzen. orat. 2. de pace: O Trinita 
+      <lb ed="#B" n="24"/>sancta et longanimis, suscipe eos. August. epist. 67. 
+      <lb ed="#B" n="25"/>Ita Pater, ita Filius, ita Spiritus e., ita trinita 
+      <lb ed="#B" n="26"/>unus Deus. Lib. ult. de trinit. cap. ult: Deus Trini 
+      <lb ed="#B" n="27"/>tas, quaecunque dixi in his libris, de tuo 
+      agnoscan<lb ed="#B" n="28" break="no"/>et tui, si qua de me, et tu ignosce et tui. 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e3711">
+               <lb ed="#B" n="29"/>66. Atque haec de appellationibus Latinis in ho 
+      <lb ed="#B" n="30"/>articulo usitatis dicta sint. Scholastici praeter ea 
+      <lb ed="#B" n="31"/>utuntur nomine proprictatis, notionis, relationis, 
+      ci<lb ed="#B" n="32" break="no"/>cumincessionis (quae respondet Graecorum περιχω 
+      <lb ed="#B" n="33"/>ρήσει) proprietates numerant tres: innascibilitatem 
+      <lb ed="#B" n="34"/>Graecis ἀγεννησίαν, quae est proprietas Patris, quam 
+      <lb ed="#B" n="35"/>etiam voeant paternitatem; filiationem, γέννησιν, quae 
+      <lb ed="#B" n="36"/>est proprietas Filii, quam etiam vocant nativitatem 
+      <lb ed="#B" n="37"/>spirationem, Graecis ἐκπόρευσιν, quae est proprieta 
+      <lb ed="#B" n="38"/>Spiritus s., quam etiam vocant processionem. Ro 
+      <lb ed="#B" n="39"/>lationes numerant quatuor; generationem activam et 
+      <lb ed="#B" n="40"/>generationem passivam (termino non physice, 
+      se<lb ed="#B" n="41" break="no"/>grammatice sumto), spirationem activam et spiratio 
+      <lb ed="#B" n="42"/>nem passivam. Notiones recensent quinque: inne 
+      <lb ed="#B" n="43"/>scibilitatem, paternitatem, filiationem, spirationem 
+      <lb ed="#B" n="44"/>activam et spirationem passivam. Circumincessionem 
+      <lb ed="#B" n="45"/>voeant intimam et perfectam unius personae in alie 
+      <lb ed="#B" n="46"/>habitationem, de qua Augustin. lib. 6. de trinit. cap. 
+      <lb ed="#B" n="47"/>ult: Singula sunt in singulis, et omnia in singulis 
+      <lb ed="#B" n="48"/>et omnia in omnibus, et unum omnia. Graecur 
+      <lb ed="#B" n="49"/>περιχώρησις, quo Damasc. lib. 3. c. 4. et alibi pas 
+      <lb ed="#B" n="50"/>sim utitur, longe significantius est, cujus pulcerrimam 
+      <lb ed="#B" n="51"/>descriptionem tradit lib. 1. c. 19. Sed de his ex 
+      se<lb ed="#B" n="52" break="no"/>quentibus plenius judicium fieri poterit 
+      </p>
+            <p xml:id="zef3dd-d1e731-d1e3766">
+               <lb ed="#B" n="53"/>67. 4. In lingua Germanica 1. essentia vocatu 
+      <lb ed="#B" n="54"/>Substanz oder Wesen; 2. personae nomen retinetu 
+      <lb ed="#B" n="55"/>cujus descriptionem Germanicam tradit D. Chemnio 
+      <lb ed="#B" n="56"/>p. 1. loc. p. 95; 3. trinitas vocatur Dreifaltigkei 
+      <lb ed="#B" n="57"/>sed cum illud potius significet triplicitatem, xml:ide 
+      <lb ed="#B" n="58"/>recte explicandum, et pro eo potius utendum Drei 
+      <lb ed="#B" n="59"/>einigkeit 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

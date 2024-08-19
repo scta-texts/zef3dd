@@ -1,0 +1,2429 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="465"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e964"><!-- zef3dd-l4c5 -->
+            <head xml:id="zef3dd-d1e964-Hd1e101">Caput 5</head>
+            <head xml:id="zef3dd-d1e964-Hd1e103" type="question-title">De divina Christi natura</head>
+            <p xml:id="zef3dd-d1e964-d1e106">
+               <lb ed="#B" n="31"/>CAPUT V. 
+      <lb ed="#B" n="32"/>DE DIVINA CHRISTI NATURA. 
+</p>
+            <p xml:id="zef3dd-d1e964-d1e113">
+               <lb ed="#B" n="33"/>42. Thesis: In Christo est vera et perfecta divine 
+      <lb ed="#B" n="34"/>natura, ac proinde etiam Clristus est verue, natu 
+      <lb ed="#B" n="35"/>ralia et aeternus Deus. Ἐκθεσις. Non tantum dona 
+      <lb ed="#B" n="36"/>divina, sed etiamo veram et perfectam divinam no 
+      <lb ed="#B" n="37"/>turam in Christo esse dicimus, nec simpliciter 
+      die<lb ed="#B" n="38" break="no"/>mus ipsum esse et vocari Deum, sed esse verum, no 
+      <lb ed="#B" n="39"/>turalem et aeternum DEUM, ut a Photinianorum 
+      <lb ed="#B" n="40"/>et omnium θεομάχων blasphemiis confessionem 
+      no<lb ed="#B" n="41" break="no"/>stram eo clarius separemus. Photiniani more om 
+      <lb ed="#B" n="42"/>nium haereticorum ὅμοια μὲν λαλοῦσιν, ἀνόμοια δ 
+      <lb ed="#B" n="43"/>φρονοῦσιν, dum se quoque veram Christi deitatem 
+      <lb ed="#B" n="44"/>credore et confiteri asserunt. Ostorodus et Voido 
+      <lb ed="#B" n="45"/>vius in Apologia Belgice edita Racov. anno 606 
+      <lb ed="#B" n="46"/>p. 22: Undenam est illa theologorum vestrorum at 
+      <lb ed="#B" n="47"/>dacia, qua vobie illustrisaimi ordines imponere 
+      stu<lb ed="#B" n="48" break="no"/>dent ac persuadere, nos deitatem Filii Dei 
+      abne<lb ed="#B" n="49" break="no"/>gare? nos vero per Dei gratiam non veram, sed 
+      <lb ed="#B" n="50"/>falsam tantum et fictam Filii Dei deitatem negamus 
+      <lb ed="#B" n="51"/>Socin. contra Bellarmin. et Wiekum p. 51: Aperte 
+      <lb ed="#B" n="52"/>falsiesimum est, nos palam affirmare, Christum 
+      <!--538.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="53"/>non esse verum Deum, imo contrarium publice 
+      pro<lb ed="#B" n="54" break="no"/>fitemur et in nostris tam Latina quam Polonica 
+      <lb ed="#B" n="55"/>lingua non paucis editis scriptis Christum verum 
+      <lb ed="#B" n="56"/>Deum esse asserimus. P. 371: Nemo nostrum nega 
+      <lb ed="#B" n="57"/>Christum esse verum DEUM, hoc est, non nomine 
+      <lb ed="#B" n="58"/>lantum, sed re ipsa Deum. In defens. animadv. 
+      <lb ed="#B" n="59"/>§. 131. audacissime scribit, se cum quis veram 
+      <lb ed="#B" n="60"/>Christi divinitatem, nos commentitiam propugnare 
+      <lb ed="#B" n="61"/>Jatech. Racov. p. 48: Evidentissime ostendi potest, 
+      <lb ed="#B" n="62"/>Dominum Jesum pro puro homine reputari nullo 
+      <lb ed="#B" n="63"/>modo posse. P. 64: Non nego, Christum esse verum 
+      <lb ed="#B" n="64"/>Deum. Theoph. Nicolaid. in defens. Socini advi 
+      <lb ed="#B" n="65"/>Miedzibozium p. 23: Credunt ex toto corde cum 
+      <lb ed="#B" n="66"/>1. Thoma Jesum illum crucificum esse suum 
+      Do<lb ed="#B" n="67" break="no"/>minum et Deum, agnoscunt cum d. Paulo Chro 
+      <lb ed="#B" n="68"/>stum ex patribus secundum carnem oriundum esse 
+      <lb ed="#B" n="69"/>Deum super omnes benedictum. Schmaltzius in 
+      <lb ed="#B" n="70"/>exam. 157. errorum p. 4. Christum voeat naturalen 
+      <lb ed="#B" n="71"/>Dei Filium 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e204">
+               <lb ed="#B" n="72"/>13. Sed hae omnes sunt merae verborum prae 
+      <lb ed="#B" n="73"/>stigiae fallendis simplicioribus et incautis hominum 
+      <lb ed="#B" n="74"/>mentibus destinatae, quibus breviter hoc opponimus: 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e214">
+               <lb ed="#B" n="75"/>Cui non competit definitio, ei nec definitum 
+      <lb ed="#B" n="76"/>Sed Christo ex hypothesi Photinianorum non 
+      com<lb ed="#B" n="77" break="no"/>petit definitio verae deitatis sive naturae divinae 
+      <lb ed="#B" n="78"/>quae est, quod sit essentia spiritualis simplicissime 
+      <lb ed="#B" n="79"/>aeterna, increata, ete. Ergo nec definitio. 2. Aliuò 
+      <lb ed="#B" n="80"/>est aliquem vocari vere Deum, aliud vero ipsum 
+      <lb ed="#B" n="81"/>esse verum, naturalem et aeternum Deum. Prius 
+      <lb ed="#B" n="82"/>concedunt Christo Photiniani, posterius ei derogant 
+      <lb ed="#B" n="83"/>Magistratus vere vocatur Deus, non enim falsum 
+      <lb ed="#B" n="84"/>est Spiritus s. encomium: Ego dixi, vos dii esti 
+      <lb ed="#B" n="85"/>interim non est verus, naturalis et aeternus Deus 
+      <lb ed="#B" n="86"/>3. Dona divina nondum efficiunt, ut aliquis sit verus, 
+      <lb ed="#B" n="87"/>naturalis et aeternus Deus, sed ad xml:id requiritur etiam 
+      <lb ed="#B" n="88"/>vera et perfecta natura divina, quam Christo 
+      Pho<lb ed="#B" n="89" break="no"/>tiniani nefarie derogant. 4. Ipsimet Photiniani 
+      ha<lb ed="#B" n="90" break="no"/>suas fraudes nobis aperiunt. Catech. Racov. p. 84: 
+      <lb ed="#B" n="91"/>Christus, etsi verus Deus sit, non est tamen ille 
+      e<lb ed="#B" n="92" break="no"/>se unus Deus, qui per se et perfectissima 
+      ration<lb ed="#B" n="93" break="no"/>Deus est, cum is Deus sit tantum Pater, hoc est 
+      <lb ed="#B" n="94"/>θεὸς ἀληθινός, sed non ὁ ἄληθινὸς θεός, ille veru 
+      <lb ed="#B" n="95"/>Deus, qui natura Deus est, ἄληθινοὶ θεοί secundum 
+      <lb ed="#B" n="96"/>illos sunt plurimi, videlicet quotquot sunt nontol 
+      <lb ed="#B" n="97"/>θεοί, at ὁ ἀληθινὸς θεὸς illis est tantum Christi Pater. 
+      <lb ed="#B" n="98"/>Socinus contra Wiekum p. 51: Si alicubi fortasse 
+      <lb ed="#B" n="99"/>ab uliquo ex nostris aliter scriptum fuit, ibi eane 
+      <lb ed="#B" n="100"/>quemadmodum loci circumstantiae facile declara 
+      <lb ed="#B" n="101"/>rabunt, nomen veri DEI perfectissima ratione signi 
+      <lb ed="#B" n="102"/>ficabit. Ostorod. in Institut. p. 132: Cum quis 
+      pu<lb ed="#B" n="103" break="no"/>cus et solum homo perhibetur, duobus modis xml:id 
+      in<lb ed="#B" n="104" break="no"/>telligi potest, et ratione essentiae et ratione quali 
+      <lb ed="#B" n="105"/>talum. Si ratione essentiae intelligatur, tum fate 
+      <lb ed="#B" n="106"/>mur essentiam Christi utpote veri hominis non 
+      <lb ed="#B" n="107"/>aliam nisi humanam esse; ein vero ratione quali 
+      <lb ed="#B" n="108"/>tatum et qualis ille homo eit consideretur, 
+      dicimu<lb ed="#B" n="109" break="no"/>Christum non nudum, purum et solum hominem esse 
+      <lb ed="#B" n="110"/>sed aliquid amplius. ** Idem in Instit. c. 6. t. 7. 
+      <lb ed="#B" n="111"/>Arbitramur, quod cesentia Filii Dei nihil aliud quam 
+      <lb ed="#B" n="112"/>hominis essentia fuerit, xml:id est verua homo, nec ullam 
+      <!--539.xml-->
+      <pb ed="#B" n="466"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>aliam in ipso naturam vel essentiam scimus. C. 10, t. s 
+      <lb ed="#B" n="2"/>Christus in Scriptura vocatur deus, non quia natur. 
+      <lb ed="#B" n="3"/>Deus ille excelsus sit, sed quia a Deo divinam 
+      po<lb ed="#B" n="4" break="no"/>tentiam et gloriam accepit juxta illud Phil. 2: 
+      do<lb ed="#B" n="5" break="no"/>navit ei nomen ete.** 5. Schmaltzius Christum vocat 
+      <lb ed="#B" n="6"/>naturalem Dei Filium, non quod agnoscat ipsum 
+      <lb ed="#B" n="7"/>ab aeterno ex Patris essentia genitum et natura 
+      <lb ed="#B" n="8"/>Deum esse, sed quia secundum humanam naturam 
+      <lb ed="#B" n="9"/>modo divino et Spiritu scilicet sancto est conceptus 
+      <lb ed="#B" n="10"/>6. Sic ergo Photiniani Christum vocant verum Deum 
+      <lb ed="#B" n="11"/>ratione nominis tantum, nos ratione ipsius etiam 
+      <lb ed="#B" n="12"/>rei, divinae scilicet essentiae; illi ratione donorum 
+      <lb ed="#B" n="13"/>divinorum in tempore datorum, nos ratione natura 
+      <lb ed="#B" n="14"/>divinae; illi vocant Deum in tempore factum, nos 
+      <lb ed="#B" n="15"/>aeternum. 7. Opponimus igitur Photinianis illud 
+      <lb ed="#B" n="16"/>propheticum Jerem. 10, v. 11: Dii, qui non fece 
+      <lb ed="#B" n="17"/>runt coelum et terram, pereant de terra. At Pho 
+      <lb ed="#B" n="18"/>tiniani concedunt, Christum esse deum, et tame 
+      <lb ed="#B" n="19"/>negant, eum esse creatorem coeli et terrae. Ergo 
+      <lb ed="#B" n="20"/>statuunt Christum esse exterminandum 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e349">
+               <lb ed="#B" n="21"/>44. Classes argumentorum, ex quibus vera Christ 
+      <lb ed="#B" n="22"/>leitas probatur, diversimode distribuuntur. Hila 
+      <lb ed="#B" n="23"/>rius lib. 7. de trinit. divinitatem Christi quinque 
+      <lb ed="#B" n="24"/>modis probari posse statuit: 1. nomine, quia sim 
+      <lb ed="#B" n="25"/>pliciter et praecise vocatur Deus; 2. nativitate et 
+      <lb ed="#B" n="26"/>generatione, quia vocatur Dei Filius; 3. natura. 
+      <lb ed="#B" n="27"/>quia dixit: Ego et Pater unum sumus, non unu 
+      <lb ed="#B" n="28"/>quod personam demonstrat, sed unum, quod sub 
+      <lb ed="#B" n="29"/>stantiam notat, haec vero est prorsus una et eadem 
+      <lb ed="#B" n="30"/>Patris et Filii, alioqui non esset unus tantum DEUS; 
+      <lb ed="#B" n="31"/>4. potestate, quia dixit: Data est mihi omnis pote 
+      <lb ed="#B" n="32"/>stas; 5. professione, quia ipse Christus profitebatur. 
+      <lb ed="#B" n="33"/>se habere Deum Patrem eique se consubstantialem 
+      <lb ed="#B" n="34"/>et aequalem esse. Quidam ad duas classes omnis 
+      <lb ed="#B" n="35"/>revocant, quarum prior continet expressa sacrarum 
+      <lb ed="#B" n="36"/>literarum testimonia, posterior alia argumenta es 
+      <lb ed="#B" n="37"/>Scripturis petita, utpote I. a causa generante, quis 
+      <lb ed="#B" n="38"/>est proprius et naturalis Dei Filius; 2. a forma 
+      <lb ed="#B" n="39"/>quia est in forma Dei; 3. ex effectis Dei propriis. 
+      <lb ed="#B" n="40"/>quia creavit coelum et terram, providentia sua 
+      gu<lb ed="#B" n="41" break="no"/>bernat omnia, scrutatur corda et renes, remittit 
+      pec<lb ed="#B" n="42" break="no"/>cata, donat Spiritum s. et vitam aeternam ete 
+      <lb ed="#B" n="43"/>4. ex attributis, quia est aeternus, 
+      omnipo<lb ed="#B" n="44" break="no"/>cens, ubique praesens, omniscius, in quem 
+      cre<lb ed="#B" n="45" break="no"/>dendum, in cujus nomen baptizamur, qui ab omni 
+      <lb ed="#B" n="46"/>bus est invocandus, cujus propria est ecclesia ete 
+      <lb ed="#B" n="47"/>Nos progredimur hoc modo: Deitas Filii probatu 
+      <lb ed="#B" n="48"/>I. ex nomine; 2. ex re ipea, et quidem I. a prior. 
+      <lb ed="#B" n="49"/>ex attributis scilicet tum essentialibus tum personalibus 
+      <lb ed="#B" n="50"/>2. a posteriori, ex divinis scilicet operibus et ex 
+      <lb ed="#B" n="51"/>cultu divino; hinc versiculi, 
+      <lb ed="#B" n="52"/>
+               <quote xml:id="zef3dd-d1e964-Qd1e420">Dictum, cultus, opus, confessio, munera, quin 
+      <lb ed="#B" n="53"/>que haec 
+      <lb ed="#B" n="54"/>livinam Christi naturam mox tibi monstrant.</quote>
+               <lb ed="#B" n="55"/>Hanc methodum probandi monstrat ipse Christus Job 
+      <lb ed="#B" n="56"/>5; cum enim Judaei ex eo recte colligerent, quod 
+      Deun<lb ed="#B" n="57" break="no"/>proprium suum patrem vocando se Deo aequalem ac vel 
+      <lb ed="#B" n="58"/>rum et aeternum Deum esse doceret, falso autem 
+      con<lb ed="#B" n="59" break="no"/>eluderent, ipsum hae assertione blasphemiam 
+      com<lb ed="#B" n="60" break="no"/>mittere, xml:ideo Christus veram suam deitatem contra 
+      <!--539.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ipsorum calumnias demonstrat: 1. ab operibus 
+      divi<lb ed="#B" n="62" break="no"/>nis, quod eadem effecta et quidem eodem modo 
+      <lb ed="#B" n="63"/>cum Patre producat, ut sic in operibus sit ταυτότης 
+      <lb ed="#B" n="64"/>ac in modo agendi ὁμοιότης, ac proinde quod 
+      si<lb ed="#B" n="65" break="no"/>ejusdem naturae et aequalis potentiae cum Patro 
+      <lb ed="#B" n="66"/>v. 19; 2. a cultu divino, quod omnes debent honorare 
+      <lb ed="#B" n="67"/>Filium, sicut honorant Patrem v. 23, ubi autem 
+      <lb ed="#B" n="68"/>identitas honoris et cultus, ibi etiam aequalitas gloriae 
+      <lb ed="#B" n="69"/>et majestatis; 3. ab attributis et proprietatibus 
+      dio<lb ed="#B" n="70" break="no"/>nis, quod Pater dederit Filio vitam habere in 
+      e<lb ed="#B" n="71" break="no"/>ipso, sicut vitam habet in se ipso ete. v. 26. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e469">
+               <lb ed="#B" n="72"/>15. Prima igitur classis argumentorum pro asse 
+      <lb ed="#B" n="73"/>renda Christi vera divinitate petitur ex nominibus 
+      <lb ed="#B" n="74"/>divinis. (Nomina illa divina, ex quibus Christi 
+      dei<lb ed="#B" n="75" break="no"/>tas probatur, sunt triplicia: 1. Naturalia, ut Deus et 
+      <lb ed="#B" n="76"/>Jehovah; 2. personalia, ut Filius Dei, unigenitur 
+      <lb ed="#B" n="77"/>roprius, primogenitus; 3. officialia, ut Jesus, 
+      sal<lb ed="#B" n="78" break="no"/>vator.) Ad hanc classem pertinent 1. expressa 
+      <lb ed="#B" n="79"/>Scripturae dicta, in quibus Christus vocatur 
+      <lb ed="#B" n="80"/>ὁ θεὸς cum articulo, Joh. 1, v. 1. Actor. 20, v. 28. 
+      <lb ed="#B" n="81"/>1. Tim. 3, v. 16; Deus magnus Tit. 2, v. 13. 
+      <lb ed="#B" n="82"/>verus Deus 1. Joh. 5, v. 20. Deus super omnio 
+      <lb ed="#B" n="83"/>vel super omnes benedictus Rom. 9, v. 5; altissimu 
+      <lb ed="#B" n="84"/>Luc. 1, v. 76. καὶ ὁ κύριος, quo nomine LXX 
+      no<lb ed="#B" n="85" break="no"/>men Jehovah solius Dei proprium expresserunt. 
+      <lb ed="#B" n="86"/>Joh. 20, v. 28 Dominus meus. Judae v. 4. μόνο. 
+      <lb ed="#B" n="87"/>δεσπότης καὶ κύριος, Act. 10, v. 36. κύριος πάντων 
+      <lb ed="#B" n="88"/>1. Cor. 15, v. 48. κύριος ἐξ οὐρανοῦ. 1. Cor. 2. v. 8 
+      <lb ed="#B" n="89"/>κύριος τῆς δόξης (confer Act. 7, v. 2.) Matth. 28. 
+      <lb ed="#B" n="90"/>v. 18. κύριος οὐρανοῦ καὶ γῆς, cui omnis 
+      potesta<lb ed="#B" n="91" break="no"/>in coelo ac terra data. Apoc. 19, v. 16 rex regur 
+      <lb ed="#B" n="92"/>et Dominus dominantium; 2. collatio locorum V. e 
+      <lb ed="#B" n="93"/>N. T., in quibus ea, quae in V. T. de vero Jehovab 
+      <lb ed="#B" n="94"/>dicta sunt, in N. ad Filium Dei applicantur. Vide 
+      <lb ed="#B" n="95"/>Iren. libr. 3. adv. haeres. c. 6. p. 175. Sic qui 
+      <lb ed="#B" n="96"/>Israëliticum populum liberavit ex Aegypto, est veru 
+      <lb ed="#B" n="97"/>Jehovah Exod. 20, v. 2. Deut. 32, v. 12: Jehoval 
+      <lb ed="#B" n="98"/>solus duxit eum, nec fuit cum eo fortis alienigene 
+      <lb ed="#B" n="99"/>Sed Christus populum Israëliticum ex Aegypto 
+      <lb ed="#B" n="100"/>eduxit Jud. epist. v. 5. Volo vos istorum commo 
+      <lb ed="#B" n="101"/>nefacere, ut qui semel hoc sciatie, Dominum (in 
+      <lb ed="#B" n="102"/>vulg. vers. Jesu nomen additur), cum populum e 
+      <lb ed="#B" n="103"/>Aeqypto liberasset, rursum eos qui non credebant 
+      <lb ed="#B" n="104"/>perdidisse, quem Dominum v. 4. affirmat esse 
+      Jesum<lb ed="#B" n="105" break="no"/>Christum. Ergo. Qui cum Moyse in monte Sinai in 
+      <lb ed="#B" n="106"/>promulgatione legis est locutus, est verus Deu 
+      <lb ed="#B" n="107"/>Exod 20, v. 1, insignitur enim titulis soli vero Dec 
+      <lb ed="#B" n="108"/>competentibus. At ille, qui cum Moyse tunc locu 
+      <lb ed="#B" n="109"/>tus est, fuit Filius Dei Act. 7, v. 36 et 37. Ergo 
+      <lb ed="#B" n="110"/>Qui ab Israëlitis in deserto est tentatus, est veru 
+      <lb ed="#B" n="111"/>Deus et Jehovah excelsus Exod. 17, v. 2 et 7. Nun. 
+      <lb ed="#B" n="112"/>11. v. 1. c. 14, v. 3. c. 21, v. 5. Deut. 6, v. 16 
+      <lb ed="#B" n="113"/>Psalm. 78, v. 18. Psalm. 105, v. 32. Hebraeor. 3. 
+      <lb ed="#B" n="114"/>v. 8. Locuti sunt contra Moysen, sed tentatio ubique 
+      <lb ed="#B" n="115"/>objecti loco habet Deum. At Christus est is, qui! 
+      <lb ed="#B" n="116"/>in deserto ab Israëlitis tentatus 1. Cor. 10, v. 9. 
+      <lb ed="#B" n="117"/>Ergo. Hilar. lib. 5. de Trin. sub finem adducit 
+      <lb ed="#B" n="118"/>locum ex Baruch. 3, v. 38: Venit Deus in mur 
+      <lb ed="#B" n="119"/>dum, ut versaretur nobiscum, hic est Deus noster 
+      <lb ed="#B" n="120"/>et non aestimabitur alius ad eum, posthaec in terris 
+      <!--540.xml-->
+      <pb ed="#B" n="467"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>visus est et cum hominibus conversatus. 3. Oraculo 
+      <lb ed="#B" n="2"/>V. T., quae, cum de vero et aeterno Dei agant, in 
+      <lb ed="#B" n="3"/>Chaldaica paraphrasi ad Messiam accommodantu 
+      <lb ed="#B" n="4"/>Esai. 41, v. 14: Ne timeas vermis Jacob homine 
+      <lb ed="#B" n="5"/>Israël, vel qui estis ex Israël, ego auxiliatus sum 
+      <lb ed="#B" n="6"/>tibi, ait Dominus et redemtor tuus canctuo Israë 
+      <lb ed="#B" n="7"/>Id Chaldaeus sic exponit: Verbum meum in 
+      auxili<lb ed="#B" n="8" break="no"/>vestro dixit Deus. Esa. 45, v. 17: Israël salvatus ert 
+      <lb ed="#B" n="9"/>5171772 calvatione ceculorum. Targum Jonathae sio 
+      <lb ed="#B" n="10"/>reddit: Israël salvatus erit in Verbo vel per Vel 
+      <lb ed="#B" n="11"/>bum Dei salvatione sempiterna. Hos. 1, 7: Domu 
+      <lb ed="#B" n="12"/>Juda miserebor et salvabo eos in Jehovah Deo suo 
+      <lb ed="#B" n="13"/>Chaldaeus sic vertit: super domum Juda miserebor et 
+      <lb ed="#B" n="14"/>salvabo eos in Verbo Domini Dei eorum. Hos. 9, 17 
+      <lb ed="#B" n="15"/>abjiciet eos Deus meus, quia non paruerunt ei. Jo 
+      <lb ed="#B" n="16"/>nathas in Thargum sic exponit: Abjiciet eos 
+      Deu<lb ed="#B" n="17" break="no"/>meus, quia non receperunt Verbum ejus. Haec et 
+      <lb ed="#B" n="18"/>similia Chaldaicae paraphraseos loca merito oppo 
+      <lb ed="#B" n="19"/>nuntur Judaeis, quippe apud quos illa non minus 
+      <lb ed="#B" n="20"/>authentica est, quam ipse textus Hebraeus, et cor 
+      <lb ed="#B" n="21"/>jungi possunt dicta veterum Hebraeorum, in quibus 
+      <lb ed="#B" n="22"/>Hessiae nomen Jehovah tribuunt. In Thalmud in 
+      <lb ed="#B" n="23"/>Midras Echa c. 1. de Messiae nomine varia profe 
+      <lb ed="#B" n="24"/>runtur, tandem additur: Dicit magister Abba, DEUA 
+      <lb ed="#B" n="25"/>erit nomen ejus. Idem habetur in Thalmud in 
+      <lb ed="#B" n="26"/>libro nuncupato Bava Bathrah in cap., quod incipit 
+      <lb ed="#B" n="27"/>Qui vidit navem, quod scilicet Messias vocandus ei 
+      <lb ed="#B" n="28"/>nomine Dei tetragrammato. Et quaeritantibus ibi 
+      <lb ed="#B" n="29"/>in Bava Mithia Judaeorum plerisque, quo nomine 
+      <lb ed="#B" n="30"/>Messias appellandus esset, respondet R. Abba, vi 
+      <lb ed="#B" n="31"/>apud Hebraeos doctissimus, &amp;387 nomine tetra 
+      <lb ed="#B" n="32"/>grammato Messias est appellandus, ut habetur, ait 
+      <lb ed="#B" n="33"/>iste Rabbi Jerem. 23: Et hoc est nomen, quo voca 
+      <lb ed="#B" n="34"/>bunt eum, Dominus justus noster. Buxtorfius in rao 
+      <lb ed="#B" n="35"/>1777 p. 187. adducit locum ex Rabbi Joseph Albo 
+      <lb ed="#B" n="36"/>Hispano in libro Ikkaiim orat. 2. c. 28: Voca 
+      <lb ed="#B" n="37"/>Scriptura nomen Messiae Jehovah justitia nostra 
+      <lb ed="#B" n="38"/>quia erit mediator DEUS, per cujus manum 
+      con<lb ed="#B" n="39" break="no"/>secuturi sumus justitiam ab ipso DEO, et xml:idcire 
+      <lb ed="#B" n="40"/>vocat cum proprio nomine ipsius DEI Jeho 
+      <lb ed="#B" n="41"/>vah. Confer Galatinum, Weidnerum in loc. fid 
+      <lb ed="#B" n="42"/>praecip. tract. 2. p. 190. Helvic. Disp. contra 
+      <lb ed="#B" n="43"/>Judaeos. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e677">
+               <lb ed="#B" n="44"/>16. Caeterum ut argumentum ex divinis nomint 
+      <lb ed="#B" n="45"/>bus ductum contra Photinianorum insultus persistat 
+      <lb ed="#B" n="46"/>immotum, notandum 1. nomen Jehovdh esse soliu 
+      <lb ed="#B" n="47"/>veri Dei proprium nec ulli unquam creaturae uspiam 
+      <lb ed="#B" n="48"/>tribui, ut suo loco evidentibus argumentis 
+      confir<lb ed="#B" n="49" break="no"/>mavimus et contraria Photinianorum argumenta 
+      di<lb ed="#B" n="50" break="no"/>solvimus. Quare cum tetragrammatum illud 
+      Fili<lb ed="#B" n="51" break="no"/>DEI tribuatur, ex eo immote colligimus, ipsum esse 
+      <lb ed="#B" n="52"/>verum, aeternum et increatum Deum. 2. Christum 
+      <lb ed="#B" n="53"/>vocari Deum, in numero singulari, absolute et 
+      sin<lb ed="#B" n="54" break="no"/>pliciter. Dii λεγόμενοι, sive ratione tituli, sive 
+      ra<lb ed="#B" n="55" break="no"/>tione exercitii, sive utroque respectu sic appellentur 
+      <lb ed="#B" n="56"/>cum quadam appendice ac restrictione sic vocar 
+      <lb ed="#B" n="57"/>tur. Sed talis limitatio de Christo nuspiam usui 
+      <lb ed="#B" n="58"/>patur. Iren. libr. 3. adv. haer. c. 6. p. 175: Cum 
+      <lb ed="#B" n="59"/>eos, qui non sunt dii, Scriptura nominat, non i 
+      <lb ed="#B" n="60"/>totum ostendit illoc deos, sed cum aliquo addita 
+      <!--540.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>mento et eignificatione, per quam ostenduntur non 
+      <lb ed="#B" n="62"/>esse dii. P. 176: Moyses, homo DEI exsistens, Deus 
+      <lb ed="#B" n="63"/>datus est ante Pharaonem, non autem vere Dominus 
+      <lb ed="#B" n="64"/>ippellatur, nec Deue vocatur a prophetis, sed fido 
+      <lb ed="#B" n="65"/>lis Moyses famulus et servus DEI dicitur a Spi 
+      <lb ed="#B" n="66"/>ritu, quod et erat. Hilarius lib. 7. de Trinitat: 
+      <lb ed="#B" n="67"/>Moyses non absolute dicitur DEUS, sed datu 
+      <lb ed="#B" n="68"/>Pharaoni pro DEO, dum timetur, dum oratur, 
+      <lb ed="#B" n="69"/>dum punit, dum medetur. Chaldaeus exponit: 
+      Eg<lb ed="#B" n="70" break="no"/>posui te magistrum Pharaonis; R. Abraham, de 
+      <lb ed="#B" n="71"/>stinavi te nuntium ad Pharaonem. Idem judicium 
+      <lb ed="#B" n="72"/>de reliquis, qui non proprie et absolute, sed figurata 
+      <lb ed="#B" n="73"/>ob quandam ὁμοιότητα et limitate certo; respecto 
+      <lb ed="#B" n="74"/>in ipso textu expresso Dii vocantur, Justin. in qq 
+      <lb ed="#B" n="75"/>et resp. ad orthod. q. 142. p. 378: angeli et judices 
+      <lb ed="#B" n="76"/>dicuntur dii διὰ τὴν τάξιν καὶ τιμὴν καὶ πρόση¬ 
+      <lb ed="#B" n="77"/>γορίαν καὶ κλῆσιν. Sed Christus longe alia ac subli 
+      <lb ed="#B" n="78"/>miori ratione vocatur Deus, videlicet non nuncupa 
+      <lb ed="#B" n="79"/>ive tantuno et limitate, sed essentialiter et absolute 
+      <lb ed="#B" n="80"/>Iren. lib. 3. c. 5. p. 174: Neque Dominus neque 
+      <lb ed="#B" n="81"/>Spiritus s. neque apostoli eum, qui non esset Deus. 
+      <lb ed="#B" n="82"/>definita et absolute DEUM aliquando nominassent 
+      <lb ed="#B" n="83"/>nisi esset verus Deus, neque Dominum aliquem 
+      <lb ed="#B" n="84"/>ippellassent ex sua persona, nisi, qui dominatus 
+      <lb ed="#B" n="85"/>omnium, Deum Patrem et Filium ejus, qui domi 
+      <lb ed="#B" n="86"/>nium accepit a Patre suo omnis conditionis. 3. Chri 
+      <lb ed="#B" n="87"/>stum cum προσδιορισμῷ sive additamento quodam 
+      <lb ed="#B" n="88"/>vocari Deum, sed illud additamentum non esse 
+      <lb ed="#B" n="89"/>limitativum vel restrictivum, sed potius ἐξηγητικόν. 
+      <lb ed="#B" n="90"/>psius essentiae divinae expressivum, quia in illo 
+      <lb ed="#B" n="91"/>additamento voci DEI talia epitheta et elogia 
+      po<lb ed="#B" n="92" break="no"/>nuntur, quae non nisi soli vero et aeterno DEC 
+      <lb ed="#B" n="93"/>conveniunt. Sic Christus vocatur DEUS magnus 
+      <lb ed="#B" n="94"/>DEUS verus, DEUS benedictus super omnes 
+      <lb ed="#B" n="95"/>Gregorius homil. 8. in Ezechiel: Qui nuncupativo 
+      <lb ed="#B" n="96"/>licitur DEUS, is est inter omnia, qui vero 
+      essen<lb ed="#B" n="97" break="no"/>tialiter dicitur Deus, is est super omia. Ut erg 
+      <lb ed="#B" n="98"/>ostenderet, Christum materialiter esse DEUM, non 
+      <lb ed="#B" n="99"/>lunc Deum tantummodo, sed DEUM super omnio 
+      <lb ed="#B" n="100"/>esse memoravit.) Deus fortis Esai. 9, v. 6; nobis 
+      <lb ed="#B" n="101"/>cum Deus Esai. 7, v. 14; μόνος δεσπόνης καὶ κύριο 
+      <lb ed="#B" n="102"/>Jud. epist. v. 4. Christum eo modo appellari Deum. 
+      <lb ed="#B" n="103"/>ut ipsi in subjecto enuntiationis absolute tanquam 
+      <lb ed="#B" n="104"/>Deo aliquid tribuatur Actor. 20, v. 28: Deus suc 
+      <lb ed="#B" n="105"/>sanquine redemit ecclesiam. 1. Timoth. 3, v. 16. 
+      <lb ed="#B" n="106"/>Deus manifestatus est in carne. (Posset addi locus 
+      <lb ed="#B" n="107"/>I. Joh. 3, v. 16: In hoc cognovimus caritatem Dei 
+      <lb ed="#B" n="108"/>quia ille animam suam pro nobis posuit. Sed ibi 
+      <lb ed="#B" n="109"/>in Graeco non habetur nomen θεοῦ.) Jam vero 
+      <lb ed="#B" n="110"/>Socinus proponit hanc regulam contra Bellarmin 
+      <lb ed="#B" n="111"/>et Wiekum c. 6. class. 4. arg. 1. p. 370: Nomen 
+      <lb ed="#B" n="112"/>Deus sua natura est nomen absolutum et xml:idcirco 
+      <lb ed="#B" n="113"/>pluribus conveniene, per excellentiam tamen uni 
+      ill<lb ed="#B" n="114" break="no"/>summo rerum conditori et auctori singulariter attra 
+      <lb ed="#B" n="115"/>buitur, ita ut in N. T, cum subjecti locum absolute 
+      <lb ed="#B" n="116"/>obtinet, sive cum articulo sit sive eine articulo, vel 
+      <lb ed="#B" n="117"/>cum obtinet rationem praedicati, si articulum habeat 
+      <lb ed="#B" n="118"/>simpliciter, aut eine tali adjuncto aut constructione 
+      <lb ed="#B" n="119"/>quae articuli vim infringat, nunquam nisi ipsi soli 
+      <lb ed="#B" n="120"/>ne quidem Christo ipso excepto, tributum inveniatur. 
+      <!--541.xml-->
+      <pb ed="#B" n="468"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>In defens. animadv. c. 4. p. 130: Dei nomen sim 
+      <lb ed="#B" n="2"/>pliciter prolatum cum subjecti locum obtinet, Deum 
+      <lb ed="#B" n="3"/>Patrem significat, quod nihil aliud est quam solum 
+      <lb ed="#B" n="4"/>Patrem esse unum illum verum Deum. 5. Christum 
+      <lb ed="#B" n="5"/>vocari Deum cum articulo praepositivo τὸν θεός 
+      <lb ed="#B" n="6"/>Matth. 1, v. 23. Luc. 1, v. 16. Actor. 20, v. 25 
+      <lb ed="#B" n="7"/>Tit. 2, v. 13. Hebr. 1, v. 8. Jam vero haben 
+      <lb ed="#B" n="8"/>Photiniani regulam, quod vox θεός cum articul 
+      <lb ed="#B" n="9"/>posita solum verum et aeternum Deum notet. Socir 
+      <lb ed="#B" n="10"/>in tract. de DEO Christo et Spiritu s. p. 55: 
+      Locu<lb ed="#B" n="11" break="no"/>Joh. 1. satis indicare potest Jesum Christum non 
+      <lb ed="#B" n="12"/>esse aeque verum Deum ac Patrem ipsius, cum 
+      <lb ed="#B" n="13"/>ipsius Pater ibi ὁ θεὸς nominetur, hoc est ille unu 
+      <lb ed="#B" n="14"/>Deus, ipse vero θεός, xml:id est, Deus simpliciter dica 
+      <lb ed="#B" n="15"/>tur. Plura ejusmodi ex Photinianis de nomin 
+      <lb ed="#B" n="16"/>ὁ θεός cum articulo adduximus superius. Sic erg 
+      <lb ed="#B" n="17"/>Christum proprie vocari Deum, patet ex modo lo 
+      <lb ed="#B" n="18"/>quendi tum absoluto, tum comparativo, tum 
+      hypo<lb ed="#B" n="19" break="no"/>thetico. 6. Christum eo modo vocari Deum, ut nomen 
+      <lb ed="#B" n="20"/>θεός non solum aeque, sed etiam aequaliter de ips 
+      <lb ed="#B" n="21"/>ac de Patre coelesti praedicetur. Coloss. 2, v. 2. 
+      <lb ed="#B" n="22"/>εἰς ἐπίγνωσιν τοῦ μυστηρίου τοῦ θεοῦ καὶ πατρὸς κα 
+      <lb ed="#B" n="23"/>τοῦ Χριστοῦ. 1. Thess. 3, v. 11: αὐτὸς ὁ θεὸς καὶ 
+      <lb ed="#B" n="24"/>παιὴρ ἡμῶν καὶ Πησοῦς Χριστός. Quod si ergo 
+      Pate<lb ed="#B" n="25" break="no"/>est verus natura Deus, ut agnoscunt Photiniani, ut 
+      <lb ed="#B" n="26"/>que etiam Christus erit verus natura Deus. 8 
+      <lb ed="#B" n="27"/>Christus est duntaxat nuncupativus ac impropri 
+      <lb ed="#B" n="28"/>dictus Deus, utiquo etiam Pater talis erit. Unun 
+      <lb ed="#B" n="29"/>idemque vocabulum in una eademque proposition 
+      <lb ed="#B" n="30"/>non potest habere duplicem significationem. Quod 
+      <lb ed="#B" n="31"/>si ergo nomen Dei Patri attributum proprie acc 
+      <lb ed="#B" n="32"/>pitur ac notat eum, qui est verus natura et aeter 
+      <lb ed="#B" n="33"/>nus Deus, utique etiam eodem modo accipitur 
+      <lb ed="#B" n="34"/>quando Christo tribuitur, quia in una eademque 
+      <lb ed="#B" n="35"/>propositione et Patri et Christo tribuitur. Si Pho 
+      <lb ed="#B" n="36"/>tiniani urgeant loca Scripturae, in quibus nomes 
+      <lb ed="#B" n="37"/>DEI Patri primo tribuitur et postea demum Christ. 
+      <lb ed="#B" n="38"/>nomen subjungitur, urgeri possunt dicta modo allata 
+      <lb ed="#B" n="39"/>quibus etiam conjungatur locus 1. Thess 1, v. 3. 
+      <lb ed="#B" n="40"/>ἔμπροσθεν τοῦ θεοῦ καὶ παιρὸς ἡμῶν. 7. Christum 
+      <lb ed="#B" n="41"/>eo modo vocari Deum, ut falsis, fictitiis ac λεγομένοι 
+      <lb ed="#B" n="42"/>θεοῖς directe opponatur, Galat. 4. v. 8: tunc quiden 
+      <lb ed="#B" n="43"/>ignorantes Deum serviebatis τοῖς μὴ σύσει οὖσι 
+      <lb ed="#B" n="44"/>θεοῖς, v. 9. nunc autem cognovistis Deum. Jam 
+      <lb ed="#B" n="45"/>vero Galatae ad Christum per evangelii praedica 
+      <lb ed="#B" n="46"/>tionem conversi Christo serviebant, Christum invoca 
+      <lb ed="#B" n="47"/>bant. Ergo Christus est qύσει θεός, non θέσε 
+      <lb ed="#B" n="48"/>natura, non gratia, nec inter λιγομένους θεούς, qui 
+      <lb ed="#B" n="49"/>natura non sunt Dii, referendus, sed vere et esser 
+      <lb ed="#B" n="50"/>tialiter est DEUS. Sic etiam 1. Thess. 1, v. ? 
+      <lb ed="#B" n="51"/>Thessalonicenses dicuntur ab xml:idolis conversi ad 
+      <lb ed="#B" n="52"/>Deum ζῶντα καὶ ἀληθινόν, ut illi servirent. Sed 
+      <lb ed="#B" n="53"/>illi conversi erant ad Christum, cui serviebant 
+      <lb ed="#B" n="54"/>Ergo Christus est ζῶν καὶ ἀληθινὸς ὁ θεός Matth 
+      <lb ed="#B" n="55"/>16, v. 16. 1. Johann. 5, v. 20. Si Christus duntaxa 
+      <lb ed="#B" n="56"/>ob majestatem et potestatem divinam in tempore 
+      <lb ed="#B" n="57"/>ipsi communicatam vocaretur Deus, tum non esse 
+      <lb ed="#B" n="58"/>μύσει θεός, esset Deus factus. Jam vero Scriptura 
+      <lb ed="#B" n="59"/>eum nobis proponit ut verum natura Deum neque 
+      <lb ed="#B" n="60"/>uspiam vocat factum sive formatum Deum. Actor. 2,) 
+      <!--541.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>v. 36 Dominus et Christus dicitur factus propter 
+      <lb ed="#B" n="62"/>dominium et unctionem Spiritus secundum humanari 
+      <lb ed="#B" n="63"/>naturam ipsi collatam, ut exponitur Actor. 10, v. 38. 
+      <lb ed="#B" n="64"/>sed Deus nuspiam dicitur factus. Si Christus 
+      na<lb ed="#B" n="65" break="no"/>tura non esset Deus, sequeretur xml:idololatras esss 
+      <lb ed="#B" n="66"/>qui eum invocant, ex hoc enim fundamento Galatas 
+      <lb ed="#B" n="67"/>in gentilismo adhuc haerentes xml:idololatriae accusat. 
+      <lb ed="#B" n="68"/>quod servierint illis, qui φύσει non erant 
+      di<lb ed="#B" n="69" break="no"/>3. Christum etiam in medio exinanitionis statu vo 
+      <lb ed="#B" n="70"/>cari Deum Matth. 1, v. 23. e. 21, v. 12. et sa 
+      <lb ed="#B" n="71"/>1. Timoth. 3, v. 16. etc. Atqui si ob exaltationem 
+      <lb ed="#B" n="72"/>et glorificationem duntaxat, in qua divina potesta 
+      <lb ed="#B" n="73"/>et gloria ipsi collata est, Deus vocaretur, non 
+      po<lb ed="#B" n="74" break="no"/>tuisset ipsi tam augustum nomen in statu exinani 
+      <lb ed="#B" n="75"/>tionis tribui. 9. Christum vocari Deum Israëlis 
+      <lb ed="#B" n="76"/>qua appellatione neminem nisi solum verum e 
+      <lb ed="#B" n="77"/>aeternum DEUM insigniri Photiniani concedunt 
+      <lb ed="#B" n="78"/>Luc. 1, v. 16. ex Mal. 4, v. 3. inquit angelus de 
+      <lb ed="#B" n="79"/>Johanne Baptista: Multos filiorum convertet ac 
+      <lb ed="#B" n="80"/>Dominum Deum ipsorum. v. 17: et ipse praeco 
+      <lb ed="#B" n="81"/>det ante eum in Spiritu et virtute Eliae etc. Is, 
+      <lb ed="#B" n="82"/>ante quem praecessit Johannes Baptista, est verus 
+      <lb ed="#B" n="83"/>Deus Israëlis, ut ex connexione versiculorum 
+      addu<lb ed="#B" n="84" break="no"/>ctorum apparet. At Johannes Baptista praecessit 
+      <lb ed="#B" n="85"/>ante Christum; confer Esai. 35, v. 4: Deue vestes 
+      <lb ed="#B" n="86"/>ipse veniet. Hose. I. v. 7: Salvabo eos in Domine 
+      <lb ed="#B" n="87"/>Deo ipsorum. Mal. 3, v. 1: veniet ad templum suum 
+      <lb ed="#B" n="88"/>dominator. Jam vero is, cujus proprium erat 
+      tem<lb ed="#B" n="89" break="no"/>plum, erat verus Israëlis Deus. Confer. etiam Luc.). 
+      <lb ed="#B" n="90"/>5. 17: Praecedet ante ipsum, ut convertat eordo 
+      <lb ed="#B" n="91"/>patrum ad filios parare Domino plebem perfectam 
+      <lb ed="#B" n="92"/>et v. 76: Tu, puer, propheta-altissimi vocaberis 
+      <lb ed="#B" n="93"/>praeibis enim ante faciem Domini parare vias ejus 
+      <lb ed="#B" n="94"/>Is, cui Johannes viam paravit, habet populum pro 
+      <lb ed="#B" n="95"/>prium et proinde est verus Deus Israëlis. At 
+      Jo<lb ed="#B" n="96" break="no"/>hannes viam paravit Christo, Act. 13, v, 24. Ergo. 
+      <lb ed="#B" n="97"/>Denique confer Luc. 1. v. 68: Benedictus Dominus 
+      <lb ed="#B" n="98"/>Deus Israël, quia visitavit, kneσxéiparo, et feci 
+      <lb ed="#B" n="99"/>redemtionem plebi suae, et v. 78: Per viscera 
+      mi<lb ed="#B" n="100" break="no"/>sericordiae DEI nostri, in quibus nos visitavit 
+      <lb ed="#B" n="101"/>neoxéwaro, oriens ex alto, hoc est Christus, 
+      eo<lb ed="#B" n="102" break="no"/>justitiae, Mal. 4, v. 2. Zach. 3, v. 9. c. 6, v. 12. 
+      <lb ed="#B" n="103"/>Is, qui nos visitavit et redemtionem praestitit, est 
+      <lb ed="#B" n="104"/>verus Dominus Deus Israëlis. Sed Christus 
+      no<lb ed="#B" n="105" break="no"/>visitavit. Ergo. 10. Davidem Psalm. 110, v. 1. et 
+      <lb ed="#B" n="106"/>Thomam Joh. 20, v. 28 Christum vocare emphatico 
+      <lb ed="#B" n="107"/>quum Dominum ac Deum, quam emphasin urget 
+      <lb ed="#B" n="108"/>Christus Matth. 22, v. 44. Quemadmodum enim 
+      <lb ed="#B" n="109"/>non nisi solus verus et aeternus Deus intelligitur 
+      <lb ed="#B" n="110"/>quando David inquit Psalm. 3, v. 8: Salvum mi 
+      <lb ed="#B" n="111"/>fac, Deus meus. Psalm. 5, v. 5: Tu es rex meus et 
+      <lb ed="#B" n="112"/>Deus meus. Psalm. 22. v. 11: De ventre matris 
+      mea<lb ed="#B" n="113" break="no"/>tu es Deus meus ete., et quando Paulus dicit ὁ θεὸς 
+      <lb ed="#B" n="114"/>καὶ πατὴρ ἡμῶν 2. Thess. 1, v. 13. et ὁ θεός μο¬ 
+      <lb ed="#B" n="115"/>Phil. 4, 19; ita quoque non nisi verus natura Deu 
+      <lb ed="#B" n="116"/>intelligitur, quando David ac Thomas Christum 
+      <lb ed="#B" n="117"/>Deum et dominum suum vocant. Relativum enim 
+      <lb ed="#B" n="118"/>meus est vox fidei et specialem cordis fiduciam no 
+      <lb ed="#B" n="119"/>tat, qua huic Domino ac Deo tanquam immotae 
+      sa<lb ed="#B" n="120" break="no"/>lutis petrae innituntur. (Socin. contra Bellarm. p. 380. 
+      <!--542.xml-->
+      <pb ed="#B" n="469"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>statuit: Adjunctum meus efficere, ut articulus vim 
+      <lb ed="#B" n="2"/>tuam amittat. At vocula meus potius confirmat et 
+      <lb ed="#B" n="3"/>vim articuli et nostram argumentationem, nisi veli 
+      <lb ed="#B" n="4"/>mus aeternum Deum intelligendum esse per 
+      eun<lb ed="#B" n="5" break="no"/>qui dicit Exod. 20, v. 2: Ego sum Dominus 
+      Deu<lb ed="#B" n="6" break="no"/>tuus. Psalm. 50, v. 7: Deus tuus ego sum. Quem 
+      <lb ed="#B" n="7"/>admodum ergo ex eo, quod Abraham dicitur vidisse 
+      <lb ed="#B" n="8"/>diem Christi, Christus recte infert, se fuisse ante 
+      <lb ed="#B" n="9"/>Abrahamum Joh. 8, v. 58; sic ex eo, quod 
+      Davi<lb ed="#B" n="10" break="no"/>Messiam vocat Dominum suum, recte inferri potes 
+      <lb ed="#B" n="11"/>Messiam ante tempora Davidis exstitisse, unde etiam 
+      <lb ed="#B" n="12"/>radixe David appellatur Apoc. 5, v. 5. Quod si enin 
+      <lb ed="#B" n="13"/>jamdum tempore Davidis Messias fuit Dominus Da 
+      <lb ed="#B" n="14"/>vidis, utique etiam jamdum revera exstitit et quidem 
+      <lb ed="#B" n="15"/>verus Deus, in quem solum omnis cordis fiducis 
+      <lb ed="#B" n="16"/>collocanda. Jam vero Christus promissus in V. e 
+      <lb ed="#B" n="17"/>exhibitus in N. T. Messias jamdum Davidis tem 
+      <lb ed="#B" n="18"/>pore fuit Dominus Davidis. Ergo. Circa majoren 
+      <lb ed="#B" n="19"/>notandum, quod David fuerit rex populi Israëlitio 
+      <lb ed="#B" n="20"/>ac neminem superiorem aut Dominum agnoveri 
+      <lb ed="#B" n="21"/>praeter solum Deum, utique ergo, quando Messiam 
+      <lb ed="#B" n="22"/>agnoscit Dominum, verum Deum ipsum esse profite 
+      <lb ed="#B" n="23"/>tur, ac sic de quodam rege multis demum seculi 
+      <lb ed="#B" n="24"/>ex ipsius posteritate initium exsistentiae suae habi 
+      <lb ed="#B" n="25"/>turo David loqueretur, habuissent Pharisaei quod 
+      <lb ed="#B" n="26"/>regererent, contingere enim facile potest, ut aliquis 
+      <lb ed="#B" n="27"/>ex posteris ad sublimiorem dignitatem et augustiu 
+      <lb ed="#B" n="28"/>regnum, quam parens habuit, evehatur. (Eniedinus 
+      <lb ed="#B" n="29"/>insigni ac diabolica impudentia argumentum Christ 
+      <lb ed="#B" n="30"/>oppositum Pharisaeis Matth. 22, v. 41. refellere 
+      <lb ed="#B" n="31"/>audet productis exemplis filiorum, qui facti 
+      sun<lb ed="#B" n="32" break="no"/>parentum domini, ut Josephi ete.; hoc vero es 
+      <lb ed="#B" n="33"/>Christo in os contradicere, interim nota Christum 
+      <lb ed="#B" n="34"/>hîc longe sublimius dominium cum sessione ad 
+      <lb ed="#B" n="35"/>dextram Dei conjunctum Messiae tribuere.) 11. Chr 
+      <lb ed="#B" n="36"/>stum eo modo vocari Deum, ut non solum divint 
+      <lb ed="#B" n="37"/>essentia ipsi tribuatur, Galat. 1, v. 1: Paulus non 
+      <lb ed="#B" n="38"/>ab hominibus neque per hominem, sed per Jesum 
+      <lb ed="#B" n="39"/>Christum, utique ergo Christus non est ψιλὸς ἂν 
+      <lb ed="#B" n="40"/>θρωπoς, alias periret oppositio; Hebr. 7, v. 3. 
+      <lb ed="#B" n="41"/>Christus est ἀπάτωρ καὶ ἀμήτωρ, sine patre secun 
+      <lb ed="#B" n="42"/>dum humanitatem, sine matre secundum deitatem 
+      <lb ed="#B" n="43"/>Respectu humanae naturae Christus non est ἀμήτωρ 
+      <lb ed="#B" n="44"/>utique ergo est in ipso ὑποστατικόν τι, cujus re 
+      <lb ed="#B" n="45"/>spectu vere dici possit ἀμήτωρ. Iren. lib. 4. c. 55. 
+      <lb ed="#B" n="46"/>p. 291. format argumentum ex Matth. 12, v. 41. 
+      <lb ed="#B" n="47"/>Quomodo plus quam Salomon aut plus quam Jond 
+      <lb ed="#B" n="48"/>habebat, et Dominus erat Darid, qui ejusdem cum 
+      <lb ed="#B" n="49"/>ipsis fuit substantiae. 12. Christum Joh. 10, v. 35. 
+      <lb ed="#B" n="50"/>argumentari non a comparatis paribus, sed impari 
+      <lb ed="#B" n="51"/>bus. Ipsimet enim Photiniani concedere coguntur 
+      <lb ed="#B" n="52"/>Christum non esse nec vocari Deum in eo ordine 
+      <lb ed="#B" n="53"/>ac sensu eo, quo magistratus dicuntur dii, qui 
+      ma<lb ed="#B" n="54" break="no"/>gistratus ante Dei ordinationem non sunt dii, 
+      se<lb ed="#B" n="55" break="no"/>tunc in suo officio dii esse incipiunt, quando ad eo 
+      <lb ed="#B" n="56"/>fit sermo DEI, hoc est quando divina vocation 
+      <lb ed="#B" n="57"/>officium magistratus ipsis committitur; at Christu 
+      <lb ed="#B" n="58"/>est natus Dei Filius, imo ante conceptionem ex 
+      vir<lb ed="#B" n="59" break="no"/>gine ab angelo sic vocatur. Chrysostomus in eum 
+      <lb ed="#B" n="60"/>locum notat, Christum satisfecisse prius Judaeorum 
+      <!--542.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>pffensioni allatis hisce verbis: Si prophetae a Deo 
+      <lb ed="#B" n="62"/>missi vocantur dii, cur scandalizamini, quod me 
+      <lb ed="#B" n="63"/>nominaverim Deum? deinde offensione sublata de 
+      <lb ed="#B" n="64"/>monstrare, se non tantum nomine esse Deum, sicu 
+      <lb ed="#B" n="65"/>erant prophetae, sed operibus et re ipsa, xml:ideoque 
+      <lb ed="#B" n="66"/>addere: Si non facio opera Patris mei, nolite mihi 
+      <lb ed="#B" n="67"/>credere. Quidam respondent, ab inclusione unius 
+      <lb ed="#B" n="68"/>non debere procedi ad exclusionem alterius. Non 
+      <lb ed="#B" n="69"/>ergo consequens esse, quia Christus est Deus ratione 
+      <lb ed="#B" n="70"/>pfficii, utpote sanctificatus et missus a Deo ad red 
+      <lb ed="#B" n="71"/>mendum genus humanum, xml:ideo non est Deus 
+      ra<lb ed="#B" n="72" break="no"/>tione naturae, cum officium redemtionis veram 
+      dei<lb ed="#B" n="73" break="no"/>tatem praesupponat, siquidem per nudam creaturam 
+      <lb ed="#B" n="74"/>non potuit genus humanum liberari. Sed prior 
+      ex<lb ed="#B" n="75" break="no"/>plicatio textui magis congruit et strophas 
+      adversa<lb ed="#B" n="76" break="no"/>riorum fortius elidit. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e1297">
+               <lb ed="#B" n="77"/>17. Altera classis argumentorum desumitur ea 
+      <lb ed="#B" n="78"/>ittributis essentialibus soli vero Deo propriis, qua 
+      <lb ed="#B" n="79"/>cum sint realiter unum cum ipsa divina essentis 
+      <lb ed="#B" n="80"/>ideo ex illis vera Christi deitas recte infertur. Tri 
+      <lb ed="#B" n="81"/>buitur autem Christo I. aeternitas, qui ab aeterno 
+      <lb ed="#B" n="82"/>est a Patre genitus Psalm. 2, v. 7. Mich. 5, v. 2. 
+      <lb ed="#B" n="83"/>fuit ante mundum conditum Proverb. 8, v. 22; in 
+      <lb ed="#B" n="84"/>principio jamdum erat Joh. 1, v. 1. 1. Joh. 1, v. 13 
+      <lb ed="#B" n="85"/>habuit gloriam apud Patrem, antequam mundus 
+      <lb ed="#B" n="86"/>fuit conditus Joh. 17, v. 3; vocatur Pater aeternus 
+      <lb ed="#B" n="87"/>Esai. 9, v. 6; tribuitur ei Spiritus aeternus, hoc est 
+      <lb ed="#B" n="88"/>deitas aeterna Hebr. 9, v. 14; dicitur vita aeterna 
+      <lb ed="#B" n="89"/>1. Joh. 5, v. 20; est πρωrότοκος (non πρωτόκτιστος) 
+      <lb ed="#B" n="90"/>πάσης κιίσεως Col. 1, v. 15; nec initium nec finem 
+      <lb ed="#B" n="91"/>dierum habet Hebr. 7, v. 13; est heri, hodie et in 
+      <lb ed="#B" n="92"/>secula Hebr. 13, v. 8; est A et Q, primus et 
+      novis<lb ed="#B" n="93" break="no"/>simus Apoc. 1, v. 7. c. 2, v. 8; ac propter aeterni 
+      <lb ed="#B" n="94"/>tatem designandam tribuuntur illi capilli candidi 
+      <lb ed="#B" n="95"/>tanquam lana Apoc. 1, v. 14. Confer Dan. 7, v. 9. 
+      <lb ed="#B" n="96"/>ubi de Patre antiquo dierum dicitur, et capilli 
+      <lb ed="#B" n="97"/>capitis ejus quasi lana munda, unde Rupertus in 
+      <lb ed="#B" n="98"/>c. 1. Apoe. pulcherrime sic commentatur: Hujus 
+      <lb ed="#B" n="99"/>atque illius capilli capitis aeque candidi sunt, e 
+      <lb ed="#B" n="100"/>uterque per candorem capitis senex ostenditur nulla 
+      <lb ed="#B" n="101"/>distantia, quia nec anno, nec mense, nec die, nec 
+      <lb ed="#B" n="102"/>hora, nec puncto temporis filius iste junior est ille 
+      <lb ed="#B" n="103"/>tam sene Patre suo etc. 2. Immutabilitas tam in 
+      <lb ed="#B" n="104"/>natura, quam in decretis, promissionibus, dictis et 
+      <lb ed="#B" n="105"/>factis. Hebr. 1, v. 11. et 12. ex Psalm. 102, v. 28: 
+      <lb ed="#B" n="106"/>Tu xml:idem ipse es. Hebr. 13, v. 8: Christus xml:idem in 
+      <lb ed="#B" n="107"/>secula. 3. Immortalitas, quia in ipso est vita Job 
+      <lb ed="#B" n="108"/>1, v. 4. non accidentaliter, quo modo in nobis est 
+      <lb ed="#B" n="109"/>vita, sed essentialiter, quia ut Pater vitam habet in 
+      <lb ed="#B" n="110"/>se ipso, sic dedit ei vitam habere in semet ipso. Syr 
+      <lb ed="#B" n="111"/>7Z in essentia sua Joh. 5, v. 26, unde vocatur 
+      <lb ed="#B" n="112"/>dux vitae Actor. 3, v. 15, imo ipsa vita Joh. 14. 
+      <lb ed="#B" n="113"/>v. 6. 1. Joh. 5, v. 20; verbum vitae 1. Joh. 1, v. 2. 
+      <lb ed="#B" n="114"/>4. Infinitas et omnipraesentia, quia est in sinu 
+      Po<lb ed="#B" n="115" break="no"/>tris, Joh. 1, v. 18. Pater ipsum ἐξαπέστειλε, emisit. 
+      <lb ed="#B" n="116"/>vel ablegavit Galat. 4, v. 4. et in mundum migi 
+      <lb ed="#B" n="117"/>Joh. 10, v. 36. c. 17, v. 8; ipse e coelo descendit 
+      <lb ed="#B" n="118"/>Joh. 6, v. 38; a Patre exivit Joh. 8, v. 42. c. 16. 
+      <lb ed="#B" n="119"/>v. 28; ergo exstitit ante suam ex Maria nativitatem 
+      <!--543.xml-->
+      <pb ed="#B" n="470"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>unde incarnatio ejus vocatur manifestatio in carne 
+      <lb ed="#B" n="2"/>1. Timoth. 3, v. 16; πρόσληιρις, assumtio, semini 
+      <lb ed="#B" n="3"/>Abrahae Hebr. 2, v. 26; adventus in carne 1. Jo. 
+      <lb ed="#B" n="4"/>4, v. 2; introitus in mundum Hebr. 10, v. 5, qua 
+      <lb ed="#B" n="5"/>ratione a priori, videlicet a tempore incarnationem 
+      <lb ed="#B" n="6"/>antegresso, ejus infinitas demonstratur. Eadem etiam 
+      <lb ed="#B" n="7"/>pro bari potest a posteriori, videlicet a tempore in 
+      <lb ed="#B" n="8"/>carnationem secuto, quia congregatis in suo nomin 
+      <lb ed="#B" n="9"/>promittit suam praesentiam Matth. 18, v. 20, usqu 
+      <lb ed="#B" n="10"/>ad finem mundi se nobiscum fore promittit 
+      Matti<lb ed="#B" n="11" break="no"/>28, v. 20; ambulat in medio candelabrorum Apoc. s. 
+      <lb ed="#B" n="12"/>v. 13; cum in terris versaretur, in coelo erat Joh.. 
+      <lb ed="#B" n="13"/>v. 13 ete. 5. Omnipotentia, quia vocatur Dominus 
+      <lb ed="#B" n="14"/>omnipotens Apoc. 1, v. 8. c. 1I, v. 17. Dei virtu 
+      <lb ed="#B" n="15"/>Luc. 1, v. 35. 1. Cor. 1, v. 24. Deus fortis Es. 9. 
+      <lb ed="#B" n="16"/>v. 6; tribuitur illi efficax vis, qua possit sibi sub 
+      <lb ed="#B" n="17"/>jicere omnia Philip. 3, v. 20; omnia ipsi a Patre 
+      <lb ed="#B" n="18"/>dicuntur tradita Matth. 11, v. 26; omnia pedibu 
+      <lb ed="#B" n="19"/>ejus subjecta Psalm. 8, v. 7; omnia in manus eju 
+      <lb ed="#B" n="20"/>tradita Joh. 3, v. 35. 6. Omniscientia ac 
+      omnisapien<lb ed="#B" n="21" break="no"/>tia, quia vocatur ipsa sapientia Prov. 8, v. 22. 
+      <lb ed="#B" n="22"/>Matth. 11, v. 19. Luc. 11, v. 49. 1. Cor. 1, v. 24. 
+      <lb ed="#B" n="23"/>novit omnia Joh. 16, v. 30. c. 21, v. 17; novit, quid 
+      <lb ed="#B" n="24"/>sit in homine Joh. 2, v. 25; probat corda et 
+      rene<lb ed="#B" n="25" break="no"/>Apoc. 2. v. 23; in ipso omnes thesauri sapientia 
+      <lb ed="#B" n="26"/>ac scientiae reconditi Coloss. 2, v. 3. (Dan. 8, v. 13. 
+      <lb ed="#B" n="27"/>dicitur 127222, quia arcana et occulta Patris omnia 
+      <lb ed="#B" n="28"/>apud se habet tanquam numerata et perfectissim 
+      <lb ed="#B" n="29"/>cognita.) 7. Summa agendi libertas Joh. 5, v. 21. 
+      <lb ed="#B" n="30"/>vivificat, quos vult Joh. 10, v. 18; potestatem 
+      habe<lb ed="#B" n="31" break="no"/>ponendi animam meam ἀπ᾽ ἐμαυτοῦ, unde αὐτοκρὶ 
+      <lb ed="#B" n="32"/>τορικῶς dicit ad leprosum Matth. 8, v. 3: Volo, mur 
+      <lb ed="#B" n="33"/>dus esto, perinde ut de Deo vero dicitur Psalm. 11. 
+      <lb ed="#B" n="34"/>v. 3: Quaecunque voluit, fecit in coelo et in terra 
+      <lb ed="#B" n="35"/>8. Divina majestas et gloria. Confer Exod. 16, v. 7. 
+      <lb ed="#B" n="36"/>cum 1. Cor. 10, v. 9. Esa. 6, v. 3. cum Johan. 13 
+      <lb ed="#B" n="37"/>v. 41; vocatur Deus benedictus super omnia 
+      Ron<lb ed="#B" n="38" break="no"/>9, v. 5. Dominus gloriae 1. Corinth. 2, v. 8; 
+      re<lb ed="#B" n="39" break="no"/>regum et dominus dominantium Apoc. 17, v. 
+      1<lb ed="#B" n="40" break="no"/>c. 19, v. 16. 9. ac ne reliqua attributa omnia ent. 
+      <lb ed="#B" n="41"/>merare necessarium sit, tribuitur illi aequalitas cum 
+      <lb ed="#B" n="42"/>Patre Joh. 5, v. 18. Philip. 2, v. 6, propter quan 
+      <lb ed="#B" n="43"/>dicitur habere omnia, quae Pater habet Joh. 16. 
+      <lb ed="#B" n="44"/>v. 15. c. 17, v. 10; imo esse unum cum Patre Jol 
+      <lb ed="#B" n="45"/>10, v. 30. 1. Joh. 5, v. 7; ac tota plenitudo der 
+      <lb ed="#B" n="46"/>tatis in ipso habitare dicitur Col. 2, v. S 
+</p>
+            <p xml:id="zef3dd-d1e964-d1e1499">
+               <lb ed="#B" n="47"/>48. Circa hanc argumentorum classem in gener. 
+      <lb ed="#B" n="48"/>observa, prudenter quidem distinguenda esse dicta 
+      <lb ed="#B" n="49"/>quae de communicatione divinae essentiae per 
+      ae<lb ed="#B" n="50" break="no"/>ternam generationem juxta divinam naturam Christe 
+      <lb ed="#B" n="51"/>facta loquuntur, ab iis, quae de donis vere divinis 
+      <lb ed="#B" n="52"/>et infinitis juxta humanam naturam personaliter ips 
+      <lb ed="#B" n="53"/>communicatis loquuntur, interim tamen ex posterior. 
+      <lb ed="#B" n="54"/>dictorum genere non minus quam ex priori veram 
+      <lb ed="#B" n="55"/>Christi divinitatem ἐπομένως et consequenter pro 
+      <lb ed="#B" n="56"/>bari posse. Nisi enim humana natura τῷ Λόγ 
+      <lb ed="#B" n="57"/>esset personaliter unita, hoc est nisi Christus in 
+      <lb ed="#B" n="58"/>personae unitate esset verus Deus et verus homo 
+      <lb ed="#B" n="59"/>non potuisset humana natura illius dignitatis pe 
+      <lb ed="#B" n="60"/>idiomatum communicationem particeps reddi. Cor 
+      <!--543.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>fer. Disput. 9. de gloria Dei thes. 13. In specie. 
+      <lb ed="#B" n="62"/>circa aeternitatem nota, 1. quod ipsimet adversaris 
+      <lb ed="#B" n="63"/>Photiniani agnoscant ex aeternitate divinitatem Filii 
+      <lb ed="#B" n="64"/>immote demonstrari. Ostorodus in Instit. Germ 
+      <lb ed="#B" n="65"/>c. 8: Si demonstrari posset, Christum fuisse ab ac 
+      <lb ed="#B" n="66"/>terno, simpliciter ex eo concludi posset, quod habea 
+      <lb ed="#B" n="67"/>divinam naturam, hoc est, quod sit unus ille 
+      veru<lb ed="#B" n="68" break="no"/>Deus; 2. quod contra Photinianos merito urgeantur 
+      <lb ed="#B" n="69"/>licta illa, in quibus Christus dicitur fuisse ante 
+      <lb ed="#B" n="70"/>Mariam virginem, ante Johannem baptistam, ante 
+      <lb ed="#B" n="71"/>Abrahamum ete. Quamvis enim non possit ita 
+      <lb ed="#B" n="72"/>nude et crude inferri: Christus fuit ante Johannem 
+      <lb ed="#B" n="73"/>baptistam et Abrahamum, ergo exstitit ab aeterno 
+      <lb ed="#B" n="74"/>tamen contra Photinianos, qui initium exsistend 
+      <lb ed="#B" n="75"/>Christum in sua ex Maria virgine nativitate sortitum 
+      <lb ed="#B" n="76"/>fuisse asserunt ae inter generationem ab aeterno et 
+      <lb ed="#B" n="77"/>conceptionem ex Maria virgine nihil intermedium 
+      <lb ed="#B" n="78"/>agnoscunt, recte ita concludi potest, Christus exstiti 
+      <lb ed="#B" n="79"/>ante suam ex matre nativitatem. Ergo est ab ad 
+      <lb ed="#B" n="80"/>terno a Patre genitus et aeternus Deus. 3. 
+      Quam<lb ed="#B" n="81" break="no"/>vis Vorstius tract. de Deo p. 224. neget, esse 1σ0 
+      <lb ed="#B" n="82"/>δυναμοῦντα, fuisse ante concditum mundum et exsto 
+      <lb ed="#B" n="83"/>tisse ab aeterno, tamen tota Scriptura evidenter 
+      e<lb ed="#B" n="84" break="no"/>adversatur, quae hac aeternitatis descriptione perpe 
+      <lb ed="#B" n="85"/>tuo utitur Psalm. 9O, v. 3. Prov. 8, v. 24. Joh. 17 
+      <lb ed="#B" n="86"/>v. 3. ete. Confer: Eph. 1, v. 4. 2. Tim. 1, v. 9. 
+      <lb ed="#B" n="87"/>Priusquam mundus exstitit, nihil fuit nisi Deus 
+      ae<lb ed="#B" n="88" break="no"/>ternus, quia inter Deum creatorem et mundum seu 
+      <lb ed="#B" n="89"/>creaturas in tempore conditas nullum est 
+      interme<lb ed="#B" n="90" break="no"/>dium. Confer dicta superius in art. de natura et 
+      <lb ed="#B" n="91"/>attributis divinis c. de aeternitate. 4. Quamvis vox 
+      <lb ed="#B" n="92"/>toxijs principium temporis significet, tamen ex 
+      phrasi<lb ed="#B" n="93" break="no"/>Johannea: In principio erat Verbum Joh. 1, v. 1. 
+      <lb ed="#B" n="94"/>recte infertur Filii aeternitas. Non enim dicit 
+      Jo<lb ed="#B" n="95" break="no"/>hannes, in principio factum fuisse Λόγον, sicu 
+      <lb ed="#B" n="96"/>Moyses dicit, Deum in principio fecisse coelum et 
+      <lb ed="#B" n="97"/>terram Gen. 1, v. I, sed in principio illo dicit jam 
+      <lb ed="#B" n="98"/>tum exstitisse λγον, eo ipso igitur indicat, Aόγoς 
+      <lb ed="#B" n="99"/>non esse una cum reliquis creaturis conditum ad 
+      <lb ed="#B" n="100"/>temporis initium fuisse sortitum, sed aeternam 
+      haber<lb ed="#B" n="101" break="no"/>exsistentiam. August. epist. 66: Non sicut in 
+      prin<lb ed="#B" n="102" break="no"/>cipio Deus fecit coelum et terram, ita in principio 
+      <lb ed="#B" n="103"/>fecit Verbum, sed in principio erat Verbum. Qui 
+      <lb ed="#B" n="104"/>dam ex veteribus nomine principii intelligunt quod 
+      <lb ed="#B" n="105"/>ris principium extra Deum, quod ante creationem 
+      <lb ed="#B" n="106"/>a Moyse descriptam cogitari ponive potest, quod 
+      <lb ed="#B" n="107"/>cunque enim assumas principium, semper responde 
+      <lb ed="#B" n="108"/>Johannes, in principio illo jamdum erat, non inci 
+      <lb ed="#B" n="109"/>piebat Λόγος. Hilarius lib. 2. de Trinit. p. 17: 
+      <lb ed="#B" n="110"/>Quid est istud, in principio erat? transeuntur 
+      tem<lb ed="#B" n="111" break="no"/>pora, transscenduntur secula, tolluntur aetates. 
+      Pon<lb ed="#B" n="112" break="no"/>aliquid, quod voles, tua principium opinione, non 
+      <lb ed="#B" n="113"/>tenes tempore, erat enim. Quidam principii nomin 
+      <lb ed="#B" n="114"/>formaliter et directe ipsam aeternitatem intelligunt 
+      <lb ed="#B" n="115"/>quae est principium sine principio, unde phrasis? 
+      <lb ed="#B" n="116"/>ἀρχῆ vel ἀπʼ ἀρχῆς quandoque notat aeternitatem 
+      <lb ed="#B" n="117"/>1. Thess. 2, v. 13. 1. Joh. 2, v. 13. etc. Basilius 
+      <lb ed="#B" n="118"/>lib. 2. contra Eunom. Non est possibile 
+      principi<lb ed="#B" n="119" break="no"/>quid antiquius cogitare, non enim esse principium 
+      <lb ed="#B" n="120"/>si quid ante se haberet superius. Sed ostendit col¬ 
+      <!--544.xml-->
+      <pb ed="#B" n="471"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>latio, Johannem phrasin suam ex Moyse desumsisse 
+      <lb ed="#B" n="2"/>ideo primam explicationem textui magis congruam 
+      <lb ed="#B" n="3"/>existimamus, quamvis posteriores etiam fidei ana 
+      <lb ed="#B" n="4"/>logiae rectissime congruant. 3. Ex aeternitate Patris 
+      <lb ed="#B" n="5"/>juatenus talis, aeternitas Filii recte infertur, τὰ γὰ 
+      <lb ed="#B" n="6"/>πρός τι ἅμα τῇ φύσει Aristot. in categ. c. 7; hinc 
+      <lb ed="#B" n="7"/>Damascen. lib. 1. orth. fid. c. 8: οὐ γὰρ ἢν πότε 
+      <lb ed="#B" n="8"/>πατήρ, ὅτε οὐκ ἢν ὁ υἱός, αλλʼ ἅμα. Πατὴρ ἅμα υἱὸς 
+      <lb ed="#B" n="9"/>ὁ ἐξ αὐτοῦ γεγεννημένος. Πατὴρ γὰρ ἐκτὸς υἱοῦ οὐκ 
+      <lb ed="#B" n="10"/>ἂν κληθείη εἰ δὲ ἡν μὴ ἔχων υἱόν, οὐκ ἡν πανήρ. S 
+      <lb ed="#B" n="11"/>Pater in tempore coepisset Filium gignere, nec ae 
+      <lb ed="#B" n="12"/>ternus esset Pater, nec immutabilis Deus. Hilarius 
+      <lb ed="#B" n="13"/>lib. 12. de Trinit: Aut non semper Pater, ei non 
+      <lb ed="#B" n="14"/>semper Filius, aut, si semper Pater, semper et 
+      <lb ed="#B" n="15"/>Filius, quia quantum temporis Filio, ne semper 
+      <lb ed="#B" n="16"/>Filius fuerit, abnegabitur, tantum Patri deest, ne 
+      <lb ed="#B" n="17"/>semper Pater sit. Isidor. Pelusiot. libr. 1. epist. 
+      <lb ed="#B" n="18"/>241. p. 56: Si Deus semper sui similis est, 
+      ne<lb ed="#B" n="19" break="no"/>quicquam unquam ipsi accedit, Pater semper sit no 
+      <lb ed="#B" n="20"/>cesse est. Quod ei semper Pater est, sequitur, ut 
+      <lb ed="#B" n="21"/>Filium quoque semper habuerit, ex quo conficitur 
+      <lb ed="#B" n="22"/>cum eandem cum Patre acternitatem haber¬ 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e1721">
+               <lb ed="#B" n="23"/>49. 2. Circa immutabilitatem nota, apostolum di 
+      <lb ed="#B" n="24"/>ctum Psalm. 102, v. 28. non partialiter ratione 
+      po<lb ed="#B" n="25" break="no"/>steriorum duntaxat verborum de mundi abolitione 
+      <lb ed="#B" n="26"/>sed totaliter; nec occasionaliter duntaxat, sed direct 
+      <lb ed="#B" n="27"/>ad Christum accommodare, quia constat ex scope 
+      <lb ed="#B" n="28"/>psalmi, eum de Christo agere, et addit 
+      apostolu<lb ed="#B" n="29" break="no"/>particulam copulativam καί v. 10, quae priora aeque 
+      <lb ed="#B" n="30"/>ac posteriora Christo competere ostendit, quodque 
+      <lb ed="#B" n="31"/>v. 8. probandum sibi sumserat apostolus, videlice 
+      <lb ed="#B" n="32"/>Christum esse verum Deum, xml:id inter reliqua proba 
+      <lb ed="#B" n="33"/>ex eo, quia est immutabilis et quia coelum ac ter 
+      <lb ed="#B" n="34"/>ram condidit, quo utroque argumento vera deitas 
+      <lb ed="#B" n="35"/>efficacissime probatur. Addo et hoc, si Christu 
+      <lb ed="#B" n="36"/>coelos aliquando mutabit et mundum abolebit, utique 
+      <lb ed="#B" n="37"/>etiam ab initio coelos et mundum condidit, ratio est 
+      <lb ed="#B" n="38"/>quia David utrumque nemini nisi Deo aeterno e 
+      <lb ed="#B" n="39"/>ἀναλλοιώτῳ competere evidenter docet. Sed illud 
+      <lb ed="#B" n="40"/>ergo et hoc. 3. Circa immortalitatem nota: 1. quod 
+      <lb ed="#B" n="41"/>quando solus Pater dicitur habere immortalitater 
+      <lb ed="#B" n="42"/>1. Tim. 6. v. 16, per particulam solus non excludi 
+      <lb ed="#B" n="43"/>tur Filius, qui eandem cum Patre habet deitatem 
+      <lb ed="#B" n="44"/>sed creaturae et fictitia numina, confertur enim 
+      Deu<lb ed="#B" n="45" break="no"/>Pater cum regibus terrenis, qui omnes mortales sunt 
+      <lb ed="#B" n="46"/>non cum reliquis divinitatis personis, ut recte anne 
+      <lb ed="#B" n="47"/>tat Chrysostomus; 2. quodque Filius non secundum 
+      <lb ed="#B" n="48"/>deitatem, sed in assumta humana natura fuerit mor 
+      <lb ed="#B" n="49"/>tuus, nec ex necessitate, sed ex libera voluntate 
+      <lb ed="#B" n="50"/>Denique 3. quod Filius dicatur vitam habere in e 
+      <lb ed="#B" n="51"/>ipso Joh. 5, 26, cum de creaturis dicatur, quod in 
+      <lb ed="#B" n="52"/>DEO sint et vivant Act. 17, v. 28; 4. Circa infin 
+      <lb ed="#B" n="53"/>tatem nota, omnipraesentiam non esse quidem ipsam 
+      <lb ed="#B" n="54"/>infinitatem et immensitatem essentialem, ut in tract 
+      <lb ed="#B" n="55"/>de attrib. div. sect. 8. multis ostendimus; interir 
+      <lb ed="#B" n="56"/>dicta, quae de omnipraesentia loquuntur, ad 
+      infin<lb ed="#B" n="57" break="no"/>tatis et immensitatis demonstrationem recte accom, 
+      <lb ed="#B" n="58"/>modari, quia Christus ut Deus essentiae suae 
+      immen<lb ed="#B" n="59" break="no"/>sitate omnipraesens est, ut homo omnipraesens est 
+      <lb ed="#B" n="60"/>non quia humana natura essentialiter est infinita 
+      <!--544.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>nec quia per unionem facta est infinita et immensa 
+      <lb ed="#B" n="62"/>sed quia in infinitam όγου ὑπόστασιν per unionem 
+      <lb ed="#B" n="63"/>personalem est evecta et ad illocalem Dei dextram 
+      <lb ed="#B" n="64"/>per exaltationem collocata 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e1819">
+               <lb ed="#B" n="65"/>50. 5. Circa omniscientiam nota, 1. distinguenda 
+      <lb ed="#B" n="66"/>esse dona scientiae habitualia, quorum respectu 
+      Chri<lb ed="#B" n="67" break="no"/>stus sapientia crevisse dicitur Luc. 2, v. 52. ab in 
+      <lb ed="#B" n="68"/>finita et omnis incrementi ac decrementi experte sa 
+      <lb ed="#B" n="69"/>pientia, qua jam inde a primo conceptionis momento 
+      <lb ed="#B" n="70"/>plenus fuit Luc. 2, v. 40; 2. quod Christus se e 
+      <lb ed="#B" n="71"/>Patre audivisse dicit, quae loquitur Johann. 8, v. 27 
+      <lb ed="#B" n="72"/>id vel ad humanam ejus naturam referendum, ut si 
+      <lb ed="#B" n="73"/>dictum more humano, quod nihil novi in ministerio 
+      <lb ed="#B" n="74"/>proferat, sed illud ipsum, quod Pater coelestis ips 
+      <lb ed="#B" n="75"/>praedicandum demandaverat, vel cum Cyrillo, 
+      Chry<lb ed="#B" n="76" break="no"/>sostomo et Augustino respondendum, quod Christur 
+      <lb ed="#B" n="77"/>a Patre audiat non discendo, quod ignorabat, sed 
+      <lb ed="#B" n="78"/>eandem cum Patre naturam per aeternam 
+      genera<lb ed="#B" n="79" break="no"/>tionem accipiendo, perinde ut de Spiritu s. dicitur. 
+      <lb ed="#B" n="80"/>Johann. 16, v. 13: non loquetur a semet ipso, sed 
+      <lb ed="#B" n="81"/>quae audierit, loquetur, in quem locum sic 
+      commen<lb ed="#B" n="82" break="no"/>tatur August. tractat. 99. in Johann.: Non loquetur 
+      <lb ed="#B" n="83"/>a semet ipso, quia non est a semet ipso. Ab illo 
+      <lb ed="#B" n="84"/>audiet, a quo procedit. Audiri illi scire est, scire 
+      <lb ed="#B" n="85"/>vero esse; 3. quod solus Christus dicatur nosse 
+      Pa<lb ed="#B" n="86" break="no"/>rem Matth. 11, 27; aut ergo in V. T. nullus 
+      cogno<lb ed="#B" n="87" break="no"/>vit Deum aut cognitionem Dei ab hoc Λόγῳ 
+      acce<lb ed="#B" n="88" break="no"/>perunt, et per conseq. hic Aόγoς fuit ὑπόσιασις. ante 
+      <lb ed="#B" n="89"/>quam fieret caro. 6. Circa agendi libertatem nota, 
+      <lb ed="#B" n="90"/>quod a se agere diverso respectu tribuatur et 
+      dene<lb ed="#B" n="91" break="no"/>getur Christo. Illud Johann. 10, v. 18: Depono ani 
+      <lb ed="#B" n="92"/>nam ἀπ᾽ ἐμαυιοῦ; hoc, Johann. 5, v. 19: Non po 
+      <lb ed="#B" n="93"/>test Filius a se quicquam facere. A se agere 
+      dici<lb ed="#B" n="94" break="no"/>tur is, qui potestate agit, quae ipsi ita propria est 
+      <lb ed="#B" n="95"/>et naturalis, ut eam non ab alio acceperit, hoc senet 
+      <lb ed="#B" n="96"/>negat Christus se agere a se ipso, quia potestatem 
+      <lb ed="#B" n="97"/>quam per aeternam generationem a Patre accepit. 
+      <lb ed="#B" n="98"/>A se etiam is dicitur agere, qui propria et naturali 
+      <lb ed="#B" n="99"/>potestate quidem agit, interim tamen eam ab alio 
+      <lb ed="#B" n="100"/>accepit, hoc modo a se sive per se agere dicitur 
+      <lb ed="#B" n="101"/>Filius. Quando ergo Filius negat, se quicquam a 
+      <lb ed="#B" n="102"/>semet ipso facere posse, respectum habet tum ad 
+      <lb ed="#B" n="103"/>ὁμοουσίαν ac ταυτότητα essentiae in Patre et Filio 
+      <lb ed="#B" n="104"/>tum ad suam a Patre generationem et ordinem per 
+      <lb ed="#B" n="105"/>sonalem, tum ad honoris ἰσόrητα et aequalitatem; 
+      <lb ed="#B" n="106"/>Thom. p. 1. quaest. 42. artic. 6. ad 1: Naturae 
+      <lb ed="#B" n="107"/>divinae haec unitas est, ut ita per se agat Filius. 
+      <lb ed="#B" n="108"/>ut non agat a se. A proprietatibus personalibus 
+      <lb ed="#B" n="109"/>distinctis non potest essentiae diversitas conclud 
+      <lb ed="#B" n="110"/>Christus potentiam agendi non habet a se ipso, sed 
+      <lb ed="#B" n="111"/>a Patre per aeternam generationem, interim tamen 
+      <lb ed="#B" n="112"/>eadem facit, quae Pater, quia eandem numero essem 
+      <lb ed="#B" n="113"/>tiam per generationem a Patre accepit 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e1928">
+               <lb ed="#B" n="114"/>51. 7. Circa aequalitatem nota: 1. quamvis 
+      ae<lb ed="#B" n="115" break="no"/>qualitas proprie et accurate loquendo non sit 
+      essen<lb ed="#B" n="116" break="no"/>tiale Dei attributum, cum non sit aliquid absolutum 
+      <lb ed="#B" n="117"/>nec in abstracto de Deo praedicetur, tamen ad hanc 
+      <lb ed="#B" n="118"/>argumentorum classem reducitur ratione sui funda 
+      <lb ed="#B" n="119"/>menti. Aequalitas enim est relatio inter duo ve 
+      <lb ed="#B" n="120"/>plura aequalia. Hujus relationis, scilicet aequalitatis 
+      <!--545.xml-->
+      <pb ed="#B" n="472"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>in Patre et Filio, fundamentum est unitas potentiae 
+      <lb ed="#B" n="2"/>sapientiae et ipsius divinae essentiae, inde enim atque 
+      <lb ed="#B" n="3"/>ideo Filius Patri est aequalis, quia est ipsi συναῖδιο 
+      <lb ed="#B" n="4"/>καὶ ὁμοούσιος, habens omnia, quae Pater habet; 
+      <lb ed="#B" n="5"/>2. cum essentia divina sit infinita, simplicissima 
+      <lb ed="#B" n="6"/>ἀμέριστος ete., xml:ideo Filius Dei aut ex toto aut nullo 
+      <lb ed="#B" n="7"/>modo Patri aequalis est dicendus, ex parte vero 
+      <lb ed="#B" n="8"/>aequalis, ex parte autem inaequalis dici nequit. S 
+      <lb ed="#B" n="9"/>enim in minimo est inaequalis, nullo modo est aequa 
+      <lb ed="#B" n="10"/>lis, quia essentia divina est indivisibilis, et quia 
+      a<lb ed="#B" n="11" break="no"/>tributa non sunt in Deo accidentia, sed ipsa essentia 
+      <lb ed="#B" n="12"/>3. quando Christus dicitur Deo aequalis, tum nomer 
+      <lb ed="#B" n="13"/>Dei accipitur ὑποστατικῶς pro persona Patris 
+      <lb ed="#B" n="14"/>Frustra igitur inferunt Photiniani: Qui est Deo 
+      ae<lb ed="#B" n="15" break="no"/>qualis, non est ipse Deus. Christus est Deo aequa 
+      <lb ed="#B" n="16"/>lis. Ergo non est ipse Deus. Socin. contra Beli 
+      <lb ed="#B" n="17"/>c. 5. class. 3. arg. 3. p. 253, hoc enim tantum se 
+      <lb ed="#B" n="18"/>quitur, ergo non est Pater, interim tamen est unus 
+      <lb ed="#B" n="19"/>verus cum Patre Deus, alias Patri suo aequalis 
+      no<lb ed="#B" n="20" break="no"/>esset. Photiniani contra locum Joh. 3, v. 18 rege 
+      <lb ed="#B" n="21"/>runt, evangelistam referre opinionem Judaeorum 
+      <lb ed="#B" n="22"/>Resp. ipse Socinus contra Bellarminum et 
+      Wiekun<lb ed="#B" n="23" break="no"/>c. 5. class. 3. argum. 3. p. 259. agnoscit, evange 
+      <lb ed="#B" n="24"/>listam xml:idem cum Judaeis censuisse, quod Christu 
+      <lb ed="#B" n="25"/>se Deo aequalem his verbis fecerit, xml:idque ex 
+      son<lb ed="#B" n="26" break="no"/>verborum elucere ait. Addimus ex Chrysost. Cy 
+      <lb ed="#B" n="27"/>rill. et August. h. I. Si falsa fuisset opinio Judaeo 
+      <lb ed="#B" n="28"/>rum, certe Christus aut evangelista admonuissent, ne 
+      <lb ed="#B" n="29"/>in tanta re erraremus, Joh. 2. v. 21. et c. 21, v. 23 
+      <lb ed="#B" n="30"/>tantum autem abest, ut Christus corrigat, ut potius 
+      <lb ed="#B" n="31"/>confirmet. De dicto Joh. 10, v. 30: Ego et Pater 
+      <lb ed="#B" n="32"/>unum sumus, vide disput. 2. ex loco s. Johann.! 
+      <lb ed="#B" n="33"/>Tres sunt ete. §. 22. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e2024">
+               <lb ed="#B" n="34"/>52. Tertia classis argumentorum petitur ex 
+      pro<lb ed="#B" n="35" break="no"/>prietate Filii personali, quae, respectu ad Patren 
+      <lb ed="#B" n="36"/>primam deitatis personam habito, est generatio 
+      u<lb ed="#B" n="37" break="no"/>vocant passiva, quod scilicet est ab aeterno a Patre 
+      <lb ed="#B" n="38"/>genitus; repectu ad Spiritum s. tertiam deitatis per 
+      <lb ed="#B" n="39"/>sonam habito, est spiratio ut vocant activa, quod 
+      <lb ed="#B" n="40"/>scilicet una cum Patre ab aeterno spirat Spiritum s 
+      <lb ed="#B" n="41"/>ubi sic concludimus: Qui est ab aeterno a Patre ge 
+      <lb ed="#B" n="42"/>nitus et una cum Patre ab aeterno spirat Spiritum 
+      <lb ed="#B" n="43"/>s., is est verus Deus. Ratio prioris est, quia non est 
+      <lb ed="#B" n="44"/>fas Dei Filium degenerem suspicari, sed aequale 
+      <lb ed="#B" n="45"/>necesse est fateri altitudinis et ejusdem prorsus di 
+      <lb ed="#B" n="46"/>qnitatis. Just. in ἐκθ. πίσι. p. 294: ὁρῶμεν ἐν τῇ 
+      <lb ed="#B" n="47"/>κοινῇ συνηθείᾳ 1ῆς αἱτῆς οἱσίας ὑπάρχοντα τοῖς γεν 
+      <lb ed="#B" n="48"/>νῶσι τὰ γεννώμενα, nam et filios principum 
+      prin<lb ed="#B" n="49" break="no"/>cipes et silios regum reges esse quis nesciat? Bernli 
+      <lb ed="#B" n="50"/>serm. 1. de adv. col. 1: Vitiosa et monstrosa essei 
+      <lb ed="#B" n="51"/>Dei generatio, si ex ejus utero prodiisset diverse 
+      <lb ed="#B" n="52"/>natura. August. lib. 3. contra Maxim. c. 18. Rati. 
+      <lb ed="#B" n="53"/>posterioris est, quia Spiritus s. est Dei virtus, ut 
+      <lb ed="#B" n="54"/>Photiniani concedunt, est persona divina, ut suo 
+      loc<lb ed="#B" n="55" break="no"/>demonstratur. Quod si ergo a Filio procedit verus 
+      <lb ed="#B" n="56"/>Deus, utique etiam Filium oportet esse verum 
+      Deun<lb ed="#B" n="57" break="no"/>Atqui Filius est ab aeterno a Patre genitus et a 
+      <lb ed="#B" n="58"/>Filio procedit Spiritus s. Ergo 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e2081">
+               <lb ed="#B" n="59"/>53. Posterius assumti membrum late 
+      demonstra<lb ed="#B" n="60" break="no"/>tum fuit tract. de Spiritu s. §. 73. Vocatur Spi¬ 
+      <!--545.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ritus Christi Rom. 8, v. 10. Spiritus Filii Gal. 4. 
+      <lb ed="#B" n="62"/>v. 6. Spiritus Elohim Patris et Filii Gen. I, v. 2. 
+      <lb ed="#B" n="63"/>Spiritus labiorum et oris Christi Esa. 11, v. 4. s. 
+      <lb ed="#B" n="64"/>Thess. 2. v. 8, qui sua a Christo accipit per aeter 
+      <lb ed="#B" n="65"/>nam scilicet processionem Joh. 16, v. 14, quem 
+      Chri<lb ed="#B" n="66" break="no"/>stus mittit et spirando sive insufflando communica 
+      <lb ed="#B" n="67"/>Joh. 13, v. 26. c. 20, v. 22. Prius constat ex eo: si 
+      <lb ed="#B" n="68"/>quia ipsum ab aeterno esse genitum expressis verbis 
+      <lb ed="#B" n="69"/>Scriptura testatur, Psalm. 2, v. 7. Hebr. 1, v. 5: 
+      <lb ed="#B" n="70"/>hodie genui te. Psalm. 72, v. 17: ante solem filio 
+      <lb ed="#B" n="71"/>tum est nomen ejus. Prov. 8, v. 24: nondum 
+      eran<lb ed="#B" n="72" break="no"/>abyssi, et genita sum. Mich. 5, v. 2: egressus eju 
+      <lb ed="#B" n="73"/>a diebus aeternitatis; 2. quia dicitur Dei Filius 
+      <lb ed="#B" n="74"/>Psalm. 2, v. 7. Prov. 30, v. 4. In N. T. passim 
+      <lb ed="#B" n="75"/>inigenitus a Patre Joh. 1, v. 14. c. 3, v. 16; pro 
+      <lb ed="#B" n="76"/>prius Joh. 5, v. 18. Rom. 8, v. 32; 
+      primogeni<lb ed="#B" n="77" break="no"/>tue Hebr. 1, v. 6; πρωτόνοκος omnis creaturae 
+      <lb ed="#B" n="78"/>Col. 1, v. 15; 3. quia vocatur ὁ Λόγος Joh. 1. 
+      <lb ed="#B" n="79"/>v. I et 14. 1. Joh. 1, v. 1 et 3. c. 5, 7. Apoc. 19. 
+      <lb ed="#B" n="80"/>13. (quidam addunt Luc. 1, 2. Hebr. 4. 12. c. 11, 3.) 
+      <lb ed="#B" n="81"/>127 Verbum Gen. 1, 2. Psalm. 33, 6. (quidam addunt 
+      <lb ed="#B" n="82"/>1. Sam. 3, 21: locutus est Jehovah Samueli in Silo 
+      <lb ed="#B" n="83"/>in verbo Jehovah, ut Chaldaeus vertit, hoc est, per 
+      <lb ed="#B" n="84"/>egatum et oratorem Patris.) 2. Sam. 7, 20: propte 
+      <lb ed="#B" n="85"/>verbum tuum praestas res maximas, quod 1. Paral. 
+      <lb ed="#B" n="86"/>17, 19. sic redditur: propter servum tuum, hoc est 
+      <lb ed="#B" n="87"/>Messiam, legatum tuum, Esa. 53, II, praestas ren 
+      <lb ed="#B" n="88"/>maximam. 2. Sam. 23, 2. Dan. 8, 13. 727721 loquens 
+      <lb ed="#B" n="89"/>dicitur, quia est interpres paternae voluntatis. 
+      Hu<lb ed="#B" n="90" break="no"/>referri possunt omnia loca V. T., in quibus 
+      Chal<lb ed="#B" n="91" break="no"/>laica paraphrasis Filium Dei vocat Memerah 
+      Gen<lb ed="#B" n="92" break="no"/>44. 3. c. 48. 21. Esa. 8, 5. e. 26, 4. Hos. 1, 7. ete. 
+      <lb ed="#B" n="93"/>quae Selneccerus peculiari libro exposuit a. 1576 edito. 
+      <lb ed="#B" n="94"/>Esb autem Λόγος non προχορικὸς seu ῥητός, 
+      pro<lb ed="#B" n="95" break="no"/>latus, enuntiatio, nec λόγος ἐνδιάθετος, internus sive 
+      <lb ed="#B" n="96"/>inditus, qui angelis et menti humanae convenit, not 
+      <lb ed="#B" n="97"/>Deo, nec λόγος ἔμφυιος, innatus, qualis est 
+      intelle<lb ed="#B" n="98" break="no"/>ctus nostri apud se et per se, sed οὐσιώδης, ὑφεστὼς 
+      <lb ed="#B" n="99"/>καὶ ὑποστατικός, essentialis, substantialis et 
+      subsi<lb ed="#B" n="100" break="no"/>stens, quia λόγος ἡν ἐν ἀρχῇ πρὸς τὸν θεόν Joh.. 
+      <lb ed="#B" n="101"/>1. Confer Athanas. orat. 3. contra Arian. et in tra 
+      <lb ed="#B" n="102"/>etat. de definitionibus tom. 2. p. 59. Dicitur Λόγος 
+      <lb ed="#B" n="103"/>non tantum officii, sed etiam personae respectu, non 
+      <lb ed="#B" n="104"/>tantum κατ᾽ ἔξω, sed etiam κατ᾽ ἔσω, quia ἐκ τοῖ 
+      <lb ed="#B" n="105"/>νοῦ προῆλθε per aeternam a Patre generationem; 
+      <lb ed="#B" n="106"/>4. quia dicitur substantialis imago Patris Sap.. 
+      <lb ed="#B" n="107"/>26. 2. Cor. 4. 4. Col. 1, 13: χαρακτὴρ τῆς ὑποστά¬ 
+      <lb ed="#B" n="108"/>σεως αὐτοῦ; ὁ. ἀπαύγασμα τῆς δόξης Hebr. 1, δ 
+      <lb ed="#B" n="109"/>Qui enim videt Filium, is videt etiam Patrem Joh. 14, 
+      <lb ed="#B" n="110"/>v. 9; utrumque respicit ad aeternam a Patre gene 
+      <lb ed="#B" n="111"/>rationem. Imago enim notat relationem producti ad 
+      <lb ed="#B" n="112"/>producentem et fundatur in divina essentia non 
+      abso<lb ed="#B" n="113" break="no"/>lute, sed quatenus Filius per aeternam a Patre 
+      ge<lb ed="#B" n="114" break="no"/>nerationem eam accipit; ac ut splendor solis a solo 
+      <lb ed="#B" n="115"/>nascitur, simul cum sole emergit et lucem solis ad 
+      <lb ed="#B" n="116"/>imussim exprimit, sic Filius a Patre genitus est ipsi 
+      <lb ed="#B" n="117"/>συναῖδιος καὶ ὁμοούσιος 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e2216">
+               <lb ed="#B" n="118"/>54. Circa hanc argumentorum classem observa, 
+      <lb ed="#B" n="119"/>Christum vocari Dei Filium absolute, perpetuo el 
+      <!--546.xml-->
+      <pb ed="#B" n="473"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>simpliciter. Ergo non est Filius Dei adoptivus, qui 
+      <lb ed="#B" n="2"/>enim per gratiam adoptionis duntaxat sunt filii, 
+      no<lb ed="#B" n="3" break="no"/>perpetuo nec absolute sic vocantur, quod argumen 
+      <lb ed="#B" n="4"/>tum urget Athanasius orat. 3. contra Arianos, Christum 
+      <lb ed="#B" n="5"/>ita vocari Dei Filium, ut praeferatur Filiis adoptivi 
+      <lb ed="#B" n="6"/>et ab illis longissimo intervallo distinguatur Matth. 16. 
+      <lb ed="#B" n="7"/>v. 15: Tu es Christus, o vlos Dei vivi, ubi additur 
+      <lb ed="#B" n="8"/>articulus δεικτικόs, quo ab Elia, Jeremia, Baptist. 
+      <lb ed="#B" n="9"/>et aliis adoptivis filiis discernitur, quod argumentur 
+      <lb ed="#B" n="10"/>urget Hilarius lib. 6. de trinit. Theoph. in e. it 
+      <lb ed="#B" n="11"/>Matth.; sic Gal. 4, v. 4: misit Deus Filium suur 
+      <lb ed="#B" n="12"/>in mundum, ut adoptionem filiorum reciperemus 
+      <lb ed="#B" n="13"/>ubi Christus tanquam Filius Dei naturalis ab ado 
+      <lb ed="#B" n="14"/>ptivis longissime discernitur. Christum vocari 
+      De<lb ed="#B" n="15" break="no"/>Filium propter operationem naturae, ut loquitur 
+      <lb ed="#B" n="16"/>Ambros. lib. 4. de fid. c. 4, hoc est propter aeter 
+      <lb ed="#B" n="17"/>nam a Patre generationem, Psalm. 2, v. 7: Filius 
+      <lb ed="#B" n="18"/>meus es tu, ego hodie genui te, unde etiam vocatu 
+      <lb ed="#B" n="19"/>μονογενὴς, unigenitus. Atqui adoptivi filii 
+      sum<lb ed="#B" n="20" break="no"/>plures, cum ergo hic sit unigenitus, et quidem, 
+      <lb ed="#B" n="21"/>μονογενής cum articulo, utique est filius non ado 
+      <lb ed="#B" n="22"/>ptione, sed natura, Christum vocari talem filium, qui 
+      <lb ed="#B" n="23"/>sit in einu Patris, hoc est ejusdem cum Patro 
+      <lb ed="#B" n="24"/>essentiae ac naturae, ut exponit August. traet. 3. in. 
+      <lb ed="#B" n="25"/>Joh. Cyrill. lib. I. in Joh. c. 22, nec dicitur ali 
+      <lb ed="#B" n="26"/>quando fuisse, sed adhuc esse in sinu Patris, quis 
+      <lb ed="#B" n="27"/>cum in terris versaretur ratione divinae naturae, 
+      no<lb ed="#B" n="28" break="no"/>discesserat a Patre. Denique Christum vocari non 
+      <lb ed="#B" n="29"/>modo filium unicum et unigenitum et proprium, sed 
+      <lb ed="#B" n="30"/>etiam Patri aequalem Joh. 5, v. 18. Phil. 2, v. 6. 
+      <lb ed="#B" n="31"/>at non posset esse aequalis Patri, si adoptione 
+      tam<lb ed="#B" n="32" break="no"/>tum filius esset, non natura. (Quomodo filius De 
+      <lb ed="#B" n="33"/>naturalis et proprius ab adoptivis filiis distinguatur 
+      <lb ed="#B" n="34"/>egregie disserit Alexander episcopus Alexandrii 
+      <lb ed="#B" n="35"/>apud Socrat. lib. I. Hist. Eccl. e. 6.) Concidit erg 
+      <lb ed="#B" n="36"/>subterfugium Photinianorum, quo Christum dicum 
+      <lb ed="#B" n="37"/>esse filium adoptivum, quod olim etiam faciebam 
+      <lb ed="#B" n="38"/>Ariani, ut constat ex epist. Arii apud Euseb. Socin 
+      <lb ed="#B" n="39"/>in lib. de Script. auctor. e. 6. S. jam quod attinet. 
+      <lb ed="#B" n="40"/>Hominem Christum divinam adoptionem adeptum 
+      <lb ed="#B" n="41"/>esse asserit. Schmaltz. in ex. 157. error. p. 8: Dice 
+      <lb ed="#B" n="42"/>mus Christum etiam adoptivum filium appellari posse 
+      <lb ed="#B" n="43"/>quia scilicet non semper talis Dei filius fuerit, quali 
+      <lb ed="#B" n="44"/>fuit, cum in terris munus suum obiret, et qualis nunc 
+      <lb ed="#B" n="45"/>est, quando in coelis requat, sed talis singulari De 
+      <lb ed="#B" n="46"/>gratia effectus est. Idem Schmaltz. in exam. 15. 
+      <lb ed="#B" n="47"/>error. p. 27. negat, credentes proprie esse adoptiro 
+      <lb ed="#B" n="48"/>Dei filios, quia adoptivus proprie significat eum, qui, cum 
+      <lb ed="#B" n="49"/>antea non esset alicujus filius postea adoptatus, ac 
+      <lb ed="#B" n="50"/>optatus autem tantum pro filio habetur et ut filim 
+      <lb ed="#B" n="51"/>tractatur, cum revera non sit Filius, a quo adopto 
+      <lb ed="#B" n="52"/>tur, nec Filius ejus proprie appellari possit, quorum 
+      <lb ed="#B" n="53"/>neutrum credentibus competere dicit, quia sunt 
+      e<lb ed="#B" n="54" break="no"/>DEO nati et participes divinae naturae futuri 
+      <lb ed="#B" n="55"/>2. Quadruplicem duntaxat filiationem in Scripturi. 
+      <lb ed="#B" n="56"/>describi: Una est per essentiae communicationem 
+      <lb ed="#B" n="57"/>altera per unionem, tertia per creationem, quarta 
+      <lb ed="#B" n="58"/>per adoptionem. Filiatio per essentiae communico 
+      <lb ed="#B" n="59"/>tionem duplex est, aut enim est per totius 
+      essentia<lb ed="#B" n="60" break="no"/>et numero ejusdem essentiae communicationem, aut 
+      <!--546.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>per communicationem partis essentiae ac specie 
+      dum<lb ed="#B" n="62" break="no"/>taxat ejusdem essentiae. Illa tantum habet locum 
+      <lb ed="#B" n="63"/>n essentia infinita, xml:ideoque locum habet tantum in 
+      <lb ed="#B" n="64"/>generatione Filii Dei, Pater enim totam suam 
+      es<lb ed="#B" n="65" break="no"/>sentiam et numero eandem essentiam ΛAόyῳ 
+      com<lb ed="#B" n="66" break="no"/>municat per aeternam generationem et eandem to 
+      <lb ed="#B" n="67"/>tam sibi reservat. Haec locum habet in essentia 
+      <lb ed="#B" n="68"/>finita, xml:ideoque ea generatur homo, non enim 
+      to<lb ed="#B" n="69" break="no"/>tam essentiam, sed partem essentiae, nec eandem 
+      <lb ed="#B" n="70"/>numero, sed specie essentiam in humanis Pater 
+      Fili<lb ed="#B" n="71" break="no"/>communicat. Filiatio per unionem competit Christo 
+      <lb ed="#B" n="72"/>secundum humanam naturam. Filiatio per 
+      creatio<lb ed="#B" n="73" break="no"/>nem itidem duplex: 1. per creationem immediatam 
+      <lb ed="#B" n="74"/>competit angelis, qui ob xml:id dicuntur filii Dei Job 
+      <lb ed="#B" n="75"/>1, v. 6. c. 38, v. 7, et, ut quidam volunt, Adamo 
+      <lb ed="#B" n="76"/>ante lapsum Luc. 3, v. 38. 2. per creationem mediatam 
+      <lb ed="#B" n="77"/>omnibus creaturis Malach. 2, v. 10: numquid non 
+      <lb ed="#B" n="78"/>Pater unus omnium. Job. 38, v. 28: Quis et pater 
+      <lb ed="#B" n="79"/>pluviae? Filiatio per adoptionem competit 
+      creden<lb ed="#B" n="80" break="no"/>tibus in Christum Joh. 1, v. 9. Eph. 1, v. 5. Gal. 4. 
+      <lb ed="#B" n="81"/>5. 5; praeter hos filiationis modos frustra quaesiveris 
+      <lb ed="#B" n="82"/>alios. Concidunt igitur varii illi ac diversi modi 
+      <lb ed="#B" n="83"/>propter quos Christum Dei Filium dici nugantur 
+      <lb ed="#B" n="84"/>Photiniani. Vorstius photinianizans triplicem in 
+      <lb ed="#B" n="85"/>Christo filiationem statuit: 1. pertinet ad Christ 
+      <lb ed="#B" n="86"/>ortum; 2. ad sanctificationem seu unctionem; 8. ad 
+      <lb ed="#B" n="87"/>resurrectionem. Socin. contra Bell. p. 208. profert 
+      <lb ed="#B" n="88"/>I. dilectionis excellentiam; 2. haereditatem omnium 
+      <lb ed="#B" n="89"/>hristo datam; 3. denominationem filiorum DEl 
+      <lb ed="#B" n="90"/>a Christo; 4. Christi praerogativam; 5. nativitaten 
+      <lb ed="#B" n="91"/>ex Maria virgine; 6. resurrectionem et exaltationem 
+      <lb ed="#B" n="92"/>Sed haec omnia dicuntur ἄτερ γραφῆς. 3. 
+      Distin<lb ed="#B" n="93" break="no"/>guendum esse inter ipsam Λόγου filiationem et filio 
+      <lb ed="#B" n="94"/>tionis declarationem seu manifestationem. Filiatio 
+      <lb ed="#B" n="95"/>psa unice in aeterna a Patre generatione consistit 
+      <lb ed="#B" n="96"/>ut apparet ex eo, quod vocatur Dei Filius, quia este 
+      <lb ed="#B" n="97"/>μονογενὴς παρὰ πατρός. Ut enim genitus a patre 
+      <lb ed="#B" n="98"/>proprie dicitur is, qui ex substantia patris sui 
+      ge<lb ed="#B" n="99" break="no"/>nitus est, sic unigenitus a patre dicitur, qui unicu 
+      <lb ed="#B" n="100"/>est a patre genitus et praeterea nullus alius. 
+      Decla<lb ed="#B" n="101" break="no"/>ratio vero sive manifestatio filiationis est varia et 
+      <lb ed="#B" n="102"/>nultiplex, arguit enim divinitatem et consequenter 
+      <lb ed="#B" n="103"/>aeternam Filii ex Patre generationem ipsius 
+      con<lb ed="#B" n="104" break="no"/>ceptio ex Spiritu s., resurrectio ex mortuis et glo 
+      <lb ed="#B" n="105"/>riosa exaltatio. Corruit ergo Photinianorum sophisma 
+      <lb ed="#B" n="106"/>quod Christus dicatur Dei Filius propter conce 
+      <lb ed="#B" n="107"/>ptionem ex Spiritu s. et resurrectionem ex mortuis 
+      <lb ed="#B" n="108"/>l. Psalm. 2, v. 7. proprie dictam et aeternam gene 
+      <lb ed="#B" n="109"/>rationem describi. Agitur enim de tali generatione 
+      <lb ed="#B" n="110"/>quae antegressa est mundi creationem, ut colligitur 
+      <lb ed="#B" n="111"/>ex Prov. 8, v. 24, quae angelorum creationem lon 
+      <lb ed="#B" n="112"/>gissimo intervallo excedit nec cum ea quicquam 
+      <lb ed="#B" n="113"/>commune habet, ut colligitur ex Hebr. 1, v. 5, per 
+      <lb ed="#B" n="114"/>quam producitur Filius Dei essentialis et aeternus 
+      <lb ed="#B" n="115"/>ut colligitur ex versu ultimo psalmi, qui in eum 
+      <lb ed="#B" n="116"/>locet esse sperandum, quae est aeterni et immuta 
+      <lb ed="#B" n="117"/>bilis Dei actio interna, ac proinde etiam aeterna, ut 
+      <lb ed="#B" n="118"/>constat ex definitione generationis proprie acceptae 
+      <lb ed="#B" n="119"/>quod sit viventis ex substantia gignentis productio 
+      <lb ed="#B" n="120"/>Concidit ergo delirium Photinianorum, quo statuum 
+      <!--547.xml-->
+      <pb ed="#B" n="474"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Ps. 2, v. 7. temporalem generationem describi. 5. Act. 13, 
+      <lb ed="#B" n="2"/>v. 13. causam et formale filiationis nequaquam statui. 
+      <lb ed="#B" n="3"/>in resurrectione ex mortuis, sed vel ob declarationem 
+      <lb ed="#B" n="4"/>ac manifestationem ad resurrectionem Christi a 
+      <lb ed="#B" n="5"/>commodari dictum psaltis Rom. 1, v. 4; vel quod 
+      <lb ed="#B" n="6"/>textui convenientius missionem Filii Dei in carnem 
+      <lb ed="#B" n="7"/>ejusque veram divinitatem allegatione illius dicti a 
+      <lb ed="#B" n="8"/>apostolo demonstrari, quam sententiam probamu 
+      <lb ed="#B" n="9"/>I. ex scopi consideratione, qui duplex ut constat 
+      e<lb ed="#B" n="10" break="no"/>v. 23. 26. et 30, videlicet quod Jesus Nazarenus 
+      si<lb ed="#B" n="11" break="no"/>Dei Filius promissus, Messias divinitus in N. T. 
+      <lb ed="#B" n="12"/>exhibitus, quod eumdem a Judaeis interfectum 
+      <lb ed="#B" n="13"/>Pater coelestis suscitaverit. Cum ergo probationi 
+      <lb ed="#B" n="14"/>loco tria V. T. vaticinia apostolus adducat, primum 
+      <lb ed="#B" n="15"/>ex Psalm. 2, v. 7. petitum ad probandam prioren 
+      <lb ed="#B" n="16"/>scopi hujus partem, duo posteriora ex Esa. 55, v.. 
+      <lb ed="#B" n="17"/>et Psalm. 16, v. 10. ad posteriorem scopi partem 
+      <lb ed="#B" n="18"/>demonstrandam referuntur; 2. ex connexione v. 35 
+      <lb ed="#B" n="19"/>et 33: Annuntiamus vobis (inquit apostolus) eam 
+      <lb ed="#B" n="20"/>quae ad patres nostros facta est promissionem, ὅν 
+      <lb ed="#B" n="21"/>quoniam eam Deus adimplevit filiis suis suscitam 
+      <lb ed="#B" n="22"/>nobis Jesum, sicut et in pealmo secundo scriptum 
+      <lb ed="#B" n="23"/>Quae vero sit illa promissio, patet ex v. 23: Deu 
+      <lb ed="#B" n="24"/>ex semine David secundum promissionem ἥγειρ 
+      <lb ed="#B" n="25"/>excitavit vel suscitavit Israëli salvatorem Jesum 
+      <lb ed="#B" n="26"/>3. ex oppoeitione; v. 34. additur particula adversa. 
+      <lb ed="#B" n="27"/>tiva δέ, ὅτι δὲ ἀνέστησεν αὐτόν, utique ergo in v. 33 
+      <lb ed="#B" n="28"/>nondum de resurrectione ex mortuis apostolus egerat 
+      <lb ed="#B" n="29"/>quorsum enim in unius ejusdemque rei probation 
+      <lb ed="#B" n="30"/>particulam adversativam adhiberet? 4. ex phraseo 
+      <lb ed="#B" n="31"/>significatione. μεταστήσας v. 22. usurpatur pro 
+      re<lb ed="#B" n="32" break="no"/>motione, ergo ἀναστήσας v. 33. sensu contrario 
+      <lb ed="#B" n="33"/>usurpatur pro missione vel suscitatione. Item re 
+      <lb ed="#B" n="34"/>surrectio ex mortuis v. 34. non simpliciter voel 
+      <lb ed="#B" n="35"/>tur ἀνάστασις, sed determinate additur ἐκ νεκρῶν, 
+      <lb ed="#B" n="36"/>5. ex aliorum locorum collatione, tum quoad rem 
+      <lb ed="#B" n="37"/>quia hoc doctrinae Christianae caput primarium 
+      <lb ed="#B" n="38"/>quod Christus sit Dei Filius ac promissus Messias 
+      <lb ed="#B" n="39"/>divinitus exhibitus, in omnibus suis praecipue 
+      urgen<lb ed="#B" n="40" break="no"/>apostoli Aet. 2. v. 22, c. 3, v. 13. c. 9, v. 20; tum 
+      <lb ed="#B" n="41"/>quoad phrasin, quia in aliis etiam Scripturae loci 
+      <lb ed="#B" n="42"/>participium ἀναστήσας absolute positum significa 
+      <lb ed="#B" n="43"/>suscitavit, misit, constituit; Act. 3, v. 21: prophe 
+      <lb ed="#B" n="44"/>tam ἀναστήσει, v. 26: vobis primum Deus 
+      suscitan<lb ed="#B" n="45" break="no"/>Filium suum misit eum. c. 7, v. 37: 
+      prophetan<lb ed="#B" n="46" break="no"/>suscitabit vobis Deus. Rom. 15, v. 12: ὁ ἀνισιο 
+      <lb ed="#B" n="47"/>μενος, curgens regere gentes; 6. ex verborum collo 
+      <lb ed="#B" n="48"/>catione. Apostolus nequaquam dicit, quod Deu 
+      <lb ed="#B" n="49"/>Christum suscitaverit, scilicet ex mortuis, sed quod 
+      <lb ed="#B" n="50"/>tuscitaverit, exhibuerit, miserit Ἰησοῦν, h. e. Filium 
+      <lb ed="#B" n="51"/>suum in carnem, ut esset Jesus sive salvator pro 
+      <lb ed="#B" n="52"/>missus ille Messias, perinde ut in v. 23. dixerat. 
+      <lb ed="#B" n="53"/>Deua ex semine Davidis excitavit Israëli salvatorem 
+      <lb ed="#B" n="54"/>Jecum; 7. ex rationum collectione. Quod Christu 
+      <lb ed="#B" n="55"/>ante resurrectionem habuit, xml:id non accepit 
+      pe<lb ed="#B" n="56" break="no"/>resurrectionem. Sed Christus ante resurrectionem 
+      <lb ed="#B" n="57"/>fuit Dei Filius. Ergo. Quod nomen facit, ut 
+      <lb ed="#B" n="58"/>Christus sit Filius, xml:id non potest intelligi voc 
+      <lb ed="#B" n="59"/>generationis. Sed resuscitatio ex mortuis non 
+      <lb ed="#B" n="60"/>facit, ut Christus sit Dei Filius. Ergo. Si gignere 
+      <!--547.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>est xml:idem, quod resuscitare, sequitur, quod Filius Dei 
+      <lb ed="#B" n="62"/>se ipsum genuerit, quia se ipsum ex mortuis 
+      susci<lb ed="#B" n="63" break="no"/>tavit. Concidit ergo hypothesis Photinianorum, qua 
+      <lb ed="#B" n="64"/>statuunt, Filium dici a Patre genitum propter 
+      quan<lb ed="#B" n="65" break="no"/>ex mortuis resurrectionem. Ostor. in Inst. Germ 
+      <lb ed="#B" n="66"/>c. 7. p. 54, qua in parte quosdam ex Calviniani 
+      <lb ed="#B" n="67"/>habent sibi consentientes, Tilen. in not. ad Bellarm. 
+      <lb ed="#B" n="68"/>lib. 1. de Christo c. 5: Quia negare non poscumus 
+      <lb ed="#B" n="69"/>interpretationem illam multis et veterum et 
+      recen<lb ed="#B" n="70" break="no"/>tiorum videri coactam, largiri possumus advereariis 
+      <lb ed="#B" n="71"/>de resurrectione aptius accipi. 6. Luc. 1, v. 35. 
+      <lb ed="#B" n="72"/>ideo quod ex te nascetur sanctum, Filius Dei 
+      vo<lb ed="#B" n="73" break="no"/>cabitur totius angelicae praecedentis συμπέρασμα e 
+      <lb ed="#B" n="74"/>imnibus collectum et illatum proponi hoc sens 
+      <lb ed="#B" n="75"/>Quia filius ille, quem concipies et paries, erit Jesue 
+      <lb ed="#B" n="76"/>promissus ille Messias, cui Pater coelestis dabit 
+      <lb ed="#B" n="77"/>sedem David, xml:ideo etiam vocabitur et erit Dei, 
+      con<lb ed="#B" n="78" break="no"/>stat enim ex omnibus V. T. oraculis, quae de 
+      <lb ed="#B" n="79"/>Messia loquuntur, talem praedici Messiam, qui sit 
+      <lb ed="#B" n="80"/>in personae unitate Deus et homo. Quod si ad 
+      <lb ed="#B" n="81"/>proxime praecendentia referre velimus, respectus 
+      <lb ed="#B" n="82"/>habetur ad divinae et humanae naturae unionem, 
+      <lb ed="#B" n="83"/>quae non minus ad operationem Spiritus s. in 
+      <lb ed="#B" n="84"/>hristo conceptione pertinet, quam ἅμεσος ἐνέργειν 
+      <lb ed="#B" n="85"/>et θαυμάσιος ἀγιασμός, h. e. quod Spiritus s. de 
+      <lb ed="#B" n="86"/>derit Mariae vim et facultatem concipiendi sine 
+      viril<lb ed="#B" n="87" break="no"/>semine et quod massam illam vel guttas sanguinis 
+      <lb ed="#B" n="88"/>ex quibus Filius Dei corporis habitaculum exstruxit 
+      <lb ed="#B" n="89"/>a peccati labe mundaverit, Greg, lib. 18. mora 
+      <lb ed="#B" n="90"/>c. 12. Beda in Luc. 1: Virtus altissimi est 
+      Ve<lb ed="#B" n="91" break="no"/>bum Dei, quod carnem induit, ac xml:ideo filius 
+      <lb ed="#B" n="92"/>Mariae filius altissimi dicitur. In fumum ergo 
+      <lb ed="#B" n="93"/>abit Photinianorum insultus, quod angelus propriar. 
+      <lb ed="#B" n="94"/>et immediatam filiationis causam in conceptione 
+      <lb ed="#B" n="95"/>Christi ex Spiritu s. statuat; Franc. David. in 
+      <lb ed="#B" n="96"/>Coll. Transsylv. aet. diei. 9. lit. F. Socin. contra 
+      <lb ed="#B" n="97"/>Zellar. et Wiek. p. 217: Christus est naturalis Dei 
+      <lb ed="#B" n="98"/>Filius, quia ex Maria virgine est natus Dei Filius 
+      <lb ed="#B" n="99"/>Schmaltz. in exam. 157 errorum, err. 8. p. 6: Chr. 
+      <lb ed="#B" n="100"/>itus est Dei Filius non tantum propter similitudi 
+      <lb ed="#B" n="101"/>nem cum Deo talem et tantam, qualis et quanto 
+      <lb ed="#B" n="102"/>nulli unquam creaturae contigit, sed etiam propte 
+      <lb ed="#B" n="103"/>modum, quo exstitit, qui est miraculosa ejus 
+      con<lb ed="#B" n="104" break="no"/>ceptio. Pisecius in notis ad append. Vilkovian. p. 20. 
+      <lb ed="#B" n="105"/>Christus, quia de Spiritu e. conceptus sola 
+      videlice<lb ed="#B" n="106" break="no"/>divina virtute operante vere et proprie dicitur Dei 
+      <lb ed="#B" n="107"/>Filius, adeo naturalis Dei Filius. Consentit 
+      <lb ed="#B" n="108"/>Vorstius et quidam ex Calvinianis. Atqui si 
+      Chri<lb ed="#B" n="109" break="no"/>stus propter conceptionem ex Spiritu s. esset na 
+      <lb ed="#B" n="110"/>turalis Dei Filius, consequens foret, 1. Spiritum s 
+      <lb ed="#B" n="111"/>esse naturalem Christi patrem propter mutuam 
+      rela<lb ed="#B" n="112" break="no"/>tionem; 2. humanam Christi naturam esse ipsam 
+      dei<lb ed="#B" n="113" break="no"/>tatem, quia genitum producitur ex substantia 
+      gignen<lb ed="#B" n="114" break="no"/>tis et est ejusdem cum gignente naturae, quae 
+      <lb ed="#B" n="115"/>omnia sunt absurda. 3. Certe propter illam conce 
+      <lb ed="#B" n="116"/>ptionem ex Spiritu s. Christus nondum dici potes 
+      <lb ed="#B" n="117"/>naturalis et unigenitus Dei Filius, non enim Den 
+      <lb ed="#B" n="118"/>ex sua substantia genuit eum in utero virginis, sec 
+      <lb ed="#B" n="119"/>ex sola substantia virginis. 7. Distinguendum inter 
+      <lb ed="#B" n="120"/>jenerationis materiam ac modum. Christus secum 
+      <!--548.xml-->
+      <pb ed="#B" n="475"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>dum humanam naturam habet generationem diversam 
+      <lb ed="#B" n="2"/>a nostra non materiae, sed duntaxat modi respecti 
+      <lb ed="#B" n="3"/>ergo ipsius generatio non est tota specie diversa a 
+      <lb ed="#B" n="4"/>nostra, et per consequens, quod dicitur unigenitus 
+      <lb ed="#B" n="5"/>non potest accipi ratione humanitatis, quod a 
+      Spir<lb ed="#B" n="6" break="no"/>tu s. conceptus, quam causam proferunt Photiniam 
+      <lb ed="#B" n="7"/>sed ratione divinitatis, juxta quam ab aeterno est a 
+      <lb ed="#B" n="8"/>Patre genitus. 8. Causam et formale filiationis, sive 
+      <lb ed="#B" n="9"/>propter quod Christus dicatur Dei Filius, in Scriptu 
+      <lb ed="#B" n="10"/>ris referri ad generationem Psalm. 2, v. 7. Joh. . 
+      <lb ed="#B" n="11"/>v. 14. etc., ac nomen filii Dei ita tribui Christo, u 
+      <lb ed="#B" n="12"/>nec angelis nec hominibus eo modo tribui possi 
+      <lb ed="#B" n="13"/>Hebr. 1, v. 5. Frustra igitur proprio arbitrio exeo 
+      <lb ed="#B" n="14"/>gitantur illae causae, propter quas Christus dicatur 
+      <lb ed="#B" n="15"/>Dei Filius, ac inaniter filiationis causa in dilectione 
+      <lb ed="#B" n="16"/>in haereditatis donatione, in aliorum filiorum Dei 
+      <lb ed="#B" n="17"/>Christo denominatione, in resurrectione, in exalta 
+      <lb ed="#B" n="18"/>tione etc. quaeritur, haec enim omnia, in gradu licet 
+      <lb ed="#B" n="19"/>inferiori, piis et fidelibus cum Christo sunt commu 
+      <lb ed="#B" n="20"/>nia et ante illa Christus a Patre coelesti dicitur 
+      <lb ed="#B" n="21"/>Filius dilectus Matth. 3, v. ult., ergo illorum ro 
+      <lb ed="#B" n="22"/>spectu Christus non dicitur nec dici potest μονογεν 
+      <lb ed="#B" n="23"/>παρὰ Πατρὸς καὶ ἥδιος υἱὸς 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e2822">
+               <lb ed="#B" n="24"/>55. Quarta argumentorum classis petitur ex ope 
+      <lb ed="#B" n="25"/>ibus soli Deo propriis, quae cum Christo in 
+      <lb ed="#B" n="26"/>Scripturis tribuantur, utique ex illis vera Christ 
+      <lb ed="#B" n="27"/>deitas efficaciter probatur. Dicta, quae ad hanc 
+      <lb ed="#B" n="28"/>classem pertinent, in duo membra distribui possunt 
+      <lb ed="#B" n="29"/>1. Quaedam loquuntur de operibus divinis in genere 
+      <lb ed="#B" n="30"/>Joh. 5, v. 17: Pater meus usque huc operatur, e 
+      <lb ed="#B" n="31"/>3go operor. v. 19: Quaecunque Pater facit, ταῦτε 
+      <lb ed="#B" n="32"/>καὶ ὁμοίως facit Filius. v. 20: Pater omnia d 
+      <lb ed="#B" n="33"/>monstrat Filio, quae facit. v. 21: Sicut Pate 
+      <lb ed="#B" n="34"/>suscitat mortuos et vivificat, sic et Filius quos vul 
+      <lb ed="#B" n="35"/>vivificat. Joh. 14, v. 13: Quodcunque petieriti 
+      <lb ed="#B" n="36"/>Patrem in nomine meo, hoc faciam. 2. Quaedam 
+      <lb ed="#B" n="37"/>de certis operibus in epecie loquuntur. Tribuitur 
+      <lb ed="#B" n="38"/>enim Filio: 1. Creatio, Gen. I, v. 2. Psalm. 33, v. . 
+      <lb ed="#B" n="39"/>Psalm. 102, v. 26, cum quo conjunge Hebr. 1 
+      <lb ed="#B" n="40"/>v. 1I. Proverb. 8, v. 30. Joh. 1, v. 1. et 3. Col.. 
+      <lb ed="#B" n="41"/>v. 16. Apoc. 3, v. 14. ete. Confer loc. §. 83 
+      <lb ed="#B" n="42"/>2. Conservatio rerum omnium ac gubernatio, Joh. 5. 
+      <lb ed="#B" n="43"/>v. 17. 1. Cor. 8, v. 6. Col. 1, v. 16. Hebr. 1, v. 3. 
+      <lb ed="#B" n="44"/>(potest etiam huc referri dictum Joh. 2, v. 4: in ips 
+      <lb ed="#B" n="45"/>vita erat. Tribuitur enim Filio Dei vita 1. οὑσιωδῶς 
+      <lb ed="#B" n="46"/>essentialiter, quia est αὐτοζωή, ut eandem essentiam 
+      <lb ed="#B" n="47"/>ita quoque eandem vitam cum Patre habens; 
+      <lb ed="#B" n="48"/>2. ὑποστατικῶς, personaliter, quia per aeternam 
+      <lb ed="#B" n="49"/>generationem a Patre accepit vitam, quam habe 
+      <lb ed="#B" n="50"/>in se ipso Joh. 5, v. 26; 3. ἐνεργητικῶς, qui 
+      <lb ed="#B" n="51"/>omnibus viventibus confert et conservat vitam 
+      <lb ed="#B" n="52"/>naturalem, credentibus etiam communicat vitam 
+      <lb ed="#B" n="53"/>spiritualem ete.) 3. Divinorum miraculorum ope 
+      <lb ed="#B" n="54"/>ratio, ut tota historia evangelica testatur. Inter 
+      <lb ed="#B" n="55"/>quae omnia cumprimis eminet, quod se ipsum divint 
+      <lb ed="#B" n="56"/>virtute ex mortuis suscitaverit Joh. 2, v. 19. e. 16 
+      <lb ed="#B" n="57"/>v. 18. 4. Redemtio humani generis Luc. 1. 68. 
+      <lb ed="#B" n="58"/>Matth. 20, v. 28. ete. 3. Missio Spiritus s., Luc 
+      <lb ed="#B" n="59"/>24, v. 49. Joh. 14. v. 16. ete. 6. Misgio angelorum 
+      <!--548.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>Matth. 13, v. 41. Apoc. 1, v. 1. 7. Futurorum ex 
+      <lb ed="#B" n="61"/>nfinita scientia praedictio. ut probat historia evange 
+      <lb ed="#B" n="62"/>lica. 8. Opera gratiae in ecclesia, ad quae perti 
+      <lb ed="#B" n="63"/>nent: electio ad salutem, vocatio, collectio ecclesiae, 
+      <lb ed="#B" n="64"/>constitutio ministerii, institutio sacramentorum, il 
+      <lb ed="#B" n="65"/>luminatio, regeneratio, justificatio, peccatorum remis 
+      <lb ed="#B" n="66"/>sio, renovatio, miranda ecclesiae defensio, in cruce 
+      <lb ed="#B" n="67"/>consolatio, precum exauditio, ad vitam aeternam 
+      <lb ed="#B" n="68"/>resuscitatio, salvatio et glorificatio, quae omnis 
+      <lb ed="#B" n="69"/>Christo in Scripturis tribuuntur 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e2929">
+               <lb ed="#B" n="70"/>56. Circa hanc argumentorum classem in genere 
+      <lb ed="#B" n="71"/>nota 1. Christo tribui tum operum rαviότητα, tur 
+      <lb ed="#B" n="72"/>igendi ὑμοιότητα, tum honoris ἰσότητα JOh. 5, v. 19. 
+      <lb ed="#B" n="73"/>nullam igitur de potentiae inaequalitate vel agendi 
+      <lb ed="#B" n="74"/>diversitate cogitationem hic suscipi debere. Nazian 
+      <lb ed="#B" n="75"/>genus orat. 4. de Theol.: Non xml:ideo dicit ὁμοίω 
+      <lb ed="#B" n="76"/>timiliter, quod operum sit eimilitudo, sed quod 
+      <lb ed="#B" n="77"/>utriusque par sit facultas parque majestas. 2. 
+      Quo<lb ed="#B" n="78" break="no"/>Christus dicit se nihil facere, nisi quod videri 
+      <lb ed="#B" n="79"/>Patrem facientem Joh. 5, v. 19, et quod Pater illi 
+      <lb ed="#B" n="80"/>demonstret omnia, quae facit v. 20, illud non 
+      <lb ed="#B" n="81"/>significat aliquam vel infirmitatem vel operationis 
+      <lb ed="#B" n="82"/>inaequalitatem, sed summam potius et conjunctissi 
+      <lb ed="#B" n="83"/>mam in operatione unitatem. Filius enim videt Patren 
+      <lb ed="#B" n="84"/>facientem et Pater demonstrat Filio opera non 
+      ex<lb ed="#B" n="85" break="no"/>terna quadam visione ac demonstratione, sed interiori 
+      <lb ed="#B" n="86"/>potentiae agendi communione, quia scilicet Pater 
+      om<lb ed="#B" n="87" break="no"/>nia opera cum Filio habet communia, et per aeternam 
+      <lb ed="#B" n="88"/>generationem ut essentiam suam, ita potestater 
+      <lb ed="#B" n="89"/>agendi Filio communicat, Nazianz. d. I. et 
+      Ambro<lb ed="#B" n="90" break="no"/>lib. 4. de fid. c. 3. dicitur Filius videre Patren 
+      <lb ed="#B" n="91"/>facientem seu discere a Patre faciente, quia 
+      scien<lb ed="#B" n="92" break="no"/>tia Filii a Patre est, non per doctrinam, sed gene 
+      <lb ed="#B" n="93"/>rationem, nam xml:idem est DEO scire et esse, proinde 
+      <lb ed="#B" n="94"/>idem est Filio accipere sapientiam et accipere es 
+      <lb ed="#B" n="95"/>sentiam. (Act. 9, v. 16: Ostendam illi, quanta 
+      opor<lb ed="#B" n="96" break="no"/>teat eum pati pro nomine meo. Exod. 33: Osten 
+      <lb ed="#B" n="97"/>dam tibi omne bonum. Psalm. 59: Ostendisti 
+      po<lb ed="#B" n="98" break="no"/>pulo tuo dura.) Damascen. libr. 1. orthod. fid. 
+      <lb ed="#B" n="99"/>. 9: καθάπερ φάμεν διὰ 1οῦ ἐξ αὐτοῦ προερχομένο 
+      <lb ed="#B" n="100"/>φωτὸς φαίνειν τὸ πῦρ καὶ οὐ τιθέμεθα ὅργανον 
+      <lb ed="#B" n="101"/>ὑπουργικὸν εἶναι 1οῦ πυρὸς τὸ ἐξ αὐτοῦ φῶς, δύνα 
+      <lb ed="#B" n="102"/>μιν δὲ μᾶλλον φυσικὴν· οὕτω λέγομεν τὸν πατέρα 
+      <lb ed="#B" n="103"/>τάντα ὅσα ποιεῖ διὰ τοῦ μονογενοῦς αὐτοῦ vίον 
+      <lb ed="#B" n="104"/>ποιεῖν, οὐχ ὡς διʼ ὁργάνου λειτουργικοῦ, ἀλλὰ φυσι¬ 
+      <lb ed="#B" n="105"/>κῆς καὶ ἐνυποστάτου δυνάμεως. Unde etiam 
+      nega<lb ed="#B" n="106" break="no"/>se  quicquam facere posse ἀφ᾽ ἑαυτοῦ, a se ipso, 
+      <lb ed="#B" n="107"/>quia scilicet non est a se ipso, sed operatur ea 
+      po<lb ed="#B" n="108" break="no"/>tentia, quam a Patre per aeternam generationem 
+      <lb ed="#B" n="109"/>accepit. 3. Patrem operari cum Filio et per Filium 
+      <lb ed="#B" n="110"/>non tanquam ipsius instrumentum, sed ut personam 
+      <lb ed="#B" n="111"/>divinam sibi consubstantialem, ut unigenitum Filium 
+      <lb ed="#B" n="112"/>ac essentialem suam virtutem personaliter a se di 
+      <lb ed="#B" n="113"/>stinetam. 4. Ea, quae de Deo praedicantur, 
+      oper<lb ed="#B" n="114" break="no"/>in duplici esse differentia, quaedam sunt αὐτοπρόσ 
+      <lb ed="#B" n="115"/>ωπα καὶ ἀνόργανα, in quibus ipse solus immediato 
+      <lb ed="#B" n="116"/>operatur, tale opus est creatio mundi, quaedam vero 
+      <lb ed="#B" n="117"/>sunt ἀλλοπρόσωηα καὶ ὀργανικά, ad quae creatura 
+      <lb ed="#B" n="118"/>rum ministerium adhibet. Jam vero Christo non 
+      <lb ed="#B" n="119"/>solum tribuuntur opera ἀλλοπρόσωπα καὶ ὀργανικά. 
+      <!--549.xml-->
+      <pb ed="#B" n="476"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>sed etiam αὐτοπρόσωπα καὶ ἀνόργανα, quin et ὑπαρ 
+      <lb ed="#B" n="2"/>κτικά, quae significant exsistentiam, ut quod 
+      si<lb ed="#B" n="3" break="no"/>primus et novissimus, quod sit ipsa vita et verita 
+      <lb ed="#B" n="4"/>quod sit lux vera ete. 5. Longe alia ratione opera 
+      <lb ed="#B" n="5"/>Dei ὀργανικὰ tribui Christo et creaturis. Christe 
+      <lb ed="#B" n="6"/>tribuuntur, ut causae efficienti principali, alias enimn 
+      <lb ed="#B" n="7"/>non ageret ταῦτα καὶ ὁμοίως, creaturis vero ut 
+      cau<lb ed="#B" n="8" break="no"/>sae instrumentali. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e3064">
+               <lb ed="#B" n="9"/>57. In specie circa creationem nota I. quod 
+      opu<lb ed="#B" n="10" break="no"/>creationis tanquam solius Dei proprium ubique in 
+      <lb ed="#B" n="11"/>Scripturis describatur. Job. 9, v. 8. Esa. 44. v. 24. 
+      <lb ed="#B" n="12"/>extendit coelos solus. Jerem. 10, v. 11. Act. 4. 
+      <lb ed="#B" n="13"/>v. 24. Hebr. 3, v. 4. ete. Concidit ergo illud 
+      Vor<lb ed="#B" n="14" break="no"/>stii photinianizantis de Deo p. 225: ex eo, quod 
+      <lb ed="#B" n="15"/>creatio alicui tribuitur, aeternitatem et divinitatem 
+      <lb ed="#B" n="16"/>ejus non posse colligi. II. Quod non solum 
+      pe<lb ed="#B" n="17" break="no"/>Filium dicantur omnia facta, sed etiam in casu recto 
+      <lb ed="#B" n="18"/>tribuatur illi creatio Psalm. 102, v. 26. Hebr. 1. 
+      <lb ed="#B" n="19"/>v. 11: Tu, Domine, fundasti terram. Prov. 8, v. 30. 
+      <lb ed="#B" n="20"/>Quando ponebat fundamenta terrae, eram 
+      artife<lb ed="#B" n="21" break="no"/>cum eo: Confer Esa. 45, v. 23. cum Rom. 14. v. 11. 
+      <lb ed="#B" n="22"/>urgemus dictum generale Joh. 5, v. 19: Quaecunque 
+      <lb ed="#B" n="23"/>facit Pater, ταῦτα καὶ ὁμοίως facit Filius. In 
+      fu<lb ed="#B" n="24" break="no"/>mum igitur abit Photinianorum exceptio, quod 
+      par<lb ed="#B" n="25" break="no"/>ticula per notet causam non primam, sed instru 
+      <lb ed="#B" n="26"/>mentalem, quam exceptionem mutuati sunt a veteri 
+      <lb ed="#B" n="27"/>bus Arianis, ut constat ex Athanas. serm. 3. contr. 
+      <lb ed="#B" n="28"/>Arian., quibus pulchre jam olim respondit Chrysos 
+      <lb ed="#B" n="29"/>hom. 2. in e. 1. Hebr.: Non, ut hacreticus inanites 
+      <lb ed="#B" n="30"/>suspicatur, tanquam aliquod instrumentum Patris 
+      <lb ed="#B" n="31"/>exsistit Filius, neque per eum dicitur fecisse, 
+      tan<lb ed="#B" n="32" break="no"/>quam ipse facere non posset, sed sicut dicitur 
+      <lb ed="#B" n="33"/>Pater judicare per Filium, quia judicem genuit 
+      <lb ed="#B" n="34"/>sic etiam dicitur operari per Filium, quia eum 
+      <lb ed="#B" n="35"/>constat opificem genuisse. Cyrill. lib. 6. thesaur. 
+      <lb ed="#B" n="36"/>c. 3. hoc urget, quod in creatione hominis dicit: 
+      <lb ed="#B" n="37"/>faciamus hominem, quod non est imperantis 
+      infe<lb ed="#B" n="38" break="no"/>riori, alias dixisset facito, sed invitantis parem 
+      <lb ed="#B" n="39"/>III. Quod creationis opus Christo attributum ita 
+      de<lb ed="#B" n="40" break="no"/>scribatur, ut non possit nisi de primaeva coeli ad 
+      <lb ed="#B" n="41"/>terrae creatione accipi 1. Voeatur enim creatio in 
+      <lb ed="#B" n="42"/>sensu absoluto et illiminato sine appendice Ephes 
+      <lb ed="#B" n="43"/>3, v. 9. Col. 1, v. 15. et 16. Apoc. 3, v. 14, sed 
+      <lb ed="#B" n="44"/>quando de secunda creatione sive redemtione ac 
+      re<lb ed="#B" n="45" break="no"/>novatione accipitur, tum appendicis loco vox καινον 
+      <lb ed="#B" n="46"/>vel similis quaedam additur 2. Cor. 5, v. 17. 
+      Ga<lb ed="#B" n="47" break="no"/>6. v. 15. Col. 2. v. 10. Ephes. 4. v. 21. etc. 2. Ac 
+      <lb ed="#B" n="48"/>duntur particulae universales τὸ πᾶν καὶ τὰ πάνιε 
+      <lb ed="#B" n="49"/>Joh. 1, v. 3. Col. 1, v. 16. et 17. Ephes. 3, v. 9. 
+      <lb ed="#B" n="50"/>Hebr. 1, v. 3, ubi articulus in quibusdam dictis ad 
+      <lb ed="#B" n="51"/>ditus singularem habet emphasin, ut colligitur e 
+      <lb ed="#B" n="52"/>2. Macc. 7, v. 28. Rom. 11, v. 36; quando autem 
+      <lb ed="#B" n="53"/>de secunda creatione agitur, tum particulae illae 
+      <lb ed="#B" n="54"/>universales non adduntur, quia opus creationis est 
+      <lb ed="#B" n="55"/>simpliciter universale, opus vero redemtionis ac re 
+      <lb ed="#B" n="56"/>generationis non item, alias sequeretur etiam dis 
+      <lb ed="#B" n="57"/>bolos esse redemtos ac impios homines regenitor 
+      <lb ed="#B" n="58"/>3. Per διαμερισμὸν effectum creationis distribuitur 
+      <lb ed="#B" n="59"/>in creaturas visibiles et invisibiles, qui sunt angel 
+      <lb ed="#B" n="60"/>Col. 1, v. 16; at haec distributio in secunda crea¬ 
+      <!--549.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tione non habet locum, quia angeli non sunt 
+      pe<lb ed="#B" n="62" break="no"/>Christum redemti. 4. Additur expresse exclusivi 
+      <lb ed="#B" n="63"/>Joh. 1, v. 3: Omnia per ipsum facta sunt, et sin 
+      <lb ed="#B" n="64"/>ipso factum est nihil, quod factum est, xml:id quod de 
+      <lb ed="#B" n="65"/>lova creatione accipi nequit. Nam ex hypothes, 
+      <lb ed="#B" n="66"/>Photinianorum in V. T. nondum exstitit Christus 
+      <lb ed="#B" n="67"/>et tamen multi in eo renovati. 5. Ἐξηγήσεως loco 
+      <lb ed="#B" n="68"/>additur, quae omnia per Christum facta dicantur 
+      <lb ed="#B" n="69"/>v. 10: mundus per ipsum factus est. Jam vero 
+      <lb ed="#B" n="70"/>mundus nuspiam pro solis piis accipitur. 6. Operi 
+      <lb ed="#B" n="71"/>creationis conjungitur totius systematis mundi 
+      con<lb ed="#B" n="72" break="no"/>servatio ac gubernatio, quae nihil aliud est quan 
+      <lb ed="#B" n="73"/>quaedam quasi continuatio creationis Col. 1, v. 16. 
+      <lb ed="#B" n="74"/>Hebr. 1, v. 3, quod ipsum evidens est indicium 
+      <lb ed="#B" n="75"/>etiam primaevam creationem Christo attribui. 
+      Con<lb ed="#B" n="76" break="no"/>cidit ergo Photinianorum opinio, quod in illis dicti 
+      <lb ed="#B" n="77"/>de nova creatione sit sermo; Socin. contra Bellarm 
+      <lb ed="#B" n="78"/>p. 339. et in defens. animadv. p. 74. Catech. Racor. 
+      <lb ed="#B" n="79"/>. 87. et 139. Eniedin. p. 161. Schmaltz. in exam. 
+      <lb ed="#B" n="80"/>57. error. p. 12. IV. Quod Christus dicatur prir 
+      <lb ed="#B" n="81"/>ipium omnis creaturae Apoc. 3, v. 14, non mate 
+      <lb ed="#B" n="82"/>riale, quasi ipse quoque sit in ordine creaturarum 
+      <lb ed="#B" n="83"/>sed effectivum, quia omnis creatura ab ipso essend 
+      <lb ed="#B" n="84"/>principium accepit, sicut architectus dicitur princi 
+      <lb ed="#B" n="85"/>pium domus, unde etiam, cum apostolus eum 
+      vo<lb ed="#B" n="86" break="no"/>casset primogenitum omnis creaturae Col. 1, v. 13, 
+      <lb ed="#B" n="87"/>statim addit rationem, quia per ipsum condita sunt 
+      <lb ed="#B" n="88"/>omnia visibilia et invisibilia, ergo ipse non est cres 
+      <lb ed="#B" n="89"/>tura, sed creator; addit etiam: et ipse est ante omnia 
+      <lb ed="#B" n="90"/>at si Christus esset prima creatura et in tempore 
+      <lb ed="#B" n="91"/>acta, debuisset apostolus dicere: et ipse factus es 
+      <lb ed="#B" n="92"/>ante omnia, quod merito urget Basil. libr. 4. cont. 
+      <lb ed="#B" n="93"/>Eunom. p. 349. Concidit ergo objectio Schmalta 
+      <lb ed="#B" n="94"/>in exam. 157. err. p. 12: Cum Christus sit primè 
+      <lb ed="#B" n="95"/>jenitus omnis creaturae, sequitur eum esse 
+      crea<lb ed="#B" n="96" break="no"/>turam 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e3262">
+               <lb ed="#B" n="97"/>58. 2. Circa conserrvationem nota, quod Christu 
+      <lb ed="#B" n="98"/>Hebr. 1, v. 3. dicatur omnia portare, h. e. fovere. 
+      <lb ed="#B" n="99"/>sustentare, conservare, hanc enim vim hujus verbi 
+      <lb ed="#B" n="100"/>esse patet ex Deut. 1, v. 31: Portavit te Dominus 
+      <lb ed="#B" n="101"/>Deus tuus in deserto ete. Deut. 32. v. 11: Ut aquila 
+      <lb ed="#B" n="102"/>portat pullos suos super alas. Esa. 46. v. 3: Por 
+      <lb ed="#B" n="103"/>tamini a me in utero, et quidem portat non quae 
+      <lb ed="#B" n="104"/>dam, sed τὰ πάντα verbo potentiae suae, i. e. 
+      po<lb ed="#B" n="105" break="no"/>tentissimo suo verbo ac nutu. Theoph. observat 
+      <lb ed="#B" n="106"/>netaphoram sumtam esse ab iis, qui digito aliquid 
+      <lb ed="#B" n="107"/>novent et alio transferunt, ut significaverit 
+      aposto<lb ed="#B" n="108" break="no"/>lus, tale tantumque pondus creaturarum adeo citra 
+      <lb ed="#B" n="109"/>negotium a Christo portari, ut nihil bajulare videa 
+      <lb ed="#B" n="110"/>tur, quippe qui solo verbo omnia sustineat. Unde 
+      <lb ed="#B" n="111"/>etiam verbo potest imperare vento et mari Matth. 8. 
+      <lb ed="#B" n="112"/>v. 26, quod est infinitae potentiae opus, qua 
+      Chri<lb ed="#B" n="113" break="no"/>stus ut propria et intrinseca, non autem ut aliem 
+      <lb ed="#B" n="114"/>et instrumentali operatur, quia quaecunque 
+      Pate<lb ed="#B" n="115" break="no"/>facit, eadem ipse facit ὁμοίως Jοh. 5, v. 19. 
+      Con<lb ed="#B" n="116" break="no"/>cidit ergo Socini effugium cont. Bellarm. et Wiek. 
+      <lb ed="#B" n="117"/>c. 8. p. 460, quod φέρειν habeat significationem 
+      <lb ed="#B" n="118"/>potius movendi ac moderandi quam portandi, quod 
+      <lb ed="#B" n="119"/>de rebus intelligentia praeditis, quatenus per Chri¬ 
+      <!--550.xml-->
+      <pb ed="#B" n="477"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>stum reformatae sunt, sermo sit, quod Christus 
+      <lb ed="#B" n="2"/>potentiàm illam non habeat ex se¬ 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e3325">
+               <lb ed="#B" n="3"/>59. 3. Circa miracula nota, quod Christus I. mira 
+      <lb ed="#B" n="4"/>cula facit liberrimo arbitrio, quando et ubi voluerit 
+      <lb ed="#B" n="5"/>Matth. 8, v. 2: si vis, potes me mundare. Joh. 5. 
+      <lb ed="#B" n="6"/>v. 21: Filius quos vult, vivificat. Jam vero hoc 
+      <lb ed="#B" n="7"/>est solius veri Dei proprium, quod possit 
+      facer<lb ed="#B" n="8" break="no"/>omnia quaecunque vult in coelo et in terra Psali 
+      <lb ed="#B" n="9"/>115, v. 3. Psalm. 135, v. 6. Qui non per se et 
+      <lb ed="#B" n="10"/>propria sibique intrinseca virtute, sed aliena a su 
+      <lb ed="#B" n="11"/>periore ex gratia sibi concessa facit miracula, de 
+      e<lb ed="#B" n="12" break="no"/>dici nequit, quod miraculose sanet, ἐὰν θέλῃ, sed e 
+      <lb ed="#B" n="13"/>velit is, a quo eam potestatem ex gratia habet, qui 
+      <lb ed="#B" n="14"/>non tam ex accipientis quam dantis voluntate 
+      fa<lb ed="#B" n="15" break="no"/>cultas agendi pendet. 2. Quod Christus faciat tali 
+      <lb ed="#B" n="16"/>quae nullus hominum fecit vel facere potest, quis 
+      <lb ed="#B" n="17"/>concipi a Spiritu s., nasci ex virgine, propria vir 
+      <lb ed="#B" n="18"/>tute resurgere ipsi soli competit. Joh. 9, v. 32: a se 
+      <lb ed="#B" n="19"/>culo non est auditum, aperire oculos caeci nat 
+      <lb ed="#B" n="20"/>Utimur etiam hac collatione: Christus facit omnio 
+      <lb ed="#B" n="21"/>quae Pater facit Joh. 5, v. 19. et 20; atqui 
+      Pate<lb ed="#B" n="22" break="no"/>quaedam facit, quae nullus hominum fecit nec fa 
+      <lb ed="#B" n="23"/>cere potest, ut apparet ex creatione mundi, ex mis 
+      <lb ed="#B" n="24"/>sione Spiritus s. 3. Quod Christus non modo eadem 
+      <lb ed="#B" n="25"/>faciat, quae Pater, sed etiam ὁμοίως, eodem modo 
+      <lb ed="#B" n="26"/>una et aequali potentia, quam Pater agit. Creder 
+      <lb ed="#B" n="27"/>tes in quibusdam operibus faciunt ταῦτα, quin e 
+      <lb ed="#B" n="28"/>μείζονα Joh. 14, v. 12, sed non ὁμοίως, eo modo 
+      <lb ed="#B" n="29"/>quo Pater et Filius operantur, unde etiam Joh.. 
+      <lb ed="#B" n="30"/>v. 17. operandi modum, quo Filius agit, cum mod 
+      <lb ed="#B" n="31"/>operandi, quo Pater agit, unice conjungit, et a modo 
+      <lb ed="#B" n="32"/>quo reliqui operantur, penitus sejungit. 4. Quod 
+      <lb ed="#B" n="33"/>Christus in miraculis agat potestate et virtute pro 
+      <lb ed="#B" n="34"/>pria, inde miracula facit imperando, dicit mari: 
+      <lb ed="#B" n="35"/>quiesce; dicit obsesso: curde et mute spiritus, eg 
+      <lb ed="#B" n="36"/>praecipio tibi, exi ab illo. Matth. 9, v. 28. ad cae 
+      <lb ed="#B" n="37"/>cos dicit: An creditis, quod ego xml:id facere possim 
+      <lb ed="#B" n="38"/>non dicit, quod possem illud a Patre meo coeles 
+      <lb ed="#B" n="39"/>vobis impetrare. Act. 3, v. 12: Quid miramin 
+      <lb ed="#B" n="40"/>quasi nostra virtute aut pietate hunc fecerimus am 
+      <lb ed="#B" n="41"/>bulare. v. 16: in fide nominis Christi hunc firma 
+      <lb ed="#B" n="42"/>vit ejus nomen. Act. 10, v. 38: Unxit DEUS Jo. 
+      <lb ed="#B" n="43"/>gum Spiritu sancto et virtute, qui pertransiit 
+      ben<lb ed="#B" n="44" break="no"/>faciendo et canando. Jam vero unctio illa Spiritur 
+      <lb ed="#B" n="45"/>Christo secundum divinam naturam non obtingit e; 
+      <lb ed="#B" n="46"/>gratia, sed potius juxta eam habet potestatem 
+      dandi<lb ed="#B" n="47" break="no"/>Spiritum sanctum, ergo etiam potestas operandi 
+      mi<lb ed="#B" n="48" break="no"/>racula juxta divinam naturam ei competit per natu 
+      <lb ed="#B" n="49"/>ram, per aeternam scilicet a Patre generationem 
+      <lb ed="#B" n="50"/>Quod ergo Photiniani urgent, Christum potentiam 
+      <lb ed="#B" n="51"/>faciendi miracula aliunde accepisse, ad illud 
+      pe<lb ed="#B" n="52" break="no"/>distinetionem respondendum. Aliunde accipere vir 
+      <lb ed="#B" n="53"/>tutem et potestatem operandi, duplici modo 
+      accip<lb ed="#B" n="54" break="no"/>tur, vel ut sit xml:idem, quod aliena uti virtute quam 
+      <lb ed="#B" n="55"/>accipiens in se ipso et naturae suae intrinsecam non 
+      <lb ed="#B" n="56"/>habet, et sic aliunde aliquid accipitur ex grati, 
+      <lb ed="#B" n="57"/>donantis, hoc sensu apostoli fecerunt miracula 
+      po<lb ed="#B" n="58" break="no"/>testate aliunde accepta, hoc est, aliena; vel ut signi 
+      <lb ed="#B" n="59"/>ficet propria et intrinseca virtute uti, quam non 
+      <lb ed="#B" n="60"/>donando, sed nascendo ab alio quis acceperit, hoc 
+      <!--550.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>sensu Christus fecit miracula virtute a Patre per 
+      <lb ed="#B" n="62"/>aeternam generationem accepta, ut tamen eam in se 
+      <lb ed="#B" n="63"/>ipso habeat. Quodsi ex posteriore hujus phraseos 
+      <lb ed="#B" n="64"/>sensu Photiniani inferre velint, Christum non agere 
+      <lb ed="#B" n="65"/>in miraculis virtute propria et intrinseca nec esse 
+      <lb ed="#B" n="66"/>verum Deum, pari ratione inferre potero, in huma 
+      <lb ed="#B" n="67"/>nis Filium non agere virtute propria et intrinseca nec 
+      <lb ed="#B" n="68"/>esse verum hominem, quia non habet naturam 
+      hu<lb ed="#B" n="69" break="no"/>manam a se ipso, sed a Patre. Ex quo etiam 
+      ap<lb ed="#B" n="70" break="no"/>paret, magnum esse discrimen inter haec duo, quod 
+      <lb ed="#B" n="71"/>apostoli agant miracula virtute a Deo accepta, et 
+      <lb ed="#B" n="72"/>quod Christus agat miracula virtute a Patre accepta 
+      <lb ed="#B" n="73"/>Apostoli virtutem illam accipiunt ex gratia a 
+      prin<lb ed="#B" n="74" break="no"/>cipio essentialiter a se distincto, et antequam eam 
+      <lb ed="#B" n="75"/>acciperent, non habuerunt, nec in semet ipsis eam 
+      <lb ed="#B" n="76"/>habuerunt; sed Filius Dei virtutem illam accipit per 
+      <lb ed="#B" n="77"/>aeternam generationem et proinde ex nativitate 
+      ac<lb ed="#B" n="78" break="no"/>cipit eam a Patre, cum quo est essentialiter unum 
+      <lb ed="#B" n="79"/>ac proinde non a principio essentiae suae extrinseco 
+      <lb ed="#B" n="80"/>nec dari potest tempus, quo eam non habuerit, quin et 
+      <lb ed="#B" n="81"/>habet eam in semet ipso, Joh. 5, 26. Pater est in 
+      <lb ed="#B" n="82"/>Filio, et Filius in Patro Joh. 14, v. 11. Pater in 
+      <lb ed="#B" n="83"/>Filio manens ipse facit opera v. 12. Pater et F 
+      <lb ed="#B" n="84"/>lius unum gunt Joh. 10, v. 30; utique ergo illa 
+      vir<lb ed="#B" n="85" break="no"/>tus non est Christo extrinsecus adventitia et aliena 
+      <lb ed="#B" n="86"/>sed intrinseca, naturalis et propria. Manet proinde 
+      <lb ed="#B" n="87"/>irmum fixum, quod Christus in miraculis agat 
+      po<lb ed="#B" n="88" break="no"/>testate et virtute sibi naturali et propria; jam vero 
+      <lb ed="#B" n="89"/>illud soli Deo unice competit, Psalm. 77, v. 11. 
+      <lb ed="#B" n="90"/>mutatio haec dextrae excelsi. Psalm. 118, v. 16: 
+      <lb ed="#B" n="91"/>Dextra Domini facit virtutem. 5. Quod Christur 
+      <lb ed="#B" n="92"/>miracula faciat in sui gloriam, quod itidem soli 
+      <lb ed="#B" n="93"/>Deo competit Esa. 42, v. 8. c. 48, v. 11: gloriam 
+      <lb ed="#B" n="94"/>meam alteri non dabo. Sic Joh. 2, v. 11. in mira 
+      <lb ed="#B" n="95"/>culo aquae in vinum conversae manifestat suam 
+      <lb ed="#B" n="96"/>gloriam; Marc. 7, v. 37. patitur se honorari δοξo 
+      <lb ed="#B" n="97"/>λογίᾳ Deo propria, Omnia bene fecit; Joh. 5, v. 23. 
+      <lb ed="#B" n="98"/>Quae Pater facit, Filius ὁμοίως facit, ut omnes 
+      <lb ed="#B" n="99"/>honorificent Filium καθὼς Patrem. Act. 13, v. 13. 
+      <lb ed="#B" n="100"/>post miraculum claudi in nomine Christi sanati dicit 
+      <lb ed="#B" n="101"/>Petrus: Deus patrum nostrorum glorificavit Filium 
+      <lb ed="#B" n="102"/>quum, hoc est, gloria ipsius Christi, non nostra, 
+      pe<lb ed="#B" n="103" break="no"/>hoc miraculum est manifestata. Act. 14, v. 13. 
+      pro<lb ed="#B" n="104" break="no"/>hibet apostolus propter miraculum sibi offerri sacri 
+      <lb ed="#B" n="105"/>ficium, sed Christus spirituale sacrificium laudis et 
+      <lb ed="#B" n="106"/>invocationis sibi deferri permittit. 6. Quod Christus 
+      <lb ed="#B" n="107"/>non solum ipse miracula ediderit, sed etiam 
+      potesta<lb ed="#B" n="108" break="no"/>tem edendi miracula aliis contulerit, qui in ejus 
+      <lb ed="#B" n="109"/>nomine miracula fecisse leguntur, Matth. 10, v. 1. 
+      <lb ed="#B" n="110"/>Marc. 3, v. 13. Luc. 9, v. 1. c. 10, v. 17. Act. 3. 
+      <lb ed="#B" n="111"/>v. 6. c. 9, v. 34. ete. Atqui aliis potestatem 
+      mira<lb ed="#B" n="112" break="no"/>cula faciendi conferre solius Dei est. 7. Quod 
+      <lb ed="#B" n="113"/>Christus miraculis divinis confirmaverit illud, quod 
+      <lb ed="#B" n="114"/>in doctrina sua proposuit, scilicet esse unigenitum 
+      <lb ed="#B" n="115"/>Dei Filium et Patri aequalem. Ex quibus omnibus 
+      <lb ed="#B" n="116"/>exceptiones Photinianorum facili negotio solvi pos 
+      <lb ed="#B" n="117"/>sunt. Christus habet potestatem miracula edendi 
+      <lb ed="#B" n="118"/>κατὰ φύσιν sancti DEI, homines κατὰ χάριν. 
+      Chri<lb ed="#B" n="119" break="no"/>stus facit miracula αὐτοκρατορικῶς καὶ παντοκρατο¬ 
+      <lb ed="#B" n="120"/>ρικῶς, omnipotenter ac principaliter, sancti Dei ho¬ 
+      <!--551.xml-->
+      <pb ed="#B" n="478"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>l. mines διακονικῶς, ministerialiter; Christus agit 
+      po<lb ed="#B" n="2" break="no"/>testate propria et infinita, apostoli aliena et 
+      <lb ed="#B" n="3"/>finito 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e3601">
+               <lb ed="#B" n="4"/>60. 4. Circa redemtionem nota: 1. quod ad 
+      <lb ed="#B" n="5"/>eam requisita fuerit satisfactio divinae justitia 
+      <lb ed="#B" n="6"/>infinitae praestanda et plenaria pro totius mur 
+      <lb ed="#B" n="7"/>di peccatis expiatio, quia infinita Dei justitis 
+      <lb ed="#B" n="8"/>peccatis hominum erat offensa, cui finito aliquo λύτρο 
+      <lb ed="#B" n="9"/>per creaturam finitam praestito satisfieri non poterat 
+      <lb ed="#B" n="10"/>Ambr. lib. 1. de gent. vocat. c. 3: Quod in naturo 
+      <lb ed="#B" n="11"/>periit, non restituitur nisi ab auctore naturae. 
+      Con<lb ed="#B" n="12" break="no"/>fer deliberationem Patris cum Filio in hominis crea 
+      <lb ed="#B" n="13"/>tione Gen. 1, v. 26. et eorundem decretum ac 
+      con<lb ed="#B" n="14" break="no"/>silium de hominum redemtione Psalm. 2. V. 7
+      <lb ed="#B" n="15"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="16"/>Psalm. 110, v. 1. 2. Quod Christus dicatur purga 
+      <lb ed="#B" n="17"/>tionem peccatorum nostrorum fecisse διʼ ἑαυτοῦ, per 
+      <lb ed="#B" n="18"/>se ipsum Hebr. 1, v. 3; xml:id quod solius Dei propriui 
+      <lb ed="#B" n="19"/>esse patet ex Esa. 43, v. 25: Ego ego sum, qui de 
+      <lb ed="#B" n="20"/>leo ete., unde etiam notanter dicitur, quod Deus sue 
+      <lb ed="#B" n="21"/>sanquine redemerit ecclesiam Act. 20, v. 28; et quod 
+      <lb ed="#B" n="22"/>sanquis emundans nos a peccatis sit ipsius Filii 
+      De<lb ed="#B" n="23" break="no"/>canguis 1. Joh. 1, v. 7; inde enim atque xml:ideo per 
+      <lb ed="#B" n="24"/>se ipsum, hoc est virtute sua propria et per pro 
+      <lb ed="#B" n="25"/>prium suum sanguinem, purgationem peccatorum 
+      <lb ed="#B" n="26"/>Christus facere potuit, quia in personae unitate es 
+      <lb ed="#B" n="27"/>verus Deus, cui personaliter proprius erat ille sanguis 
+      <lb ed="#B" n="28"/>in ara crucis effusus. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e3661">
+               <lb ed="#B" n="29"/>61. 5. Circa ecclesiae collectionem nota: 1. quod 
+      <lb ed="#B" n="30"/>Paulus Hebr. 3, v. 3. probet Christum esse Moyse 
+      <lb ed="#B" n="31"/>praestantiorem ex eo, quia πλείονα τιμὴν ἔχει 1οὶ 
+      <lb ed="#B" n="32"/>οἴκου ὁ κατασκευάσὰς αὐτόν, qui domum aedificat 
+      <lb ed="#B" n="33"/>ipsa domo est praestantior. Solus igitur Christus 
+      <lb ed="#B" n="34"/>est summus ecclesiae architectus, qui domum suam 
+      <lb ed="#B" n="35"/>aedificat, h. e. ecclesiam ex genere humano vocat 
+      <lb ed="#B" n="36"/>colligit, super se ipsum construit ac salvat, Paulus in 
+      <lb ed="#B" n="37"/>Cor. 3, v. 10; et ministri ecclesiae dicuntur quidem 
+      <lb ed="#B" n="38"/>architecti, sed non nisi ὀργανικῶς, qui per verbi prae 
+      <lb ed="#B" n="39"/>dicationem se ipsos et alios super Christum unicum 
+      <lb ed="#B" n="40"/>angularem lapidem aedificant Eph. 2, v. 20. 1. Petr. 2. 
+      <lb ed="#B" n="41"/>v. 3. 2. Quod missio Johannis baptistae, praecus 
+      <lb ed="#B" n="42"/>soris Christi, aequali ratione et Patri coelesti Matth. 11 
+      <lb ed="#B" n="43"/>v. 10. Marc. 1, v. 2. et ipsi Christo Mal. 3, v. 1. 
+      <lb ed="#B" n="44"/>adscribatur. Ergo non alia nec inferiori quadam ra 
+      <lb ed="#B" n="45"/>tione mittuntur ministri a Christo et Patre coelesti 
+      <lb ed="#B" n="46"/>unde non solum Pater coelestis, sed etiam Christu 
+      <lb ed="#B" n="47"/>ipse mittere eos dicitur, ut pater familias Matth. 10. 
+      <lb ed="#B" n="48"/>v. 25, ut sponsus ecclesiae ete. 2. Cor. 11, v. 2. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e3707">
+               <lb ed="#B" n="49"/>62. 6. Circa salvationem nota, quod Christus 
+      no<lb ed="#B" n="50" break="no"/>salvet, ut Deus Esa. 35, v. 5. Hos. 1, v. 7; ut 
+      uni<lb ed="#B" n="51" break="no"/>cum salutis fundamentum 1. Cor. 3, v. 11; ut ἀρχν 
+      <lb ed="#B" n="52"/>γὸς τῆς ζωῆς Act. 3, v. 5; ut is, extra quem et sine 
+      <lb ed="#B" n="53"/>quo non est in ullo alio salus Actor. 4, v. 12; ut 
+      <lb ed="#B" n="54"/>ἀρχηγὸς καὶ τελειωτὴς πίσιεως Hebr. 12, v. 2; per 
+      <lb ed="#B" n="55"/>se ipsum Hebr. 1, v. 3; ut omnibus angelis et 
+      homi<lb ed="#B" n="56" break="no"/>nibus longe excellentior Hebr. 1, v. 5; non ut mi 
+      <lb ed="#B" n="57"/>nister fatente Socino contra Bell. et Wiek. p. 462. 
+      <lb ed="#B" n="58"/>sed ut Dominus Actor. 3, v. 36. Impium ergo es 
+      <lb ed="#B" n="59"/>Photinianorum effugium, quod Christus nos serves 
+      <lb ed="#B" n="60"/>ut minister et instrumentum Dei. Soc. p. I. de 
+      <!--551.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Christo Servat. c. 6: quod non ut prima, sed ut se 
+      <lb ed="#B" n="62"/>cunda causa salutem nostram efficiat. Schmalzius 
+      <lb ed="#B" n="63"/>in ex. 157. err. 79. p. 24. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e3746">
+               <lb ed="#B" n="64"/>63. Quintam argumentorum classem petimus ex 
+      <lb ed="#B" n="65"/>divino cultu et honore soli Deo proprio, qui Christo 
+      <lb ed="#B" n="66"/>in Scripturis tribui jubetur, quod probamus I. in 
+      <lb ed="#B" n="67"/>genere. Joh. 5, v. 23: Omnes debent honorare 
+      Fi<lb ed="#B" n="68" break="no"/>lium, sicut honorant Patrem. Socin. in misc. p. 268. 
+      <lb ed="#B" n="69"/>Audis Deum velle, ut Christus honoretur, sicut 
+      ips<lb ed="#B" n="70" break="no"/>honoratur, ex quo aperte intelligitur, Christum eo 
+      <lb ed="#B" n="71"/>honoris genere a nobis afficiendum esse, quo 
+      ips<lb ed="#B" n="72" break="no"/>Deus afficitur; 2. in specie, quia jubemur: 1. in 
+      <lb ed="#B" n="73"/>Christum credere eique confidere Joh. 14. v. 1; 2. in 
+      <lb ed="#B" n="74"/>ipsum sperare Esa. 11, v. 10; 8. ipsum religiose ado 
+      <lb ed="#B" n="75"/>rare Esa. 45, v. 23; confer Rom. 14, v. 9; 4. in no 
+      <lb ed="#B" n="76"/>men ejus baptizamur Matth. 28, v. 29; 5. per ipsum 
+      <lb ed="#B" n="77"/>uramus Rom. 9, v. 1; 6. ipsum aequali ratione 
+      cum<lb ed="#B" n="78" break="no"/>Patre glorificamus Rom. 9, v. 5. Apoc. 5, 13. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e3781">
+               <lb ed="#B" n="79"/>64. Circa hanc classem in genere nota I. quod nos 
+      <lb ed="#B" n="80"/>possit Christus divino honore affici, nisi divina na 
+      <lb ed="#B" n="81"/>tura ei tribuatur. (Qui Christum honore vere divino, 
+      <lb ed="#B" n="82"/>afficiendum esse concedunt, interim ipsum natura 
+      <lb ed="#B" n="83"/>verum Deum esse negant, revera plures Deos esse 
+      <lb ed="#B" n="84"/>eosque colendos esse, statuunt, ut Franc. Dav. contr. 
+      <lb ed="#B" n="85"/>Socin. late probat). Ut enim Deus non nisi ratione 
+      <lb ed="#B" n="86"/>divinae suae naturae Deus est, ita quoque non 
+      <lb ed="#B" n="87"/>nisi divinae naturae ratione divino honore coli 
+      <lb ed="#B" n="88"/>tur; ac Deum colere nihil aliud est quam divina 
+      <lb ed="#B" n="89"/>naturae in eo agnoscere, proinde cui non competi 
+      <lb ed="#B" n="90"/>divina natura, illi non competit honor vere divinus 
+      <lb ed="#B" n="91"/>inde Basil. lib. 4. contra Eunom. recte hoc urget 
+      <lb ed="#B" n="92"/>uod Galatae xml:idololatriae propterea accusantur, quod 
+      <lb ed="#B" n="93"/>ante suam ad Christum conversionem servierint illis 
+      <lb ed="#B" n="94"/>qui φύσει non sunt dii, qui ergo φίσει, natura 
+      e<lb ed="#B" n="95" break="no"/>essentia, non est Deus, ille non est divino honore 
+      <lb ed="#B" n="96"/>colendus, nec divino cultu illi serviendum. 2. Quod 
+      <lb ed="#B" n="97"/>non tam de divini cultus actu, quam de divini cul 
+      <lb ed="#B" n="98"/>tus fundamento ac debito argumentum concludat 
+      <lb ed="#B" n="99"/>neque enim is statim verus Deus est, qui divine 
+      <lb ed="#B" n="100"/>honore afficitur, cum xml:idololatrae creaturas et fictitis 
+      <lb ed="#B" n="101"/>numina divino honore afficiant, sed is verus natur 
+      <lb ed="#B" n="102"/>Deus est, cui vere ob divinam naturam divinus honor 
+      <lb ed="#B" n="103"/>competit, et qui ab ipso Deo in verbo divino honor 
+      <lb ed="#B" n="104"/>affici jubetur. 3. Quod non solum illi, qui est contra 
+      <lb ed="#B" n="105"/>Deum ac Dei adversarius, sed etiam illi, qui est 
+      <lb ed="#B" n="106"/>extra Deum, h. e. qui non est natura verus Deus 
+      <lb ed="#B" n="107"/>divinam suam gloriam sese dare velle neget altissi 
+      <lb ed="#B" n="108"/>mus Esa. 42, v. 8, in Hebraeo enim est 71&amp;, quod 
+      <lb ed="#B" n="109"/>quemvis alium notat; fallit igitur Socinianorum exce 
+      <lb ed="#B" n="110"/>ptio, quod excludatur tantum is, qui Deo contrariu 
+      <lb ed="#B" n="111"/>non autem qui subordinatus. Theoph. Nicol. contra 
+      <lb ed="#B" n="112"/>Borcov. p. 80. Schmalzius contra Smiglec. 4. 
+      Quo<lb ed="#B" n="113" break="no"/>Deus loquatur in futuro, gloriam meam alteri non 
+      <lb ed="#B" n="114"/>labo, et de temporibus N. T. vaticinetur, quando ed 
+      <lb ed="#B" n="115"/>gloriam suam alteri daturum negat. Confer Esa. 12. 
+      <lb ed="#B" n="116"/>v. 8. c. 43, v. 10. 11. c. 46, v. 9. c. 48. v. 11. Cor. 
+      <lb ed="#B" n="117"/>cidit ergo Photinianorum somnium, quod de V.. 
+      <lb ed="#B" n="118"/>temporibus duntaxat sermo sit. Socin. in resp. ac 
+      <lb ed="#B" n="119"/>defens. Frane. David. c. 71. p. 144. Ostor. con¬ 
+      <!--552.xml-->
+      <pb ed="#B" n="479"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Tradel. p. 154. Theoph. Nicol. contra Borc. p. 8. 
+      <lb ed="#B" n="2"/>3. Quod Christo tribuatur eadem gloria, xml:idem hono 
+      <lb ed="#B" n="3"/>idem cultus, qui Patri tribuitur. Concidit ergo Pho 
+      <lb ed="#B" n="4"/>tinianorum blasphemia, quod Christo duntaxat sim 
+      <lb ed="#B" n="5"/>lis gloria tribuatur. Similis illa gloria, quae datu 
+      <lb ed="#B" n="6"/>ei, qui non est natura Deus et infinitum bonum, 
+      di<lb ed="#B" n="7" break="no"/>vinae gloriae magis erit dissimilis, utpote infinite al 
+      <lb ed="#B" n="8"/>ea distans, ratione scilicet objecti ac fundament 
+      <lb ed="#B" n="9"/>quam similis. Divinae gloriae fundamentum, uti 
+      di<lb ed="#B" n="10" break="no"/>ximus, est divina essentia et majestas. Jam ver 
+      <lb ed="#B" n="11"/>Deo quoad essentiam et majestatem nullus ex diis 
+      <lb ed="#B" n="12"/>factis et fictis est similis Psalm. 86, v. 8. Psalm. 88 
+      <lb ed="#B" n="13"/>v. 7; ergo etiam nulla gloria, quantacunque tandem 
+      <lb ed="#B" n="14"/>sit, divinae gloriae similis esse poterit. Concidi 
+      <lb ed="#B" n="15"/>ergo illud, quod Socin. in miscell. p. 267. disputat 
+      <lb ed="#B" n="16"/>Christum honorari ut Dei praefectum, et p. 269. v. 
+      <lb ed="#B" n="17"/>Deo subordinatum. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e3916">
+               <lb ed="#B" n="18"/>65. Circa adorationem in specie nota s. quod assumta 
+      <lb ed="#B" n="19"/>humana natura adoretur non seorsim et solitarie, nec 
+      <lb ed="#B" n="20"/>ex principiis et affectionibus suis essentialibus, sed 
+      <lb ed="#B" n="21"/>quatenus ἐν αὐτῷ τῷ λόγῳ subsistit, ex ejus igitur 
+      <lb ed="#B" n="22"/>προσκυνήσει nihil decedit axiomati. Quicunque re 
+      <lb ed="#B" n="23"/>ligiose adoratur, est verus et aeternus Deus; 2. quod 
+      <lb ed="#B" n="24"/>Christus non solum adorari, sed etiam invocari jubea 
+      <lb ed="#B" n="25"/>tur, quia jubemur in ipsum collocare cordis fidu 
+      <lb ed="#B" n="26"/>ciam, et quidem eodem modo, quo in Patrem 
+      credi<lb ed="#B" n="27" break="no"/>mus Joh. 14. v. I, quae est invocationis fundamen 
+      <lb ed="#B" n="28"/>tum; jubemur ipsius opem et benignitatem implo 
+      <lb ed="#B" n="29"/>rare, quae est invocationis forma, sequimur in Christe 
+      <lb ed="#B" n="30"/>religiose invocando exempla Stephani Actor. 1, v. 5: 
+      <lb ed="#B" n="31"/>Ananiae Act. 9, v. 14. apostoli 2. Cor. 12, v. . 
+      <lb ed="#B" n="32"/>ete. Concidit ergo distinctio Socini contra 
+      Franc<lb ed="#B" n="33" break="no"/>David. c. 24. p. 226: Non est xml:idem adorare quod 
+      <lb ed="#B" n="34"/>invocare. Invocat is, qui in necessitate constitutus 
+      <lb ed="#B" n="35"/>confidenter alienam opem et benignitatem imploro 
+      <lb ed="#B" n="36"/>adorat vero, qui corpus et animam reverenter alicus 
+      <lb ed="#B" n="37"/>tuclinat et coram eo venerabundus procumbit, etiams 
+      <lb ed="#B" n="38"/>nihil ab eo petat. p. 21. De invocatione Christ. 
+      <lb ed="#B" n="39"/>nullum exstat mandatum, adorandum vero Christum 
+      <lb ed="#B" n="40"/>esse non infitiamur. (Blandrata ipse repudiat ho 
+      <lb ed="#B" n="41"/>discrimen, cum adoratio necessario requirat invoca 
+      <lb ed="#B" n="42"/>tionem citante Socino in resp ad Frane. David 
+      <lb ed="#B" n="43"/>p. 142). Cui errori hunc brevem aphorismum oppo 
+      <lb ed="#B" n="44"/>nimus. Quando de religiosa adoratione agitur, tur 
+      <lb ed="#B" n="45"/>ejus est xml:idem objectum, eadem forma, xml:idem funda 
+      <lb ed="#B" n="46"/>mentum, adeoque omnes causde eaedem, quae sunt 
+      <lb ed="#B" n="47"/>invocationis, Joh. 4. v. 23. Actor. 8. v. 27. Apoc. 14 
+      <lb ed="#B" n="48"/>v. 7. etc.; 3. quod talis adoratio Christo tribuatur 
+      <lb ed="#B" n="49"/>quae adorationi sculptilium opponitur Psalm. 97. 
+      <lb ed="#B" n="50"/>v. 7. Hebr. I, v. 6, quaeque ab ipsis angelis Christ. 
+      <lb ed="#B" n="51"/>defertur Hebr. 1, v. 6. Ea vero non est, nec esse 
+      <lb ed="#B" n="52"/>potest alia, quam adoratio religiosa soli Deo debita 
+      <lb ed="#B" n="53"/>4. quod apostoli gratiam et pacem aequaliter a. Patre 
+      <lb ed="#B" n="54"/>et Christo ecclesiis precentur 2. Joh. v. 3, quodque 
+      <lb ed="#B" n="55"/>n δοξολογίαις apostolicis Christus cum Patre aequali 
+      <lb ed="#B" n="56"/>honoris gradu conjungatur, ut in disp. ex bened 
+      <lb ed="#B" n="57"/>eccles. demonstratum; 3. quod invocari per medio 
+      <lb ed="#B" n="58"/>torem duplicem possit habere sensum; vel enim 
+      <lb ed="#B" n="59"/>intelligitur invocatio, quae fit per mediatorem, 
+      tan<lb ed="#B" n="60" break="no"/>quam distinetam personam, et hac ratione concedi¬ 
+      <!--552.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>mus Filium non invocari per mediatorem tanquam 
+      <lb ed="#B" n="62"/>per distinetam a se personam, sed negamus ex 
+      e<lb ed="#B" n="63" break="no"/>vel veram Filii divinitatem vel religiosam ejus in 
+      <lb ed="#B" n="64"/>vocationem labefactari, quia fundamentum religiosae 
+      <lb ed="#B" n="65"/>invocationis consistit in natura divina, quae cum 
+      <lb ed="#B" n="66"/>Filio vere et realiter competat, utique etiam religiosa 
+      <lb ed="#B" n="67"/>invocatio ei debetur. Vel intelligitur invocatio, quae 
+      <lb ed="#B" n="68"/>respectum habet ad satisfactionem et meritum, per 
+      <lb ed="#B" n="69"/>quod genus humanum Deo est reconciliatum, et hac 
+      <lb ed="#B" n="70"/>ratione falsum esse dicimus, quod Filius non invo 
+      <lb ed="#B" n="71"/>cetur per mediatorem, quia in invocatione Filii re 
+      <lb ed="#B" n="72"/>spectus habetur ad satisfactionem et meritum, quod 
+      <lb ed="#B" n="73"/>pse in propria persona praestitit et genus huma 
+      <lb ed="#B" n="74"/>num sibi ipsi reconciliavit, 2. Cor. 5, v. 19. Divina 
+      <lb ed="#B" n="75"/>justitia, cui per Christi mortem satisfactio praestita 
+      <lb ed="#B" n="76"/>est toti trinitati communis. Ergo Christus in assumta 
+      <lb ed="#B" n="77"/>natura etiam sibi ipsi per se ipsum satisfecit. 
+      Fri<lb ed="#B" n="78" break="no"/>volum igitur est argumentum Blandratae in colloo 
+      <lb ed="#B" n="79"/>Trans. a. 1568: Christus non invocatur per 
+      media<lb ed="#B" n="80" break="no"/>torem. Ergo non est verus Deus. (Quidam distin 
+      <lb ed="#B" n="81"/>guunt inter invocationem absolutam et relatam. Ab 
+      <lb ed="#B" n="82"/>solutam vocant, quae dirigitur ad totam trinitatem 
+      <lb ed="#B" n="83"/>absolute, et haec omnino competit tam Filio et 
+      Spi<lb ed="#B" n="84" break="no"/>ritui s., quam Patri, qua ratione omnes tres personae 
+      <lb ed="#B" n="85"/>invocantur per mediatorem; relatam vocant, 
+      qua<lb ed="#B" n="86" break="no"/>dirigitur ad certam aliquam deitatis personam, et 
+      <lb ed="#B" n="87"/>sic invocari per mediatorem ordine quodam competit 
+      <lb ed="#B" n="88"/>primo Patri, qui est velut principium consilii et 
+      or<lb ed="#B" n="89" break="no"/>dinis in placando genere humano, postea etiam 
+      com<lb ed="#B" n="90" break="no"/>petit Filio consilium illud exsequenti, et denique 
+      <lb ed="#B" n="91"/>Spiritui s., quatenus est eadem Patris et Filii et 
+      <lb ed="#B" n="92"/>Spiritus s. voluntas de genere humano redimendo 
+      <lb ed="#B" n="93"/>Sed prior responsio est simplicior: ut divina essentia 
+      <lb ed="#B" n="94"/>ita religiosa invocatio nullos habet gradus. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e4090">
+               <lb ed="#B" n="95"/>66. Antithesis. Qui divinam Christi naturam 
+      im<lb ed="#B" n="96" break="no"/>pugnant, a quibusdam distinguuntur in haereticos 
+      <lb ed="#B" n="97"/>veteres et recentiores, sed cum recentiores haereses 
+      <lb ed="#B" n="98"/>a veteribus motas ex orco suscitent, cumque tempo 
+      <lb ed="#B" n="99"/>ris ratio discrimen proprium et essentiale inter hac 
+      <lb ed="#B" n="100"/>reses neutiquam faciat, xml:ideo praeferenda illa divisio 
+      <lb ed="#B" n="101"/>qua χριστοθεομάχοι, divinitatem Christi directe ne 
+      <lb ed="#B" n="102"/>gantes, in tres distribuuntur classes: 1. quidam sunt 
+      <lb ed="#B" n="103"/>ἀνυπόστατοι, statuentes Christum ante suam ex Maris 
+      <lb ed="#B" n="104"/>nativitatem prorsus non exstitisse. Tales fuere Ce 
+      <lb ed="#B" n="105"/>rinthus et Ebion, de quibus vid. loc. de Deo Patre 
+      <lb ed="#B" n="106"/>et ejus Filio §. 185. et 186. Paulus Samosatenus 
+      <lb ed="#B" n="107"/>et Photinus, de quibus vid. loc. de trib. Elohin. 
+      <lb ed="#B" n="108"/>§. 80. et 81. Artemon docuit, Christum ex virgine 
+      <lb ed="#B" n="109"/>tantum natum et hominem esse, non etiam ex 
+      Deo<lb ed="#B" n="110" break="no"/>quia non sit DEUS, Eusebius lib. 5. c. 27. Quorum 
+      <lb ed="#B" n="111"/>vestigiis nostro tempore insistunt Mahometani et 
+      Pho<lb ed="#B" n="112" break="no"/>tiniani. Mahomet statuit, Christum esse magnum 
+      <lb ed="#B" n="113"/>prophetam et legislatorem, cui Deus animam quam 
+      <lb ed="#B" n="114"/>inspiravit, sed tamen non esse vere DEI Filium 
+      <lb ed="#B" n="115"/>2. Quidam sunt ἐτερούσιοι, agnoscentes in Christo 
+      <lb ed="#B" n="116"/>sublimiorem quandam naturam, quam humanam, 
+      ne<lb ed="#B" n="117" break="no"/>gant tamen ipsum esse Patri ὁμοούσιον et consub 
+      <lb ed="#B" n="118"/>tantialem. Tales fuere Carpocratiani, Basilidiani 
+      <lb ed="#B" n="119"/>Ariani. Vid. loc. de Deo Patré et Filio §. 181 
+      <lb ed="#B" n="120"/>Arius tria potissimum de Filio Dei docebat: 1. ipsum 
+      <!--553.xml-->
+      <pb ed="#B" n="480"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Patri non esse ὁμαιώνιον sive coaeternum. Id habe 
+      <lb ed="#B" n="2"/>tur in epistola Arii ad Eusebium, quam recitat 
+      Ep<lb ed="#B" n="3" break="no"/>phan. haeres. 69. Theodor. lib. 1. c. 3; 2. ipsum 
+      <lb ed="#B" n="4"/>esse creaturam et Patre minorem; 3. non esse De 
+      <lb ed="#B" n="5"/>Filium naturalem, sed adoptivum, ac proinde non 
+      <lb ed="#B" n="6"/>esse Patri ὁμοούσιον. Vide Epist. Arii ad Alexar 
+      <lb ed="#B" n="7"/>drum ibid. Symbolum fidei ipsius apud 
+      Epiphan<lb ed="#B" n="8" break="no"/>hypotheses doctrinae Arianae in Histor. Magdeb 
+      <lb ed="#B" n="9"/>Cen. 4, c. 5. Et quia asseclae Arii δοξολογίαν eo 
+      <lb ed="#B" n="10"/>elesiasticam ad hunc modum immutabant: Gloris 
+      <lb ed="#B" n="11"/>Patri per Filium in Spiritu s. teste Epiphanio 
+      hae<lb ed="#B" n="12" break="no"/>res. 76; concilium Nicaenum hanc perversionem sus 
+      <lb ed="#B" n="13"/>tulit et retineri jussit formam hujus hymni a ten 
+      <lb ed="#B" n="14"/>pore apostolorum ad fideles propagatam, ut 
+      Basis<lb ed="#B" n="15" break="no"/>lib. de Spiritu s. c. 7. et 27. asserit: Gloria Patr. 
+      <lb ed="#B" n="16"/>et Filio et Spiritui s. Et quia Arianis perpetuo in 
+      <lb ed="#B" n="17"/>ore erat ἡν ὅτε οὐκ ἡν, erat tempus, quando 
+      Filiu<lb ed="#B" n="18" break="no"/>non erat, plaeuit concilio pro aeternitate Filii e 
+      <lb ed="#B" n="19"/>Spiritus sancti asserenda addi in δοξολογίᾳ verba 
+      <lb ed="#B" n="20"/>quae sequuntur: Sicut erat in principio et nunc 
+      <lb ed="#B" n="21"/>semper. Confer synodum Vasensem paullo post 
+      <lb ed="#B" n="22"/>Nicaenam celebratam. 3. Quidam sunt ἀνόμοιοι, qui 
+      <lb ed="#B" n="23"/>Christum dicebant ejusdem cum Patre 
+      substantia<lb ed="#B" n="24" break="no"/>non autem aequalis cum eo potentiae. Tales 
+      eran<lb ed="#B" n="25" break="no"/>Aëtius et ipsius discipulus Eunomius. Vide loc 
+      <lb ed="#B" n="26"/>de Deo Patre et Filio §. 189. Post obitum 
+      Ari<lb ed="#B" n="27" break="no"/>ipsius secta in duas haereses fuit divisa. Alii enim 
+      <lb ed="#B" n="28"/>dixerunt Christum esse Patri ὁμοιούσιον, alii hoc ne 
+      <lb ed="#B" n="29"/>garunt. Priores iterum fuerunt duarum classium 
+      <lb ed="#B" n="30"/>quidam existimabant ipsum esse Patri ὁμοιούσιον 
+      <lb ed="#B" n="31"/>κατὰ φύοιν καὶ οὐσίαν, qui propterea dicti sunt Semi 
+      <lb ed="#B" n="32"/>ariani; quidam vero asserebant eum esse ὁμοιούσιον 
+      <lb ed="#B" n="33"/>κατὰ θέλησιν, qui dicti sunt ἑιερούσιοι. Posteriore 
+      <lb ed="#B" n="34"/>tam essentia, quam voluntate Filium Patri inae 
+      <lb ed="#B" n="35"/>qualem esse statuerunt, qui dicti sunt Aëtiani et 
+      <lb ed="#B" n="36"/>Eunomiani. Quomodo Calviniani per varias 
+      hypo<lb ed="#B" n="37" break="no"/>theses sinceritatem doctrinae de vera Filii dei 
+      <lb ed="#B" n="38"/>tate oblique labefactent, ostendimus disput. 3. de 
+      <lb ed="#B" n="39"/>fund. cons. §. 61. et disput. 7. de glor. Dei §. 3. e. 
+      <lb ed="#B" n="40"/>seqq. Quomodo ad Photinianorum argumenta, qui 
+      <lb ed="#B" n="41"/>bus veram Christi deitatem impugnant, responden 
+      <lb ed="#B" n="42"/>dendum sit, ostendimus in Loe. de Deo Patre et 
+      <lb ed="#B" n="43"/>Filio §. 146. et seqq. et in tract. de natura et at 
+      <lb ed="#B" n="44"/>tributis Dei c. 7.
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e4252">
+               <lb ed="#B" n="45"/>67. Hoc loco moventur quaedam quaestiones 
+      <lb ed="#B" n="46"/>I. de divina Filii natura. I. An Filius sit αὐτό 
+      <lb ed="#B" n="47"/>9to5? Terminus est ambiguus, aut enim opponitur 
+      <lb ed="#B" n="48"/>essentiae divinae communicationi, et sic negamu 
+      <lb ed="#B" n="49"/>Christum esse αὐιόθεον, quia essentiam per aetes 
+      <lb ed="#B" n="50"/>nam a Patre generationem accepit; aut opponitu 
+      <lb ed="#B" n="51"/>essentiae divinae inaequalitati, et sic concedimus 
+      <lb ed="#B" n="52"/>Christum esse αὐτόθεον. ** Gregor. de Valent. lib. I. 
+      <lb ed="#B" n="53"/>de Trin. c. 22: Filius, ut est persona, est ex alio; u 
+      <lb ed="#B" n="54"/>simplicissimum ens, non est ex alio.** Christu 
+      <lb ed="#B" n="55"/>vere et se ipso Deus est, non autem a se ipso Deu 
+      <lb ed="#B" n="56"/>est. Vid. disp. 9. de glor. Dei §. 15. loc. de Dec 
+      <lb ed="#B" n="57"/>Patre et Filio §. 179 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e4283">
+               <lb ed="#B" n="58"/>68. 2. An Filius recte possit dici instrumentum 
+      <lb ed="#B" n="59"/>Patris? Inter Arii hypotheses etiam haec numera 
+      <lb ed="#B" n="60"/>tur, quod Pater sibi Filium ut instrumentum fecerit, 
+      <!--553.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ut per eum omnia conderet. Sane etiam pii vetere 
+      <lb ed="#B" n="62"/>ante controversiam ab Ario motam sic locuti sunt 
+      <lb ed="#B" n="63"/>ut apparet ex Iren. libr. 3. c. 8. libr. 4. c. 13. Ter 
+      <lb ed="#B" n="64"/>tull. adv. Prax. c. 12. Euseb. lib. I. Hist. Eccles. c. I. 
+      <lb ed="#B" n="65"/>quorum vestigiis insistit Lutherus in e. Genes. I. p. 3. 
+      <lb ed="#B" n="66"/>Tic, inquit, primum ponit Moyses medium et 
+      instru<lb ed="#B" n="67" break="no"/>mentum, quo Deus Pater in operando usus est, nempe 
+      <lb ed="#B" n="68"/>Verbum, ad quem locum Transsylvanos provocar. 
+      <lb ed="#B" n="69"/>refert Bellarm. lib. 1. de Christo c. 9, eumque nobis 
+      <lb ed="#B" n="70"/>objicit Paraeus in Iren. c. 24. art. 14. p. 146, ut et 
+      <lb ed="#B" n="71"/>Tannerus in anat. August. Confess. demonstr. 2. 
+      <lb ed="#B" n="72"/>§. 24. Goe. part. 2. convers. Pruten. p. 541. objici 
+      <lb ed="#B" n="73"/>nobis Heerbrandum, qui Filium vocaverit instrumes 
+      <lb ed="#B" n="74"/>tum creationis. Sed reponimus ei, quod Aretius in 
+      <lb ed="#B" n="75"/>comm. Rom. 1I, sic vocet. Responderi quidem pot 
+      <lb ed="#B" n="76"/>est ac debet pro defensione piorum veterum a 
+      <lb ed="#B" n="77"/>Lutheri, quod longe alio sensu Ariani quam ortho 
+      <lb ed="#B" n="78"/>doxi Christum appellaverint Patris instrumentum 
+      <lb ed="#B" n="79"/>illi intellexerunt instrumentum separatum, quo sensi 
+      <lb ed="#B" n="80"/>in communi sermone malleus, ensis et similia 
+      extern<lb ed="#B" n="81" break="no"/>et separata actionis media dicuntur instrumenta. Hi 
+      <lb ed="#B" n="82"/>vero intelligunt instrumentum conjunctum et essen 
+      <lb ed="#B" n="83"/>tialiter unitum sermone modificato, quomodo manu 
+      <lb ed="#B" n="84"/>dicuntur instrumentum hominis. Sic Christus 
+      Spiri<lb ed="#B" n="85" break="no"/>tum s. vocat Dei digitum, qui tamen non desini 
+      <lb ed="#B" n="86"/>esse virtus Dei essentialis et causa agendi princi 
+      <lb ed="#B" n="87"/>palis. Quod hoc sensu Lutherus Christum vocaverit 
+      <lb ed="#B" n="88"/>instrumentum, satis aperte declarat, dicit enim: Ver 
+      <lb ed="#B" n="89"/>bum illud non esse materiale nec creatum, sed unius 
+      <lb ed="#B" n="90"/>essentiae cum Patre, xml:id quod ex collatione Gen. I. 
+      <lb ed="#B" n="91"/>cum e. I. Johan. ostendit, ac tom. 3. Jen. Germ. 
+      <lb ed="#B" n="92"/>f. 352. inquit: Deus nihil creat, nisi per verbum 
+      <lb ed="#B" n="93"/>suum, hoc vere est DEI potentia. Nec enim po 
+      <lb ed="#B" n="94"/>tentia DEI securis, serra aut lima est, qua 
+      opere<lb ed="#B" n="95" break="no"/>tur, sed Deus ipse. Interim propter fraudes et cor 
+      <lb ed="#B" n="96"/>ruptelas Photinianorum satius est ab hac phrasi ab 
+      <lb ed="#B" n="97"/>stinere. 1. Verus cum Patre Deus non agit instru 
+      <lb ed="#B" n="98"/>mentaliter. 2. Christus ab angelis, tanquam Dominus 
+      <lb ed="#B" n="99"/>a ministris distinguitur Hebr. 1, v. 14. 3. Christur 
+      <lb ed="#B" n="100"/>Esa. 48. v. II. dicit, propter me hoc faciam, at qui 
+      <lb ed="#B" n="101"/>operatur propter se, non est instrumentum. 4. Chri 
+      <lb ed="#B" n="102"/>stus est principium et finis, A et Q, omnipoten 
+      <lb ed="#B" n="103"/>Apoc. 1, v. 11. 5. Virtus creandi est infinita, nec pot 
+      <lb ed="#B" n="104"/>est esse in instrumento, sed solum in summo et in 
+      <lb ed="#B" n="105"/>inito artifice. Concilium Syrmiense Filium voca 
+      <lb ed="#B" n="106"/>ministrum, xml:id Hilarius lib. de Synod. sic explica 
+      <lb ed="#B" n="107"/>suod ministraverit non ut famulus Domino, sed u 
+      <lb ed="#B" n="108"/>Filius Patri, inter quos licet non inaequalitas 
+      na<lb ed="#B" n="109" break="no"/>turae vel dignitatis, tamen in Patre est auctorita 
+      <lb ed="#B" n="110"/>principii, quae non est in Filic 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e4405">
+               <lb ed="#B" n="111"/>59. Qu. 2. An divinitas Christi nota etiam fuerit. 
+      <lb ed="#B" n="112"/>gentilibus? Bellarm. affirmat, quin lib. 1. de Christo 
+      <lb ed="#B" n="113"/>c. 11. eam probat ex Sibyllis et addit: Sibylle 
+      <lb ed="#B" n="114"/>multa clarius praedixisse, quam ullos prophetarum 
+      <lb ed="#B" n="115"/>Sed mysterium illud judicamus soli ecclesiae in verb 
+      <lb ed="#B" n="116"/>prophetico et apostolico patefactum. Quid de 
+      Si<lb ed="#B" n="117" break="no"/>byllinis oraculis a Lactantio, Augustino et aliis tanto 
+      <lb ed="#B" n="118"/>numero allatis statuendum sit, exponit Casaubonu 
+      <lb ed="#B" n="119"/>contra Baronium 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e4427">
+               <lb ed="#B" n="120"/>10. Qu. 3. An Pater possit dici causa Filii? Graeci 
+      <!--554.xml-->
+      <pb ed="#B" n="481"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>patres termino ἀρχῆς καὶ ulrίου in hoc mysterio pro 
+      <lb ed="#B" n="2"/>miscue utuntur, ut apparet ex Damascen. lib. 1. 
+      <lb ed="#B" n="3"/>orth. fid. e. 9. et 11: ὁ υἱὸς οὐκ ἄναρχος τοῦῖʼ ἔστιν 
+      <lb ed="#B" n="4"/>οὐκ ἀναίτιος, ἐκ τοῦ παιρὸς γάρ. Sed Latini eccle 
+      <lb ed="#B" n="5"/>siae doctores nomen causae repudiant, principii vero 
+      <lb ed="#B" n="6"/>nomine solo utuntur, dicentes, Patrem esse princ 
+      <lb ed="#B" n="7"/>pium sine principio, Filium esse principium de 
+      pri<lb ed="#B" n="8" break="no"/>cipio, unde Scholastici 1. sent. dist. 12. q. 2. com 
+      <lb ed="#B" n="9"/>muni suffragio pronuntiant, quod Pater non eit 
+      caus<lb ed="#B" n="10" break="no"/>Filii, sed principium, quod Filius non eit causo 
+      <lb ed="#B" n="11"/>Spiritus s., sed principium, latius enim patet vor 
+      <lb ed="#B" n="12"/>principii quam causae, ad quam se habet, ut genus 
+      <lb ed="#B" n="13"/>ad speciem, omnis enim causa est principium, sed 
+      <lb ed="#B" n="14"/>non omne principium est causs 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e4469">
+               <lb ed="#B" n="15"/>71. 2. De generatione Filii Dei. Qu. 1. At 
+      <lb ed="#B" n="16"/>propterea Filius sit Patre posterior, quia est e 
+      <lb ed="#B" n="17"/>Patre genitus? Ariani teste Athanas. orat. 2. contr. 
+      <lb ed="#B" n="18"/>Arian. sic soliti fuere cum mulierculis philosophari. 
+      <lb ed="#B" n="19"/>Dic mihi, habuistine Filium, antequam pareres 
+      <lb ed="#B" n="20"/>nullo modo. Ergo tu major es natu, quam Filius 
+      <lb ed="#B" n="21"/>tuus, quis dubitat? At isti (orthodoxi) dicunt, 
+      Pa<lb ed="#B" n="22" break="no"/>trem habuisse Filium, antequam gigneret, nec ess 
+      <lb ed="#B" n="23"/>majorem aetate Filio, quem genuit. Eodem sophis 
+      <lb ed="#B" n="24"/>mate delectantur Photiniani. Sed breviter respor 
+      <lb ed="#B" n="25"/>demus: genitus non est posterior gignente, quand 
+      <lb ed="#B" n="26"/>generatio est aeterna; Just. in qq. et resp. q. 16 
+      <lb ed="#B" n="27"/>p. 313: Nobis exsistentia est, quae generationem 
+      <lb ed="#B" n="28"/>praecedit, generatione exsistentiam subsequente. Deu 
+      <lb ed="#B" n="29"/>autem una cum eo, quod sit, genuit, quocirca apud 
+      <lb ed="#B" n="30"/>DEUM non est postexsistentia geniti, μεθύκαρξι¬ 
+      <lb ed="#B" n="31"/>γεννήματος, quia neque pracexsistentia gignentis 
+      <lb ed="#B" n="32"/>προῦπαρξις γεννήσεως. Athanasius Arianorum so 
+      <lb ed="#B" n="33"/>phismati hanc opponit ἀντερώησιν. Potesne domum 
+      <lb ed="#B" n="34"/>aedificare sine materia? ergone nec Deus potui 
+      <lb ed="#B" n="35"/>mundum condere sine materia? O perditi nebulones, 
+      <lb ed="#B" n="36"/>mulierculas confertis cum Deo. Deus mundum 
+      <lb ed="#B" n="37"/>condidit, sed ut Deus, non ut humanus architectus 
+      <lb ed="#B" n="38"/>et Filium genuit, non ut mulierculae, sed ut Deus 
+      <lb ed="#B" n="39"/>hoc est longe diverso modo quam istae. Et postea 
+      <lb ed="#B" n="40"/>Petendum ab illis est, ut, quemadmodum interroga 
+      <lb ed="#B" n="41"/>verunt mulierem de ratione temporis, sic solem in 
+      <lb ed="#B" n="42"/>terrogent de ipsius jubare et fontem de ipsius aqua 
+      <lb ed="#B" n="43"/>ut addiscant, quod, tametsi ista genita prolesque 
+      <lb ed="#B" n="44"/>sint, una tamen cum illis coëxsistere, unde originem 
+      <lb ed="#B" n="45"/>naturamque traxere. Thom. p. 1. q. 42. art.. 
+      <lb ed="#B" n="46"/>progreditur hoc modo: Ut productum posterius si 
+      <lb ed="#B" n="47"/>producente, triplici ratione accidit: 1. vel quia pro 
+      <lb ed="#B" n="48"/>ducens libere producit, quando scilicet vult; 2. vel 
+      <lb ed="#B" n="49"/>quia producens, licet naturaliter agat, non tames 
+      <lb ed="#B" n="50"/>habet totam suam perfectionem ad agendum etatim 
+      <lb ed="#B" n="51"/>ac est, sed paulatim acquirit et tunc demum agit 
+      <lb ed="#B" n="52"/>3. vel quia producit actione successiva, unde fit 
+      <lb ed="#B" n="53"/>ut productum sit duratione posterius producente 
+      <lb ed="#B" n="54"/>At in productione Filii nihil horum reperitur. Cor 
+      <lb ed="#B" n="55"/>fer Damasc. lib. 1. orth. fid. c. 8. 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e4560">
+               <lb ed="#B" n="56"/>72. Qu. 2. An pater genterit Filium voluntat 
+      <lb ed="#B" n="57"/>an necessitate? Est et haec una ex quaestiunculis 
+      <lb ed="#B" n="58"/>Arianis, quibus orthodoxos exercuerunt. Augustinus 
+      <lb ed="#B" n="59"/>lib. 15. de civit. Dei c. 20. refert catholicum hae 
+      <!--554.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>retico respondisse: Si Pater est Deus, aut volens 
+      <lb ed="#B" n="61"/>est Deus aut nolens. Si volene, voluntate igitur 
+      <lb ed="#B" n="62"/>libera est Deus, non natura, ac proinde potuit non 
+      <lb ed="#B" n="63"/>esse Deus. Si nolens, est igitur miser, quia invitus 
+      <lb ed="#B" n="64"/>est, quod est. Proprie et formaliter loquendo 
+      Pate<lb ed="#B" n="65" break="no"/>nec voluntate nec necessitate genuit, sed natura 
+      <lb ed="#B" n="66"/>Deus volens genuit Filium, quia non coactus, non 
+      <lb ed="#B" n="67"/>amen propterea genuit, quia voluit; si enim 
+      genu<lb ed="#B" n="68" break="no"/>isset, quia voluit, potuisset etiam non gignere, 
+      sic<lb ed="#B" n="69" break="no"/>que Filius potuisset non esse, et per conseq. non 
+      <lb ed="#B" n="70"/>esset Patri aequalis, qui enim potuit non esse, non 
+      <lb ed="#B" n="71"/>est aequalis ei, qui necessario semper est. Non ergo 
+      <lb ed="#B" n="72"/>in necessitate gignendi quaedam violentia, neque in 
+      <lb ed="#B" n="73"/>voluntate quaedam arbitrii libertas ac mutabilitas 
+      <lb ed="#B" n="74"/>cogitetur, sed utraque pro natura, quae et necessi 
+      <lb ed="#B" n="75"/>tas et voluntas in Deo est, accipiatur; Damasc. lib. 
+      <lb ed="#B" n="76"/>I. orthod. fid. c. 8. γέννησις est ἔργον φύσεως, κτίσις 
+      <lb ed="#B" n="77"/>vero est ἔργον θελήσεως. Deus Pater non coactus 
+      <lb ed="#B" n="78"/>nec tamen consilio liberae voluntatis generationem 
+      <lb ed="#B" n="79"/>praecedentis, sed necessitate naturae ab omni tamen 
+      <lb ed="#B" n="80"/>coactione penitus remota generatione perfectissima 
+      <lb ed="#B" n="81"/>simplicissima et aeterna Filium genuit. Thom. d. I: 
+      <lb ed="#B" n="82"/>Pater non generat Filium voluntate, sed natura, 
+      <lb ed="#B" n="83"/>quae ab aeterno perfecta est. De spirituali regene 
+      <lb ed="#B" n="84"/>ratione et adoptione nostra usurpatur vocabulum 
+      <lb ed="#B" n="85"/>θουληθείς Jac. 1, v. 18, sed de aeterna Filii Dei 
+      ge<lb ed="#B" n="86" break="no"/>neratione absolute ac simpliciter dicitur Ps. 2, v. 7: 
+      <lb ed="#B" n="87"/>Ego hodie genui te¬ 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e4637">
+               <lb ed="#B" n="88"/>73. Qu. 3. An generatio Filii Dei sit propria, an 
+      <lb ed="#B" n="89"/>vero metaphorica? Respond. maxime propria: I. quis 
+      <lb ed="#B" n="90"/>est vere et proprie Filius Dei. Ergo etiam generatio 
+      <lb ed="#B" n="91"/>ipsius est maxime propria; 2. quia est generatio 
+      <lb ed="#B" n="92"/>perfecta, plene et perfecte continens, quicquid 
+      per<lb ed="#B" n="93" break="no"/>fectionis est in generatione proprie dicta. Annotabo 
+      <lb ed="#B" n="94"/>hac de re locum egregium ex Granatensi in 
+      fest<lb ed="#B" n="95" break="no"/>Trinit. conc 2: Quod nomen Filii magis proprie, 
+      <lb ed="#B" n="96"/>quam vulgaribus parentum filiis Dei Filio tribuatur. 
+      <lb ed="#B" n="97"/>ex triplici differentia inter hominum filios et Dei 
+      <lb ed="#B" n="98"/>Filium colligitur. Prima differentia est, quod ho 
+      <lb ed="#B" n="99"/>ninum filii xml:ideo nominis hujus veritatem retinent, 
+      <lb ed="#B" n="100"/>quia eorum subetantia et paterna substantia delibata 
+      <lb ed="#B" n="101"/>est, non enim totam patris substantiam, sed eju 
+      <lb ed="#B" n="102"/>particulam ab illis trahunt. At Pater aeternus, non 
+      <lb ed="#B" n="103"/>quidem partem substantiae, cum divinitatis naturo 
+      <lb ed="#B" n="104"/>indivisa sit, sed totam substantiam suam 
+      transfun<lb ed="#B" n="105" break="no"/>dit in Filium. Secunda differentia est, quod, cum 
+      <lb ed="#B" n="106"/>commune filiorum eit non modo parentum speciem aed 
+      <lb ed="#B" n="107"/>etiam orie figuram, mores et ingenium referre, non 
+      <lb ed="#B" n="108"/>caro tamen eos a parentibus degenerare et long. 
+      <lb ed="#B" n="109"/>dissimiles nasci videmus. At in hac altissima gene 
+      <lb ed="#B" n="110"/>ratione Patri Filius in omnibus similis et aequali 
+      <lb ed="#B" n="111"/>est, eadem enim utriusque gloria, eadem majestas, 
+      <lb ed="#B" n="112"/>eadem acternitas, eadem voluntas ete. Tertia 
+      dif<lb ed="#B" n="113" break="no"/>ferentia est, quod pater carnalis nequaquam filium 
+      <lb ed="#B" n="114"/>quatenus homo et rationalia creatura est, sed 
+      qua<lb ed="#B" n="115" break="no"/>tenus animal, generat. Si, homo cum se ipsum mento 
+      <lb ed="#B" n="116"/>comprehendit et intelligit quique ipeius imaginem in 
+      <lb ed="#B" n="117"/>mente format, imago haec per ee subeisteret et 
+      vi<lb ed="#B" n="118" break="no"/>veret, vere hominis Filius diceretur, utpote quad 
+      <!--555.xml-->
+      <pb ed="#B" n="482"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>rationis vi et actione, quae hominis propria est, 
+      ge<lb ed="#B" n="2" break="no"/>nita fuisset, quod tamen in filiorum generatione non 
+      <lb ed="#B" n="3"/>fit, qui non intellectuali, sed corporea vegetanti 
+      <lb ed="#B" n="4"/>animae operatione, quae infima animae nostrae 
+      <lb ed="#B" n="5"/>portio est, generatur; at cum in summo DEO 
+      null<lb ed="#B" n="6" break="no"/>dissimilium partium compositio sit, filius, qui ex eo 
+      <lb ed="#B" n="7"/>nascitur, vere DEUS ex DEO, lumen de lumine 
+      <lb ed="#B" n="8"/>spirituali actione, xml:id est spirituali qui ipsius 
+      con<lb ed="#B" n="9" break="no"/>templatione, quae maxime propria Dei est, procedo 
+      <lb ed="#B" n="10"/>. et generatur. (Sed haec tertia differentia cum qua 
+      <lb ed="#B" n="11"/>dam cautola legenda); 3. quia docente 
+      Damascen<lb ed="#B" n="12" break="no"/>lib. 1. de orth. fid. c. 9. nomen paternitatis, 
+      filial<lb ed="#B" n="13" break="no"/>tatis et processionis non ex nobis ad beatam illam 
+      <lb ed="#B" n="14"/>divinitatem translatum, sed contra inde ad nos tra 
+      <lb ed="#B" n="15"/>ductum. Probatur hoc tum ex eo, quia generatio 
+      <lb ed="#B" n="16"/>Dei est aeterna omnem in humanis generationem 
+      <lb ed="#B" n="17"/>antecedens, tum ex dicto apostoli Eph. 3, v. 14. 
+      <lb ed="#B" n="18"/>Ex Patre coelesti omnis paternitas in coelo et in 
+      <lb ed="#B" n="19"/>terra nominatur. Deus vere generat, sed non humano 
+      <lb ed="#B" n="20"/>modo, quemadmodum vere vivit, imo solus proprie vi 
+      <lb ed="#B" n="21"/>vit, sed non vivit humano modo spirando et 
+      respiramn<lb ed="#B" n="22" break="no"/>do, sed intelligendo et essendo. Ut enim intelligendo 
+      <lb ed="#B" n="23"/>vivit, ita intelligendo generat, Thom. p. 1. q. 33. 
+      <lb ed="#B" n="24"/>art. 2: Generatio per prius dicitur de Deo quam 
+      <lb ed="#B" n="25"/>de creaturis, quia generatio accipit speciem a ter 
+      <lb ed="#B" n="26"/>mino, qui est forma generati, et quanto hic fueri 
+      <lb ed="#B" n="27"/>propinquior formae generantis, tanto verior et per 
+      <lb ed="#B" n="28"/>fectior est generatio, sicut generatio univoca es 
+      <lb ed="#B" n="29"/>perfectior aequivoca, nam de ratione generantis est, 
+      <lb ed="#B" n="30"/>quod generet cibi simile secundum formam, und 
+      <lb ed="#B" n="31"/>hoc ipeum, quod in generatione divina est eadem 
+      <lb ed="#B" n="32"/>forma generantis et geniti, in rebus autem creati 
+      <lb ed="#B" n="33"/>non est eadem numero, sed specie tantum ostendit 
+      <lb ed="#B" n="34"/>quod generatio per prius eit in divinis. Quod 
+      Tho<lb ed="#B" n="35" break="no"/>mas addit, generationem per prius dici de DEC 
+      <lb ed="#B" n="36"/>quam de creaturis, quoad rem significatam, licet non 
+      <lb ed="#B" n="37"/>quoad significandi modum, non probamus, quia 
+      <lb ed="#B" n="38"/>modus significandi respondet modo essendi. 4. Aria. 
+      <lb ed="#B" n="39"/>norum et Photinianorum opinioni favet tropicam e 
+      <lb ed="#B" n="40"/>modificatam generationem in Filio statuere 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e4800">
+               <lb ed="#B" n="41"/>74. Qu. 4. An generatio Filii possit etiam vo 
+      <lb ed="#B" n="42"/>cari creatio? Pii veteres, cum ad locum Proverb 
+      <lb ed="#B" n="43"/>8, v. 22: Dominus ἔκιισέ με, in quo arcem causa 
+      <lb ed="#B" n="44"/>Ariani statuebant, aliter respondere non possent ob 
+      <lb ed="#B" n="45"/>linguae sanctae ignorantiam, in eam devenere opi 
+      <lb ed="#B" n="46"/>nionem, quod generatio Filii Dei certo respectu pos 
+      <lb ed="#B" n="47"/>sit vocari creatio. Athanasius orat. 3. contra Ariai. 
+      <lb ed="#B" n="48"/>in principio disputat, generationem interdum vocari 
+      <lb ed="#B" n="49"/>creationem et creationem generationem, sicut servi 
+      <lb ed="#B" n="50"/>tribuimus aliquando nomen filiorum et filiis nomen 
+      <lb ed="#B" n="51"/>cervorum. 1. Reg. 1, v. 19. Salomo vocatur servus Davi 
+      <lb ed="#B" n="52"/>dis. Job. 38, v. 28: otillas roris quis genuit? Hilarius 
+      <lb ed="#B" n="53"/>in lib. de synodis non longe a principio: Filiun 
+      <lb ed="#B" n="54"/>in Scripturis interdum dici genitum interdum crea 
+      <lb ed="#B" n="55"/>tum, ut utroque vocabulo melius explicetur procesgio 
+      <lb ed="#B" n="56"/>gjus a Patre, quae uno vocabulo vix posset exprim 
+      <lb ed="#B" n="57"/>Nam processio illa dicitur generatio, quae est 
+      com<lb ed="#B" n="58" break="no"/>municatio naturae, quia per eam Pater communi 
+      <lb ed="#B" n="59"/>cat Filio eandem cssentiam, quam ipee habet; rui 
+      <lb ed="#B" n="60"/>aus quia in illa processione nulla cupponitur ma¬ 
+      <!--555.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>teria, quam nostrae generationes supponunt, inde 
+      <lb ed="#B" n="62"/>est, quod vocetur creatio. Hanc Hilarii sententiam 
+      <lb ed="#B" n="63"/>commendat Bellarm. lib. 1. de Christo c. 18, sed 
+      <lb ed="#B" n="64"/>imprudenter; nam. 1. Scriptura nuspiam generatio 
+      <lb ed="#B" n="65"/>nem Filii vocat creationem; 2. si generatio 
+      Fili<lb ed="#B" n="66" break="no"/>est et dici potest creatio, utique etiam Filius ut Deus 
+      <lb ed="#B" n="67"/>lici poterit creatura, xml:id quod totis viribus 
+      conten<lb ed="#B" n="68" break="no"/>derunt Ariani. 3. Essentiale ac perpetuum discrimen 
+      <lb ed="#B" n="69"/>est inter creationem et generationem proprie dictam. 
+      <lb ed="#B" n="70"/>Generatio est ex substantia gignentis proferri, quod 
+      <lb ed="#B" n="71"/>gignitur simile secundum substantiam; sed creatio 
+      <lb ed="#B" n="72"/>et factio est extrinsecus, et non ex substantia 
+      crean<lb ed="#B" n="73" break="no"/>tis et facientis fieri, quod creatur et efficitur et diesi 
+      <lb ed="#B" n="74"/>mile prorsus secundum substantiam, Damasc. lib.. 
+      <lb ed="#B" n="75"/>orth. fid. c. 8: γέννησις μὲν ἐστι τὸ ἐκ τῆς οὐσίας 
+      <lb ed="#B" n="76"/>οὖ γεννῶντος προάγεσθαι τὸ γεννώμενον ὅμοιον καὶ 
+      <lb ed="#B" n="77"/>οὐσίαν (ubi τὸ ὅμοιον in laxiori significatione 
+      acci<lb ed="#B" n="78" break="no"/>pitur, ut etiam convenientiam in esse substantial 
+      <lb ed="#B" n="79"/>notet), κτίσις δὲ καὶ ποίησις τὸ ἔξωθεν, καὶ οὐκ ἐκ τῇ 
+      <lb ed="#B" n="80"/>οὐσίας τοῦ κείζοντος καὶ ποιοῦντος γίνεσθαι τὸ κυ¬ 
+      <lb ed="#B" n="81"/>ζώμενον καὶ ποιούμενον ἀνόμοιον παντελῶς κατʼ οὐ¬ 
+      <lb ed="#B" n="82"/>σίαν, unde infert c. 9. Filium esse ἀγένητον, sed 
+      <lb ed="#B" n="83"/>non ἀγέννηιον. Rationem exponit Athan. Dial.. 
+      <lb ed="#B" n="84"/>de Trinit. p. 152: τὸ μὲν γενητόν ἐστὶ τὸ ἐκ τῆς ὑπο¬ 
+      <lb ed="#B" n="85"/>στάσεως γεννώμενον, τὸ δὲ γεννηνὸν τὸ ἐκ τῆς ἔξοι 
+      <lb ed="#B" n="86"/>σίας τοῦ γεννεσιουργοῦ; 4. quod generatio in huma 
+      <lb ed="#B" n="87"/>nis praesupponit materiam, quae in divina 
+      gencra<lb ed="#B" n="88" break="no"/>tione non habet locum, illud non probat, eam non 
+      <lb ed="#B" n="89"/>esse proprie dictam generationem, distinguendum 
+      <lb ed="#B" n="90"/>enim inter generationem physicam, quae fit in tem 
+      <lb ed="#B" n="91"/>pore, et hyperphysicam sive aeternam, illa est 
+      mu<lb ed="#B" n="92" break="no"/>tatio essentialis et materiam praerequirit, haec vero 
+      <lb ed="#B" n="93"/>omnem mutationem, omnem successionem, omnem 
+      <lb ed="#B" n="94"/>materiam excludit et in sola essentiae communica 
+      <lb ed="#B" n="95"/>tione consistit 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e4926">
+               <lb ed="#B" n="96"/>75. Qu. 5. An Pater ex sua essentia generet Fr 
+      <lb ed="#B" n="97"/>lium? Photiniani huic phrasi extreme sunt infens 
+      <lb ed="#B" n="98"/>Schmaltz. in exam. 157. error. 22. p. 9: Ex impos 
+      <lb ed="#B" n="99"/>sibilibus unum est DEUM ex sua substantia 
+      gene<lb ed="#B" n="100" break="no"/>rare. p. 13. err. 37: Absurdum est et tantum non 
+      <lb ed="#B" n="101"/>blasphemum Deum ex sua substantia generare 
+      <lb ed="#B" n="102"/>Omnium enim theologorum judicio substantia DE. 
+      <lb ed="#B" n="103"/>perfectissimo modo und est, nempe numero. Numero 
+      <lb ed="#B" n="104"/>autem esse unam substantiam et generare aliquid 
+      e<lb ed="#B" n="105" break="no"/>se contradictionem involvere tam certum est, quan 
+      <lb ed="#B" n="106"/>quod certissimum. Consentit Vorstius de Deo p. 24. 
+      <lb ed="#B" n="107"/>et 154: Natura DEI cum aliis prorsue non potem 
+      <lb ed="#B" n="108"/>communicari, nec tota nec ex parte; non tota, quis 
+      <lb ed="#B" n="109"/>indivisibilis, nec ex parte, quia in partes discerpi 
+      <lb ed="#B" n="110"/>nequit. Consentiunt Junius contra Gratian., Sohn. 
+      <lb ed="#B" n="111"/>in exeg. p. 87. Keckerm. in syst. p. 63. Tilenu. 
+      <lb ed="#B" n="112"/>in notis ad Bell. 1. de Christo c. 9: Commodior es 
+      <lb ed="#B" n="113"/>locutio, cum dicimus, Patrem genuisse vel produxiss, 
+      <lb ed="#B" n="114"/>Filium in substantia vel essentia, quam ex substar 
+      <lb ed="#B" n="115"/>tia, ne duas quis essentias imaginetur ete. Sed 
+      <lb ed="#B" n="116"/>urgemus definitionem generationis proprie dictae 
+      <lb ed="#B" n="117"/>Gignere est ex qua cubetantia aliquid producere 
+      si<lb ed="#B" n="118" break="no"/>mile cecundum cssentiam. Inde in symb. Athanas. 
+      <lb ed="#B" n="119"/>Chriotus est DEUS ἐκ τῆς οὐσίας τοῦ Παιρὸς ante 
+      <lb ed="#B" n="120"/>cecula genitus. Observa autem 1. quod Pater e¬ 
+      <!--556.xml-->
+      <pb ed="#B" n="483"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>qua substantia dicatur genuisse Filium non quadam 
+      <lb ed="#B" n="2"/>cosentia vel alienatione vel divisione, neque enim 
+      <lb ed="#B" n="3"/>se ipsum essentia privavit nec partem essentiae 
+      Fili<lb ed="#B" n="4" break="no"/>dedit, sed totius essentiae communicatione, quia to 
+      <lb ed="#B" n="5"/>tam et perfectam suam essentiam per generationem 
+      <lb ed="#B" n="6"/>Filio communicavit eandemque totam sibi retinuit. 
+      <lb ed="#B" n="7"/>quia est infinita; 2. quod phrasis haec opponatur 
+      <lb ed="#B" n="8"/>creationi ex nihilo et formationi ex praejacente 
+      ma<lb ed="#B" n="9" break="no"/>teria diversi generis a producente, Athanas. tom. s. 
+      <lb ed="#B" n="10"/>in epistol. de decret. synodi Nicenae contra haere 
+      <lb ed="#B" n="11"/>sin Arii p. 420. adducit locum ex Theognosto, quem 
+      <lb ed="#B" n="12"/>vocat virum θαυμάσιον, in secundo 
+      hypotyposeon<lb ed="#B" n="13" break="no"/>Non forinsecus aut ex rebus extraneis Filii subetantio 
+      <lb ed="#B" n="14"/>constat neque ex non entibus producitur, sed ex 
+      Po<lb ed="#B" n="15" break="no"/>tria gubetantia ita progenitus est, ut a luce 
+      radiu<lb ed="#B" n="16" break="no"/>etc. Hilarius lib. 3. de Trinit. p. 23: Ingenitus ant 
+      <lb ed="#B" n="17"/>omne tempus ex se Filium genuit, non ex alique 
+      <lb ed="#B" n="18"/>cubjacente materia, quia per Filium omnia; non es 
+      <lb ed="#B" n="19"/>nihilo, quia ex ae Filium; non ut Patrem, quia nihis 
+      <lb ed="#B" n="20"/>in DEO demutabile aut racuum est; 3. quod 
+      Pate<lb ed="#B" n="21" break="no"/>non dicatur Filium ex sua essentia genuisse tanquas 
+      <lb ed="#B" n="22"/>ex materia, sed tanquam ex principio producente 
+      <lb ed="#B" n="23"/>ut per hanc phrasin potius excludatur omnis materia. 
+      <lb ed="#B" n="24"/>unde quidam malunt sic loqui: Pater in essentio 
+      <lb ed="#B" n="25"/>unitate genuit Filium, ne duae essentiae 
+      introduc<lb ed="#B" n="26" break="no"/>videantur, sed utraque phrasis commode adhiber 
+      <lb ed="#B" n="27"/>potea 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e5048">
+               <lb ed="#B" n="28"/>76. Qu. 6. An Filius cogitatione a Patre 
+      gen<lb ed="#B" n="29" break="no"/>tus oit? Flacius p. 1. Clav. col. 1249. hanc phrasin 
+      <lb ed="#B" n="30"/>improbat in Philippo et Osiandro. Philipp. in 
+      refu<lb ed="#B" n="31" break="no"/>Serveti: Aeternus Pater est veluti mens, hic sese in 
+      <lb ed="#B" n="32"/>tuens et perfecte cognoscens cogitatione illa gigni 
+      <lb ed="#B" n="33"/>quam imaginem, nos formamus imagines 
+      evanescen<lb ed="#B" n="34" break="no"/>tes, sed ipse gignit imaginem non evanescentem, se 
+      <lb ed="#B" n="35"/>ὑφισταμένην καὶ ὁμοούσιον. Quidam hisce eam im 
+      <lb ed="#B" n="36"/>pugnant argumentis: 1. est ἄγραφος; 2. si intuitu 
+      <lb ed="#B" n="37"/>Patris Filius genitus est, concedendum erit etiam 
+      <lb ed="#B" n="38"/>Spiritum s. habere Filium, aut negandum Spiritum? 
+      <lb ed="#B" n="39"/>intueri Filium; 3. Irenaeus veteribus haereticis 
+      ho<lb ed="#B" n="40" break="no"/>commentum tribuit. Sed tota antiquitas utitur 
+      ha<lb ed="#B" n="41" break="no"/>comparatione. Ut conceptus mentis a mente gignitu, 
+      <lb ed="#B" n="42"/>et in mente manet, unde manat; sic Filius a Patre 
+      <lb ed="#B" n="43"/>genitus est et in Patre semper manet. Ut absque 
+      <lb ed="#B" n="44"/>passione cogitatio procedit a mente, sic Filii gene 
+      <lb ed="#B" n="45"/>ratio est ἀπαθής. Distinguendum igitur inter qualem 
+      <lb ed="#B" n="46"/>cunque mysterii hujus illustrationem, quam pii vete 
+      <lb ed="#B" n="47"/>res in hac phrasi sibi propositam habuerunt insistem 
+      <lb ed="#B" n="48"/>tes vestigiis Scripturae, quae Filium vocat Λόγον, 
+      <lb ed="#B" n="49"/>etiam ante creationem jam inde ab ultima aetern 
+      <lb ed="#B" n="50"/>tate, et perfectam ac plenam modi generationis di 
+      <lb ed="#B" n="51"/>terminationem, quam hac phrasi exprimi posse nem, 
+      <lb ed="#B" n="52"/>dixerit, Hilarius lib. 3. de Trin. p. 29: Ut inenarra 
+      <lb ed="#B" n="53"/>bilis est Pater in eo, quod ingenitus est, ita 
+      enar<lb ed="#B" n="54" break="no"/>rari Filius in eo, quod unigenitus est, non potess 
+      <lb ed="#B" n="55"/>quia ingeniti est imago, qui genitus est. Athanasiu 
+      <lb ed="#B" n="56"/>serm. 8. cont. Arian: Indecorum est quaerere, quo 
+      <lb ed="#B" n="57"/>modo ex DEO Verbum eit, aut quomodo sit DE. 
+      <lb ed="#B" n="58"/>oplendor, aut quomodo gignat DEUS, et quis ei 
+      <lb ed="#B" n="59"/>modus generationis DEI. Insanierit enim, qui tali 
+      <lb ed="#B" n="60"/>auderet, quoniam rem ineffabilem et propriam di¬ 
+      <!--556.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>vinae naturae et duntaxat ipei ac Filio quo cogni 
+      <lb ed="#B" n="62"/>tam verbis interpretari conatur 
+      </p>
+            <p xml:id="zef3dd-d1e964-d1e5131">
+               <lb ed="#B" n="63"/>77. Usus practicus est consolatorius. Christus 
+      <lb ed="#B" n="64"/>est verus Deus, ergo I. conveniens mediator propter 
+      <lb ed="#B" n="65"/>quam ad Deum et homines οἰκείωσιν, Iren. lib. 8. 
+      <lb ed="#B" n="66"/>c. 20; 2. ergo perfectus redemtor propter infinitam 
+      <lb ed="#B" n="67"/>obedientiae et satisfactionis efficaciam ex personae 
+      <lb ed="#B" n="68"/>infinitate descendentem; 3. ergo sufficientiesimus. 
+      <lb ed="#B" n="69"/>defensor propter divinam suam virtutem; 4. erg. 
+      <lb ed="#B" n="70"/>efficacissimus intercessor propter suam cum Patre 
+      <lb ed="#B" n="71"/>ὁμοουσίαν, J0h. 11, v. 42: semper me audis; 5. ergo 
+      <lb ed="#B" n="72"/>plenissimus salvator propter salutem et vitam 
+      essen<lb ed="#B" n="73" break="no"/>tialiter ipsi competentem, Iren. lib. 4. adv. haer. 
+      <lb ed="#B" n="74"/>c. 59. p. 291: Quomodo possunt calvari Ebionitae 
+      <lb ed="#B" n="75"/>nisi Deus est, qui calutem illorum super terram 
+      <lb ed="#B" n="76"/>pperatus est? In illo vita, ab illo vita, ex ipsius 
+      <lb ed="#B" n="77"/>plenitudine omnes accipere poscumus, sicut ex fonte 
+      <lb ed="#B" n="78"/>aquae hauriuntur, ut tamen perpetuo aquis exuberet 
+      <lb ed="#B" n="79"/>In cujus manibus securius ac firmius salus nostra 
+      <lb ed="#B" n="80"/>reposita est, quam quae coelum ac terram condide 
+      <lb ed="#B" n="81"/>runt Esa. 45, v. 2; in quibus ab aeterno descripti 
+      <lb ed="#B" n="82"/>sumus Esa. 49, v. 16; ex quibus nemo vel nos vel 
+      <lb ed="#B" n="83"/>alutem nostram rapere potest Joh. 10, v. 29. eto 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

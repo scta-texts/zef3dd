@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="243"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e566"><!-- zef3dd-l2c1 -->
+            <head xml:id="zef3dd-d1e566-Hd1e101">Caput 1</head>
+            <head xml:id="zef3dd-d1e566-Hd1e103" type="question-title">ETYMOAOTIAN nominum divinorum</head>
+            <p xml:id="zef3dd-d1e566-d1e106">
+      <!--316.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="58"/>CAPUT I. 
+      <lb ed="#B" n="59"/>ETYMOAOTIAN NOMINUM DIVI 
+<lb ed="#B" n="60"/>NORUM PERTRACTAT 
+  </p>
+            <p xml:id="zef3dd-d1e566-d1e119">
+               <lb ed="#B" n="61"/>7. Jehovah proprium Dei nomen deducitur a 
+      <lb ed="#B" n="62"/>*77*3 fuit, exstitit, quam derivationem ostendit Deus 
+      <lb ed="#B" n="63"/>pse Exod. 3. v. 14. ubi rogatus a Moyse de suo 
+      <lb ed="#B" n="64"/>nomine respondet )&amp; qa&amp; :&amp;, ero qui ero 
+      <lb ed="#B" n="65"/>ΙΧΧ ἐγὼ εἰμὶ ὁ ὧν, ego sum, qui est. Et dicebat 
+      <lb ed="#B" n="66"/>Sic dices filiis Israël *)7&amp; ero ὁ ὧν, qui est, misi 
+      <lb ed="#B" n="67"/>me ad vos. v. 15: Et dicebat amplius Deue ad 
+      <lb ed="#B" n="68"/>Moysen: Sic dices filiis Israël, Jehovah κύριος Deut 
+      <lb ed="#B" n="69"/>patrum vestrorum, Deus Abraham, Deus Isaac e 
+      <lb ed="#B" n="70"/>Deus Jacob, misit me ad vos, hoc est 2qu nomen 
+      <lb ed="#B" n="71"/>meum in aeternum. Ex quo intelligitur xml:idem esse 
+      <lb ed="#B" n="72"/>777&amp; ero et *1717) ens sive essentia, cui addendum 
+      <lb ed="#B" n="73"/>tertium 17) quod est contractum ex Jehovah. Quem 
+      <lb ed="#B" n="74"/>admodum igitur a prix per literam heemanthicam 
+      <lb ed="#B" n="75"/>formatur nomen proprium prix, ab 2pΣ eadem 
+      <lb ed="#B" n="76"/>catione deducitur nomen 2937; sic a radice τ177 
+      <lb ed="#B" n="77"/>vel 11317 (quia literae Ehevi sunt εὑμετάβολοι litera 
+      <lb ed="#B" n="78"/>in5 mutata) per literam8 nominum propriorum 
+      <lb ed="#B" n="79"/>formativam deducitur nomen Jehovah solius 
+      veri<lb ed="#B" n="80" break="no"/>Dei proprium. Hieronymus ab Oleastro Lusitanus 
+      <lb ed="#B" n="81"/>hanc etymologiam ab ipso Deo monstratam praeter 
+      <lb ed="#B" n="82"/>nittit deducens ab 177r7 contritio, pernicies, ut sit, 
+      <lb ed="#B" n="83"/>notatio ab affectu, sed etymologiam illam merito 
+      <lb ed="#B" n="84"/>rejicimus. Apoc. 1, v 4 exponitur hoc nomen 
+      tri<lb ed="#B" n="85" break="no"/>bus vocibus, ὁ ὧν, ὁ ἡν καὶ ὁ ἐρχόμενος sive tαὰ 
+      <lb ed="#B" n="86"/>μενος, quia enim Hebraei praeterito saepius utuntur 
+      <lb ed="#B" n="87"/>pro praesenti et futuro, xml:ideo –17r3 de omnibus 
+      tribu<lb ed="#B" n="88" break="no"/>emporibus exponi potest, quamvis juxta 
+      gramma<lb ed="#B" n="89" break="no"/>ticam proprietatem –717 fuit, 17712 erit et 77 
+      <lb ed="#B" n="90"/>ans significet
+  </p>
+            <p xml:id="zef3dd-d1e566-d1e187">
+               <lb ed="#B" n="91"/>8. Denotat igitur vox Jehovah 1. Dei αὐθύπαρξιν 
+      <lb ed="#B" n="92"/>quod per se subsistat, nec ab alio nec in alio 
+      sub<lb ed="#B" n="93" break="no"/>nistentiam habeat, cum reliqua omnia entia sint ab 
+      <lb ed="#B" n="94"/>pso, in ipso et per ipsum. Hieron. in c. 3. Eph. 
+      <lb ed="#B" n="95"/>Ego sum, qui sum, ego solus cum, quia colus e 
+      <lb ed="#B" n="96"/>me ipso habeo esse, solus sum, quia ab alio non 
+      <lb ed="#B" n="97"/>tum creatus. Deus verissime maximeque proprie 
+      <lb ed="#B" n="98"/>licitur esse, quia ex se ipso habet esse, nec est aliuo 
+      <lb ed="#B" n="99"/>quam suum esse. 2. eminentiam super omnes 
+      crea<lb ed="#B" n="100" break="no"/>turas. Quolibet nomine determinatur aliquis modus 
+      <lb ed="#B" n="101"/>essentiae, sed hoc nomen Jehova ὁ ὧν, qui est, nul 
+      <lb ed="#B" n="102"/>lum modum essendi determinat, sed se habet inde 
+      <lb ed="#B" n="103"/>terminate, ut significetur Deum esse ens supra e 
+      <lb ed="#B" n="104"/>ultra omnia creata. 3. creaturarum a Deo 
+      depen<lb ed="#B" n="105" break="no"/>dentiam. Quod est ex se et per se tale, causa est 
+      <lb ed="#B" n="106"/>eorum, quae sunt talia per participationem. Deus 
+      <lb ed="#B" n="107"/>ideo vocatur Jehovah et ὁ ων, quia non solum ipse 
+      <lb ed="#B" n="108"/>est, sed etiam omnibus entibus est causa essendi, 
+      <lb ed="#B" n="109"/>est essentia omnium essentiarum, ipsum pelagus 
+      <lb ed="#B" n="110"/>essentiae infinitum et immensum. Bernh. lib. 5. de 
+      <lb ed="#B" n="111"/>consid. ad Eugen: Deus est, quod est, xml:id est, suum 
+      <lb ed="#B" n="112"/>ipsius et omnium aliarum rerum esse ipse eibi, ipec 
+      <lb ed="#B" n="113"/>omnibus est ac per hoc quodammodo solus est 
+      <lb ed="#B" n="114"/>Confer Nasianzenum in illud: Ego sum, qui sum 
+      <!--317.xml-->
+      <pb ed="#B" n="244"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>4. Dei immutabilitatem. Quae mutantur, desinum 
+      <lb ed="#B" n="2"/>esse quod erant; et incipiunt esse, quod non erant 
+      <lb ed="#B" n="3"/>solus Deus quia est immutabilis, xml:ideo absolute est ens 
+      <lb ed="#B" n="4"/>August. 8. de c. D. c. 11. cirea fin: Qui est, misit 
+      me<lb ed="#B" n="5" break="no"/>tanquam in ejus comparatione qui vere est, quia in 
+      <lb ed="#B" n="6"/>commutabilis est, ea, quae mutabilia facta sunt, non 
+      <lb ed="#B" n="7"/>gint. Nulla creatura dicere potest, sum quod sum 
+      <lb ed="#B" n="8"/>quia non est per se ipsam, nec in se ipsa, sed perpe 
+      <lb ed="#B" n="9"/>tuae mutationi obnoxia. Ps. 102, v. 27: Coeli 
+      per<lb ed="#B" n="10" break="no"/>bunt, tu autem stabis, illi mutabuntur e erma 
+      <lb ed="#B" n="11"/>tu autem ipse, tu xml:idem es, σὺ ὁ αὐτὸς εἰ Heb. i. 
+      <lb ed="#B" n="12"/>v. 12. 5. Dei aeternitatem. Id solum est, quod 
+      <lb ed="#B" n="13"/>aeternum est, in temporalibus praeterita transierunt 
+      <lb ed="#B" n="14"/>praesentia avolant, futura nondum adsunt, solu 
+      <lb ed="#B" n="15"/>Deus, quia aeternus, xml:ideo simpliciter est ens, und 
+      <lb ed="#B" n="16"/>R. Moyses Gerundensis in comm. Exod. 3. dici 
+      <lb ed="#B" n="17"/>quod Jehovah significet talem exsistentiam, quae no 
+      <lb ed="#B" n="18"/>praeteriit nec praeteribit. Infinitas etiam notatur 
+      <lb ed="#B" n="19"/>cum enim habet esse a se, non potuit ei etiam de 
+      <lb ed="#B" n="20"/>terminari. 6. Dei simplicitatem. Omnia creata 
+      sum<lb ed="#B" n="21" break="no"/>composita, si non ex materia et forma, tamen e 
+      <lb ed="#B" n="22"/>actu et potentia, ex esse et essentia, solius autem De 
+      <lb ed="#B" n="23"/>esse est ejus essentia, ergo ipsi soli convenit nome 
+      <lb ed="#B" n="24"/>ipsius essentiae. Sicut verbum SUM est irresolu 
+      <lb ed="#B" n="25"/>bile omniumque verborum simplicissimum, omnia enim 
+      <lb ed="#B" n="26"/>verba in illud resolvi possunt, ipsum vero in nihi 
+      <lb ed="#B" n="27"/>sic omnia ad Deum referuntur, ipse vero ad nihil 
+      <lb ed="#B" n="28"/>Quicquid in Deo est, non est Dei accidens, sed ipsui 
+      <lb ed="#B" n="29"/>esse. Ergo est ens simplicissimum. 7. Dei verite 
+      <lb ed="#B" n="30"/>tem, quia Deus dat esse vale et complementum 
+      sui<lb ed="#B" n="31" break="no"/>promissis, cujus etymologiae ratio proponitur Exod. 6 
+      <lb ed="#B" n="32"/>v. 3. Esa. 43. v. 19. 8. Dei ab xml:idolis differentiam 
+      <lb ed="#B" n="33"/>Idola sunt 25758 non dii, sed solus Deus et 
+      <lb ed="#B" n="34"/>Jehovah vere exsistens Deus. Justinus in paraenet 
+      <lb ed="#B" n="35"/>ad gentes p. 15: Ego, inquit, sum exsistens ille 
+      <lb ed="#B" n="36"/>se ipsum scil. non exsistentibus opponens, ut, qui ante 
+      <lb ed="#B" n="37"/>hac seducti in errorem fuerant, intelligerent no 
+      <lb ed="#B" n="38"/>exsistentibus se, sed minime prorsus exsistentibus 
+      di<lb ed="#B" n="39" break="no"/>animum intendisse. 9. Drusius in comm. Deu 
+      <lb ed="#B" n="40"/>e. 23. notat hoc nomen denotare miserationum pro 
+      <lb ed="#B" n="41"/>prietatem, legi autem per vocem Elohim proprieta 
+      <lb ed="#B" n="42"/>tem judicii significantem, ut innuat Deum in judicie 
+      <lb ed="#B" n="43"/>misericordem esse 
+      </p>
+            <p xml:id="zef3dd-d1e566-d1e342">
+               <lb ed="#B" n="44"/>9. De hac Dei appellatione Plato in Aegypto 
+      al<lb ed="#B" n="45" break="no"/>quid audiit, unde in Timaeo docet solum Deui 
+      <lb ed="#B" n="46"/>proprie esse, cetera vero, quae oriuntur, mutantu 
+      <lb ed="#B" n="47"/>et intereunt, verius non esse quam esse; in Sophist 
+      <lb ed="#B" n="48"/>ac Parmenide Deum vocat τὸ ὅν, ac in Theaetet 
+      <lb ed="#B" n="49"/>dicit, quod quaelibet res creata plus habeat 
+      no<lb ed="#B" n="50" break="no"/>entis, quam entis, sic homo tantum habet esse 
+      hom<lb ed="#B" n="51" break="no"/>nis, sed non habet esse coeli, angeli aliarumqu 
+      <lb ed="#B" n="52"/>creatarum rerum omnium, solus vero Deus haber 
+      <lb ed="#B" n="53"/>esse omnium. In templi Apollinis Delphici foribu 
+      <lb ed="#B" n="54"/>inscriptum erat 1. γνώθι σεαυτόν, quo Deus templum 
+      <lb ed="#B" n="55"/>ingredientes admonebat, ut se ipsos noscerent. 2. e 
+      <lb ed="#B" n="56"/>tu es, quo ingressuri quasi respondentes solum Deum 
+      <lb ed="#B" n="57"/>esse confitebantur. Ludov. Vives in lib. 8. Augus 
+      <lb ed="#B" n="58"/>de civ. Dei c. 11. Eugubinus memorat, in templi 
+      <lb ed="#B" n="59"/>Aegyptiorum haec Dei verba fuisse inscripta: Eg. 
+      <!--317.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>sum omne, quod fuit, quod est, quod futurum eat 
+      <lb ed="#B" n="61"/>velum meum nemo unquam revelavit 
+      </p>
+            <p xml:id="zef3dd-d1e566-d1e388">
+               <lb ed="#B" n="62"/>10. Elohim (quod R. Aben Ezra dicit esse nomer 
+      <lb ed="#B" n="63"/>potestatis, non substantiae) descendit a singula 
+      <lb ed="#B" n="64"/>Elodh, quod exstat Job. 4, v. 9. e. 12,5 v. 4 ete 
+      <lb ed="#B" n="65"/>in regimine Eloe. 1. Quidam deducunt ab 58 
+      <lb ed="#B" n="66"/>fortis in plurali Elim et inserta litera * ex nomine 
+      <lb ed="#B" n="67"/>tetragrammato Elohim, quia Deus est omnium for 
+      <lb ed="#B" n="68"/>tissimus et potentissimus. 2. Alii ab 12&amp; juravit. 
+      <lb ed="#B" n="69"/>quia per nomen Dei jurandum, si ipsius gloria xml:id 
+      <lb ed="#B" n="70"/>exigat. 3. Quidam ab S&amp; et τ12&amp; conjunctim 
+      sum<lb ed="#B" n="71" break="no"/>tis nomen Eloah formatum putant, quia Deus per 
+      <lb ed="#B" n="72"/>suam potentiam creaturas conservat et per hoc sibi 
+      <lb ed="#B" n="73"/>quasi juramento eas adstrinxit ad obedientiam et 
+      <lb ed="#B" n="74"/>cultum. 4. Quidam ab 2&amp; fortitudo, robur 
+      <lb ed="#B" n="75"/>5. R. Nachaman dictum esse putat quasi nt 58 xml:id 
+      <lb ed="#B" n="76"/>est, robur eorum, quae scil. creata sunt, eo quod si 
+      <lb ed="#B" n="77"/>virtus virtutum. Sed nulla ex his etymologiis gram 
+      <lb ed="#B" n="78"/>maticae regulis exacte congruit, ab 78 derivari 
+      <lb ed="#B" n="79"/>non permittit punctatio, quia zere non mutatur in 
+      <lb ed="#B" n="80"/>saegol, et? mappicatum in fine vocis 75&amp; 
+      osten<lb ed="#B" n="81" break="no"/>dit, quod 8 sit radicalis litera, sunt ergo tantur 
+      <lb ed="#B" n="82"/>allusivae, et rectius dicitur, quod 11&amp; sit nomer 
+      <lb ed="#B" n="83"/>primitivum. R. Manahem Recanatensis ex El e 
+      <lb ed="#B" n="84"/>Jah compositum esse putat et ridiculam addit ob 
+      <lb ed="#B" n="85"/>servationem: Si tollas (inquit) literas nominis tetro 
+      <lb ed="#B" n="86"/>grammati, remanet e28 mutus, nam homo sine 
+      <lb ed="#B" n="87"/>Deo tam mutus est, quam piscis. Rabbini nomer 
+      <lb ed="#B" n="88"/>Elohim a Jehova sic distinguunt, quod Elohim si 
+      <lb ed="#B" n="89"/>gnificet 77 nam qualitatem sive proprietatem 
+      ju<lb ed="#B" n="90" break="no"/>dicii, Jehovah vero Svia a proprietatem 
+      mi<lb ed="#B" n="91" break="no"/>sericordiae, xml:idque colligunt ex Psal. 56, v. 11: I. 
+      <lb ed="#B" n="92"/>Elohim laudabo verbum, in Jehovah laudabo 
+      ver<lb ed="#B" n="93" break="no"/>bum, xml:id est, laudabo Deum sive justo judicio me 
+      <lb ed="#B" n="94"/>castiget, sive misericordiam in beneficiis mihi 
+      ex<lb ed="#B" n="95" break="no"/>hibeat. Rectius dicitur, quod Jehovah notet 
+      essen<lb ed="#B" n="96" break="no"/>tiam, Elohim vero notet attributa, quod illud sit 
+      <lb ed="#B" n="97"/>absolutum, hoc relativum, unde Exod. 3, v. 15 et 
+      <lb ed="#B" n="98"/>alibi passim conjunguntur Jehovdh elohe, dicitur enim 
+      <lb ed="#B" n="99"/>Deus Elohim, quatenus est creator, gubernator, 
+      con<lb ed="#B" n="100" break="no"/>servator omnium rerum, judex et vindex universo 
+      <lb ed="#B" n="101"/>rum, gratiam et auxilium praestans piis, justitiam et 
+      <lb ed="#B" n="102"/>vindietam impiis, unde in descriptione creationis 
+      <lb ed="#B" n="103"/>Moyses Deum voeat Elohim, ut intelligamus eundem 
+      <lb ed="#B" n="104"/>esse mundi creatorem, qui est ejus conservator a 
+      <lb ed="#B" n="105"/>rerum omnium gubernator, ac moneamur cuncta in 
+      <lb ed="#B" n="106"/>creatione sapienter et juste ab illo esse disposita 
+      <lb ed="#B" n="107"/>et suum cuique convenienter ab hoc judice attra 
+      <lb ed="#B" n="108"/>butum 
+      </p>
+            <p xml:id="zef3dd-d1e566-d1e492">
+               <lb ed="#B" n="109"/>11. Graecum θεόs quidam derivant ab Hebraeo? 
+      <lb ed="#B" n="110"/>I sufficientia, quia Deus ad Abrahamum dicit? 
+      <lb ed="#B" n="111"/>Gen. 17, v. 1: Ego sum 7E 5&amp; Deus omnipotens 
+      <lb ed="#B" n="112"/>mihi sufficiens, nullius indigus. Alii Graecae vocis! 
+      <lb ed="#B" n="113"/>Graecam originem malunt quaerere, sed et ips 
+      <lb ed="#B" n="114"/>sententiis plurimum variant. Quidam enim a θέειν. 
+      <lb ed="#B" n="115"/>quod est currere, eam formant. Plato in 
+      Cratyl<lb ed="#B" n="116" break="no"/>p. 314: Videntur primi homines Graeci θεούς existi 
+      <lb ed="#B" n="117"/>masse solem, lunam, sidera, quae cum viderent per 
+      <lb ed="#B" n="118"/>petuo cursu ferri θεούς nominasse, deinde et 
+      ceteri<lb ed="#B" n="119" break="no"/>idem nomen tribuisse. Quidam ἀπὸ 1οῦ θεᾶσθαι 
+      <!--318.xml-->
+      <pb ed="#B" n="245"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>spectare eam derivant, ut Basilius epist. 141. tom. 2. 
+      <lb ed="#B" n="2"/>p. 111. et Gregor. Nyssenus ad Ablabium p. 94, quia 
+      <lb ed="#B" n="3"/>DEUS est spectator et praefectus summae rerum 
+      <lb ed="#B" n="4"/>Utramque etymologiam conjungit Dionysius lib. d. 
+      <lb ed="#B" n="5"/>div. nomin. c. 12: Deus appellatur θεός, quod cunct 
+      <lb ed="#B" n="6"/>perspiciat mirabili providentia et bonitate et circun 
+      <lb ed="#B" n="7"/>omnia currat cunctaque contineat, et se ipso repleat 
+      <lb ed="#B" n="8"/>omnia atque universa transcendat, quae providentia 
+      <lb ed="#B" n="9"/>illius utuntur. Quidam ἀπὸ τοῦ αἴθειν ab urend. 
+      <lb ed="#B" n="10"/>deducunt, ut Naxianz. orat. 2. de Filio p. 262: 
+      pro<lb ed="#B" n="11" break="no"/>pterea quod Deus habitus vitiosos consumat. Tre 
+      <lb ed="#B" n="12"/>illas derivationes conjungit Damasc. lib. 1. orth. fio 
+      <lb ed="#B" n="13"/>c. 12: ὅνομα θεὸς λέγεται ἐκ τοῦ θέειν καὶ περιί 
+      <lb ed="#B" n="14"/>πειν τὰ σύμπαντα, quod percurrat ac disponat uni 
+      <lb ed="#B" n="15"/>versa Ps. 138. v. 8. Es. 66, v. I. c. 8, 1. quod omnis 
+      <lb ed="#B" n="16"/>ambiat, omnia in se complectatur, omnibus ad 
+      auxi<lb ed="#B" n="17" break="no"/>liandum accurrat, ἢ ἐκ τοῦ αἴθειν, ὅ εστι καίειν, 
+      <lb ed="#B" n="18"/>γὰρ θεὸς πῦρ κατανάλισκον πᾶσαν κακίαν ἔστι 
+      <lb ed="#B" n="19"/>Deut. 4. v. 24. Heb. 12, v. 29. ἢ ἀπὸ τοῦ θεᾶσθα 
+      <lb ed="#B" n="20"/>τὰ πάντα, ἀλάθηιος γάρ ἔστι, καὶ πάντων ἐποπτής 
+      <lb ed="#B" n="21"/>ete. Clemens Alexandr. lib. 1. Stromat. in fin. Grae 
+      <lb ed="#B" n="22"/>cis θεόν dictum putat παρὰ τὴν θέσιν a 
+      position<lb ed="#B" n="23" break="no"/>ordine et administratione, omnia enim numero, 
+      men<lb ed="#B" n="24" break="no"/>sura et pondere disposuit Sap. 11, v. 21. Quidam 
+      <lb ed="#B" n="25"/>deducunt ab Aeolico δεύς, quod respondet verbi 
+      <lb ed="#B" n="26"/>ζεύς, quo ethnici suum Jovem appellant. Latinur 
+      <lb ed="#B" n="27"/>Deus plerique a Graeco δέoς timor, metus ete. de 
+      <lb ed="#B" n="28"/>rivant, quia Deum pii et impii timent, illi serviliter 
+      <lb ed="#B" n="29"/>hi filialiter; illi propter supplicia, hi propter bene 
+      <lb ed="#B" n="30"/>ficia et judicia. Ambr. lib. 1. de fid. e. 1: sic verus 
+      <lb ed="#B" n="31"/>Deus dicitur timor Isaaci, xml:id est, quem timet et 
+      <lb ed="#B" n="32"/>colit Isaacus Genes. 31, v. 53. Alii a dando malunt 
+      <lb ed="#B" n="33"/>deducere, quia a Deo omne bonum et perfectum 
+      <lb ed="#B" n="34"/>donum descendit Jac. 1, v. 17. Alii ad Hebraeum 
+      <lb ed="#B" n="35"/>*7, sufficientia, recurrunt. Sed rectius dicitur Grae 
+      <lb ed="#B" n="36"/>cum, θεός et Latinum Deus esse voces primitivas, 
+      <lb ed="#B" n="37"/>quod ipsum etiam de vocabulo Germano Gott 
+      di<lb ed="#B" n="38" break="no"/>cimne 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

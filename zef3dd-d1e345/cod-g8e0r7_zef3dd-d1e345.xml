@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="155"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e345"><!-- zef3dd-l1c17 -->
+            <head xml:id="zef3dd-d1e345-Hd1e101">Caput 17</head>
+            <head xml:id="zef3dd-d1e345-Hd1e103" type="question-title">De fine et effectu Scripturae sacrae</head>
+            <p xml:id="zef3dd-d1e345-d1e106">
+               <lb ed="#B" n="66"/>CAPUT XVII. 
+    <lb ed="#B" n="67"/>DE FINE ET EFFECTU 
+      SCRIPTU<lb ed="#B" n="68" break="no"/>RAE SACRAE 
+</p>
+            <p xml:id="zef3dd-d1e345-d1e115">
+               <lb ed="#B" n="69"/>362. Egimus hactenus de causa efficiente, mato 
+      <lb ed="#B" n="70"/>riali ac formali, Scripturae sacrae; restat ut de 
+      <lb ed="#B" n="71"/>ejusdem fine breviter disseramus. Finis Scripturae 
+      <lb ed="#B" n="72"/>consideratur vel respectu Dei, vel respectu nostri. Ro 
+      <lb ed="#B" n="73"/>spectu Dei finis Scripturae est salutaris Dei agnitio 
+      <lb ed="#B" n="74"/>et glorificatio, xml:ideo enim Deus in verbo suo primum 
+      <lb ed="#B" n="75"/>viva voce praedicato, postea in literas redacto ses 
+      <lb ed="#B" n="76"/>patefecit, ut ab hominibus juxta essentiam et volum 
+      <lb ed="#B" n="77"/>tatem suam recte agnitus, in hac et aeterna vit 
+      <lb ed="#B" n="78"/>celebretur. Quando ex verbo Dei bonitatem, 
+      poten<lb ed="#B" n="79" break="no"/>tiam et sapientiam agnoscimus, ac mysterium 
+      salu<lb ed="#B" n="80" break="no"/>tis nostrae ab aeterno dispositum et in tempore 
+      re<lb ed="#B" n="81" break="no"/>velatum pie meditamur, non possumus non ex illa 
+      <lb ed="#B" n="82"/>agnitione et meditatione in amorem Dei excitari, ex 
+      <lb ed="#B" n="83"/>quo porro summi illius boni celebratio et glorificatio 
+      <lb ed="#B" n="84"/>in cordibus nostris oritur 
+      </p>
+            <p xml:id="zef3dd-d1e345-d1e152">
+               <lb ed="#B" n="85"/>363. Respectu nostri finis est vel intermedius, vel 
+      <lb ed="#B" n="86"/>ultimus. Intermedii fines exponuntur ab apostole 
+      <lb ed="#B" n="87"/>Rom. 15, v. 4. 2. Timoth. 3, v. 16, quod sint διδα 
+      <lb ed="#B" n="88"/>σκαλία, ἔλεγχος, ἐκανόρθωσις, παιδεία μe παράκλησες 
+      <lb ed="#B" n="89"/>Ideo enim Scriptura sacra humano generi tradit 
+      <lb ed="#B" n="90"/>est, ut medelam exhibeat contra morbum per lapsum 
+      <lb ed="#B" n="91"/>protoplastorum introductum, et ut hominem 
+      redda<lb ed="#B" n="92" break="no"/>perfectum ad omne opus bonum instructum. Jam 
+      <lb ed="#B" n="93"/>vero triplici potissimum morbo ac malo per et pro 
+      <lb ed="#B" n="94"/>pter originale peccatum subjectum est genus huma 
+      <lb ed="#B" n="95"/>num. Sumus enim in veri cognitione caeci ac rudes 
+      <lb ed="#B" n="96"/>in boni actione remissi ac desides; in mali tolerantia 
+      <lb ed="#B" n="97"/>infirmi et impatientes; illi malo medetur Scriptura 
+      <lb ed="#B" n="98"/>per διδασκαλίαν, isti per παιδείαν, huic per παρά 
+      <lb ed="#B" n="99"/>κλησιν. Nec solum in veri cognitione sumus caeci 
+      <lb ed="#B" n="100"/>ac rudes, sed etiam ad errores excogitandos vel 
+      <lb ed="#B" n="101"/>amplexandos proni ac praecipites, cui malo medetur 
+      <lb ed="#B" n="102"/>Scriptura per ἔλεγχον. Nec solum in boni actione 
+      <lb ed="#B" n="103"/>sumus remissi ac segnes, sed etiam ad male agen 
+      <lb ed="#B" n="104"/>dum promti et proclives, cui malo Scriptura mede 
+      <lb ed="#B" n="105"/>tur per ἐπανόρθωσιν. Ex adverso tria sunt vere 
+      pi<lb ed="#B" n="106" break="no"/>et Christiani hominis officia, videlicet verum 
+      cogno<lb ed="#B" n="107" break="no"/>scere, bonum agere, mala tolerare, unde etiam tres 
+      <lb ed="#B" n="108"/>praecipuae ac cardinales Christiani hominis nume 
+      <lb ed="#B" n="109"/>rantur virtutes, fides, caritas ac spes. Ad fidem 
+      <lb ed="#B" n="110"/>pertinet cognitio veri, ad caritatem actio boni, ac 
+      <lb ed="#B" n="111"/>spem tolerantia mali. Sed quia veri cognitio non 
+      <lb ed="#B" n="112"/>subsistit absque remotione falsi, nec boni actio 
+      lo<lb ed="#B" n="113" break="no"/>cum habet, nisi recedatur a malo sive peccato, inde 
+      <lb ed="#B" n="114"/>in universum quinque officia requiruntur in 
+      Chri<lb ed="#B" n="115" break="no"/>stianae pietatis perfectione, videlicet διδασκαλίε 
+      <!--229.xml-->
+      <pb ed="#B" n="156"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>καὶ ἔλεγχος ad veri cognitionem; παιδεία καὶ ἐπανόρ 
+      <lb ed="#B" n="2"/>θωσις ad boni actionem; παράκλησις ad patientem 
+      <lb ed="#B" n="3"/>mali tolerationem respectum habens, ad quae omni 
+      <lb ed="#B" n="4"/>non utilis solum, sed etiam sufficiens est Scriptura 
+      <lb ed="#B" n="5"/>ut hominem perfectum reddere merito dicatur. Cor 
+      <lb ed="#B" n="6"/>fer Method. studii theol. part. 2. sect. 4. c. 2. 
+      </p>
+            <p xml:id="zef3dd-d1e345-d1e242">
+               <lb ed="#B" n="7"/>364. Nimirum Scriptura sacra est 1. Dei cathedra 
+      <lb ed="#B" n="8"/>ex qua ad nos loquitur. Hebr. 1. v. 1: Multifarian 
+      <lb ed="#B" n="9"/>ac multis modis olim locutus est Deus patribus 
+      <lb ed="#B" n="10"/>per prophetas, in novissimis diebus his locutus es 
+      <lb ed="#B" n="11"/>nobis in Filio ac per Filium, cujus conciones in 
+      <lb ed="#B" n="12"/>scriptis Evangelistarum annotatae exstant. 2. 
+      De<lb ed="#B" n="13" break="no"/>schola, in qua nos erudit et informat. Ps. 94, v. 12. 
+      <lb ed="#B" n="14"/>Beatus vir, quem erudieris, Domine, et e lege tua 
+      <lb ed="#B" n="15"/>docueris eum. 3. Dei ἰατρεῖον et spiritualis 
+      rerum<lb ed="#B" n="16" break="no"/>medicarum officina. Sap. 16, v. 12: Non herba, nec 
+      <lb ed="#B" n="17"/>malagma sanavit eos, sed tuus, Domine, serm 
+      <lb ed="#B" n="18"/>omnia canans. 4. Dei πανοπλίaα et armamentarium 
+      <lb ed="#B" n="19"/>in quo munit et armat nos contra omnis generi 
+      <lb ed="#B" n="20"/>hostes. Eph. 6, v. 17: Assumite gladium Spiritus 
+      <lb ed="#B" n="21"/>quod est verbum Dei. 5. Dei manus, qua nos 
+      pe<lb ed="#B" n="22" break="no"/>semitas fidei et justitiae ducit ad vitam aeternam 
+      <lb ed="#B" n="23"/>Ps. 48, v. 15: Ducet nos sicut juventutem. In He 
+      <lb ed="#B" n="24"/>braeo est usque ad mortem. Ultimus enim ac sum 
+      <lb ed="#B" n="25"/>mus respectu nostri Scripturae finis est nostra ss 
+      <lb ed="#B" n="26"/>lus ac vita aeterna. Johan. 5, v. 39: Scrutamin 
+      <lb ed="#B" n="27"/>Scripturas, quia putatis, vos vitam aeternam in illis 
+      <lb ed="#B" n="28"/>habere. c. 20, v. 31: Haec scripta sunt, ut credatis 
+      <lb ed="#B" n="29"/>et per fidem habeatis vitam in nomine Christ 
+      <lb ed="#B" n="30"/>2. Tim. 3, v. 15: Sacrae literae poseunt te σορίσαι 
+      <lb ed="#B" n="31"/>ad calutem. Ideo enim Deus in verbo suo 
+      ses<lb ed="#B" n="32" break="no"/>revelavit, xml:ideo per hoc verbum suum homines in 
+      <lb ed="#B" n="33"/>veritate instruit, ad bene operandum impellit, ac 
+      <lb ed="#B" n="34"/>toleranda adversa hortatur, ut salutis aeternae 
+      tam<lb ed="#B" n="35" break="no"/>dem fiant participes 
+</p>
+            <p xml:id="zef3dd-d1e345-d1e307">
+               <lb ed="#B" n="36"/>365. Referenda ad hunc locum omnia 
+      Scriptura<lb ed="#B" n="37" break="no"/>dicta, quae de divina verbi efficacia in hominibus 
+      <lb ed="#B" n="38"/>convertendis, illuminandis, regenerandis et 
+      salvan<lb ed="#B" n="39" break="no"/>dis testantur Psal. 19, v. 9. Joh. 5, v. 39. Rom.. 
+      <lb ed="#B" n="40"/>v. 16. 1. Timoth. 4, v. 16. 1. Petr. 1, v. 23 ete 
+      <lb ed="#B" n="41"/>Cum enim inter verbum Dei scriptum et nonscri 
+      <lb ed="#B" n="42"/>ptum nullum reale discrimen intercedat, xml:ideo hono 
+      <lb ed="#B" n="43"/>rifica illa de verbi efficacia ac fructu praeconis 
+      <lb ed="#B" n="44"/>merito etiam ad Scripturam sacram pertinere 
+      cen<lb ed="#B" n="45" break="no"/>sentur. Sicut per scriptionem verbum non desiit 
+      <lb ed="#B" n="46"/>esse divinum, ita quoque non desiit esse efficax 
+      <lb ed="#B" n="47"/>conversionis et salutis organum, proinde quod 
+      <lb ed="#B" n="48"/>Rom. 10, v. 17 fides ex auditu esse dicitur, xml:id 
+      no<lb ed="#B" n="49" break="no"/>accipiendum est exclusive, ut auditus verbi praedi 
+      <lb ed="#B" n="50"/>cati opponatur lectioni verbi scripti, sed 
+      inclusiv<lb ed="#B" n="51" break="no"/>ut per verbum non solum auditum, sed etiam lectum 
+      <lb ed="#B" n="52"/>Deus ad fidem et salutem efficax statuatur, cur 
+      <lb ed="#B" n="53"/>idem sit et maneat verbum sive praedicetur et 
+      au<lb ed="#B" n="54" break="no"/>diatur, sive scribatur et legatur, unde notanter dicit 
+      <lb ed="#B" n="55"/>Johannes de historia evangelica in literas redacta, 
+      <lb ed="#B" n="56"/>adeoque de tota V. et N. T. Scriptura: Haec scripto 
+      <lb ed="#B" n="57"/>sunt, ut credatis. Joh. 20, v. ult. Haec ccribimus 
+      <lb ed="#B" n="58"/>vobis, ut gaudium vestrum eit perfectum 1. Johan. 1. 
+      <lb ed="#B" n="59"/>v. 4. Ergo etiam ex scripto Dei verbo per lectionem 
+      <lb ed="#B" n="60"/>et meditationem ad usum translato fides et spiri¬ 
+      <!--229.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tuale gaudium, et consequenter salus aeterna hau 
+      <lb ed="#B" n="62"/>riri potest. Confer ea, quae contra Suenkfeldianos 
+      <lb ed="#B" n="63"/>eisque ὁμοψήφους Weigelianos in art. de ministerio 
+      <lb ed="#B" n="64"/>Ecclesiast. § 249. et seqq. late sunt disputata 
+      </p>
+            <p xml:id="zef3dd-d1e345-d1e377">
+               <lb ed="#B" n="65"/>366. Effectus ergo Scripturae sunt iidem qui 
+      <lb ed="#B" n="66"/>verbi divini, a quo realiter ac materialiter eam 
+      mi<lb ed="#B" n="67" break="no"/>nime differre superius evicimus. Sunt autem eximia, 
+      <lb ed="#B" n="68"/>coelestia et vere divina beneficia, quae Deus per 
+      <lb ed="#B" n="69"/>verbum suum, ac proinde etiam per Scripturam 
+      <lb ed="#B" n="70"/>hominibus communicat, videl. 1. veram et salutaren 
+      <lb ed="#B" n="71"/>Qui agnitionem. Matth. 11, v. 26: Nemo novit Po 
+      <lb ed="#B" n="72"/>trem, nisi Filius, et cui voluerit Filius revelare 
+      <lb ed="#B" n="73"/>Joh. 1, v. 18: Deum nemo vidit unquam, Filius 
+      <lb ed="#B" n="74"/>qui est in sinu Patris, nobis revelavit etc. 
+      Jun<lb ed="#B" n="75" break="no"/>lib. 4, c. 10: Quoniam impossibile erat eine 
+      De<lb ed="#B" n="76" break="no"/>liscere Deum, per verbum suum docet homines scire 
+      <lb ed="#B" n="77"/>Deum. In hoc lumine videmus lumen Ps. 36. 
+      <lb ed="#B" n="78"/>5. 10: in lumine verbi lumen divinae agnitionis 
+      <lb ed="#B" n="79"/>2. errantium instructionem. Per verbum in veritate 
+      <lb ed="#B" n="80"/>nos instruit et adversus noxios errores nos munit. 
+      <lb ed="#B" n="81"/>2s. 119, v. 105: Lucerna pedibus meis verbum 
+      <lb ed="#B" n="82"/>tuum. Esa. 2, v. 3: Adscendamus ad montem 
+      Do<lb ed="#B" n="83" break="no"/>mini, et docebit nos vias suas. 3. peccantium 
+      con<lb ed="#B" n="84" break="no"/>versionem. Act. 20, v. 20: Nihil subtraxi vobis 
+      uti<lb ed="#B" n="85" break="no"/>lium, quominus docerem vos. v. 21: testificans 
+      Ju<lb ed="#B" n="86" break="no"/>daeis et gentibus poenitentiam in Deum etc. c. 26. 
+      <lb ed="#B" n="87"/>v. 18: Mitto te aperire oculos gentilium, ut conver 
+      <lb ed="#B" n="88"/>tantur a tenebris ad lucem. v. 20: Annuntiaban 
+      <lb ed="#B" n="89"/>qentibus, ut poenitentiam agerent, et converterentu 
+      <lb ed="#B" n="90"/>ad Deum. 4. fidei accensionem et confirmationem 
+      <lb ed="#B" n="91"/>Ex luce verbi oritur in cordibus hominum lux fidei 
+      <lb ed="#B" n="92"/>Rom. 10, v. 14: Fides est ex auditu, auditus autem 
+      <lb ed="#B" n="93"/>per verbum Dei. 2. Cor. 4. v. 6: Deus, qui dixit de 
+      <lb ed="#B" n="94"/>tenebris lucem splendescere, illuxit in cordibus 
+      nostri<lb ed="#B" n="95" break="no"/>etc. 5. spiritualem regenerationem. 1. Cor. 4. v. 15. 
+      <lb ed="#B" n="96"/>In Christo Jesu per evangelium vos genui. Jac. 1. 
+      <lb ed="#B" n="97"/>v. 18: Voluntarie genuit nos verbo veritatis. 1. Pet. s. 
+      <lb ed="#B" n="98"/>r. 23: Renati non ex semine corruptibili, sed 
+      incor<lb ed="#B" n="99" break="no"/>ruptibili per verbum Dei vivi. 6. salutarem Dei 
+      <lb ed="#B" n="100"/>invocationem. Rom. 10, v. 14: Quomodo 
+      invocabun<lb ed="#B" n="101" break="no"/>in quem non crediderunt? aut quomodo credent ei 
+      <lb ed="#B" n="102"/>quem non audiverunt? Ergo a contrario sensu ex 
+      <lb ed="#B" n="103"/>auditu verbi est fides, ex fide salutaris et Deo grati 
+      <lb ed="#B" n="104"/>invocatio. 7. animae nostrae alimentationem. Deut. 8 
+      <lb ed="#B" n="105"/>v. 3. Matth. 4. v. 4: Non solo pane vivet homo, 
+      <lb ed="#B" n="106"/>sed omni verbo, quod egreditur per os Dei. Amos ? 
+      <lb ed="#B" n="107"/>r. 11: Mittam famen audiendi verbum. Ergo a 
+      <lb ed="#B" n="108"/>contrario sensu verbum tollit animae nostrae famem. 
+      <lb ed="#B" n="109"/>8. afflictorum consolationem. Ps. 23, v. 4: Virga 
+      tu<lb ed="#B" n="110" break="no"/>et baculus tuus consolabuntur me. Ps. 49, v. 19: 
+      <lb ed="#B" n="111"/>Consolationes tuae laetificaverunt animam meam. 
+      <lb ed="#B" n="112"/>Psal. 119, v. 50: Haec consolatio mea in afflictione 
+      <lb ed="#B" n="113"/>nea, quia eloquium tuum vivificavit me. 9. 
+      pere<lb ed="#B" n="114" break="no"/>grinantium gubernationem. Ps. 32. v. 8: Intelligere 
+      <lb ed="#B" n="115"/>te faciam et docebo te in via, qua ambules 
+      <lb ed="#B" n="116"/>Ps. 119, v. 105: Lumen semitis meis verbum tuum 
+      <lb ed="#B" n="117"/>10. pugnantium confortationem. 2. Cor. 10, v. 4. 
+      <lb ed="#B" n="118"/>Arma militiae nostrae non sunt carnalia, aed 
+      poten<lb ed="#B" n="119" break="no"/>tia Deo. Ephes. 6. v. 17: Verbum Dei est gladiu 
+      <lb ed="#B" n="120"/>Spiritus. 11. vincentium coronationem et glorifica 
+      <!--230.xml-->
+      <pb ed="#B" n="157"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tionem. Joh. 6. v. 68: Verba vitae aeternae habed 
+      <lb ed="#B" n="2"/>Aet. 13, v. 26: Verbum salutis. Rom. 1, v. 16: Pe 
+      <lb ed="#B" n="3"/>tentia Dei ad salutem omni credenti. Phil. 2. v. 16 
+      <lb ed="#B" n="4"/>Verbum vitae etc. Confugiamus igitur (ait Hecto 
+      <lb ed="#B" n="5"/>Pintus in c. 8. Esa. p. 92.) ad Scripturam sacram 
+      <lb ed="#B" n="6"/>ubi inveniemus doctrinam salutarem, virtutis inda 
+      <lb ed="#B" n="7"/>gatricem, vitiorum expultricem, animis medentem 
+      <lb ed="#B" n="8"/>eosque in suam dignitatem revocantem. Haec es 
+      <lb ed="#B" n="9"/>fons uberrimus et plenissimus, cujus haustu atque 
+      <lb ed="#B" n="10"/>potu conceptam visceribus sitim sedamus ardorem 
+      <lb ed="#B" n="11"/>que restinquimus. Haec est flamma illa, quam 
+      <lb ed="#B" n="12"/>vidit Moyses ardentem, rubumque non 
+      comburen<lb ed="#B" n="13" break="no"/>tem, ubi Deus est animos nostros incendens, aeter 
+      <lb ed="#B" n="14"/>naeque beatitudinis desiderio inflammans. 
+      <lb ed="#B" n="15"/>Haec <!-- line coord error --> 
+      <lb ed="#B" n="16"/>est scala, quam vidit Jacob, quae summitate coelos 
+      <lb ed="#B" n="17"/>tangebat, per quam a terra ad coelum patet adscen 
+      <lb ed="#B" n="18"/>sus. Haec est cellarium Joseph in Aegypto hujus 
+      <lb ed="#B" n="19"/>mundi constitutum, ad quod undique recurrere debe 
+      <lb ed="#B" n="20"/>mus, ut famem expellamus. Haec est manna illus 
+      <lb ed="#B" n="21"/>coeleste minutum, sed candidum et dulce, omnes ac 
+      <lb ed="#B" n="22"/>veram promissionis patriam euntes reficiens. 
+      Hae<lb ed="#B" n="23" break="no"/>est turris Davidis munitissima, quae est aedificate 
+      <lb ed="#B" n="24"/>cum propugnaculis, ex qua pendent mille clyper 
+      <lb ed="#B" n="25"/>omnisque fortium armatura. Haec est mentis 
+      sp<lb ed="#B" n="26" break="no"/>culum; haec est thesaurus sapientiae; haec est, qua 
+      <lb ed="#B" n="27"/>vitae tranquillitatem largitur, quae est lucerna 
+      p<lb ed="#B" n="28" break="no"/>dibus nostris. Haec est denique, qua adversus 
+      da<lb ed="#B" n="29" break="no"/>monem, mundum, carnem contendimus, est enim 
+      <lb ed="#B" n="30"/>verbum Dei gladius Spiritus, quo inimicos percu 
+      <lb ed="#B" n="31"/>timus et prosternimus, et de illis quotidie victoriam 
+      <lb ed="#B" n="32"/>reportamus. Haec est probatica illa piscina, d 
+      <lb ed="#B" n="33"/>qua loquitur Johannes, quae a Dei angelo moto 
+      <lb ed="#B" n="34"/>cuicunque aegritudini medebatur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

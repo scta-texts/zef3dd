@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="527"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e1048"><!-- zef3dd-l4c10 -->
+            <head xml:id="zef3dd-d1e1048-Hd1e101">Caput 10</head>
+            <head xml:id="zef3dd-d1e1048-Hd1e103" type="question-title">De communicatione xml:idiomatum in genere</head>
+            <p xml:id="zef3dd-d1e1048-d1e106">
+               <lb ed="#B" n="85"/>CAPUT X. 
+      <lb ed="#B" n="86"/>DE COMMUNICATIONE IDIOMA 
+<lb ed="#B" n="87"/>TUM IN GENERE, 
+</p>
+            <p xml:id="zef3dd-d1e1048-d1e115">
+               <lb ed="#B" n="88"/>174. Thesis: 1. Ex unione et communicatione 
+      <lb ed="#B" n="89"/>naturarum oritur communicatio xml:idiomatum, quae in 
+      <lb ed="#B" n="90"/>jenere sic describi potest, quod eit participatio 
+      pro<lb ed="#B" n="91" break="no"/>priorum divinae et humanae naturae in Christo 
+      <lb ed="#B" n="92"/>θεανθρώπῳ, ab alterutra vel utraque natura simul 
+      <lb ed="#B" n="93"/>denominato, ex hypostatica unione profluens. Exθ
+      e<lb ed="#B" n="94" break="no"/>σι5. Termini duo hoc loco explicandi: 1. communi 
+      <lb ed="#B" n="95"/>cationis; 2. xml:idiomatum. Communicatio dicitur 
+      <lb ed="#B" n="96"/>communi. Commune, τὸ κοινόν, est unum quiddam 
+      <lb ed="#B" n="97"/>eu res una, quam plura participant. Ergo 
+      commu<lb ed="#B" n="98" break="no"/>nicatio erit unius, quod pluribus commune est, in 
+      <lb ed="#B" n="99"/>plura illa, quae xml:id commune habent, distributio, 
+      <lb ed="#B" n="100"/>Communicatio generaliter accepta est vel verbalis 
+      <lb ed="#B" n="101"/>tantum vel realis. Illa fit 1. vel per tropum, ut cum 
+      <lb ed="#B" n="102"/>Herodes dicitur vulpes; 2. vel καιʼ ἀξίαν, ob 
+      hono<lb ed="#B" n="103" break="no"/>rem, ut cum uxor a marito denominatur; 3. vel per 
+      <lb ed="#B" n="104"/>fictionem, ut quando Pontifex dicitur ecclesiae caput. 
+      <lb ed="#B" n="105"/>Realis est 1. vel φυσική vel ὑπερρυσική. Illa est in 
+      <lb ed="#B" n="106"/>inter cubstantiam et substantiam, ut in ferro ignito 
+      <lb ed="#B" n="107"/>2. inter subetantiam et accidens, ut in aqua calida, 
+      <lb ed="#B" n="108"/>3. inter accidens et accidens, ut in cano philosopho; 
+      <lb ed="#B" n="109"/>ὑπερφυσικὴ quintuplex est: 1. οὐσιώδης, cssentialis 
+      <lb ed="#B" n="110"/>inter personas trinitatis; 2. πνευματική, spiritualia 
+      <lb ed="#B" n="111"/>inter Deum et fidelem animam, 1. Cor. 6, v. 17. 
+      <lb ed="#B" n="112"/>3. μυστική, sacramentalis, inter panem et corpus 
+      <lb ed="#B" n="113"/>Christi, vinum ac sanguinem Christi; 4. συμβολική, 
+      <lb ed="#B" n="114"/>inter Spiritum s. et columbae speciem, inter Deum 
+      <!--635.xml-->
+      <pb ed="#B" n="528"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>et figuras assumtas, in quibus patribus apparuit; 
+      <lb ed="#B" n="2"/>5. ὑποστατική, personalis in Christo ex duabus 
+      na<lb ed="#B" n="3" break="no"/>turis, divina et humana, constante. Ea est vel no 
+      <lb ed="#B" n="4"/>turarum vel eorum, quae naturas consequuntur, 
+      xml:idio<lb ed="#B" n="5" break="no"/>matum scilicet naturalium ac operationum. De 
+      com<lb ed="#B" n="6" break="no"/>municatione naturarum in praecedentibus actum, di 
+      <lb ed="#B" n="7"/>communicatione eorum, quae naturas consequuntur. 
+      <lb ed="#B" n="8"/>dicendum porro restat. Communicatio xml:idiomatum es 
+      <lb ed="#B" n="9"/>naturae ad personam vel naturae ad naturam. Com 
+      <lb ed="#B" n="10"/>municatio naturae alterutrius scilicet ad personam 
+      <lb ed="#B" n="11"/>est, qua proprietas uni naturae conveniens tribuitu 
+      <lb ed="#B" n="12"/>personae in concreto. Haec constituit primum 
+      genu<lb ed="#B" n="13" break="no"/>communicationis xml:idiomatum vulgo sic appellatum. 
+      <lb ed="#B" n="14"/>Communicatio naturae divinae scilicet ad naturam 
+      <lb ed="#B" n="15"/>humanam est, qua divina natura 10ῦ Aόγου propriam 
+      <lb ed="#B" n="16"/>suam gloriam et excellentiam communicat, manen 
+      <lb ed="#B" n="17"/>ipsa passionum carnis expers. Haec constituit se 
+      <lb ed="#B" n="18"/>cundum genus. Communicatio operationum- es 
+      <lb ed="#B" n="19"/>utriusque naturae in persona 10ῦ Aόγου operatio 
+      <lb ed="#B" n="20"/>qua utraque natura in Christo operatur cum 
+      commu<lb ed="#B" n="21" break="no"/>nicatione alterius, quod cujusque proprium est. Hae 
+      <lb ed="#B" n="22"/>tertium genus constituit. 
+      </p>
+            <p xml:id="zef3dd-d1e1048-d1e230">
+               <lb ed="#B" n="23"/>175. 2. Communicatio fit vel κατὰ μέθεξιν vel 
+      <lb ed="#B" n="24"/>κατὰ συνδύασιν. Communicatio κατὰ μέθεξιν est 
+      <lb ed="#B" n="25"/>participatio essentialis, qua unum in alterius essen 
+      <lb ed="#B" n="26"/>tiam ac definitionem transit, vel unum alterius 
+      def<lb ed="#B" n="27" break="no"/>nitione atque essentia participat, quam essentiae 
+      par<lb ed="#B" n="28" break="no"/>ticipationem propriorum quoque communicatio 
+      con<lb ed="#B" n="29" break="no"/>sequitur. Sic homo ut species animalis ut generis 
+      <lb ed="#B" n="30"/>essentiam ac definitionem participat, unde cum 
+      <lb ed="#B" n="31"/>essentia animalis facultatem quoque sentiendi obti 
+      <lb ed="#B" n="32"/>net. Communicatio κατὰ συνδύασιν, quae fit secun 
+      <lb ed="#B" n="33"/>dum consociationem duarum diversarum naturarum 
+      <lb ed="#B" n="34"/>per quam alterum unitorum cum altero ita connecti 
+      <lb ed="#B" n="35"/>tur, ut essentia distincta manente nihilominus alterum 
+      <lb ed="#B" n="36"/>alterius proprietatem, vim et efficaciam per et propte 
+      <lb ed="#B" n="37"/>communionem factam sine omni confusione vere ad 
+      <lb ed="#B" n="38"/>cipiat et induat. Exemplum est in ferro ignito e 
+      <lb ed="#B" n="39"/>corpore animato. Communicatio xml:idiomatum, quam 
+      <lb ed="#B" n="40"/>hoc loco statuimus: 1. non est verbalis tantum 
+      <lb ed="#B" n="41"/>2. nec est φυσικὴ μενέκβασις, proprietatum unius 
+      <lb ed="#B" n="42"/>subjecti in alterum effusio; 3. nec est communicati 
+      <lb ed="#B" n="43"/>κατὰ μέθεξιν; 4. nec est talis quaedam essentiali 
+      <lb ed="#B" n="44"/>participatio, qua ex confusione essentiarum et 
+      pro<lb ed="#B" n="45" break="no"/>prietatum essentialium oriatur aliquod tertium, ut in 
+      <lb ed="#B" n="46"/>melicrato. (Humana natura non est essentialiter 
+      <lb ed="#B" n="47"/>unum cum divina, nec per essentiam facta est, xml:id 
+      <lb ed="#B" n="48"/>quod est assumens ὁ Λόγος); 5. nec talis quaedam 
+      <lb ed="#B" n="49"/>causatio, qua causa aliqua alteri subjecto effectum 
+      <lb ed="#B" n="50"/>aliquem tribuit, sicut Deus bonitatem suam creatu 
+      <lb ed="#B" n="51"/>ris et praeceptor artem discipulo communicare 
+      dici<lb ed="#B" n="52" break="no"/>tur, sed est communicatio vera et realis, hypostatics 
+      <lb ed="#B" n="53"/>et supernaturalis illi, quae κατὰ συνδύασιν vocatu 
+      <lb ed="#B" n="54"/>proxime accedens. Breviter, ut unio non est 
+      essen<lb ed="#B" n="55" break="no"/>tialis nec verbalis tantum nec per σύγχυσιν vel 
+      <lb ed="#B" n="56"/>ἄλλοίωσιν vel μίξιν vel παράστασιν, nec est προσω 
+      <lb ed="#B" n="57"/>πικὴ vel sacramentalis, ita quoque communicatio ta 
+      <lb ed="#B" n="58"/>lis non est 
+      </p>
+            <p xml:id="zef3dd-d1e1048-d1e312">
+               <lb ed="#B" n="59"/>176. De termino communicationis hactenus. Idio 
+      <lb ed="#B" n="60"/>mata dicuntur cujusque naturae attributa et proprie¬ 
+      <!--635.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>tates, quibus in personae unitate duae naturae in 
+      <lb ed="#B" n="62"/>vicem distinguuntur. Sic divinae naturae propria 
+      <lb ed="#B" n="63"/>zunt esse ab aeterno, esse infinitam, esse immensam. 
+      <lb ed="#B" n="64"/>esse invisibilem, esse omnipotentem. Propria humanae 
+      <lb ed="#B" n="65"/>naturae sunt nasci in tempore, pati, mori ete., de 
+      <lb ed="#B" n="66"/>quibus ἰδιώμασιν observa: 1. aliam esse rationem 
+      <lb ed="#B" n="67"/>idiomatum divinorum, aliam humanorum. Divinae 
+      <lb ed="#B" n="68"/>naturae xml:idiomata sunt ipsa τοῦ Λόγου essentia, et 
+      <lb ed="#B" n="69"/>ib ea realiter non distinguuntur. Humanae naturae 
+      <lb ed="#B" n="70"/>diomata sunt παρεπόμενα τῇ φύσει, non constitutiva, 
+      <lb ed="#B" n="71"/>sed consecutiva essentiae; 2. de xml:idiomasi et affectio 
+      <lb ed="#B" n="72"/>nibus humanis superius monuimus, quasdam toti 
+      <lb ed="#B" n="73"/>composito, quasdam vero singulis partibus convenire 
+      <lb ed="#B" n="74"/>Item quasdam esse essentiales, quasdam vero acci 
+      <lb ed="#B" n="75"/>dentales; 3. quando tria genera communicationis 
+      <lb ed="#B" n="76"/>idiomatum vulgariter statuuntur, nomen ἰδιωμάτω. 
+      <lb ed="#B" n="77"/>γενικῶς accipitur, ut non solum xml:idiomata proprie sic 
+      <lb ed="#B" n="78"/>dicta, sed etiam operationes complectatur, quia 
+      xml:idio<lb ed="#B" n="79" break="no"/>mata per ἐνεργείας καὶ ἀποτελέσματα sese exserunt 
+      </p>
+            <p xml:id="zef3dd-d1e1048-d1e364">
+               <lb ed="#B" n="80"/>177. Probatur thesis 1. ex ipsa unione. Quicquis 
+      <lb ed="#B" n="81"/>in assumtione humanae naturae venit sub unionem, 
+      <lb ed="#B" n="82"/>illud etiam venit sub communicationem. Jam vero 
+      <lb ed="#B" n="83"/>idiomata veniunt sub unionem, quia nulla natura 
+      <lb ed="#B" n="84"/>destituitur suis proprietatibus, cum natura carenm 
+      <lb ed="#B" n="85"/>proprietatibus careat etiam exsistentia, ac naturae 
+      <lb ed="#B" n="86"/>duae in Christo unitae sunt non nudae sive exutas 
+      <lb ed="#B" n="87"/>suis proprietatibus, sed integrae sine defectu, nullar 
+      <lb ed="#B" n="88"/>propriorum excidentiam passae. Ergo etiam xml:idiomata 
+      <lb ed="#B" n="89"/>veniunt sub communicationem. Sublato consequente 
+      <lb ed="#B" n="90"/>necessario negatur immediatum antecedens. Jan 
+      <lb ed="#B" n="91"/>vero communicatio xml:idiomatum est necessarium 
+      con<lb ed="#B" n="92" break="no"/>sequens unionis tanquam immediate antecedentis. 
+      <lb ed="#B" n="93"/>Ergo negata communicatione xml:idiomatum negatur ipsa 
+      <lb ed="#B" n="94"/>inio, unde patres concilii Ephesini contra Nestorium 
+      <lb ed="#B" n="95"/>sic concluserunt: Qui negat carnem Christi esse v. 
+      <lb ed="#B" n="96"/>vificam, solvit unionem; 2. ab unionis conditione 
+      <lb ed="#B" n="97"/>Infimus duntaxat unionis gradus per agglutinationem 
+      <lb ed="#B" n="98"/>aggregationem, appositionem, coacervationem ae 
+      nu<lb ed="#B" n="99" break="no"/>dam παράστασιν communicationis est expers. Jam 
+      <lb ed="#B" n="100"/>vero unio duarum in Christo naturarum est long. 
+      <lb ed="#B" n="101"/>arctissima et perfectissima. Ergo de ea cogitari vel 
+      <lb ed="#B" n="102"/>lici nequit, quod nullam communicationem unitorum 
+      <lb ed="#B" n="103"/>pariat; 3. ex absurdi consecutione. (Quidam 
+      simpli<lb ed="#B" n="104" break="no"/>citer sic concludunt: Quae realiter sunt unum, 
+      <lb ed="#B" n="105"/>eorum uno communicato communicatur etiam 
+      alle<lb ed="#B" n="106" break="no"/>um. Jam vero ὑπόστασις τοῦ Λόγου et attribuls 
+      <lb ed="#B" n="107"/>ssentialia τοῦ Λόγου non differunt realiter. Ergo 
+      <lb ed="#B" n="108"/>ommunicata ὑποσιάσει communicentur etiam 
+      essen<lb ed="#B" n="109" break="no"/>ialia attributa. Sed quia major in divinis mysteriis 
+      <lb ed="#B" n="110"/>patitur quasdam instantias, xml:ideo rectius utimur ἀνα¬ 
+      <lb ed="#B" n="111"/>ωγὴ πρὸς ἄιοπον, et quidem tali.) Si propriorum 
+      <lb ed="#B" n="112"/>communicatio prorsus negatur, duae erunt in Christe 
+      <lb ed="#B" n="113"/>personae, quod Nestorianum. Connexio probatur, 
+      <lb ed="#B" n="114"/>quia natura humana assumta aut est prorsus ἀνυ¬ 
+      <lb ed="#B" n="115"/>πόστατος aut habet ὑπόστασιν. Prius dici nequis 
+      <lb ed="#B" n="116"/>quia ens reale substantiale ac subsistens non potes 
+      <lb ed="#B" n="117"/>2sse ἀνυπόστατον. Si posterius, natura 
+      human<lb ed="#B" n="118" break="no"/>assumta aut habebit propriam ὑnόσιασιν aut com 
+      <lb ed="#B" n="119"/>municatam, xml:id est aut est ἀνθυπόστατος καὶ ίδιο¬ 
+      <lb ed="#B" n="120"/>σύσιατος, aut est ἐνυπόστατος αὐτῷ 1ῷ Λόγῳ ὑκο¬ 
+      <!--636.xml-->
+      <pb ed="#B" n="529"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>πτᾶσα. Prius dici nequit, alias enim forent duae in 
+      <lb ed="#B" n="2"/>Christo ὑποστάσεις. Manet ergo posterius, quod scilicet 
+      <lb ed="#B" n="3"/>natura humana communicatam habeat 1οῦ Λόγου ὑπό 
+      <lb ed="#B" n="4"/>στασιν. Atqui si ὑπόστασις τοῦ Λόγου carni 
+      commu<lb ed="#B" n="5" break="no"/>nicata est, utique datur propriorum communicatio 
+      <lb ed="#B" n="6"/>quia hypostasis est characteristicum quiddam, quo 
+      <lb ed="#B" n="7"/>quaelibet persona in divinis a reliquis personis πρὸ¬ 
+      <lb ed="#B" n="8"/>τὸ ἔσω distinguitur et est cujusque personae maxime 
+      <lb ed="#B" n="9"/>propria; 4. ex speciali enumeratione. Dantur 
+      di<lb ed="#B" n="10" break="no"/>stinctae classes dictorum Scripturae, in quibus de 
+      <lb ed="#B" n="11"/>communicatione xml:idiomatum ex unione hypostatie 
+      <lb ed="#B" n="12"/>orta agitur, ut in sequentibus apparebit. Ergo etiam 
+      <lb ed="#B" n="13"/>datur xml:idiomatum communicatio, eademque non unius 
+      <lb ed="#B" n="14"/>sed diversorum generum 
+      </p>
+            <p xml:id="zef3dd-d1e1048-d1e492">
+               <lb ed="#B" n="15"/>178. Antithegis: 1. Samocatenus et Nestorius ui 
+      <lb ed="#B" n="16"/>naturarum, ita quoque xml:idiomatum communicationem 
+      <lb ed="#B" n="17"/>penitus negarunt, errarunt igitur ἐν ἔλείίψει. 
+      Euty<lb ed="#B" n="18" break="no"/>ches ut naturarum, ita quoque xml:idiomatum confusio 
+      <lb ed="#B" n="19"/>nem essentialem introduxit, erravit igitur ἐν ὑπερβολ 
+      <lb ed="#B" n="20"/>2. Jeguitae realem xml:idiomatum communicationem penitu 
+      <lb ed="#B" n="21"/>explodunt. Gregorius de Valent. in defens. disputat. 
+      <lb ed="#B" n="22"/>contra fund. ubiquitatis p. 31: per xml:idiomata nud 
+      <lb ed="#B" n="23"/>nomina vel locutiones intelligendas esse asserit 
+      <lb ed="#B" n="24"/>Bellarminus lib. 3. de Christo c. 8. communicationen 
+      <lb ed="#B" n="25"/>gubeistentiae et communicationem attributorum 
+      de<lb ed="#B" n="26" break="no"/>tatis sibi invicem opponit ac priorem unioni conco 
+      <lb ed="#B" n="27"/>dit, posteriorem vero derogat; c. 10. negat xml:idiomato 
+      <lb ed="#B" n="28"/>unius nalurae alteri ex vi hypostaticae unionia realite 
+      <lb ed="#B" n="29"/>communicari. Confer theses Jesuiticas Ingolstadia 
+      <lb ed="#B" n="30"/>nas Witebergae 1571. a Sacramentariis recusas 
+      <lb ed="#B" n="31"/>3. Calviniani: 1. realem xml:idiomatum communicationem 
+      <lb ed="#B" n="32"/>appellant sigmentum scholasticum, imo commentum 
+      <lb ed="#B" n="33"/>Eutychianum. Beza volum. 1. Operum theolog. 
+      <lb ed="#B" n="34"/>p. 615. et in resp. ad act. Colloq. p. 93, ubi 
+      si<lb ed="#B" n="35" break="no"/>loquitur: Communicationem ullam, quae sit quod 
+      <lb ed="#B" n="36"/>dam unionis effectum et aliud quam vel ipsa 
+      uniti<lb ed="#B" n="37" break="no"/>et habitualis, quam vocant gratia, — ponere merus e 
+      <lb ed="#B" n="38"/>intolerabilis est Eutychianismus; ibid. in antithes. 
+      <lb ed="#B" n="39"/>Nos docemus ex hypostatica unionis definitione 
+      ne<lb ed="#B" n="40" break="no"/>que deitatem neque deitatis proprietates de humano 
+      <lb ed="#B" n="41"/>tate ullo modo ne quidem in unione dici posse. Idem 
+      <lb ed="#B" n="42"/>tamen part. i. quaest. et resp. p. 17. abstractiva 
+      <lb ed="#B" n="43"/>locutiones concedens sibi quodammodo contradicit 
+      <lb ed="#B" n="44"/>Si vis, inquit, illud etiam concedam, Christi 
+      huma<lb ed="#B" n="45" break="no"/>nitatem esse praesentem, sed κατ’ ἄλλο, xml:id est, non 
+      <lb ed="#B" n="46"/>in se seu sui essentia, sed quatenus cohaeret 
+      hypo<lb ed="#B" n="47" break="no"/>statica unione cum τῷ Λόγῳ, qui est ubique, nedun 
+      <lb ed="#B" n="48"/>in coena re ipea praesens esse Christi corpus 
+      <lb ed="#B" n="49"/>Eodem fere modo Zanchius lib. 2. de incarnat. p. 579. 
+      <lb ed="#B" n="50"/>Si intelligant Lutherani humanam naturam ita per 
+      <lb ed="#B" n="51"/>sonaliter ditatam esse propriis divinae naturae xml:idio 
+      <lb ed="#B" n="52"/>matibus, sicut etiam personaliter in ea habitat toto 
+      <lb ed="#B" n="53"/>plenitudo deitatis, ego certe non contradixero, et ito 
+      <lb ed="#B" n="54"/>omnes docti et pii concedunt humanam Christi 
+      no<lb ed="#B" n="55" break="no"/>turam personaliter esse omnipotentem et ubique 
+      pra<lb ed="#B" n="56" break="no"/>sentem. ** Alstedius controv. 8. p. 546. v. 2. 
+      <lb ed="#B" n="57"/>Christus homo dicitur rex omnipotens non aliter a 
+      <lb ed="#B" n="58"/>ucor electoris dicitur electriae, tametei re ipsa non 
+      <lb ed="#B" n="59"/>sit electrix nec imperatorem eligat.** Sed quae in 
+      <lb ed="#B" n="60"/>hisce concessionibus lateant strophae, detegetur in 
+      <!--636.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ferius in secundo genere communicationis; 2. 
+      xml:idio<lb ed="#B" n="62" break="no"/>matum communicationem tantum verbalem quandam 
+      <lb ed="#B" n="63"/>praedicationem esse statuunt. Besa volum. 1. Oper 
+      <lb ed="#B" n="64"/>theol. p. 638. realem vocat, sed in Coll. Mompelg. 
+      <lb ed="#B" n="65"/>a se edito p. 157. mentem suam sic explicat: 
+      Ver<lb ed="#B" n="66" break="no"/>balem vocamus xml:idiomatum communicationem, 
+      quate<lb ed="#B" n="67" break="no"/>nus est figurata loquendi phrasis, et eimul tamen 
+      <lb ed="#B" n="68"/>realem ac verissimam, cum de persona tota, 
+      quate<lb ed="#B" n="69" break="no"/>nus una est, dicitur advereua Nestorium. Sin autem 
+      <lb ed="#B" n="70"/>de naturis dicantur, ut a nostris advereariis 
+      accipi<lb ed="#B" n="71" break="no"/>tur, nec verbalem, nec realem, sed blasphemam et 
+      <lb ed="#B" n="72"/>letestandam censemus, quia merus est 
+      Eutychianis<lb ed="#B" n="73" break="no"/>mus. Confer quae in antith. c. 8. de naturarum 
+      <lb ed="#B" n="74"/>communicatione dicta. 
+      </p>
+            <p xml:id="zef3dd-d1e1048-d1e629">
+               <lb ed="#B" n="75"/>179. Quaeritur h. I. 1: An communicatio xml:idio 
+      <lb ed="#B" n="76"/>matum sit forma an vero consequens unionia 
+      hypo<lb ed="#B" n="77" break="no"/>staticae? Posterius affirmamus. Prius nobis affingunt 
+      <lb ed="#B" n="78"/>Pontificii. Bellarm. 3. de Christo. c. 8. Gregor. de. 
+      <lb ed="#B" n="79"/>Valent. tom. 4. Disput. 1. q. 2. p. 126: Ubiquistae 
+      <lb ed="#B" n="80"/>radunt humanam naturam Verbo divino hyposta 
+      <lb ed="#B" n="81"/>tice unitam esse hoc ipso, quod omnis plenitudo et 
+      <lb ed="#B" n="82"/>ἔνέργεια divinitatis Verbi est illi realiter communt 
+      <lb ed="#B" n="83"/>cata et in eam trangfusa, ete. Pontificiis hac in re 
+      <lb ed="#B" n="84"/>suffragantur Calviniani, Breviar. Ubiquit. art.. 
+      <lb ed="#B" n="85"/>§. 64, propterea quod Jac. Andreae Apolog. p. 37. 
+      <lb ed="#B" n="86"/>communicationem xml:idiomatum statuat specificam 
+      dif<lb ed="#B" n="87" break="no"/>ferentiam unionis hypostaticae. Sed notandum 
+      <lb ed="#B" n="88"/>. quod disputet contra eos, qui unionem definiunt, 
+      <lb ed="#B" n="89"/>per solius hypostaseos communicationem exclus 
+      <lb ed="#B" n="90"/>prorsus xml:idiomatum communicatione; 2. quod 
+      diffe<lb ed="#B" n="91" break="no"/>entia specifica ac forma rei interna saepius 
+      descri<lb ed="#B" n="92" break="no"/>batur per effecta a posteriori, interim proprie et 
+      <lb ed="#B" n="93"/>accurate loquendo unio naturarum et communicatio 
+      <lb ed="#B" n="94"/>diomatum differunt ut antecedens et consequens 
+      <lb ed="#B" n="95"/>ordine scilicet naturae non temporis, ut causa 
+      e<lb ed="#B" n="96" break="no"/>effectus, ut priue et posterius. Confer quae superius 
+      <lb ed="#B" n="97"/>dicta capite 7. thes. 4. quaest. &amp; 
+      </p>
+            <p xml:id="zef3dd-d1e1048-d1e681">
+               <lb ed="#B" n="98"/>180. Qu. 2. An communicatio xml:idiomatum recto 
+      <lb ed="#B" n="99"/>definiatur per praedicationem? Faciunt hoc Jesuitae 
+      <lb ed="#B" n="100"/>et Calviniani, quibus haec opponimus fundamenta 
+      <lb ed="#B" n="101"/>s. quorum uno posito non statim ponitur alterum, 
+      <lb ed="#B" n="102"/>ea differunt realiter ac totum unum non potes 
+      <lb ed="#B" n="103"/>essentialiter per alterum definiri. Jam vero posita 
+      <lb ed="#B" n="104"/>communicatione non statim ponitur praedicatio, quis 
+      <lb ed="#B" n="105"/>communicatio facta est in primo statim incarnationis 
+      <lb ed="#B" n="106"/>momento et durabit in omnem aeternitam, etiamsi 
+      <lb ed="#B" n="107"/>nullus esset, qui actu eam in praedicatione 
+      enun<lb ed="#B" n="108" break="no"/>tiaret. 2. Quae differunt ut prius et posterius, 
+      illi<lb ed="#B" n="109" break="no"/>non sunt prorsus unum, communicatio et praedicatio 
+      <lb ed="#B" n="110"/>lifferunt ut prius et posterius, quia praedicatio ante 
+      s<lb ed="#B" n="111" break="no"/>requirit communicationem, juxta regulam logicam 
+      <lb ed="#B" n="112"/>dici requirit inesse. 3. Notio prima non est notio 
+      <lb ed="#B" n="113"/>secunda, nec potest haec esse genus in definitione 
+      <lb ed="#B" n="114"/>illius. At praedicatio est vocabulum secundae, 
+      com<lb ed="#B" n="115" break="no"/>municatio autem primae intentionis. Ergo 4. quae 
+      <lb ed="#B" n="116"/>subjectis differunt, realiter differunt. Communicati 
+      <lb ed="#B" n="117"/>et praedicatio subjectis differunt. Communicationis 
+      <lb ed="#B" n="118"/>subjectum est ὁ Λόγος ἔνσαρκος sive duae Christ. 
+      <lb ed="#B" n="119"/>naturae personaliter unitae. Praedicationis subjectum 
+      <lb ed="#B" n="120"/>est noster λόγος ἐνδιάθετος vel προφορικός. Contra 
+      <!--637.xml-->
+      <pb ed="#B" n="530"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>urgent, quod B. Lutherus, Philippus et Chemniciu 
+      <lb ed="#B" n="2"/>communicationem xml:idiomatum appellent phrasin ac 
+      <lb ed="#B" n="3"/>praedicationem. Respondemus: hoc non accipiendum 
+      <lb ed="#B" n="4"/>est exclusive, quasi tantum sit verbalis quaedam 
+      prae<lb ed="#B" n="5" break="no"/>dicatio, sed notificative, quod sit talis loquendi 
+      mo<lb ed="#B" n="6" break="no"/>dus, cui res ipsa respondeat, intelligunt enim talen 
+      <lb ed="#B" n="7"/>phrasin ac praedicationem, cui res ipsa subsit, prout 
+      <lb ed="#B" n="8"/>Lutherus mentem suam clarissime explicat in 
+      comm<lb ed="#B" n="9" break="no"/>Esai. 53. et Joh. 14. Sic ergo procedimus: 
+      Com<lb ed="#B" n="10" break="no"/>municatio consideratur vel realiter tantum vel rea 
+      <lb ed="#B" n="11"/>liter et nominaliter simul, prout in 
+      praedication<lb ed="#B" n="12" break="no"/>effertur. In priori consideratione non est praed 
+      <lb ed="#B" n="13"/>catio, sed in posteriore, verum non verbalis tantum 
+      <lb ed="#B" n="14"/>sed realis, cui scilicet in ipso Christo res ipsa vero 
+      <lb ed="#B" n="15"/>respondet. Inde enim atque xml:ideo humanae natura 
+      <lb ed="#B" n="16"/>propria praedicantur de persona, quia in ipss 
+      <lb ed="#B" n="17"/>Christo propria naturarum facta sunt communia per 
+      <lb ed="#B" n="18"/>onae. Sed Jesuitae et Calviniani fundamentum 
+      <lb ed="#B" n="19"/>rei, ipsam scilicet communicationem tollunt et 
+      nuda<lb ed="#B" n="20" break="no"/>duntaxat loquendi formulas relinquunt. 
+      </p>
+            <p xml:id="zef3dd-d1e1048-d1e783">
+               <lb ed="#B" n="21"/>181. Usus practicus. Sieut ex unione persona! 
+      <lb ed="#B" n="22"/>duarum in Christo naturarum oritur communicatio 
+      <lb ed="#B" n="23"/>idiomatum personalis, ita ex unione spirituali 
+      Chri<lb ed="#B" n="24" break="no"/>sti et ecclesiae; Dei ac fidelis animae oritur communi 
+      <lb ed="#B" n="25"/>catio quaedam spiritualis tum in reqno gratiae in 
+      <lb ed="#B" n="26"/>hac vita tum in regno gloriae in futura vita, unde 
+      <lb ed="#B" n="27"/>I. Petrus 2. Epist. 1, v. 4. dicit, nos θείας φύσεω 
+      <lb ed="#B" n="28"/>κοινωνούς esse factos, quae communicatio quomod 
+      <lb ed="#B" n="29"/>cese habeat, in sequentibus speciatim explicabitur 
+      <lb ed="#B" n="30"/>hic rò ὅτι generatim consideramus. Qui Deo adhaeret 
+      <lb ed="#B" n="31"/>eat unua cum eo apiritus, ait apostolus 1. Corinth. 6 
+      <lb ed="#B" n="32"/>v. 17. Qui agglutinatur Domino per fidem scilices 
+      <lb ed="#B" n="33"/>et dilectionem, est unus cum eo spiritus non essem 
+      <lb ed="#B" n="34"/>tiali conversione, sed spirituali unione, est cum DEO 
+      <lb ed="#B" n="35"/>unitus per spiritum, videlicet Spiritum sanctum 
+      <lb ed="#B" n="36"/>quia spiritu Dei regitur et ad omne bonum impel 
+      <lb ed="#B" n="37"/>litur. Sicut propter unionem duarum in Christe 
+      <lb ed="#B" n="38"/>uaturarum statuuntur nuptiae personales Matth. 22. 
+      <lb ed="#B" n="39"/>v. 2; sic propter unionem Christi et ecclesiae, 
+      De<lb ed="#B" n="40" break="no"/>ac fidelis animae statuuntur nuptiae spirituales 
+      <lb ed="#B" n="41"/>Apocal. 19, v. 7. Quemadmodum de vera et arcta 
+      <lb ed="#B" n="42"/>naturarum in Christo unione judicium fit ex xml:idio 
+      <lb ed="#B" n="43"/>matum communicatione, ita quoque ex communione 
+      <lb ed="#B" n="44"/>intelligi potest, an quis veram et spiritualem cum 
+      <lb ed="#B" n="45"/>Deo unionem obtineat, 1. Joh. 1, v. 7: Si in 
+      luc<lb ed="#B" n="46" break="no"/>ambulamus, sicut et ipse est in luce, κοινωνίαν hο 
+      <lb ed="#B" n="47"/>bemus ad invicem; c. 2, v. 5: Qui servat verbum 
+      <lb ed="#B" n="48"/>ejus, vere in hoc caritas Dei perfecta est, in hoc 
+      <lb ed="#B" n="49"/>scimus, quoniam in ipso sumus. v. 6: qui dicit se 
+      <lb ed="#B" n="50"/>in ipso manere, debet, sicut ille ambulavit, et 
+      ipe<lb ed="#B" n="51" break="no"/>ambulare; c. 4. v. 13: in hoc cognoscimus, quoniam 
+      <lb ed="#B" n="52"/>in eo manemus et ipae in nobis, quoniam de Spiritu 
+      <lb ed="#B" n="53"/>suo dedit nobis 
+      </p>
+            <p xml:id="zef3dd-d1e1048-d1e858">
+               <lb ed="#B" n="54"/>182. Thesis 2: Communicationis xml:idiomatum vulqe 
+      <lb ed="#B" n="55"/>tria statuuntur genera. In primo propria naturo 
+      <lb ed="#B" n="56"/>tum praedicantur de Christo, divina quidem 
+      propte<lb ed="#B" n="57" break="no"/>deitatem, humana propter humanitatem; in secund 
+      <lb ed="#B" n="58"/>divina majestas, gloria et potentia praedicatur de 
+      <lb ed="#B" n="59"/>Christo secundum humanam naturam per et 
+      propte<lb ed="#B" n="60" break="no"/>unionem hupostaticam; in tertio nomina et opera 
+      <!--637.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>officii praedicantur cle Christo secundum utramque 
+      <lb ed="#B" n="62"/>naturam. Fundamentum hujus distributionis 
+      de<lb ed="#B" n="63" break="no"/>pendet: I. ex ipsius unionis conditionae. Quia enim 
+      <lb ed="#B" n="64"/>post factam duarum naturarum in Christo unionem 
+      <lb ed="#B" n="65"/>naturae non singulae ceorsim et solae subsistunt 
+      a<lb ed="#B" n="66" break="no"/>agunt, quae cujusque propria sunt, sed persons 
+      <lb ed="#B" n="67"/>subsistit in duabus illis naturis et agit omnia juxta 
+      <lb ed="#B" n="68"/>cujusque proprietatem, inde oritur primum 
+      genu<lb ed="#B" n="69" break="no"/>zommunicationis xml:idiomatum. Quia naturae divinae 
+      <lb ed="#B" n="70"/>quae eat αὑταρκὴς, ἀμετάβληνος ac perfectiosima 
+      <lb ed="#B" n="71"/>per unionem nihil accessit, humana vero praeter et 
+      <lb ed="#B" n="72"/>ultra essentiales suas proprietates ex hypostaties 
+      <lb ed="#B" n="73"/>inione divinas ἐξοχάς sortita est, inde oritur ascun 
+      <lb ed="#B" n="74"/>dum genus communicationis xml:idiomatum. Denique 
+      <lb ed="#B" n="75"/>quia in operibus officii altera natura non otiose 
+      <lb ed="#B" n="76"/>quiescit aut sua tantum privatim agit, aliud agente 
+      <lb ed="#B" n="77"/>ut patiente altera, sed utraque natura agit cum 
+      <lb ed="#B" n="78"/>communicatione alterius, inde oritur tertium 
+      genu<lb ed="#B" n="79" break="no"/>communicationis xml:idiomatum; 2. eaxe divereorum 
+      Scr<lb ed="#B" n="80" break="no"/>turae dictorum consideratione. Quot. sunt elaeses 
+      <lb ed="#B" n="81"/>ad quas dicta Scripturae, quae de 
+      communication<lb ed="#B" n="82" break="no"/>diomatum tractant, commode revocari possunt, 
+      <lb ed="#B" n="83"/>otidem etiam communicationis xml:idiomatum genera 
+      <lb ed="#B" n="84"/>sive gradus statui debont. Jam vero tres occurrum 
+      <lb ed="#B" n="85"/>classes, ad quas ejusmodi dicta Scripturae revocari. 
+      <lb ed="#B" n="86"/>possunt. Ergo. Assumtum patebit ex sequentibus 
+      <lb ed="#B" n="87"/>duc referenda dicta patrum, quae de quolibet ge 
+      <lb ed="#B" n="88"/>nere communicationis apud ipsos occurrunt, quibus 
+      <lb ed="#B" n="89"/>a novitatis accusatione nostrarum ecclesiarum 
+      con<lb ed="#B" n="90" break="no"/>fessio liberatur. Damascen. lib. 3. de orth. fid. c. 3. 
+      <lb ed="#B" n="91"/>et lib. 4. c. 19. itidem tria communicationis genert 
+      <lb ed="#B" n="92"/>tatuit. Primum vocat ἐκ τοῦ ἐλάττονος, cum xml:id, quod 
+      <lb ed="#B" n="93"/>st inferius et a natura deitatis ἀλλότριον, toti 
+      per<lb ed="#B" n="94" break="no"/>ionae tribuitur, alterum ἐκ τοῦ κρείτονος, cum 
+      <lb ed="#B" n="95"/>excellentiora et diviniora de humana. Christi natura 
+      <lb ed="#B" n="96"/>praedicantur, quod libr. 3, c. 7. sic exponit: τῶν 
+      <lb ed="#B" n="97"/>οἰκείων αὐχημάτων ἡ θεότης τῷ σώματι μεταδίδωσιν. 
+      <lb ed="#B" n="98"/>εὑτὴ δὲ τῶν τῆς σαρκὸς παθῶν διαμένει ἀμέιοχυς 
+      <lb ed="#B" n="99"/>Tertium ἐξ ἀμφοῖν, ubi utraque eimul respicitur 
+      <lb ed="#B" n="100"/>natura, dum vel divina vel humana operatur 
+      Chri<lb ed="#B" n="101" break="no"/>itus in utraque forma cum alterius communicatione. 
+      <lb ed="#B" n="102"/>Vel à Aόγος ea, quae carnis sunt, sibi attribuit, vel 
+      <lb ed="#B" n="103"/>εσιαδίδωσ. tradit ac communicat carni τὰ [δο 
+      <lb ed="#B" n="104"/>propter περιχώρησον, vel divina vel humana Christu 
+      <lb ed="#B" n="105"/>pperatur in utraque forma cum alterius communm 
+      <lb ed="#B" n="106"/>catione
+      <lb ed="#B" n="107"/>
+               <!-- line coord error -->
+            </p>
+            <p xml:id="zef3dd-d1e1048-d1e984">
+               <lb ed="#B" n="108"/>183. Antithesis. Calviniani de tribua commumi 
+      <lb ed="#B" n="109"/>cationis xml:idiomatum generibus ὅμοια μὲν λαλοῦσ 
+      <lb ed="#B" n="110"/>ἐνόμοια δὲ φρονοῦσι, quod haeretieorum proprium 
+      <lb ed="#B" n="111"/>esse Irenaeus dicebat in praefat. libro I. adv. haeres 
+      <lb ed="#B" n="112"/>Danaeus part. 1. Isagog. Christ. c. 47. triplicen 
+      <lb ed="#B" n="113"/>agnoscit communicationis speciem, unam ἰδιωμάτιν 
+      <lb ed="#B" n="114"/>cum, quae sunt unius tantum naturae propria de 
+      <lb ed="#B" n="115"/>essentialia, tamen, alteri naturae in concreto ser 
+      <lb ed="#B" n="116"/>vocabulo significante totam personam Christi 
+      tribu<lb ed="#B" n="117" break="no"/>untur, alteram ἐνεργημάτων καὶ. ἀκσσελεσμάτων, 
+      <lb ed="#B" n="118"/>quae fatetur naturis esse communia, sed operu 
+      <lb ed="#B" n="119"/>tionibus actionibusque distinctis et ut loquitur 
+      al<lb ed="#B" n="120" break="no"/>teri communicatis; tertium nominat ὕψωσιν, cùn 
+      <lb ed="#B" n="121"/>natura a Aoγp aesumta praeter xml:idiomata naluralia 
+      <!--638.xml-->
+      <pb ed="#B" n="531"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>et essentialia habere dioitur omnes et aingulas 
+      <lb ed="#B" n="2"/>quantao maximas ulla creatura habere poteat 
+      gratia<lb ed="#B" n="3" break="no"/>et dotes cibi inhaerentes et habituales. Bilsteniu 
+      <lb ed="#B" n="4"/>in Catech. pagin. vigesima prima tres loquendi 
+      mo<lb ed="#B" n="5" break="no"/>dos proponit, primum per gratiam unionis, alterum 
+      <lb ed="#B" n="6"/>per gratiam capitis, tertium per gratiam habitualem 
+      <lb ed="#B" n="7"/>qua creatae proprietates Christo secundum corpus 
+      <lb ed="#B" n="8"/>et animam attribuantur. Sed quomodo singula 
+      <lb ed="#B" n="9"/>communicationis xml:idiomatum genera corruptelis sui 
+      <lb ed="#B" n="10"/>pervertant, ex sequentibus manifestum erit. 
+      </p>
+            <p xml:id="zef3dd-d1e1048-d1e1045">
+               <lb ed="#B" n="11"/>184. Quaeritur h. l. 1: An rectius quatuor quam 
+      <lb ed="#B" n="12"/>triae communicationia genera eint statuenda? Ita 
+      <lb ed="#B" n="13"/>quidam existimant, quorum haec est sententia 
+      <lb ed="#B" n="14"/>quod praedicationes, in quibus propria humana 
+      <lb ed="#B" n="15"/>naturae tribuuntur Filio DEI, distinguendae sint? 
+      <lb ed="#B" n="16"/>praedicationibus, in quibus alterutrius naturae 
+      xml:idio<lb ed="#B" n="17" break="no"/>mata de tota Christi persona enuntiantur, ut 
+      ha<lb ed="#B" n="18" break="no"/>ratione quatuor communicationis genera seu mod 
+      <lb ed="#B" n="19"/>praedicationum statuantur. Sic ergo propositio illa 
+      <lb ed="#B" n="20"/>Christus ess pascus, pertineret ad aliam classem 
+      <lb ed="#B" n="21"/>quam altera: Deus est pasgus. Sententia illa pro 
+      <lb ed="#B" n="22"/>bari potest sequentibus fundamentis: 1. distinguumt 
+      <lb ed="#B" n="23"/>tur haec communicationum genera oppellatione. 
+      Priu<lb ed="#B" n="24" break="no"/>in quo propria alterutrius naturae praedicantur di 
+      <lb ed="#B" n="25"/>persona, vocatur ἀντίδοσις; posterius, in quo propria 
+      <lb ed="#B" n="26"/>naturae humanae praedicantur de Filio Dei, vocatu 
+      <lb ed="#B" n="27"/>οἰκείωσις καὶ ἰδιοηοίησος; 2. distinguuntur definitione 
+      <lb ed="#B" n="28"/>ut ex dictis patet; 3. cubjecto. In propositionibus 
+      <lb ed="#B" n="29"/>primi generis subjecti loco ponitur concretum 
+      <lb ed="#B" n="30"/>utriusque naturae, xml:id est, nomen personae συνθέτο¬ 
+      <lb ed="#B" n="31"/>ab utraque natura divina et humana denominatae. 
+      <lb ed="#B" n="32"/>In propositionibus secundi generis concretum 
+      na<lb ed="#B" n="33" break="no"/>turae divinae, quae ipsa tamen vere unitam sibi 
+      ha<lb ed="#B" n="34" break="no"/>pet personaliter naturam humanam. Sane, quando 
+      <lb ed="#B" n="35"/>passio et mors tribuitur Filio Dei, tum intelligitu 
+      <lb ed="#B" n="36"/>Deus incarnatus, cum Deus in sua natura divina 
+      <lb ed="#B" n="37"/>quae est ἀπαθής et immutabilis pati morique 
+      no<lb ed="#B" n="38" break="no"/>possit, ex eo tamen inferri nequit, esse prorsu 
+      <lb ed="#B" n="39"/>ejusdem generis praedicationes, quando Christum 
+      <lb ed="#B" n="40"/>dico passum et quando Deum dico passum. Quam 
+      <lb ed="#B" n="41"/>vis enim realiter (πραγματικῶς) xml:idem sint 
+      Christu<lb ed="#B" n="42" break="no"/>et Deus incarnatus, (in echola Nestorianorum 
+      ha<lb ed="#B" n="43" break="no"/>propositiones: Christus est passus et Deus est passus 
+      <lb ed="#B" n="44"/>sunt oppositae, sed in schola orthodoxorum realite 
+      <lb ed="#B" n="45"/>non differunt), tamen per nomen Christi formalite 
+      <lb ed="#B" n="46"/>(νοημανικῶς) intolligitur concretum personae, 
+      pe<lb ed="#B" n="47" break="no"/>nomen Dei concretum naturae divinae, inter quae 
+      <lb ed="#B" n="48"/>duo quandam statui posse differentiam patet ex 
+      ho<lb ed="#B" n="49" break="no"/>argumento. Illo Deus, qui assumsit humanam ne 
+      <lb ed="#B" n="50"/>turam, ipse est passus, ut patet ex dicto apostolieo 
+      <lb ed="#B" n="51"/>Act. 20, v. 28: Deus proprio quo sanquine 
+      acquisi<lb ed="#B" n="52" break="no"/>vit cooleciam, cujus plena ἀνώλυσιρ. haec est: Deu 
+      <lb ed="#B" n="53"/>sanguinem in personae suae unitatem aesumsit qjus 
+      <lb ed="#B" n="54"/>que effusione ecclesiam aequisivit Jam subsumo 
+      <lb ed="#B" n="55"/>Filius DEI ab aeterno ex substantia Patris genitu, 
+      <lb ed="#B" n="56"/>est ille Deus, qui humanam naturam assumsit 
+      <lb ed="#B" n="57"/>Ergo Filius Dei ab aeterno a Patre genitus ipsc 
+      <lb ed="#B" n="58"/>est passus, in assumta scilicet carne. Quodsi in 
+      <lb ed="#B" n="59"/>hujus syllogismi assumtiono loco subjecti ponere 
+      <lb ed="#B" n="60"/>velis nomen Christi, quod est concretum personae 
+      <!--638.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>non rite procedes, quia enim nomen Christi notat 
+      <lb ed="#B" n="62"/>personam compositam, natura divina ungente e 
+      <lb ed="#B" n="63"/>humana uncta constantem, xml:ideo proprie et accurate 
+      <lb ed="#B" n="64"/>oquendo dici nequit: Christus assumsit naturam 
+      <lb ed="#B" n="65"/>humanam. 4. Si haec communicationis genera et 
+      <lb ed="#B" n="66"/>hae propositiones distinguantur, Nestorius et 
+      nestori<lb ed="#B" n="67" break="no"/>anizantes haeretici ex latibulis possunt eo melius in 
+      <lb ed="#B" n="68"/>lucem protrahi. Propositionem enim illam: Christus 
+      <lb ed="#B" n="69"/>est pasaus, Nestorius et ipsius asseclae concedunt 
+      <lb ed="#B" n="70"/>sed alteram: Deus est passus, praefracte negant, u 
+      <lb ed="#B" n="71"/>constat ex illo Nestorii symbolo: Noli gloriari, 
+      Ju<lb ed="#B" n="72" break="no"/>daee, non enim Deum, sed hominem crucifixisti, 
+      <lb ed="#B" n="73"/>5. ipsum incarnationis et redemtionis mysterium pie 
+      <lb ed="#B" n="74"/>consideratum, distineta quatuor communicationum 
+      <lb ed="#B" n="75"/>genera agnoscenda esse ostendit. Filius Dei ab omn 
+      <lb ed="#B" n="76"/>aeternitate constitutus mediator in temporis plenitu 
+      <lb ed="#B" n="77"/>line naturam humanam ex Maria virgine assumsit. 
+      <lb ed="#B" n="78"/>ac proinde etiam carnem in hypostaseos suae 
+      umi<lb ed="#B" n="79" break="no"/>tatem assumendo proprietates humanae naturae 
+      sib<lb ed="#B" n="80" break="no"/>appropriavit, ex quo nascitur unum communicationis 
+      <lb ed="#B" n="81"/>genus, videlicet οἰκείωσις. Idem Dei Tilius huma 
+      <lb ed="#B" n="82"/>nam naturam in personae suae unitatem assumendo 
+      <lb ed="#B" n="83"/>eandem in proprium divinae majestatis et celsitudi 
+      <lb ed="#B" n="84"/>nis thronum evexit, ex quo nascitur alterum 
+      com<lb ed="#B" n="85" break="no"/>municationis genus, videlicet ὑπερύψωσις. Por hanc 
+      <lb ed="#B" n="86"/>Filii Dei incarnationem et carnis in ipsam Aόγοι 
+      <lb ed="#B" n="87"/>ὑπόστασιν assumtionem constitutus est Christus una 
+      <lb ed="#B" n="88"/>ersona duabus constans naturis, de qua divina et 
+      <lb ed="#B" n="89"/>humana praedicantur ob personae ταυτότητα, ex qua 
+      <lb ed="#B" n="90"/>nascitur tertium communicationis genus, videlicet 
+      <lb ed="#B" n="91"/>ἀντίδοσις. Denique totus Christus secundum utram 
+      <lb ed="#B" n="92"/>que naturam opus redemtionis, propter quod carnem 
+      <lb ed="#B" n="93"/>assumserat, perfecit, ex quo nascitur quartum 
+      com<lb ed="#B" n="94" break="no"/>municationis genus, videlicet κοινοποίηαις. De ordine 
+      <lb ed="#B" n="95"/>non est, quod simus admodum solliciti, 
+      quodnam<lb ed="#B" n="96" break="no"/>cilicet ex his primo, quodque secundo loco ponatur 
+      <lb ed="#B" n="97"/>modo de re ipsa constet. (6. Quidam διχοτομί delectat 
+      <lb ed="#B" n="98"/>utuntur etiam hac illatione. Communicatio xml:idiomatum. 
+      <lb ed="#B" n="99"/>aut est humanitatis aut divinitatis. Idiomata 
+      huma<lb ed="#B" n="100" break="no"/>nitatis communicantur vel personae vel Aόγφ. 
+      Com<lb ed="#B" n="101" break="no"/>municatio xml:idiomatum humanitatis personae 
+      appro<lb ed="#B" n="102" break="no"/>priata est, quando proprietates naturae humanae de 
+      <lb ed="#B" n="103"/>Christo in concreto enuntiantur, ut Christus eat 
+      par<lb ed="#B" n="104" break="no"/>gus. Communicatio xml:idiomatum humanitatis 1ῷ Λόγρ 
+      <lb ed="#B" n="105"/>facta est, cum humanae naturae propria Filio 
+      Dei<lb ed="#B" n="106" break="no"/>1όγῳ seu divinitati Christi in concreto tribuuntur. 
+      <lb ed="#B" n="107"/>Deus est passus. Idiomata divinitatis 
+      communican<lb ed="#B" n="108" break="no"/>tur vel personae vel homini. Communicatio xml:idioma 
+      <lb ed="#B" n="109"/>tum divinitatis personae facta est, quando 
+      propri<lb ed="#B" n="110" break="no"/>divina de Christo in concreto enuntiantur, ut 
+      Chri<lb ed="#B" n="111" break="no"/>stus est omnipraesens. Communicatio xml:idiomatum 
+      di<lb ed="#B" n="112" break="no"/>vinitatis homini appropriata est vera ac realis μετα 
+      <lb ed="#B" n="113"/>δίδοσις, qua Λόγos carni in personitatem assumtae 
+      <lb ed="#B" n="114"/>divinae celsitudinis majestatem communicat, ut Chra 
+      <lb ed="#B" n="115"/>stus homo est omnipotens. Sed hanc enumerationem 
+      <lb ed="#B" n="116"/>probare non possumus: 1. quia juxta eam quinque 
+      <lb ed="#B" n="117"/>communicationis genera essent statuenda, addendum 
+      <lb ed="#B" n="118"/>enim enumeratis quatuor communicationum generi 
+      <lb ed="#B" n="119"/>bus illud, quod voeatur communicatio operationum 
+      <lb ed="#B" n="120"/>qua nomina officii praedieantur de Christo secundum 
+      <!--639.xml-->
+      <pb ed="#B" n="532"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>utramque naturam et sic nascerentur in universum 
+      <lb ed="#B" n="2"/>quinque communicationis genera; 2. propositiones, in 
+      <lb ed="#B" n="3"/>quibus divinae vel humanae naturae propria de per 
+      <lb ed="#B" n="4"/>sona praedicantur, commode ad unum genus referri 
+      <lb ed="#B" n="5"/>possunt, quia, ut persona constat ex duabus et in 
+      <lb ed="#B" n="6"/>duabus naturis, ita quoque utriusque naturae 
+      pro<lb ed="#B" n="7" break="no"/>pria de eadem recte praedicantur; 3. non eo modo 
+      <lb ed="#B" n="8"/>de Christi divinitate praedicantur humana, quo mod 
+      <lb ed="#B" n="9"/>de Christi humanitate praedicantur divina. 
+      Qui<lb ed="#B" n="10" break="no"/>enim divina natura celsissima est et immutabilis 
+      <lb ed="#B" n="11"/>ideo ipsa in se nec in sublimiorem statum evehi 
+      ne<lb ed="#B" n="12" break="no"/>in humiliorem deduci potuit, humana vero natura. 
+      <lb ed="#B" n="13"/>quia infirma est et mutabilis, xml:ideo etiam perfici e 
+      <lb ed="#B" n="14"/>supra propriae naturae conditionem potuit exaltar 
+      <lb ed="#B" n="15"/>ut recte scribit Hafenrefferus in loc. de pers. Christ 
+      <lb ed="#B" n="16"/>p. 338.) Praetermisso igitur hoc sexto argument. 
+      <lb ed="#B" n="17"/>prioribus quinque argumentis pro quaternario gene 
+      <lb ed="#B" n="18"/>rum communicationis numero stabiliendo adductis 
+      <lb ed="#B" n="19"/>non omnino nullum robur inesse concedimus, interim 
+      <lb ed="#B" n="20"/>ne ab usitata docendi ratione in libro symbolico 
+      <lb ed="#B" n="21"/>Formula scilicet Concordiae praescripta, discedamus 
+      <lb ed="#B" n="22"/>retinebimus tria communicationis genera, ita tamen 
+      <lb ed="#B" n="23"/>ut in primo genere distincte de illis praedicationi 
+      <lb ed="#B" n="24"/>bus agamus, in quibus humanae naturae propris 
+      <lb ed="#B" n="25"/>Filio DEI tribuuntur, quae ad primum genus 
+      tar<lb ed="#B" n="26" break="no"/>quam peculiaris ejus species commode revocar. 
+      <lb ed="#B" n="27"/>ponannt. 
+      </p>
+            <p xml:id="zef3dd-d1e1048-d1e1355">
+               <lb ed="#B" n="28"/>185. Qu. 2. An μεταδίδοσις illa, qua Λόγος 
+      pro<lb ed="#B" n="29" break="no"/>priam suam gloriam et majestatem assumtae 
+      carn<lb ed="#B" n="30" break="no"/>communicat, rectius sccundo vel tertio loco inter qe 
+      <lb ed="#B" n="31"/>nera communicationis ponatur? Formula 
+      Concordia<lb ed="#B" n="32" break="no"/>ponit loco tertio, quia hoc genus ut maxime 
+      con<lb ed="#B" n="33" break="no"/>troversum copiosius erat pertractandum et 
+      explican<lb ed="#B" n="34" break="no"/>dum; sed si naturae ordinem respicere velimus, 
+      se<lb ed="#B" n="35" break="no"/>cundo loco ponendum erit, quia natura humana in 
+      <lb ed="#B" n="36"/>pperibus officii non solum secundum essentiales sua 
+      <lb ed="#B" n="37"/>proprietates, sed etiam juxta gloriam divinam 
+      pe<lb ed="#B" n="38" break="no"/>hypostaticam unionem sibi communicatam agit, ut 
+      <lb ed="#B" n="39"/>quo loco plenius docebitur, unde quidam ex nostri 
+      <lb ed="#B" n="40"/>libri symbolici auctoritatem secuti tertio loco, qui 
+      <lb ed="#B" n="41"/>dam vero naturae ordini et docendi perspicuitati in 
+      <lb ed="#B" n="42"/>nistentes secundo loco illud ponunt, quae diversitas 
+      <lb ed="#B" n="43"/>cum non concernat rem ipsam, neminem turbar 
+      <lb ed="#B" n="44"/>debet. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

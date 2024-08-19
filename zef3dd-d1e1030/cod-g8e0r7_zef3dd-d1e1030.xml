@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="519"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e1030"><!-- zef3dd-l4c9 -->
+            <head xml:id="zef3dd-d1e1030-Hd1e101">Caput 9</head>
+            <head xml:id="zef3dd-d1e1030-Hd1e103" type="question-title">De propositionibus personalibus</head>
+            <p xml:id="zef3dd-d1e1030-d1e106">
+      <!--626.xml-->
+               <pb ed="#B" n="519"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>CAPUT IX 
+      <lb ed="#B" n="2"/>DE PROPOSITIONIBUS 
+      PERSO<lb ed="#B" n="3" break="no"/>NALIBUS 
+  </p>
+            <p xml:id="zef3dd-d1e1030-d1e122">
+               <lb ed="#B" n="4"/>155. Thesis: Ex unione et communicatione 
+      nat<lb ed="#B" n="5" break="no"/>rarum resultant propositiones personales, quae sun 
+      <lb ed="#B" n="6"/>ejusmodi praedicationes, in quibus concretum uniu 
+      <lb ed="#B" n="7"/>naturae praedicatur de concreto alterius naturae 
+      <lb ed="#B" n="8"/>ut Deus est homo, et homo est Deus. Ad personales 
+      <lb ed="#B" n="9"/>propositiones videri alicui possent referendae etiam 
+      <lb ed="#B" n="10"/>illae, in quibus tota persona ab alterutra vel a 
+      <lb ed="#B" n="11"/>utraque natura describitur, quarum tres constitu, 
+      <lb ed="#B" n="12"/>possunt classes: 1. in quibusdam concretum divina 
+      <lb ed="#B" n="13"/>naturae praedicatur de persona. Ut Christus est 
+      <lb ed="#B" n="14"/>Deus, Christus est Filius Dei. Hic est verus 
+      Deu<lb ed="#B" n="15" break="no"/>tu es Dei Filius; 2. in quibusdam concretum hu 
+      <lb ed="#B" n="16"/>manae naturae praedicatur de persona. Ut Christu 
+      <lb ed="#B" n="17"/>est homo, Christus est Filius hominis, Hic est 
+      veru<lb ed="#B" n="18" break="no"/>homo, Tu eo verus homo; 3. in quibusdam concretum 
+      <lb ed="#B" n="19"/>utriusque naturae praedicatur de persona, ut 
+      Chri<lb ed="#B" n="20" break="no"/>stus eot θεάνθρωnoς, hic est Immanuel, tu es 
+      Deu<lb ed="#B" n="21" break="no"/>et homo. Quae tripartita distinctio respectu 
+      prae<lb ed="#B" n="22" break="no"/>dicati statuitur, subjectum enim utrobique xml:idem est 
+      <lb ed="#B" n="23"/>videlicet persona, quae exprimitur, vel per nomer 
+      <lb ed="#B" n="24"/>personae, ut Christus, vel per pronomen δεικτικόν 
+      <lb ed="#B" n="25"/>ut Tu es Filius Dei, vel per pronomen relativum 
+      <lb ed="#B" n="26"/>ut Hic est veruo Deus. Quamvis vero certa ratione 
+      <lb ed="#B" n="27"/>hae propositiones ad personales referri possint, quis 
+      <lb ed="#B" n="28"/>duae illae naturae non subsistunt in Christo 
+      separ<lb ed="#B" n="29" break="no"/>tae, sed sunt arctissime unitae, et quando de Christo 
+      <lb ed="#B" n="30"/>praedicatur, quod sit DEUS, subintelligendum, quod 
+      <lb ed="#B" n="31"/>sit Deus in carne manifestatus, quod sit Filius De 
+      <lb ed="#B" n="32"/>ex Maria virgine secundum humanam naturam 
+      hom<lb ed="#B" n="33" break="no"/>natus; quando de ipso praedicatur, quod sit homo 
+      <lb ed="#B" n="34"/>subintelligendum, quod sit homo in Deum assumtu 
+      <lb ed="#B" n="35"/>quod sit talis filius hominis, qui etiam in personae 
+      <lb ed="#B" n="36"/>unitate est Filius Dei, unde in tertia classe ab utra 
+      <lb ed="#B" n="37"/>que natura conjunctim sive ἡνωμένως accepta 
+      Chri<lb ed="#B" n="38" break="no"/>stus describitur; tamen a propositionibus personali 
+      <lb ed="#B" n="39"/>bus proprie et exquisite sic dictis commode discern 
+      <lb ed="#B" n="40"/>possunt: 1. quia hae propositiones non tam persona 
+      <lb ed="#B" n="41"/>unitatem, quam naturarum in Christo dualitatem 
+      <lb ed="#B" n="42"/>praecise et formaliter exprimunt; inde enim atque 
+      <lb ed="#B" n="43"/>ideo Christus est et dicitur homo, quia in ipso es 
+      <lb ed="#B" n="44"/>natura humana, inde atque xml:ideo est et dicitur Deu. 
+      <lb ed="#B" n="45"/>quia in ipso est natura divina, inde atque xml:ideo est 
+      <lb ed="#B" n="46"/>et dicitur θεάνθρωπoς, quia in ipso est non solum 
+      <lb ed="#B" n="47"/>humana, sed etiam divina natura; 2. quia hae pro 
+      <lb ed="#B" n="48"/>positiones potius oppositae sunt negantibus vel di 
+      <lb ed="#B" n="49"/>vinam in Christo naturam, ut Arianis, Photinianis 
+      <lb ed="#B" n="50"/>Judaeis; vel humanam in ipso naturam, ut 
+      Marcio<lb ed="#B" n="51" break="no"/>nitis, Valentinianis, Manichaeis, quam unionis per 
+      <lb ed="#B" n="52"/>sonalis mysterium evacuantibus; 3. quia has 
+      propo<lb ed="#B" n="53" break="no"/>sitiones omnes et singulas, Christus est homo, Chri 
+      <lb ed="#B" n="54"/>stus est Deus, Christus est Deus et homo, Nestorius 
+      <lb ed="#B" n="55"/>personalis unionis hostis concessit, sed proprie et 
+      <lb ed="#B" n="56"/>exquisite dictas personales propositiones: Deus es 
+      <lb ed="#B" n="57"/>homo, et homo est Deus, impugnavit. Relinquitur 
+      <lb ed="#B" n="58"/>gitur propositiones personales exquisite et stricte sio 
+      <!--626.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="59"/>dictas atque ex unione personali immediate fluente 
+      <lb ed="#B" n="60"/>esse duntaxat eas, in quibus concretum unius naturae 
+      <lb ed="#B" n="61"/>praedicatur de concreto alterius naturae, vel quod 
+      <lb ed="#B" n="62"/>idem est, in quibus una natura praedicatur de altera 
+      <lb ed="#B" n="63"/>in concreto 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e259">
+               <lb ed="#B" n="64"/>156. De hisce propositionibus personalibus observa: 
+      <lb ed="#B" n="65"/>I. quod earum origo et fundamentum solum atque 
+      <lb ed="#B" n="66"/>inice consistat in unione personali et communicatione 
+      <lb ed="#B" n="67"/>naturarum, a qua unice et immediate profluunt, e 
+      <lb ed="#B" n="68"/>qua etiam unice aestimandae et explicandae sunt 
+      <lb ed="#B" n="69"/>Quia enim humana et divina in Christo naturae sunt 
+      <lb ed="#B" n="70"/>personaliter unitae, quia duabus illis naturis 
+      perso<lb ed="#B" n="71" break="no"/>naliter unitis intima περιχώρησις intercedit, ut divina 
+      <lb ed="#B" n="72"/>natura τοῦ Λόγου non subsistat extra assumtam 
+      <lb ed="#B" n="73"/>humanam, nec assumta humana natura subsistat extra 
+      <lb ed="#B" n="74"/>divinam, inde atque xml:ideo Deus est homo, et home 
+      <lb ed="#B" n="75"/>est Deus. Quia Λόγου ὑπόστασις non tantum divinae 
+      <lb ed="#B" n="76"/>suae naturae, sed etiam humanae est ὑπόστασις, xml:ideo 
+      <lb ed="#B" n="77"/>Deus est ac dicitur homo. Quia humana natura 
+      <lb ed="#B" n="78"/>assumta ipsa τοῦ Λόγου ὑποσιάσει subsistit, xml:ideo 
+      <lb ed="#B" n="79"/>homo est ac dicitur Deus; 2. quod non ex termine 
+      <lb ed="#B" n="80"/>: quo, sed ex termino ad quem hae praedicationes 
+      <lb ed="#B" n="81"/>explicandae sint, quia non tam unitionis actum 
+      <lb ed="#B" n="82"/>quam unionis statum explicant. Quando enim utimus 
+      <lb ed="#B" n="83"/>praedicationibus unionis actum exprimentibus, subject 
+      <lb ed="#B" n="84"/>loco ponitur nomen personae simplicis, ut Filius 
+      Dei<lb ed="#B" n="85" break="no"/>factus est homo, sensus enim est, quod Filius Dei 
+      <lb ed="#B" n="86"/>ab aeternitate ἄσαρκoς susceperit carnem in personae 
+      <lb ed="#B" n="87"/>unitatem atque ita factus sit ἔνσαρκos. Sed in 
+      per<lb ed="#B" n="88" break="no"/>sonalibus propositionibus, de quibus hic loquimur, 
+      <lb ed="#B" n="89"/>subjecti loco ponitur nomen personae συνθέτου, ut 
+      <lb ed="#B" n="90"/>Filius Dei est filius hominis, sensus enim est, quod 
+      <lb ed="#B" n="91"/>Filius Dei ἔνσαρκος sit filius hominis; 3. quia 
+      per<lb ed="#B" n="92" break="no"/>sonalis unio non tollit naturarum distinctionem, sed 
+      <lb ed="#B" n="93"/>naturae duae in Christo personaliter unitae, divinitas 
+      <lb ed="#B" n="94"/>cilicet et humanitas, manent essentialiter distinctae. 
+      <lb ed="#B" n="95"/>ideo non dicimus in abstracto deitas est humanita 
+      <lb ed="#B" n="96"/>vel humanitas est deitas. (Scholastici.) Quae in 
+      <lb ed="#B" n="97"/>uno supposito uniuntur, de se invicem praedicantur 
+      <lb ed="#B" n="98"/>si concrete accipiantur. Unio facta est non ad unam 
+      <lb ed="#B" n="99"/>naturam, sic enim altera esset abolita, vel foret 
+      con<lb ed="#B" n="100" break="no"/>fusio aut commixtio, sed in unam personam 
+      composi<lb ed="#B" n="101" break="no"/>tam. Quemadmodum enim in articulo trinitatis ob 
+      <lb ed="#B" n="102"/>discrimen personarum non dico: Pater est Filius,, 
+      <lb ed="#B" n="103"/>Filius est Pater; ita in articulo de Christo ob 
+      dis<lb ed="#B" n="104" break="no"/>crimen naturarum non dico: deitas est humanitas, 
+      <lb ed="#B" n="105"/>et humanitas est deitas; 4. si ergo loco subjecti 
+      po<lb ed="#B" n="106" break="no"/>nitur abstractum, tunc in praedicato non potest poni 
+      <lb ed="#B" n="107"/>abstractum absolute, sed cum quadam variatione, ut 
+      <lb ed="#B" n="108"/>ὁ Λόγος (puta ἄσαρκoς) factus est caro, natura 
+      di<lb ed="#B" n="109" break="no"/>vina 10ῦ Λόγου assumsit humanam naturam. Huma 
+      <lb ed="#B" n="110"/>nitas est assumta in Deum, humana natura assumta 
+      <lb ed="#B" n="111"/>est ἐνυπόστατος τῷ Λόγῳ, sicut in articulo de trini 
+      <lb ed="#B" n="112"/>ate non dico: Pater est Filius, sed Pater est in 
+      <lb ed="#B" n="113"/>Pilio, et Filius in Patre; 5. dicuntur propositione 
+      <lb ed="#B" n="114"/>personales, quia ex unione personali originem du 
+      <lb ed="#B" n="115"/>cunt, personalis unionis mysterium exprimunt, et 
+      <lb ed="#B" n="116"/>earum vis, natura, veritas et connexio ex unione 
+      per<lb ed="#B" n="117" break="no"/>jonali judicandae sunt. Dicuntur inusitatae, quia 
+      <lb ed="#B" n="118"/>non congruunt ad aliquem modum praedicandi usi¬ 
+      <!--627.xml-->
+      <pb ed="#B" n="520"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tatum in praedicabilibus Porphyrianis traditum; non 
+      <lb ed="#B" n="2"/>enim est praedicatio generis de specie nec specie 
+      <lb ed="#B" n="3"/>de individuo, nec differentiae, proprii vel accidenti 
+      <lb ed="#B" n="4"/>de individuo, vel specie vel genere. Cisterciensis i 
+      <lb ed="#B" n="5"/>sentent. dist. 5. quaest. 2. art. 1: Regulae Aristote 
+      <lb ed="#B" n="6"/>lis in divinis non tenent; 6. exempla harum propo 
+      <lb ed="#B" n="7"/>nitionum in Scripturis haec occurrunt: Jerem. 23, v. 5. 
+      <lb ed="#B" n="8"/>Germen Davidis est Jehova justitia nostra. Matth. I6 
+      <lb ed="#B" n="9"/>v. 13. et 16: Filius hominis est Filius Dei; e. s. 
+      <lb ed="#B" n="10"/>v. 21. et 23: Filius Mariae est et vocatur Immanuel 
+      <lb ed="#B" n="11"/>Marc. 15, v. 39: Vere hic homo Filius Dei eras 
+      <lb ed="#B" n="12"/>Luc. 1, v. 35: Sanctum, quod ex Maria nascitur 
+      <lb ed="#B" n="13"/>Filius Dei vocatur. Luc. 2, v. 11: Filius Mariae 
+      <lb ed="#B" n="14"/>est Dominus. 1. Cor. 15, v. 47: Secundus homo est 
+      <lb ed="#B" n="15"/>Dominus de coelo; 7. ex quo fundamento etiam recti 
+      <lb ed="#B" n="16"/>dicitur, quod Christus homo seu secundum humanar 
+      <lb ed="#B" n="17"/>naturam sit Filius Dei, scilicet personaliter, non 
+      <lb ed="#B" n="18"/>essentialiter. Si enim homo vere et realiter est Deus 
+      <lb ed="#B" n="19"/>si filius hominis vere et realiter est Dei Filius, ut 
+      <lb ed="#B" n="20"/>que etiam Christus homo seu secundum humanitatem 
+      <lb ed="#B" n="21"/>est Dei Filius, nimirum ὑποστατικῶς. Theophylact 
+      <lb ed="#B" n="22"/>in c. 1. Luc. fol. 212. Gr: καλεῖται υἱὸς ὑψίστο 
+      <lb ed="#B" n="23"/>ὁ φαινόμενος ἄνθρωπος· ἐπεὶ γὰρ μια ἡν ὑπόστασις 
+      <lb ed="#B" n="24"/>τῷ ὅνiι, revera υἱὸς ὑψίστου ἡν ὁ ἄνθρωπος ὁ υἱὸς 
+      <lb ed="#B" n="25"/>1ῆς παρθένου. Alcuinus libr. 3. de Trinit. c. 9: 
+      No<lb ed="#B" n="26" break="no"/>ita Christus verbum Dei habuit in se, sicut ali 
+      <lb ed="#B" n="27"/>cancti, sed ipse est Verbum Dei. Aliud est enin 
+      <lb ed="#B" n="28"/>Verbum in carne et aliud est Verbum caro factum 
+      <lb ed="#B" n="29"/>Aliud est Deus in homine, et aliud est Deus home 
+      <lb ed="#B" n="30"/>ideo Dei Filius non solum secundum veram divi 
+      <lb ed="#B" n="31"/>nitatem, quam habet de natura Dei Patris, sed etiam 
+      <lb ed="#B" n="32"/>ecundum carnem, quam veram naturaliter habet de 
+      <lb ed="#B" n="33"/>corpore beatae genetricis Deus verus et creditur et 
+      <lb ed="#B" n="34"/>praedicatur ab omnibus catholicis, quoniam aeterne 
+      <lb ed="#B" n="35"/>divinitas Filii cum plena humanitate sua et 
+      eadem<lb ed="#B" n="36" break="no"/>plena humanitas Filii cum aeterna divinitate suo 
+      <lb ed="#B" n="37"/>na est in s. trinitate persona, et haec non ado 
+      <lb ed="#B" n="38"/>ptiva, sed propria et perfecta. Bernhard. homil. 1. 
+      <lb ed="#B" n="39"/>de laud. virg.: Quod nascetur ex te, Filius Dei vo 
+      <lb ed="#B" n="40"/>cabitur, xml:id est, non solum qui e sinu Patris in ute 
+      <lb ed="#B" n="41"/>rum tuum veniens obumbrabit tibi, sed etiam xml:id 
+      <lb ed="#B" n="42"/>quod de tua substantia sociabit sibi, ex hoc jam vo 
+      <lb ed="#B" n="43"/>cabitur Filius Dei, quemadmodum is, qui a 
+      Patr<lb ed="#B" n="44" break="no"/>est ante secula genitus, tuus quoque quodammod 
+      <lb ed="#B" n="45"/>reputabitur filius, unde etiam Maria dicitur θεοτόκος 
+      <lb ed="#B" n="46"/>quia peperit secundum carnem, carnem factum 
+      De<lb ed="#B" n="47" break="no"/>Verbum, ut explicat concil. Ephesin. can. 1. Fir. 
+      <lb ed="#B" n="48"/>missime tene, inquit Fulgentius lib. de fide ad Pe 
+      <lb ed="#B" n="49"/>trum c. 18, et nullatenus dubites, non carnem Chrisi 
+      <lb ed="#B" n="50"/>sine divinitate conceptam in utero virginis, priusquam 
+      <lb ed="#B" n="51"/>tusciperetur a Verbo, sed ipsum Verbum Deum quae 
+      <lb ed="#B" n="52"/>carnis acceptione conceptum ipsamque carnem Verb. 
+      <lb ed="#B" n="53"/>incarnatione conceptam 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e503">
+               <lb ed="#B" n="54"/>157. Antithesis: 1. Nestorius personales propos 
+      <lb ed="#B" n="55"/>tiones repudiavit, unde proverbii loco dicere fuit 
+      <lb ed="#B" n="56"/>solitus: Noli gloriari Judaee, non Deum, sed homi 
+      <lb ed="#B" n="57"/>nem crucifixisti, Evagrius lib. I. hist. c. 2. 2. Felia 
+      <lb ed="#B" n="58"/>Orgelitanus sive Orgelli episcopus teste Aimonio 
+      <lb ed="#B" n="59"/>monacho scriptis quibusdam editis Christum respectui 
+      <lb ed="#B" n="60"/>humanae naturae adoptivum duntaxat Dei Filium 
+      <!--627.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>esse asseruit, sed in concilio propterea instituto 
+      er<lb ed="#B" n="62" break="no"/>roris convictus eundem Romae damnavit. Vide 
+      syn<lb ed="#B" n="63" break="no"/>odum Francofurtensem anno 794. habitam c. 5. et 
+      <lb ed="#B" n="64"/>tomum singularem auctorum insignium a Stevartio III. &amp; 
+      <lb ed="#B" n="65"/>editum. 3. Scholastici sie ἀναλύουσι personales illas 
+      <lb ed="#B" n="66"/>praedicationes: Filius hominis est Filius Dei, et 
+      <lb ed="#B" n="67"/>Filius Dei est filius hominis, xml:id est Filius Dei, qui 
+      <lb ed="#B" n="68"/>sustentat humanam naturam, est Deue. Atqui si 
+      <lb ed="#B" n="69"/>non agitur hic de essentiali naturarum distinctione, 
+      <lb ed="#B" n="70"/>sed de personali earum unione; 2. Filius Dei sustem 
+      <lb ed="#B" n="71"/>cans humanam naturam est Deus essentialiter per 
+      <lb ed="#B" n="72"/>aeternam a Patre generationem, qua de re non 
+      <lb ed="#B" n="73"/>uaeritur in propositione personali. Filius 
+      Maria<lb ed="#B" n="74" break="no"/>est Filius Dei personaliter, xml:id est per et propte 
+      <lb ed="#B" n="75"/>unionem personalem, quia haec natura humana subsis 
+      <lb ed="#B" n="76"/>tit ἐν αὐτῷ τῷ Λόγῳ, qua de re unice ac 
+      propri<lb ed="#B" n="77" break="no"/>igitur in personali propositione; 3. Filius Dei es 
+      <lb ed="#B" n="78"/>Filius hominis non per nudam humanae naturae 
+      sus<lb ed="#B" n="79" break="no"/>tentationem, sed per plenissimam rῆς ὑποσιάσεως 
+      <lb ed="#B" n="80"/>communicationem, per intimam naturarum commui 
+      <lb ed="#B" n="81"/>cationem, per arctissimam περιχώρησιν et 
+      immeatio<lb ed="#B" n="82" break="no"/>nem. Quidam ex Scholasticis disputant, 
+      propositio<lb ed="#B" n="83" break="no"/>nes personales esse xml:identicas, ut sit sensus: Deus 
+      <lb ed="#B" n="84"/>est ille, qui est homo, et ille, qui est homo, est 
+      Fi<lb ed="#B" n="85" break="no"/>ius Dei. Quidam illorum volunt accidentales. Ut enin 
+      <lb ed="#B" n="86"/>per accidens praedicatur de homine, quod sitcanus, ito 
+      <lb ed="#B" n="87"/>quoque per accidens praedicari de Filio Dei, quod e 
+      <lb ed="#B" n="88"/>homo. At accidens non praedicatur de suo subjecto di 
+      <lb ed="#B" n="89"/>recte. Jam vero filius Mariae directe praedicatur de Filio 
+      <lb ed="#B" n="90"/>Dei. Si natura humana esset Λόγου accidens, Aόγος 
+      <lb ed="#B" n="91"/>duntaxat dicendus esset humanus, non autem homo. 
+      <lb ed="#B" n="92"/>Plura contra hanc hypothesin adducta sunt supe 
+      <lb ed="#B" n="93"/>rius. Rectius igitur Bonaventura statuit, non posse 
+      <lb ed="#B" n="94"/>hanc praedicationem reduci ad alios modos 
+      prae<lb ed="#B" n="95" break="no"/>dicandi consuetos et usitatos vel per se vel per 
+      ac<lb ed="#B" n="96" break="no"/>ridens, non enim esse praedicationem per essentiam, 
+      <lb ed="#B" n="97"/>nec per inhaerentiam nec per causam nec per se, 
+      <lb ed="#B" n="98"/>nec per accidens, sed esse modum praedicandi 
+      sin<lb ed="#B" n="99" break="no"/>gularem propter hypostaticam unionem ad unum 
+      <lb ed="#B" n="100"/>hyphistamenon. Eadem est sententia Occami e 
+      <lb ed="#B" n="101"/>Aquilani 3. sent. dist. 7. quaest un. art. 2, qui hanc 
+      <lb ed="#B" n="102"/>rationem addunt: Sicut modus essendi in Chrisle 
+      <lb ed="#B" n="103"/>est mirabiliter singularis et eingulariter mirabilis 
+      <lb ed="#B" n="104"/>ta etiam modus praedicandi in Christo est inus 
+      <lb ed="#B" n="105"/>catus mirabiliter singularis et eingulariter 
+      mirabi<lb ed="#B" n="106" break="no"/>lis, nam modus praedicandi sequitur modum e 
+      <lb ed="#B" n="107"/>tendi. 4. Pontificii personales propositiones non 
+      <lb ed="#B" n="108"/>recte explicant. Bellarm. libr. 3. de Christo e. 4. 
+      <lb ed="#B" n="109"/>propositionem illam: Verbum caro factum est, 
+      con<lb ed="#B" n="110" break="no"/>fert cum his propositionibus: Aaron a Deo factut 
+      <lb ed="#B" n="111"/>est pontifex, David factus est rex. Atqui fieri 
+      <lb ed="#B" n="112"/>pontificem vel regem est merum accidens, et quidem 
+      <lb ed="#B" n="113"/>separabile ac mutabile nec cum Aarone sacerdotium 
+      <lb ed="#B" n="114"/>vel cum Davide regnum unum constituit ὑφισιαμε¬ 
+      <lb ed="#B" n="115"/>νον; c. 15. Aόγον assumentem naturam humanam 
+      <lb ed="#B" n="116"/>confert cum rege purpuram induente. Sensus igitu 
+      <lb ed="#B" n="117"/>ropositionis: Filius Dei est Filius hominis erit xml:idem 
+      <lb ed="#B" n="118"/>cum hac propositione: rex est purpuratus. Sed 
+      pu<lb ed="#B" n="119" break="no"/>purae non communicatur regis ὑπόστασις nec cul 
+      <lb ed="#B" n="120"/>rege unam constituit personam. Gregor. de Valent 
+      <!--628.xml-->
+      <pb ed="#B" n="521"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tom. 4. comm. in Thom. disput. 1. quaest. 2. p. 36. 
+      <lb ed="#B" n="2"/>hanc propositionem: Deus est homo, quodammodo 
+      <lb ed="#B" n="3"/>sdenticam esse dicit. In defens. diput. contra fund 
+      <lb ed="#B" n="4"/>Ubiquit. p. 42. negat Christum secundum 
+      human<lb ed="#B" n="5" break="no"/>tatem esse Deum 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e672">
+               <lb ed="#B" n="6"/>158. 5. Calviniani in ἀναλύσει harum propositio 
+      <lb ed="#B" n="7"/>num misere fluctuant. 1. Quidam dicunt esse 
+      prae<lb ed="#B" n="8" break="no"/>dicationes verbales. Danaeus contra Chemn. c. 1. 
+      <lb ed="#B" n="9"/>p. 295: Hae sententiae: Deus realiter est homo, e 
+      <lb ed="#B" n="10"/>homo est Deus, ita sunt explicandae et intelligendae. 
+      <lb ed="#B" n="11"/>ut de persona quidem ipsa seu de toto unito 
+      real<lb ed="#B" n="12" break="no"/>liter dicantur, de toto tamen uniti aut singulis illius 
+      <lb ed="#B" n="13"/>personae naturis verbaliter tantum et per ἐναλλαγὴ 
+      <lb ed="#B" n="14"/>ὀνομάτων αut ἀντίδοσιν aut κοινωνίαν ἰδιωμάτονν 
+      <lb ed="#B" n="15"/>enuntientur etiam per verba concretiva et personam 
+      <lb ed="#B" n="16"/>denotantia. Omnibus enim his vocabulis patres hanc 
+      <lb ed="#B" n="17"/>verbalem praedicationem seu appellationis 
+      commu<lb ed="#B" n="18" break="no"/>nicationem vocant. Ergo haec propositio: Hic Deue 
+      <lb ed="#B" n="19"/>est homo, personae quidem ipsius ratione realis es, 
+      <lb ed="#B" n="20"/>ipsius autem naturae divinae ratione non potest ess 
+      <lb ed="#B" n="21"/>realis praedicatio, quia Christi deitas non est 
+      hu<lb ed="#B" n="22" break="no"/>manitas. Idem repetit in operibus p. 1419. Ac 
+      <lb ed="#B" n="23"/>monit. Neostad. de libro concord. p. 68: Homo 
+      <lb ed="#B" n="24"/>iste partim re ipsa, partim nomine tenus es 
+      <lb ed="#B" n="25"/>Deus; p. 70: Praedicatio humanorum de Dec 
+      <lb ed="#B" n="26"/>et divinorum de homine quantum ad natura 
+      <lb ed="#B" n="27"/>tantum est verbalis. Confer Bezam praef. p. 1. resp. 
+      <lb ed="#B" n="28"/>ad acta Coll. p. 19. et Orth. consens. p. 297. edi. 
+      <lb ed="#B" n="29"/>Tigur. anno 1585. Contra: 1. Si propositiones illa 
+      <lb ed="#B" n="30"/>personales non sunt reales, sed verbales tantum, ita 
+      <lb ed="#B" n="31"/>quoque unio, quae est harum praedicationum 
+      fur<lb ed="#B" n="32" break="no"/>damentum non erit realis, sed verbalis; 2. qui 
+      <lb ed="#B" n="33"/>modo Verbum caro factum est, eo etiam modo Deu 
+      <lb ed="#B" n="34"/>dicitur homo. Sed Verbum caro factum est vere e 
+      <lb ed="#B" n="35"/>realiter, per assumtionem scilicet carnis in suam 
+      hy<lb ed="#B" n="36" break="no"/>postasin. Ergo Deus est et dicitur homo vere e 
+      <lb ed="#B" n="37"/>realiter. Christus Deus per veram et realem natu 
+      <lb ed="#B" n="38"/>rarum κοινωνίαν est homo, et Christus homo 
+      pe<lb ed="#B" n="39" break="no"/>eandem vere ac realiter est Deus; 3. si verbalis es 
+      <lb ed="#B" n="40"/>praedicatio, Deus est homo, utique etiam verbalis 
+      <lb ed="#B" n="41"/>erit ea: Deus eat passus, verbalis igitur erit etiam 
+      <lb ed="#B" n="42"/>redemtio per passionem ipsius Filii Dei praestita 
+      <lb ed="#B" n="43"/>Frivolum est, quod regerit Paraeus in Iren. p. 264. 
+      <lb ed="#B" n="44"/>Si de praedicationibus loquamur, ineptam esse co 
+      <lb ed="#B" n="45"/>villationem, cum nullae sint praedicationes, nis 
+      <lb ed="#B" n="46"/>verbales, quia non rebus, sed verbis constant, neque 
+      <lb ed="#B" n="47"/>enim de rebus ipsis, sed verbis rerum symbolis lo 
+      <lb ed="#B" n="48"/>quimur et philosophamur. Si vero de ipso mysterio 
+      <lb ed="#B" n="49"/>unionis nadurarum, quod praedicationibus verbali 
+      <lb ed="#B" n="50"/>bus enunticitur, intelligamus, falsam esse accusatio 
+      <lb ed="#B" n="51"/>nem, cum ipsimet doceant, Christum hominem ess 
+      <lb ed="#B" n="52"/>Deum non verbaliter, sed realiter, imo realissimo 
+      <lb ed="#B" n="53"/>Respondemus: 1. mutatur quaestionis status, non enim 
+      <lb ed="#B" n="54"/>quaeritur, an sint verbales praedicationes, sed ar 
+      <lb ed="#B" n="55"/>tantum verbales sint et non reales. Dan. d. I. non 
+      <lb ed="#B" n="56"/>eot realis hujusmodi praedicatio, sed verbalis tar 
+      <lb ed="#B" n="57"/>tum seu dialectica; 2. quia propositiones illas 
+      tar<lb ed="#B" n="58" break="no"/>tum verbales esse statuunt, ex eo immote colligimus 
+      <lb ed="#B" n="59"/>quod Deum verbaliter tantum hominem esse statuant. 
+      <lb ed="#B" n="60"/>etiamsi verbis xml:id negent; 3. terminos propositionis 
+      <!--628.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>hujus: Deus est homo, non relinquunt in propria e 
+      <lb ed="#B" n="62"/>nativa significatione, sed loco hominis substistuum 
+      <lb ed="#B" n="63"/>Deum et loco Dei substituunt hominem, unde xml:iden 
+      <lb ed="#B" n="64"/>ticas vocant, ut postea apparebit; 4. verbis quidem 
+      <lb ed="#B" n="65"/>docent, Christum Deum esse hominem realiter, sed quia 
+      <lb ed="#B" n="66"/>formale unionis personalis multis modis labefactant 
+      <lb ed="#B" n="67"/>inde propositiones personales etiam pervertunt. 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e813">
+               <lb ed="#B" n="68"/>159. 2. Quidam vocant praedicationes proprias 
+      <lb ed="#B" n="69"/>et regulares. Orthod. consens. p. 18. et 122. 
+      Gry<lb ed="#B" n="70" break="no"/>naeus disp. de sermone incarnato an. 87. habit. th. 14. 
+      <lb ed="#B" n="71"/>Respondemus: Si de proprietate verborum 
+      grammatic<lb ed="#B" n="72" break="no"/>quaestio sit, concedimus esse proprias, quia tam prae 
+      <lb ed="#B" n="73"/>dicatum quam subjectum retinent propriam et 
+      nati<lb ed="#B" n="74" break="no"/>vam verborum significationem; si vero de proprietat 
+      <lb ed="#B" n="75"/>dispositionis logicae quaestio sit (quam ab eis in 
+      <lb ed="#B" n="76"/>telligi patet ex eo, quod addunt, esse praedicatione 
+      <lb ed="#B" n="77"/>regulares), negamus eas esse proprias, quia non sunt 
+      <lb ed="#B" n="78"/>essentiales nec accidentales nec congruunt ad ali 
+      <lb ed="#B" n="79"/>quem modum ex quinque praedicabilibus. Material. 
+      <lb ed="#B" n="80"/>propositionum istarum est et manet proprium, quia 
+      <lb ed="#B" n="81"/>nulla vox in alienam significationem mutatur, sed 
+      <lb ed="#B" n="82"/>formale, i. e. ipsa connexio subjecti et praedicati, 
+      no<lb ed="#B" n="83" break="no"/>est propria, quia non congruit ad aliquem modum 
+      <lb ed="#B" n="84"/>praedicandi regularem et proprium 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e852">
+               <lb ed="#B" n="85"/>160. 3. Quidam dicunt esse propositiones essen 
+      <lb ed="#B" n="86"/>tiales et univocas. Crellius in Isag. log. libr. 2. 
+      <lb ed="#B" n="87"/>part. comm. cap. 3. sect. 2. Keckerman. in System. 
+      <lb ed="#B" n="88"/>theolog. p. 319. Piscat. ad Hoffman. pagina 22. e. 
+      <lb ed="#B" n="89"/>28, ubi dicit, hanc propositionem: DEUS est 
+      homo<lb ed="#B" n="90" break="no"/>fieri secundum praedicationem speciei de individuo 
+      <lb ed="#B" n="91"/>Contra: 1. unio non est essentialis, ergo nec 
+      praedi<lb ed="#B" n="92" break="no"/>catio erit essentialis; 2. si est praedicatio essentia 
+      <lb ed="#B" n="93"/>lis, tum homo erit de Dei essentia, quia in praedi 
+      <lb ed="#B" n="94"/>cationibus essentialibus praedicatum est de essentis 
+      <lb ed="#B" n="95"/>subjecti, homo non praedicatur de Deo, ut species 
+      <lb ed="#B" n="96"/>aut ut genus, aut ut differentia essentialis. Ergo haec 
+      <lb ed="#B" n="97"/>propositio non est essentialis. 3. Quicquid de attri 
+      <lb ed="#B" n="98"/>buto in praedicationibus essentialibus dici potest 
+      <lb ed="#B" n="99"/>idem etiam de subjecto affirmari potest. Atqui de 
+      <lb ed="#B" n="100"/>attributo, videlicet de homine, dici potest, quod 
+      <lb ed="#B" n="101"/>essentialiter sit corpus, cum de Deo, videlicet sub 
+      <lb ed="#B" n="102"/>jecto, dici nequeat, quod essentialiter sit corpus 
+      <lb ed="#B" n="103"/>I. Propositiones, in quibus species de individuo 
+      prae<lb ed="#B" n="104" break="no"/>dicatur, non possunt converti, ut ex praedicato fiat 
+      <lb ed="#B" n="105"/>subjectum. Non enim possum dicere homo est Pe 
+      <lb ed="#B" n="106"/>trus, sieut dicere possum Petrus est homo. At pro 
+      <lb ed="#B" n="107"/>positiones personales possunt converti. Aeque enim 
+      <lb ed="#B" n="108"/>dicere possum homo est Deus, quam Deus est homo. 
+      <lb ed="#B" n="109"/>Regerit Piscator, in hac praedicatione: Deus est homo, 
+      <lb ed="#B" n="110"/>subjectum Deus xml:idem esse, quod Christus, et Chri 
+      <lb ed="#B" n="111"/>stus xml:idem esse, quod humana Christi natura, undo 
+      <lb ed="#B" n="112"/>tandem haec emergit propositio: Humana Christa 
+      <lb ed="#B" n="113"/>natura est homo. Atqui 1. haec propositio non am 
+      <lb ed="#B" n="114"/>plius est personalis, quia natura humana Christi est 
+      <lb ed="#B" n="115"/>homo non personaliter, sed essentialiter. 2. Nesto 
+      <lb ed="#B" n="116"/>rius ταῖς ἀμφοῖν hanc analysin amplectitur: 
+      Deu<lb ed="#B" n="117" break="no"/>est homo, xml:id est humana Christi natura est 
+      homo<lb ed="#B" n="118" break="no"/>divina Christi natura est Deus. Beza part. I. resp. 
+      <lb ed="#B" n="119"/>9. 94. et p. 131: Nestorius unum Christum 
+      fate<lb ed="#B" n="120" break="no"/>batur, et Deum et hominem. 3. Si humana Christi 
+      <!--629.xml-->
+      <pb ed="#B" n="522"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>natura et homo differunt, ut individuum et species 
+      <lb ed="#B" n="2"/>consequens erit, humanam Christi naturam esse 
+      hy<lb ed="#B" n="3" break="no"/>postasin, ac proinde etiam in Christo esse duas hy 
+      <lb ed="#B" n="4"/>postases. 4. Haec analysis in uno eodemque verbo 
+      <lb ed="#B" n="5"/>in subjecto Deus tres constituit typos, primo qui 
+      <lb ed="#B" n="6"/>dem syneedochen ad indicandum, quod vox Deu 
+      <lb ed="#B" n="7"/>non sumatur pro tota trinitate, sed tantum pro se 
+      <lb ed="#B" n="8"/>cunda persona trinitatis; deinde synecdochen parti 
+      <lb ed="#B" n="9"/>pro toto, cum enim ponatur duntaxat una pars 
+      pe<lb ed="#B" n="10" break="no"/>sonae συνθέτου, intelligitur totus Christus utraque 
+      na<lb ed="#B" n="11" break="no"/>tura constans: denique contrariam synecdochen totiu 
+      <lb ed="#B" n="12"/>pro parte, quod posito toto Christo intelligatur 
+      dun<lb ed="#B" n="13" break="no"/>taxat humana ipsius natura. Tot circuitionibus, to 
+      <lb ed="#B" n="14"/>tropis, tot detorsionibus opus est, ut ex phrasi Scripti 
+      <lb ed="#B" n="15"/>rae et ex propositione personali: Deus est homo, elicia 
+      <lb ed="#B" n="16"/>tur tandem illa: humana Christi natura est homo 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e974">
+               <lb ed="#B" n="17"/>161. 4. Quidam dieunt esse propositiones acci 
+      <lb ed="#B" n="18"/>dentales, quod facere coguntur omnes, qui carnem 
+      <lb ed="#B" n="19"/>dicunt esse Λóγoυ adjunctum sive accidens. Contra 
+      <lb ed="#B" n="20"/>s. unio non est accidentalis. Ergo nec praedicatio, 
+      <lb ed="#B" n="21"/>2. in praedicatione accidentali nunquam ponitur loco 
+      <lb ed="#B" n="22"/>praedicati illud, quod ad τὸ εἶναι ὑκοστατικὸν sub 
+      <lb ed="#B" n="23"/>jecti pertinet. Sed in propositionibus personalibus 
+      <lb ed="#B" n="24"/>loco praedicati ponitur, quod ad τὸ εἶναι ὑποστατικὸ 
+      <lb ed="#B" n="25"/>subjecti pertinet, ut constat. Ergo. 3. Unio es 
+      <lb ed="#B" n="26"/>mystica, μονότροπος, singularis, inusitata, ergo etiam 
+      <lb ed="#B" n="27"/>talis erit praedicatio. Excipiunt: Praedicatum, quod 
+      <lb ed="#B" n="28"/>est extra subjecti essentiam, accidentaliter de eo 
+      <lb ed="#B" n="29"/>praedicatur. Atqui natura humana est extra e 
+      <lb ed="#B" n="30"/>sentiam 10ῦ Λόγου. Ergo accidentaliter de eo 
+      pra<lb ed="#B" n="31" break="no"/>dicatur. Respond.: I. si vel maxime in omnibus 
+      rebu<lb ed="#B" n="32" break="no"/>naturalibus locum haberet illa regula, tamen non 
+      <lb ed="#B" n="33"/>posset ad mysterium unionis personalis et ex eo 
+      <lb ed="#B" n="34"/>resultantes personales praedicationes accommodari. 
+      <lb ed="#B" n="35"/>Quia in rebus naturalibus modus inessendi, qui es 
+      <lb ed="#B" n="36"/>principium praedicandi, est duntaxat duplex, vel enim 
+      <lb ed="#B" n="37"/>inest aliquid tanquam essentiale constituens, vel u 
+      <lb ed="#B" n="38"/>accidentale consequens, unde duplex praedicationis 
+      <lb ed="#B" n="39"/>modus, essentialis et accidentalis, oritur. Atqui in 
+      <lb ed="#B" n="40"/>unione personali neuter modus inessendi habet locum 
+      <lb ed="#B" n="41"/>humana enim Christi natura nec essentialiter nec ad 
+      <lb ed="#B" n="42"/>cidentaliter Λόγῳ inest. Ergo ex modo inessend 
+      <lb ed="#B" n="43"/>non possum praedicationis modum vel essentialem 
+      <lb ed="#B" n="44"/>vel accidentalem in hoc mysterio petere. 2. Quam 
+      <lb ed="#B" n="45"/>vis natura Christi assumta sit extra essentiam 
+      de<lb ed="#B" n="46" break="no"/>tatis, xml:id est non sit essentialiter ipsa deitas nec in 
+      <lb ed="#B" n="47"/>deitatis essentiam mutata, tamen quatenus est Aόγς 
+      <lb ed="#B" n="48"/>unita (quo respectu in propositionibus personalibus 
+      <lb ed="#B" n="49"/>consideratur), eatenus non est extra Aόγου ὑπόστασε 
+      <lb ed="#B" n="50"/>ac deitatem, sed intimo et arctissimo nexu eidem 
+      <lb ed="#B" n="51"/>unita, mutua enim περιχώρησις exeludit τὸ ἔξω; 3. i. 
+      <lb ed="#B" n="52"/>praedicationibus non tam attendenda natura extro 
+      <lb ed="#B" n="53"/>morum, subjecti scilicet ac praedicati seorsim ac 
+      se<lb ed="#B" n="54" break="no"/>paratim, an praedicatum sit intra vel extra subjecti 
+      <lb ed="#B" n="55"/>essentiam, quam mutua subjecti et praedicati 
+      cohaesi<lb ed="#B" n="56" break="no"/>ac copulatio, qui si essentialis est, gignit propos 
+      <lb ed="#B" n="57"/>tionem essentialem, si accidentalis, accidentalem 
+      <lb ed="#B" n="58"/>jam vero inter divinam et humanam Christi naturam 
+      <lb ed="#B" n="59"/>non est cohaesio accidentalis, sed unio personalis 
+      <lb ed="#B" n="60"/>Ergo etiam propositiones illae: Deus est homo, home 
+      <!--629.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>est Deus, non sunt accidentales, sed personale 
+      <lb ed="#B" n="62"/>4. Si haec propositio: Deus est homo, propterea ac 
+      <lb ed="#B" n="63"/>cidentalis esset dicenda, quod praedicatum sit extra 
+      <lb ed="#B" n="64"/>essentiam subjecti, non possem reciproce dicere 
+      hom<lb ed="#B" n="65" break="no"/>est Deus, quia vocabulum homo, quod in priore 
+      <lb ed="#B" n="66"/>propositione erat adjunctum, staret loco subjecti, 
+      <lb ed="#B" n="67"/>ac vocabulum Deus, quod in propositione priore erat 
+      <lb ed="#B" n="68"/>subjectum, staret loco adjuncti, et sic subjectum in 
+      <lb ed="#B" n="69"/>esset adjuncto. Ergo non ex modo inessendi 
+      logie<lb ed="#B" n="70" break="no"/>accepto, sed ex modo unionis natura et explicatio, 
+      <lb ed="#B" n="71"/>propositionum harum deducenda 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e1100">
+               <lb ed="#B" n="72"/>162. 5. Quidam dicunt esse praedicationes 
+      xml:iden<lb ed="#B" n="73" break="no"/>licas. Conf. Orth. f. 18. et 123: In propositione: 
+      <lb ed="#B" n="74"/>Iste homo est Filius Dei per eubjectum, homo non 
+      <lb ed="#B" n="75"/>illud, quod Christus homo, sed quod in Christo homo 
+      <lb ed="#B" n="76"/>est, hoc est hypostasis et persona, intelligitur. 
+      Ho<lb ed="#B" n="77" break="no"/>autem est ipse Dei Filius assumtam et subsistenter 
+      <lb ed="#B" n="78"/>in se habens humanitatem, qua homo est. Lique 
+      <lb ed="#B" n="79"/>igitur hinc propter ejusdem hypostasis in subjecto 
+      <lb ed="#B" n="80"/>et praedicato xml:identitatem hominem Christum ess 
+      <lb ed="#B" n="81"/>Filium Dei praedicatione vere xml:identica, qua vide 
+      <lb ed="#B" n="82"/>licet xml:idem de se ipso, xml:id est Filius Dei de suc 
+      <lb ed="#B" n="83"/>hypostasi, ab altera et assumta natura proprie e 
+      <lb ed="#B" n="84"/>essentialiter praedicatur. Grynaeus disput. d. et 
+      <lb ed="#B" n="85"/>Paraeus lib. 3. controv. Euchar. c. 8. p. 126. itidem 
+      <lb ed="#B" n="86"/>vocant xml:identicam propositionem. Inde tales prope 
+      <lb ed="#B" n="87"/>nunt ἀναλύσεις: Filius Dei est homo, xml:id est is, qui 
+      <lb ed="#B" n="88"/>est Filius Dei, est etiam homo; persona, quae es 
+      <lb ed="#B" n="89"/>homo, est etiam Deus, Filius Dei sustentans huma 
+      <lb ed="#B" n="90"/>nam naturam est Deus. Beza in Coll. Momp. p. 173. 
+      <lb ed="#B" n="91"/>pro Eutychiano dogmate habet, quando dicitur, quod 
+      <lb ed="#B" n="92"/>homo iste Mariae filius re ipsa per unionem hype 
+      <lb ed="#B" n="93"/>staticam sit Deus, non in se, sed in Λόγῳ, cui est 
+      <lb ed="#B" n="94"/>hypostatice unitus; p. 294. sic resolvit: Si dicimus 
+      <lb ed="#B" n="95"/>illum hominem esse Deum, intelligimus sub 
+      vocabul<lb ed="#B" n="96" break="no"/>hominis deitatem vel Filium Dei hoc modo: Filius 
+      <lb ed="#B" n="97"/>Dei, qui unitus est humanitati, et deitas ipsius est 
+      <lb ed="#B" n="98"/>Deus, Deitas enim humanitati non est communicato 
+      <lb ed="#B" n="99"/>Martinus sic progreditur: Hic homo est Deus. Home 
+      <lb ed="#B" n="100"/>est nomen personae ab altera natura, humana scilicet 
+      <lb ed="#B" n="101"/>denominata, quomodo autem est Deus? an secum 
+      <lb ed="#B" n="102"/>dum humanitatem seu quatenus homo? minime, sed 
+      <lb ed="#B" n="103"/>quatenus Deus. Ergo filius Mariae est Deus se 
+      <lb ed="#B" n="104"/>cundum deitatem, Filius Dei est homo secundum 
+      <lb ed="#B" n="105"/>humanitatem. Contra: 1. in propositionibus persons 
+      <lb ed="#B" n="106"/>libus non xml:id quaeritur, an Filius Dei sit Filius Deri 
+      <lb ed="#B" n="107"/>an Deus sit Deus, sed an homo ex Maria virgine 
+      <lb ed="#B" n="108"/>natus sit in personae unitate vere Dei Filius, hoc 
+      <lb ed="#B" n="109"/>est non agitur de alterutrius vel utriusque natura 
+      <lb ed="#B" n="110"/>veritate, sed de utriusque personali unione. 2. Ne 
+      <lb ed="#B" n="111"/>storius talem analysin promte amplectetur: Deus es 
+      <lb ed="#B" n="112"/>homo, xml:id est is, qui est Filius Dei, est etiam homo 
+      <lb ed="#B" n="113"/>Dhristus, qui est homo, est etiam Deus, quo juro 
+      <lb ed="#B" n="114"/>gitur Nestorius accusatus et damnatus fuit, quod 
+      <lb ed="#B" n="115"/>unionis personalis mysterium evacuaverit? 3. Ex. 
+      pro<lb ed="#B" n="116" break="no"/>positione simplici hic homo est Deus, efficitur axiom 
+      <lb ed="#B" n="117"/>copulatum, haec persona est vere Deus et vero 
+      <lb ed="#B" n="118"/>homo. Posterior propositio describit duas distinetas in 
+      <lb ed="#B" n="119"/>Christo naturas, de quo proprie hic non quaeritur 
+      <lb ed="#B" n="120"/>prior vero unionem illarum naturarum personalem 
+      <!--630.xml-->
+      <pb ed="#B" n="523"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>exprimit, de quo proprie hoc loco quaestio est.) 
+      <lb ed="#B" n="2"/>4. Non quaeritur in propositionibus personalibus 
+      <lb ed="#B" n="3"/>quid sint naturae singulae et an maneant 
+      distin<lb ed="#B" n="4" break="no"/>ctae, sed quomodo in mutua unione, communica 
+      <lb ed="#B" n="5"/>tione ac περιχωρήσει sese habeant. Esse Deum se 
+      <lb ed="#B" n="6"/>cundum deitatem naturaliter seu essentialiter Christ. 
+      <lb ed="#B" n="7"/>Deo competit, quia ab aeterno ex Patris essentia 
+      <lb ed="#B" n="8"/>genitus est; esse hominem secundum humanitatem 
+      <lb ed="#B" n="9"/>itidem essentialiter Christo homini competit, quia in 
+      <lb ed="#B" n="10"/>temporis plenitudine ex Maria virgine verus 
+      hom<lb ed="#B" n="11" break="no"/>natus est. At quando Filius hominis dicitur 
+      Filiu<lb ed="#B" n="12" break="no"/>Dei, tunc non praedicatur Filius Dei de Filio 
+      ho<lb ed="#B" n="13" break="no"/>minis essentialiter, quia Filius hominis est Filiu 
+      <lb ed="#B" n="14"/>Dei non essentialiter, sed personaliter, xml:id est, per 
+      <lb ed="#B" n="15"/>et propter unionem personalem. Confer disp. 7. de 
+      <lb ed="#B" n="16"/>gloria Dei §. 21. 5. Quam ἀναλύσεως veritatem 
+      <lb ed="#B" n="17"/>agnovit ipse Beza sibi contrarius p. i. resp. ad Col 
+      <lb ed="#B" n="18"/>loq. Mompelg.: Propter unitatem personae hic 
+      home<lb ed="#B" n="19" break="no"/>non quidem qua homo sive suae naturae (et 
+      essen<lb ed="#B" n="20" break="no"/>tiae) respectu, sed propter suam in Filio Dei sub 
+      <lb ed="#B" n="21"/>sistentiam est vere ille Dei Filius. 6. Accurati 
+      <lb ed="#B" n="22"/>sime ergo notandum et corruptelis adversariorum 
+      <lb ed="#B" n="23"/>perpetuo opponendum, in propositionibus personali 
+      <lb ed="#B" n="24"/>bus non agi de Λόγῳ ἀσάρκῳ, sed ἐνσάρκῳ, qui in 
+      <lb ed="#B" n="25"/>personae suae unitatem carnem assumsit; nec ag 
+      <lb ed="#B" n="26"/>de natura humana ratione suae essentiae conside 
+      <lb ed="#B" n="27"/>rata, sed de humana natura, quatenus est in Aόγ
+      o<lb ed="#B" n="28" break="no"/>ὑπόστασιν assumta et ipsius τοῦ Λόγου ὑποστάσι 
+      <lb ed="#B" n="29"/>subsistit. 7. Si hae propositiones statuuntur 
+      xml:iden<lb ed="#B" n="30" break="no"/>ticae, evacuatur unionis mysterium, quod in illi 
+      <lb ed="#B" n="31"/>propositionibus et per illas describitur. Si enim 
+      <lb ed="#B" n="32"/>subjectum et praedicatum supponunt pro eodem 
+      <lb ed="#B" n="33"/>tum homo ex Maria assumtus non erit Deus actu 
+      <lb ed="#B" n="34"/>primo personali, sed tantum actu secundo, ration 
+      <lb ed="#B" n="35"/>scilicet sustentationis, qua a Deo sustentatur; nec 
+      <lb ed="#B" n="36"/>ullum inter has propositiones: homo est Deus e 
+      <lb ed="#B" n="37"/>Deus est homo, erit discrimen, nisi quod limitatio 
+      <lb ed="#B" n="38"/>qua persona Filii dicitur habere humanitatem, modo 
+      <lb ed="#B" n="39"/>voci subjecti, modo vocabulo praedicati additur, quod 
+      <lb ed="#B" n="40"/>urget Sigw. contra Paraei Iren. p. 556 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e1303">
+               <lb ed="#B" n="41"/>163. 6. Huic analysi, qua propositiones personale 
+      <lb ed="#B" n="42"/>statuuntur xml:identicae, affines sunt illi, qui eas κατ’ ἄλλ 
+      <lb ed="#B" n="43"/>vel juxta ἀλλοίωσιν, quam sanctam appellat Zuinglius 
+      <lb ed="#B" n="44"/>tom. 2. oper. fol. 453, explicandas censent. Paraeus 
+      <lb ed="#B" n="45"/>in Iren. p. 264: Num volunt, ut Christum hominem 
+      <lb ed="#B" n="46"/>dicamus esse Deum etiam humanitate sua, et 
+      Chr<lb ed="#B" n="47" break="no"/>stum Deum esse hominem etiam deitate sua? ana 
+      <lb ed="#B" n="48"/>thema Eutycheti. Idem in method. controv. Ubi 
+      <lb ed="#B" n="49"/>quitar. in praefat. p. 8. per τρόπον ἀντιδόσεως ex 
+      <lb ed="#B" n="50"/>plicandas censet, quod videlicet unius naturae de 
+      <lb ed="#B" n="51"/>nominatio alteri naturae in concreto tribuatur 
+      <lb ed="#B" n="52"/>Hungari in sua panharmonia dicunt esse eam 
+      siqu<lb ed="#B" n="53" break="no"/>ratam per communicationem xml:idiomatum. Ergo juxta 
+      <lb ed="#B" n="54"/>Paraeum propositionum personalium Deus est home 
+      <lb ed="#B" n="55"/>et homo est Deus, hic erit sensus: Christus 
+      hom<lb ed="#B" n="56" break="no"/>est Deus eua deitate, Christus Deus est homo 
+      su<lb ed="#B" n="57" break="no"/>tumanitate. Atqui s. hac ratione denuo 
+      praesuppo<lb ed="#B" n="58" break="no"/>nitur, in his propositionibus non agi de personal 
+      <lb ed="#B" n="59"/>duarum naturarum unione, sed de utriusque in 
+      <lb ed="#B" n="60"/>Christo naturae veritate ac distinctione, ergo non 
+      <!--630.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>erunt proprie et accurate loquendo personales; 2. in 
+      <lb ed="#B" n="62"/>verbis proxime praecedentibus Paraeus asserit, quod 
+      <lb ed="#B" n="63"/>Christus homo realiter et substantialiter sit Deue 
+      <lb ed="#B" n="64"/>sua deitate, et Christus Deus sit realiter et sub 
+      <lb ed="#B" n="65"/>stantialiter homo sua humanitate, quod ambigue 
+      <lb ed="#B" n="66"/>dicitur. Si enim limitatio ista deitate sua, referatur 
+      <lb ed="#B" n="67"/>ad subjectum homo, quod homo assumtus 
+      substan<lb ed="#B" n="68" break="no"/>tialiter sua deitate sit Deus, patrocinatur Eutycheti 
+      <lb ed="#B" n="69"/>cui tamen anathema sit, quia homo non potest esse 
+      <lb ed="#B" n="70"/>Deus substantialiter sive essentialiter, nisi naturae 
+      <lb ed="#B" n="71"/>onfundantur. Sin vero referatur ad praedicatum 
+      <lb ed="#B" n="72"/>Deus, quod scilicet hic homo sit Deus sua deitate. 
+      <lb ed="#B" n="73"/>redit prior ἀνάλυσις, quod scilicet sit propositis 
+      <lb ed="#B" n="74"/>identica, Deus est homo, xml:id est Deus hominem 
+      <lb ed="#B" n="75"/>pustentans est Deus. 3. Christus homo est Deus sus 
+      <lb ed="#B" n="76"/>deitate essentialiter, Christus Deus est homo sus 
+      <lb ed="#B" n="77"/>humanitate essentialiter, sed de eo hoc loco non 
+      <lb ed="#B" n="78"/>uaeritur, sed an homo sit Deus et Deus sit home 
+      <lb ed="#B" n="79"/>personaliter. 4. Si homo sua humanitate seu 
+      secun<lb ed="#B" n="80" break="no"/>dum humanam naturam non est Deus personaliter 
+      <lb ed="#B" n="81"/>consequens fuerit Filium Dei non communicasse vere 
+      <lb ed="#B" n="82"/>et realiter humanae naturae assumtae suam ὑπόστα 
+      <lb ed="#B" n="83"/>σιν, sanctum, quod ex Maria natum, non esse Filium 
+      <lb ed="#B" n="84"/>altissimi, secundum hominem non esse vere Dominum 
+      <lb ed="#B" n="85"/>de coelo, Mariam non esse θεοrόκoν ete. 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e1407">
+               <lb ed="#B" n="86"/>164. 7. Quidam statuunt esse propositiones 
+      figu<lb ed="#B" n="87" break="no"/>ratas ac tropicas. Contra: 1. si praedicationes 
+      sum<lb ed="#B" n="88" break="no"/>iguratae ac tropicae, unio ipsa erit figurata ac 
+      tro<lb ed="#B" n="89" break="no"/>pica, et consequenter etiam redemtio per Christum 
+      <lb ed="#B" n="90"/>θεάνθρωπον praestita erit tropica. Vide 
+      gravissi<lb ed="#B" n="91" break="no"/>mam Lutheri refutationem in confess. majore de 
+      <lb ed="#B" n="92"/>coena. tom. 3. Germ. Jenens. fol. 478; 2. 
+      figu<lb ed="#B" n="93" break="no"/>ratae propositiones non sunt convertibiles. At 
+      per<lb ed="#B" n="94" break="no"/>sonales propositiones convertuntur; 3. in figuratis 
+      <lb ed="#B" n="95"/>propositionibus mutata est verborum proprietas. A 
+      <lb ed="#B" n="96"/>in propositionibus personalibus subjectum et 
+      prae<lb ed="#B" n="97" break="no"/>dicatum retinent propriam verborum significationem. 
+      <lb ed="#B" n="98"/>Homo significat naturam humanam, anima rationali 
+      <lb ed="#B" n="99"/>et corpore constantem a Λόγῳ assumtam. Deu 
+      <lb ed="#B" n="100"/>significat Filium Dei seu naturam divinam τοῦ Λό¬ 
+      <lb ed="#B" n="101"/>(0υ integram ac perfectam, in cujus ὑπόστασιν 
+      na<lb ed="#B" n="102" break="no"/>tura humana est assumta; 4. tropus foret vel in 
+      <lb ed="#B" n="103"/>subjecto vel praedicato vel in copula vel tota 
+      prae<lb ed="#B" n="104" break="no"/>dicatione. Sed nullibi. Non in subjecto nec in 
+      <lb ed="#B" n="105"/>praedicato, quia retinent propriam significationem 
+      <lb ed="#B" n="106"/>n copula et tota praedicatione nequit tropus 
+      resi<lb ed="#B" n="107" break="no"/>dere. Excipiunt, verba manere propria, sed res 
+      <lb ed="#B" n="108"/>fieri tropicas et improprias. Atqui improprieta 
+      <lb ed="#B" n="109"/>consistit tantum in verbis, non in rebus, quippe 
+      <lb ed="#B" n="110"/>quae manent immutabiles nec possunt τρέπεσθαι, 
+      <lb ed="#B" n="111"/>quia essentiae rerum in alias nequeunt converti 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e1466">
+               <lb ed="#B" n="112"/>165. 8. Quidam volunt esse propositiones 
+      synec<lb ed="#B" n="113" break="no"/>lochicas, quia nomen Deus pro secunda trinitatia 
+      <lb ed="#B" n="114"/>persona ponitur, homo nomen speciei ponitur 
+      pro<lb ed="#B" n="115" break="no"/>individuo. Resp. nulla hic occurrit synecdoche; 
+      <lb ed="#B" n="116"/>nomen Dei ponitur pro Filio Dei, pro ipso Λόγῳ 
+      <lb ed="#B" n="117"/>qui nec pars nec species est deitatis, sed verus, 
+      in<lb ed="#B" n="118" break="no"/>teger ac perfectus Deus, cum in Christo tota 
+      pleni<lb ed="#B" n="119" break="no"/>tudo deitatis inhabitet Col. 2, v. 9. Per hominem 
+      <lb ed="#B" n="120"/>etiam non intelligitur homo, ut est species, sed in 
+      <!--631.xml-->
+      <pb ed="#B" n="524"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>telligitur hic homo Mariae filius, quamvis particula 
+      <lb ed="#B" n="2"/>δεικτικὴ non semper addatur. Thom. part. 
+      <lb ed="#B" n="3"/>quaest. 4. artic. 3: Hoc nomen homo significat 
+      h<lb ed="#B" n="4" break="no"/>manam naturam, prout nata est in supposito ess 
+      <lb ed="#B" n="5"/>Homo in subjecto non significat nudam humanita 
+      <lb ed="#B" n="6"/>tem, sed humanitatem subsistentem in persona ro 
+      <lb ed="#B" n="7"/>Λόγου, quae persona, quia vere Deus, xml:ideo sin 
+      <lb ed="#B" n="8"/>omni tropo et citra illam synecdochen in 
+      praedi<lb ed="#B" n="9" break="no"/>cato de eo dicitur, quod sit Deus 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e1514">
+               <lb ed="#B" n="10"/>166. 9. Quidam contendunt esse propositione 
+      <lb ed="#B" n="11"/>causales et non constare ex disparatis, sed ea 
+      <lb ed="#B" n="12"/>causa et effecto. Atqui 1. negari nequit, naturan 
+      <lb ed="#B" n="13"/>divinam et humanam esse disparata; 2. causales 
+      <lb ed="#B" n="14"/>propositiones non sunt convertibiles, quia eauss 
+      <lb ed="#B" n="15"/>non fit effectus illius, cujus est causa, et vice versa 
+      <lb ed="#B" n="16"/>3. Filius Dei inde atque xml:ideo est homo, quia in 
+      <lb ed="#B" n="17"/>personae suae unitatem humanam naturam assum 
+      <lb ed="#B" n="18"/>sit, quam humanitatem cum ipse ò Λόγος una cur 
+      <lb ed="#B" n="19"/>Patre et Spiritu sancto formaverit, hactenus et 
+      ho<lb ed="#B" n="20" break="no"/>respectu ejus causa dici potest, sed humana natura 
+      <lb ed="#B" n="21"/>nullo respectu dici potest causa divinae naturae 
+      <lb ed="#B" n="22"/>4. in propositionibus personalibus non tam 
+      respie<lb ed="#B" n="23" break="no"/>tur ad naturae humanae formationem, quae tot 
+      <lb ed="#B" n="24"/>trinitati communis est, quam ad ejusdem termine 
+      <lb ed="#B" n="25"/>tionem, xml:id est in ipsam τοῦ Λόγου ὑπόστασιν a 
+      <lb ed="#B" n="26"/>sumtionem, quae Filio Dei est propria 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e1553">
+               <lb ed="#B" n="27"/>167. 10. Cum in unione et communicatione na 
+      <lb ed="#B" n="28"/>turarum ac vero personalium propositionum sens 
+      <lb ed="#B" n="29"/>minus recte statuant, inde negant, Christum es 
+      <lb ed="#B" n="30"/>Filium Dei cecundum humanitatem personaliter 
+      siv<lb ed="#B" n="31" break="no"/>per et propter unionem personalem. Piscator in 
+      <lb ed="#B" n="32"/>not. ad amic. collat. Vorstii p. 191. Paraeus in 
+      <lb ed="#B" n="33"/>Iren. c. 28. art. 11. ete. Atqui opponimus illis 
+      <lb ed="#B" n="34"/>1. Scripturae dicta, Luc. 1, v. 35: quod ex te no 
+      <lb ed="#B" n="35"/>scetur. Filius Dei vocabitur, Christus secundur 
+      <lb ed="#B" n="36"/>humanitatem est ex Maria natus. Ergo secundum 
+      <lb ed="#B" n="37"/>humanitatem est Dei Filius, scilicet personalite 
+      <lb ed="#B" n="38"/>Matth. 16, v. 16: Filius hominis est Filius DE. 
+      <lb ed="#B" n="39"/>viventis. Atqui Filius hominis non est nec ess 
+      <lb ed="#B" n="40"/>potest absque sua humanitate. Ergo Filius homini 
+      <lb ed="#B" n="41"/>secundum suam humanitatem est Dei Filius, scilico 
+      <lb ed="#B" n="42"/>personaliter; 2. consensum piae antiquitatis, qua 
+      <lb ed="#B" n="43"/>in Nestorio, Felice Orgelitano et Elipando ut erre 
+      <lb ed="#B" n="44"/>rem damnavit, quod Christus secundum humanar 
+      <lb ed="#B" n="45"/>naturam non sit Dei Filius. Dicta quaedam ex ve 
+      <lb ed="#B" n="46"/>teribus superius sunt adducta; 3. confessionem ac 
+      <lb ed="#B" n="47"/>vercariorum. Ex ipsis Calvinianis complures agne 
+      <lb ed="#B" n="48"/>scunt ac fatentur, Christum secundum utramqu 
+      <lb ed="#B" n="49"/>naturam esse verum et proprium Dei Filium, juxti 
+      <lb ed="#B" n="50"/>divinam naturam essentialiter, juxta humanam per 
+      <lb ed="#B" n="51"/>sonaliter. Calvin. libr. 2. Institut. c. 14. sect. 
+      <lb ed="#B" n="52"/>Zanch. part. 1. libr. 5. de tribus Elohim c. 1. p. 263. 
+      <lb ed="#B" n="53"/>Polan. in partit. theolog. p. 37. Chassanio libr. 2. 
+      <lb ed="#B" n="54"/>locor. com. c. 1. sect. 3, quamvis in eo quidam eo 
+      <lb ed="#B" n="55"/>rum a veritatis tramite aberrent, quod causam, cu 
+      <lb ed="#B" n="56"/>Christus secundum humanitatem sit Deus, allegen 
+      <lb ed="#B" n="57"/>etiam conceptionem ex Spiritu sancto, cum eju 
+      <lb ed="#B" n="58"/>causa sola atque unica sit unio personalis; 4. ratio 
+      <lb ed="#B" n="59"/>nes. Si humana Christi natura vere ac realiter pa¬ 
+      <!--631.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>ticeps facta est ὑκτάσεως 1οῦ Λόγου, utique etiam 
+      <lb ed="#B" n="61"/>Christus secundum humanam naturam vere erit Dei 
+      <lb ed="#B" n="62"/>Filius, scilicet ὑποστατικῶς. Si est vera et reali 
+      <lb ed="#B" n="63"/>communicatio inter divinam et humanam naturam 
+      <lb ed="#B" n="64"/>utique etiam Christus secundum humanam 
+      naturam<lb ed="#B" n="65" break="no"/>vere erit Deus, quia hypostasis filii et natura eju 
+      <lb ed="#B" n="66"/>divina non differunt realiter. Si Christus homo vero 
+      <lb ed="#B" n="67"/>est Deus, utique etiam Christus secundum 
+      human<lb ed="#B" n="68" break="no"/>tatem vere est Deus, quia homo non est absque 
+      <lb ed="#B" n="69"/>humanitate. Si Christus secundum humanam 
+      natu<lb ed="#B" n="70" break="no"/>ram est dominus legis, utique etiam secundum 
+      hu<lb ed="#B" n="71" break="no"/>manam naturam erit DEI Filius, quia esse 
+      domi<lb ed="#B" n="72" break="no"/>num legis et esse Dei Filium in persona Christi in 
+      <lb ed="#B" n="73"/>divulso nexu cohaerent, ubi tamen nota rò sccundum 
+      <lb ed="#B" n="74"/>non exprimere causam, quasi scilicet ipsa humana 
+      <lb ed="#B" n="75"/>natura sit causa, propter quam Christus sit et dica 
+      <lb ed="#B" n="76"/>tur Dei Filius; nec modum, quasi Christus ut home 
+      <lb ed="#B" n="77"/>sive secundum humanam naturam sit DEUS 
+      essen<lb ed="#B" n="78" break="no"/>tialiter, sed praedicationis subjectum, quod Christu 
+      <lb ed="#B" n="79"/>ut homo sit Deus, xml:id est, quod non solum deitat 
+      <lb ed="#B" n="80"/>sua sit Deus essentialiter, sed quod etiam 
+      humani<lb ed="#B" n="81" break="no"/>tate sua sit Deus personaliter, quia scilicet humani 
+      <lb ed="#B" n="82"/>tas est in Λόγον assumta et cum divina natura 
+      <lb ed="#B" n="83"/>personaliter unita 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e1683">
+               <lb ed="#B" n="84"/>168. Quaeritur hoc loco: 1. Quomodo concretum 
+      <lb ed="#B" n="85"/>et abstractum in propositionibus personalibus acci 
+      <lb ed="#B" n="86"/>piantur? Πολυθρύλλητον ac tralatitium est, in pro 
+      <lb ed="#B" n="87"/>positionibus personalibus concretum naturae de 
+      cor<lb ed="#B" n="88" break="no"/>creto naturae praedicari, vel quod xml:idem est, naturam 
+      <lb ed="#B" n="89"/>de natura praedicari in concreto, non autem in abe 
+      <lb ed="#B" n="90"/>tracto; explicandum igitur est, quid concreti, quid 
+      <lb ed="#B" n="91"/>abstracti nomine hoc loco intelligatur. Praetermissit 
+      <lb ed="#B" n="92"/>autem philosophicis concreti et abstracti significatio 
+      <lb ed="#B" n="93"/>nibus, eas, quae hujus loci propriae sunt, considera 
+      <lb ed="#B" n="94"/>bimus. (Philosophi habent quintuplex abstractum: 
+      <lb ed="#B" n="95"/>I. grammaticum; 2. metaphysicum; 3. mathemat 
+      <lb ed="#B" n="96"/>cum; 4. physicum; 5. logicum, quod est 
+      acciden<lb ed="#B" n="97" break="no"/>tale vel substantiale, quod posterius vel synonymum 
+      <lb ed="#B" n="98"/>vel paronymum.) Scholastici abstractum supponunt 
+      <lb ed="#B" n="99"/>pro natura, ut deitas, humanitas; concretum pro 
+      <lb ed="#B" n="100"/>persona, ut Deus, homo. Quidam duplex statuunt 
+      <lb ed="#B" n="101"/>abstractum, ut et duplex concretum, videlicet mate 
+      <lb ed="#B" n="102"/>riale et formale. Abstractum materiale vocant 
+      <lb ed="#B" n="103"/>quod simpliciter ipsam naturam voce 
+      abstract<lb ed="#B" n="104" break="no"/>enuntiatam designat, ut deitas, humanitas; abs 
+      <lb ed="#B" n="105"/>tractum formale vocant, quod denotat modum 
+      con<lb ed="#B" n="106" break="no"/>siderandi formae vel naturae naturalem. Concr. 
+      <lb ed="#B" n="107"/>tum materiale ipsis est, quod designat simplicite 
+      <lb ed="#B" n="108"/>vel naturam per vocem concreti enuntiatam; u 
+      <lb ed="#B" n="109"/>Deus, homo; vel totum suppositum denominatum 
+      <lb ed="#B" n="110"/>nunc a natura alterutra, sive divina, ut Deus, sivi 
+      <lb ed="#B" n="111"/>humana, ut homo, nunc ab utraque, ut Jesus 
+      Chr<lb ed="#B" n="112" break="no"/>stus. Concretum formale ipsis est, quod designa 
+      <lb ed="#B" n="113"/>tum naturas tum personam, non in se, sed in union 
+      <lb ed="#B" n="114"/>et respectu unionis consideratam. Estque duplex 
+      <lb ed="#B" n="115"/>vel concretum naturae, ut Deus, homo; vel perso 
+      <lb ed="#B" n="116"/>nae, ejusque tum simplicis, ut Verbum caro factum 
+      <lb ed="#B" n="117"/>est, tum συνθέτου denominatae, vel ab alterutro 
+      <lb ed="#B" n="118"/>natura, ut Deus est passus, vel ab utraque simul, 
+      <lb ed="#B" n="119"/>ut Christus est aeternus. Nobis hoc loco ad per 
+      <!--632.xml-->
+      <pb ed="#B" n="525"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>sonalium propositionum genuinam explicationem 
+      suf<lb ed="#B" n="2" break="no"/>ficit distinguere inter concreta personae et natura 
+      <lb ed="#B" n="3"/>rum et inter abstracta personae et naturarum 
+      <lb ed="#B" n="4"/>Concreta personae sunt, quae notant ambas Chrisi 
+      <lb ed="#B" n="5"/>naturas una hypostasi subsistentes, ut Christus, 
+      Im<lb ed="#B" n="6" break="no"/>manuel, mediator. Concreta naturarum sunt, quae 
+      <lb ed="#B" n="7"/>notant ipsas naturas cum connotatione hypostaseos 
+      <lb ed="#B" n="8"/>Cumque duae sint in Christo naturae, divina et hu 
+      <lb ed="#B" n="9"/>mana, xml:ideo etiam concreta naturarum sunt duorum 
+      <lb ed="#B" n="10"/>generum, quaedam sunt concreta divinae naturae 
+      <lb ed="#B" n="11"/>ut Deus, Filius Dei; quaedam vero sunt concreto 
+      <lb ed="#B" n="12"/>humande naturae, ut homo, Filius hominis. Abs 
+      <lb ed="#B" n="13"/>tracta personae sunt, quae non exprimunt utramqu 
+      <lb ed="#B" n="14"/>naturam, ex quibus persona constat, ut homo (quod 
+      <lb ed="#B" n="15"/>est concretum naturae, sed abstractum personae 
+      <lb ed="#B" n="16"/>quia non denotat formaliter utramque naturam) 
+      <lb ed="#B" n="17"/>abstracta naturarum, quae naturas sine connotatione 
+      <lb ed="#B" n="18"/>hypostaseos significant ac pro numero duarum i 
+      <lb ed="#B" n="19"/>Christo naturarum itidem sunt duplicia, abstract 
+      <lb ed="#B" n="20"/>divinae naturae, ut deitas, divinitas, natura 
+      di<lb ed="#B" n="21" break="no"/>vina; et abstracta humanae naturae, ut humani 
+      <lb ed="#B" n="22"/>tas, natura humana. Abstractum naturae significa 
+      <lb ed="#B" n="23"/>non naturam simpliciter, sed φυσικῶς καὶ κα 
+      <lb ed="#B" n="24"/>ἑαυτήν, xml:id est naturaliter et per se secundum 
+      <lb ed="#B" n="25"/>principia et attributa naturalia consideratam. Cor 
+      <lb ed="#B" n="26"/>cretum naturae significat naturam respectu unio 
+      <lb ed="#B" n="27"/>nis et propter ipsam consideratam. Confer Meis 
+      <lb ed="#B" n="28"/>ner. part. 1. Sobriae philosoph. sect. 4. cap. . 
+      <lb ed="#B" n="29"/>quaest. unic. Ex hoc fundamento facile intelli 
+      <lb ed="#B" n="30"/>gitur, cur dicatur, quod natura de natura non 
+      <lb ed="#B" n="31"/>praedicetur nec praedicari debeat in abstracto, quis 
+      <lb ed="#B" n="32"/>sine connotatione suppositi sive hypostaseos duae 
+      <lb ed="#B" n="33"/>naturae non possunt de se invicem praedicari, cur 
+      <lb ed="#B" n="34"/>non constituant unum essentiale; sed in concreto 
+      <lb ed="#B" n="35"/>quia, quando humanitas consideratur cum connota 
+      <lb ed="#B" n="36"/>tione hypostaseos τοῦ –όγου, cujus vere et realite 
+      <lb ed="#B" n="37"/>est particeps facta, tum una cum Λόγῳ divina Λόγοι 
+      <lb ed="#B" n="38"/>natura constituit unum personale, ac proinde 
+      ho<lb ed="#B" n="39" break="no"/>respectu homo de Deo, ac Deus de homine recte 
+      prae<lb ed="#B" n="40" break="no"/>dicatur (quo respiciens B. Lutherus discrimen inter 
+      <lb ed="#B" n="41"/>concretum et abstractum divinitus introductum ess 
+      <lb ed="#B" n="42"/>acribit in comm. c. 53. Esa.). Proinde in proposition 
+      <lb ed="#B" n="43"/>bus personalibus non praedicatur persona de persona 
+      <lb ed="#B" n="44"/>introduceretur enim personae διrrόriης, vel propositio 
+      <lb ed="#B" n="45"/>nes personales statuendae essent xml:identicae; sed prae 
+      <lb ed="#B" n="46"/>dicatur concretum naturae de concreto alterius 
+      na<lb ed="#B" n="47" break="no"/>turae, vel quod xml:idem est, natura una praedicatu 
+      <lb ed="#B" n="48"/>de altera in concreto, xml:id est per vocem hominis in 
+      <lb ed="#B" n="49"/>telligitur natura humana, sed cum hypostasi, in qua 
+      <lb ed="#B" n="50"/>subsistit, per vocem Dei intelligitur natura divina 
+      <lb ed="#B" n="51"/>sed itidem cum hypostasi, quam assumtae natura 
+      <lb ed="#B" n="52"/>communicavit, et quia ὑπόστασις utrique natura 
+      <lb ed="#B" n="53"/>communis arctissime eas demunit, xml:ideo etiam in 
+      cor<lb ed="#B" n="54" break="no"/>creto, xml:id est ratione et respectu illius ὑποστάσεως 
+      <lb ed="#B" n="55"/>de se invicem praedicantur. Genuinus enim sensu 
+      <lb ed="#B" n="56"/>illarum propositionum: Deus est homo, et homo es 
+      <lb ed="#B" n="57"/>Deus, hic est, quod utriusque naturae divinae e 
+      <lb ed="#B" n="58"/>humanae in Christo sit una communis hypostasis 
+      <lb ed="#B" n="59"/>qua arctissime et indissolubiliter uniuntur; quod 
+      <lb ed="#B" n="60"/>Deus sive Filius Dei in suam hypostasin assumserit. 
+      <!--632.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>naturam humanam, et quod homo sive humana 
+      na<lb ed="#B" n="62" break="no"/>tura in ipsam Filii Dei hypostasin sit evecta 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e1910">
+               <lb ed="#B" n="63"/>169. Qu. 2. An in praedicationibus 
+      personali<lb ed="#B" n="64" break="no"/>bus subjecti loco ponatur totum hyphistamenon se 
+      <lb ed="#B" n="65"/>tota persona? Affirmat Crellius libr. 2. Isag. c. 3. 
+      <lb ed="#B" n="66"/>disput. 3: In istis, inquit, quae sunt de Christo Fili 
+      <lb ed="#B" n="67"/>Dei, enuntiationibus, sive Deus sive homo subjicia 
+      <lb ed="#B" n="68"/>tur, semper τοῦ Λόγου ὑπόσιασις supponitur, et d 
+      <lb ed="#B" n="69"/>ea praedicatum enuntiatur, sed homo ratione carnis 
+      <lb ed="#B" n="70"/>assumtae, Deus respectu Verbi assumentis. Itaque 
+      <lb ed="#B" n="71"/>nihil disparatum hic, nihil inusitatum. Atqui 1. con 
+      <lb ed="#B" n="72"/>fundit Crellius propositiones, in quibus subjecti 
+      loc<lb ed="#B" n="73" break="no"/>ponitur concretum personae, ac tota persona 
+      descri<lb ed="#B" n="74" break="no"/>bitur ab una vel utraque natura, ut quando dico 
+      <lb ed="#B" n="75"/>Christus est homo, Christus est Deus, Christus es 
+      <lb ed="#B" n="76"/>θεάνθρωπος, cum propositionibus personalibus 
+      pro<lb ed="#B" n="77" break="no"/>prie et exquisite sic dictis, de quibus hoc loco 
+      agi<lb ed="#B" n="78" break="no"/>mus; 2. in illis enim subjecti loco non ponitur 
+      con<lb ed="#B" n="79" break="no"/>cretum personae, sed concretum naturae, hoc es 
+      <lb ed="#B" n="80"/>natura humana cum connotatione hypostaseos, in qua 
+      <lb ed="#B" n="81"/>subsistit, vel natura divina itidem cum connotatione 
+      <lb ed="#B" n="82"/>hypostaseos, quam carni communicavit; 3. si in 
+      om<lb ed="#B" n="83" break="no"/>nibus proposltionibus personalibus concretum natura 
+      <lb ed="#B" n="84"/>loco subjecti positum accipiendum esset pro concret 
+      <lb ed="#B" n="85"/>personae, tunc etiam xml:id fieri judicandum in propo 
+      <lb ed="#B" n="86"/>litione illa: Verbum caro factum est. Atqui xml:id lo 
+      <lb ed="#B" n="87"/>cum habere nequit, emergeret enim haec ἐξήγησις: 
+      <lb ed="#B" n="88"/>Verbum cum carne est caro factum; 4. si in pro 
+      <lb ed="#B" n="89"/>positionibus personalibus alterutra natura de persona 
+      <lb ed="#B" n="90"/>praedicaretur, tunc iisdem non duarum naturarum unio 
+      <lb ed="#B" n="91"/>sed potius utriusque naturae veritas exprimeretur 
+      <lb ed="#B" n="92"/>Deus est homo, homo est Deus, xml:id est, juxta Crellium. 
+      <lb ed="#B" n="93"/>haec persona est Deus et homo. Atqui inde atque 
+      <lb ed="#B" n="94"/>ideo vocantur personales, quia unionis personalis 
+      <lb ed="#B" n="95"/>mysterium exprimunt, quod scilicet Deus sit homo 
+      <lb ed="#B" n="96"/>personaliter, et homo sit Deus personaliter; 5. si in 
+      <lb ed="#B" n="97"/>hac propositione: Deus est homo, vocabulum DEU 
+      <lb ed="#B" n="98"/>accipitur pro concreto personae, hoc est pro tote 
+      <lb ed="#B" n="99"/>ὑφισταμένῳ ambas naturas complectente, tum 
+      ea<lb ed="#B" n="100" break="no"/>dem erit ratio in propositionibus ad primum 
+      genu<lb ed="#B" n="101" break="no"/>communicationis pertinentibus, ac proinde, quando 
+      <lb ed="#B" n="102"/>dicitur Deus est mortuus, sensus erit, quod de tota 
+      <lb ed="#B" n="103"/>persona praedicetur passio et mors, xml:id vero adver 
+      <lb ed="#B" n="104"/>tarii non concedunt, sed concretum unius duntaxa 
+      <lb ed="#B" n="105"/>naturae, videlicet humanae, intelligi volunt; 6. e. 
+      <lb ed="#B" n="106"/>subjectum in propositionibus personalibus est totum 
+      <lb ed="#B" n="107"/>ὑσφιστάμενον, tum alterutra natura veluti quaedam 
+      <lb ed="#B" n="108"/>pars de tota persona veluti de quodam toto 
+      enun<lb ed="#B" n="109" break="no"/>tiaretur. Atqui pars de toto non praedicatur in casu 
+      <lb ed="#B" n="110"/>recto, sed in obliquo. Deus autem in casu recto di 
+      <lb ed="#B" n="111"/>citur homo et homo in casu recto dicitur Deus 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e2019">
+               <lb ed="#B" n="112"/>170. Qu. 3. An in propositionibus personalibus 
+      <lb ed="#B" n="113"/>disparata de se invicem praedicentur? Affirma 
+      <lb ed="#B" n="114"/>Luth. in disput. de dicto: Verbum caro factum est 
+      <lb ed="#B" n="115"/>tom. 1. Jen. Lat. p. 567. th. 3: Magis disparata est 
+      <lb ed="#B" n="116"/>haec propositio, inquit, Deus est homo, quam illa. 
+      <lb ed="#B" n="117"/>homo est asinus, quod desumsit ex Biel. libr. 3. 
+      <lb ed="#B" n="118"/>senten. dist. 7: Apud philosophum Deus et 
+      hom<lb ed="#B" n="119" break="no"/>termini sunt disparati, quia illam, Deus est homo 
+      <lb ed="#B" n="120"/>diceret imposcibilem, sicut illam, homo est asinus 
+      <!--633.xml-->
+      <pb ed="#B" n="526"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Haec Lutheri sententia probatur: 1. ex definitione 
+      <lb ed="#B" n="2"/>disparatorum. Damascenus lib. de dial. c. 37. et 
+      <lb ed="#B" n="3"/>18. ἐτεροείδη definit, quod διαφέρει τῷ λόγῳ τῆς 
+      <lb ed="#B" n="4"/>οἱσίας. Jam vero et deitas et humanitas differunt τῷ 
+      <lb ed="#B" n="5"/>λόγῳ οὐσίας sive definitione. Ergo sunt oppositae sive 
+      <lb ed="#B" n="6"/>disparatae species; 2. ex collatione similium exem 
+      <lb ed="#B" n="7"/>plorum. Ferrum et ignis manent disparata etiam in 
+      <lb ed="#B" n="8"/>ferro ignito, corpus et anima manent disparata etiam 
+      <lb ed="#B" n="9"/>n homine, sic duae naturae sunt et manent 
+      dispa<lb ed="#B" n="10" break="no"/>ratae in unione; 3. ex distinctione proprietatum 
+      <lb ed="#B" n="11"/>Quorum proprietates sunt disparatae et oppositae 
+      <lb ed="#B" n="12"/>illa ipsa quoque sunt disparata et opposita. Sed 
+      <lb ed="#B" n="13"/>duarum naturarum proprietates sunt disparatae e 
+      <lb ed="#B" n="14"/>oppositae, deitas enim est infinita, humanitas finita 
+      <lb ed="#B" n="15"/>deitas est invisibilis, humanitas visibilis; 4. ex 
+      con<lb ed="#B" n="16" break="no"/>secutione absurdorum. Nisi in propositionibus per 
+      <lb ed="#B" n="17"/>sonalibus disparata de se invicem praedicarentu 
+      <lb ed="#B" n="18"/>forent praedicationes xml:identicae, ac totum unionis 
+      my<lb ed="#B" n="19" break="no"/>sterium evacuaretur. Contrarium statuunt quidam ex 
+      <lb ed="#B" n="20"/>Pontificiis, Bellarm. lib. 3. de Euchar. c. 19, ubi dispe 
+      <lb ed="#B" n="21"/>ratum de disparato affirmate praedicari posse negat. 
+      <lb ed="#B" n="22"/>ac quidam ex Calvinianis: Goelen. libr. 1. controv. 
+      <lb ed="#B" n="23"/>logic. c. 15. quaest. 2. part. 1. Miscell. p. 71. quo 
+      <lb ed="#B" n="24"/>rum argumentis facile potest satisfieri observati 
+      <lb ed="#B" n="25"/>hisce hypothesibus: 1. Duae in Christo naturae sum 
+      <lb ed="#B" n="26"/>disparatae, sed non sunt vel subsistunt disparatae 
+      <lb ed="#B" n="27"/>2. Distinguendum inter quod et quatenus sive inter 
+      <lb ed="#B" n="28"/>praedicationis materiale et formale. Duae naturae 
+      <lb ed="#B" n="29"/>in Christo manent distinctae in unione, ergo etiam 
+      <lb ed="#B" n="30"/>manent disparata in praedicatione, sed quatenus de 
+      <lb ed="#B" n="31"/>se invicem in concreto praedicantur, eatenus non 
+      <lb ed="#B" n="32"/>sunt disparatae, sed arctissime per terminum ἔνο 
+      <lb ed="#B" n="33"/>ποιὸν ὑποστάσεως connexae, unde etiam non in 
+      <lb ed="#B" n="34"/>abstracto, sed in concreto de se invicem prae 
+      <lb ed="#B" n="35"/>dicantur. 3. Ut xml:identitas ὑποστάσεως non tollis 
+      <lb ed="#B" n="36"/>naturarum differentiam, ita quoque non impedit, qui 
+      <lb ed="#B" n="37"/>minus naturae de se invicem in concreto prae 
+      <lb ed="#B" n="38"/>dicatae disparatae statuantur. 4. Distinguendum. 
+      <lb ed="#B" n="39"/>inter judicium intellectus ex principiis naturalibus 
+      <lb ed="#B" n="40"/>line verbi lumine judicantis, qui propositionem hanc; 
+      <lb ed="#B" n="41"/>Deus est homo, cum sit disparatorum affirmative de 
+      <lb ed="#B" n="42"/>se invicem enuntiatorum, tam impossibilem judica 
+      <lb ed="#B" n="43"/>quam illam: Homo est asinus, et inter judicium in 
+      <lb ed="#B" n="44"/>tellectus Verbi et Spiritus e. lumine collustrati, qui 
+      <lb ed="#B" n="45"/>propositionem hanc ratione unionis personalis aest. 
+      <lb ed="#B" n="46"/>matam veram judicat. 5. Si disparata definiantur 
+      <lb ed="#B" n="47"/>quae plane sunt disseparata et nullo communi 
+      real<lb ed="#B" n="48" break="no"/>conveniunt, negamus eo sensu, duas Christi naturas 
+      <lb ed="#B" n="49"/>esse disparatas, quia sunt unum in persona, quae 
+      <lb ed="#B" n="50"/>ut quoddam ἐνοποιὸν intervenit. Itemque si dispa 
+      <lb ed="#B" n="51"/>rata in rationalibus dicantur duo vel plura persona 
+      <lb ed="#B" n="52"/>iter distincta, negamus itidem hoc seusu duas 
+      Chri<lb ed="#B" n="53" break="no"/>sti naturas esse disparatas, quia non distinguuntur 
+      <lb ed="#B" n="54"/>personaliter, sed naturaliter 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e2165">
+               <lb ed="#B" n="55"/>171. Qu. 4. An propositiones personales sin 
+      <lb ed="#B" n="56"/>paronymicae ac denominativae? Schegkius in libi 
+      <lb ed="#B" n="57"/>de una person. et in resp. ad libellum anonymi 
+      af<lb ed="#B" n="58" break="no"/>firmat, quem alii sequuntur. Distinguendum inter 
+      <lb ed="#B" n="59"/>qualemcunque reductionem et inter plenariam 
+      con<lb ed="#B" n="60" break="no"/>venientiam; reduci possunt quadammodo propositio 
+      <!--633.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>nes personales ad paronymicas. 1. Quod in 
+      vulgari<lb ed="#B" n="62" break="no"/>bus et naturalibus exemplis est suppositum, xml:id in 
+      <lb ed="#B" n="63"/>noc mysterio est persona. Ut enim ibi duo acc 
+      <lb ed="#B" n="64"/>dentia in communi subjecto uniuntur, quae quidem 
+      <lb ed="#B" n="65"/>in abstracto de se invicem praedicari non possunt, 
+      <lb ed="#B" n="66"/>in concreto vero, quatenus subjecti unitatem 
+      inclu<lb ed="#B" n="67" break="no"/>lunt, possunt; sic duae in Christo naturae in una 
+      <lb ed="#B" n="68"/>communi hypostasi uniuntur, quae in abstracto de 
+      <lb ed="#B" n="69"/>se invicem praedicari non possunt, in concreto 
+      au<lb ed="#B" n="70" break="no"/>tem possunt. Ut non recte dico: Theologia est 
+      <lb ed="#B" n="71"/>philosophia, sed theologus est philosophus; ita non 
+      <lb ed="#B" n="72"/>recte dico: Divinitas est humanitas, sed Deus est 
+      <lb ed="#B" n="73"/>homo. 2. Nomina abstracti et concreti propria 
+      sum<lb ed="#B" n="74" break="no"/>denominativorum, abstractum est denominans, 
+      con<lb ed="#B" n="75" break="no"/>cretum denominativum, quia ergo termini proprii de 
+      <lb ed="#B" n="76"/>nominativorum in hoc mysterio conceduntur, xml:ide 
+      <lb ed="#B" n="77"/>propositiones hoc mysterium explicantes ad modum 
+      <lb ed="#B" n="78"/>praedicandi denominativum reduci possunt. 3. Vul 
+      <lb ed="#B" n="79"/>ata regula de praedicationibus denominativis, quod 
+      <lb ed="#B" n="80"/>quicquid cum altero κατὰ συνδύασιν unitur et 
+      com<lb ed="#B" n="81" break="no"/>nunicatur, παρωνύμως de eo praedicetur, ad 
+      ho<lb ed="#B" n="82" break="no"/>mysterium applicatur. 4. Modus praedicandi deno 
+      <lb ed="#B" n="83"/>ninativus generalis est et formalis, fundatus in 
+      <lb ed="#B" n="84"/>prima entium consideratione, qua considerantur vel 
+      <lb ed="#B" n="85"/>it sunt, vel ut insunt quocunque tandem modo. 
+      <lb ed="#B" n="86"/>Quamvis ergo modus praedicandi materialis, naturalis 
+      <lb ed="#B" n="87"/>ac specialis in propositionibus personalibus non 
+      de<lb ed="#B" n="88" break="no"/>tur, tamen generalis et formalis, denominativus 
+      scili<lb ed="#B" n="89" break="no"/>cet in illis animadverti potest. 5. Denominativus 
+      <lb ed="#B" n="90"/>modus non tantum est accidentium, sed dantur etiam 
+      <lb ed="#B" n="91"/>ejus exempla, in quibus denominativum et 
+      praedica<lb ed="#B" n="92" break="no"/>tum est substantia, ut corpus est animatum. 
+      Distin<lb ed="#B" n="93" break="no"/>guendum enim inter accidens praedicabile et prae 
+      <lb ed="#B" n="94"/>licamentale; hoc notat quidpiam inhaerens, illud 
+      <lb ed="#B" n="95"/>omne, quod de subjecto praedicatur, sive ei 
+      adhae<lb ed="#B" n="96" break="no"/>reat sive inhaereat sive alio modo insit. Plenaria 
+      <lb ed="#B" n="97"/>tamen convenientia inter praedicationes paronymicas 
+      <lb ed="#B" n="98"/>et propositiones personales statui nequit, I. quia 
+      dua<lb ed="#B" n="99" break="no"/>naturae in Christo unitae non sunt duo accidentis 
+      <lb ed="#B" n="100"/>in communi subjecto unita, sicut philosophia et 
+      theo<lb ed="#B" n="101" break="no"/>logia in mente humana, sed sunt duae naturae 
+      un<lb ed="#B" n="102" break="no"/>hypostasi unitae; 2. corpus et anima, quae de se in 
+      <lb ed="#B" n="103"/>vicem παρωνύμως praedicantur, non sunt duae 
+      sub<lb ed="#B" n="104" break="no"/>stantiae completae, nec naturaliter diversae species 
+      <lb ed="#B" n="105"/>sunt, sed ad unum essentiale constituendum ordi 
+      <lb ed="#B" n="106"/>nata sunt; 3. propositiones personales constant vo 
+      <lb ed="#B" n="107"/>cabulis, non adjectivis, sicut corpus dicitur anima 
+      <lb ed="#B" n="108"/>tum, sed gubstantivis ipsam unionem duarum natu 
+      <lb ed="#B" n="109"/>rarum in una persona exprimentibus. Homo not 
+      <lb ed="#B" n="110"/>licitur tantum divinus sive deificatus, sed DEUS 
+      <lb ed="#B" n="111"/>Deus non tantum dicitur humanus, ἐνανθρωκησας 
+      <lb ed="#B" n="112"/>sed etiam homo; 4. prorsus inusitata est et in tots 
+      <lb ed="#B" n="113"/>rerum universitate nullum habens exemplum duarum 
+      <lb ed="#B" n="114"/>naturarum perfectarum ad unum ὑσιστάμενον unio 
+      <lb ed="#B" n="115"/>ergo modus praedicandi ex unione resultans rectè 
+      <lb ed="#B" n="116"/>licitur inusitatus; 5. in reliquis omnibus denomint 
+      <lb ed="#B" n="117"/>tivis praedicandi modis cohaesio subjecti ac prae 
+      <lb ed="#B" n="118"/>licati est accidentalis, sed in personalibus proposi 
+      <lb ed="#B" n="119"/>tionibus DEUS de homine, et homo de Deo nos 
+      <lb ed="#B" n="120"/>praedicatur accidentaliter, sed personaliter; 6. cum 
+      <!--634.xml-->
+      <pb ed="#B" n="527"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>θεοῦ ἐν σαρκὶ φανέρωσις sἰve ἔνωσις δύω φύσεων. 
+      <lb ed="#B" n="2"/>ὑποστατικὴ εit ὁμολογουμένως μέγα μυστήριον 1. 
+      <lb ed="#B" n="3"/>Tim. 3, v. ult., xml:ideo praestat propositiones illan 
+      <lb ed="#B" n="4"/>exprimentes vocare ac statuere inusitatas, quam ad 
+      <lb ed="#B" n="5"/>logicos praedicandi modos referre 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e2332">
+               <lb ed="#B" n="6"/>172. Qu. 5. An Christus secundum humanar 
+      <lb ed="#B" n="7"/>naturam sit Filius Dei naturalis? Quidam Eutychia 
+      <lb ed="#B" n="8"/>nismi hanc phrasin accusant. Sed a theologis ortho 
+      <lb ed="#B" n="9"/>doxis sano sensu fuit usurpata. Nota igitur: I. di 
+      <lb ed="#B" n="10"/>stinguendum inter rem et modum rei. Si terminu 
+      <lb ed="#B" n="11"/>ille naturalis ad rem duntaxat referatur, sensus es 
+      <lb ed="#B" n="12"/>quod Christus secundum humanam naturam sit veru 
+      <lb ed="#B" n="13"/>et proprius Dei Filius: sin vero ad modum rei re 
+      <lb ed="#B" n="14"/>feratur, sensus est, quod Christus secundum humanam 
+      <lb ed="#B" n="15"/>naturam naturaliter sit Dei Filius. Priorem 
+      signifi<lb ed="#B" n="16" break="no"/>cationem concedimus, posteriorem negamus, quia 
+      <lb ed="#B" n="17"/>Christus secundum humanam naturam est Dei Filius, 
+      <lb ed="#B" n="18"/>non naturaliter nec essentialiter, sed personaliter: 
+      <lb ed="#B" n="19"/>2. distinguendum inter suppositum et causam. Chr 
+      <lb ed="#B" n="20"/>stus secundum humanam naturam est Filius Dei 
+      na<lb ed="#B" n="21" break="no"/>turalis, xml:id est Christus homo, sive Christus secui 
+      <lb ed="#B" n="22"/>dum humanam naturam est xml:idem suppositum, eadem 
+      <lb ed="#B" n="23"/>persona, ac proinde etiam xml:idem Filius naturalis et 
+      <lb ed="#B" n="24"/>proprius, qui est Christus Deus, neque enim duo sunt 
+      <lb ed="#B" n="25"/>in Christo filii, sed unus est Filius. Sed si ad cau 
+      <lb ed="#B" n="26"/>sam haec determinatio referatur, hoc est, si causa 
+      <lb ed="#B" n="27"/>propter quam Christus secundum humanam 
+      naturan<lb ed="#B" n="28" break="no"/>dicatur Dei Filius, statuatur natura sive naturalis 
+      <lb ed="#B" n="29"/>et aeterna a Patre generatio, tum hic sensus a 
+      no<lb ed="#B" n="30" break="no"/>bis repudiatur. Causa enim, propter quam et cuju 
+      <lb ed="#B" n="31"/>respectu Christus secundum humanam naturam 
+      die<lb ed="#B" n="32" break="no"/>tur Dei Filius, non est natura sive aeterna a Patro 
+      <lb ed="#B" n="33"/>generatio, sed unio hypostatica, quia scilicet assumta 
+      <lb ed="#B" n="34"/>humana natura facta est particeps illius hypostaseos. 
+      <lb ed="#B" n="35"/>juxta quam Christus ut verus DEUS est ab aeterne 
+      <lb ed="#B" n="36"/>a Patre genitus, et proinde naturalis ac ungenitu 
+      <lb ed="#B" n="37"/>ejus Filius. 3. Si inter filium naturalem et adopto 
+      <lb ed="#B" n="38"/>vum immediata statuitur oppositio, recte dicitur. 
+      <lb ed="#B" n="39"/>Christum secundum humanam naturam esse Filium 
+      <lb ed="#B" n="40"/>Dei naturalem, non enim est adoptivus filius, quae 
+      <lb ed="#B" n="41"/>opinio in Felice Orgelitano et Elipando atque ant. 
+      <lb ed="#B" n="42"/>illos in Nestorio jam olim fuit damnata. 4. Naturale 
+      <lb ed="#B" n="43"/>ponitur pro essentiali, pro eo, quod quarto mod 
+      <lb ed="#B" n="44"/>proprium, pro eo quod nobiscum natum, vel quod 
+      <lb ed="#B" n="45"/>nobis ab ipsa nativitate inest, quia natura significat 
+      <lb ed="#B" n="46"/>essentiam rei, essentiae partem, essentialem 
+      pro<lb ed="#B" n="47" break="no"/>prietatem et nativitatem. Dicitur ergo Christus 
+      <lb ed="#B" n="48"/>secundum utramque naturam Filius Dei naturalis 
+      <lb ed="#B" n="49"/>sed non eodem modo. Cum secundum divinan 
+      <lb ed="#B" n="50"/>naturam naturalis Dei Filius dicitur, naturale 
+      <lb ed="#B" n="51"/>significat xml:idem quod essentiale, et perinde est, ad 
+      <lb ed="#B" n="52"/>si dicas, Christum esse Filium Dei essentialem, xml:id 
+      <lb ed="#B" n="53"/>est ejusdem cum Patre naturae et essentiae. 
+      Cun<lb ed="#B" n="54" break="no"/>vero secundum humanam naturam dicitur Filius Dei 
+      <lb ed="#B" n="55"/>naturalis, naturale pouitur pro eo, quod ab ipsa 
+      na<lb ed="#B" n="56" break="no"/>tivitate inest et est, perinde ac si dicas, Christus 
+      se<lb ed="#B" n="57" break="no"/>eundum humanam naturam est Filius DEI natus, vel 
+      <lb ed="#B" n="58"/>ab ipsa nativitate, non enim post nativitatem fuit in 
+      <lb ed="#B" n="59"/>Dei Filium adoptatus, sicut nos, qui natura sumus 
+      <lb ed="#B" n="60"/>silii irae Ephes. 2. v. 3, et postea υioθεαίαν accipi¬ 
+      <!--634.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>mus Joh. 1, v. 12, sed ipse natus est Dei Filius 
+      <lb ed="#B" n="62"/>non factus; Lubertus in comment. ad 99 error. Vorst. 
+      <lb ed="#B" n="63"/>p. 48. 
+      </p>
+            <p xml:id="zef3dd-d1e1030-d1e2465">
+               <lb ed="#B" n="64"/>173. Usus practicus est νουθετικός, ut in 
+      propo<lb ed="#B" n="65" break="no"/>sitionum personalium ἀναλύσει verbi coelestis facem, 
+      <lb ed="#B" n="66"/>praelucentem, non rationis tenebras sequamur, nec ad 
+      <lb ed="#B" n="67"/>usitatas logicae regulas examinemus propositione 
+      <lb ed="#B" n="68"/>exprimentes summum illud μυστήριον, quod est ὑπὲρ 
+      <lb ed="#B" n="69"/>νοῦν, ὑπὲρ λόγον, ὑπὲρ πᾶσαν κατάληψιν, non 
+      homi<lb ed="#B" n="70" break="no"/>num tantum, sed etiam angelorum. Utramque 
+      na<lb ed="#B" n="71" break="no"/>turam, divinam scilicet et humanam, in unam 
+      con<lb ed="#B" n="72" break="no"/>venisse personam, nisi fides credat, humana ratio 
+      <lb ed="#B" n="73"/>non explicat, ait Leo serm. de nativ. Ineffabiliter 
+      <lb ed="#B" n="74"/>et ultra quam possit mens humana intelligere 
+      Ver<lb ed="#B" n="75" break="no"/>bum humanitati conjunctum est. Cyrill. lib. 4. i. 
+      <lb ed="#B" n="76"/>Johann. c. 13. Incarnationis opus Damascenus vocat. 
+      <lb ed="#B" n="77"/>τὴ πάντων καινῶν καινόταιον, τὸ μόνον καινὸν ὑπὸ 
+      <lb ed="#B" n="78"/>τὸν ἥλιον, omnium novorum maxime novum, quod 
+      <lb ed="#B" n="79"/>tolum sub sole novum lib. 3. orth. fid. c. 1. Ecqui. 
+      <lb ed="#B" n="80"/>gitur patienter audiat, propositiones personales ex 
+      <lb ed="#B" n="81"/>mysterio unionis unice explicandas tot troporum 
+      <lb ed="#B" n="82"/>gyris circumagi et ad usitatos praedicandi modos 
+      <lb ed="#B" n="83"/>omnis mysterii expertes per logicam ferulam 
+      <lb ed="#B" n="84"/>ronocari! 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

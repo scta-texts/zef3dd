@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="448"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e891"><!-- zef3dd-l4c1 -->
+            <head xml:id="zef3dd-d1e891-Hd1e101">Caput 1</head>
+            <head xml:id="zef3dd-d1e891-Hd1e103" type="question-title">De ETYMOAOTIA</head>
+            <p xml:id="zef3dd-d1e891-d1e106">
+               <lb ed="#B" n="79"/>CAPUT I. 
+      <lb ed="#B" n="80"/>DE ETYMOAOTIA. 
+</p>
+            <p xml:id="zef3dd-d1e891-d1e113">
+               <lb ed="#B" n="81"/>6. Prooemio succedit ipsa tractatio, quae 
+      absol<lb ed="#B" n="82" break="no"/>vitur: 1. ὀνοματολογίᾳ, 2. πραγματολογίᾳ. Ον
+      o<lb ed="#B" n="83" break="no"/>ματολογία complectitur 1. ἐτυμολογίαν; 2. ὁμων¬ 
+      <lb ed="#B" n="84"/>μίαν; δ. συνωνυμίαν. Sit ergo de etymologia 
+  </p>
+            <p xml:id="zef3dd-d1e891-d1e124">
+               <lb ed="#B" n="85"/>Thesis 1: Jesus significat salvatorem, est enim a 
+      <lb ed="#B" n="86"/>radice θW in Hiphil QVV salvavit, servavit, li 
+      <lb ed="#B" n="87"/>beravit. Hanc etymologiam et etymologiae 
+      ratio<lb ed="#B" n="88" break="no"/>nem monstrat angelus Matth. 1, v. 21: Vocabis 
+      no<lb ed="#B" n="89" break="no"/>men ejus Jesum, quia salrum faciet populum quum 
+      <lb ed="#B" n="90"/>a peccatis ipeorum. (R. Haccados in libro Gale 
+      <lb ed="#B" n="91"/>Razia Antonini consulem alloquens inter caetera 
+      <lb ed="#B" n="92"/>dicit: Quia Messias homines calvabit, vocabitu 
+      <lb ed="#B" n="93"/>Jeschua; gentes autem alterius rationis, quae fidem 
+      <lb ed="#B" n="94"/>ejus sectabuntur, vocabunt eum Jesus. Et proptered 
+      <lb ed="#B" n="95"/>invenies hoc nomen Jesu designatum Gen. 49. v. 10: &amp; 
+      <lb ed="#B" n="96"/>57 τιθουὶ; si enim acceperis primas literas harum 
+      <lb ed="#B" n="97"/>dictionum 38°, nomen Jesu eaedem literae 
+      conficien<lb ed="#B" n="98" break="no"/>Cicero ipse fatetur act. 4. in Verr. plus significari 
+      <lb ed="#B" n="99"/>vocabulo σωτήρ et σώζειν, quam Latina voce 
+      serva<lb ed="#B" n="100" break="no"/>toris et servandi exprimi possit, xml:ideo maluerunt vel 
+      <lb ed="#B" n="101"/>teris ecclesiae doctores uti nomine Salvatoris, ut 
+      <lb ed="#B" n="102"/>salutem in Christo nobis partam ac donatam 
+      ple<lb ed="#B" n="103" break="no"/>nius exprimerent.) Observa igitur: 1. Christum esse 
+      <lb ed="#B" n="104"/>salvatorem non solum ratione termini a quo ac re 
+      <lb ed="#B" n="105"/>spectu privatorum bonorum, qui salvos nos fecit 
+      <lb ed="#B" n="106"/>sive liberavit a peccatis, ab ira Dei, ab 
+      accusation<lb ed="#B" n="107" break="no"/>legis, a morte, a judicio, ab aeterna damnatione 
+      <lb ed="#B" n="108"/>(quae omnia sese mutuo consequuntur, quia Deui 
+      <lb ed="#B" n="109"/>non irascitur nisi propter peccatum, lex nihil 
+      accu<lb ed="#B" n="110" break="no"/>sat aliud quam peccatum, mors est peccati stiper 
+      <lb ed="#B" n="111"/>dium Rom. si, v. 23, et peccatum est mortis atimi 
+      <!--522.xml-->
+      <pb ed="#B" n="449"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>lus 1. Cor. 15, v. 55; propter peccatum severo 
+      De<lb ed="#B" n="2" break="no"/>Judicio obnoxii sumus, ignis infernalis nihil aliud 
+      <lb ed="#B" n="3"/>urit nisi peccata), se etiam ratione termini ad quem 
+      <lb ed="#B" n="4"/>ac respectu bonorum positinorum, quia adduxit perfe 
+      <lb ed="#B" n="5"/>etam justitiam, Dei gratiam vitam ac salutem aeter 
+      <lb ed="#B" n="6"/>nam, Dan. 9, v. 24. 2. Christum esse salvatorem not 
+      <lb ed="#B" n="7"/>tantum ratione meriti, quia perfecta sua obedientia et 
+      <lb ed="#B" n="8"/>plenissima satisfactione salutem nobis peperit, sed 
+      <lb ed="#B" n="9"/>etiam ratione efficaciae, quia beneficia illa 
+      coe<lb ed="#B" n="10" break="no"/>lestia ad salutem nostram pertinentia per verbum et 
+      <lb ed="#B" n="11"/>Spiritum s. nobis applicat. Unde vocatur non solum 
+      <lb ed="#B" n="12"/>378o salvator, sed etiam 1370) σωτηρία et σωνήριο: 
+      <lb ed="#B" n="13"/>salus sive salutare Gen. 49, v. 18. Luc. 2, v. 30. 
+      <lb ed="#B" n="14"/>ut significetur, Christum non tantum semel nobis 
+      acqui<lb ed="#B" n="15" break="no"/>sivisse salutem sua passione et merito, sed esse 
+      sa<lb ed="#B" n="16" break="no"/>lutis fontem, ex quo aquas salutis jugiter haurir. 
+      <lb ed="#B" n="17"/>possimus, Esa. 12, v. 3. Johan. 1, v. 16. 3. Chri 
+      <lb ed="#B" n="18"/>stum esse salvatorem non typicum ac corporalem 
+      <lb ed="#B" n="19"/>quales fuere Josua, Othoniel et alii salvatores V. T. 
+      <lb ed="#B" n="20"/>sed verum, proprium ac spiritualem, cui non solum 
+      <lb ed="#B" n="21"/>ἐξοχικῶς, sed etiam μονοrρόnως hoc nomen 
+      com<lb ed="#B" n="22" break="no"/>petit, est enim talis salvator, qui solus nos salvat 
+      <lb ed="#B" n="23"/>Actor. 4. v. 12, qui salvat ab omni malo, quia 
+      sa<lb ed="#B" n="24" break="no"/>vat a peccato, quod est omnis mali initium Matti 
+      <lb ed="#B" n="25"/>1, v. 21, qui salvat et merito et efficacia 1. Johan 
+      <lb ed="#B" n="26"/>2, v. 2, qui perfectissime salvat, in hac vita in 
+      <lb ed="#B" n="27"/>choative, in futura consummative Josua salvatori 
+      <lb ed="#B" n="28"/>nostri typus (dictus fuit primo Hosee, sed Moyse 
+      <lb ed="#B" n="29"/>id nomen mutavit in Jehoschua praefixa litera 
+      <lb ed="#B" n="30"/>s. ut certiorem ipsi Josuae et populo per ipsum 
+      sa<lb ed="#B" n="31" break="no"/>lutem et victoriam de Cananaeis promitteret, quam 
+      <lb ed="#B" n="32"/>hac exploratione inchoabat, Numer. 13, v. 16 
+      <lb ed="#B" n="33"/>Hosee enim formatur ex imperativo et significa 
+      <lb ed="#B" n="34"/>talva, Jehoschua vero ex futuro salvabit; 2. u 
+      <lb ed="#B" n="35"/>innueret multa ei bona largiturum Deum, cui 
+      priman<lb ed="#B" n="36" break="no"/>literam nominis sui tetragrammmati5 addidisset 
+      <lb ed="#B" n="37"/>3. quia Moyses Spiritu prophetico providebat Josu 
+      <lb ed="#B" n="38"/>typum gesturum Jesu Christi tum nomine tum re 
+      <lb ed="#B" n="39"/>ipsa, deductione scilicet populi in terram 
+      Canaan<lb ed="#B" n="40" break="no"/>Quemadmodum enim Deus Abrahamo et Sarae ad 
+      <lb ed="#B" n="41"/>didit literam ? ex nomine tetragrammto, ut 
+      signif<lb ed="#B" n="42" break="no"/>caret se ex illis nasciturum hominem: sic nomin 
+      <lb ed="#B" n="43"/>Josuae addidit literam?, ut sic Jehoschua continea 
+      <lb ed="#B" n="44"/>omnes literas nominis tetragrammati ac significetur. 
+      <lb ed="#B" n="45"/>Jesum, cujus typus erat Josue, fore Jehovam, xml:id 
+      <lb ed="#B" n="46"/>est, verum Deum); 4. distinguendum esse inter 
+      <lb ed="#B" n="47"/>salvatorem mediatum, talis est etiam Pater e 
+      <lb ed="#B" n="48"/>Spirituis s., hi enim per Filium salvant Hos. 1, v. 7. 
+      <lb ed="#B" n="49"/>Salva bo eos in Domino Deo ipsorum; ac immedia 
+      <lb ed="#B" n="50"/>tum, talis est Filius, ubi iterum distinguendum inte 
+      <lb ed="#B" n="51"/>salvandi efficaciam sive salutis applicationem, 
+      qua<lb ed="#B" n="52" break="no"/>est communis tribus trinitatis personis, et salvand 
+      <lb ed="#B" n="53"/>modum sive salutis acquisitionem per incarnationem. 
+      <lb ed="#B" n="54"/>scilicet passionem ac mortem, qui est Filii proprius 
+      <lb ed="#B" n="55"/>5. Christum esse salvatorem omnium hominum 
+      ra<lb ed="#B" n="56" break="no"/>tione meriti et aequisitionis, quia omnibus omnino sus 
+      <lb ed="#B" n="57"/>passione ac morte salutem promeruit, esse autem dunta 
+      <lb ed="#B" n="58"/>xat credentium salvatorem ratione fructus et applicatio 
+      <lb ed="#B" n="59"/>nis, quia illi soli per fidem salutis participes redduntur 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e320">
+               <lb ed="#B" n="60"/>7. Antithesis: 1. Judaei salvificum nomen Jest 
+      <!--522.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>non legunt nec pronuntiant propterea quod Ex. 23 
+      <lb ed="#B" n="62"/>v. 13. prohibitum, ne recordentur nominis alienorum 
+      <lb ed="#B" n="63"/>Deorum, quod si forte casu illud pronuntiaverint 
+      <lb ed="#B" n="64"/>se ipsos mulctant colaphum sibi impingendo et per 
+      <lb ed="#B" n="65"/>horribilem blasphemiam dieunt 28) per apocoper 
+      <lb ed="#B" n="66"/>subintelligentes 7 1713) deleatur nomen ejus, 
+      <lb ed="#B" n="67"/>Fagius in c. 33. Exod. Loco Jeschu, quod in numeri 
+      <lb ed="#B" n="68"/>efficit 316, legunt p“77 et vanitas, quod totidem dat 
+      <lb ed="#B" n="69"/>lumeros. Anton. Margarit. lib. de fide Judaeorum 
+      <lb ed="#B" n="70"/>Sed haec blasphemia severissimis poenis a Christianis 
+      <lb ed="#B" n="71"/>nagistratibus esset coërcenda. In Alcorano azoar. 28 
+      <lb ed="#B" n="72"/>scribitur S*7 78 *OX Isai filius Mariae per igno. 
+      <lb ed="#B" n="73"/>miniam literis transpositis. 2. Irenaeus lib. 2. adv. 
+      <lb ed="#B" n="74"/>haeres. c. 41. p. 140. aliam profert nominis Jest 
+      <lb ed="#B" n="75"/>etymologiam, cuius ratio latet in abdito et occulto, 
+      <lb ed="#B" n="76"/>Jesus, inquit, nomen secundum propriam Hebraeo 
+      <lb ed="#B" n="77"/>cum linquam literarum est duarum et dimidiae, sicui 
+      <lb ed="#B" n="78"/>periti eorum dicunt, significans Dominum eum, qui 
+      <lb ed="#B" n="79"/>continet coelum et terram, quia Jesus secundum 
+      an<lb ed="#B" n="80" break="no"/>tiquam Hebraicam linquam coelum est, terra autem 
+      <lb ed="#B" n="81"/>iterum Sura Usser dicitur. Verbum igitur, quod 
+      <lb ed="#B" n="82"/>coelum et terram habet, ipse est Jesus. Et postea: 
+      <lb ed="#B" n="83"/>Jesus iterum secundum Hebraicam linquam dua 
+      <lb ed="#B" n="84"/>et dimidiam habet literas. Sed ignorantia lin 
+      <lb ed="#B" n="85"/>guae Hebraeae, quae Irenaeo cum plerisque ex 
+      <lb ed="#B" n="86"/>veteribus communis fuit, in eam opinionem ipsum 
+      <lb ed="#B" n="87"/>abduxit. 1. nomen 278° non est duarum literarum 
+      <lb ed="#B" n="88"/>et dimidiae, sed quatuor literarum; 2. qui a &amp; 
+      <lb ed="#B" n="89"/>vel 7 potius quam a θ deducunt, angelo, xml:id 
+      <lb ed="#B" n="90"/>est, ipsi Deo, cujus jussu locutus est angelus, 
+      con<lb ed="#B" n="91" break="no"/>tradicunt; 3. videtur Irenaeus omissa significatione 
+      <lb ed="#B" n="92"/>et origine propria cabalam aliquam Judaicam sequi. 
+      <lb ed="#B" n="93"/>Quid enim nomini Jesu commune cum E)22 e 
+      <lb ed="#B" n="94"/>77*, quis indagare potest, quae voces sint Sura et 
+      <lb ed="#B" n="95"/>Uffer, quarum nulla apud Hebraeos exstant vestigia. 
+      <lb ed="#B" n="96"/>** Consuluit Judaeum, is virum discendi cupidissimum 
+      <lb ed="#B" n="97"/>decepit, dicit enim sicut periti eorum dicunt. ** 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e409">
+               <lb ed="#B" n="98"/>3. Quidam nomen 27) deducunt a nomine 
+      te<lb ed="#B" n="99" break="no"/>tragrammato Jehova. Jacob. Faber Stapulensis: In 
+      <lb ed="#B" n="100"/>nomine Jhesu aspiratio postponenda est, quia in 
+      <lb ed="#B" n="101"/>nomine tetragrammato iod praecedit he, non autem ho 
+      <lb ed="#B" n="102"/>iod. Hagostratus apud Galatinum: Principes literae 
+      <lb ed="#B" n="103"/>ctragrammati sunt iod, he, van, quae his nostria 
+      <lb ed="#B" n="104"/>orrespondere videntur IHV, hae vero simu 
+      <lb ed="#B" n="105"/>junctae hoc benedictum nomen efficiunt. Titulus 
+      <lb ed="#B" n="106"/>nutem supponitur, ut cruae, per quam salvati sumus 
+      <lb ed="#B" n="107"/>designetur. Osiander disputat, nomen Jehovah ante 
+      <lb ed="#B" n="108"/>ineffabile insertione literae S factum esse effabile 
+      <lb ed="#B" n="109"/>Existimat Lucam propterea dicere, nomen illud 
+      <lb ed="#B" n="110"/>antea scilicet ineffabile ab angelo vocatum, xml:id est 
+      <lb ed="#B" n="111"/>pronuntiatum fuisse in nomine Jesus, et scribendum 
+      <lb ed="#B" n="112"/>77. Atqui 1. angelus non a Jehovah, sed a 5: 
+      <lb ed="#B" n="113"/>777 <!-- line coord errror -->
+      <lb ed="#B" n="114"/>deducit. 2. Nomen Jehovah scribitur per τ7717 
+      <lb ed="#B" n="115"/>sed nomen Jesu per 578°, quae literarum diversi 
+      <lb ed="#B" n="116"/>tas etymologiae diversitatem arguit, Galat. libr.. 
+      <lb ed="#B" n="117"/>c. 20. 3. Nomen Jesu interprete angelo directe et 
+      <lb ed="#B" n="118"/>immediate non est nomen personae, sed officii, no 
+      <lb ed="#B" n="119"/>tans actionem salvandi; sed nomen Jehovah ipsam 
+      <lb ed="#B" n="120"/>Dei essentiam notat a rad. 5)17 vel *217, quia Dei 
+      <lb ed="#B" n="121"/>maxime proprium est esse. 1. Nomen Jehovali secun¬ 
+      <!--523.xml-->
+      <pb ed="#B" n="450"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>dum divinam naturam Christo competit, sed nomer 
+      <lb ed="#B" n="2"/>Jesu utramque naturam complectitur; Gal. d. 
+      <lb ed="#B" n="3"/>4. Quidam volunt nomen Jeschua affinitatem quar 
+      <lb ed="#B" n="4"/>dam habere cum voce Di, quae exsistentiam et sub 
+      <lb ed="#B" n="5"/>sistentiam significat, quia Christus in duabus 
+      naturi<lb ed="#B" n="6" break="no"/>divina et humana unam constituit subsistentiam 
+      <lb ed="#B" n="7"/>hypostasin ac personam indissolubilem. Sed hac 
+      <lb ed="#B" n="8"/>qualiscumque allusio non est vera etymologia, se 
+      <lb ed="#B" n="9"/>ea, quam tradit angelus. 5. Quidam nomen Graecum 
+      <lb ed="#B" n="10"/>Πησοῦς ab ἰάω sano vel a Syro &amp;&amp;&amp; sano deducunt 
+      <lb ed="#B" n="11"/>ut 1ησοῦς sit xml:idem quod ἰατρός. Eusebius haeres. 29. 
+      <lb ed="#B" n="12"/>Jesus ait Hebraica lingua curator appellatur ar 
+      <lb ed="#B" n="13"/>medicus et salvator. Idem facit Basil. in ascet 
+      <lb ed="#B" n="14"/>Cyrill. catech. 10, sed ostendit angelus apud 
+      Ma<lb ed="#B" n="15" break="no"/>thaeum, ex S&amp; originem quaerendam esse 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e505">
+               <lb ed="#B" n="16"/>8. Qu. h. I. An nomen Jesu recte scribatur 
+      pe<lb ed="#B" n="17" break="no"/>adspirationem Jhesus? Solenne hoc est Jesuitis 
+      <lb ed="#B" n="18"/>unde etiam per abbreviationem in frontispiciis libro 
+      <lb ed="#B" n="19"/>rum ponere solent IHS cum superimposita cruce 
+      <lb ed="#B" n="20"/>Buntingus parum referre putat, sive cum sive sine 
+      <lb ed="#B" n="21"/>adspiratione scribatur. Atqui 1. nec in Hebraea nec 
+      <lb ed="#B" n="22"/>in Graeca lingua habetur litera sive adspiratio H 
+      <lb ed="#B" n="23"/>proinde etiam in Latina vocis formatione addi non 
+      <lb ed="#B" n="24"/>debebat. 2. Quamvis 27) videri possit esse contra 
+      <lb ed="#B" n="25"/>ctum ex J77*. Scheva mutato in, propter literas 
+      <lb ed="#B" n="26"/>et7 per crasin elisas (quia formatur ex Hiphil 3777 
+      <lb ed="#B" n="27"/>et quia filius ille Josedec, qui apud Haggaeum et 
+      <lb ed="#B" n="28"/>Zachariam 2ES vocatur, alibi 37j dicitur Esdi 
+      <lb ed="#B" n="29"/>2. v. 2. Nehem. 7, v. 7. ac J7 filius Nun appel 
+      <lb ed="#B" n="30"/>latur 27. Nehem. 18, v. 17.), constat tamen e 
+      <lb ed="#B" n="31"/>Syriaca N. T. versione, nomen salvatoris non scribi 
+      <lb ed="#B" n="32"/>per Στθτι] sed στ], ac si vel maxime in 
+      Hebrae<lb ed="#B" n="33" break="no"/>est 8, tamen Latinum ex Graeco Tησοῦς formatum 
+      <lb ed="#B" n="34"/>non deberet habere adspirationem. 378) per schevs 
+      <lb ed="#B" n="35"/>immediate a radice JD formatur, sicut a Θ2 a7. 
+      <lb ed="#B" n="36"/>auceps, a m via, unctus, vel a futuro 27ο87 
+      <lb ed="#B" n="37"/>salvabit. 3. Pagninus in expositione nominum 
+      Hebra<lb ed="#B" n="38" break="no"/>prum monet Jesu scribendum esse per 378, non 
+      <lb ed="#B" n="39"/>autem per θ7, quia in titulo crucis, qui Romae 
+      <lb ed="#B" n="40"/>in templo sanctae crucis asservatur, sic scriptum 
+      <lb ed="#B" n="41"/>reperiatur. Quamvis vero hoc argumentum 
+      exigu<lb ed="#B" n="42" break="no"/>apud nos ponderis sit, Jesuitis tamen recte 
+      oppo<lb ed="#B" n="43" break="no"/>nitur. 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e568">
+               <lb ed="#B" n="44"/>9. Qu. 2. Quomodo ex Hebraeo 27833 forme 
+      <lb ed="#B" n="45"/>tur Graecum λησοῦς et Latinum Jesus? LXX in 
+      <lb ed="#B" n="46"/>terpp. nomen 37757) et 57 vertunt per ησοῦς 
+      <lb ed="#B" n="47"/>quos secutus est angelus, quando salvatori nostro 
+      il<lb ed="#B" n="48" break="no"/>lud nomen tribuit, ut figuras V. T. in ipso impleri 
+      <lb ed="#B" n="49"/>ostenderet, interim ne mutatio scriptionis ac pro 
+      <lb ed="#B" n="50"/>nuntiationis verae hujus nominis significationi 
+      quip<lb ed="#B" n="51" break="no"/>piam detraheret, diserte explicationem addit, quod 
+      <lb ed="#B" n="52"/>a rad. JO, in Hiphil deducatur et salvatorem notet 
+      <lb ed="#B" n="53"/>Quaeritur autem quomodo ex 273 formetur nome 
+      <lb ed="#B" n="54"/>Ιησοῦς, ex quo Latini acceperunt nomen Jesu 
+      <lb ed="#B" n="55"/>Quidam hanc scriptionem et pronuntiationem 
+      plan<lb ed="#B" n="56" break="no"/>repudiandam censent, cum originem ducat ex 
+      cor<lb ed="#B" n="57" break="no"/>ruptela Judaeorum, qui, ut salvandi honorem Christo 
+      <lb ed="#B" n="58"/>detrahant, literam radicalem 3 ex ipsius nomine 
+      <lb ed="#B" n="59"/>eliserunt et loco 378) scribunt 785, ut virulentar 
+      <lb ed="#B" n="60"/>illam blasphemiam, de qua superius, occultent. Sed 
+      <!--523.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ante natam illam blasphemiam Judaicam LXX. 
+      <lb ed="#B" n="62"/>scripserunt λησοῦς, in quo itidem 3 est elisum 
+      <lb ed="#B" n="63"/>Quidam ergo respondent, quod juxta Baal Aruch in 
+      <lb ed="#B" n="64"/>Lexico Thalmudico Syris in more positum sit elidere 
+      <lb ed="#B" n="65"/>iteras * et J, praesertim in fine dictionis, quia ob 
+      <lb ed="#B" n="66"/>difficultatem litera S non pronuntiari, sed absorberi 
+      <lb ed="#B" n="67"/>solet, unde pro 37 legunt 38, ex quo est nomen, 
+      <lb ed="#B" n="68"/>ησοῦς, cui additum fuit 6. quia Graeci nominibus 
+      <lb ed="#B" n="69"/>peregrinis illud in fine solent addere, sed quia 
+      prae<lb ed="#B" n="70" break="no"/>stat ex Hebraeo, quam ex Syro originem quaerere 
+      <lb ed="#B" n="71"/>Alii progrediuntur hoc modo, nomen 1ησοῖς 
+      Graeci<lb ed="#B" n="72" break="no"/>est trisyllabum eo quod jota apud illos sit vocalis, 
+      <lb ed="#B" n="73"/>quae Hebraeis et Latinis est consonans, deind 
+      <lb ed="#B" n="74"/>punctum zere sub jod in Jeschua vertunt in η, olim 
+      <lb ed="#B" n="75"/>enim η sonabat ut e, ac tertio gutturalem θ vertum 
+      <lb ed="#B" n="76"/>In e lenioris pronuntiationis causa. Sic ex Meechia 
+      <lb ed="#B" n="77"/>fecerunt Messias. 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e648">
+               <lb ed="#B" n="78"/>10. Qu. 3. An nomen salvatoris etiam in V. T. 
+      <lb ed="#B" n="79"/>Messiae fuerit attributum? Quidam volunt non 
+      so<lb ed="#B" n="80" break="no"/>lum Judaeis et prophetis, sed etiam gentilibus 
+      no<lb ed="#B" n="81" break="no"/>men Jesu fuisse cognitum, cum Sibyllae multa de 
+      <lb ed="#B" n="82"/>Messia et ejus nomine Jesu praedixerint. Notum est 
+      <lb ed="#B" n="83"/>carmen Sibyllae Erythraeae, cujus acrostichis 
+      han<lb ed="#B" n="84" break="no"/>reddidit sententiam: λησοῦς χριστὸς θεοῦ υἱὸς σωπή 
+      <lb ed="#B" n="85"/>Vide Constantin. Magn. in orat. ad coetum 
+      sancto<lb ed="#B" n="86" break="no"/>rum, quae exstat apud Euseb. post vitam Constant. 
+      <lb ed="#B" n="87"/>August. lib. 18. de civit. Dei c. 23. ete. Quidam 
+      <lb ed="#B" n="88"/>contra statuunt, ab angelo in N. T. illud primum 
+      <lb ed="#B" n="89"/>fuisse revelatum, quo accommodant dictum propho 
+      <lb ed="#B" n="90"/>ticum Es. 62, v. 3: Vocabitur sibi nomen novum 
+      <lb ed="#B" n="91"/>quod os Domini declarabit. Sed proprie ac 
+      princi<lb ed="#B" n="92" break="no"/>paliter de ecclesia N. T. ibi agitur. Quidam me 
+      <lb ed="#B" n="93"/>diam amplectuntur sententiam, fuisse scilicet hoc 
+      <lb ed="#B" n="94"/>Messiae nomen piis non quidem gentilibus, interin 
+      <lb ed="#B" n="95"/>tamen piis V. T. manifestatum: I. in typis, qui 
+      <lb ed="#B" n="96"/>Josua, filius Nun dux populi Israëlitici ac filius 
+      Jo<lb ed="#B" n="97" break="no"/>sedec sacerdos, qui typum Christi gesserunt, hoc 
+      <lb ed="#B" n="98"/>nomine fuere appellati, ut postea apparebit, 2. ij 
+      <lb ed="#B" n="99"/>promissionibus ac vaticiniis. Gen. 49, v. 18: Ea 
+      <lb ed="#B" n="100"/>specto, Domine 13777, salutem tuam, xml:id est, ss 
+      <lb ed="#B" n="101"/>lutare illud tuum, quod parabis ante faciem omnium 
+      <lb ed="#B" n="102"/>populorum, ut Simeon Luc. 2, v. 30. et 31. exponit. 
+      <lb ed="#B" n="103"/>Psalm. 14, v. 7: Quis dabit ex Sion Dουτ; salu 
+      <lb ed="#B" n="104"/>tem Icraël. Psalm. 67, v. 3: ut eciamus in terra viam 
+      <lb ed="#B" n="105"/>quam in omnibus gentibus 71737; calutare tuum 
+      <lb ed="#B" n="106"/>Psalm. 68, v. 21: Deus noster Deus calvos faciendi 
+      <lb ed="#B" n="107"/>in quem locum sic, commentatur Aug. lib. 17. de 
+      <lb ed="#B" n="108"/>civ. Dei c. 18: Deus salvos faciendi Deus est Jesus, 
+      <lb ed="#B" n="109"/>quod interpretatur salvator sive salutaris. Nan 
+      <lb ed="#B" n="110"/>ratio nominis hujus haec reddita est, quando, 
+      prius<lb ed="#B" n="111" break="no"/>quam ex virgine nasceretur, dictum est: Vocabi 
+      <lb ed="#B" n="112"/>nomen ejus Jesu, quia salvum facit populum e 
+      <lb ed="#B" n="113"/>peccatis eorum, in quorum peccatorum remissionem 
+      <lb ed="#B" n="114"/>quoniam sanquis ejus effusus est, non utique opor 
+      <lb ed="#B" n="115"/>tuit cum de hac vita exitus alios habere quan 
+      <lb ed="#B" n="116"/>mortis. Ideo cum dictum esset, Deue noster Deus 
+      <lb ed="#B" n="117"/>salvos faciendi, continuo subjunctum est, et Domin 
+      <lb ed="#B" n="118"/>ecitus mortis, ut ostenderetur moriendo salvos esse 
+      <lb ed="#B" n="119"/>facturus. Psalm 98, v. 2: Dominus annuntiat salu 
+      <lb ed="#B" n="120"/>tem suam. V. 4: omnes fines terrae vidont calutare 
+      <!--524.xml-->
+      <pb ed="#B" n="451"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Dei (hoc repetitur Es. 52, v. 10, ad Christum refer 
+      <lb ed="#B" n="2"/>tur Luc. 3, v. 6.), Esai. 45. v. 8: aperiat ae terro 
+      <lb ed="#B" n="3"/>et fructificent JWY, calus et justitia. Esa 49, v. 6:. 
+      <lb ed="#B" n="4"/>dedi te in lucem gentium, ut eis *173qυι, salus 
+      <lb ed="#B" n="5"/>mea usque ad extremum terrae. Es. 62, v. 11. 
+      <lb ed="#B" n="6"/>Dicite filiae Sion: Ecce venit calutifera; 
+      confe<lb ed="#B" n="7" break="no"/>Hatth. 21, v. 1. Apoc. 22. v. 1. Hoseae i, v. 7. 
+      <lb ed="#B" n="8"/>alvos eos-faciam in Domino Deo suo. Habae.. 
+      <lb ed="#B" n="9"/>v. 18: lactabor in Deo *2; salutari meo. Distim 
+      <lb ed="#B" n="10"/>guimus: I. inter rem nomine expressam et nomen 
+      <lb ed="#B" n="11"/>ipeum formaliter acceptum. Res nomine Jesu de 
+      <lb ed="#B" n="12"/>notata fuit piis Vet. Test. nota, xml:id est Messiam 
+      <lb ed="#B" n="13"/>revera salvatorem fore crediderunt et salutem ab 
+      e<lb ed="#B" n="14" break="no"/>sperarunt, sed formaliter ac peculiariter nomin 
+      <lb ed="#B" n="15"/>378 ipsum appellandum esse, non adeo exacte no 
+      <lb ed="#B" n="16"/>verunt. Sic Messiam erediderunt vocatum iri, xml:id est 
+      <lb ed="#B" n="17"/>in rei veritate fore Immanuelem Esa. 7, v. 15 
+      <lb ed="#B" n="18"/>mirabilem consiliarium ete. c. 9, v. 6. Jehovan 
+      <lb ed="#B" n="19"/>justitiam nostram Jerem. 23, v. 6. Sed proprium 
+      <lb ed="#B" n="20"/>Messiae nomen ex eo intelligere non potuerunt 
+      <lb ed="#B" n="21"/>2. inter nomen proprium et appellativum. 37 
+      <lb ed="#B" n="22"/>habens sub5 zere et sub 3 patach est nomen pro 
+      <lb ed="#B" n="23"/>prium, sed 137* sub5 habens scheva et sub X ca 
+      <lb ed="#B" n="24"/>metz est appellativum generis feminini significant 
+      <lb ed="#B" n="25"/>salutem et liberationem. Illud non fuit piis V. T. 
+      <lb ed="#B" n="26"/>eo modo notum, quo posterius. Ex apocryphis libri 
+      <lb ed="#B" n="27"/>addunt testimonium Esdrae lib. 4, c. 3: revelabitu 
+      <lb ed="#B" n="28"/>Filius meus 27) Jesus cum iis, qui cum eo lacta 
+      <lb ed="#B" n="29"/>buntur. Item, morietur filius meus Jesus et 
+      conver<lb ed="#B" n="30" break="no"/>tetur ad me seculum. Sirac. 13, v. 25: Plantavi 
+      <lb ed="#B" n="31"/>illum Dominus Jesus. Sed apocryphis illud ipsum 
+      <lb ed="#B" n="32"/>auctoritatem detrahit, quod tam clare et perspicu 
+      <lb ed="#B" n="33"/>nomen Jesu exprimunt, quale quid in prophetis non 
+      <lb ed="#B" n="34"/>occurrit. Adde quod apud Siracidem errore librari 
+      <lb ed="#B" n="35"/>pro νήσους scriptum fuerit Τησοῦς. In Graeco enim 
+      <lb ed="#B" n="36"/>est καὶ ἐφύτευσεν εἰς αὐτὴν vel ἐν αὐιῇ νήσους. 
+      No<lb ed="#B" n="37" break="no"/>vum ergo est nomen Jesu I. ratione peculiaris impo 
+      <lb ed="#B" n="38"/>sitionis, quia ab angelo fuit nostro salvatori 
+      imposi<lb ed="#B" n="39" break="no"/>tum et e coelesti curia in terras delatum; 2. ratione 
+      <lb ed="#B" n="40"/>clarioris patefactionis, quia vis hujus nominis ple 
+      <lb ed="#B" n="41"/>nius ac penitius in N. T. innotuit; 3. ratione signi 
+      <lb ed="#B" n="42"/>ficationis, quia talis salvator, qualis Christus est 
+      <lb ed="#B" n="43"/>nondum fuerat in V. T. neque alius in N. T. erit 
+</p>
+            <p xml:id="zef3dd-d1e891-d1e843">
+               <lb ed="#B" n="44"/>11. Qu. 4. Quare Messias Zach. 9, v. 9. di. 
+      <lb ed="#B" n="45"/>catur non Z*, in significatione activa, sed θv in 
+      <lb ed="#B" n="46"/>significatione passiva, salvatus. Resp. Targum ex 
+      <lb ed="#B" n="47"/>ponit active py27 et liberator sive redemtor. Schind. 
+      <lb ed="#B" n="48"/>in Lex. eodem modo explicat ac confert cum voce 
+      <lb ed="#B" n="49"/>27717m Deut. 22, v. 27. et non liberator ei, qua ratione 
+      <lb ed="#B" n="50"/>S erit formativa nominis ex literis heemanthi. Sed 
+      <lb ed="#B" n="51"/>cum tales formationes nominum vix occurrant, xml:ideo 
+      <lb ed="#B" n="52"/>simplicius accipitur, quod sit Paul Niphal ac 
+      com<lb ed="#B" n="53" break="no"/>modam praebet significationem. Christus non solum 
+      <lb ed="#B" n="54"/>est salvator, sed etiam ipse est salvatus, xml:id es 
+      <lb ed="#B" n="55"/>quia passione et morte sua nos redimere voluit 
+      e<lb ed="#B" n="56" break="no"/>in profundum miseriae nostrae descendit, xml:ideo 
+      ipsum<lb ed="#B" n="57" break="no"/>prius salvari oportuit, ut salvatus ipse etiam 
+      no<lb ed="#B" n="58" break="no"/>salvare posset. Esa. 63, v. 5: Circumspexi, et non 
+      <lb ed="#B" n="59"/>erat auxiliator, fui in anxietate, et non fuit qui 
+      <lb ed="#B" n="60"/>adjuvaret (scilicet inter homines), et salvavit me bro 
+      <!--524.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>chium meum (robur divinitatis meae), et indignatio 
+      <lb ed="#B" n="62"/>sive selus meus ipse auxiliatus est mihi. Quidar 
+      <lb ed="#B" n="63"/>putant ipsum nomen 33 habere formam participii 
+      <lb ed="#B" n="64"/>passivi et significari non salvatorem sed salvatum 
+      <lb ed="#B" n="65"/>Atqui non est Paul cal. sed Thoar, ut Josua vel ex 
+      <lb ed="#B" n="66"/>futuro 2u37 vel ex nomine 137E: salus formatum. 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e901">
+               <lb ed="#B" n="67"/>12. Usus practicus est consolatorius, quem 
+      sua<lb ed="#B" n="68" break="no"/>vissimis verbis exponunt pii veteres. Cum enim 
+      <lb ed="#B" n="69"/>hoc nomen non humano arbitrio, sed divino 
+      man<lb ed="#B" n="70" break="no"/>dato Messiae fuerit impositum, cum sit nomen ejus 
+      <lb ed="#B" n="71"/>proprium ac peculiare, cum omnium beneficiorum? 
+      <lb ed="#B" n="72"/>Christo ad nos descendentium thesaurum 
+      complecta<lb ed="#B" n="73" break="no"/>tur, xml:ideo omnis verae ac solidae consolationis 
+      fum<lb ed="#B" n="74" break="no"/>damentum in hoc nomine nobis proponitur. Gal. 
+      <lb ed="#B" n="75"/>lib. 3, e. 20: Reliqua Messiae nomina ab ipsius 
+      <lb ed="#B" n="76"/>talvationis sumuntur effectu et vel tantum principium 
+      <lb ed="#B" n="77"/>vel tantum medium vel tantum finem salvationis 
+      <lb ed="#B" n="78"/>significant, hoc vero nomen Jesu totum saluti 
+      <lb ed="#B" n="79"/>nostrae processum, principium scilicet, medium es 
+      <lb ed="#B" n="80"/>finem sufficienter continet et exprimit, quare reliqua 
+      <lb ed="#B" n="81"/>omnia includit. Nomen Jesus est monile ex variis 
+      <lb ed="#B" n="82"/>gemmis et margaritis contextum, quod coelestis 
+      <lb ed="#B" n="83"/>sponsus sponsae suae donat, in quo effigiem suam 
+      <lb ed="#B" n="84"/>ad vivum ipsemet expressit. Nomen Jesus est 
+      me<lb ed="#B" n="85" break="no"/>in ore, in aure melos, in corde jubilus, lucet prae 
+      <lb ed="#B" n="86"/>dicatum, pascit cogitatum, lenit invocatum. Bernh. 
+      <lb ed="#B" n="87"/>perm. 15. in Cant. fol. 332. Nomen Jesus est 
+      cor<lb ed="#B" n="88" break="no"/>dis nostri paradisus, in quo intuemur florem caritatis 
+      <lb ed="#B" n="89"/>rosam humanitatis, violam humilitatis, lilium 
+      puri<lb ed="#B" n="90" break="no"/>atis, hyssopum emundationis, myrrham incorrupti 
+      <lb ed="#B" n="91"/>bilitatis, palmam victoriae, oleam misericordiae, 
+      bal<lb ed="#B" n="92" break="no"/>samum sanationis. In hoc animae nostrae 
+      paradis<lb ed="#B" n="93" break="no"/>vides arborem vitae, virgam Aaronis, surculum ex 
+      <lb ed="#B" n="94"/>radice Jessae, germen Davidis, vitem vivam, fascicu 
+      <lb ed="#B" n="95"/>lum myrrhae, florem campi et lilium convallium 
+      <lb ed="#B" n="96"/>fontem salutis et vitae, quicquid enim in hisce figuris 
+      <lb ed="#B" n="97"/>proponitur, illud omne in nomine Jesu ἐπιτομικῶ 
+      <lb ed="#B" n="98"/>continetur. Hilar. in enarr. Psalm. 51: Iloc nomen 
+      <lb ed="#B" n="99"/>adorant angeli, tremunt daemones et homines ac 
+      <lb ed="#B" n="100"/>salutem assumunt. Epiph. haeres. 29. p. 53: Nomen 
+      <lb ed="#B" n="101"/>Jesu significat curatorem et medicum. Bernhardi 
+      <lb ed="#B" n="102"/>perm. 2. super Missus est col. 27: Utinam et me 
+      <lb ed="#B" n="103"/>peccatorem Dominus Jesus dignetur annumerare 
+      <lb ed="#B" n="104"/>populo suo, ut salvum me facias a peccatis meis 
+      <lb ed="#B" n="105"/>Vere enim beatus populus, cujus iste Jesus Domi 
+      <lb ed="#B" n="106"/>nus, Deus Jesus, etc. Idem serm. 2. de circumo 
+      <lb ed="#B" n="107"/>col. 64: A natura propria habet, ut eit salvator 
+      <lb ed="#B" n="108"/>innatum est ei hoc nomen, non inditum ab humana 
+      <lb ed="#B" n="109"/>vel angelica creatura. Serm. 15. in Cant. col. 532. 
+      <lb ed="#B" n="110"/>Nomen Jesu est cibus, lux et medicina. Hoc 
+      tib<lb ed="#B" n="111" break="no"/>electuarium habes, o anima mea, reconditum in 
+      <lb ed="#B" n="112"/>asculo hujus vocabuli, quod est Jesue salutiferum 
+      <lb ed="#B" n="113"/>certe, quodque nulli unquam pesti tuae invenitur. 
+      <lb ed="#B" n="114"/>inefficax. Serm. de coena Domini col. 1710: Jesus 
+      <lb ed="#B" n="115"/>dulcie in voce, dulcis in facie, dulcis nomine. Dulce 
+      <lb ed="#B" n="116"/>enim nomen et suave Jesus consecratum ab acterno, 
+      <lb ed="#B" n="117"/>annuntiatum ab angelo, prophetatum Salomoni 
+      <lb ed="#B" n="118"/>oraculo, qui ait: Oleum effusum nomen tuum, ete 
+      <lb ed="#B" n="119"/>Anshelm. demis. hominis p. 89. ex Augustin. lib. de 
+      <lb ed="#B" n="120"/>contrit. cord.: Jesu, propter nomen tuam dulce fac¬ 
+      <!--525.xml-->
+      <pb ed="#B" n="452"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>mihi secundum nomen tuum, obliviscere superbus 
+      <lb ed="#B" n="2"/>te provocantem, respice pie miserum te invocantem 
+      <lb ed="#B" n="3"/>Jegu, nomen tuum dulce, nomen delectabile, nomes 
+      <lb ed="#B" n="4"/>confortans peccatorem et nomen beatae spei. Quic 
+      <lb ed="#B" n="5"/>enim est Jesus nisi salvator? ergo propter teme 
+      <lb ed="#B" n="6"/>ipsum, Jesu, esto mihi Jesus, esto mihi salvator 
+      <lb ed="#B" n="7"/>benignus. Noli, Domine, noli sic attendere malum 
+      <lb ed="#B" n="8"/>meum, ut obliviscqris bonum tuum. O bone Domin 
+      <lb ed="#B" n="9"/>Jesu, etsi ego admisi, unde me damnare possis, to 
+      <lb ed="#B" n="10"/>non amisisti, unde me salves Psalm. 35, v. 3. Dio. 
+      <lb ed="#B" n="11"/>animae meae: 71Z, salus tua ego. Si indige 
+      <lb ed="#B" n="12"/>peccatorum remissione, hoc nomen ipsi proptere 
+      <lb ed="#B" n="13"/>datum, quia salvum faciet populum a peccati 
+      <lb ed="#B" n="14"/>Matth. 1, v. 21; si defensione, hoc nomen est turri 
+      <lb ed="#B" n="15"/>fortissima Proverb. 18, v. 10; si justitia, eadem 
+      <lb ed="#B" n="16"/>datur in hoc nomine Jerem. 23, v. 6; si Spiritu e 
+      <lb ed="#B" n="17"/>idem datur per hoc nomen, Johan. 14. v. 26; si ss 
+      <lb ed="#B" n="18"/>lute, in eo est salus, Act. 4. v. 12. 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e1066">
+               <lb ed="#B" n="19"/>13. Thesis 2: Christus significat unctum a χρία 
+      <lb ed="#B" n="20"/>quia salvator noster oleo laetitiae, plenitudine 
+      scil<lb ed="#B" n="21" break="no"/>cet Spiritus s. unctus est. Ἐxθεσις haec esto. Ut 
+      <lb ed="#B" n="22"/>nomen Jesus ratione primae originis Hebraeum es 
+      <lb ed="#B" n="23"/>ita cognomen Christus est Graecum. Quod erg 
+      <lb ed="#B" n="24"/>salvator noster Hebraea et Graeca appellatione 
+      <lb ed="#B" n="25"/>insignitur, per illud insinuatur, quod et Judaeorum 
+      <lb ed="#B" n="26"/>et gentium, xml:id est, omnium omnino hominum salvi 
+      <lb ed="#B" n="27"/>tor sit. Nomen Christi respondet appellationi Mes 
+      <lb ed="#B" n="28"/>siae, ducta a rad. 1v72 unxit. Joh. 1, v. 42. dici 
+      <lb ed="#B" n="29"/>Andreas: Invenimus Messiam; quod est interpreta 
+      <lb ed="#B" n="30"/>tum ὁ χρισιός. Johan. 4. v. 25. Messias dicitu 
+      <lb ed="#B" n="31"/>Christus (Μεσσίας fit ex Chald. &amp;W mutato D in 
+      <lb ed="#B" n="32"/>ac et Y in terminationem Graecam as.) Tribuitu 
+      <lb ed="#B" n="33"/>autem appellatio Messiae Dei Filio promisso 
+      sa<lb ed="#B" n="34" break="no"/>vatori. 1. Samuel. 2. v. 10: cornu Messiae. Psalm.. 
+      <lb ed="#B" n="35"/>v. 2: adstiterunt adversus Dominum et Christum 
+      <lb ed="#B" n="36"/>ejus. Psalm. 132, v. 10. et 17. Daniel. 9, v. 25. 
+      <lb ed="#B" n="37"/>usque ad Messiam ducem. v. 26: exscindetur Mee 
+      <lb ed="#B" n="38"/>gias et in multis Chaldaicae paraphraseos locis 
+      <lb ed="#B" n="39"/>Gen. 49, v. 10: donec veniat Messias. Esai. 53, v. 1. 
+      <lb ed="#B" n="40"/>Ecce intelliget servus meus Messias. Mich. 5, v. 2. 
+      <lb ed="#B" n="41"/>ex te coram me egredietur Messias, ete. August 
+      <lb ed="#B" n="42"/>lib. 2. contra literas Petiliani c. 104: Christus, 
+      <lb ed="#B" n="43"/>chrismate appellatur, xml:id est, ab unctione. Hunc 
+      <lb ed="#B" n="44"/>Hebraei dicunt Messiam, quod verbum 
+      Punica<lb ed="#B" n="45" break="no"/>linguae consonum est, sicut alia Hebraea permulto 
+      <lb ed="#B" n="46"/>et paene omnia. Tract. 7. in Joh.: Messias, Latin 
+      <lb ed="#B" n="47"/>unctus, Graece Christus est. Ille singulariter 
+      unctu<lb ed="#B" n="48" break="no"/>praecipue unctus, unde omnes Christiani unquuntu 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e1134">
+               <lb ed="#B" n="49"/>14. Ratio appellationis est 1. typica, quia 
+      typ<lb ed="#B" n="50" break="no"/>Christi fuerunt sacerdotes, reges et prophetae V. T. 
+      <lb ed="#B" n="51"/>qui uncti fuere oleo sancto, quod vocabatur 
+      jau<lb ed="#B" n="52" break="no"/>AtI et constabat quatuor aromatibus myrrhs 
+      <lb ed="#B" n="53"/>cinnamomo, calamo et casia. Quod sacerdotes unct 
+      <lb ed="#B" n="54"/>fuerint, constat ex historia Exod. 26, quod reges, ex 
+      <lb ed="#B" n="55"/>historia Saulis, Davidis, Salomonis, Jehu, ete 
+      <lb ed="#B" n="56"/>(Hebraei notant, patris uncti successores non fuisse 
+      <lb ed="#B" n="57"/>unctos. Ad exemplum Salomonis respondent xml:id 
+      <lb ed="#B" n="58"/>factum fuisse ob seditionem fratris Adoniae. Sed 
+      <lb ed="#B" n="59"/>hoc incertum est), quod prophetae, ex historia Elisae 
+      <lb ed="#B" n="60"/>. 1. Reg. 19. v. 17. Justin. in dial. cum Tryph. p. 244. 
+      <!--525.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Reges omnes et uncti huic accepto tulerunt, quod e 
+      <lb ed="#B" n="62"/>reges et uncti vocitati sunt. Laet. lib. 4. Inst. div. 
+      <lb ed="#B" n="63"/>c. 7. p. 202: Christus non proprium nomen est, 
+      se<lb ed="#B" n="64" break="no"/>nuncupatio potestatis et regni, sic enim Judaei 
+      <lb ed="#B" n="65"/>reges suos appellabant. Erat Judaeis ante prae 
+      <lb ed="#B" n="66"/>ceptum, ut sacrum conficerent unquentum, quo 
+      <lb ed="#B" n="67"/>perungi possent ii, qui vocantur ad sacerdotium e 
+      <lb ed="#B" n="68"/>requum, et sicut nun nunc Romanis indumentum 
+      <lb ed="#B" n="69"/>purpurae insigne est regiae dignitatis assumtae, sic 
+      <lb ed="#B" n="70"/>illis unctio sacri unquenti nomen ac potestatem 
+      <lb ed="#B" n="71"/>regiam conferebat, ob hanc rationem nos eum 
+      <lb ed="#B" n="72"/>Christum nominamus, xml:id est unctum, qui Hebraic 
+      <lb ed="#B" n="73"/>Messias dicitur; 2. propria, quia Christus oleo 
+      <lb ed="#B" n="74"/>laetitiae, xml:id est, Spiritu s. unctus fuit prae consor 
+      <lb ed="#B" n="75"/>tibus suis Psalm 45, v. 8. Esai. 61, v. 1. Dan. 5. 
+      <lb ed="#B" n="76"/>v. 24. Luc. 4. v. 8. Actor. 4. v. 27. Actor. 10, v. 38 
+      <lb ed="#B" n="77"/>Hebr. 1, v. 9. (Quidam duplicem unctionis rationem 
+      <lb ed="#B" n="78"/>in Christo statuunt: Unam, qua Aόγos ipse hums 
+      <lb ed="#B" n="79"/>nam naturam assumendo eandem proprii sui spiritu 
+      <lb ed="#B" n="80"/>plenitudine unxit Col. 2, v. 9, de qua accipium 
+      <lb ed="#B" n="81"/>vaticinium Daniel. 9, v. 24, altera, qua Deus Pate 
+      <lb ed="#B" n="82"/>Christum ut hominem unxit oleo laetitiae prae 
+      con<lb ed="#B" n="83" break="no"/>sortibus quis, de qua accipiunt dicta Psalm. 45. 
+      <lb ed="#B" n="84"/>v. 8. Esa. 61, v. 1. Sed est una atque eadem unctio 
+      <lb ed="#B" n="85"/>qua Pater Christum secundum humanam naturam 
+      <lb ed="#B" n="86"/>unxit Spiritu s. et qua Christus carnem suam ole 
+      <lb ed="#B" n="87"/>deitatis et proprii spiritus plenitudine unxit, sicut una 
+      <lb ed="#B" n="88"/>eademque est communicatio, qua Pater dicitur Filium 
+      <lb ed="#B" n="89"/>secundum humanam naturam collocasse ad dextran 
+      <lb ed="#B" n="90"/>suam et qua Filius assumtam carnem ad dextran 
+      <lb ed="#B" n="91"/>DEI evexit. Quamvis enim non Pater, non Spiri 
+      <lb ed="#B" n="92"/>ritus s., sed solus λόγος carnem in personae uni 
+      <lb ed="#B" n="93"/>tatem assumserit, sicque terminus assumtionis non 
+      <lb ed="#B" n="94"/>sit Patris vel Spiritus s., sed λόγου persona, 
+      tame<lb ed="#B" n="95" break="no"/>trium personarum est una eademque actio.) Ei 
+      <lb ed="#B" n="96"/>quo apparet evidens discrimen inter unctionem 
+      <lb ed="#B" n="97"/>regum, sacerdotum et prophetarum V. T. et inter 
+      <lb ed="#B" n="98"/>unctionem Christi: 1. ratione caussae efficientis 
+      <lb ed="#B" n="99"/>Illi unguebantur mediate per prophetas et 
+      sacerdo<lb ed="#B" n="100" break="no"/>tes alios, hic vero immediate a Deo ipso; 2. ration 
+      <lb ed="#B" n="101"/>materiae. Illi unguebantur oleo externo, hic 
+      ver<lb ed="#B" n="102" break="no"/>interno et invisibili, quod est Spiritus s. 3. ratione 
+      <lb ed="#B" n="103"/>finis. Illi unguebantur ad regnum terrenum et 
+      <lb ed="#B" n="104"/>mundanum, hic ad coeleste et aeternum; 1. ratione 
+      <lb ed="#B" n="105"/>effectus. Unctio Christi nobis etiam utilitatem 
+      cor<lb ed="#B" n="106" break="no"/>fert, quia ab illo tanquam capite Spiritus unctio in 
+      <lb ed="#B" n="107"/>nos utpote ipsius membra descendit et ex ejus 
+      ple<lb ed="#B" n="108" break="no"/>nitudine etiam nos accipimus Joh. 1, v. 16, xml:id quod 
+      <lb ed="#B" n="109"/>de Regibus et Sacerdotibus V. T. dici nequit 
+      <lb ed="#B" n="110"/>Athanas. orat. 2. contr. Arian. p. 171: Non quemad 
+      <lb ed="#B" n="111"/>modum Aaron aut David aut reliqui omnes, ita 
+      <lb ed="#B" n="112"/>quoque et ipse oleo unctus est, sed aliter super 
+      <lb ed="#B" n="113"/>omnes consortes, quod oleum Spiritus s. esse 
+      pe<lb ed="#B" n="114" break="no"/>prophetam exposuit. Spiritus Domini super me, eo 
+      <lb ed="#B" n="115"/>quod unxit me 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e1286">
+               <lb ed="#B" n="116"/>15. Antithesis: 1. Justinus Martyr Apol. 2. pro 
+      <lb ed="#B" n="117"/>Christ. p. 42. nomen Christi a χράομαι deducere vi 
+      <lb ed="#B" n="118"/>detur. Christiani (inquit) esse deferimur. Atque 
+      <lb ed="#B" n="119"/>χρηστόν, xml:id est, commodum et bonum odisse, injustum 
+      <lb ed="#B" n="120"/>est. Recte autem monet Sylburgius esse etymolo¬ 
+      <!--526.xml-->
+      <pb ed="#B" n="453"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>giam duntaxat allusivam, quia Justinus alludit ad 
+      <lb ed="#B" n="2"/>vulgatam eo tempore consuetudinem, quia 
+      Chri<lb ed="#B" n="3" break="no"/>stus ignorata nominis ratione vocabatur Chrestus 
+      <lb ed="#B" n="4"/>Lactant. d. I: Exponenda est hujus nominis rati 
+      <lb ed="#B" n="5"/>propter ignorantiam eorum, qui eum immutate 
+      <lb ed="#B" n="6"/>litera Christum solent dicere. 2. Eodem mod 
+      <lb ed="#B" n="7"/>accipiendum, quod xml:idem Justinus c. 1. pro Christ. 
+      <lb ed="#B" n="8"/>p. 35. scribit Χριστὸν dici κατὰ τὸ κεχρῖσθαι κα 
+      <lb ed="#B" n="9"/>κοσμῆσαι τὰ πάντα διʼ κύτοῦ τὸν θεόν, eo quod 
+      pe<lb ed="#B" n="10" break="no"/>illum Deus omnia conformaverit atque ornave 
+      <lb ed="#B" n="11"/>rit ibidemque addit hoc nomen complecti ἄγνο 
+      <lb ed="#B" n="12"/>στον σημασίαν, significationem minime notam. Sed 
+      <lb ed="#B" n="13"/>cum appellationis ratio sit manifesta et in sacris 
+      li<lb ed="#B" n="14" break="no"/>teris exposita, xml:ideo frustra alia ex longinquo quae 
+      <lb ed="#B" n="15"/>ritur. <ref xml:id="zef3dd-d1e891-Rd1e1337">August. lib. 17. de civ. Dei c. 16</ref>: Quis 
+      ta<lb ed="#B" n="16" break="no"/>rudis est in hac religione vel tam surdus adverau 
+      <lb ed="#B" n="17"/>ejus famam longe lateque diffusam, ut Christum e 
+      <lb ed="#B" n="18"/>chrismate, hoc est, ab unctione appellatum esse non 
+      <lb ed="#B" n="19"/>noverit? Confer eundem lib. 1. de cons. evang. e.. 
+      <lb ed="#B" n="20"/>lib. 1. retract. c. 12. et c. 26. Cyrill. 1ib. de incar 
+      <lb ed="#B" n="21"/>n. unig. c. 1. ete. 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e1353">
+               <lb ed="#B" n="22"/>16. Qu. h. I. An etiam Filius Dei in V. T. ant 
+      <lb ed="#B" n="23"/>incarnationem recte vocari potuerit Christus 
+      <lb ed="#B" n="24"/>Quidam negant: 1. quia in plenitudine temporis pos 
+      <lb ed="#B" n="25"/>factam scilicet incarnationem haec uncto ipsi obtigit 
+      <lb ed="#B" n="26"/>Dan. 9, v. 24: Septuaginta hebdomades 
+      definita<lb ed="#B" n="27" break="no"/>sunt, ut unguatur unctua canctorum; 2. quia 
+      ho<lb ed="#B" n="28" break="no"/>nomen utramque naturam, unguentem scilicet deita 
+      <lb ed="#B" n="29"/>tem et unctam humanitatem complectitur. Irer 
+      <lb ed="#B" n="30"/>libr. 3. c. 20. p. 209: In Christi nomine subauditu 
+      <lb ed="#B" n="31"/>qui uncit et ipse qui unctus est et ipsa unctio i 
+      <lb ed="#B" n="32"/>qua unctus est. Et unxit quidem Pater, unctus 
+      ver<lb ed="#B" n="33" break="no"/>est Filius in Spiritu s., qui est unctio. Athanas 
+      <lb ed="#B" n="34"/>orat. 5. contra Arianos p. 321: Χριστὸς τὸ συναμ 
+      <lb ed="#B" n="35"/>φόνερον νοεῖται. Damasc. lib. 3, orthod. fid. c. 3. 
+      <lb ed="#B" n="36"/>τὸ χριστὸς ὅνομα τῆς ὑποστάσεως λέγομεν οὐ μονο 
+      <lb ed="#B" n="37"/>τρóπως μέν, ἀλλὰ τῶν δύο φύσεων ὑπάρχον σημαι 
+      <lb ed="#B" n="38"/>τικόν, αὐτὸς γὰρ ἑαυτὸν ἔχρισεν, χρίων μὲν ὡς θεός 
+      <lb ed="#B" n="39"/>δς ἔχρισε τὸ σῶμα τῇ θεότητι αὐτοῦ, χριόμενος ὁ 
+      <lb ed="#B" n="40"/>ὡς ἄνθρωπος, αὐτὸς γὰρ ἔστι τοῦτο κακεῖνο, χρίσις δʼ 
+      <lb ed="#B" n="41"/>ἡ θεότης τῆς ἀνθρωπότητος. Athanas. de salut. adv 
+      <lb ed="#B" n="42"/>Christi p. 491: Non hoc nomen Christus absque 
+      <lb ed="#B" n="43"/>carne intelligatur. Confer. Origen. lib. 4. περὶ ἀρχῶν 
+      <lb ed="#B" n="44"/>Hilarium lib. 11. de trinit. Ambros. in c. 1. Hebr. 
+      <lb ed="#B" n="45"/>August in Psalm. 44. et tract. 7. in Jos. Eustachium 
+      <lb ed="#B" n="46"/>apud Theod. Dial. 1. Damasc. lib. 3. c. 4. et lib. 4. c. 6. et. 
+      <lb ed="#B" n="47"/>Quare cum in V. T. humana Christi natura nondum 
+      <lb ed="#B" n="48"/>exstiterit, utique etiam unctio nondum locum 
+      habu<lb ed="#B" n="49" break="no"/>et per consequens nec Christus dici potuit. Sed enim 
+      <lb ed="#B" n="50"/>quamvis humana natura, juxta quam Christus in 
+      <lb ed="#B" n="51"/>temporis plenitudine unctus est, in V. T. nondum 
+      <lb ed="#B" n="52"/>exstiterit, nihilo tamen minus salvator noster etiam 
+      <lb ed="#B" n="53"/>V. T. tempore et vere fuit ac dici etiam potuit 
+      Chri<lb ed="#B" n="54" break="no"/>stus, unde etiam ante incarnationem hoc nomen Filic 
+      <lb ed="#B" n="55"/>Dei tribuitur 1. Cor. 10, v. 9. Eph. 1, v. 4. Hebr. 
+      <lb ed="#B" n="56"/>13, v. 8: 1. propter personae ταυτότητα. Non enim 
+      <lb ed="#B" n="57"/>alius est Dei Filius in V., alius vero Christus in 
+      <lb ed="#B" n="58"/>N. T., sed una eademque persona, quae per assum 
+      <lb ed="#B" n="59"/>tionem humanitatis in N. T. facta est σύνθeroς, in 
+      <lb ed="#B" n="60"/>terim personae xml:identitas mansit, Joh. 8, v. 38; 2. pro 
+      <!--526.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>pter decretum Dei jam inde ab aeterno factum de 
+      <lb ed="#B" n="62"/>salvatoris unctione. Ut ergo agnus dicitur occisus 
+      <lb ed="#B" n="63"/>ab origine mundi Apoc. 13, v. 8. ratione scilicet 
+      <lb ed="#B" n="64"/>aeterni decreti 1. Petr. 1, v. 20; ita quoque salvato 
+      <lb ed="#B" n="65"/>noster est ac dici potest Christus ratione decret, 
+      <lb ed="#B" n="66"/>divini; 3. propter vaticinia de unctione Messiae in 
+      <lb ed="#B" n="67"/>V. T. edita, Dan. 9, v. 25; 4. propter figuras a 
+      <lb ed="#B" n="68"/>typos hujus unctionis in regibus, prophetis et 
+      sacer<lb ed="#B" n="69" break="no"/>dotibus V. T. antegressos; 5. propter efficaciam 
+      <lb ed="#B" n="70"/>nujus unctionis, quia non solum in N., sed etiam in 
+      <lb ed="#B" n="71"/>V. T. propter Christum plenitudine Spiritus s. unctum 
+      <lb ed="#B" n="72"/>donatio Spiritus. s. credentibus contingit; 6. propter 
+      <lb ed="#B" n="73"/>connotatum sive terminum. Unctus est Christus in 
+      <lb ed="#B" n="74"/>V. T., ut sit noster rex et sacerdos. Atqui jamdur 
+      <lb ed="#B" n="75"/>in V. T. secundum div. naturam fuit mediator, 
+      re<lb ed="#B" n="76" break="no"/>et sacerdos ecclesiae. Ut ergo Πιυτ2 μενωνυμικῶς 
+      <lb ed="#B" n="77"/>significat regem vel sacerdotem constituere, quia 
+      <lb ed="#B" n="78"/>unctio sacri unguenti potestatem regiam ac dignita 
+      <lb ed="#B" n="79"/>tem sacerdotalem conferebat: sic Christus etiam in 
+      <lb ed="#B" n="80"/>V. T. fuit unctus, xml:id est, jamdum constitutus 
+      re<lb ed="#B" n="81" break="no"/>ecclesiae suae. Quidam ergo utuntur hac distinctione 
+      <lb ed="#B" n="82"/>Nomen Christus accipitur dupliciter: 1. prout est 
+      <lb ed="#B" n="83"/>nomen officii regii et sacerdotalis, quod est utrique 
+      <lb ed="#B" n="84"/>naturae commune; 2. ut est nomen officii cum 
+      con<lb ed="#B" n="85" break="no"/>notatione temporalis investiturae et inaugurationi 
+      <lb ed="#B" n="86"/>factae per Spiritus s. unctionem, qua ratione 
+      sup<lb ed="#B" n="87" break="no"/>positum quidem notat, sed tamen secundum hums 
+      <lb ed="#B" n="88"/>nam naturam 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e1505">
+               <lb ed="#B" n="89"/>17. Usus practicus: 1. consolatorius. Salvato 
+      <lb ed="#B" n="90"/>noster est Christus plenitudine Spiritus s. unctus, 
+      <lb ed="#B" n="91"/>it sit rex et sacerdos noster, unde vocatur ipsum 
+      <lb ed="#B" n="92"/>oleum Es. 10, v. 27: Disturbabitur jugum propter 
+      <lb ed="#B" n="93"/>oleum, quia eum unxit Jehovah Spiritu suo, ut in 
+      <lb ed="#B" n="94"/>terpretatur Jonathan Chaldaeus. Ex ipsius ergo 
+      <lb ed="#B" n="95"/>plenitudine accipere possumus Joh. 1, v. 16. 
+      Divi<lb ed="#B" n="96" break="no"/>nitus constitutus est rex noster Psal. 2. v. 9. Erg. 
+      <lb ed="#B" n="97"/>cubditos regni sui contra omnes hostes proteget 
+      a<lb ed="#B" n="98" break="no"/>lefendet. Unctus est in sacerdotem, ergo in dextra 
+      <lb ed="#B" n="99"/>Patris pro nobis intercedet. Justin. in qq. et resp. 
+      <lb ed="#B" n="100"/>j. 135. p. 374: Christi vocabulum omnes in se 
+      reli<lb ed="#B" n="101" break="no"/>juas appellationes complectitur, quamvis non sem 
+      <lb ed="#B" n="102"/>per omnibus utamur. Quod si enim Jesua 
+      Naza<lb ed="#B" n="103" break="no"/>renus est promissus Messias, utique ab ipso ad nos 
+      <lb ed="#B" n="104"/>omnia illa beneficia, quae per Messiam nobis cor 
+      <lb ed="#B" n="105"/>ferenda in V. T. fuere praedicta, descendunt, 
+      <lb ed="#B" n="106"/>2. exhortatorius. A Messia dicimur Θvi7a Mes 
+      <lb ed="#B" n="107"/>giani uncti 1. Paral. 17, v. 22. Psalm. 105, v. 15. 
+      <lb ed="#B" n="108"/>a Christo denominamur Christiani Act. 11, v. 26. 
+      <lb ed="#B" n="109"/>quia et nos unctionem ab eo accepimus 1. Joh. 2. 
+      <lb ed="#B" n="110"/>v. 27. 2. Cor. 2, v. 21. Just. in Dial. cum Tryph. 
+      </p>
+            <p xml:id="zef3dd-d1e891-d1e1556">
+               <lb ed="#B" n="111"/>276: Quemadmodum ab uno illo Jacobo, qui e 
+      <lb ed="#B" n="112"/>Israël cognominatus est, genus vestrum omne Jaco 
+      <lb ed="#B" n="113"/>et Israël vocatum est; ita et nos ab eo, qui in 
+      <lb ed="#B" n="114"/>Deum nos genuit, Christo filii Dei veri et dicimus 
+      <lb ed="#B" n="115"/>et sumus, ergo ut unctos et consecratos Domino noc 
+      <lb ed="#B" n="116"/>geramus, nihil quicquam immundi tangentes nec 
+      <lb ed="#B" n="117"/>operibus mortuis peccatorum communicantes. 
+      Sumu<lb ed="#B" n="118" break="no"/>Christo uncti in reges ac sacerdotes spirituales 
+      <lb ed="#B" n="119"/>Apoc. 1, v. 6; sumus regale sacerdotium 1. Petr. 2. 
+      <lb ed="#B" n="120"/>v. 9, ergo ut reges fortiter pugnemus adversus Sa¬ 
+      <!--527.xml-->
+      <pb ed="#B" n="454"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tanam, mundum et carnem; ut sacerdotes offera 
+      <lb ed="#B" n="2"/>mus Deo hostias epirituales acceptas per Christum 
+      <lb ed="#B" n="3"/>Rom. 12. v. 1. 1. Petr. 2. v. 5. etc. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

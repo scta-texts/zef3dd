@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="130"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e257"><!-- zef3dd-l1c11 -->
+            <head xml:id="zef3dd-d1e257-Hd1e101">Caput 11</head>
+            <head xml:id="zef3dd-d1e257-Hd1e103" type="question-title">De apocryphis ac reiectitiis Novi Testamenti libris</head>
+            <p xml:id="zef3dd-d1e257-d1e106">
+               <lb ed="#B" n="8"/>CAPUT XI. 
+      <lb ed="#B" n="9"/>DE APOCRYPHIS AC REJECTITIIS 
+      <lb ed="#B" n="10"/>N. T. LIBRIS 
+    </p>
+            <p xml:id="zef3dd-d1e257-d1e115">
+               <lb ed="#B" n="11"/>301. Irenaeus lib. 1. advers. haeres. c. 17. de de 
+      <lb ed="#B" n="12"/>acipulis Simonis Magi scribit, quod inenarrabilen 
+      <lb ed="#B" n="13"/>multitudinem apocryphorum et scripturarum, 
+      qua<lb ed="#B" n="14" break="no"/>ipei finxerant, protulerint ad stuporem insensatorum 
+      <lb ed="#B" n="15"/>et quae eint veritatis non ecientium literas. In his 
+      <lb ed="#B" n="16"/>verbis aperit nobis Irenaeus fontem, ex quo to 
+      <lb ed="#B" n="17"/>apocryphi, supposititii et rejectitii N. T. libri evar 
+      <lb ed="#B" n="18"/>gelistis et apostolis falso attributi profluxerint, vide 
+      <lb ed="#B" n="19"/>licet ex schola Simonis Magi haereticorum omnium 
+      <lb ed="#B" n="20"/>in N. T. patriarchae. Idem Irenaeus lib. 1. c. 35. 
+      <lb ed="#B" n="21"/>p. 91. Cainis haereticis evangelium proditoris Juda 
+      <lb ed="#B" n="22"/>in usu fuisse commemorat. lib. 3. c. 11. p. 18. 
+      <lb ed="#B" n="23"/>de Valentinianis scribit, quod extra timorem 
+      <lb ed="#B" n="24"/>exsistentes suas conscriptiones protulerint, 
+      <lb ed="#B" n="25"/>45 <!-- line coord error --> 
+      <lb ed="#B" n="26"/>plura se habere gloriati fuerint, quam eint 
+      ipe<lb ed="#B" n="27" break="no"/>evangelia, siquidem tantum processerint audaciae 
+      <lb ed="#B" n="28"/>ut quod ab his non olim conscriptum est, veri 
+      <lb ed="#B" n="29"/>tatia evangelium titulent in nihilo conveniens 
+      apo<lb ed="#B" n="30" break="no"/>stolorum evangeliis. Eusebius lib. 3. hist. 
+      e<lb ed="#B" n="31" break="no"/>cles. c. 3. Acta, quae Petro nuncupantur, et evan 
+      <lb ed="#B" n="32"/>gelium, quod illius esse dicitur, et praedicationem 
+      <lb ed="#B" n="33"/>illi inscriptam, et Apocalypsin ipsius dictam nus 
+      <lb ed="#B" n="34"/>quam inter catholica scripta tradita scimus, eo 
+      <lb ed="#B" n="35"/>quod nec veterum, nec nostri temporis quisquas 
+      <lb ed="#B" n="36"/>commentator ipsorum usus est testimoniis. Et postea 
+      <lb ed="#B" n="37"/>Acta, quae Pauli esse dicuntur, inter indubitat 
+      <lb ed="#B" n="38"/>recensere, non accepi. Quoniam vero xml:idem 
+      ips<lb ed="#B" n="39" break="no"/>apostolus circa finem epistolae ad Romanos, ub 
+      <lb ed="#B" n="40"/>quosdam calutat, etiam Hermae cum aliis mentio 
+      <lb ed="#B" n="41"/>nem facit et ob xml:id librum Pastoris hujus esse di 
+      <lb ed="#B" n="42"/>cunt, aciendum est, etiam illi a nonnullis esse contra 
+      <lb ed="#B" n="43"/>dictum, quapropter non est illis annumeratus, qu 
+      <lb ed="#B" n="44"/>pro certis habentur. Ab aliis vero summe necesso 
+      <lb ed="#B" n="45"/>rius illis est potissimum judicatus, qui elementario 
+      <lb ed="#B" n="46"/>introductione opuo habent, unde eum et in ecclesii. 
+      <lb ed="#B" n="47"/>vulgatum esse acimus et nonnullos antiquissimorum 
+      <lb ed="#B" n="48"/>scriptorum illo usos esse accepi. (Intelligit Euso 
+      <lb ed="#B" n="49"/>bius Papiam, et Origenem lib. 10. in c. 16. Ron. 
+      <lb ed="#B" n="50"/>ubi dicit, quod sit scriptura utilis et divinitus in 
+      <lb ed="#B" n="51"/>spirata. Item Irenaeum, qui lib. 4. c. 37. hunc 
+      <lb ed="#B" n="52"/>librum Pastoris non solum novit, sed etiam probat 
+      <lb ed="#B" n="53"/>dicens: Recte autem scriptura illa pronuntiavit 
+      <lb ed="#B" n="54"/>quae dicit: Ante omnia crede, unum esse Deum 
+      <lb ed="#B" n="55"/>qui cuncta creavit et perfecit, quem Irenaei 
+      locum<lb ed="#B" n="56" break="no"/>adducit Eusebius lib. 5. Hist. c. 8. Hieronymu¬ 
+      <!--203.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="57"/>etiam in Catal. scriptorum dicit, esse librum revere 
+      <lb ed="#B" n="58"/>utilem. Testimonia ex eo proferunt Tertull. lib. de 
+      <lb ed="#B" n="59"/>orat. Clemens Alexand. lib. 6. stromat. Athanasiu. 
+      <lb ed="#B" n="60"/>de decret. syn. Nicen. Cassian. coll. 13. c. 12. Sed 
+      <lb ed="#B" n="61"/>cum hic liber plenus sit fictis visionibus ac somniis 
+      <lb ed="#B" n="62"/>faveat erroribus Novatianorum de unica poenitem 
+      <lb ed="#B" n="63"/>tia, et quaedam contineat noxia, xml:ideo inter 
+      apocry<lb ed="#B" n="64" break="no"/>pha et adulterina merito fuit relatus a Tertulliano 
+      <lb ed="#B" n="65"/>in lib. de pudicit. Hieronymo in prolog. Galeat. 
+      <lb ed="#B" n="66"/>Gelasio c. S. Romana dist. 15.). Idem Eusebiu 
+      <lb ed="#B" n="67"/>lib. 3. Hist. eccles. c. 22: Inter adulterina cen 
+      <lb ed="#B" n="68"/>seantur et Acta Pauli et liber dictus Pastor et 
+      <lb ed="#B" n="69"/>Apocalypsis Petri. Praeterea et quae circum 
+      <lb ed="#B" n="70"/>fertur epistola Barnabae et apostolorum quoque 
+      <lb ed="#B" n="71"/>doctrinae dictae, ect. Jam vero et evangelium 
+      <lb ed="#B" n="72"/>quidam, quod ad Hebraeos est, inter ista 
+      con<lb ed="#B" n="73" break="no"/>numerant, quo potissimum delectantur hi, qui ex 
+      <lb ed="#B" n="74"/>Hebraeis Christum receperunt. Haec autem omnia 
+      <lb ed="#B" n="75"/>ex illis sunt, quibus contradicitur. Necessario vero 
+      <lb ed="#B" n="76"/>et horum catalogum fecimus, ut discernamus inter 
+      <lb ed="#B" n="77"/>ea scripta, quae secundum ecclesiasticam 
+      traditio<lb ed="#B" n="78" break="no"/>nem nec ficta nec dubia, sed vera sunt et ea, quae 
+      <lb ed="#B" n="79"/>praeter ista legitima quidem N. T. scripta non 
+      <lb ed="#B" n="80"/>sunt, sed contradictionem patiuntur et tamen e 
+      <lb ed="#B" n="81"/>multis ecclesiasticis leguntur, ut scire queamus et 
+      <lb ed="#B" n="82"/>illa et quae sub nomine apostolorum, sive velu 
+      <lb ed="#B" n="83"/>Petri sive Thomae vel Matthiae vel aliorum 
+      prae<lb ed="#B" n="84" break="no"/>terea evangelia, aut veluti Andreae et Johannis et 
+      <lb ed="#B" n="85"/>aliorum apost. acta continentia ab haereticis 
+      pro<lb ed="#B" n="86" break="no"/>feruntur, quorum nulla uspiam vel aliquia eccle 
+      <lb ed="#B" n="87"/>siasticae successionis scriptor mentionem in 
+      com<lb ed="#B" n="88" break="no"/>mentariis suis facere dignatus est. Porro et phro 
+      <lb ed="#B" n="89"/>seos character a consuetudine apostolica variat, et 
+      <lb ed="#B" n="90"/>ipsa sententia et propositum eorum, quae in illis 
+      <lb ed="#B" n="91"/>adferuntur, plurimum a veritate rectae doctrinae 
+      <lb ed="#B" n="92"/>discrepant, et quod haereticorum sint virorum 
+      fiq<lb ed="#B" n="93" break="no"/>menta, perspicue convincunt. Quapropter ne inte 
+      <lb ed="#B" n="94"/>adulterina quidem ponenda, sed tanquam omnine 
+      <lb ed="#B" n="95"/>absurda et impia aversanda sunt. Ubi observa 
+      <lb ed="#B" n="96"/>Eusebium quatuor constituere notas, quibus suppo 
+      <lb ed="#B" n="97"/>nititia scripta a genuinis et canonicis distingui ad 
+      <lb ed="#B" n="98"/>dignosci possint 1. ecclesiae testimonium. 2. φρά¬ 
+      <lb ed="#B" n="99"/>σιν. 3. γνώμην. 4. προαίρεσιν. 
+      </p>
+            <p xml:id="zef3dd-d1e257-d1e317">
+               <lb ed="#B" n="100"/>302. Gelasius 1. circa annum 483 in concilio Ro 
+      <lb ed="#B" n="101"/>mano multa hujusmodi apocrypha apostolis false 
+      <lb ed="#B" n="102"/>attributa repudiavit. Summa decreti exstat c. Sancta 
+      <lb ed="#B" n="103"/>Romana dist. 15. Itinerarium nomine Petri 
+      apo<lb ed="#B" n="104" break="no"/>stoli, quod appellatur sancti Clementis lib. 8. 
+      apo<lb ed="#B" n="105" break="no"/>cryphum. Actus nomine Andreae apostoli 
+      apocry<lb ed="#B" n="106" break="no"/>phus. Actua nomine Philippi apocryphus. Actus 
+      <lb ed="#B" n="107"/>nomine Petri apostoli apocryphus. Actus nomine 
+      <lb ed="#B" n="108"/>Thomae apostoli apocryphus. Evangelia Thaddae 
+      <lb ed="#B" n="109"/>nomine apocrypha. Evangelia nomine Thoma 
+      <lb ed="#B" n="110"/>apostoli, quibus Manichaei utuntur, apocrypho 
+      <lb ed="#B" n="111"/>Evangelia nomine Barnabae apostoli apocrypha. 
+      <lb ed="#B" n="112"/>Evangelia nomine Bartholomaei apost. apocrypha 
+      <lb ed="#B" n="113"/>Evangelia nomine Andreae apot. apocrypho 
+      <lb ed="#B" n="114"/>Evangelia, quae falsavit Lucianus, apocrypha 
+      <lb ed="#B" n="115"/>Evangelia, quae faleavit Hyritius, apocrypha. Liber 
+      <lb ed="#B" n="116"/>de infantia Salvatoris apocryphus. Liber de natio¬ 
+      <!--204.xml-->
+      <pb ed="#B" n="131"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Salvatoris et de s. Maria et de obstetrice Salvate 
+      <lb ed="#B" n="2"/>ris apocryphus. Liber, qui appellatur Pastoris apo 
+      <lb ed="#B" n="3"/>cryphus, elc. Liber, qui appellatur Actus Tecla 
+      <lb ed="#B" n="4"/>et Pauli apocryphus. Rerelatio, quae appellatur 
+      <lb ed="#B" n="5"/>Pauli, apocrypha. Revelatio, quae appellatur 
+      Th<lb ed="#B" n="6" break="no"/>mae, apocrypha. Revelatio, quae appellatur Ste 
+      <lb ed="#B" n="7"/>phani, apocrypha. Liber, qui appellatur Transitu 
+      <lb ed="#B" n="8"/>canclae Mariae, apocryphus. Liber, qui appellatur 
+      <lb ed="#B" n="9"/>Sore apostolorum, apocryphus. Liber Canonum apo 
+      <lb ed="#B" n="10"/>stolorum apocryphus. Haec omnina Gelasius, qui 
+      <lb ed="#B" n="11"/>auctoribus illorum librorum haereticis anathems 
+      <lb ed="#B" n="12"/>postea denuntia 
+      </p>
+            <p xml:id="zef3dd-d1e257-d1e390">
+               <lb ed="#B" n="13"/>303. Sub nomine Lini de passione Petri et 
+      Paul<lb ed="#B" n="14" break="no"/>seripti sunt quidam libri ab aliquo nugatore. Narra 
+      <lb ed="#B" n="15"/>multa de actis s. Petri, quae vel falsa sunt, vel 
+      <lb ed="#B" n="16"/>certe dubia. Agrippam dicit fuisse praefectum ui 
+      <lb ed="#B" n="17"/>bis tempore passionis Petri, atque ab isto Petrum 
+      <lb ed="#B" n="18"/>fuisse occisum sine consensu imperatoris, a quo etiam 
+      <lb ed="#B" n="19"/>id factum fuerit improbatum. Uxorem Albini it 
+      <lb ed="#B" n="20"/>a Petro edoctam repudiasse thorum viri ob amorem 
+      <lb ed="#B" n="21"/>castitatis, etiam reclamante marito, asserit, imo to 
+      <lb ed="#B" n="22"/>scatet fabulis, ut ab ipsis Pontificiis repudietur 
+      <lb ed="#B" n="23"/>Baron. tom. 1. annal. ann. 66. n. 14. ann. 68. n. 6 
+      <lb ed="#B" n="24"/>ann. 80. n. 4. Bellarm. lib. 2. de Rom. Pontif. e.. 
+      <lb ed="#B" n="25"/>de script. eceles. p. 35. Bisciola tom. 1. p. 58 
+      </p>
+            <p xml:id="zef3dd-d1e257-d1e421">
+               <lb ed="#B" n="26"/>S 
+      <lb ed="#B" n="27"/>Paul. ete. Liber passionis Andreae supposititius es 
+      <lb ed="#B" n="28"/>cum nulla ejus apud probatos auctores fiat menti 
+      <lb ed="#B" n="29"/>ne quidem apud illos, qui catalogum veterum seri 
+      <lb ed="#B" n="30"/>ptorum ex professo contexuerunt, puta Eusebium 
+      <lb ed="#B" n="31"/>Hieronymum, Gennadium, ete. Bell. de 
+      scrip<lb ed="#B" n="32" break="no"/>eccles. p. 68. pro historiae illius veritate, antiqui 
+      <lb ed="#B" n="33"/>tate pugnat, sed argumentis perquam infirmis. Abdio 
+      <lb ed="#B" n="34"/>diber de vitis apostolorum est fictitius ac suppo 
+      <lb ed="#B" n="35"/>sititius. Recenset fabulas illas de D. Thoma, de 
+      <lb ed="#B" n="36"/>D. Matthaeo, D. Andrea, D. Maximilla Egetis cor 
+      <lb ed="#B" n="37"/>juge, quas Augustinus lib. de fid. contra Manich. 
+      <lb ed="#B" n="38"/>c. 38. et contra Adimantium c. 17. a Manichaei 
+      <lb ed="#B" n="39"/>confictas fuisse testatur. Nec ulla hujus Abdia 
+      <lb ed="#B" n="40"/>vel librorum ejus fit mentio apud antiquos scripto 
+      <lb ed="#B" n="41"/>res, unde apud ipsos Pontificios scriptores 
+      exigu<lb ed="#B" n="42" break="no"/>est ejus auctoritas. Baron. ann. 44. n. 44. ann. 51. 
+      <lb ed="#B" n="43"/>n. 51. Bellarm. de script. eceles. sect. 1. Gualteriu 
+      <lb ed="#B" n="44"/>in secul. prim. pag. 18. Molanus de fid. haeret. ser 
+      <lb ed="#B" n="45"/>lib 1. e. 6. etc. In Orthodoxographis patrum tom. s. 
+      <lb ed="#B" n="46"/>p. 71. exstat Protevangelium Jacobi de natalibu 
+      <lb ed="#B" n="47"/>δ. C. et ipsius matris virginis, quod sub nomine 
+      <lb ed="#B" n="48"/>libri de nativitate et obstetrice Salvatoris a Gelasi 
+      <lb ed="#B" n="49"/>recte refertur inter apocrypha, continet enim fabi 
+      <lb ed="#B" n="50"/>las canonicis evangelistarum libris contrarias. 
+      Pro<lb ed="#B" n="51" break="no"/>chori historia de rebus gestis Johannis, quae iti 
+      <lb ed="#B" n="52"/>dem in Orthodoxographis tom I. exstat, est 
+      con<lb ed="#B" n="53" break="no"/>ficta. Disputatio Petri cum Apione repudiatur a 
+      <lb ed="#B" n="54"/>Athanasio in Synopsi et Hieronymo in Catal. scri. 
+      <lb ed="#B" n="55"/>ptor. Epistola Pauli ad Laodicenses, 
+      constan<lb ed="#B" n="56" break="no"/>v. 18. ex Paulinis epistolis magna ex parte consa. 
+      <lb ed="#B" n="57"/>cinatis, edita est a Praetorio Hamburgi aun. 1583. 
+      <lb ed="#B" n="58"/>una cum Fragmentis apostolorum. Sed Hieronymu 
+      <lb ed="#B" n="59"/>in catal. eam recte inter apocryphia rejicit. Coloss. 
+      <lb ed="#B" n="60"/>v. 16 non fit mentio alicujus epistolae ad Laodi 
+      <lb ed="#B" n="61"/>censes, sed ἐx τῆς Λαοδικείας scriptae. Acta Ba¬ 
+      <!--204.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>nabae nomine Johannis scripta multis et apertissi 
+      <lb ed="#B" n="63"/>mis sunt coagmentata mendaciis. Baron. ann. 51. 
+      <lb ed="#B" n="64"/>n. 51. ** De Apocal. Pauli agit Aug. tract. 98. in. 
+      <lb ed="#B" n="65"/>Joh. De lib. Thomae apost. Idem epist. 38., de epi 
+      <lb ed="#B" n="66"/>stolis adscriptis apostolis xml:idem in Psalm. 42., De 
+      <lb ed="#B" n="67"/>libro Enoch xml:idem lib. 18. de civ. D. e. 38., de 
+      <lb ed="#B" n="68"/>epistola ab ipso Christo scripta xml:idem lib. 28. con 
+      <lb ed="#B" n="69"/>tra Faust. c. 4.** Epistolae Pauli ad Senecan 
+      <lb ed="#B" n="70"/>multorum mendaciorum convincuntur. Baron. ann. 66. 
+      <lb ed="#B" n="71"/>n. II. licet ab Hieronymo in catal. et Augustino 
+      <lb ed="#B" n="72"/>epist. 14. cum laude citentur. Sixt. Senens. lib. 2. 
+      <lb ed="#B" n="73"/>Biblioth. sanctae p. 40 ex Francisco Alvarezio in 
+      <lb ed="#B" n="74"/>itinerario Aethiopico refert, Apostolorum librum 
+      <lb ed="#B" n="75"/>quem ipsi in Jerusalem simul congregati scripserunt, 
+      <lb ed="#B" n="76"/>Christianos Aethiopes in Aethiopica lingua pari 
+      <lb ed="#B" n="77"/>cum divinis voluminibus honore venerari. 
+      Kirste<lb ed="#B" n="78" break="no"/>nius etiam in praefat. Gramm. Arabicae p. 5. me 
+      <lb ed="#B" n="79"/>morat, esse scripta apostolorum, quae in alia lingus 
+      <lb ed="#B" n="80"/>nulla, quam Arabica habentur. Multas (inquit 
+      <lb ed="#B" n="81"/>Pauli epistolas aliorumque apostolorum scripta 
+      <lb ed="#B" n="82"/>Arabes habere dicuntar, quae nondum in aliis ex 
+      <lb ed="#B" n="83"/>stant linguis. Sed si vel maxime ab apostolis illa 
+      <lb ed="#B" n="84"/>scripta essent profecta, non tamen essent parte 
+      <lb ed="#B" n="85"/>Scripturae canonicae, ut patere potest ex illis, 
+      qua<lb ed="#B" n="86" break="no"/>dicta sunt superius in quaestione, an libri quidam 
+      <lb ed="#B" n="87"/>canonici perierint. Jure igitur Casaubonus exere. I. 
+      <lb ed="#B" n="88"/>ad Baron. e. 3. p. 29. multitudinem apocryphorum 
+      <lb ed="#B" n="89"/>scriptorum expendens conqueritur: Prima illa eccle 
+      <lb ed="#B" n="90"/>siae Christianae aula producisse scripta plena 
+      fo<lb ed="#B" n="91" break="no"/>pularum, plena aptissimorum mendaciorum, cujus 
+      <lb ed="#B" n="92"/>generis (inquit) erant Christi evangelium secundum 
+      <lb ed="#B" n="93"/>Aegyptios, aliud secundum Hebraeos, quorum testi 
+      <lb ed="#B" n="94"/>moniis non semel etiam Clemens Alexandrinus uti 
+      <lb ed="#B" n="95"/>tur, Pauli ἀναβατικόν, de quo Epiphanius contra 
+      <lb ed="#B" n="96"/>Cajanos, Johannis apostoli ad Parthos epistole 
+      <lb ed="#B" n="97"/>seruditi tamen censent, illam esse catholicam 
+      Joham<lb ed="#B" n="98" break="no"/>nis epistolam in ordine primam, quae genuina est, 
+      <lb ed="#B" n="99"/>Chami prophetia, Moysis Apocalypsis, Eliae apo 
+      <lb ed="#B" n="100"/>rypha, Jeremiae apocrypha, Matthaci apostoli πα 
+      <lb ed="#B" n="101"/>ραδύσεις. Pergit Casaubonus: Concilii Romani et 
+      <lb ed="#B" n="102"/>Gelasii papae insigniter salutare decretum exsta 
+      <lb ed="#B" n="103"/>in jure canonico dist. 15. quo libri hujus farinae 
+      <lb ed="#B" n="104"/>plurimi et recensentur et damnantur, quaedam ta 
+      <lb ed="#B" n="105"/>men hodieque manent judicio omnium, qui in 
+      literi<lb ed="#B" n="106" break="no"/>aliquid vicdent, ψευδεπίγραφα et in eundem 
+      censun<lb ed="#B" n="107" break="no"/>referenela, ut Petri niploδos, Clementis recognitio 
+      <lb ed="#B" n="108"/>nes, B. Virginis epistolae aliquot, Pauli item ad 
+      <lb ed="#B" n="109"/>Senecam et hujus ad illum epistolae et multa alia 
+      </p>
+            <p xml:id="zef3dd-d1e257-d1e610">
+               <lb ed="#B" n="110"/>304. Ceterum multitudo illa apocryphorum 
+      sul<lb ed="#B" n="111" break="no"/>evangelistarum et apostolorum augusto nomine ab 
+      <lb ed="#B" n="112"/>haereticis sparsorum admonet nos 1. de immani 
+      <lb ed="#B" n="113"/>odio diaboli adversus saeras literas, qui variis 
+      mo<lb ed="#B" n="114" break="no"/>dis hoc egit, ut apocryphis fabulis canonicam 
+      au<lb ed="#B" n="115" break="no"/>ctoritatem conciliaret; contra vero libros sacros 
+      <lb ed="#B" n="116"/>θεοπνεύσιονς et vere canonicos in contemtum 
+      ad<lb ed="#B" n="117" break="no"/>duceret. 2. de singulari Dei providentia, qua factum 
+      <lb ed="#B" n="118"/>est, ut N. T. canon integer et inviolatus conservare 
+      <lb ed="#B" n="119"/>tur, unde etiam D. Johanni aetas tam longa 
+      divini<lb ed="#B" n="120" break="no"/>tus fuit concessa, ut de genuinis ac canonicis 
+      evan<lb ed="#B" n="121" break="no"/>gelistarum et apostolorum libris ecclesiam erudire 
+      <!--205.xml-->
+      <pb ed="#B" n="132"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>eosque a spuriis et supposititiis distinguere posse 
+      <lb ed="#B" n="2"/>3. de pio primaevae antiquitatis studio et fideli 
+      <lb ed="#B" n="3"/>ejusdem cura in apocryphis et supposititiis libris a 
+      <lb ed="#B" n="4"/>canone distinguendis, qua de re ex illis, quae 
+      sup<lb ed="#B" n="5" break="no"/>rius dicta, judicium fieri potest. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

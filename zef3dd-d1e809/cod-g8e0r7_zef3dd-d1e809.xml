@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="429"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e809"><!-- zef3dd-l3c9 -->
+            <head xml:id="zef3dd-d1e809-Hd1e101">Caput 9</head>
+            <head xml:id="zef3dd-d1e809-Hd1e103" type="question-title">Secundum argumentum ex Vetero Testamento pro adstruendo trinitatis mysterio deductum</head>
+            <p xml:id="zef3dd-d1e809-d1e106">
+               <lb ed="#B" n="29"/>CAPUT IX. 
+      <lb ed="#B" n="30"/>CONTINENS SECUNDUM ARGU 
+      <lb ed="#B" n="31"/>MENTUM PRO ADSTRUENDO 
+      <lb ed="#B" n="32"/>TRINITATIS MYSTERIO EX V. T 
+<lb ed="#B" n="33"/>DEDUCTUM. 
+</p>
+            <p xml:id="zef3dd-d1e809-d1e119">
+               <lb ed="#B" n="34"/>134. Alterum principale sententiae novtrae fur 
+      <lb ed="#B" n="35"/>damentum petitum est ex beneficio liberationis e 
+      <lb ed="#B" n="36"/>servitute Aegyptiaca et deductionis per desertum in 
+      <lb ed="#B" n="37"/>terram Canaan Israëlitis praestito. Nemini potes 
+      <lb ed="#B" n="38"/>esse dubium apud Israëlitas perpetuam hujus 
+      ben<lb ed="#B" n="39" break="no"/>ficii viguisse vel certe vigere debuisse memorian 
+      <lb ed="#B" n="40"/>1. cum in solenni promulgatione legis DEUS a 
+      <lb ed="#B" n="41"/>illud ipsum Israëlitas revocet. Exod. 20, v. 1: Eg. 
+      <lb ed="#B" n="42"/>sum Dominus Deus tuus, qui eduxi te de terro 
+      <lb ed="#B" n="43"/>Aequpti de domo servitutis. Id ipsum repetitu 
+      <lb ed="#B" n="44"/>Deut. 5, v. 6. Quoties igitur in conventibus 
+      solenni<lb ed="#B" n="45" break="no"/>bus populus Israëliticus doctrinam legis ex deca 
+      <lb ed="#B" n="46"/>logo repetivit, quod singulis sabbatis factum, toties 
+      <lb ed="#B" n="47"/>etiam corde et ore professi sunt, se illum pro vero 
+      <lb ed="#B" n="48"/>Deo agnoscere, colere et invocare, qui ex Aegypto 
+      <lb ed="#B" n="49"/>eos eduxerat et lata lege ad obedientiam et cultum 
+      <lb ed="#B" n="50"/>obligaverat; 2: cum sabbatum inter reliquos fine 
+      <lb ed="#B" n="51"/>etiam propterea fuerit institutum, ut esset memo 
+      <lb ed="#B" n="52"/>riale hujus beneficii. Deut. 3, v. 14: Die septime 
+      <lb ed="#B" n="53"/>uabbatum erit Jehovae. V. 15: et memineris, quod 
+      <!--502.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="54"/>servus fueris in terra Aegypti, et eduxerit te Je 
+      <lb ed="#B" n="55"/>hova Deus tuus ex ea in manu forti et brachio ex 
+      <lb ed="#B" n="56"/>tenso, xml:idcirco praecepit tibi Deus, ut servares 
+      dien<lb ed="#B" n="57" break="no"/>sabbati. Quoties ergo sabbatum celebrarunt, mé 
+      <lb ed="#B" n="58"/>moriam hujus beneficii septimanatim renovarunt at 
+      <lb ed="#B" n="59"/>que eum, a quo sibi praestitum noverant, ut verum 
+      <lb ed="#B" n="60"/>Deum invocarunt et coluerunt; 3. cum non solui 
+      <lb ed="#B" n="61"/>a Moyse, sed etiam a prophetis in exhortationibus 
+      <lb ed="#B" n="62"/>ac redargutionibus ad dignam hujus beneficii 
+      cor<lb ed="#B" n="63" break="no"/>siderationem Israëlitae saepius revocentur Levit. 11. 
+      <lb ed="#B" n="64"/>7. 45. c. 19, v. 36. c. 22, v. 33. c. 25, v. 39 ete 
+      <lb ed="#B" n="65"/>Jos. 24, v. 6. Jud. 2, v. 1. 1. Sam. 10, v. 18. 
+      <lb ed="#B" n="66"/>2. Sam. 7, v. 6. Jerem. 7, v. 22. c. 34, v. 13. ete. 
+      <lb ed="#B" n="67"/>Quoties igitur a Moyse et prophetis ad memoriam 
+      <lb ed="#B" n="68"/>nujus beneficii revocati sunt, toties illum pro vero 
+      <lb ed="#B" n="69"/>eo agnoscendum et colendum esse intellexerunt 
+      <lb ed="#B" n="70"/>quo majoribus suis illud praestitum noverant, ex quo 
+      <lb ed="#B" n="71"/>facile apparet, perpetuam hujus beneficii apud Israë 
+      <lb ed="#B" n="72"/>litas memoriam viguisse. 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e210">
+               <lb ed="#B" n="73"/>135. Sic ergo concludimus: Qui per Moysen Israë 
+      <lb ed="#B" n="74"/>litas ex Aegypto eduxit, Pharaonem et exercitum 
+      <lb ed="#B" n="75"/>ejus ipsos insecutos in mari suffocavit, qui manna 
+      <lb ed="#B" n="76"/>coelitus depluto in deserto eos cibavit, qui ab in 
+      <lb ed="#B" n="77"/>grato populo beneficii hujus immemore tentatu 
+      <lb ed="#B" n="78"/>est, qui irae et gratiae suae manifesta indicis 
+      <lb ed="#B" n="79"/>in populo illo edidit ac tandem in promissam ter 
+      <lb ed="#B" n="80"/>ram Israëlitas introduxit, is est verus ille Deus 
+      <lb ed="#B" n="81"/>quem Israëlitae agnoverunt, invocarunt, colue 
+      <lb ed="#B" n="82"/>runt, agnoscere, invocare, colere certe debuerunt 
+      <lb ed="#B" n="83"/>Sed plures deitatis personae, videlicet Pater, Filius 
+      <lb ed="#B" n="84"/>et Spiritus s., per Moysen Israëlitas ex Aegypto edu 
+      <lb ed="#B" n="85"/>xerunt ete. Ergo plures personae, videlicet Pater 
+      <lb ed="#B" n="86"/>Filius et Spiritus s., sunt verus ille Deus, quem 
+      <lb ed="#B" n="87"/>Israëlitae agnoverunt et coluerunt. Major pate 
+      <lb ed="#B" n="88"/>1. ex beneficii hujus promissione. Genes. 15, v. 14. 
+      <lb ed="#B" n="89"/>verus ille Jehova, qui cum Abraham foedus init, cu 
+      <lb ed="#B" n="90"/>Abraham sacrificia obtulit, dicit: Semen tuum erit 
+      <lb ed="#B" n="91"/>peregrinum in terra, veruntamen gentem, cui 
+      ser<lb ed="#B" n="92" break="no"/>vituri sunt, ego judicabo, et post haec egredientur 
+      <lb ed="#B" n="93"/>cum magna substantia; vers. 18: semini tuo dabe 
+      <lb ed="#B" n="94"/>terram hanc Canaan, scil. a fluvio Aegypti usque 
+      <lb ed="#B" n="95"/>ad Euphraten. c. 46, v. 3. verus Deus cum Jacobo 
+      <lb ed="#B" n="96"/>patriarcha collocutus inquit: Ego sum Deus patris 
+      <lb ed="#B" n="97"/>tui, ego adducam te, h. e. posteritatem tuam, es 
+      <lb ed="#B" n="98"/>Aegupto revertentem. Ex. 3, v. 8. DEUS verus. 
+      <lb ed="#B" n="99"/>qui se vocat Deum Abraham, Isaaci et Jacobi ad 
+      <lb ed="#B" n="100"/>Moysen dicit: Descendi, ut liberem populum meum 
+      <lb ed="#B" n="101"/>de manibus Aegyptiorum et educam de terra illa 
+      <lb ed="#B" n="102"/>in terram bonam. Huc pertinent omnes promissio 
+      <lb ed="#B" n="103"/>nes divinae patriarchis Israëlitarum factae de 
+      mul<lb ed="#B" n="104" break="no"/>riplicatione seminis et de possessione terrae Canaan, 
+      <lb ed="#B" n="105"/>illae enim includunt beneficium illud liberationis ex 
+      <lb ed="#B" n="106"/>Aegypto; 2. ex promissionis illius completione 
+      <lb ed="#B" n="107"/>Tota enim historia liberationis ex Aegypto testatur 
+      <lb ed="#B" n="108"/>fuisse illud beneficium vere ac mere divinum, cum 
+      <lb ed="#B" n="109"/>vera illa ac divina miracula in Aegypto facta, de 
+      <lb ed="#B" n="110"/>ductio Israëlitarum per mare rubrum miraculose 
+      di<lb ed="#B" n="111" break="no"/>visum et suffocatio Pharaonis cum exercitu ipsiu 
+      <lb ed="#B" n="112"/>in mari, donatio mannae cibi e coelo depluti ete 
+      <lb ed="#B" n="113"/>nemini nisi uni ac soli vero Deo tribui possint, qui 
+      <!--503.xml-->
+      <pb ed="#B" n="430"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>in quibusdam Moysis ministerio externo usus es 
+      <lb ed="#B" n="2"/>ita tamen, ut ipsi tanquam causae principali effies 
+      <lb ed="#B" n="3"/>citer agenti ea omnia in solidum competant ac 
+      tri<lb ed="#B" n="4" break="no"/>buantur. 3. ex prophetica Dei descriptione. Quotie 
+      <lb ed="#B" n="5"/>in V. Test. verus Deus se ipsum ab externo opere 
+      <lb ed="#B" n="6"/>describere et a fictitiis gentium xml:idolis discernere 
+      <lb ed="#B" n="7"/>voluit, a beneficio liberationis ex Aegypto descri 
+      <lb ed="#B" n="8"/>ptionem illam petivit. Sic in promulgatione legi 
+      <lb ed="#B" n="9"/>dicit: Ego Dominus, qui eduxi te de terra Aegupt 
+      <lb ed="#B" n="10"/>non habebis Deos alienos coram me. h. e. me solum 
+      <lb ed="#B" n="11"/>qui beneficium illud liberationis ex Aegypto 
+      tib<lb ed="#B" n="12" break="no"/>praestiti, pro vero Deo agnoscere, invocare et colere 
+      <lb ed="#B" n="13"/>debes, proinde etiam cum Aaron significare velle 
+      <lb ed="#B" n="14"/>vitulum conflatilem in honorem solius veri Dei erig 
+      <lb ed="#B" n="15"/>ac coli, dixit ad populum Exod. 32, vers 4: II. 
+      <lb ed="#B" n="16"/>sunt dii tui, Israël, qui eduxerunt te de terr 
+      <lb ed="#B" n="17"/>Aequpti, ac Israclitae in precibus suis ad verui 
+      <lb ed="#B" n="18"/>Deum effusis memoriam hujus beneficii in animum 
+      <lb ed="#B" n="19"/>sibi revocarunt, uti constat ex Jerem. 32, vers. 2. 
+      <lb ed="#B" n="20"/>4. ex manifesta exclusione. Deut. 32. v. 12. JEHOV. 
+      <lb ed="#B" n="21"/>solus durit eum, nec fuit cum eo fortis alienigena 
+      <lb ed="#B" n="22"/>v. 3. Dominus DEUS ipse praecedet vos in di 
+      <lb ed="#B" n="23"/>serto. Sed in re manifesta pluribus non est opu 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e359">
+               <lb ed="#B" n="24"/>136. Assumtum probatur: I. in genere, quod plure 
+      <lb ed="#B" n="25"/>personae sint in una illa divina essentia sive unu 
+      <lb ed="#B" n="26"/>ille verus Deus, qui Israëlitas ex Aegypto eduxi 
+      <lb ed="#B" n="27"/>2. in specie, quod plures illae in una divina esser 
+      <lb ed="#B" n="28"/>tia personae sive unus ille verus Deus sint 
+      Pate<lb ed="#B" n="29" break="no"/>Filius et Spiritus s. Ad priorem dictorum Scriptura 
+      <lb ed="#B" n="30"/>classem haec pertinent: Deut. 5, v. 26: Quid es 
+      <lb ed="#B" n="31"/>omnis caro, ut audiat vocem &amp;nm e qui a 
+      <lb ed="#B" n="32"/>medio ignis loquitur. Is qui in promulgatione 
+      l<lb ed="#B" n="33" break="no"/>gis ex medio ignis locutus est, eduxit Israëlitas e 
+      <lb ed="#B" n="34"/>Aegypto Exod. 20, v. 1. Atqui is, qui in promul 
+      <lb ed="#B" n="35"/>gatione legis ex medio ignis. locutus est, ipse es 
+      <lb ed="#B" n="36"/>Elohim, plures personae. Ergo qui Israëlitas ex 
+      <lb ed="#B" n="37"/>Aegypto eduxit, est plures personae; 2. Sam. 7, v. 2. 
+      <lb ed="#B" n="38"/>Et quis sicut populus tuus Israël gens una in 
+      terr<lb ed="#B" n="39" break="no"/>propter quam iverunt Elohim ad redimendum sic 
+      <lb ed="#B" n="40"/>populum. Nomini plurali conjungitur verbum 
+      plu<lb ed="#B" n="41" break="no"/>rale, ut personarum pluralitas evidentius exprimatur 
+      <lb ed="#B" n="42"/>sed 1. Paral. 17, vers. 21, ubi xml:idem locus repetitu 
+      <lb ed="#B" n="43"/>nomini plurali Elohim additur verbum singulare, u 
+      <lb ed="#B" n="44"/>essentiae divinae unitas denotetur. 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e407">
+               <lb ed="#B" n="45"/>137. Ad posteriorem classem pertinent dicta es 
+      <lb ed="#B" n="46"/>in quibus Patri, Filio et Spiritui sancto beneficium 
+      <lb ed="#B" n="47"/>illud liberationis tribuitur. De Patre dubitatio ess 
+      <lb ed="#B" n="48"/>nequit, ac dicta illa omnia, quae Filio beneficium 
+      <lb ed="#B" n="49"/>illud tribuunt, etiam Patris mentionem faciunt, u 
+      <lb ed="#B" n="50"/>ex sequentibus patebit. De Filio, quod Israë
+      lita<lb ed="#B" n="51" break="no"/>ex Aegypto per Moysen deduxerit ac per desertum 
+      <lb ed="#B" n="52"/>ad promissam terram eos introduxerit, constare 
+      <lb ed="#B" n="53"/>potest ex his locis: 1. Genes. 28, vers. 12. Filiu 
+      <lb ed="#B" n="54"/>DEI Jacobo patriarchae in somnis apparet innixu 
+      <lb ed="#B" n="55"/>scalae super terram stanti ac cacumine suo coelum 
+      <lb ed="#B" n="56"/>tangenti, dicens: Terram, in qua dormis, tibi dabo 
+      <lb ed="#B" n="57"/>hoc est, tuae posteritati. Vers. 15: Ero custos 
+      <lb ed="#B" n="58"/>tuus quocunque perrexeris, ducam te in terram hanc 
+      <lb ed="#B" n="59"/>nec dimittam te, nisi complevero universa. Hui 
+      <lb ed="#B" n="60"/>vero ipsum, qui cum Jacobo locutus est et posses 
+      <!--503.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>sionem terrae Canaan eidem, hoc est semini ejus 
+      <lb ed="#B" n="62"/>promisit, fuisse Filium Dei colligitur non solum ex 
+      <lb ed="#B" n="63"/>Novo Testam. Johan. 1. vers. 51, ubi Christus hunc 
+      <lb ed="#B" n="64"/>typum ad se diserte accommodat, sed etiam ex vote 
+      <lb ed="#B" n="65"/>Jacobi eucharistico Genes. 48, vers. 15, ubi filiis 
+      <lb ed="#B" n="66"/>Josephi hisce verbis benedicit: Deus, in cujus cor 
+      <lb ed="#B" n="67"/>spectu ambulaverunt patres mei Abraham et Isaac 
+      <lb ed="#B" n="68"/>Deus, qui pascit me ab adolescentia mea usque in 
+      <lb ed="#B" n="69"/>praesentem diem. V. 16: Angelus, qui eruit me a 
+      <lb ed="#B" n="70"/>cunctis malis, benedicat istis pueris, ubi non intellig. 
+      <lb ed="#B" n="71"/>angelum creatum, ab eo enim non potuit nec de 
+      <lb ed="#B" n="72"/>buit per preces benedictio impetrari, sed Filium De 
+      <lb ed="#B" n="73"/>angelum illum increatum, qui in visione ipsi dixerat: 
+      <lb ed="#B" n="74"/>Ego ero custos tuus, quocunque perrexeris, semini 
+      <lb ed="#B" n="75"/>tuo dabo illam terram. (De angelo illo, cujus Ja 
+      <lb ed="#B" n="76"/>cobus ibi meminit, observa: 1. quod nomini ejus? 
+      <lb ed="#B" n="77"/>hajediah praefigatur, ut non vulgaris aliquis, sed 
+      <lb ed="#B" n="78"/>toto genere reliquis superior intelligatur; 2. quod 
+      <lb ed="#B" n="79"/>Jacobus eadem ab hoc angelo petat, quae a Deo a 
+      <lb ed="#B" n="80"/>in opere benedictionis individuo nexu cum Jehoval 
+      <lb ed="#B" n="81"/>eum conjungat; 3. quod honorem invocationis soli 
+      <lb ed="#B" n="82"/>Deo debitum illi tribuat. **7 ad h. I. Angelus 
+      <lb ed="#B" n="83"/>qui redemit me, est angelus ille, quem mihi solebat 
+      <lb ed="#B" n="84"/>Deus mittere in angustiis meis sccundum senten 
+      <lb ed="#B" n="85"/>tiam, qua dictum est (Genes. 31, v. 11.): Et dixi 
+      <lb ed="#B" n="86"/>ad me angelus Domini in somno, Jacob: Ego sur 
+      <lb ed="#B" n="87"/>Deus Bethel, **). Id ipsum clarius patebit ex se 
+      <lb ed="#B" n="88"/>quentibus 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e509">
+               <lb ed="#B" n="89"/>138. 2. Exod. 3, vers. 2. angelus Domini 
+      ap<lb ed="#B" n="90" break="no"/>paret Moysi de flamma ignis in rubo dicens v. 7. 
+      <lb ed="#B" n="91"/>Vidi afftictionem populi mei in Aegypto. V. 8. d. 
+      <lb ed="#B" n="92"/>scendi, ut liberem eum. Hunc angelum, qui Moyo 
+      <lb ed="#B" n="93"/>in rubo apparuit, non fuisse aliquem ex angeli 
+      <lb ed="#B" n="94"/>creatis, sed angelorum omnium Dominum, ipsur 
+      <lb ed="#B" n="95"/>scilicet Filium Dei ostendimus superius: I. ex ap 
+      <lb ed="#B" n="96"/>pellatione, vocatur onime JJehora nomine Dei pro 
+      <lb ed="#B" n="97"/>prio, nisi enim hoc nomen esset Dei proprium, non 
+      <lb ed="#B" n="98"/>potuisset per illud verus Deus ab xml:idolis et fictitiis 
+      <lb ed="#B" n="99"/>gentilium Diis distingui. At debebat omnino 
+      pe<lb ed="#B" n="100" break="no"/>illud nomen a falsis diis ac creaturis omnibus 
+      distin<lb ed="#B" n="101" break="no"/>gui v. 14; 2. ex apparentis descriptione, voeat se 
+      <lb ed="#B" n="102"/>Deum Abrahami, Isaaci et Jacobi. V. 6. dicit, e 
+      <lb ed="#B" n="103"/>audivi, ae clamorem populi. V. 7. vocat Israëlitas suum 
+      <lb ed="#B" n="104"/>populum, mittit Moysen ad Pharaonem v. 10, polli 
+      <lb ed="#B" n="105"/>cetur sibi post eductionen ex Aegypto exhibendum 
+      <lb ed="#B" n="106"/>cultum divinum vers. 11: quae omnia non nisi ui 
+      <lb ed="#B" n="107"/>vero Deo conveniunt; 3. ex locorum parallelorum 
+      <lb ed="#B" n="108"/>collatione. Deut. 33, v. 16. ab illo angelo, qui in 
+      <lb ed="#B" n="109"/>rubo apparuit, Moyses benedictionem Josephi poste 
+      <lb ed="#B" n="110"/>ris precatur, imitatus patriarcham Jacobum, qui 
+      fi<lb ed="#B" n="111" break="no"/>liis Joseph benedictionem ab angelo eodem precatu 
+      <lb ed="#B" n="112"/>fuerat. Gen. 48, v. 16; 4. ex majestatica apparitione 
+      <lb ed="#B" n="113"/>Apparet in rubo ardente, qui tamen ab igne non 
+      <lb ed="#B" n="114"/>consumitur, quod fuit typus incarnationis, quod 
+      <lb ed="#B" n="115"/>tota lux divinae majestatis in humana natura suo 
+      <lb ed="#B" n="116"/>tempore assumenda sine ulla ejusdem abolitione sit 
+      <lb ed="#B" n="117"/>habitatura; 5. ex patrum et Rabbinorum 
+      textifica<lb ed="#B" n="118" break="no"/>tione; 6. ex adversariorum concesxione. Qui cum 
+      <lb ed="#B" n="119"/>Moyse ex rubo locutus est, vocatur ὁ θεός cum 
+      <lb ed="#B" n="120"/>articulo Matth. 22, v. 31. Marc. 12. v. 16. Jam vero 
+      <!--504.xml-->
+      <pb ed="#B" n="431"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>docent adversarii, quando nomen DEI absolute e 
+      <lb ed="#B" n="2"/>praesertim cum articulo ponitur, tunc esse solius 
+      <lb ed="#B" n="3"/>veri et aeterni Dei proprium. Ex quibus omnibus 
+      <lb ed="#B" n="4"/>manifeste constat, eum, qui cum Moyse ex 
+      rub<lb ed="#B" n="5" break="no"/>loquitur, non esse angelum creatum, sed angelorum 
+      <lb ed="#B" n="6"/>creatorem, verum scilicet Deum. Quod autem is, qui 
+      <lb ed="#B" n="7"/>cum Moyse loquitur, sit distincta a Patre persona 
+      <lb ed="#B" n="8"/>patet ex eo, quia vocatur angelus Dei, missus scili 
+      <lb ed="#B" n="9"/>cet ab ipso, utique ergo est alia persona, quam Pa 
+      <lb ed="#B" n="10"/>ter, a quo missus fuit. Id ipsum clarius patebit e 
+      <lb ed="#B" n="11"/>sequentibus 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e611">
+               <lb ed="#B" n="12"/>139. 3. Exod. 11, v. 1: Dominus dicit ad 
+      Moy<lb ed="#B" n="13" break="no"/>sen. v. 2. dic populo, ut postulet vir ab amico suc 
+      <lb ed="#B" n="14"/>vasa argentea et aurea. v. 3. dabit autem Domi 
+      <lb ed="#B" n="15"/>nus gratiam populo suo coram Aegyptiis. Ibi 
+      Do<lb ed="#B" n="16" break="no"/>minus de Domino, Jehova de Jehovah loquitur, ex 
+      <lb ed="#B" n="17"/>quo sic colligimus: Jehovah, qui locutus est cum 
+      <lb ed="#B" n="18"/>Moyse, est distincta persona ab eo, qui dedit 
+      gra<lb ed="#B" n="19" break="no"/>tiam Israëlitico populo. Atqui Jehovah, qui cum 
+      <lb ed="#B" n="20"/>Moyse locutus est, xml:idem eduxit Israëlitas ex Ad 
+      <lb ed="#B" n="21"/>gypto. Ergo Jehovah, qui eduxit Israëlitas et 
+      <lb ed="#B" n="22"/>Aegypto, est distincta persona ab eo, qui 
+      dedi<lb ed="#B" n="23" break="no"/>gratiam populo Israëlitico, et per consequens 
+      plure<lb ed="#B" n="24" break="no"/>personae in hoc liberationis beneficio agnoscendae 
+      <lb ed="#B" n="25"/>4. Ex. 16, v. 17. ait Moyses ad populum: Manc 
+      <lb ed="#B" n="26"/>videbitis gloriam Domini, quia andivit marimura 
+      <lb ed="#B" n="27"/>tiones vestras contra Dominum. v. 8. non contr. 
+      <lb ed="#B" n="28"/>nos est murmur vestrum, sed contra Dominum. V. 10. 
+      <lb ed="#B" n="29"/>et ecce gloria Domini apparuit in nube, ibi 
+      denu<lb ed="#B" n="30" break="no"/>Dominus de Domino loquitur, et Dominus dicitu 
+      <lb ed="#B" n="31"/>audivisse murmur populi contra Dominum, quis 
+      ver<lb ed="#B" n="32" break="no"/>fuerit ille dominus, exponitur I. Cor. 10, v. 9. 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e659">
+               <lb ed="#B" n="33"/>140. Sed pergamus in historica beneficii illiu 
+      <lb ed="#B" n="34"/>descriptione. 3. Exod 23, v. 20. dicit Dominus. 
+      <lb ed="#B" n="35"/>Ecce ego mittam angelum meum, qui praecedat te 
+      <lb ed="#B" n="36"/>et custodiat te in via et introducat in locum, quem 
+      <lb ed="#B" n="37"/>praeparavi. v. 21. observa eum et audi vocem 
+      <lb ed="#B" n="38"/>. ejus, ne rebellaveris ipsi, quia non relinquet to 
+      <lb ed="#B" n="39"/>impunitum, cum peccaveris, et nomen meum 7272 
+      <lb ed="#B" n="40"/>in medio ejus. Ibi angelus Israëlitici populi ducto 
+      <lb ed="#B" n="41"/>per desertum proponitur, ut distincta persona a Patra 
+      <lb ed="#B" n="42"/>liberationis illius auctore. Cajetanus intelligit 
+      pe<lb ed="#B" n="43" break="no"/>angelum Moysen ipsum. Justin. contra Tryph. f. 58 
+      <lb ed="#B" n="44"/>Euseb. lib. 4. demonstrat. evang. c. 28. Raban. i. 
+      <lb ed="#B" n="45"/>comm. intelligunt Josuam. Cornel. a Lap. in 
+      comn<lb ed="#B" n="46" break="no"/>angelum creatum. Sed Athanasius in lib. de 
+      com<lb ed="#B" n="47" break="no"/>muni deitatis essent. paulo ante fin. Hesych. lib. 7. i. 
+      <lb ed="#B" n="48"/>Levit. c. 26. f. 653. ipsum Dei Filium. Rectissime 
+      <lb ed="#B" n="49"/>Quod enim angelus ille non fuerit creatus aliqui 
+      <lb ed="#B" n="50"/>angelus, sed ipse Dei Filius, patet I. ex appella 
+      <lb ed="#B" n="51"/>tione. Vocatur enim 2177 Exod. 13, v. 21: Ieho 
+      <lb ed="#B" n="52"/>vah praecedebat eos ad ostendendam viam per diem 
+      <lb ed="#B" n="53"/>in columna nubis, et per noctem in columna igni 
+      <lb ed="#B" n="54"/>ut lumen praeberet eis, et duc esset itineris. Hoc 
+      <lb ed="#B" n="55"/>loco dicitur nomen Dei proprium esse in medio 
+      eju<lb ed="#B" n="56" break="no"/>Id est, esse ejus proprium et intimum. Flacius in 
+      <lb ed="#B" n="57"/>Clavi col. 726. tria hac phrasi dicit denotari: i. ar 
+      <lb ed="#B" n="58"/>geli illius veram deitatem, nomen meum, xml:id es 
+      <lb ed="#B" n="59"/>essentia mea, erit in eo, quia nomen est res ipss 
+      <lb ed="#B" n="60"/>4. perconalem proprietatem, quia nomen continet 
+      <!--504.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>imaginem et quasi picturam rei. Nomen meum 
+      <lb ed="#B" n="62"/>in eo, xml:id est substantialis imago ac character 
+      <lb ed="#B" n="63"/>3. incarnationis mysterium, ero qui ero, 
+      assumam<lb ed="#B" n="64" break="no"/>carnem, praestabo liberationem spiritualem. Non est 
+      <lb ed="#B" n="65"/>dubium, quin complures angeli castra metati fuerint 
+      <lb ed="#B" n="66"/>circa populum Israëliticum ex Aegypto per deser 
+      <lb ed="#B" n="67"/>tum in terram promissam euntem. Si enim Jacobe 
+      <lb ed="#B" n="68"/>patriarchae Mahanaim castra Dei, xml:id est angeli in 
+      <lb ed="#B" n="69"/>forma castrorum, apparuerunt Genes. 32, v. 1. 2. 
+      <lb ed="#B" n="70"/>quanto magis populo Israëlitico angelos Dei 
+      velu<lb ed="#B" n="71" break="no"/>custodes praesto fuisse verisimile est, sed de creatis 
+      <lb ed="#B" n="72"/>illis angelis hoc loco non loquitur Deus, sed pecu 
+      <lb ed="#B" n="73"/>liaris cujusdam angeli ductoris ac ducis mentionem 
+      <lb ed="#B" n="74"/>facit, in cujus medio sit ipsum Dei nomen, qui ipse 
+      <lb ed="#B" n="75"/>quoque sit Jehovah, quale quid de nullo creato 
+      <lb ed="#B" n="76"/>angelo dicitur. Hebr. 1, v. 4. et 5. Augustinus. 
+      <lb ed="#B" n="77"/>lib. 16. contra Faustum e. 19: Scrutctur hunc locum 
+      <lb ed="#B" n="78"/>non solum Manichaeus, sed etiam Judaeus, utrum 
+      <lb ed="#B" n="79"/>de aliquo angelo dixerit Deus, nomen meum est i 
+      <lb ed="#B" n="80"/>illo, nisi de hoc ductore populi? Est ergo is, de 
+      <lb ed="#B" n="81"/>quo Deut. 1, v. 32. dicitur, Ichovdh praecedebo 
+      <lb ed="#B" n="82"/>vos per ignem in nocte. Psal. 78, v. 14. Psal. 105. 
+      <lb ed="#B" n="83"/>v. 39. Sicut de hoc angelo ductore dicitur, nomes 
+      <lb ed="#B" n="84"/>meum est in medio illius, sic de Filio Dei dicitur 
+      <lb ed="#B" n="85"/>Apoc. 19, v. 16: habet super vestimentum et super 
+      <lb ed="#B" n="86"/>femur suum nomen scriptum. Rex regum et 
+      domi<lb ed="#B" n="87" break="no"/>nus dominantium. ** (Cabbalistae quaerunt, quis sit 
+      <lb ed="#B" n="88"/>iste 22822, et respondent per elementorum 
+      transpo<lb ed="#B" n="89" break="no"/>sitionem, esse 22, ita vero appellatur Christu 
+      <lb ed="#B" n="90"/>Dan. 13, v. 1. Apoc. 12, v. 7.) &amp;* 2. ex operis 
+      <lb ed="#B" n="91"/>divini attributione. Angelus ille, qui Israëlitas 
+      pe<lb ed="#B" n="92" break="no"/>desertum in terram promissam deduxit, est xml:idem ille 
+      <lb ed="#B" n="93"/>angelus, qui ex Aegypto eos eduxit, ut constat 
+      <lb ed="#B" n="94"/>Jam vero angelus, qui Israëlitas ex Aegypto eduxit, 
+      <lb ed="#B" n="95"/>non est creatus aliquis angelus, sed DEI Filius 
+      <lb ed="#B" n="96"/>angelorum omnium Dominus, quod manifestum ex 
+      <lb ed="#B" n="97"/>c. 14. Exod. v. 19: Tollens se angelus Domini, quo 
+      <lb ed="#B" n="98"/>praedecebat castra Israël, abiit post eos et cum eo 
+      <lb ed="#B" n="99"/>pariter columna nubis, in qua apparebat et stetit 
+      <lb ed="#B" n="100"/>post eos. v. 20: Stetit inter castra Aegyptiorum e 
+      <lb ed="#B" n="101"/>castra Israël, et erat nubes tenebrosa et illuminans 
+      <lb ed="#B" n="102"/>noctem. v. 24: et ecce respiciens Dominus super 
+      <lb ed="#B" n="103"/>castra Aegyptiorum in columna nubis et ignis per 
+      <lb ed="#B" n="104"/>terruit exercitum eorum. v. 25: removit rotas cur 
+      <lb ed="#B" n="105"/>ruum ete. Quod autem angelus ille, qui e 
+      <lb ed="#B" n="106"/>columna nubis super Aegyptios respexit, et exer 
+      <lb ed="#B" n="107"/>citum eorum perterruit, fuerit ipse Jehovah verus 
+      <lb ed="#B" n="108"/>Deus, patet ex c. 15. Exod. v. 1: Cantemus 
+      Do<lb ed="#B" n="109" break="no"/>mino, gloriose enim magnificatus est, equum et 
+      ascen<lb ed="#B" n="110" break="no"/>sorem dejecit in mare. v. 2. 128 *½ iste est Deus 
+      <lb ed="#B" n="111"/>meus, et faciam ei tabernaculum. De eadem columna 
+      <lb ed="#B" n="112"/>dicitur Num. 14. v. 14: Audierunt, quod tu Domine 
+      <lb ed="#B" n="113"/>sis in populo isto, et nubes tua stet super eos, et in 
+      <lb ed="#B" n="114"/>columna nubis praecedas eos per diem et in columna 
+      <lb ed="#B" n="115"/>ignis per noctem. v. 15: quod occideris tantam 
+      <lb ed="#B" n="116"/>multiludinem. Ergo ipse Dominus in nube, quae 
+      <lb ed="#B" n="117"/>propterea dicitur nubes Domini, Israëlitas praeces 
+      <lb ed="#B" n="118"/>sit, eos protegendo, hostes vero eorum delendo, 
+      <lb ed="#B" n="119"/>Utimur igitur hoc argumento: Conservare ecclesiam 
+      <lb ed="#B" n="120"/>deducere populum suum in terram promissam est 
+      <!--505.xml-->
+      <pb ed="#B" n="432"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>proprium Dei beneficium. Deut. 31, v. 3: Jehoval 
+      <lb ed="#B" n="2"/>Deus tuus ipse ante te praecedet, ipse Cananaeos 
+      <lb ed="#B" n="3"/>coram te exstinquet. Atqui angelo isti tribuitur cor 
+      <lb ed="#B" n="4"/>servatio ecclesiae et deductio per terram promissam 
+      <lb ed="#B" n="5"/>Ergo. Idem angelus dimittit peccata populo ad 
+      <lb ed="#B" n="6"/>preces Moysis v. 20. Id quod solius veri Dei pro 
+      <lb ed="#B" n="7"/>prium Exod. 33, v. 9. Deut. 31, v. 13. Psal. 99, 
+      <lb ed="#B" n="8"/>7: Ipse Dominus in columna nubis descendisse et e 
+      <lb ed="#B" n="9"/>columna cum Moyse locutus dicitur. Ergo non fuit 
+      <lb ed="#B" n="10"/>aliquis creatus angelus, xml:id quod sole clarius ex 
+      <lb ed="#B" n="11"/>Num. 12. v. 5: Descendit Dominus in columna nubi 
+      <lb ed="#B" n="12"/>et stetit in introitu tabernaculi. v. 6: et dici. 
+      <lb ed="#B" n="13"/>ad Aaronem et Mirjam: Si quis fuerit inter 
+      <lb ed="#B" n="14"/>vos propheta Domini, in visione apparebo ei. v.) 
+      <lb ed="#B" n="15"/>at non talis servus meus Moyse. v. 8. ore ad 
+      o<lb ed="#B" n="16" break="no"/>loquor ei, aspectu et non per aenigmata et 
+      figu<lb ed="#B" n="17" break="no"/>ras Dominum videt, utique ergo is, qui in nube 
+      <lb ed="#B" n="18"/>apparuit, fuit ipse verus Jehovah. Confer etiam 
+      <lb ed="#B" n="19"/>Exod. 16, v. 8. accedite –1717) 3307 in conspectun 
+      <lb ed="#B" n="20"/>sive coram facie Domini, ubi intelligitur illa co 
+      <lb ed="#B" n="21"/>lumna, quae erat praesentiae symbolum. Ergo qui 
+      <lb ed="#B" n="22"/>in columna deduxit Israëlitas, fuit verus Jehoval 
+      <lb ed="#B" n="23"/>Considerari potest etiam illud, quod tribuatur hui 
+      <lb ed="#B" n="24"/>angelo potestas judiciaria animadvertendi in 
+      legi<lb ed="#B" n="25" break="no"/>divinae transgressores, jam vero omne judicium 
+      <lb ed="#B" n="26"/>Filio datum Joh. 5, v. 23. Tribuitur huic angel 
+      <lb ed="#B" n="27"/>communis actio cum vero Deo in delendis gentili 
+      <lb ed="#B" n="28"/>bus Cananaeis. Ergo est verus cum Patre Deus.. 
+      <lb ed="#B" n="29"/>ex symbolica apparitione. Columna illa nubis e 
+      <lb ed="#B" n="30"/>ignis, in qua Filius Dei apparuit, non solum in 
+      <lb ed="#B" n="31"/>praesenti beneficium populo praestitit, viam in de 
+      <lb ed="#B" n="32"/>serto monstrando, ab aestu et injuria coeli eos pro 
+      <lb ed="#B" n="33"/>tegendo Psal. 105, v. 39, nocturnas tenebras 
+      discu<lb ed="#B" n="34" break="no"/>tiendo et munitionis instar a subitaneis hostium 
+      <lb ed="#B" n="35"/>irruptionibus Israëlitas defendendo, Psal. 121, v. 8 
+      <lb ed="#B" n="36"/>Dominus custodit te; Dominus est umbra tua ac 
+      <lb ed="#B" n="37"/>manum dectram tuam. v. 6: per diem sol non 
+      <lb ed="#B" n="38"/>uret te, neque luna per noctem. v. 7. 
+      Dominu<lb ed="#B" n="39" break="no"/>custodiat te ab omni malo, custodiat animam tuam 
+      <lb ed="#B" n="40"/>v. 8. Dominus custodiat introitum tuum et e citum 
+      <lb ed="#B" n="41"/>tuum ex hoc nunc et usque in seculum. Confer 
+      <lb ed="#B" n="42"/>Sap. 10, v. 17. cap. 18, v. 3. cap. 19, v. 7; sed 
+      <lb ed="#B" n="43"/>etiam typum futurae incarnationis populo exhibuit. 
+      <lb ed="#B" n="44"/>Ignis enim fuit symbolum divinae, nubes vero 
+      hu<lb ed="#B" n="45" break="no"/>manae naturae, Filio Dei aliquando personaliter 
+      <lb ed="#B" n="46"/>uniendae, unde angelus voce ex hac visione petit 
+      <lb ed="#B" n="47"/>ad Mariam dicit Luc. 1, v. 35: Virtus Altissim 
+      <lb ed="#B" n="48"/>ἐπισκιάσει σοι, quia scil. in ejus utero lux 
+      incor<lb ed="#B" n="49" break="no"/>porea corpus sumsit, umbra autem non aliter es 
+      <lb ed="#B" n="50"/>primitur, nigi per lumen et corpus. Gregor. lib. 33. 
+      <lb ed="#B" n="51"/>moral. c. 3. ac poëta dulcissime canit. 
+      <lb ed="#B" n="52"/>
+               <quote xml:id="zef3dd-d1e809-Qd1e975">Sic lux in tenebris Christus, sic frigus in aestu</quote>
+               <lb ed="#B" n="53"/>Verus in igne Deus, tegmine nubis homo 
+      <lb ed="#B" n="54"/>4. ex cultus divini exhibitione. Angelo illi, qui 
+      <lb ed="#B" n="55"/>Israëlitas ex Aegypto per desertum in terram pro 
+      <lb ed="#B" n="56"/>missam deduxit, cultum divinum populus exhibere 
+      <lb ed="#B" n="57"/>debuit, ergo non fuit creatus aliquis angelus, quia 
+      <lb ed="#B" n="58"/>cultus divinus non nisi soli vero Deo debetur. 
+      An<lb ed="#B" n="59" break="no"/>tecedens patet, quia populus obtulit ei sacrificis 
+      <lb ed="#B" n="60"/>Exod. 3, v. 12, ac diligenter cavere jubetur, ne 
+      <!--505.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>contra eum peccet rebellando e. 23, v. 21; jam vero 
+      <lb ed="#B" n="62"/>oli Deo peccatur Psal. 51, v. 6. Ut enim solus 
+      <lb ed="#B" n="63"/>Deus est summum bonum et omnis rectitudini 
+      <lb ed="#B" n="64"/>norma, ita quoque primo et proprie non nisi in 
+      <lb ed="#B" n="65"/>Deum peccatur, in creaturas improprie et per ac 
+      <lb ed="#B" n="66"/>cidens. Hic est xml:idem ille angelus, de quo Matth. 17 
+      <lb ed="#B" n="67"/>v. 5. hunc audite et Deut. 18, v. 19: Qui voci ejus 
+      <lb ed="#B" n="68"/>non obedierit, ego ultor ero, unde Deus hortatu 
+      <lb ed="#B" n="69"/>Israëlitas ad obsequium huic angelo praestandum. 
+      <lb ed="#B" n="70"/>significans illum parem ab eis obedientiam secum 
+      <lb ed="#B" n="71"/>flagitare. Haec omnia si accurate observentur, 
+      ma<lb ed="#B" n="72" break="no"/>nifestum erit angelum illum, qui Israëlitas per de 
+      <lb ed="#B" n="73"/>sertum in terram promissam deduxit, non fuisse 
+      <lb ed="#B" n="74"/>angelum creatum, sed ipsum Jehovam, Dei scilice 
+      <lb ed="#B" n="75"/>Filium 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e1032">
+               <lb ed="#B" n="76"/>141. Id ipsum colligitur etiam ex aliis apud 
+      <lb ed="#B" n="77"/>Moysen locis 6. Exod. 32, v. 34. dicit Dominus ac 
+      <lb ed="#B" n="78"/>Moysen: Vade et duc populum istum, quo locutus 
+      <lb ed="#B" n="79"/>sum tibi. Angelus autem meus praecedet te. Eg. 
+      <lb ed="#B" n="80"/>autem in die ultionis visitabo hoc peccatum eorum 
+      <lb ed="#B" n="81"/>Sicut de angelo populi duce c. 23, v. 21. dictum 
+      <lb ed="#B" n="82"/>fuerat, non relinquet te impunitum, cum peccaveris 
+      <lb ed="#B" n="83"/>ita hoc loco Jehovah dicit, ego in die ultionis 
+      visi<lb ed="#B" n="84" break="no"/>tabo hoc peccatum eorum. 7. Exod. 33, v. 2. iterum 
+      <lb ed="#B" n="85"/>ait Dominus ad Moysen: Adscende tu et 
+      populu<lb ed="#B" n="86" break="no"/>suus in terram, quam me juravi daturum patribus 
+      <lb ed="#B" n="87"/>dicens: Semini tuo dabo eam, et mittam ante faciem 
+      <lb ed="#B" n="88"/>tuam angelum, ut ejiciam Cananaeum. (Sensus est. 
+      <lb ed="#B" n="89"/>Ego quidem promisi Exod. 23, quod velìm 
+      angel<lb ed="#B" n="90" break="no"/>meo vos comitari et deducere in terram 
+      Canaan<lb ed="#B" n="91" break="no"/>sed quia populus foedus meum violavit, xml:ideo non 
+      <lb ed="#B" n="92"/>sum amplius ei obstrictus, vade cum populo, quo 
+      <lb ed="#B" n="93"/>et qua via volueris.) v. 3. non enim adscendam tecum 
+      <lb ed="#B" n="94"/>quia populus durae cervicis es, semel adscendam in 
+      <lb ed="#B" n="95"/>medio tui et delebo te. v. 12. dicit Moyses ad 
+      Do<lb ed="#B" n="96" break="no"/>minum: Praecipis, ut educam populum istum, e 
+      <lb ed="#B" n="97"/>non indicas mihi, quem missurus es mecum. v. 14. 
+      <lb ed="#B" n="98"/>Dicit Dominus, facies mea praecedet te, et deducar 
+      <lb ed="#B" n="99"/>te v. 15. ait Moyses, si non ibit facies tua, ne 
+      <lb ed="#B" n="100"/>educas nos de loco isto. v. 16. in quo enim scire 
+      <lb ed="#B" n="101"/>poterimus, ego et populus tuus, invenisse nos 
+      gra<lb ed="#B" n="102" break="no"/>tiam in conspectu tuo, nisi ambulaveris nobiscum 
+      <lb ed="#B" n="103"/>v. 17. et dixit Dominus, verbum, quod locutus es 
+      <lb ed="#B" n="104"/>faciam, invenisti enim gratiam coram me. v. 18 
+      <lb ed="#B" n="105"/>Et ait Moyses: ostende mihi gloriam tuam. v. 19. 
+      <lb ed="#B" n="106"/>cui Dominus respondit: Ego transire faciam 
+      omn<lb ed="#B" n="107" break="no"/>bonum meum ante faciem tuam, et praedicabo in 
+      <lb ed="#B" n="108"/>nomine Domini coram te. v. 20. rursumque ait: 
+      no<lb ed="#B" n="109" break="no"/>poteris videre faciem meam, non enim videbit 
+      me<lb ed="#B" n="110" break="no"/>homo, et vivet. v. 23. posteriora mea videbis, faciem 
+      <lb ed="#B" n="111"/>autem meam non videre poteris. C. 34, v. 5. sequi. 
+      <lb ed="#B" n="112"/>tur promissionis complementum: Et descendit Do 
+      <lb ed="#B" n="113"/>minus per nubem, et stetit cum eo (Moyses), ibi 
+      <lb ed="#B" n="114"/>praedicavit de nomine Domini. v. 6. et transiit Jo 
+      <lb ed="#B" n="115"/>hovah ante eum, et praedicavit Jehovah, Jehovak. 
+      <lb ed="#B" n="116"/>fortis, misericors ete. v. 8. festinusque Moyses 
+      <lb ed="#B" n="117"/>curvatus est pronus in terram et adorans ait. v.? 
+      <lb ed="#B" n="118"/>Si inveni gratiam in conspectu tuo, Domine, obsecro 
+      <lb ed="#B" n="119"/>ut gradiaris nobiscum, populus enim durae cervi 
+      <lb ed="#B" n="120"/>cis est, ut auferas iniquitates nostras. In hoc loco 
+      <!--506.xml-->
+      <pb ed="#B" n="433"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>angelus, qui Israëlitas deduxit, vocatur 1. Iehoval 
+      <lb ed="#B" n="2"/>quia Jehova praedicat de Jehovah; 2. facies 
+      Do<lb ed="#B" n="3" break="no"/>mini, quia est substantialis Dei Patris imago; 3 
+      <lb ed="#B" n="4"/>omne bonum Dei, quia Pater omnem suam bonita 
+      <lb ed="#B" n="5"/>tem, divinam scilicet suam essentiam et majestatem 
+      <lb ed="#B" n="6"/>per aeternam generationem ei communicavit ac per 
+      <lb ed="#B" n="7"/>eundem coelestia nobis confert. 4. Idem introducitur 
+      <lb ed="#B" n="8"/>tanquam mediator reconcilians DEUM et homines, 
+      <lb ed="#B" n="9"/>ne Deus, qui est ignis consumens, propter peccat 
+      <lb ed="#B" n="10"/>statim eos perdat ac deleat. At haec omnia non 
+      <lb ed="#B" n="11"/>conveniunt alicui creato angelo. 5. Idem Dei Filiu 
+      <lb ed="#B" n="12"/>in forma humana sese conspiciendum Moysi exhibet 
+      <lb ed="#B" n="13"/>ut intelligitur ex illis verbis, faciem meam, xml:id es 
+      <lb ed="#B" n="14"/>nudam divinitatem et majestatem meam videre non 
+      <lb ed="#B" n="15"/>poteris, posteriora autem sive tergum meum videbis 
+      <lb ed="#B" n="16"/>quia in plenitudine temporis humanam naturam 
+      per<lb ed="#B" n="17" break="no"/>sonaliter assumturus erat, perinde uti etiam Exod 
+      <lb ed="#B" n="18"/>24, v. 10. in forma humana Moysi ac septuaginta 
+      <lb ed="#B" n="19"/>senioribus Israëlis sese conspiciendum exhibuera 
+      <lb ed="#B" n="20"/>quia viderunt Deum Israëlis sub pedibus ejus quas 
+      <lb ed="#B" n="21"/>opus lapidis saphirini et quasi coelum, cum 
+      ser<lb ed="#B" n="22" break="no"/>num est. 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e1187">
+               <lb ed="#B" n="23"/>142. Denique 8. conferimus etiam Num. 14, v. 21. 
+      <lb ed="#B" n="24"/>Vivo ego, dicit Dominus, replebit gloria Domini 
+      <lb ed="#B" n="25"/>universam terram, hanc gloriam vidit postea Esaia 
+      <lb ed="#B" n="26"/>c. 6, v. 4: plena est omnis terra gloria ejus, d 
+      <lb ed="#B" n="27"/>quo Joh. 12, v. 41. dicitur, quod viderit gloriar 
+      <lb ed="#B" n="28"/>Christi, Dei Filii. Atque haec omnia manifest 
+      <lb ed="#B" n="29"/>probant, Filium Dei Israëlitas ex Aegypto per de 
+      <lb ed="#B" n="30"/>sertum deduxisse. Deut 4, v. 37: eduxit te facil 
+      <lb ed="#B" n="31"/>qua in robore magno ex Aegypto. Targum 
+      reddi<lb ed="#B" n="32" break="no"/>dit *1*7 in verbo quo, quia facies illa Dei est 
+      <lb ed="#B" n="33"/>ipsius Filius Exod. 33, v. 14. Ex N. Test. praeter 
+      lo<lb ed="#B" n="34" break="no"/>cum 1. Cor. 10, v. 9. huc referri potest dictum 
+      Ju<lb ed="#B" n="35" break="no"/>dae in v. 15. collato cum v, 4. ete. 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e1218">
+               <lb ed="#B" n="36"/>143. De Spiritu sancto adeoque de singulis 
+      tri<lb ed="#B" n="37" break="no"/>bus personis exstat manifestum testimonium Esa. 63. 
+      <lb ed="#B" n="38"/>v. 7: Miserationes Domini memorare faciar 
+      <lb ed="#B" n="39"/>laudes Domini super omnibus, quae reddidit nobis 
+      <lb ed="#B" n="40"/>Dominus, et multitudinem boni domui Israël, quod 
+      <lb ed="#B" n="41"/>reddidit eis secundum misericordiam suam, et 
+      secun<lb ed="#B" n="42" break="no"/>dum multitudinem miserationum auarum. v. 8 Et 
+      <lb ed="#B" n="43"/>dixit: Vere populus meus ipsi, et factus est eis in 
+      <lb ed="#B" n="44"/>salvatorem. v. 9. Angelus faciei ejus 7720 plui 
+      <lb ed="#B" n="45"/>cum ast. salvavit eos propter dilectionem suam et 
+      <lb ed="#B" n="46"/>propter indulgentiam quam E283 &amp; ipse rede 
+      <lb ed="#B" n="47"/>mit eos, et tulit et portavit eos cunctis seculi die 
+      <lb ed="#B" n="48"/>bus. v. 10. Et ipsi rebelles fuerunt, et irase 
+      <lb ed="#B" n="49"/>fecerunt 7 1177&amp; Spiritum canctitatis, ve 
+      <lb ed="#B" n="50"/>Spiritum sanctum ejus, et factus est eis in inimicum 
+      <lb ed="#B" n="51"/>ipse pugnavit contra eos. v. 11. et recordatus es 
+      <lb ed="#B" n="52"/>dierum antiquorum. Hic manifeste enumerantur 
+      <lb ed="#B" n="53"/>tres distinctae personae, a quibus singulis 
+      benefi<lb ed="#B" n="54" break="no"/>cium illud liberationis ex Aegypto ac deductioni, 
+      <lb ed="#B" n="55"/>per desertum tribuitur, ac Filius Dei secunda per 
+      <lb ed="#B" n="56"/>sona notanter angelus faciei ejus: I. ratione per 
+      <lb ed="#B" n="57"/>sonae. (S220 significat etiam personam.) Est enim 
+      <lb ed="#B" n="58"/>χαρακτὴρ τῆς ὑποστάσεως, εἰκὼν θεοῦ ἀοράτου, 
+      Col<lb ed="#B" n="59" break="no"/>1, v. 15. Heb. 1. v. 3. De sapientia dicitur Sap. 7. 
+      <lb ed="#B" n="60"/>σ. 26. est ἀπαύγασμα φωιὸς ἀἰδίου καὶ ἔσοπτρον 
+      <!--506.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ἐκηλίδωτον τῆς τοῦ θεοῦ ἐνεργείας καὶ εἰκὼν τῆς 
+      <lb ed="#B" n="62"/>ἀγαθότητος αὐτοῦ. Sicut Filius parentis faciem 
+      <lb ed="#B" n="63"/>exacte referens filius paternae faciei dici posset; 
+      <lb ed="#B" n="64"/>sic angelus ille increatus Dei Filius paternam faciem. 
+      <lb ed="#B" n="65"/>id est, ipsam Patris essentiam per aeternam gene 
+      <lb ed="#B" n="66"/>rationem a Patre sibi communicatam in sua subs 
+      <lb ed="#B" n="67"/>stentia possidet, in eo tamen est discrimen maximum. 
+      <lb ed="#B" n="68"/>quod similitudo faciei seu formae paternae, quam 
+      <lb ed="#B" n="69"/>Filius in humanis obtinet, sit accidentalis et caduca. 
+      <lb ed="#B" n="70"/>sed similitudo faciei paternae, quam Filius in divi 
+      <lb ed="#B" n="71"/>nis obtinet, est essentialis, substantialis ac proinde 
+      <lb ed="#B" n="72"/>nvariabilis, quia ab essentiae unitate dependet. Ut 
+      <lb ed="#B" n="73"/>ergo Moyses angelum illum vocat faciem Dei, sio 
+      <lb ed="#B" n="74"/>Esaias eum vocat angelum faciei Domini, eoden 
+      <lb ed="#B" n="75"/>omnino sensu 2. Sam. 17, v. 1: facies tua ibit in 
+      <lb ed="#B" n="76"/>praelium, xml:id est, tu ipse ibis, ut Targum reddidit. 
+      <lb ed="#B" n="77"/>Sic ergo angelus faciei dicitur, qui est unus verus 
+      <lb ed="#B" n="78"/>cum Patre Deus. Sicut de Spiritu sancto Esa. 57. 
+      <lb ed="#B" n="79"/>v 16 dicitur, quod sit a facie Dei, quia per 
+      aeter<lb ed="#B" n="80" break="no"/>nam spirationem a Patre procedit, sic Filius dicitur 
+      <lb ed="#B" n="81"/>angelus faciei, quia per aeternam generationem? 
+      <lb ed="#B" n="82"/>Patre ut lumen de lumine nascitur. 2ratione officit 
+      <lb ed="#B" n="83"/>quia est mediator ille, per quem Pater nobiscum 
+      <lb ed="#B" n="84"/>loquitur, et faciem suam invisibilem nobis 
+      man<lb ed="#B" n="85" break="no"/>festat, unde Dominus a facie ad faciem cum Moyse 
+      <lb ed="#B" n="86"/>dicitur locutus Exod. 33, v. 11. ac Jacob patriar 
+      <lb ed="#B" n="87"/>cha dicit se vidisse Dominum a facie ad faciem 
+      <lb ed="#B" n="88"/>Genes. 32, v. 30, quia uterque Filium Dei in forma 
+      <lb ed="#B" n="89"/>humana vidit. Qui videt Patrem, ait Joh. 14, v. 9. 
+      <lb ed="#B" n="90"/>inde Targum Esa. 63, v. 9. angelum faciei reddidit 
+      <lb ed="#B" n="91"/>7772 missus ab eo, quia Filius est persona illa 
+      <lb ed="#B" n="92"/>per quam in V. Test. Deus ad patriarchas locutus, 
+      <lb ed="#B" n="93"/>et faciem suam, xml:id est, se ipsum et consilium sive 
+      <lb ed="#B" n="94"/>voluntatem suam illis manifestavit. Quemadmodum 
+      <lb ed="#B" n="95"/>hominem cognoscimus per faciem, ita Patrem cog 
+      <lb ed="#B" n="96"/>noscimus per Christum. Ae ne quis dubitet, etiam 
+      <lb ed="#B" n="97"/>Spiritum sanctum in deductione populi per deser 
+      <lb ed="#B" n="98"/>tum adfuisse, conferimus locum Nehem. 9, v. 19. 
+      <lb ed="#B" n="99"/>Pu, Domine, in miserationibus multis non dereli 
+      <lb ed="#B" n="100"/>quisti patres nostros in deserto, columna nubis 
+      no<lb ed="#B" n="101" break="no"/>recessit ab eis ad illucendum ete. v. 20. et Spira 
+      <lb ed="#B" n="102"/>tum tuum bonum dedisti ad intelligere faciendum 
+      <lb ed="#B" n="103"/>208. Observari potest etiam illud, quod de beneficio 
+      <lb ed="#B" n="104"/>deductionis per desertum usurpatur verbum 
+      firi<lb ed="#B" n="105" break="no"/>Deuter. 32, v. 11, quod de opere Spiritus sancti 
+      <lb ed="#B" n="106"/>in prima creatione a Moyse usurpatur Genes. 1, v. 
+      <lb ed="#B" n="107"/>3. ac nuspiam alibi in tota Scriptura de DEO usuri 
+      <lb ed="#B" n="108"/>patur 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e1383">
+               <lb ed="#B" n="109"/>144. Excipit Schmaltzius contra D. Frantzium 
+      <lb ed="#B" n="110"/>disp. 1. p. 13: 1. Fit mentio trium. Ergo tres sunt 
+      <lb ed="#B" n="111"/>personae, quae connexio, quae consequentia? Fit 
+      <lb ed="#B" n="112"/>mentio trium. Ergo sunt tres personae in una 
+      De<lb ed="#B" n="113" break="no"/>essentia. p. 14. Non negamus mentionem fieri 
+      Ic<lb ed="#B" n="114" break="no"/>hovae, angeli faciei Iehovae et S. 8. Iehovae, sed 
+      <lb ed="#B" n="115"/>negamus: 1. angelum faciei Ichovae esse Filium Dei 
+      <lb ed="#B" n="116"/>2. negamus, etiamsi angelus is esset Dei Filius 
+      <lb ed="#B" n="117"/>cum esse talem personam divinam, qualis est Pater 
+      <lb ed="#B" n="118"/>3. negamus Spiritum canctum esse personam; 1. 
+      ne<lb ed="#B" n="119" break="no"/>gamus hos tres esse unam Dei essentiam, quorum 
+      <lb ed="#B" n="120"/>omnium nihil ex adducto loco probatur. Resp. 
+      <!--507.xml-->
+      <pb ed="#B" n="434"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>imo vero ex iis, quae hactenus dicta sunt, hae 
+      <lb ed="#B" n="2"/>quatuor membra optime colligi possunt. Trium ho 
+      <lb ed="#B" n="3"/>rum personalitas colligitur ex eo: 1. quod tria di 
+      <lb ed="#B" n="4"/>stincta ponuntur nomina: Jehovah, angelus facie 
+      <lb ed="#B" n="5"/>ejus, Spiritus sanctus ejus; 2. quod unicuique horur 
+      <lb ed="#B" n="6"/>trium actiones personae intelligentis, volentis 
+      a<lb ed="#B" n="7" break="no"/>subsistentis tribuuntur, Jehovdh dicitur contulisse in 
+      <lb ed="#B" n="8"/>populum Israël beneficia; angelus faciei dicitu 
+      <lb ed="#B" n="9"/>populum propter amorem suum redemisse; Spiritus 
+      <lb ed="#B" n="10"/>sanctus dicitur Israëlitis conversus in inimicum; 3 
+      <lb ed="#B" n="11"/>quod distineta opera unicuique horum trium tribu 
+      <lb ed="#B" n="12"/>untur, Jehovae miseratio erga populum assignatur 
+      <lb ed="#B" n="13"/>angelo faciei populi salvatio et redemtio, Spiritu 
+      <lb ed="#B" n="14"/>sancto exacerbatio et pugna contra populum; 4. quo 
+      <lb ed="#B" n="15"/>per pronomen relativum angelus et Spiritus ad 
+      Pa<lb ed="#B" n="16" break="no"/>trem referuntur, angelus enim dicitur angelus 
+      fa<lb ed="#B" n="17" break="no"/>ciei ejus, et spiritus dicitur Spiritus canctus 
+      eju<lb ed="#B" n="18" break="no"/>utique ergo sunt a Patre distincti, at non essentio 
+      <lb ed="#B" n="19"/>liter, quia una est divina essentia, nec accidentaliter 
+      <lb ed="#B" n="20"/>quia in Deum non cadit accidens. Ergo persone 
+      <lb ed="#B" n="21"/>liter. Ergo ut distinctae personae, et quia Pater 
+      <lb ed="#B" n="22"/>est persona, xml:ideo etiam Filius et Spiritus sanctur 
+      <lb ed="#B" n="23"/>sunt personae. Trium horum vera divinitas ex ipsis 
+      <lb ed="#B" n="24"/>praedicatis probatur, quia praedicata sive attribut 
+      <lb ed="#B" n="25"/>illa, quae hic angelo faciei et Spiritui sancto tribu 
+      <lb ed="#B" n="26"/>untur, nemini nisi uni vero Deo competunt. Nar 
+      <lb ed="#B" n="27"/>in tota historia Mosaica is, qui ut causa princep 
+      <lb ed="#B" n="28"/>Israëlitas per desertum deduxit, et ab Israëlitis ter 
+      <lb ed="#B" n="29"/>tatus plagas eisdem intulit, ut verus Deus Israëli 
+      <lb ed="#B" n="30"/>describitur. Prius patet ex dictis, posterius ex Num 
+      <lb ed="#B" n="31"/>14, 11. et seq. c. 32. 10. Deut. 1, v. 34. Psal. 78, 18 
+      <lb ed="#B" n="32"/>et 21. ete 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e1487">
+               <lb ed="#B" n="33"/>145. 2. De angelo faciei sermo est, hoc est, o 
+      <lb ed="#B" n="34"/>uno ex angelis ejus, qui solent in oculos illius 
+      star<lb ed="#B" n="35" break="no"/>ecpectantes, quid jubeat, hanc interpretationem pro 
+      <lb ed="#B" n="36"/>bat ex Vatablo, Calvino et Oecolampadio. P. 14 
+      <lb ed="#B" n="37"/>Resp. I. cui angelo tribuuntur opera mere ac vero 
+      <lb ed="#B" n="38"/>divina, solius Dei propria, ille non est angelus 
+      al<lb ed="#B" n="39" break="no"/>quis creatus, sed ἄκτισιος. Atqui angelo illi facie 
+      <lb ed="#B" n="40"/>de quo Esaias loquitur, tribuuntur opera mere e 
+      <lb ed="#B" n="41"/>vere divina, videlicet salvare, redimere, portare po 
+      <lb ed="#B" n="42"/>pulum. Ergo. 2. de illo angelo loquitur Esaias, de 
+      <lb ed="#B" n="43"/>quo Moyses testatur, quod in columna nubis et igni 
+      <lb ed="#B" n="44"/>praecesserit Israëlitas, quod nomen Dei in medio 
+      <lb ed="#B" n="45"/>illius, quod Aegyptios in mare praecipitaverit eto 
+      <lb ed="#B" n="46"/>Atqui ea non conveniunt angelo alicui creato; 3. e 
+      <lb ed="#B" n="47"/>beneficiis et operibus, quae huic angelo tribuuntur 
+      <lb ed="#B" n="48"/>Filius Dei peculiariter denominatur 273 et 78: 
+      <lb ed="#B" n="49"/>salvator et liberator, ac Hebr. 1, v. 3. 
+      apostolu<lb ed="#B" n="50" break="no"/>de ipso pronuntiat, quod portet omnia verbo virtutis 
+      <lb ed="#B" n="51"/>suae. 4. angelus ille, de quo propheta loquitur 
+      <lb ed="#B" n="52"/>Spiritui s. in ordine praeponitur. At si de augel 
+      <lb ed="#B" n="53"/>creato esset sermo, ille non posset Spiritui s. in 
+      or<lb ed="#B" n="54" break="no"/>dine praeponi, quia ipsimet Photiniani dicunt, 
+      Spiri<lb ed="#B" n="55" break="no"/>tum s. esse virtutem Dei, quae certe dignior es 
+      <lb ed="#B" n="56"/>creatis angelis. 5. nullus afferri potest Scriptura 
+      <lb ed="#B" n="57"/>locus, in quo creati angeli dicantur angeli faciei, qu 
+      <lb ed="#B" n="58"/>salvent, redimant et portent populum 
+      </p>
+            <p xml:id="zef3dd-d1e809-d1e1546">
+               <lb ed="#B" n="59"/>146. 3. Mirum est, eos qui credunt, Christum 
+      <lb ed="#B" n="60"/>esse eundem Deum, qui Pater est, per angelum faciei 
+      <!--507.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Dei ipsum intelligere, cum hoc procul dubio aliquid 
+      <lb ed="#B" n="62"/>onge minus denotet, et ex eo, quod quis angelus 
+      fo<lb ed="#B" n="63" break="no"/>ciei Dei nominatur, apertissime concludi possit, cum 
+      <lb ed="#B" n="64"/>nullo modo esse eundem Deum, cujus faciei ango 
+      <lb ed="#B" n="65"/>lus est, nisi forte quis sui ipsius angelus esse possi 
+      <lb ed="#B" n="66"/>p. 14. Resp. Plus infertur in consequente, quam 
+      <lb ed="#B" n="67"/>antecedens permittit, hoc enim tantum sequitur, ange 
+      <lb ed="#B" n="68"/>lum illum faciei esse aliam personam, quia mittens 
+      <lb ed="#B" n="69"/>et missus sunt distinctae personae, nequaquam ver 
+      <lb ed="#B" n="70"/>inferri potest, esse alium Deum, quia Patris mittem 
+      <lb ed="#B" n="71"/>tis et Filii a Patre missi est una atque eadem divina 
+      <lb ed="#B" n="72"/>essentia, quam ὁμοουσίαν non tollit Filii a Patr 
+      <lb ed="#B" n="73"/>missio, quia distinguendum inter missionem inferio 
+      <lb ed="#B" n="74"/>ris a superiori, et missionem aequalis ab aequali, 
+      <lb ed="#B" n="75"/>illam docendi causa vocare possumus auctoritativam 
+      <lb ed="#B" n="76"/>et potestativam, hanc vero voluntariam et oecono 
+      <lb ed="#B" n="77"/>micam sive dispensativam. Prior pugnat cum essei 
+      <lb ed="#B" n="78"/>tiae unitate et honoris aequalitate, nequaquam vero 
+      <lb ed="#B" n="79"/>posterior. Nec possunt Photiniani hoc negare, cur 
+      <lb ed="#B" n="80"/>et ipsi videri velint Patris et Filii aequalitatem 
+      ra<lb ed="#B" n="81" break="no"/>tione honoris et dignitatis asserere atque interin 
+      <lb ed="#B" n="82"/>negare nequeant, Filium a Patre in mundum esse 
+      <lb ed="#B" n="83"/>missum, inde Socinus contra Bellarminum et Wiek 
+      <lb ed="#B" n="84"/>p. 253. et Catech. Racoviens. p. 122. sic inferunt 
+      <lb ed="#B" n="85"/>Filius est aequalis Patri. Ergo non xml:idem nec unus 
+      <lb ed="#B" n="86"/>cum ipso Deus. Sed ludos faciunt in ambiguitat 
+      <lb ed="#B" n="87"/>vocis Deus, quae interdum sumitur οὐσιωδῶς, inter 
+      <lb ed="#B" n="88"/>dum vero ὑποσταιικῶς, quando Filius dicitur 
+      De<lb ed="#B" n="89" break="no"/>aequalis Joh. 5, v. 18., nomen Dei accipitur οὐσιω¬ 
+      <lb ed="#B" n="90"/>δῶς ac Patrem denotat, quo sensu recte dicitur. 
+      <lb ed="#B" n="91"/>Tilius est Patri aequalis. Ergo non est Pater vel 
+      <lb ed="#B" n="92"/>non est eadem persona, minus recte autem infertur 
+      <lb ed="#B" n="93"/>ergo non est unus cum Patre Deus. 4. Ex eo, quod 
+      <lb ed="#B" n="94"/>Spiritus s. Dei vel Jehorae spiritus appellatur, ne 
+      <lb ed="#B" n="95"/>cessario concludi potest, eum non exse eundem Deum 
+      <lb ed="#B" n="96"/>cujus spiritus est. Resp. xml:idem sophisma cum priore 
+      <lb ed="#B" n="97"/>Et qua fronte negare possunt Photiniani, Spiritum 
+      <lb ed="#B" n="98"/>s. non esse eundem cum Patre Deum, cum Spiritum 
+      <lb ed="#B" n="99"/>3. appellent Dei virtutem ac negent ipsum esse 
+      <lb ed="#B" n="100"/>creaturam? 5. Probari nequit, per vocem Jehoval 
+      <lb ed="#B" n="101"/>Deum Patrem significari. Nam etiamsi Jehoval 
+      <lb ed="#B" n="102"/>Deus ille non alius sit ex mente veritatis et nostra 
+      <lb ed="#B" n="103"/>quam Pater, tamen ex mente Trinitariorum Jehoval 
+      <lb ed="#B" n="104"/>plerumque est alius quam Deus Pater, xml:id est, Deu 
+      <lb ed="#B" n="105"/>ille trinus et unus. Quod si ita est, quomodo is 
+      <lb ed="#B" n="106"/>qui est istius trini et unius Dei angelus vel Spiri 
+      <lb ed="#B" n="107"/>tus, potest esse Deus ille xml:idem unus et trinus? Resp. 
+      <lb ed="#B" n="108"/>turpis sophisticatio in voce Jehovah, quae itidem 
+      <lb ed="#B" n="109"/>quandoque essentialiter, quandoque personaliter ac 
+      <lb ed="#B" n="110"/>cipitur. Pater est Jehovah, Filius est Jehovah, 
+      Sp<lb ed="#B" n="111" break="no"/>ritus s. est Jehovah, nec tamen plures sunt Jehovae 
+      <lb ed="#B" n="112"/>sed unus est Jehovah, quia essentia divina tribu 
+      <lb ed="#B" n="113"/>hisce personis communis non est quartum aliquio 
+      <lb ed="#B" n="114"/>realiter ab his tribus personis distinctum, sed unu 
+      <lb ed="#B" n="115"/>Ille verus Jehovah est Pater, Filius et Spiritus s. 
+      <lb ed="#B" n="116"/>ac hae tres personae sunt unus verus Deus 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

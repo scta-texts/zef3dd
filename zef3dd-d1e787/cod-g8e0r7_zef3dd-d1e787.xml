@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="418"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e787"><!-- zef3dd-l3c7 -->
+            <head xml:id="zef3dd-d1e787-Hd1e101">Caput 7</head>
+            <head xml:id="zef3dd-d1e787-Hd1e103" type="question-title">Quartum argumentum ex Novo Testamento pro adstruendo trinitatis mysterio ex novo testamento deductum</head>
+            <p xml:id="zef3dd-d1e787-d1e106">
+               <lb ed="#B" n="4"/>CAPUT VII 
+        <lb ed="#B" n="5"/>CONTINENS QUARTUM ARGU 
+        <lb ed="#B" n="6"/>MENTUM EX N. T. PRO 
+      ADSTRU<lb ed="#B" n="7" break="no"/>ENDO TRINITATIS MYSTERIO 
+        <lb ed="#B" n="8"/>DEDUCTUM. 
+    </p>
+            <p xml:id="zef3dd-d1e787-d1e119">
+               <lb ed="#B" n="9"/>108. Quartum principale fundamentum ducimu 
+      <lb ed="#B" n="10"/>ex 1. Joh. 5, v. 7: Tres sunt, qui testimonium 
+      dan<lb ed="#B" n="11" break="no"/>in coelo, Pater, Verbum et Spiritus s., et hi tres 
+      <lb ed="#B" n="12"/>. unum sunt. Ex quo dicto (demonstrata et asserta 
+      <lb ed="#B" n="13"/>prius canonica ejusdem auctoritate) demonstravimus, 
+      <lb ed="#B" n="14"/>1. Trinitatis nomen; 2. personarum in divinis 
+      plu<lb ed="#B" n="15" break="no"/>ralitatem; 3. personarum trinitatem; 4. spiritus s 
+      <lb ed="#B" n="16"/>personalitatem; 5. cujusque personae proprietatem; 
+      <lb ed="#B" n="17"/>6. ordinem inter personas deitatis; 7. trium illarum 
+      <lb ed="#B" n="18"/>personarum ὁμοουσίαν et aequalitatem sive 
+      consub<lb ed="#B" n="19" break="no"/>stantialitatem; 8. confessionis de trinitate neces 
+      <lb ed="#B" n="20"/>sitatem. Videantur disputationes nostrae publicae 
+      <lb ed="#B" n="21"/>de et ex hoc dicto institutae, quae habentur parti 
+      <lb ed="#B" n="22"/>2. Disp. theol. Socinus animadversionum suarum 
+      <lb ed="#B" n="23"/>defensionem in hoc ipso loco finit, morte enim 
+      <lb ed="#B" n="24"/>praereptus vel aliis negotiis impeditus 
+      absolver<lb ed="#B" n="25" break="no"/>eam non potuit, proinde necessarium non est, ut 
+      <lb ed="#B" n="26"/>plura de hoc loco dicamus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

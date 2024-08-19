@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="25"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e123"><!-- zef3dd-l1c3 -->
+            <head xml:id="zef3dd-d1e123-Hd1e101">Caput 3</head>
+            <head xml:id="zef3dd-d1e123-Hd1e103" type="question-title">De divina Scripturae sacrae auctoritate</head>
+            <p xml:id="zef3dd-d1e123-d1e106">
+      <!--98.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="55"/>CAPUT III. 
+      <lb ed="#B" n="56"/>DE DIVINA SCRIPTURAE SACRAE 
+<lb ed="#B" n="57"/>AUCTORITATE
+  </p>
+            <p xml:id="zef3dd-d1e123-d1e119">
+               <lb ed="#B" n="58"/>33. Ex causa efficiente principali Scripturae? 
+      <lb ed="#B" n="59"/>S. quae Deus est, divina Scripturae auctoritas oritur, 
+      <lb ed="#B" n="60"/>ae dependet. Quia enim Scriptura S. Deum auctorem 
+      <lb ed="#B" n="61"/>habet, cujus immediata inspiratione prophetae, 
+      evan<lb ed="#B" n="62" break="no"/>gelistae et apostoli scripserunt, inde atque xml:ideo 
+      <lb ed="#B" n="63"/>divinam auctoritatem obtinet; quia est θεόπνευστος 
+      <lb ed="#B" n="64"/>divina inspiratione edita ac promulgata, xml:ideo es: 
+      <lb ed="#B" n="65"/>κὑτόπισιος, τὸ πισιν ἀφ᾽ ἑαυτῆς ἔχουσα. Permagni 
+      <lb ed="#B" n="66"/>vero interest, Scripturae divinam suam auctoritatem 
+      <lb ed="#B" n="67"/>sartam tectam constare. Ut enim recte monet 
+      <lb ed="#B" n="68"/>Augustinus libr. I. de doctr. Christ. c. 37. Titubabit. 
+      <lb ed="#B" n="69"/>fides, si divinarum Scripturarum vacillet auctoritas 
+      <lb ed="#B" n="70"/>Nec minoris aestimandum, cognatum ζήτημα, unde 
+      <lb ed="#B" n="71"/>apud nos Scriptura suam auctoritatem obtineat! 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e152">
+               <lb ed="#B" n="72"/>34. Potest enim de Scripturae auctoritate dupliciter 
+      <lb ed="#B" n="73"/>quaeri. 1. absolute, unde Scriptura in se ac per 
+      se<lb ed="#B" n="74" break="no"/>considerata divinam suam auctoritatem habeat? 2. 
+      re<lb ed="#B" n="75" break="no"/>late, et quidem dupliciter. I. respectu nostri, unde 
+      <lb ed="#B" n="76"/>Scripturae auctoritas nobis innotescat, ut eam pro vero 
+      <lb ed="#B" n="77"/>livina et canonica habeamus. 2. respectu ecclesiae 
+      <lb ed="#B" n="78"/>rtive comparate, quando quaeritur, an Scripturae ar 
+      <lb ed="#B" n="79"/>ecclesiae major sit auctoritas? 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e173">
+               <lb ed="#B" n="80"/>35. Quando de Scripturae auctoritate absolute 
+      <lb ed="#B" n="81"/>quaeritur, non potest nec debet aliter responder 
+      <lb ed="#B" n="82"/>quam divinam illam Scripturae auctoritatem a solo 
+      <lb ed="#B" n="83"/>Deo esse ac dependere, cum dignitas et praestantia 
+      <lb ed="#B" n="84"/>effectus a dignitate causae unice originem trahat. 
+      <lb ed="#B" n="85"/>Nemesius de opif. homin. c. 2 ἡ τῶν θείων λογικῶν 
+      <lb ed="#B" n="86"/>διδάσκαλία τὸ πισιὸν ἀφ᾽ ἑαυτῆς ἔχει διὰ τὸ θεό¬ 
+      <lb ed="#B" n="87"/>πνευστον εἶναι, quo etiam referenda sunt illustria 
+      <lb ed="#B" n="88"/>dicta Raymundi de Sabaude et Baptistae Mantuani 
+      <lb ed="#B" n="89"/>quorum prius adductum fuit tom. 1. Locor. §. 26. 
+      <lb ed="#B" n="90"/>posterius §. 32. 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e199">
+               <lb ed="#B" n="91"/>36. Atque hactenus nobiscum consentire videri 
+      <lb ed="#B" n="92"/>volunt pontificii. Sed si porro quaeratur, unde 
+      di<lb ed="#B" n="93" break="no"/>rina illa Scripturae auctoritas nobis innotescat, ibi 
+      <lb ed="#B" n="94"/>in divortia sententiarum scindimur. Nostra haec est 
+      <lb ed="#B" n="95"/>sententia, quod ratione objecti, xml:id est, eorum, apud 
+      <lb ed="#B" n="96"/>quos Scriptura divinam auctoritatem habet vel habere 
+      <lb ed="#B" n="97"/>debet, distinguendum sit inter eos, qui sunt in 
+      ee<lb ed="#B" n="98" break="no"/>elesia, et eos, qui sunt extra ecclesiam. Qui 
+      sun<lb ed="#B" n="99" break="no"/>n ecclesia, illi sponte agnoscunt divinam Scripturae. 
+      <lb ed="#B" n="100"/>auctoritatem, eamque αὐτόπιστον et ἀξιόπιστον esse 
+      <lb ed="#B" n="101"/>statuunt. Quomodo enim ecclesiae filii de veritate 
+      <lb ed="#B" n="102"/>fundamenti, cui ecclesia innititur, dubitare poterunt? 
+      <lb ed="#B" n="103"/>uomodo de auctoritate verbi divini in Scripturis 
+      <lb ed="#B" n="104"/>contenti possunt quaerere, qui vim et efficaciam 
+      <lb ed="#B" n="105"/>verbi in corde suo ipsimet sentiunt, et per illud ad 
+      <lb ed="#B" n="106"/>ritam aeternam sese regenitos esse agnoscunt? Qui 
+      <lb ed="#B" n="107"/>sunt extra ecclesiam, illi sunt in duplici differentia 
+      <lb ed="#B" n="108"/>vel enim Scripturas rejiciunt, vel earum auctoritatem 
+      <lb ed="#B" n="109"/>ignorant. Priorum duae sunt classes. Quidam totam 
+      <lb ed="#B" n="110"/>Scripturam rejiciunt, ut gentiles; quidam vero partem 
+      <lb ed="#B" n="111"/>duntaxat Scripturae rejiciunt, ut Judaei, qui V. T. 
+      <lb ed="#B" n="112"/>recipiunt, N. vero repudiant. Qui ex parte duntaxa 
+      <lb ed="#B" n="113"/>Scripturam rejiciunt, illi ex ea parte, quam recipiunt, 
+      <!--99.xml-->
+      <pb ed="#B" n="26"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>erroris convinci, et ad recipiendam totius Scriptura 
+      <lb ed="#B" n="2"/>auctoritatem perduci possunt. Qui totam Scripturas 
+      <lb ed="#B" n="3"/>rejiciunt, eorum quidam sunt sanabiles, qui afferum 
+      <lb ed="#B" n="4"/>animum moderatum ac discendi cupidum; quidar 
+      <lb ed="#B" n="5"/>vero insanabiles, qui afferunt animum praefractum 
+      <lb ed="#B" n="6"/>et obstinatum, ac contumaciter veritati resistunt. 
+      <lb ed="#B" n="7"/>Act. 13, v. 16, c. 19, v. 24 insanabiles, perinde ui 
+      <lb ed="#B" n="8"/>desperati aegroti prognosticis sunt relinquendi. Tit. 
+      <lb ed="#B" n="9"/>v. 16. Sanabiles de Scripturae auctoritate tribus test. 
+      <lb ed="#B" n="10"/>moniorum generibus convinci possunt. Primum es 
+      <lb ed="#B" n="11"/>internum Spiritus cancti testimonium, qui ut 
+      reddi<lb ed="#B" n="12" break="no"/>testimonium Spiritui credentium, quod sint filii Der 
+      <lb ed="#B" n="13"/>Rom. 8, v. 16 ita quoque efficaciter eos convincit 
+      <lb ed="#B" n="14"/>quod in Scripturis vox Patris coelestis contineatur 
+      <lb ed="#B" n="15"/>ac solus Deus est xml:idoneus et authenticus testis. Ad 
+      <lb ed="#B" n="16"/>hoc testimonium pertinet vivus piorum sensus in 
+      <lb ed="#B" n="17"/>quotidiana invocatione et exercitiis poenitentiae ad 
+      <lb ed="#B" n="18"/>fidei, virtus consolandi et roborandi animum adver 
+      <lb ed="#B" n="19"/>sus omnis generis adversitates, tentationes, persecu 
+      <lb ed="#B" n="20"/>tiones ete. quam in lectione et meditatione Scriptura 
+      <lb ed="#B" n="21"/>pii quotidie experiuntur. Secundum continet interna 
+      <lb ed="#B" n="22"/>κριτήρια ipsi Scripturae insita, quorum quaedam 
+      <lb ed="#B" n="23"/>petuntur ex causis, quaedam ex effectis, quaedam 
+      <lb ed="#B" n="24"/>ex subjecto, quaedam ex adjunctis: Talia κριτήρια 
+      <lb ed="#B" n="25"/>sunt, antiquitas, rerum majestas, sermonis 
+      sin<lb ed="#B" n="26" break="no"/>gularitas, perpetua conformitas, prophetiae d 
+      <lb ed="#B" n="27"/>rebus futuris dignitas, complementi veritas, mira 
+      <lb ed="#B" n="28"/>culorum, quibus doctrina illa confirmata est, divini 
+      <lb ed="#B" n="29"/>tas, diabolici adversus eam furoris immanitas, ipsius 
+      <lb ed="#B" n="30"/>Scripturae in persuadendo et permovendo efficacita. 
+      <lb ed="#B" n="31"/>ete. Tertium continet omnis generis testimonia externo 
+      <lb ed="#B" n="32"/>inter quae eminet ecclesiae testificatio, ad quam 
+      a<lb ed="#B" n="33" break="no"/>cedit martyrum obsignatio, illi enim doctrinam in 
+      <lb ed="#B" n="34"/>Scripturis traditam sanguine suo confirmarunt. Item 
+      <lb ed="#B" n="35"/>poenae blasphemorum et persecutorum, qui 
+      doctrinam<lb ed="#B" n="36" break="no"/>illam contumaciter oppugnarunt. Quo pertinent cum 
+      <lb ed="#B" n="37"/>primis αὐτόγραφα evangelistarum et apostolorum 
+      <lb ed="#B" n="38"/>quae in primitiva ecclesia adhuc extiterunt, ac suo 
+      <lb ed="#B" n="39"/>cessores proximi de illis testimonium reddere pe 
+      <lb ed="#B" n="40"/>tuerunt 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e344">
+               <lb ed="#B" n="41"/>37. Pontificii vero contra statuunt, omnem Scriptura 
+      <lb ed="#B" n="42"/>auctoritatem quoad nos unice et insolidum ab 
+      e<lb ed="#B" n="43" break="no"/>clesia dependere. Cusanus Epist. 2 ad Bohem 
+      <lb ed="#B" n="44"/>Scripturarum auctoritas constituta est ab ecclesia 
+      <lb ed="#B" n="45"/>approbatione. Eccius in Enchirid. in cap. de auctor 
+      <lb ed="#B" n="46"/>eccles. resp. ad 3 object. haeret. Scriptura non es 
+      <lb ed="#B" n="47"/>authentica nisi ecclesiae auctoritate. Quidam 
+      Gallu<lb ed="#B" n="48" break="no"/>referente Sleidano in comm. rer. gest. ann. 1553 nor 
+      <lb ed="#B" n="49"/>plus tribuit Epistolis Pauli quam fabulis 
+      Aesop<lb ed="#B" n="50" break="no"/>absque ecclesiae auctoritate. Johannes Maria Ver 
+      <lb ed="#B" n="51"/>ratus Carmelitanus scribit, Scripturas firmitatem non 
+      <lb ed="#B" n="52"/>habere nisi ab ecclesiae traditione. Piggius libr. 1. 
+      <lb ed="#B" n="53"/>Hierarch. eccles. c. 2. Omnis, quae nunc apud noc 
+      <lb ed="#B" n="54"/>est, Scripturarum auctoritas ab ecclesiae auctoritas 
+      <lb ed="#B" n="55"/>dependet necessario. Andradius libr. 2 defens. Cono 
+      <lb ed="#B" n="56"/>Trident. pag. 157. Nihil quicquam inest divinitati 
+      <lb ed="#B" n="57"/>Scripturae, quae nos ad credendum, quae in illi 
+      <lb ed="#B" n="58"/>continentur religione aliqua constringat, sed eo 
+      <lb ed="#B" n="59"/>clesiae tanta vis est et amplitudo. Thomas Bozius 
+      <lb ed="#B" n="60"/>libr. 16 de sign. eceles. c. 10. Quicquid divina 
+      <!--99.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Scriptura auctoritatis habet. xml:id totum fuit atque est 
+      <lb ed="#B" n="62"/>ab ecclesia, nam singuli ejus libri confecti sunt a 
+      <lb ed="#B" n="63"/>filiis ecclesiae. Bellarm. libr. 4 de verbo Dei e. 4. 
+      <lb ed="#B" n="64"/>Non aliunde habemus, Scripturam esse divinam, et 
+      <lb ed="#B" n="65"/>qui sint libri sacri quam ex traditione non scripta. 
+      <lb ed="#B" n="66"/>libr. 2 de Sacram. c. 25. Omnium dogmatum firmi 
+      <lb ed="#B" n="67"/>tas pendet ab auctoritate praesentis ecclesiae. 
+      Sta<lb ed="#B" n="68" break="no"/>plet. in relect. princip. doctrin. contr. 4. p. 495. 
+      <lb ed="#B" n="69"/>ecclesia taxavit Scripturas. Item, ecclesia facit 
+      <lb ed="#B" n="70"/>it vera esse a nobis credantur, quae in Scripturis 
+      <lb ed="#B" n="71"/>continentur. In triplic. adv. Witaker. Propter solan 
+      <lb ed="#B" n="72"/>ecclesiae auctoritatem credimus Scripturae sacrae 
+      <lb ed="#B" n="73"/>Pistorius in Hodeget. p. 2. Ut libri biblici pro 
+      <lb ed="#B" n="74"/>verbo Dei a nobis agnosci debeant et possint, unica 
+      <lb ed="#B" n="75"/>causa est ecclesiae testimonium et mandatum, nullo 
+      <lb ed="#B" n="76"/>Scriptura, nulla proprietas, nullus proprius Spiri 
+      <lb ed="#B" n="77"/>tus pag. 8. sed tantum catholica, perpetua tota eo 
+      <lb ed="#B" n="78"/>clesia Christi. Vitus Miletus in discurs. 600 error 
+      <lb ed="#B" n="79"/>Hesshusii pag. 21. Dicimus Scripturam sacram 
+      <lb ed="#B" n="80"/>sine auctoritate ecclesiae, nec tantum quidem vali 
+      <lb ed="#B" n="81"/>turam, quoniam Aesopi valent fabulae, has enim 
+      <lb ed="#B" n="82"/>Aesopi esse fabulas, nec adeo incongruentes 
+      homi<lb ed="#B" n="83" break="no"/>num moribus certa traditione hominum constat: 
+      <lb ed="#B" n="84"/>Scripturas vero esse canonicas et a Deo 
+      immediat<lb ed="#B" n="85" break="no"/>inspiratas, fideliter et incorrupte scriptas et ad 
+      no<lb ed="#B" n="86" break="no"/>transmissas, si ecclesiae tollas auctoritatem et tradi 
+      <lb ed="#B" n="87"/>tionem, unde obsecro olearii isti cognoscent 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e453">
+               <lb ed="#B" n="88"/>38. Antequam contra hunc pontificiorum errorem 
+      <lb ed="#B" n="89"/>argumenta proferamus, notandum. 1. Aliud est eo 
+      <lb ed="#B" n="90"/>lesiam testari de Scriptura et ejus auctoritate δια¬ 
+      <lb ed="#B" n="91"/>κονικῶς ministerialiter, aliud eam conferre Scripturae 
+      <lb ed="#B" n="92"/>suam auctoritatem δικαστικῶς praetorie et judicialiter. 
+      <lb ed="#B" n="93"/>Ecelesiae ministerio et testificatione deducimur ad 
+      <lb ed="#B" n="94"/>agnoscendam Scripturae auctoritatem, sed ex eo in 
+      <lb ed="#B" n="95"/>ferri nequit, quod auctoritas Scripturae sive in se 
+      <lb ed="#B" n="96"/>live quoad nos ab ecclesiae auctoritate unice 
+      pen<lb ed="#B" n="97" break="no"/>deat, quia quando jam cognovimus Scripturam esse 
+      <lb ed="#B" n="98"/>divinam, et verbum Dei continere, non amplius 
+      cre<lb ed="#B" n="99" break="no"/>limus scripturae propter ecclesiam, sed propter 
+      <lb ed="#B" n="100"/>seipsam, quia scilicet est vox Dei, qui est αὐταλή 
+      <lb ed="#B" n="101"/>θεια, ac proinde αὐτόπιστος, cui per se, propter se 
+      <lb ed="#B" n="102"/>et immediate credendum esse novimus. 2. Aliud est 
+      <lb ed="#B" n="103"/>ex ecclesiae testimonio innotescere nobis Scripturae 
+      <lb ed="#B" n="104"/>auctoritatem, aliud vero ex solo ecclesiae testimonio 
+      <lb ed="#B" n="105"/>omnem Scripturae auctoritatem quoad nos unice de 
+      <lb ed="#B" n="106"/>pendere. Prius concedimus, posterius negamus, quia 
+      <lb ed="#B" n="107"/>praeter ecclesiae testimonium aliae duae classes 
+      te<lb ed="#B" n="108" break="no"/>timoniorum auctoritatem Scripturae demonstrantium 
+      <lb ed="#B" n="109"/>lantur, et in illa ipsa classe, quae ecclesiae test. 
+      <lb ed="#B" n="110"/>monium continet, etiam alia externa testimonia ex 
+      <lb ed="#B" n="111"/>omni scil. hominum genere proferri possunt, interim 
+      <lb ed="#B" n="112"/>non negamus ecclesiae testificationem in hac class 
+      <lb ed="#B" n="113"/>reliquis externis testimoniis proferendam. 3. Aliue 
+      <lb ed="#B" n="114"/>est loqui de testimonio ecclesiae primitivae, quae ab 
+      <lb ed="#B" n="115"/>apostolis sacrorum librorum autographa accepit, et 
+      <lb ed="#B" n="116"/>fidele testimonium de illis posteritati tradidit, aliuo 
+      <lb ed="#B" n="117"/>vero de auctoritate praesentis ecclesiae. Pontifici 
+      <lb ed="#B" n="118"/>quando de ecclesiae circa Scripturas autoritate lo 
+      <lb ed="#B" n="119"/>quuntur, intelligunt ecclesiam Romanam praesentem 
+      <lb ed="#B" n="120"/>h. e. ut ultima analysis docet, pontificem Romanum, 
+      <!--100.xml-->
+      <pb ed="#B" n="27"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>sicut alibi plenius fuit demonstratum. Hic sufficia 
+      <lb ed="#B" n="2"/>adducere locum ex jure canonico e. Si Romano 
+      <lb ed="#B" n="3"/>rum. dist. 19. Si Vetus Novumque Testamentusr 
+      <lb ed="#B" n="4"/>sunt recipienda, quod de his recipiendis sanci 
+      <lb ed="#B" n="5"/>Papae Innocentii prolata videatur etiam sententia 
+      <lb ed="#B" n="6"/>restat quod decretales epistolae Romanorum por 
+      <lb ed="#B" n="7"/>tificum sunt recipiendae, quoniam inter ipsos cano 
+      <lb ed="#B" n="8"/>nes unum B. Leonis Papae capitulum constat ess 
+      <lb ed="#B" n="9"/>permiaetum, quo ita omnia decretalia constituta 
+      sedi<lb ed="#B" n="10" break="no"/>apostolicae custodiri mandantur, ut si quis in illo 
+      <lb ed="#B" n="11"/>commiserit, veniam sibi denegari noveri 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e557">
+               <lb ed="#B" n="12"/>39. Hisce praemissis contra pontificem illam 
+      hy<lb ed="#B" n="13" break="no"/>pothesin sic concludimus. 1. a causa efficiente prir 
+      <lb ed="#B" n="14"/>cipali. Auctoritas pendens a solo Deo, non pende 
+      <lb ed="#B" n="15"/>ab auctoritate ecclesiae. Scripturae sacrae et cano 
+      <lb ed="#B" n="16"/>nicae auctoritas pendet a solo Deo. Ergo. Assum 
+      <lb ed="#B" n="17"/>tum probatur. 1. quia effectum suam dignitatem e 
+      <lb ed="#B" n="18"/>praestantium obtinet a sua causa. Jam vero non 
+      <lb ed="#B" n="19"/>ecclesia, sed Deus est Scripturae auctor. 2. auctorita 
+      <lb ed="#B" n="20"/>ac majestas Scripturae est ipsi divinitus insita, est 
+      <lb ed="#B" n="21"/>ipsi interna, immediate et per se inhaerens, proindi 
+      <lb ed="#B" n="22"/>non dependet aliunde a quodam principio externo 
+      <lb ed="#B" n="23"/>nec mutatur eodem externo mutato, sed semper 
+      <lb ed="#B" n="24"/>eodem modo sese habet. Excipiunt: Distinquendum 
+      <lb ed="#B" n="25"/>esse inter auctoritatem Scripturae in se et quoad 
+      no<lb ed="#B" n="26" break="no"/>consideratam, priorem concedunt dependere a Deo 
+      <lb ed="#B" n="27"/>posteriorem vero ab ecclesia. Bellarminus libr. 
+      <lb ed="#B" n="28"/>de verbo Dei c. 10. Christus non equit testimone 
+      <lb ed="#B" n="29"/>hominum pro se Joh. 5 sed tamen testimoniis 
+      hom<lb ed="#B" n="30" break="no"/>num utebatur propter alios Joh. 1 et 15 sic 
+      Scr<lb ed="#B" n="31" break="no"/>ptura pro se non indiget testimonio hominum, tamer 
+      <lb ed="#B" n="32"/>propter nos indiget ecclesiae testimonio, quia non 
+      <lb ed="#B" n="33"/>cumus certi, qui libri sint canonici. Resp. Nos 
+      <lb ed="#B" n="34"/>est duplex, sed una Scripturae auctoritas, eademqu 
+      <lb ed="#B" n="35"/>divina, non dependens ab ecclesiae auctoritate, 
+      se<lb ed="#B" n="36" break="no"/>a solo Deo. Auctoritas Scripturae quoad nos nihi 
+      <lb ed="#B" n="37"/>aliud est, quam manifestatio et cognitio unicae illiu 
+      <lb ed="#B" n="38"/>livinae et summae auctoritatis, quae Scripturae es 
+      <lb ed="#B" n="39"/>interna atque insita. Ecclesia igitur non confer 
+      <lb ed="#B" n="40"/>Scripturae novam aliquam auctoritatem quoad 
+      no<lb ed="#B" n="41" break="no"/>sed testificatione sua ad agnitionem illius veritati. 
+      <lb ed="#B" n="42"/>nos deducit. Concedimus, ecelesiam esse Scriptura 
+      <lb ed="#B" n="43"/>sacrae 1. testem. 2. custodem. 3. vindicem. 4. prae 
+      <lb ed="#B" n="44"/>conem, et 5. interpretem, sed negamus ex eo effio 
+      <lb ed="#B" n="45"/>quod auctoritas Scripturae sive simpliciter, sive quoad 
+      <lb ed="#B" n="46"/>nos ab ecclesia pendeat, et quidem unice pendeat 
+      <lb ed="#B" n="47"/>Quemadmodum enim literarum regiarum vel 
+      prim<lb ed="#B" n="48" break="no"/>cipalium auctoritas non pendet ex tabularii eas affe 
+      <lb ed="#B" n="49"/>rentis et de illis testificantis testimonio, nec aui 
+      <lb ed="#B" n="50"/>gemmarumve praestantia dependet ex testimonio a 
+      <lb ed="#B" n="51"/>fificis; sed est interna literarum, auri ac gemmarum 
+      <lb ed="#B" n="52"/>auctoritas, quam tabularius et artifex suo duntaxa 
+      <lb ed="#B" n="53"/>testimonio nobis manifestant: ita quoque Scriptura 
+      <lb ed="#B" n="54"/>auctoritas non pendet ex ecclesiae de ea testificanti 
+      <lb ed="#B" n="55"/>auctoritate, sed est Scripturae sacrae interna atqu 
+      <lb ed="#B" n="56"/>insita divina auctoritas, de qua ecclesia testatur, a 
+      <lb ed="#B" n="57"/>proinde ecclesia non confert aliquam Scripturis 
+      au<lb ed="#B" n="58" break="no"/>ctoritatem, nec est causa sola vel unica, nec summ 
+      <lb ed="#B" n="59"/>vel praecipua, propter quam Scripturis credamus 
+      <lb ed="#B" n="60"/>sed prima et summa causa, ut Scripturam agnoses 
+      <!--100.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>mus esse divinam et pro divina habeamus, est 
+      Spi<lb ed="#B" n="62" break="no"/>ritus sanctus in Scriptura loquens et testificans, quod 
+      <lb ed="#B" n="63"/>Spiritus sit veritas 1. Joh. 5, v. 6. Secundo loco 
+      <lb ed="#B" n="64"/>ponenda sunt κριτήρια interna, tertio testimonia 
+      <lb ed="#B" n="65"/>externa, quae ab omni hominum genere petuntur. 
+      <lb ed="#B" n="66"/>Ordine quidem testificatio ecclesiae, per quam 
+      a<lb ed="#B" n="67" break="no"/>Scripturas legendas invitamur, potest esse primum 
+      <lb ed="#B" n="68"/>testimonium, non autem dignitate vel persuadenò 
+      <lb ed="#B" n="69"/>efficacia. Refero huc verba Bellarmini libr. 3 de 
+      <lb ed="#B" n="70"/>Justif. c. 3. S. At inquit: Probatio ecclesiae facit 
+      <lb ed="#B" n="71"/>ut omnibus innotescat, objectum illud esse revelatum 
+      <lb ed="#B" n="72"/>a Deo et propter hoc certum et indubitatum, non 
+      <lb ed="#B" n="73"/>autem tribuit firmitatem verbo Dei aliquid revo 
+      <lb ed="#B" n="74"/>lantii 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e700">
+               <lb ed="#B" n="75"/>40. 2. A causa formali. Quodeumque ante eo 
+      <lb ed="#B" n="76"/>elesiae judicium et testimonium suam auctoritatem 
+      <lb ed="#B" n="77"/>obtinet, ejus auctoritas non pendet ab ecclesias 
+      <lb ed="#B" n="78"/>Judicio ac testimonio. Sed Scriptura ante ecclesiae 
+      <lb ed="#B" n="79"/>judicium suam obtinet auctoritatem. Ergo. Exci 
+      <lb ed="#B" n="80"/>piunt, Scripturas quoad nos non obtinere 
+      auctorita<lb ed="#B" n="81" break="no"/>tem, antequam accedat ecclesiae testimonium et 
+      ju<lb ed="#B" n="82" break="no"/>dicium. Resp. Scripturae in se ac per se sum 
+      <lb ed="#B" n="83"/>authenticae, αὐτόπιστοι καὶ ἀξιόπιστοι ante externum 
+      <lb ed="#B" n="84"/>ecclesiae testimonium, quia sunt θεόπνευστοι. Jam 
+      <lb ed="#B" n="85"/>vero illud est authenticum, αὐτόπιστον καὶ ἀξιόπι 
+      <lb ed="#B" n="86"/>σον, cui per se debetur fides, quod nullo alio 
+      extrin<lb ed="#B" n="87" break="no"/>seco accedente ex se fidem et auctoritatem habet, a 
+      <lb ed="#B" n="88"/>proinde authenticum esse, et fidem atque auctoritatem 
+      <lb ed="#B" n="89"/>obtinere sunt relata, quae se mutuo ponunt. Scri 
+      <lb ed="#B" n="90"/>pturae sunt authenticae ante ecclesiae testimonium 
+      <lb ed="#B" n="91"/>Ergo etiam fides illis debetur ante ecclesiae 
+      testi<lb ed="#B" n="92" break="no"/>monium 
+      <!-- line coord error -->
+      <lb ed="#B" n="93"/>Cum epistola Pauli ad Romanos per 
+      <lb ed="#B" n="94"/>17 <!-- line coord error -->
+      <lb ed="#B" n="95"/>Phoeben ministram illis traderetur, ea apud ipsos 
+      <lb ed="#B" n="96"/>statim fuit ac esse etiam debuit authentica, antequam 
+      <lb ed="#B" n="97"/>ecclesiae testimonium accederet. Utique ergo 
+      authen<lb ed="#B" n="98" break="no"/>tica illius epistolae auctoritas etiam quoad homines 
+      <lb ed="#B" n="99"/>considerata non pendet ab ecclesiae testimonio 
+      <lb ed="#B" n="100"/>Eadem est ratio reliquarum Scripturae partium, cum 
+      <lb ed="#B" n="101"/>omnes sint homogeneae, divinam scilicet atque 
+      insi<lb ed="#B" n="102" break="no"/>tam auctoritatem obtinentes. Quaerimus autem et 
+      <lb ed="#B" n="103"/>Pontificiis, quid tandem ecclesiae nomine intelligant. 
+      <lb ed="#B" n="104"/>quando ab ecclesiae auctoritate Scripturae auctorita 
+      <lb ed="#B" n="105"/>tem pendere asserunt? Si praesentem, pendebit Scri 
+      <lb ed="#B" n="106"/>pturae auctoritas a judicio Romani pontificis, illum 
+      <lb ed="#B" n="107"/>enim ecelesiae caput constituunt et honorifico 
+      ec<lb ed="#B" n="108" break="no"/>elesiae nomine intelligunt. Bellarm. libr. 4 de por 
+      <!-- line coord error -->
+      <lb ed="#B" n="109"/>ultimum judicium est summi pontificis. 
+  <lb ed="#B" n="110"/>tif. e. 1. <!-- line coord error -->
+      <lb ed="#B" n="111"/>c. 2. ipsa infallibilitas non est in coetu 
+      consiliario<lb ed="#B" n="112" break="no"/>rum, vel in concilio episcoporum, sed in solo 
+      pon<lb ed="#B" n="113" break="no"/>tifice. Gregor. de Valent. tom. 3 commentar. in 
+      <lb ed="#B" n="114"/>Thom. pag. viges. quart. Nomine ecclesiae intella 
+      <lb ed="#B" n="115"/>gimus ejus caput Romanum pontificem. Jam vero 
+      <lb ed="#B" n="116"/>perquam absurdum est statuere, quod auctoritas 
+      Ser<lb ed="#B" n="117" break="no"/>pturae quoad nos unice pendeat a testimonio 
+      Ro<lb ed="#B" n="118" break="no"/>mani pontificis, cum apud myriades Christianorur 
+      <lb ed="#B" n="119"/>Scriptura divinam auctoritatem obtineat, qui de 
+      Rom<lb ed="#B" n="120" break="no"/>pontifice vel nihil audiverunt, vel judicium illius 
+      <lb ed="#B" n="121"/>non unius assis aestimant. Si primitivam ecclesiam 
+      <lb ed="#B" n="122"/>intelligunt, ad patrum et conciliorum testimonia 
+      no<lb ed="#B" n="123" break="no"/>remittent. Atqui illis omnibus antiquior est Scri¬ 
+      <!--101.xml-->
+      <pb ed="#B" n="28"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>ptura, atque ante illorum testificationem divinam 
+      <lb ed="#B" n="2"/>apud ecclesiae filios obtinuit auctoritatem, alias 
+      se<lb ed="#B" n="3" break="no"/>queretur hoc absurdum, quod temporibus Patrum et 
+      <lb ed="#B" n="4"/>conciliorum testimonium antegressis Scriptura non 
+      <lb ed="#B" n="5"/>fuerit habita divina. Respondeant etiam nobis, ar 
+      <lb ed="#B" n="6"/>certius constet, libros illos, in quibus testimonia de 
+      <lb ed="#B" n="7"/>Scripturae auctoritate exstant, esse patrum illorum 
+      <lb ed="#B" n="8"/>quorum nomina prae se ferunt, quam libros illos, de 
+      <lb ed="#B" n="9"/>quibus testantur, esse sacros et divinos verbum Dei 
+      <lb ed="#B" n="10"/>nobis proponentes? De priore propter multa ψευδε¬ 
+      <lb ed="#B" n="11"/>πίγραφα, supposititia et adulterina scripta 
+      saepiu<lb ed="#B" n="12" break="no"/>dubitatur absque ulla verae fidei jactura. Posterius 
+      <lb ed="#B" n="13"/>omnibus vere piis certo constat ex internis Scripturae 
+      <lb ed="#B" n="14"/>κριτηρίοις et Spiritus sancti testimonio interno. Re 
+      <lb ed="#B" n="15"/>fero huc insignem locum ex Bellarmino, qui verita 
+      <lb ed="#B" n="16"/>tis fulgore coactus sic scribit libr. 1 de verbo Dei 
+      <lb ed="#B" n="17"/>c. 2. Sacris Scripturis, quae propheticis et aposto 
+      <lb ed="#B" n="18"/>licis literis continentur, nihil est notius, nihil certius 
+      <lb ed="#B" n="19"/>ut stultissimum esse necesse sit, qui illis fidem 
+      ha<lb ed="#B" n="20" break="no"/>bendam esse neget. Notissimas enim esse, testis eso 
+      <lb ed="#B" n="21"/>orbis Christianus, et consensio omnium gentium, apue 
+      <lb ed="#B" n="22"/>quas multis saeculis summam semper obtinuerum 
+      <lb ed="#B" n="23"/>auctoritatem. Certissimas autem atque verissima 
+      <lb ed="#B" n="24"/>esse nec humana inventa, sed divina oracula 
+      con<lb ed="#B" n="25" break="no"/>tinere 1. testis est veritas vaticiniorum. 2. 
+      incre<lb ed="#B" n="26" break="no"/>dibilis quaedam et plane divina conspiratio atque 
+      <lb ed="#B" n="27"/>concordia tot virorum, qui diversis locis, tempori 
+      <lb ed="#B" n="28"/>bus, linquis, occasionibus sacra volumina conscripse 
+      <lb ed="#B" n="29"/>runt. 3. Deus ipse, qui aliquando coelesti animad 
+      <lb ed="#B" n="30"/>versione hanc Scripturam suam ab humana 
+      profe<lb ed="#B" n="31" break="no"/>natione defendit. Vide Demetrii Phaleraei responsum 
+      <lb ed="#B" n="32"/>Ptolemaeo datum apud Josephum libr. 12. antiq. 
+      <lb ed="#B" n="33"/>c. 2. Eusebium libr. 8 praeparat. Evang. e. 1. 
+      <lb ed="#B" n="34"/>4. Ipsa Scriptura, cujus si verae fuerunt praedictio 
+      <lb ed="#B" n="35"/>nes rerum futurarum, ut eventus postea comprobo 
+      <lb ed="#B" n="36"/>vit, cur vera non sint rerum praesentium testimo 
+      <lb ed="#B" n="37"/>nium? 5. infinitus numerus miraculorum. Cum 
+      ha<lb ed="#B" n="38" break="no"/>deductione nunquam conciliari poterit assertio illa 
+      <lb ed="#B" n="39"/>quod Scripturae auctoritas unice ab ecclesiae auctori 
+      <lb ed="#B" n="40"/>tate pendeat 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e911">
+               <lb ed="#B" n="41"/>41. 3. A proprio Scripturae adjuncto. Quod 
+      <lb ed="#B" n="42"/>est principium summum, immediatum, necessarium 
+      e<lb ed="#B" n="43" break="no"/>inica credendi causa et regula ejus auctoritas non 
+      <lb ed="#B" n="44"/>dependet ab ecclesia. Scriptura est principium 
+      <lb ed="#B" n="45"/>summum, immediatum, necessarium et unica cre 
+      <lb ed="#B" n="46"/>dendi causa atque regula. In scientiis humani 
+      <lb ed="#B" n="47"/>habentur quaedam principia αὐτόπιστα καὶ ἀναπό¬ 
+      <lb ed="#B" n="48"/>δeixra certissima et indemonstrabilia, quae non de 
+      <lb ed="#B" n="49"/>pendent ex aliis, sed alia ex ipsis. Tale principium 
+      <lb ed="#B" n="50"/>in divinis est Scriptura saera, quippe cujus aucto 
+      <lb ed="#B" n="51"/>est Spiritus sanctus, qui est Spiritus veritatis 
+      <lb ed="#B" n="52"/>Joh. 15, v. 26. Ergo Scripturae auctoritas non de 
+      <lb ed="#B" n="53"/>pendet ab ecclesia. Assumtum constat ex omnibus 
+      <lb ed="#B" n="54"/>illis Scripturae dictis, quae ad Scripturae canonem 
+      <lb ed="#B" n="55"/>nos unice revocant, quae suo loco inferius enumera 
+      <lb ed="#B" n="56"/>buntur. Idipsum colligitur ex praxi Christi, aposto 
+      <lb ed="#B" n="57"/>lorum et veterum ecclesiae doctorum. Illi enim in 
+      <lb ed="#B" n="58"/>rebus fidei unice ad Scripturas provocarunt, et 
+      audi<lb ed="#B" n="59" break="no"/>tores suos remiserunt. Quinimo testatur xml:id cujusque 
+      <lb ed="#B" n="60"/>pii experientia, xml:ideo enim hoc vel illud dogma firma 
+      <!--101.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>fide amplectimur, quia in Scripturis sacris divinitus 
+      <lb ed="#B" n="62"/>illud revelatum esse cognoscimus, non quia ecclesia 
+      <lb ed="#B" n="63"/>llud proponit. Principium primum non habet 
+      ali<lb ed="#B" n="64" break="no"/>quid prius et fundamentum non fundatur in alio 
+      <lb ed="#B" n="65"/>Scriptura, sive quod xml:idem est, vox Dei in 
+      Scriptu<lb ed="#B" n="66" break="no"/>ris sonans, doctrina prophetarum et apostolorum 
+      <lb ed="#B" n="67"/>divina revelatio per prophetas et apostolos hominibus 
+      <lb ed="#B" n="68"/>tum viva voce, tum scriptis manifestata est primum 
+      <lb ed="#B" n="69"/>credendi principium, et illud fidei atque ecclesiae 
+      <lb ed="#B" n="70"/>fundamentum, super quod extructi sumus. Ephes. 2. 
+      <lb ed="#B" n="71"/>v. 20. Ergo non habet aliquod prius, nec innititur 
+      <lb ed="#B" n="72"/>alteri fundamento ecclesiae scilicet auctoritati. Si 
+      <lb ed="#B" n="73"/>luctoritas Scripturae quoad nos penderet ab Ecclesia 
+      <lb ed="#B" n="74"/>tunc fides nostra, qua credimus articulis in Scriptura 
+      <lb ed="#B" n="75"/>propositis, resolveretur ultimate in judicium ecclesia 
+      <lb ed="#B" n="76"/>anquam in primum et summum credendi principium 
+      <lb ed="#B" n="77"/>Sed posterius concedi nequit. Ergo nec prius. Exci 
+      <lb ed="#B" n="78"/>piunt Bellarminus libr. 3 de verbo Dei c. 10. 
+      Sta<lb ed="#B" n="79" break="no"/>plet. libr. 9, princip. fid. c. 3 et alii ex pontificiis. 
+      <lb ed="#B" n="80"/>1. Distinquendum esse inter fundamentum primarium 
+      <lb ed="#B" n="81"/>et secundarium. Verbum Dei esse quidem primum 
+      <lb ed="#B" n="82"/>fidei nostrae fundamentum, xml:ideo enim credimus. 
+      <lb ed="#B" n="83"/>quicquid credimus, quia Deus xml:id per angelos et 
+      <lb ed="#B" n="84"/>prophetas revelavit, sed praeter hoc fundamentum 
+      <lb ed="#B" n="85"/>primum requiri aliud fundamentum secundarium, 
+      <lb ed="#B" n="86"/>ecclesiae scilicet testificationem. Resp. Si omnium 
+      <lb ed="#B" n="87"/>dogmatum firmitas pendet ab ecclesia, ut scribi 
+      <lb ed="#B" n="88"/>Bellarminus libr. 3 de Eceles. c. 10 si ecclesia est 
+      <lb ed="#B" n="89"/>timpliciter notior Scriptura, ut habet libr. 4 de 
+      <lb ed="#B" n="90"/>Eccles. c. 2 utique ecclesia erit primarium fidei 
+      <lb ed="#B" n="91"/>nostrae fundamentum. Demus autem ex hypothes 
+      <lb ed="#B" n="92"/>esse secundarium fundamentum, certe fundamentum 
+      <lb ed="#B" n="93"/>secundarium non probet auctoritatem primario, et 
+      <lb ed="#B" n="94"/>quidem unice. Ecclesiae testificatio ex hypothesi 
+      <lb ed="#B" n="95"/>Bellarmini est fundamentum secundarium. Ergo non 
+      <lb ed="#B" n="96"/>probat auctoritatem primario et quidem unice. 
+      Uti<lb ed="#B" n="97" break="no"/>mur ecclesiae testificatione ad agnitionem canonicae 
+      <lb ed="#B" n="98"/>et divinae auctoritatis, quam Scriptura in se obtinet 
+      <lb ed="#B" n="99"/>sed propterea non debet dici fundamentum vel 
+      pri<lb ed="#B" n="100" break="no"/>marium vel secundarium. Quo sensu et respectu 
+      <lb ed="#B" n="101"/>ecelesia appelletur στύλος καὶ ἐδραίωμα τῆς ἄλη¬ 
+      <lb ed="#B" n="102"/>θείας in traet. de Eceles. §. 116 late fuit expositum 
+      <lb ed="#B" n="103"/>2. Principia scientiarum esse in se indemonstrabilia 
+      <lb ed="#B" n="104"/>in eo quod quid est, respectu tamen nostri 
+      demon<lb ed="#B" n="105" break="no"/>itrari per demonstrationem qua quid est. Idem 
+      <lb ed="#B" n="106"/>esse judicium de Scriptura. Resp. Concedimus 
+      <lb ed="#B" n="107"/>Scripturas a posteriore agnosci pro divinis ex qui 
+      <lb ed="#B" n="108"/>busdam argumentis et testimoniis inter quae ecele 
+      <lb ed="#B" n="109"/>iae testificatio etiam locum suum obtinet, sed ex eo 
+      <lb ed="#B" n="110"/>inferri nequit, unice ex ecclesiae testimonio 
+      Scri<lb ed="#B" n="111" break="no"/>pturae auctoritatem agnosci, multo minus Scripturae 
+      <lb ed="#B" n="112"/>auctoritatem ab ecclesia tanquam a priore 
+      depen<lb ed="#B" n="113" break="no"/>dere. Principia in scientiis suam in se ac per 
+      se<lb ed="#B" n="114" break="no"/>auctoritatem et certitudinem obtinent, ac statim ut 
+      <lb ed="#B" n="115"/>proferuntur, approbatione digna censentur, quo 
+      re<lb ed="#B" n="116" break="no"/>pectu etiam axiomata dicuntur, nequaquam vero 
+      <lb ed="#B" n="117"/>illis auctoritas quaedam aliunde conciliatur. Si¬c 
+      <lb ed="#B" n="118"/>Scriptura, quia primi principii rationem obtinet, xml:ideo 
+      <lb ed="#B" n="119"/>suam internam et immotam auctoritatem in ecclesia 
+      <lb ed="#B" n="120"/>obtinet, quae non aliunde ab ecclesiae scilicet aucto 
+      <!--102.xml-->
+      <pb ed="#B" n="29"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>ritate illi confertur. Si ecclesiae testimonium solum 
+      <lb ed="#B" n="2"/>et per se sumtum esset efficax ad conciliandam 
+      <lb ed="#B" n="3"/>Scripturae auctoritatem quoad nos, tum omnes, 
+      a<lb ed="#B" n="4" break="no"/>quos ecclesiae judicium perveniret, statim Scriptura 
+      <lb ed="#B" n="5"/>auctoritatem reciperent. Sed praxis contrarium testa 
+      <lb ed="#B" n="6"/>tur. Joh. 5, v. 47 inquit Christus: Si non crediti 
+      <lb ed="#B" n="7"/>literis Moysis, quomodo verbis meis credetis. Theopli 
+      <lb ed="#B" n="8"/>in h. I. Si non creclitis verbis scriptis, quomod 
+      <lb ed="#B" n="9"/>credetis verbis meis non scriptis. Corn. Jansenit 
+      <lb ed="#B" n="10"/>dicit esse argumentum a majori, quia sicut firmius 
+      <lb ed="#B" n="11"/>est, quod mandatur literis, ita culpabilius et 
+      maju<lb ed="#B" n="12" break="no"/>est non credere scriptis, quam non credere verbo 
+      <lb ed="#B" n="13"/>Sic ergo concludimus. Qui non credunt Scriptur 
+      <lb ed="#B" n="14"/>Moysaicis et propheticis, ne quidem ipsius Christ 
+      <lb ed="#B" n="15"/>testimonio credunt. Jam vero testimonium Chris 
+      <lb ed="#B" n="16"/>longe sublimius, dignius et efficacius est, quam eo 
+      <lb ed="#B" n="17"/>elesiae testimonium. Ergo qui non credunt Scripti 
+      <lb ed="#B" n="18"/>ris, seu verbo Dei in Scripturis sonanti, non credun 
+      <lb ed="#B" n="19"/>etiam ecclesiae. 3. Vocem ecclesiae in hac 
+      qua<lb ed="#B" n="20" break="no"/>stione et probatione esse priorem ipsa Scripturo 
+      <lb ed="#B" n="21"/>Resp. Distinguendum est inter ordinem et efficacia 
+      <lb ed="#B" n="22"/>probandi. Ordinis respectu ecclesiae testificatio prio 
+      <lb ed="#B" n="23"/>esse potest apud ethnicum convertendum, quam 
+      <lb ed="#B" n="24"/>Scripturae auctoritas, quam nondum cognoscit; inte 
+      <lb ed="#B" n="25"/>rim tamen ecclesiae testificatio ad fidem Scriptur 
+      <lb ed="#B" n="26"/>conciliandam nec sufficit, nec satis efficax est, 
+      se<lb ed="#B" n="27" break="no"/>ex ipsis internis Scripturae κριτηρίοις ejus auctorita 
+      <lb ed="#B" n="28"/>cognoscitur, et per Spiritus sancti internum testime 
+      <lb ed="#B" n="29"/>nium obsignatur, ac tum demum de ecclesiae testi 
+      <lb ed="#B" n="30"/>ficatione ex ipsa Scriptura a priori judicium 
+      fie<lb ed="#B" n="31" break="no"/>potest. Vera vox ecclesiae debet esse per omni 
+      <lb ed="#B" n="32"/>conformis et congrua Scripturae, ac proinde qua 
+      <lb ed="#B" n="33"/>sit vera verae ecclesiae vox non potest a prios 
+      <lb ed="#B" n="34"/>cognosci, nisi ex Scriptura. Quicquid ecelesia rect 
+      <lb ed="#B" n="35"/>et salutariter docet, ex Scriptura petendum est, ni 
+      <lb ed="#B" n="36"/>tura igitur prior et dignior est vox Scripturae quar 
+      <lb ed="#B" n="37"/>vox ecclesiae. Vera ecclesia est coetus vere fidelium 
+      <lb ed="#B" n="38"/>Fides est ex auditu verbi Rom. 10, v. 17 verbum 
+      <lb ed="#B" n="39"/>non nisi in Scriptura proponitur. Ergo Scriptur 
+      <lb ed="#B" n="40"/>est ecclesiae regula, non contra. Credimus ecele 
+      <lb ed="#B" n="41"/>siae tanquam testi, credimus Scripturae tanquar 
+      <lb ed="#B" n="42"/>primo et summo credendi principio, ex quo unic 
+      <lb ed="#B" n="43"/>petenda sunt, quae tum de aliis fidei articulis, 
+      tun<lb ed="#B" n="44" break="no"/>de ipsa ecclesia sunt credenda 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e1193">
+               <lb ed="#B" n="45"/>4. Per fundamen 
+      <lb ed="#B" n="46"/>tum prophetarum et apostolorum. Ephes. 2, v. 2. 
+      <lb ed="#B" n="47"/>non intelligi illorum Scripturam, sed praedicationem 
+      <lb ed="#B" n="48"/>Resp. Inter doctrinam prophetarum et apostolorum 
+      <lb ed="#B" n="49"/>praedicatam et scriptam nullum est reale discrimen 
+      <lb ed="#B" n="50"/>ideo etiam scripta prophetarum et apostolorum eo 
+      <lb ed="#B" n="51"/>in loco intelliguntur. Quicquid apostoli docuerunt 
+      <lb ed="#B" n="52"/>illud omne ex Moyse et prophetis desumserum 
+      <lb ed="#B" n="53"/>Actor. 17, v. 11. c. 26, v. 22 at Moysis et propho 
+      <lb ed="#B" n="54"/>tarum doctrina non nisi in scriptis eorum tunc pote 
+      <lb ed="#B" n="55"/>rat audiri Luc. 16, v. 29 unde Iren. libr. 3, c. 
+      <lb ed="#B" n="56"/>Ambrosius et Lyran. in comm. h. I. dictum apost. 
+      <lb ed="#B" n="57"/>licum ad libros propheticos et apostolicos merit 
+      <lb ed="#B" n="58"/>referunt. Notari etiam potest illud, prophetarum 
+      <lb ed="#B" n="59"/>duntaxat et apostolorum, non autem aliorum etiam 
+      <lb ed="#B" n="60"/>ecclesiae doctorum, qui vivae vocis praedication 
+      <lb ed="#B" n="61"/>ecclesiam aedificarunt, in dicto apostolico mentio 
+      <!--102.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>nem fieri, quia non aliorum, sed prophetarum 
+      dum<lb ed="#B" n="63" break="no"/>taxat in V. et apostolorum in N. T. officium fuit 
+      <lb ed="#B" n="64"/>fundamentum ecclesiae ponere. 1. Cor. 3, v. 16 
+      <lb ed="#B" n="65"/>Apoc. 21, v. 14 hoc est, doctrinam de Christo 
+      tal<lb ed="#B" n="66" break="no"/>bus scriptis complecti, quae sint canonica, et supe 
+      <lb ed="#B" n="67"/>quae ecclesiae aedificium exstruatur. Stapletonus 
+      <lb ed="#B" n="68"/>quidem per prophetas h. I. intelligit prophetas N. T. 
+      <lb ed="#B" n="69"/>quod placet etiam Socino et ipsius asseclis. At signi 
+      <lb ed="#B" n="70"/>ficatio illa in Scripturis est rarior, cum ubique fer 
+      <lb ed="#B" n="71"/>nomine prophetarum intelligantur scripta prophetica 
+      <lb ed="#B" n="72"/>V. T. Luc. 16, v. 29. c. 24, v. 27. Rom. I, V. . 
+      <lb ed="#B" n="73"/>2. Petr. 1, v. 19. Hebr. 1, v. i ac loci circumstan 
+      <lb ed="#B" n="74"/>tiae ostendunt, eandem significationem etiam hic 
+      <lb ed="#B" n="75"/>agnoscendam esse. Proponitur ecclesia tanquam 
+      <lb ed="#B" n="76"/>domus quaedam spiritualis. Lapis angularis est 
+      <lb ed="#B" n="77"/>Christus, fundamentum sunt prophetae et apostoli 
+      <lb ed="#B" n="78"/>ratione suae doctrinae de Christo. 1. Petr. 2, v. 8 
+      <lb ed="#B" n="79"/>Ut ergo etiam V. T. fideles ad hanc spiritualem 
+      do<lb ed="#B" n="80" break="no"/>mum pertinere intelligantur, nomine prophetarum 
+      <lb ed="#B" n="81"/>V. T. doctores accipiendi erunt. Thomas lect. 6 i 
+      <lb ed="#B" n="82"/>c. 2. Ephes. nominat apostolus utrosque, quia 
+      utro<lb ed="#B" n="83" break="no"/>rumque doctrina est necessaria ad salutem. Qua 
+      <lb ed="#B" n="84"/>enim prophetae praedixerunt, ea apostoli facto 
+      <lb ed="#B" n="85"/>praedicarunt. Per prophetas igitur intelligendi hoc 
+      <lb ed="#B" n="86"/>loco erunt prophetae V. T. qui non solum viva 
+      <lb ed="#B" n="87"/>vocis praedicationem, sed etiam ac vel maxime es 
+      <lb ed="#B" n="88"/>nonicorum librorum scriptione perpetuum in ecclesis 
+      <lb ed="#B" n="89"/>fundamentum construxere. Praedicatio prophetarur 
+      <lb ed="#B" n="90"/>et apostolorum brevi duravit tempore, apostolus 
+      <lb ed="#B" n="91"/>autem hic loquitur de perpetuo totius ecelesiae 
+      fun<lb ed="#B" n="92" break="no"/>damento ad finem usque mundi durante, cum v. 2. 
+      <lb ed="#B" n="93"/>dicat, omnem aecdificationem spiritualem in illo 
+      con<lb ed="#B" n="94" break="no"/>strui. Ergo vel maxime loquitur de scriptis 
+      prophe<lb ed="#B" n="95" break="no"/>ticis et apostolicis, ad quae omnes ecclesiae fili 
+      <lb ed="#B" n="96"/>adeoque ipsimet eorum in ministerio successores 
+      sum<lb ed="#B" n="97" break="no"/>astricti, ut juxta normam in illis propositam doceant 
+      <lb ed="#B" n="98"/>et ecclesiae aedificationem perficiant. Stapletonu 
+      <lb ed="#B" n="99"/>distinguit inter pastores et auditores, ac locum hunc 
+      <lb ed="#B" n="100"/>apostolicum accepit de solis auditoribus. Atqu 
+      <lb ed="#B" n="101"/>omnes omnino fideles super hoc fundamentum 
+      pro<lb ed="#B" n="102" break="no"/>phetarum et apostolorum exstrui oportet, cum ipsi 
+      <lb ed="#B" n="103"/>quoque pastores ad doctrinam propheticam et 
+      apo<lb ed="#B" n="104" break="no"/>stolicam sint astricti. 5. Judicium ecclesiae not 
+      <lb ed="#B" n="105"/>esse mere humanum, sed quodammodo divinum, u 
+      <lb ed="#B" n="106"/>in eo animus fidelis tutissime acquiescere possit 
+      <lb ed="#B" n="107"/>Verbum ecclesiae, scribit Bellarm. d. I. hoc est 
+      <lb ed="#B" n="108"/>concilii vel pontificis docentis ex cathedra non est 
+      <lb ed="#B" n="109"/>omnino verbum hominis, sed aliquo modo verbus 
+      <lb ed="#B" n="110"/>Dei, xml:id est, prolatum assistente et gubernante Spirit. 
+      <lb ed="#B" n="111"/>sancto. Resp. Per illam assistentiam et guberna 
+      <lb ed="#B" n="112"/>tionem Spiritus sancti aut intelligitur immediate 
+      <lb ed="#B" n="113"/>issistentia et gubernatio Spiritus sancti, qualis fuit 
+      <lb ed="#B" n="114"/>in prophetis et apostolis; vel mediata, quae non 
+      <lb ed="#B" n="115"/>nisi mediante doctrina prophetica et apostolica in 
+      <lb ed="#B" n="116"/>libris canonicis V. ac N. T. proposita locum habet 
+      <lb ed="#B" n="117"/>Si prius, pontifex et episcopi prophetis et aposte 
+      <lb ed="#B" n="118"/>lis, decreta pontificis et conciliorum scriptis 
+      prophe<lb ed="#B" n="119" break="no"/>tarum et apostolorum aequiparantur. Si posterius, 
+      <lb ed="#B" n="120"/>agnoscant pontifex et episcopi, se aeque ac reliquos 
+      <lb ed="#B" n="121"/>ecclesiae doctores ad normam propheticorum e 
+      <!--103.xml-->
+      <pb ed="#B" n="30"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>apostolicorum librorum astrictos esse, et decreta sua 
+      <lb ed="#B" n="2"/>non posse nec debere pro verbo Dei haberi, nis 
+      <lb ed="#B" n="3"/>quatenus exactissime cum prophetarum et aposto 
+      <lb ed="#B" n="4"/>lorum scriptis consentiant. Acceptamus autem, quod 
+      <lb ed="#B" n="5"/>fatentur ecclesiae judicium esse non mere et abse 
+      <lb ed="#B" n="6"/>lute, sed quodammodo divinum. ex quo porro s, 
+      <lb ed="#B" n="7"/>inferimus. Primo nullum effectum est praestantium 
+      <lb ed="#B" n="8"/>sua causa. Ergo si ecclesiae testimonium non es 
+      <lb ed="#B" n="9"/>mere, sed quodammodo divinum: consequens fueri 
+      <lb ed="#B" n="10"/>libros biblicos ex solo ecclesiae testimonio receptos 
+      <lb ed="#B" n="11"/>duntaxat ut quodammodo divinos a Christianis 
+      re<lb ed="#B" n="12" break="no"/>cipi. Secundo: Testimonium quod fidem plenam 
+      <lb ed="#B" n="13"/>ἀμετάπτωτον et infallibilem facere debet, oportet 
+      ess<lb ed="#B" n="14" break="no"/>mere divinum, quia fides est ex verbo. Rom. s. 
+      <lb ed="#B" n="15"/>v. 17. Tale vero non est externum humanum di 
+      <lb ed="#B" n="16"/>Scriptura testimonium, sed ipsius Spiritus sancti in 
+      <lb ed="#B" n="17"/>Scripturis loquentis vox et testificatio. Tertio: Te 
+      <lb ed="#B" n="18"/>stimonium mere divinum est praestantius 
+      testimonio<lb ed="#B" n="19" break="no"/>quod duntaxat quodammodo est divinum. Sed te 
+      <lb ed="#B" n="20"/>stimonium illud, quo Spiritus sanctus per interna 
+      <lb ed="#B" n="21"/>Scripturae κριτήρια in corde nostro de auctoritate 
+      <lb ed="#B" n="22"/>Scripturae testatur, est mere divinum. Ergo prae 
+      <lb ed="#B" n="23"/>ferendum est ecclesiae testimonio, quod est duntaxa 
+      <lb ed="#B" n="24"/>quodammodo divinum. Quarto: Ecclesiae testimo 
+      <lb ed="#B" n="25"/>nium extra Scripturam nec mere nec quodammodo 
+      <lb ed="#B" n="26"/>est divinum, sed mere humanum; ac tum demum es 
+      <lb ed="#B" n="27"/>divinum, quando profert ea, quae Scripturis 
+      sun<lb ed="#B" n="28" break="no"/>consona. Ergo non possumus scire, an et quand 
+      <lb ed="#B" n="29"/>ecclesiae testimonium sit divinum, nisi ex ipsis 
+      Scri<lb ed="#B" n="30" break="no"/>pturis, ultima igitur fidei nostrae resolutio fieri 
+      debe<lb ed="#B" n="31" break="no"/>in Scripturas, non in ecclesiae auctoritatem. Credi 
+      <lb ed="#B" n="32"/>mus illis, quae Deus per ecclesiam ad nos loquitur 
+      <lb ed="#B" n="33"/>propter ipsius Dei auctoritatem, qui loquitur, non 
+      <lb ed="#B" n="34"/>propter ecclesiae auctoritatem, per quam loquitur, e 
+      <lb ed="#B" n="35"/>sic testimonium ecelesiae de Scripturae auctoritat 
+      <lb ed="#B" n="36"/>divinum et fide dignissimum esse dicimus, quia 
+      Scr<lb ed="#B" n="37" break="no"/>pturae oraculis comprobatur, et a Scriptura robus 
+      <lb ed="#B" n="38"/>accipit, non propter aliquam ecclesiae digniorem e 
+      <lb ed="#B" n="39"/>superiorem auctoritatem. Ecclesia non facit nobi 
+      <lb ed="#B" n="40"/>Scripturam authenticam, alias omnia quae in ecclesis 
+      <lb ed="#B" n="41"/>docentur sine ulteriore probatione, pro authentici 
+      <lb ed="#B" n="42"/>essent habenda, sed testificatione ecclesiae ad agnos 
+      <lb ed="#B" n="43"/>cendam Scripturam canonicam, quae sui ipsius 
+      testi<lb ed="#B" n="44" break="no"/>est certissima, deducimur. 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e1468">
+               <lb ed="#B" n="45"/>42. 4. Ex proprio Scripturae effecto. Si Scriptura 
+      <lb ed="#B" n="46"/>sacra ex internis κριτηρίοις. cumprimis ex vi qua 
+      <lb ed="#B" n="47"/>dam interna hominum mentes efficaciter movente e 
+      <lb ed="#B" n="48"/>ad se rapiente, ac proinde ex interno Spiritus sanet. 
+      <lb ed="#B" n="49"/>testimonio apud nos auctoritatem obtinet, utique ejus 
+      <lb ed="#B" n="50"/>auctoritas etiam quoad nos non dependebit unice 
+      al<lb ed="#B" n="51" break="no"/>ecclesia. Sed verum prius. Ergo et posterius. As 
+      <lb ed="#B" n="52"/>sumtum probatur, quia prophetae, Christus et apo 
+      <lb ed="#B" n="53"/>stoli sua doctrina permoverunt hominum animos, u 
+      <lb ed="#B" n="54"/>ea quae proponebant, pro divinis haberent, eaque 
+      <lb ed="#B" n="55"/>fide amplecterentur, etiam non accedente ecclesiae 
+      <lb ed="#B" n="56"/>testimonio. Jam vero eadem quae prophetae in Vet 
+      <lb ed="#B" n="57"/>Christus et apostoli in N. T. praedicarunt, Dei 
+      vo<lb ed="#B" n="58" break="no"/>luntate in Scripturas redacta sunt. Ergo eandem 
+      <lb ed="#B" n="59"/>adhuc vim obtinent. Praedicatio et scriptio sunt 
+      <lb ed="#B" n="60"/>externa duntaxat accidentia, quae naturam, vim et 
+      <!--103.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>efficaciam verbi internam minime omnium 
+      mutan<lb ed="#B" n="62" break="no"/>Rom. 1, v. 16. Evangelium est potentia Dei ete 
+      <lb ed="#B" n="63"/>Hebr. 4, v. 12. Vivus Dei sermo est efficaa eto 
+      <lb ed="#B" n="64"/>Verbum Dei comparatur semini Luc. 8, v. 1I. 1. Petr. 
+      <lb ed="#B" n="65"/>1, v. 23 jam vero semen habet in se vim internam 
+      <lb ed="#B" n="66"/>fructificandi Marc. 4. v. 28 comparatur igni Jer. 2. 
+      <lb ed="#B" n="67"/>v. 29 jam vero ignis habet vim internam urendi, it 
+      <lb ed="#B" n="68"/>quoque verbum Dei sive praedicatum sive scriptur 
+      <lb ed="#B" n="69"/>ejusmodi vim corda spiritualiter immutandi et in 
+      <lb ed="#B" n="70"/>flammandi obtinet, unde discipuli fatentur, cor suum 
+      <lb ed="#B" n="71"/>arsisse, cum Christus ipsis interpretaretur Scriptura 
+      <lb ed="#B" n="72"/>Luc. 24. v. 32 ubi nota, quod scriptum Dei verbur 
+      <lb ed="#B" n="73"/>a Christo propositum et expositum eam vim 
+      exerue<lb ed="#B" n="74" break="no"/>rit. Verbum apostolorum absque ullo ecclesiae te 
+      <lb ed="#B" n="75"/>stimonio vel mandato exceptum fuit, ut ipsius Dei 
+      <lb ed="#B" n="76"/>sermo. 1. Thess. 2, v. 13. Quod de interno Spiritu 
+      <lb ed="#B" n="77"/>sancti testimonio dictum fuit, manifestum est tum ex 
+      <lb ed="#B" n="78"/>dictis Scripturae. 1. Joh. 5, v. 6. 
+      <!-- line coord error -->
+      <lb ed="#B" n="79"/>v. 4. <!-- line coord error --> 
+      <lb ed="#B" n="80"/>Joh. 8. <!-- line coord error --> 
+      <lb ed="#B" n="81"/>c. 18, v. 37. Rom. 8, v. 16 tum ex ipsa piorum 
+      <lb ed="#B" n="82"/>experientia. Declarari haec omnia possunt historis 
+      <lb ed="#B" n="83"/>Samaritanorum Joh. 4. v. 42 verbis Christi Joh. 
+      <lb ed="#B" n="84"/>v. 34 et dicto Augustini contra Epist. Manichaei c. t. 
+      <lb ed="#B" n="85"/>Sequamur eos, qui nos primum invitant credere 
+      <lb ed="#B" n="86"/>quod nondum valemus intueri, ut fide valentiore 
+      <lb ed="#B" n="87"/>facti, quod credimus, intelligere mereamur, non jam 
+      <lb ed="#B" n="88"/>hominibus, sed ipso Deo intrinsecus mentem nostram 
+      <lb ed="#B" n="89"/>firmante et illuminante, 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e1579">
+               <lb ed="#B" n="90"/>43. 5. Ex ecclesiae adjuncto. Auctoritas eccle 
+      <lb ed="#B" n="91"/>siae et pendet et probatur ex Scripturae auctoritate 
+      <lb ed="#B" n="92"/>Ergo Scripturae autoritas non pendet ex auctoritate 
+      <lb ed="#B" n="93"/>ecclesiae, alias committeretur circulus. Anteceden 
+      <lb ed="#B" n="94"/>patet non solum ex re ipsa, quae alibi plenius tracta 
+      <lb ed="#B" n="95"/>tur, quod scilicet ex sola Scriptura discendum sit, 
+      <lb ed="#B" n="96"/>quae sit vera ecclesia, et quantum auctoritatis illi 
+      <lb ed="#B" n="97"/>competat, sed etiam ex ipsa praxi adversariorum 
+      <lb ed="#B" n="98"/>qui Ecclesiae auctoritatem demonstraturi confugiunt 
+      <lb ed="#B" n="99"/>ad Scripturas, afferunt enim dicta Matth. 16, v. 16 
+      <lb ed="#B" n="100"/>e. 18, v. 17 etc. Ecclesiam dieunt non posse errar. 
+      <lb ed="#B" n="101"/>quia regitur a Spiritu sancto Joh. 16, v. 13. Matth. 
+      <lb ed="#B" n="102"/>28, v. 20 utique ergo Scripturas natura notiores et 
+      <lb ed="#B" n="103"/>certiores esse oportet, si ex illis ecclesiae auctorita 
+      <lb ed="#B" n="104"/>persuadenda. Confer tract. de Ecclesia c. de Notis 
+      <lb ed="#B" n="105"/>§. 142. 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e1616">
+               <lb ed="#B" n="106"/>44. 6. Ex deductione ad absurda. Si auctoritas 
+      <lb ed="#B" n="107"/>Scripturae quoad nos unice pendet ex ecclesiae 
+      <lb ed="#B" n="108"/>auctoritate, consequens fuerit. 1. non dari alia κ
+      9<lb ed="#B" n="109" break="no"/>jρια et testimonia, quibus de Scripturae auctoritate 
+      <lb ed="#B" n="110"/>convincamur, quam testificationem ecclesiae. 2. Ul 
+      <lb ed="#B" n="111"/>timam fidei nostrae resolutionem fieri in testimoniur 
+      <lb ed="#B" n="112"/>humanum. 3. Scripturam non esse primum et ἀνα¬ 
+      <lb ed="#B" n="113"/>πόδεικτον fidei et religionis Christianae principium 
+      <lb ed="#B" n="114"/>quippe quo aliud quoddam sit prius et superius 
+      <lb ed="#B" n="115"/>propter quod illi fides habeatur. 4. religionem 
+      Chri<lb ed="#B" n="116" break="no"/>stianam lubrico et dubio niti fundamento, quia ec 
+      <lb ed="#B" n="117"/>elesia dissimiliter statuit de Scripturae canone. 5. Deo 
+      <lb ed="#B" n="118"/>in Scripturis et per Scripturas ad nos loquenti non 
+      <lb ed="#B" n="119"/>esse credendum, nisi ecelesia jubeat. Sed illa omnia 
+      <lb ed="#B" n="120"/>sunt absurda et ἀσύσrαrα. Ergo et prius, ex quo 
+      <lb ed="#B" n="121"/>alia proveniunt 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e1653">
+               <lb ed="#B" n="122"/>45. Ex patribus huc referri possunt sequentis 
+      <!--104.xml-->
+      <pb ed="#B" n="31"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>dicta. Tertullian. in Apologet. c. 5. 
+  <!-- line coord error -->
+<lb ed="#B" n="2"/>Apud vos de 
+      <lb ed="#B" n="3"/>humano arbitratu divinitas pensatur, nisi homin 
+      <lb ed="#B" n="4"/>Deus placuerit, Deus non erit, homo jam Deo 
+      pro<lb ed="#B" n="5" break="no"/>pitius esse debebit. (Loquitur Tertull. de apotheosi 
+      <lb ed="#B" n="6"/>gentilium, sed accommodari xml:idem potest ad Pontis 
+      <lb ed="#B" n="7"/>cios, qui ex ecclesiae auctoritate Scripturam, xml:id es 
+      <lb ed="#B" n="8"/>Dei vocem auctoritatem suam habere disputant 
+      <lb ed="#B" n="9"/>August. libr. 6. Confess. c. 5. Persuasisti mihi 
+      <lb ed="#B" n="10"/>Deus, non qui crederent libris tuis, quos in omn 
+      <lb ed="#B" n="11"/>bus fere gentibus auctoritate fundasti, sed qui 
+      no<lb ed="#B" n="12" break="no"/>crederent esse culpancdos, nec audiendos esse, si qui 
+      <lb ed="#B" n="13"/>mihi forte dicerent: unde scis illos libros unius 
+      ver<lb ed="#B" n="14" break="no"/>et veracissimi Dei Spiritum esse humano generi mo 
+      <lb ed="#B" n="15"/>nistratos, xml:idipsum enim maxime credendum erat 
+      <lb ed="#B" n="16"/>Ergo hos libros esse sacros et divinos est primum 
+      <lb ed="#B" n="17"/>fidei principium, quo non est quaerendum aliud 
+      priu<lb ed="#B" n="18" break="no"/>et superius) libr. 11. Confess. c. 3. Audiam et in 
+      <lb ed="#B" n="19"/>telligam o Deus, quomodo fecisti coelum et terram 
+      <lb ed="#B" n="20"/>Scripsit hoc Moyses, scripsit et abiit, transivit 
+      hin<lb ed="#B" n="21" break="no"/>ad te. Neque enim nunc ante me est, nam si esset. 
+      <lb ed="#B" n="22"/>tenerem eum, rogarem cum, et per te obsecrarem, ut 
+      <lb ed="#B" n="23"/>mihi ista panderet, et praeberem aures corporis mei 
+      <lb ed="#B" n="24"/>sonis erumpentibus ec ore ejus. At si Hebraea voc 
+      <lb ed="#B" n="25"/>loqueretur, frustra pulsaret sensum meum, nec ind 
+      <lb ed="#B" n="26"/>mentem meam quicquam tangeret. Si autem Latin 
+      <lb ed="#B" n="27"/>scirem quid diceret, sed unde scirem, an verum di 
+      <lb ed="#B" n="28"/>ceret? Quod si et hoc scirem, num ab illo scirem 
+      <lb ed="#B" n="29"/>intus utique mihi, intus in domicilio cogitationis 
+      ne<lb ed="#B" n="30" break="no"/>Hebraea, nec Graeca, nec Latina, nec barbara veri 
+      <lb ed="#B" n="31"/>tas sine oris et linquae organis, eine strepitu syllo 
+      <lb ed="#B" n="32"/>barum diceret: Verum dicit; et ego statim 
+      certu<lb ed="#B" n="33" break="no"/>confidenter illi homini tuo dicerem, Verum dicis 
+      <lb ed="#B" n="34"/>Cum ergo illum interrogare non possim, te, quo plo 
+      <lb ed="#B" n="35"/>nus vera dixit, veritas, rogo ete. (Ergo Scriptura 
+      <lb ed="#B" n="36"/>vel quod xml:idem est, Deus in Scripturis loquens solus 
+      <lb ed="#B" n="37"/>de se αbrónioros testis est, quia est ipsa veritas 
+      <lb ed="#B" n="38"/>Eusebius libr. 3. Hist. Eccles. c. 25 refert veterem 
+      <lb ed="#B" n="39"/>ecclesiam ex tribus notis ψευδεπίγραφα et notha 
+      <lb ed="#B" n="40"/>scripta rejecisse. I. Si in scriptis eorum, qui apo 
+      <lb ed="#B" n="41"/>stolis successerunt, nulla eorum reperietur mentio 
+      <lb ed="#B" n="42"/>2. si stylus deprehenderetur a stylo et dicendi cor 
+      <lb ed="#B" n="43"/>cuetudine apostolorum diversus. 3. si doctrina 
+      <!-- line coord error -->
+      <lb ed="#B" n="44"/>6 
+      <lb ed="#B" n="45"/>fide catholica esset dissentanea. Salvian. libr. 3 de 
+      <lb ed="#B" n="46"/>provid. Humana omnia dicta argumentis et testibus 
+      <lb ed="#B" n="47"/>egent, Dei autem sermo ipse sibi testis est, quia no 
+      <lb ed="#B" n="48"/>cesse est quicquid incorrupta veritas loquitur, incor 
+      <lb ed="#B" n="49"/>ruptum sit testimonium veritatis 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e1775">
+               <lb ed="#B" n="50"/>16. Ex adversariis etiam quaedam pro nostra 
+      sen<lb ed="#B" n="51" break="no"/>tentia afferri possunt. c. Quis nesciat. dist. 9. 
+      Qui<lb ed="#B" n="52" break="no"/>nesciat sacram Scripturam canonicam tam V. quam 
+      <lb ed="#B" n="53"/>N. T. certis suis terminis contineri, eamque 
+      omnibu<lb ed="#B" n="54" break="no"/>posterioribus episcoporum literis ita praeponi, 
+      <!-- line coord error -->
+<lb ed="#B" n="55"/>24 
+      <lb ed="#B" n="56"/>de illa omnino dubitari vel disceptari non possit 
+      <lb ed="#B" n="57"/>utrum verum vel utrum rectum sit, quicquid in eo 
+      <lb ed="#B" n="58"/>scriptum esse constiterit. Biel. libr. 3. sent. dist. 25. 
+      <lb ed="#B" n="59"/>dub. 3. Veritates catholicae absque omni approbe 
+      <lb ed="#B" n="60"/>tione ecclesiae ex natura rei sunt immutabiles 
+      e<lb ed="#B" n="61" break="no"/>immutabiliter verae, et sic sunt immutabiliter catho 
+      <lb ed="#B" n="62"/>licae reputandae. Auctor oneris eccles. c. 1. &amp;. 
+      <!-- line coord error -->
+<lb ed="#B" n="63"/>1 
+      <lb ed="#B" n="64"/>Omnes prophetiae in sacra Scriptura V. et N. T. 
+      <!--104.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="65"/>per se sunt authenticae, adeo ut alieno robore non 
+      <lb ed="#B" n="66"/>indigeant. Steuchus in prine. Cosmop. asserit, sa 
+      <lb ed="#B" n="67"/>crorum librorum auctoritatem minime sola legentium 
+      <lb ed="#B" n="68"/>fide teneri, sed affere secum divinas quasdam, 
+      po<lb ed="#B" n="69" break="no"/>entissimasque rationes magnorum animorum ad ae 
+      <lb ed="#B" n="70"/>fudicia trahentes. Cajetan. in opusc. tom. 2. tract. 1. 
+      <lb ed="#B" n="71"/>c. 1. Fidei Christianae certitudo infallibile debet 
+      <lb ed="#B" n="72"/>habere testimonium, quale nullus homo, sed sola 
+      <lb ed="#B" n="73"/>Deus praestare potest. Unde et Petrus apostolus 
+      <lb ed="#B" n="74"/>coelestis vocis in transfiguratione Christi auditae 
+      <lb ed="#B" n="75"/>proprio testimonio utens subjungit: Habemus 
+      fir<lb ed="#B" n="76" break="no"/>miorem sermonem propheticum. Hosius in Confess 
+      <lb ed="#B" n="77"/>Petricov. c. 16. Nos libenter concedimus accipiendo 
+      <lb ed="#B" n="78"/>esse evangelica ut verbum Dei intus docentis et 
+      re<lb ed="#B" n="79" break="no"/>pelantis, neque credendum illis esse, nisi propter 
+      <lb ed="#B" n="80"/>pocem Dei intus loquentis. Andr. Fricius. Deu 
+      <lb ed="#B" n="81"/>est qui tuetur verbum suum, qui auctoritatem ei 
+      tri<lb ed="#B" n="82" break="no"/>uit, qui illud in dignitatem vindicat, qui per 
+      Spi<lb ed="#B" n="83" break="no"/>citum sanctum in cordibus hominum obsignat. 
+      Te<lb ed="#B" n="84" break="no"/>stimonium quidem ecclesia Spiritu Dei afflata 
+      dar<lb ed="#B" n="85" break="no"/>potest et verbo et doctrinae, hanc scilicet, quam inde 
+      <lb ed="#B" n="86"/>ib apostolis quasi per manus accepisset, et non 
+      <lb ed="#B" n="87"/>aliam a Deo esse proditam, auctoritatem vero ille 
+      <lb ed="#B" n="88"/>tribuere nemo potest propter Deum ipsum, qui es 
+      <lb ed="#B" n="89"/>nuctor illius, illustrator, defensor, propugnator. 
+      Ca<lb ed="#B" n="90" break="no"/>nisius in catech. cap. de praecept. eceles. sect. 16. 
+      <lb ed="#B" n="91"/>Nos Scripturae propter testimonium divini Spiritus 
+      <lb ed="#B" n="92"/>in illa loquentis credimus, adhaeremus, ac maximam 
+      <lb ed="#B" n="93"/>auctoritatem illi tribuimus. Gregor. de Valent. in 
+      <lb ed="#B" n="94"/>anal. p. 268. Abunde nobis ad eam rem (
+      certitudi<lb ed="#B" n="95" break="no"/>nem Scripturae V. T.) sufficit ipsum per se 
+      testi<lb ed="#B" n="96" break="no"/>monium Christi et apostolorum, quo eorum est aucto 
+      <lb ed="#B" n="97"/>ritas librorum commendata. Locus Bellarmini huc 
+      <lb ed="#B" n="98"/>pertinens adductus est superius §. 40. 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e1892">
+               <lb ed="#B" n="99"/>17. Pontificii pro stabilienda sua assertione 
+      prae<lb ed="#B" n="100" break="no"/>er dictum apostolicum 1. Tim. 3, v. 15. Ecclesia. 
+      <lb ed="#B" n="101"/>st firmamentum et columna veritatis, cujus explica 
+      <lb ed="#B" n="102"/>tionem uberrimam proposuimus in tract. de Eccles 
+      <lb ed="#B" n="103"/>§. 116 urgent quasdam rationes, quarum vim 
+      bre<lb ed="#B" n="104" break="no"/>viter expendemus. 1. Ex ecclesiae antiquitate 
+      <lb ed="#B" n="105"/>Scriptura est posterior ecclesia respectu acceptatio 
+      <lb ed="#B" n="106"/>nis librorum illorum quoad nos. Antequam enim 
+      <lb ed="#B" n="107"/>ederentur Scripturae, jamtum erat ecclesia, quae 
+      <lb ed="#B" n="108"/>ibros sacros recepit, approbavit et posteris commen 
+      <lb ed="#B" n="109"/>lavit. Ergo Scripturae auctoritas pendet ab ec 
+      <lb ed="#B" n="110"/>elesia. Resp. Repetenda est distinetio inter 
+      Scri<lb ed="#B" n="111" break="no"/>turae materiale et formale. Illi qui a Moyse, 
+      pro<lb ed="#B" n="112" break="no"/>phetis, evangelistis et apostolis libros sacros acce 
+      <lb ed="#B" n="113"/>perunt, et suo testimonio posteris eosdem 
+      commen<lb ed="#B" n="114" break="no"/>darunt, prius quidem fuere in ecclesiae coetu, et 
+      <lb ed="#B" n="115"/>lactenus ecclesia fuit prior Scriptura formaliter 
+      <lb ed="#B" n="116"/>quoad opus scriptionis considerata. Sed illi ips 
+      <lb ed="#B" n="117"/>Scripturae testes per verbum, quod in Scriptura 
+      con<lb ed="#B" n="118" break="no"/>inetur, fuerunt conversi et ecclesiae filii facti. Ergo 
+      <lb ed="#B" n="119"/>non fuerunt priores Scriptura materialiter 
+      conside<lb ed="#B" n="120" break="no"/>rata, hoc est, verbo in Scripturis proposito. Verbum 
+      <lb ed="#B" n="121"/>Dei est semen illud incorruptibile, per quod 
+      homi<lb ed="#B" n="122" break="no"/>nes regenerantur, et filii Dei redduntur. Jac. 1, v. 18. 
+      <lb ed="#B" n="123"/>1. Petr. 1, v. 23 xml:idem verbum prius fuit a prophetis 
+      <lb ed="#B" n="124"/>et apostolis praedicatum, ac postea ab iisdmin et 
+      <!--105.xml-->
+      <pb ed="#B" n="32"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>literas redactum. Quam ergo absonum est, fructum 
+      <lb ed="#B" n="2"/>statuere priorem semine, tam absurdum quoque es 
+      <lb ed="#B" n="3"/>ecclesiam absolute et simpliciter priorem statuer 
+      <lb ed="#B" n="4"/>Scriptura materialiter et respectu verbi, quod cor 
+      <lb ed="#B" n="5"/>tinet, considerat 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e1968">
+               <lb ed="#B" n="6"/>16. 2. Ex ecclesiae claritate. Ecclesia est 
+      no<lb ed="#B" n="7" break="no"/>tior Scripturis. Prius enim cognoscuntur pastore 
+      <lb ed="#B" n="8"/>quam Scripturae. Resp. Distinguendum inter notiori 
+      <lb ed="#B" n="9"/>τῇ φύσει et notiora καθ’ ἡμάs. Item, inter notitiam 
+      <lb ed="#B" n="10"/>confusam et distinetam. Confusa notitia fortassis 
+      <lb ed="#B" n="11"/>prius cognosci possunt pastores quam Scripturae, ne 
+      <lb ed="#B" n="12"/>quaquam vero distineta. Qui enim veri pastores 
+      sin<lb ed="#B" n="13" break="no"/>quibus tuto animas nostras committere possimus, e 
+      <lb ed="#B" n="14"/>quae sit vera ecclesia, cui nos aggregare debeamu 
+      <lb ed="#B" n="15"/>non nisi ex doctrina, quam proferunt, cognosci potes 
+      <lb ed="#B" n="16"/>jam vero de illa doctrina judicium faciendum et 
+      <lb ed="#B" n="17"/>norma verbi divini in Scripturis propheticis et apo 
+      <lb ed="#B" n="18"/>stolicis revelati. Act. 17, v. 11. Si ecclesia simpli 
+      <lb ed="#B" n="19"/>citer est notior Scriptura, cur Bellarm. libr. 1 d. 
+      <lb ed="#B" n="20"/>verbo Dei c. 2 scribit: Sacris Scripturis. quae pro 
+      <lb ed="#B" n="21"/>pheticis et apostolicis literis continentur, nihil esse 
+      <lb ed="#B" n="22"/>certius, nihil notius? Cur libr. 1 de Eccles. c. 
+      <lb ed="#B" n="23"/>scribit, aliquando Scripturam esse notiorem, quand 
+      <lb ed="#B" n="24"/>scilicet est recepta et clare loquitur et quaestio orr 
+      <lb ed="#B" n="25"/>tur de ecclesia? De tota hac re late egimus. tr. de 
+      <lb ed="#B" n="26"/>eceles. §. 14. 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e2016">
+               <lb ed="#B" n="27"/>49. 3. Ex ecclesiae dignitate. Publicum Spiri 
+      <lb ed="#B" n="28"/>tus Sancti de Scripturis et earum auctoritate jud 
+      <lb ed="#B" n="29"/>cium non sonat nisi in ecclesia. Ergo ex sola eo 
+      <lb ed="#B" n="30"/>clesiae auctoritate pendet Scripturae auctoritas. 
+      Resi<lb ed="#B" n="31" break="no"/>I. Judicium ecclesiae tum demum pro Spiritus sane 
+      <lb ed="#B" n="32"/>judicio est habendum, si sit Scripturis sacris 
+      con<lb ed="#B" n="33" break="no"/>forme. Neque enim quicquid ecclesia profert, statii 
+      <lb ed="#B" n="34"/>pro divino est habendum, nisi ex divinis tabulis 
+      pro<lb ed="#B" n="35" break="no"/>feratur, ad quas Deus ipse ecclesiae judicium alli 
+  <!-- line coord error -->
+<lb ed="#B" n="36"/>8 
+      <lb ed="#B" n="37"/>gavit. Esa. 8. v. 20. Joh. S. v. 31. Galat. 1. v. 
+      <lb ed="#B" n="38"/>2. Quicquid ergo vel ab uno vel pluribus extra et 
+      <lb ed="#B" n="39"/>praeter Scripturas proferatur, non est publicum 
+      Spi<lb ed="#B" n="40" break="no"/>ritus sancti testimonium, sed privatum. Contra 
+      <lb ed="#B" n="41"/>quiequid Scripturis sacris consonum profertur, illud 
+      <lb ed="#B" n="42"/>est publicum Spiritus sancti testimonium, si vel 
+      <lb ed="#B" n="43"/>maxime ab uno duntaxat proferatur. 3. Spiritur 
+      <lb ed="#B" n="44"/>sanctus per interna κριτήρια ipsis Scripturis insita 
+      <lb ed="#B" n="45"/>de earum divinitate et auctoritate testatur, quod es 
+      <lb ed="#B" n="46"/>publicum Spiritus sancti de Scripturis judicium.. 
+      <lb ed="#B" n="47"/>Frivolum est, quod pontificii pro publico Spiritur 
+      <lb ed="#B" n="48"/>sancti judicio habent illud omne, quod Papa, card 
+      <lb ed="#B" n="49"/>nales et episcopi in conciliis proferunt, sive cor 
+      <lb ed="#B" n="50"/>forme sit Scripturis, sive illis adversum, sive in illi 
+      <lb ed="#B" n="51"/>contineatur, sive minus; sed ex ipsa Scriptura de 
+      <lb ed="#B" n="52"/>illis Papae et conciliorum decretis cuilibet pio jud 
+      <lb ed="#B" n="53"/>cium faciendum. 3. Testimonium illud, quo Spiritur 
+      <lb ed="#B" n="54"/>sanctus pios de certitudine Scripturae et gratiae 
+      di<lb ed="#B" n="55" break="no"/>vinae convincit, est internum et absconditum, ac 
+      <lb ed="#B" n="56"/>proinde externis auribus in ecclesia non auditu 
+      <lb ed="#B" n="57"/>Rom. 6. v. 16. 2. Cor. 1, v. 21. 1. Joh. 2, v. 20. 
+      <lb ed="#B" n="58"/>I. Joh. 5, v. 10 
+      </p>
+            <p xml:id="zef3dd-d1e123-d1e2090">
+               <lb ed="#B" n="59"/>50. 4. Ex Scripturae conditione et qualitate. Ne 
+      <lb ed="#B" n="60"/>j. er internis κoerηρίοrs, nec ex Spiritus sancti testi 
+<lb ed="#B" n="61"/>monio auctoritas Scripturae patescere potest. Non 
+      <!--105.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>ex prioribus, quia in profanis etiam libris et rerum 
+      <lb ed="#B" n="63"/>et styli majestatem inesse profani homines censent. 
+      <lb ed="#B" n="64"/>Sic Turca in Alcorano, Judaei in Cabala, ethni 
+      <lb ed="#B" n="65"/>cus apud Trismegistum non minus majestatis in 
+      <lb ed="#B" n="66"/>cerbis et rebus se inrenire existimabit. In libri 
+      <lb ed="#B" n="67"/>apocryphis itidem non minor styli et rerum 
+      maje<lb ed="#B" n="68" break="no"/>tas, quam in canonicis. Pistor. in hodeg. p. 7 
+      <lb ed="#B" n="69"/>In libro sapientiae plenior majestate stylus et 
+      re<lb ed="#B" n="70" break="no"/>graviores quam in libro Ruth, cum tamen erange 
+      <lb ed="#B" n="71"/>tici librum Ruth in canonem recipiant, librum 
+      Sa<lb ed="#B" n="72" break="no"/>pientiae ex canone excludant. Nec ex posteriore; 
+      <lb ed="#B" n="73"/>qui enim ex interno Spiritus sancti testimonio 
+      judi<lb ed="#B" n="74" break="no"/>cant de Scriptura sacra, sententiis invicem variant 
+      <lb ed="#B" n="75"/>Ergo ex sola ecclesiae auctoritate Scripturae aucto 
+      <lb ed="#B" n="76"/>ritas cognoscitur. Resp. 1 κριτήρια interna sunt 
+      si<lb ed="#B" n="77" break="no"/>mul conjungenda, nec unum duntaxat ex reliquarum 
+      <lb ed="#B" n="78"/>corpore et classe avellendum. 2. quin et reliquae 
+      <lb ed="#B" n="79"/>duae classes argumentorum addendae. 3. In aliis 
+      <lb ed="#B" n="80"/>scriptis duntaxat hominum opinione, non autem reips 
+      <lb ed="#B" n="81"/>talis rerum majestas et styli proprietas occurrit ** 
+      <lb ed="#B" n="82"/>Lindanus libr. 3. Interp. c. 5, p. 116. Scripturae 
+      <lb ed="#B" n="83"/>sacrae sua quoque est lingua, propriae loquend 
+      <lb ed="#B" n="84"/>formulae, suus cuique dicendi character, quae et 
+      <lb ed="#B" n="85"/>quis imprudens praetereat et sacras literas ex C 
+      <lb ed="#B" n="86"/>cerone aut Demosthene opinetur intelligendas, in 
+      <lb ed="#B" n="87"/>pravissimos necesse est impingat errores. * 4. 
+      Spi<lb ed="#B" n="88" break="no"/>ritus sancti testimonium non proponimus solum, sed 
+      <lb ed="#B" n="89"/>Interna κριτήρια et ecclesiae testificationem illi 
+      con<lb ed="#B" n="90" break="no"/>jungimus. Qui tres illas argumentorum classes 
+      con<lb ed="#B" n="91" break="no"/>unctim assumserit de canonica Scripturae auctoritat. 
+      <lb ed="#B" n="92"/>errare minime poterit. 5. Ipsa ecclesia fatentibu 
+      <lb ed="#B" n="93"/>pontificiis, dissimiliter de canone pronunciavit. Ei 
+      <lb ed="#B" n="94"/>gone inferri poterit, ex illius testificatione non poss 
+      <lb ed="#B" n="95"/>peti aliquot canonicae Scripturarum auctoritatis judi 
+      <lb ed="#B" n="96"/>cium? 6. Spiritus dona non sunt in omnibus 
+      aequa<lb ed="#B" n="97" break="no"/>lia, et qui Spiritu sancto donati sunt, non sempe 
+      <lb ed="#B" n="98"/>nec in omnibus sequuntur judicium ac ductum 
+      Sp<lb ed="#B" n="99" break="no"/>ritus sancti, sed suis quandoque indulgent affectibus 
+      <lb ed="#B" n="100"/>vel aliorum praejudiciis in transversum sese rapi 
+      pa<lb ed="#B" n="101" break="no"/>tiuntur. At, inquis, sola ecclesia testificatur, hunc 
+      <lb ed="#B" n="102"/>librum esse Matthaei, illum Marci. Ergo ipsa solo 
+      <lb ed="#B" n="103"/>de Scripturae auctoritate testatur. Resp. Distincta 
+      <lb ed="#B" n="104"/>sunt quaestiones, an Evangelium Matthaei sit Mat 
+      <lb ed="#B" n="105"/>thaei, et an sit canonicum. Prior est fidei 
+      histo<lb ed="#B" n="106" break="no"/>ricae, et pendet ex testificatione historica, quae 
+      suf<lb ed="#B" n="107" break="no"/>fragium dat libri titulo. Posterior est non solum 
+      <lb ed="#B" n="108"/>historica, sed etiam dogmatica, nec dependet solum 
+      <lb ed="#B" n="109"/>ex testificatione historica, sed etiam argumentis in 
+      <lb ed="#B" n="110"/>litis et interno Spiritus sancti testimonio
+</p>
+            <p xml:id="zef3dd-d1e123-d1e2210">
+               <lb ed="#B" n="111"/>31. 5. Ex Augustini auctoritate. August. libr. 
+      <lb ed="#B" n="112"/>contra Epist. Manichaei c. 3. Erangelio non crede 
+      <lb ed="#B" n="113"/>rem, nisi me ecclesiae moreret auctoritas. Resp. . 
+      <lb ed="#B" n="114"/>loquitur August. de eo argumentorum genere, quod 
+      <lb ed="#B" n="115"/>primo quidem potest aliquem permovere, ut Scriptu 
+      <lb ed="#B" n="116"/>ras recipiat, et evangelio credat, loquitur enim de 
+      <lb ed="#B" n="117"/>se adhuc in Manichaeismo constituto, qua ratione ad 
+      <lb ed="#B" n="118"/>recipiendam Scripturae auctoritatem perductus fuerit. 
+      <lb ed="#B" n="119"/>Illud vero est testimonium ecclesiae. Eequis enim 
+      <lb ed="#B" n="120"/>non permoveretur constanti illo ecclesiae de 
+      Scri<lb ed="#B" n="121" break="no"/>pturis testimonio, ut eas pro sacris ac divinis rec¬ 
+      <!--106.xml-->
+      <pb ed="#B" n="33"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>peret? Ex eo vero nequaquam sequitur, ecelesiae 
+      <lb ed="#B" n="2"/>testimonium vel solum vel praecipuum esse, propter 
+      <lb ed="#B" n="3"/>quod Scripturas recipiamus. 2. Contrarium enim 
+      <lb ed="#B" n="4"/>ibidem Augustinus docet. Ipsi evangelio, inqui 
+      <lb ed="#B" n="5"/>catholicis praedicantibus credidi. Et postea: Eam 
+      <lb ed="#B" n="6"/>scripturam mihi profers, cui per illos catholico 
+      <lb ed="#B" n="7"/>credideram. Ergo per ecelesiam sive ministerium 
+      <lb ed="#B" n="8"/>et testimonium ecclesiae scripturis se credere dici 
+      <lb ed="#B" n="9"/>non propter ecclesiam tanquam auctoritatem majo 
+      <lb ed="#B" n="10"/>rem. 3. Sic Samaritani credebant in Christum 
+      pe<lb ed="#B" n="11" break="no"/>verbum mulieris testimonium de Christo perhibentis, 
+      <lb ed="#B" n="12"/>sed postea Christum ipsum audientes dicunt: 
+      No<lb ed="#B" n="13" break="no"/>amplius διὰ τὴν σὴν λαλιὰν πιστεύομεν, ipsi enir 
+      <lb ed="#B" n="14"/>audivimus et scimus, quia hic vere est salvator mund 
+      <lb ed="#B" n="15"/>Joh. 4. v. 42. Eadem ratio est testimonii, quod eo 
+      <lb ed="#B" n="16"/>elesia per Samaritanam praefigurata, perhibet Scriptur: 
+      <lb ed="#B" n="17"/>sacris. 4. Michaël Medina scriptor alioquin Ponti 
+      <lb ed="#B" n="18"/>ficius in volum. Venet. impress. agnoscit dictum 
+      <lb ed="#B" n="19"/>Augustini non posse nostrae sententiae opponi. 
+      Quo<lb ed="#B" n="20" break="no"/>ex eo, inquit, Augustini dicto ecclesiae quam 
+      scr<lb ed="#B" n="21" break="no"/>pturae majorem auctoritatem persuadere conantur 
+      <lb ed="#B" n="22"/>prorsus est futile. Nam ex eo, quod ecclesia scri 
+      <lb ed="#B" n="23"/>pturas ostendit, et eas a falsis discernendi potesto 
+      <lb ed="#B" n="24"/>tem exercet, eam eisdem scripturis auctoritatem 
+      pra<lb ed="#B" n="25" break="no"/>stare infirme colligitur, nisi etiam is, qui inter ho 
+      <lb ed="#B" n="26"/>minum confertissimas turbas mihi regem ostenderet 
+      <lb ed="#B" n="27"/>potioris etiam quam ipse rex auctoritatis habendu 
+      <lb ed="#B" n="28"/>esset, aut nisi Mosaica lex, quae Christi et evange 
+      <lb ed="#B" n="29"/>lici status fuit index Joh. 5, v. 39 et 47., majori 
+      <lb ed="#B" n="30"/>esset auctoritatis, quam Christus aut Christi evange 
+      <lb ed="#B" n="31"/>lium, quod est absurdissimum. Enim vero Johanne 
+      <lb ed="#B" n="32"/>baptista Christo testimonium perhibuit, fuit enis 
+      <lb ed="#B" n="33"/>homo missus a Deo, ut testimonium perhiberet d 
+      <lb ed="#B" n="34"/>lumine, et omnes crederent per illum, neque tamer 
+      <lb ed="#B" n="35"/>continuo Christo fuit major aut aequalis. Moyses e 
+      <lb ed="#B" n="36"/>Elias simul cum nube et coelesti voce Christum ess 
+      <lb ed="#B" n="37"/>Messiam, et euncdem cunctis mortalibus quasi coele 
+      <lb ed="#B" n="38"/>stem praeceptorem audiendum esse testificabant, nequi 
+      <lb ed="#B" n="39"/>tamen protinus majores aut aequales sunt Christo 
+      <lb ed="#B" n="40"/>Denique stella, pastores, Magi, Anna et Simeon, quo 
+      <lb ed="#B" n="41"/>omnes Christo detulerunt testimonium, ut generis 
+      hu<lb ed="#B" n="42" break="no"/>mani redemptor verusque Messias aqnosceretur a 
+      <lb ed="#B" n="43"/>omnibus, non eunt Christo ipso potiores. Ecclesio 
+      <lb ed="#B" n="44"/>fateor est nobis causa credendi, hunc aut illum librum 
+      <lb ed="#B" n="45"/>esse divinum, non tamen cum ipsa eadem scripturo 
+      <lb ed="#B" n="46"/>auctoritate contendit, quemadmodum neque horum 
+      <lb ed="#B" n="47"/>auctoritas, qui de Christo testabantur, cum Christo 
+      <lb ed="#B" n="48"/>erat ullo pacto conferenda. Ostendit notarius 
+      ar<lb ed="#B" n="49" break="no"/>publicus tabellio hanc aut illam esse scripturam 
+      regi<lb ed="#B" n="50" break="no"/>atque ita ostendit, ut illi tantam fidem habeamus 
+      <lb ed="#B" n="51"/>quantam humana negotia postulant. Quia tamen 
+      tan<lb ed="#B" n="52" break="no"/>insanus, ut tabellionis auctoritatem cum regii aut im 
+      <lb ed="#B" n="53"/>peratorii scripti auctoritate componat? 5. Gerson in 
+      <lb ed="#B" n="54"/>declarat. verit. quae credendae sunt de necess. salu 
+      <lb ed="#B" n="55"/>tom. 1. num. 14. lit. E. recte monet, Augustinum 
+      <lb ed="#B" n="56"/>loqui do testimonio primitivae ecclesiae, et 
+      addi<lb ed="#B" n="57" break="no"/>vicissim dici posse ecclesiae non crederem, nisi mi 
+      <lb ed="#B" n="58"/>scripturae moveret auctoritas. Pontificii vero de su 
+      <lb ed="#B" n="59"/>hodierna Romana ecclesia unice sunt soliciti 
+  </p>
+         </div>
+      </body>
+   </text>
+</TEI>

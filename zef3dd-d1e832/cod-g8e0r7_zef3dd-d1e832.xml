@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="437"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e832"><!-- zef3dd-l3c11 -->
+            <head xml:id="zef3dd-d1e832-Hd1e101">Caput 11</head>
+            <head xml:id="zef3dd-d1e832-Hd1e103" type="question-title">Quartum argumentum ex Vetero Testamento pro adstruendo trinitatis mysterio deductum</head>
+            <p xml:id="zef3dd-d1e832-d1e106">
+      <!--510.xml-->
+               <pb ed="#B" n="437"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>CAPUT XI. 
+      <lb ed="#B" n="2"/>CONTINENS QUARTUM ARGU 
+      <lb ed="#B" n="3"/>MENTUM EX V. T. PRO ADSTRU 
+      <lb ed="#B" n="4"/>ENDO TRINITATIS MYSTERIO 
+      <lb ed="#B" n="5"/>DEDUCTUM 
+  </p>
+            <p xml:id="zef3dd-d1e832-d1e126">
+               <lb ed="#B" n="6"/>152. Quartum principale fundamentum pro ad 
+      <lb ed="#B" n="7"/>struendo trinitatis mysterio ex V. T. petitum de 
+      <lb ed="#B" n="8"/>-ducimus ex benedictione ecclesiastica. Num. 6. v. 22. 
+      <lb ed="#B" n="9"/>Locutus est Dominus ad Moysen, dicens. v. 23. 
+      <lb ed="#B" n="10"/>Loquere ad Aaron et filios ejus, dicendo: Si bene 
+      <lb ed="#B" n="11"/>dicetis filiis Israël, dicendo eis: Benedicat tib 
+      <lb ed="#B" n="12"/>Dominus et custodiat te. v. 25: Lucere faciat 
+      Do<lb ed="#B" n="13" break="no"/>minus faciem suam super te et misereatur tui. v. 26. 
+      <lb ed="#B" n="14"/>Elevet Dominus faciem suam super te et pona 
+      <lb ed="#B" n="15"/>tibi pacem. v. 27: Et ponent nomen meum supe 
+      <lb ed="#B" n="16"/>filios Israël, et ego benedicam eis. Hanc benedi 
+      <lb ed="#B" n="17"/>ctionis formulam ab Israëlitis maximi pretii ac 
+      pon<lb ed="#B" n="18" break="no"/>deris fuisse habitam ac haberi etiam debuisse 
+      <lb ed="#B" n="19"/>ostendimus in peculiari disputatione de hac εὑλογί 
+      <lb ed="#B" n="20"/>habita: 1. ex auctoris principalis denominatione 
+      <lb ed="#B" n="21"/>2. ex causae instrumentalis conditione; 3. ex ad 
+      <lb ed="#B" n="22"/>dita promissione; 1. ex solenni benedictionis reci 
+      <lb ed="#B" n="23"/>tatione; 5. ex quotidiana hujus benedictionis fro 
+      <lb ed="#B" n="24"/>quentatione. Mysterium trinitatis ex hac εὑλογί 
+      <lb ed="#B" n="25"/>demonstravimus, probando ex eadem: 1. personarum 
+      <lb ed="#B" n="26"/>trinitatem; 2. essentiae divinae unitatem. Trinita 
+      <lb ed="#B" n="27"/>tem personarum in ea exprimi ostendimus: 1. e: 
+      <lb ed="#B" n="28"/>trina nominis Jehovah repetitione; 2. ex distincto 
+      <lb ed="#B" n="29"/>rum beneficiorum enumeratione; 3. ex cujusdam ad 
+      <lb ed="#B" n="30"/>fidei analogiam applicatione; 4. ex aliorum Scriptu 
+      <lb ed="#B" n="31"/>rae locorum collatione; 5. ex Christianorum inter 
+      <lb ed="#B" n="32"/>pretum testificatione; 6. ex ritus, quem in 
+      pronun<lb ed="#B" n="33" break="no"/>tianda ista benedictione observare consueverum 
+      <lb ed="#B" n="34"/>peculiari ratione. Unitatem divinae essentiae oster 
+      <lb ed="#B" n="35"/>dit: 1: nomen singulare Jehovah; 2. pronomes 
+      <lb ed="#B" n="36"/>sive afficum singulare; 3. verbum singulare. Quae 
+      <lb ed="#B" n="37"/>omnia late comprobavimus, ac illis, quae in contra 
+      <lb ed="#B" n="38"/>rium ab adversariis afferuntur, respondimus in di 
+      <lb ed="#B" n="39"/>sputatione, quae habetur part. 2. disputat theol., no 
+      <lb ed="#B" n="40"/>quam benevolum lectorem remittimus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

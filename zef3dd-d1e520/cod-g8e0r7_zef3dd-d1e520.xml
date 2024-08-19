@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 27</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 27</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="240"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e520"><!-- zef3dd-l1c27 -->
+            <head xml:id="zef3dd-d1e520-Hd1e101">Caput 27</head>
+            <head xml:id="zef3dd-d1e520-Hd1e103" type="question-title">De Scripturae definitione</head>
+            <p xml:id="zef3dd-d1e520-d1e106">
+               <lb ed="#B" n="84"/>CAPUT XXVII 
+<lb ed="#B" n="85"/>ET ULTIMUM. 
+      <lb ed="#B" n="86"/>DE SCRIPTURAE DEFINITIONE, 
+      </p>
+            <p xml:id="zef3dd-d1e520-d1e115">
+               <lb ed="#B" n="87"/>539. Definitio Scripturae sacrae potest tradi 
+      <lb ed="#B" n="88"/>jusmodi: Sacra Scriptura est verbum Dei ejusdem 
+      <lb ed="#B" n="89"/>voluntate a prophetis, evangelistis et apostolis in 
+      <lb ed="#B" n="90"/>literas redactum, doctrinam de essentia et voluntate 
+      <lb ed="#B" n="91"/>Dei perfecte ac perspicue exponens, ut ex eo 
+      homi<lb ed="#B" n="92" break="no"/>nes erudiantur ad vitam aeternam. Conserva e 
+      <lb ed="#B" n="93"/>anctifica nos, Deus, in veritate tua, cermo tuus ve 
+      <lb ed="#B" n="94"/>rilas est, Joh. 17, v. 17. Amen. 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

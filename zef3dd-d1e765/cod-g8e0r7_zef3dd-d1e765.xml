@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="408"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e765"><!-- zef3dd-l3c5 -->
+            <head xml:id="zef3dd-d1e765-Hd1e101">Caput 5</head>
+            <head xml:id="zef3dd-d1e765-Hd1e103" type="question-title">Secundum argumentum ex Novo Testamento pro adstruendo trinitatis mysterio ex novo testamento deductum</head>
+            <p xml:id="zef3dd-d1e765-d1e106">
+               <lb ed="#B" n="24"/>CAPUT V. 
+      <lb ed="#B" n="25"/>CONTINENS SECUNDUM ARGU 
+      <lb ed="#B" n="26"/>MENTUM PRO ADSTRUENDO TRI 
+      <lb ed="#B" n="27"/>NITATIS MYSTERIO EX N. T. 
+      <lb ed="#B" n="28"/>DEDUCTUM. 
+    </p>
+            <p xml:id="zef3dd-d1e765-d1e119">
+               <lb ed="#B" n="29"/>85. Alterum principale argumentum petimus e 
+      <lb ed="#B" n="30"/>baptismi nostri institutione Matth. 28, v. 19: 
+      Eunt<lb ed="#B" n="31" break="no"/>docete omnes gentes baptizantes eas in nomine Pe 
+      <lb ed="#B" n="32"/>tris et Filii et Spiritus sancti. Antequam vero e 
+      <lb ed="#B" n="33"/>noc loco argumentum nostrum formemus, tria circa 
+      <lb ed="#B" n="34"/>illum notanda: 1. collatio baptismi Christi cum in 
+      <lb ed="#B" n="35"/>stitutione nostri baptismi. Ambros. serm. 21. inqui 
+      <lb ed="#B" n="36"/>Non mirum, si in Domini lavacro mysterium non 
+      <lb ed="#B" n="37"/>defuit trinitatis, cum nostrum lavacrum trinitate 
+      <lb ed="#B" n="38"/>compleat sacramentum. Neque enim poterat 
+      Dom<lb ed="#B" n="39" break="no"/>nus non primum circa se exhibere, quod erat poste 
+      <lb ed="#B" n="40"/>humano generi praecepturus. Quemadmodum enim 
+      <lb ed="#B" n="41"/>in baptismo Christi tres personae deitatis distinet 
+      <lb ed="#B" n="42"/>se manifestant, sic noster baptismus in earundem 
+      <lb ed="#B" n="43"/>trium personarum nomine administrari jubetur, quis 
+      <lb ed="#B" n="44"/>Christus nostrum omnium personam sustinens bapti 
+      <lb ed="#B" n="45"/>catus in baptismo, quem nobiscum communem sus 
+      <lb ed="#B" n="46"/>cepit, demonstrare voluit, quae beneficia a Deo in 
+      <lb ed="#B" n="47"/>nostro baptismo sint exspectanda; 2. indivulsa 
+      con<lb ed="#B" n="48" break="no"/>nexio baptismi et invocationis. Basilius Epist. 78. 
+      <lb ed="#B" n="49"/>δεῖ ἡμὰς βακτίζεσθαι ὡς παρελάβομεν, πιστεύειν δʼ 
+      <lb ed="#B" n="50"/>ὡς βαπτιζόμεθα, δοξάζειν δὲ ὡς πεπιστεύκαμεν πα 
+      <lb ed="#B" n="51"/>τέρα καὶ υἱὸν καὶ ἄγιον πνεῦμα. Ut baptizamur, ito 
+      <lb ed="#B" n="52"/>adoramus ut adoramus, ita credimus, videlicet in 
+      unum<lb ed="#B" n="53" break="no"/>verum Deum Patrem, Filium et Spiritum s. Quia igitur 
+      <lb ed="#B" n="54"/>Christus baptismum in nomine Patris, Filii et Spiri 
+      <!--481.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="55"/>tus s. administrari jussit, eo ipso Patrem, Filium 
+      <lb ed="#B" n="56"/>et Spiritum s. unum Deum a nobis invocari prae 
+      <lb ed="#B" n="57"/>cepit. 3. Institutionis hujus tempus. Cum Christus 
+      <lb ed="#B" n="58"/>amjam in coelum adscensurus esset peracto in terris 
+      <lb ed="#B" n="59"/>ad quod a Patre missus erat, officio solennem illam 
+      <lb ed="#B" n="60"/>administrandi baptismi formam discipulis praescri 
+      <lb ed="#B" n="61"/>psit. Quamvis enim non proponatur in his verbis 
+      <lb ed="#B" n="62"/>prima baptismi institutio, cum Johannes baptista 
+      <lb ed="#B" n="63"/>ante triennium novam illam sacramenti baptistici 
+      <lb ed="#B" n="64"/>ceremoniam inchoaverit, (Luc. 3, v. 3. Joh. 1, v. 32). 
+      <lb ed="#B" n="65"/>ac apostoli ex mandato Christi jam ante baptismum 
+      <lb ed="#B" n="66"/>administraverint Johan. 4, v. 2: exponitur tamen i 
+      <lb ed="#B" n="67"/>eis solennis baptisini forma in perpetuo ecclesia 
+      <lb ed="#B" n="68"/>usu observanda, ac mandatum de baptizandis omni 
+      <lb ed="#B" n="69"/>bus omnino gentibus additur, ne apostoli ex eo 
+      <lb ed="#B" n="70"/>quod hactenus in Judaea tantum baptismus admini 
+      <lb ed="#B" n="71"/>stratus fuerat, colligerent, eum esse certi tantur 
+      <lb ed="#B" n="72"/>temporis ac loci ceremoniam. Continet igitur soler 
+      <lb ed="#B" n="73"/>nis illa baptismi institutio veluti testamentariam 
+      <lb ed="#B" n="74"/>Christi dispositionem, quam gravi consilio apostolis 
+      <lb ed="#B" n="75"/>ante suum ex hoc mundo abitum commendavit, ab 
+      <lb ed="#B" n="76"/>pjus igitur tenore vel minima ex parte discedere 
+      <lb ed="#B" n="77"/>4. Observandum etiam <!-- line coord error --> 
+      <lb ed="#B" n="78"/>religio nobis esse debet 
+      <lb ed="#B" n="79"/>illud, quia in N. T. per incarnationem Filii myste 
+      <lb ed="#B" n="80"/>rium trinitatis clarius patefactum, ut superius mo 
+      <lb ed="#B" n="81"/>nuimus, xml:ideo in solenni illa promulgatione baptism. 
+      <lb ed="#B" n="82"/>qui est sacramentum initiationis N. T., distinctam 
+      <lb ed="#B" n="83"/>trium personarum mentionem a Christo fier 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e247">
+               <lb ed="#B" n="84"/>56. Hisce praemissis ex hoc loco itidem, ut i 
+      <lb ed="#B" n="85"/>priore, duo illa membra demonstramus: l. Patris, Fili 
+      <lb ed="#B" n="86"/>et Spiritus s. veram deitatem. 2. Personalem horum 
+      <lb ed="#B" n="87"/>rium distinctionem, quo utroque membro stabilit 
+      <lb ed="#B" n="88"/>et confirmato de nostra trinitate confessio stabilita erit. 
+      <lb ed="#B" n="89"/>quippe quae nihil aliud continet, quam Patrem 
+      <lb ed="#B" n="90"/>Filium et Spiritum s. esse unum verum Deum, nec 
+      <lb ed="#B" n="91"/>tamen unam in divinitate personam, sed tres agno 
+      <lb ed="#B" n="92"/>scendas esse. Prius membrum sic demonstramus 
+      <lb ed="#B" n="93"/>In cujus nomen baptizamur, ille est verus et aeter 
+      <lb ed="#B" n="94"/>nus Deus. Atqui baptizamur in nomen Patris, Filii 
+      <lb ed="#B" n="95"/>et Spiritus s. Ergo Pater, Filius et Spiritus s. sun 
+      <lb ed="#B" n="96"/>unus verus Deum. Minor est in textu. Major pro 
+      <lb ed="#B" n="97"/>batur ex evolutione illius phraseos, quid sit bapti 
+      <lb ed="#B" n="98"/>zari in alicujus nomen, vel in alicujus nomine, eic 
+      <lb ed="#B" n="99"/>τὸ ὅνομα vel ἐν τῷ ὀνόματι Act. 2. v. 38. 10. v. 48. 
+      <lb ed="#B" n="100"/>Ea enim complectitur; 1. mandatum et institutionem 
+      <lb ed="#B" n="101"/>baptismi divinam. Ego te baptizo in nomine 
+      <lb ed="#B" n="102"/>Patris, Filii et Spiritus s., hoc est, non administro 
+      <lb ed="#B" n="103"/>ceremoniam aliquam ex humana auctoritate 
+      insti<lb ed="#B" n="104" break="no"/>cutam, sed sanctum ab ipso Deo institutum sacra 
+      <lb ed="#B" n="105"/>mentum, nec ago privato arbitrio, sed Dei loco, De 
+      <lb ed="#B" n="106"/>mandato et in persona ipsius Dei. Vid. loc. de bapti 
+      <lb ed="#B" n="107"/>§. 80. Harmon. de resurrect. p. 461. Ex eo sic 
+      <lb ed="#B" n="108"/>colligimus: Qui baptismum instituit, ille est veru 
+      <lb ed="#B" n="109"/>Deus; Pater, Filius ac Spiritus s. instituerunt ba 
+      <lb ed="#B" n="110"/>ptismum. Ergo Pater, Filius ac Spiritus s. sunt 
+      <lb ed="#B" n="111"/>unus verus Deus. Major confirmatur hoc modo 
+      <lb ed="#B" n="112"/>Sacramenta instituere est solius veri Dei proprium 
+      <lb ed="#B" n="113"/>quia ejus est media gratiae instituere, cujus est 
+      <lb ed="#B" n="114"/>gratiam dare; jam vero solus Deus dat justificatio 
+      <lb ed="#B" n="115"/>nis gratiam, ergo ipsius solius est media gratia¬ 
+      <!--482.xml-->
+      <pb ed="#B" n="409"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>seu sacramenta instituere. Vide pluribus xml:id 
+      com<lb ed="#B" n="2" break="no"/>probatum in loc. de Sacram. §. 26. Baptismus es 
+      <lb ed="#B" n="3"/>sacramentum proprie dictum, quia habet omnia re 
+      <lb ed="#B" n="4"/>quisita proprie dicti sacramenti, adest elementum 
+      <lb ed="#B" n="5"/>externum, adest verbum mandati, adest 
+      promissi<lb ed="#B" n="6" break="no"/>gratiae evangelii propriae, neque quicquam nominar 
+      <lb ed="#B" n="7"/>potest, quod ad sacramentum proprie dictum requi 
+      <lb ed="#B" n="8"/>ratur, quod non adsit in baptismo, ut alibi pleniu 
+      <lb ed="#B" n="9"/>docetur. Ergo baptismum instituere est solius De 
+      <lb ed="#B" n="10"/>proprium. Minoris veritas, quod videlicet Pater 
+      <lb ed="#B" n="11"/>Filius ac Spiritus s. baptismum instituerint, pate 
+      <lb ed="#B" n="12"/>ex textu. In cujus nomine baptismus administratu 
+      <lb ed="#B" n="13"/>ab eo etiam baptismus est institutus ac mandatur 
+      <lb ed="#B" n="14"/>Sed in nomine Patris, Filii et Spiritus s. baptismu 
+      <lb ed="#B" n="15"/>administratur. Ergo. Majorem comprobatam ded 
+      <lb ed="#B" n="16"/>mus in loc. de bapt. et Harmon. resurr. d. I. 
+      Confe<lb ed="#B" n="17" break="no"/>Ex. 5, v. 23. Deut. 18, v. 20. Matth. 18, 20. 2. Cor. 2. 10. eto 
+      <lb ed="#B" n="18"/>Possunt etiam huc referri dicta Scripturae, in qui 
+      <lb ed="#B" n="19"/>bus phrasis ἐν τῷ ὅνόματι significat in potestate et 
+      <lb ed="#B" n="20"/>virtute. Matth. 7, v. 22. Act. 3, v. 6. c. 4. v. 7. ete. 
+      <lb ed="#B" n="21"/>quia enim Pater, Filius et Spiritus s. sacramentum 
+      <lb ed="#B" n="22"/>baptisticum instituerunt, xml:ideo etiam per illud 
+      eff<lb ed="#B" n="23" break="no"/>caciter ad salutem bapitzati operantur et hae ration 
+      <lb ed="#B" n="24"/>in nomine, xml:id est, virtute ac potestate divina Patris 
+      <lb ed="#B" n="25"/>Filii et Spiritus s. baptismus confertur; 2. invoca 
+      <lb ed="#B" n="26"/>tionem Dei super baptizatum. Ego te baptizo in 
+      <lb ed="#B" n="27"/>nomne Patris et Filii et Spiritus s., h. e. invoc 
+      <lb ed="#B" n="28"/>super hanc baptismi aquam nomen Patris ac Filis 
+      <lb ed="#B" n="29"/>et Spiritus s., ut in hac actione a se mandata juxt 
+      <lb ed="#B" n="30"/>institutionem ac promissionem suam adsit teque in 
+      <lb ed="#B" n="31"/>gratiam recipiat, qui sensus hujus phraseos collig 
+      <lb ed="#B" n="32"/>tur ex 1. Sam. 17, v. 45. 2. Sam. 6, v. 18. 1. Reg. 
+      <lb ed="#B" n="33"/>18, v. 22. ete. Ex eo sic colligimus. Qui invocatu 
+      <lb ed="#B" n="34"/>ut baptizatum in gratiam recipiat ac spiritualia bo 
+      <lb ed="#B" n="35"/>neficia, inter quae est vitae aeternae hereditas, eidem 
+      <lb ed="#B" n="36"/>conferat, is est verus Deus, quia religiosa invocatio 
+      <lb ed="#B" n="37"/>est cultus soli Deo debitus, quod probatur ex eo 
+      <lb ed="#B" n="38"/>quia religiosam adorationem Deus sibi soli ita 
+      tri<lb ed="#B" n="39" break="no"/>buit, ut omnibus aliis extra se simpliciter eam dero 
+      <lb ed="#B" n="40"/>get Deut. 6. v. 13. (cum quo confer Matth. 4, v. 16 
+      <lb ed="#B" n="41"/>Luc. 4. v. 8, ubi additur exclusiva) Exod. 23, v. 2. 
+      <lb ed="#B" n="42"/>Ps. 50, v. 15. Ps. 97, v. 7. Es. 12, v. 8. c. 48. v. 11. 
+      <lb ed="#B" n="43"/>Apoc. 19, v. 9. c. 22, v. 9. Confer. loc. de Dee 
+      <lb ed="#B" n="44"/>Patre et Filio §. 127. Jam subsumo. Pater, Filius 
+      <lb ed="#B" n="45"/>et Spiritus s. invocantur, ut baptizatum in gratiam 
+      <lb ed="#B" n="46"/>recipiant ac spiritualia beneficia, inter quae est 
+      vi<lb ed="#B" n="47" break="no"/>tae aeternae hereditas, eidem conferant, ut ostensum 
+      <lb ed="#B" n="48"/>Ergo. 3. Testificationem de foedere gratiae, quod 
+      <lb ed="#B" n="49"/>Deus init cum baptizato. Ego te baptizo in nomis 
+      <lb ed="#B" n="50"/>Patris, Filii ac Spiritus s. hoc est, ego solennite 
+      <lb ed="#B" n="51"/>testificor et confirmo, quod haec aqua, super quar 
+      <lb ed="#B" n="52"/>nomen Dei juxta ipsius institutionem est invocatum 
+      <lb ed="#B" n="53"/>non sit nuda et simplex aqua, sed salutare sacra 
+      <lb ed="#B" n="54"/>mentum, cum sit aqua verbo Dei comprehensa 
+      e<lb ed="#B" n="55" break="no"/>sanctificata, ac proinde etiam testificor, quod per 
+      <lb ed="#B" n="56"/>affusionem hujus aquae in nomine sacrosanetae tra 
+      <lb ed="#B" n="57"/>nitatis factam Pater recipiat te in gratiam et ad 
+      <lb ed="#B" n="58"/>ceptet te in filium, quod Filius suo sanguine a per 
+      <lb ed="#B" n="59"/>eatis te abluat, veste justitiae induat ac in fratrer 
+      <lb ed="#B" n="60"/>et coheredem acceptet; quod Spiritus s. te regene 
+      <!--482.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ret ac renovet ad vitam aeternam ac velit te in po 
+      <lb ed="#B" n="62"/>sterum esse suum templum ae habitaculum, qui 
+      sen<lb ed="#B" n="63" break="no"/>sus hujus phraseos colligitur ex Marc. 9, v. 39. et 
+      <lb ed="#B" n="64"/>ex aliis Scripturae locis. Conferatur dictum 
+      apo<lb ed="#B" n="65" break="no"/>stoli 1. Corinth. 6, v. 11: Abluti estis, canctificat 
+      <lb ed="#B" n="66"/>estis, justificati estis in nomine Domini nostri Jesu 
+      <lb ed="#B" n="67"/>Christi et in Spiritu Dei nostri, ex quo consta 
+      <lb ed="#B" n="68"/>primo, in nomine Christi baptizari esse xml:idem, quod in 
+      <lb ed="#B" n="69"/>virtute et merito Christi a peccatis ablui. Secunde 
+      <lb ed="#B" n="70"/>Christum et Spiritum s. non minus esse auctorem 
+      <lb ed="#B" n="71"/>nostrae ablutionis, sanctificationis et justificationi 
+      <lb ed="#B" n="72"/>quam Patrem. Tertio eum, qui per baptismum nos 
+      <lb ed="#B" n="73"/>abluit, esse etiam justificationis causam principalem 
+      <lb ed="#B" n="74"/>Quare cum Filio et Spiritui s. tribuatur prius 
+      <lb ed="#B" n="75"/>posterius eis denegari nequit. Justificatio autem est 
+      <lb ed="#B" n="76"/>opus solius veri Dei, ut constat. Ex quibus omnibus 
+      <lb ed="#B" n="77"/>sic inferimus: Qui baptizatum in gratiam 
+      recipi<lb ed="#B" n="78" break="no"/>foedus gratiae cum ipso init, a peccatis abluit et, 
+      <lb ed="#B" n="79"/>heredem vitae aeternae scribit, ille est verus Deus 
+      <lb ed="#B" n="80"/>Ratio est, quia haec omnia simul sumta competum 
+      <lb ed="#B" n="81"/>non instrumentali, sed principali ac primariae salutis 
+      <lb ed="#B" n="82"/>iostrae causae, quae est solus Deus Esa. 43, v. 11. 
+      <lb ed="#B" n="83"/>c. 45, v. 21. Hoseae i, v. 7. etc. Vid. loc. de Dee 
+      <lb ed="#B" n="84"/>Patre et Filio §. 113. Quemadmodum circumcisio 
+      <lb ed="#B" n="85"/>in Vet. Test. erat foedus inter verum Deum et 
+      ho<lb ed="#B" n="86" break="no"/>minem circumcisum Genes. 17, v. 7; ita baptismus 
+      <lb ed="#B" n="87"/>qui in Nov. Testam. successit in locum circumcisie 
+      <lb ed="#B" n="88"/>nis (Col. 2, v. 11), est foedus gratiae inter verum 
+      <lb ed="#B" n="89"/>Deum et hominem baptizatum, unde a D. Petro 
+      <lb ed="#B" n="90"/>pulcherrima appellatione vocatur συνειδήσεως ἀγαθί 
+      <lb ed="#B" n="91"/>ἐπερώτημα 1. Epist. 3, v. 21. Cujus appellationi 
+      <lb ed="#B" n="92"/>rationem sic declarat D. Chemnic. in Harm. c. 17 
+      <lb ed="#B" n="93"/>p. 16: Quando in Vet. Testam. in casu aliquo oc 
+      <lb ed="#B" n="94"/>Domini interrogabant, ut certi redderentur, quomodo 
+      <lb ed="#B" n="95"/>Deus in tali casu affectus esset erga ipsos, Graec 
+      <lb ed="#B" n="96"/>semper usurpant verbum ἐπερωτᾶν ἐν κυρίῳ et δι 
+      <lb ed="#B" n="97"/>ευρίου. Baptismus igitur est interrogatio, qua inte 
+      <lb ed="#B" n="98"/>DEUM et peccatorem, qui baptizatur, agitur de 
+      <lb ed="#B" n="99"/>bona conscientia erga DEUM propter Christum, xml:id 
+      <lb ed="#B" n="100"/>est, quomodo Deus erga baptizatum affectus sit 
+      <lb ed="#B" n="101"/>quid conscientia baptizati de gratia Dei sibi 
+      pro<lb ed="#B" n="102" break="no"/>mittere debeat. Jam subsumo. Pater, Filius et 
+      <lb ed="#B" n="103"/>Spiritus s. baptizatum in gratiam recipiunt, foedus 
+      <lb ed="#B" n="104"/>gratiae cum ipso ineunt, ete. Ergo Pater, Filius e 
+      <lb ed="#B" n="105"/>Spiritus s. sunt unus verus Deus. Tertull. lib. d. 
+      <lb ed="#B" n="106"/>bapt. c. 6: Fides obsignata in Patre et Filio e 
+      <lb ed="#B" n="107"/>Spiritu s. ablutionem delictorum impetrat. Nam 
+      <lb ed="#B" n="108"/>si in tribus testibus stabit omne verbum, quanto 
+      <lb ed="#B" n="109"/>magis, dum habemus per benedictionem eosdem 
+      ar<lb ed="#B" n="110" break="no"/>bitros fidei et sponsores salutis, sufficit ad fiduciam 
+      <lb ed="#B" n="111"/>spei nostrae et numerus divinorum nominum. 
+      Soci<lb ed="#B" n="112" break="no"/>nus in explicat. locor. Script. p. 82. in nomine Chris 
+      <lb ed="#B" n="113"/>praedicari poenitentiam et remissionem peccatorum, 
+      <lb ed="#B" n="114"/>est Christo ipso xml:id praestante et perficiente. (Ergo 
+      <lb ed="#B" n="115"/>etiam in nomine Christi baptizari est Christo ipsc 
+      <lb ed="#B" n="116"/>et praestante et perficiente baptizari et per baptismum 
+      <lb ed="#B" n="117"/>coelestium bonorum participem fieri.) 4. 
+      Obligatio<lb ed="#B" n="118" break="no"/>nem baptizati ad eum, in cujus nomen baptizatur, ex 
+      <lb ed="#B" n="119"/>verbo recte agnoscendum, invocandum et colendum 
+      <lb ed="#B" n="120"/>qui sensus phraseos colligitur ex Gal. 3. v. 27, unde 
+      <!--483.xml-->
+      <pb ed="#B" n="410"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>sic colligimus. Cui baptizatus ad honorem et cultum 
+      <lb ed="#B" n="2"/>divinum exhibendum obligatur, is est verus Deus. 
+      <lb ed="#B" n="3"/>quia Deus gloriam suam divinam non vult 
+      dar<lb ed="#B" n="4" break="no"/>alteri Esa. 42, v. 8. c. 43, v. 10. c. 46, v. 9. etc.; 
+      <lb ed="#B" n="5"/>certe cui divinus honor defertur, illi etiam divins 
+      <lb ed="#B" n="6"/>natura tribuitur, quia divinus honor non nisi ratione 
+      <lb ed="#B" n="7"/>naturae divinae debetur. Ut enim Deus non nis 
+      <lb ed="#B" n="8"/>ratione suae naturae divinae Deus est, ita non nisi 
+      <lb ed="#B" n="9"/>ratione divinae naturae divino honore colitur. Deui 
+      <lb ed="#B" n="10"/>colere est divinam in eo naturam agnoscere, venerari 
+      <lb ed="#B" n="11"/>et colere. Jam subsumo. Deo Patri, Filio et 
+      Spiri<lb ed="#B" n="12" break="no"/>tui s. baptizatus ad honorem et cultum divinui 
+      <lb ed="#B" n="13"/>exhibendum obstringitur, ut constat ex prioribus 
+      <lb ed="#B" n="14"/>Ergo Pater, Filius et Spiritus sanctus est unus veru. 
+      <lb ed="#B" n="15"/>Deus 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e630">
+               <lb ed="#B" n="16"/>87. Accurate autem nota 1. Christum praecipere 
+      <lb ed="#B" n="17"/>ut baptizetur non in nominibus, sed in nomine Patri 
+      <lb ed="#B" n="18"/>et Filii et Spiritus s., ut unum Dei nomen, xml:id est 
+      <lb ed="#B" n="19"/>una deitatis essentia hisce tribus competere demon 
+      <lb ed="#B" n="20"/>stretur, xml:id quod trium istarum personarum ὁμοουοίαν 
+      <lb ed="#B" n="21"/>probat. Ambros. lib. I. de Spiritu s. c. 4: Qui 
+      <lb ed="#B" n="22"/>unitatem separare audeat nominis, cum operationi 
+      <lb ed="#B" n="23"/>videat unitatem? Sed quid ego unitatem nomini 
+      <lb ed="#B" n="24"/>argumentis adstruo, cum divinae vocis evidens testo 
+      <lb ed="#B" n="25"/>monium sit, unum nomen esse Patris et Filii e 
+      <lb ed="#B" n="26"/>Spiritus s. Scriptum est enim: Ite, baptizate gente 
+      <lb ed="#B" n="27"/>in nomine Patris et Filii et Spiritus s., in nomine 
+      <lb ed="#B" n="28"/>dixit, non in nominibus. Non ergo aliud nomer 
+      <lb ed="#B" n="29"/>Patris, aliud nomen Filii, aliud nomen Spiritus s. 
+      <lb ed="#B" n="30"/>quia unus, non plura nomina, quia non duo dii 
+      <lb ed="#B" n="31"/>non tres dii. Theoph. in comm. Matth. 28: Unur 
+      <lb ed="#B" n="32"/>nomen, una deitas. Quae omnia eo sensu accipienda 
+      <lb ed="#B" n="33"/>ut nomen essentialiter intelligatur, si vero persona 
+      <lb ed="#B" n="34"/>liter sumitur, tunc tria nomina, i. e. tres personae 
+      <lb ed="#B" n="35"/>dicuntur, ut est in confessione ecclesiae. Pater 
+      <lb ed="#B" n="36"/>Filius, sanctus Spiritus tria sunt nomina omnio 
+      <lb ed="#B" n="37"/>eadem substantia; 2. non baptizari nos in nomine 
+      <lb ed="#B" n="38"/>Patris per Filium, sed in nomine Patris, Filii e 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e682">
+               <lb ed="#B" n="39"/>Ariani olim baptizabant in nomine 
+      <lb ed="#B" n="40"/>Spiritus 8. 
+      <lb ed="#B" n="41"/>Patris per Filium in Spiritu s. teste Sonomeno lil 
+      <lb ed="#B" n="42"/>histor. c. 26. Niceph. lib. 16, e. 35, ut inaequalita. 
+      <lb ed="#B" n="43"/>tem horum trium hac baptismi forma profiterentu 
+      <lb ed="#B" n="44"/>utique ergo in conscientia sua convicti erant, 
+      for<lb ed="#B" n="45" break="no"/>mam baptismi a Christo institutam ὁμοονσίαν e 
+      <lb ed="#B" n="46"/>aequalitatem harum trium personarum comprobare 
+      <lb ed="#B" n="47"/>3. Patri Filium et Spiritum s. ita conjungi, ut non 
+      <lb ed="#B" n="48"/>minus in ipsorum quam Patris nomine baptismu 
+      <lb ed="#B" n="49"/>administretur, ergo una virtus, una majestas, una et 
+      <lb ed="#B" n="50"/>aequalis auctoritas illis tribuitur. Nisi enim una 
+      <lb ed="#B" n="51"/>horum trium esset virtus, majestas una et aequalis 
+      <lb ed="#B" n="52"/>auctoritas, utique in baptistici sacramenti admini 
+      <lb ed="#B" n="53"/>stratione non conjungerentur aequaliter Patri. Isi. 
+      <lb ed="#B" n="54"/>dorus Pelus. lib. I. Epist. 109: Cum Deus et salva 
+      <lb ed="#B" n="55"/>tor noster Spiritum s. divinam trinitatem 
+      compler<lb ed="#B" n="56" break="no"/>tradiderit atque in cancti baptismi invocatione unc 
+      <lb ed="#B" n="57"/>cum Patre et Filio, tanquam a peccatis 
+      liberan<lb ed="#B" n="58" break="no"/>numeretur, ete., quid eum quiddam factitium av 
+      <lb ed="#B" n="59"/>creatum aut servilis naturae ac non herilis et 
+      eff<lb ed="#B" n="60" break="no"/>ctricis ac regiae essentiae cognatum et 
+      consubstan<lb ed="#B" n="61" break="no"/>tialem Spiritum s. esae doces? Nam ni servus est 
+      <!--483.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>cum Domino minime numeretur. Si creatus est, cum 
+      <lb ed="#B" n="63"/>creatore minime conjungatur. Idem per omnia de 
+      <lb ed="#B" n="64"/>Filio dicimus. Quodsi enim inaequali ratione cum 
+      <lb ed="#B" n="65"/>Patre Filius et Spiritus s. conjungerentur, 
+      procu<lb ed="#B" n="66" break="no"/>dubio conjungerentur ut instrumenta cum causa sus 
+      <lb ed="#B" n="67"/>principali, ut colligitur ex aliis Scripturae dictis 
+      <lb ed="#B" n="68"/>quae Photiniani urgent, in quibus vel personae vel 
+      <lb ed="#B" n="69"/>res humanae in operationibus et actionibus sive 
+      no<lb ed="#B" n="70" break="no"/>stris erga Deum sive DEI erga nos cum ipso DEC 
+      <lb ed="#B" n="71"/>conjunguntur Exod. 14, v. 31: crediderunt Jehovae 
+      <lb ed="#B" n="72"/>et Moysi. Jud. 7, v. 18: Gladius Gideonis et Dei 
+      <lb ed="#B" n="73"/>1. Sam. 12, v. 18: Timuerunt Samuelem et 
+      Domi<lb ed="#B" n="74" break="no"/>num, ete. Jam vero de conjunctione Filii et 
+      Spiri<lb ed="#B" n="75" break="no"/>cus s. cum Patre tale quid cogitari vel asseri nequit. 
+      <lb ed="#B" n="76"/>quia quicquid sit de Filio, cujus ὁμοουσίαν cun 
+      <lb ed="#B" n="77"/>Patre alibi ostendemus, certe de Spiritus s. Photi 
+      <lb ed="#B" n="78"/>niani salvis suis hypothesibus statuere nequeunt, qui 
+      <lb ed="#B" n="79"/>cum Patre conjungatur tanquam instrumentum, cum 
+      <lb ed="#B" n="80"/>statuant ipsum esse virtutem et potentiam Dei, jam 
+      <lb ed="#B" n="81"/>vero Deus per suam potentiam non agit tanquam 
+      <lb ed="#B" n="82"/>per instrumentum. 4. Christum, cum solennem illam 
+      <lb ed="#B" n="83"/>baptismi institutionem promulgare vellet, praemisisse 
+      <lb ed="#B" n="84"/>Matth. 28, v. 18: mihi data est omnis potestas i 
+      <lb ed="#B" n="85"/>coelo et in terra, quo ipso ostendit baptismum 
+      admi<lb ed="#B" n="86" break="no"/>nistrari in nomine suo, non tanquam servi et ministri 
+      <lb ed="#B" n="87"/>sed tanquam Domini, adeoque unius cum Patre et 
+      <lb ed="#B" n="88"/>Spiritu s. Dei, nisi enim verus Deus esset, divinae 
+      <lb ed="#B" n="89"/>illius et infinitae potestatis, quae per πᾶσαν ἐξουσία 
+      <lb ed="#B" n="90"/>in coelo ac terra denotatur, secundum humanam 
+      na<lb ed="#B" n="91" break="no"/>turam vere et realiter particeps fieri non potuisset 
+      <lb ed="#B" n="92"/>ut suo loco docetur. 5. Act. 2. v. 38. c. 10, v. 46. 
+      <lb ed="#B" n="93"/>commemorari, quod apostoli baptizaverint in nomine 
+      <lb ed="#B" n="94"/>Christi. Id nequaquam eo sensu accipiendum, ut 
+      <lb ed="#B" n="95"/>quidam ex Pontificiis volunt, quia apostoli ipsam 
+      <lb ed="#B" n="96"/>essentialem verborum formam ad tempus mutaverint 
+      <lb ed="#B" n="97"/>it nomen Christi illustrius et augustius redderent 
+      <lb ed="#B" n="98"/>Eccius in enchir. locorum, Hardingus art. 2. de 
+      com<lb ed="#B" n="99" break="no"/>inunione sub una specie sect. 9. Neque enim ullo 
+      <lb ed="#B" n="100"/>modo verisimile est, eos qui a Christo in ipsa bapti 
+      <lb ed="#B" n="101"/>smi promulgatione audiverant, docete eos serrare 
+      <lb ed="#B" n="102"/>quae ego praecepi vobis, a verbis institutionis, 
+      <lb ed="#B" n="103"/>Christo magistro praescriptis temere discessisse, sed 
+      <lb ed="#B" n="104"/>de causa efficiente et finali, non autem de forma ver 
+      <lb ed="#B" n="105"/>borum usurpata xml:id accipiendum, ut in loc. de Bapti 
+      <lb ed="#B" n="106"/>§. 91. pluribus ostendimus. Colligimus exinde, quod 
+      <lb ed="#B" n="107"/>verbis, „in nomine Christi““ Pater et Spiritus s. 
+      in<lb ed="#B" n="108" break="no"/>eludantur, quia scilicet sunt unius et indivisae essentia 
+      <lb ed="#B" n="109"/>ac sine ulla inaequalitate ad baptismum concurrunt 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e843">
+               <lb ed="#B" n="110"/>58. Atque haec de priore argumenti nostri membro 
+      <lb ed="#B" n="111"/>videlicet de vera Patris, Filii et Spiritus s. deitate 
+      <lb ed="#B" n="112"/>adeoque horum trium ὁμοουσίᾳ et aequalitate dicta 
+      <lb ed="#B" n="113"/>junto; restat ut ad posterius membrum accedamus 
+      <lb ed="#B" n="114"/>ac personalem horum trium, Patris scilicet Filii et 
+      <lb ed="#B" n="115"/>Spiritus s. distinctionem demonstremus. Eam 
+      ver<lb ed="#B" n="116" break="no"/>confirmant: 1. tria distincta nomina. Neque enim 
+      <lb ed="#B" n="117"/>in Patris tantum, sed etiam in Filii et Spiritus s 
+      <lb ed="#B" n="118"/>nomine baptismus administrari jubetur. Basilius 
+      <lb ed="#B" n="119"/>Epist. 64: Ex eo, quod dictum est: Euntes bapti 
+      <lb ed="#B" n="120"/>zate in nomine Patris, ete. non est putandum, unum l 
+      <lb ed="#B" n="121"/>duntaxat nomen esse traditum (unam personam no¬ 
+      <!--484.xml-->
+      <pb ed="#B" n="411"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>minatam, quia vox nominis personaliter a Basilio 
+      <lb ed="#B" n="2"/>accipitur). Quemadmodum enim qui Paulum e 
+      <lb ed="#B" n="3"/>Sylvanum et Timotheum nominat, tria quidem 
+      no<lb ed="#B" n="4" break="no"/>mina dicit, cum tria dicat, conjunctione illa 
+      com<lb ed="#B" n="5" break="no"/>plexus, unicuique nomini proprium subesse significo 
+      <lb ed="#B" n="6"/>tum docet, quapropter et rerum in se significationes 
+      <lb ed="#B" n="7"/>habent nomina, res vero discretam et absolutam 
+      <lb ed="#B" n="8"/>habere essentiam nemo eorum, qui vel sensu prac 
+      <lb ed="#B" n="9"/>diti sunt, ambigit. Patris enim et Filii et Spiritu 
+      <lb ed="#B" n="10"/>s. natura quidem eadem est et divinitas una, nomino 
+      <lb ed="#B" n="11"/>vero discreta determinatas nobis et absolutas intello 
+      <lb ed="#B" n="12"/>gentias offerunt; 2. articulus δεικτικὸς ter repetitus 
+      <lb ed="#B" n="13"/>et cuilibet nomini additus. Baptizate in nomin 
+      <lb ed="#B" n="14"/>τοῖ παιρός, 1οῦ υἱοι, τοῦ ἀγίου πνεύμαιος, illiu 
+      <lb ed="#B" n="15"/>Patris, cujus vocem coelitus delatam in baptisme 
+      <lb ed="#B" n="16"/>et transfiguratione mea audivistis, a quo me exivisse 
+      <lb ed="#B" n="17"/>et in mundum esse missum toties professus sum 
+      <lb ed="#B" n="18"/>illius Filii, quem in assumta carne hactenus vid 
+      <lb ed="#B" n="19"/>stis, cujus gloriam tanquam unigeniti a Patre vid. 
+      <lb ed="#B" n="20"/>itis; illius Spiritus s., quem in specie columbae a 
+      <lb ed="#B" n="21"/>in lucida nube super me descendere vidistis et cujus 
+      <lb ed="#B" n="22"/>promissionem a me accepistis, ete. Et sane fatetu 
+      <lb ed="#B" n="23"/>ipse Socinus repetitionem illam articuli non carere 
+      <lb ed="#B" n="24"/>singulari emphasi in lib. de baptism. aq. c. 2. p. 28. 
+      <lb ed="#B" n="25"/>Non simpliciter, inquit, et indefinite verba prolate 
+      <lb ed="#B" n="26"/>sunt, verum cum relatione manifesta addito singulo 
+      <lb ed="#B" n="27"/>articulo, cujus tanta vis est, ut certos quosdam di 
+      <lb ed="#B" n="28"/>signet, ad quam articuli vim exprimendam adjur 
+      <lb ed="#B" n="29"/>gendum esset in versione Latina singulis pronomer 
+      <lb ed="#B" n="30"/>hoc pacto: Baptizantes eos in vel ad nomen illii 
+      <lb ed="#B" n="31"/>Patris, illius Filii et illius Spiritus e.; 3. conjunctis. 
+      <lb ed="#B" n="32"/>copulativa καl bis repetita, per quam Filius et 
+      Spi<lb ed="#B" n="33" break="no"/>ritus s. in forma baptismi Patri aequaliter 
+      conjun<lb ed="#B" n="34" break="no"/>guntur. Baptizate eos in nomine Patris et Filii e 
+      <lb ed="#B" n="35"/>Spiritus s. At nisi Pater, Filius et Spiritus s. essen 
+      <lb ed="#B" n="36"/>tres distinctae personae, quorsum illa copulativa in 
+      <lb ed="#B" n="37"/>sereretur? 4. Si conjungantur alia Scripturae dicta 
+      <lb ed="#B" n="38"/>apparebit, quamlibet personam peculiaria beneficie 
+      <lb ed="#B" n="39"/>in baptismo et per baptismum distribuere, quo re 
+      <lb ed="#B" n="40"/>spiciens Christus expressam et distinetam trium per 
+      <lb ed="#B" n="41"/>sonarum mentionem in baptismi administratione fier 
+      <lb ed="#B" n="42"/>praecepit. De Patre dicitur Tit. 3, v. 5: juxta mi 
+      <lb ed="#B" n="43"/>sericordiam suam salvos nos fecit per lavacrur 
+      <lb ed="#B" n="44"/>regenerationis et renovationis. 1. Petri 3, v. 21. 
+      <lb ed="#B" n="45"/>Baptismus est conscientiae bonae interrogatio ergo 
+      <lb ed="#B" n="46"/>Deum. De Filio dicitur Eph. 5, v. 26: Christus 
+      <lb ed="#B" n="47"/>dilexit ecclesiam et se ipsum tradidit pro ea, v. 2. 
+      <lb ed="#B" n="48"/>ut mundaret eam lavacro aquae in verbo. Per 
+      <lb ed="#B" n="49"/>baptismum Christum induimus Gal. 3, v. 27; bapti 
+      <lb ed="#B" n="50"/>zamur in ipsius mortem Rom. 6, v. 4, et morti ejus 
+      <lb ed="#B" n="51"/>complantamur v. 5. De Spiritu s. dicitur: Nise 
+      <lb ed="#B" n="52"/>quis renatus fuerit ex aqua et Spiritu, non intrabi 
+      <lb ed="#B" n="53"/>requum Dei Joh. 3, v. 5. Baptismus est laracrum 
+      <lb ed="#B" n="54"/>regenerationis et renovationis Spiritus s. Tit. 3. 
+      <lb ed="#B" n="55"/>V. 5. Vide loc. de Bapt. §. 101. et seqq. Atque 
+      <lb ed="#B" n="56"/>Illa ipsa distincta beneficiorum enumeratio, quae? 
+      <lb ed="#B" n="57"/>bingulis trinitatis personis ad nos descendunt, argi 
+      <lb ed="#B" n="58"/>mentum est, in ipso deitatis complexu personis hisce 
+      <lb ed="#B" n="59"/>reule aliquod discrimen intercedore, quod per exte¬ 
+      <!--484.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>riorum istorum beneficiorum distinctam 
+      enumeratio<lb ed="#B" n="61" break="no"/>nem denotatur 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e1015">
+               <lb ed="#B" n="62"/>89. Videamus vero exceptiones adversariorum 
+      <lb ed="#B" n="63"/>1. Quidam per insignem impudentiam dicunt, 
+      locum<lb ed="#B" n="64" break="no"/>hunc esse supposititium, ab Athanasianis textui in 
+      <lb ed="#B" n="65"/>sertum. Franc. David. et Georg. Blandrata in refut. 
+      <lb ed="#B" n="66"/>scripti Georgii Majoris lit. N. fol. 4. Resp. 1. omnes 
+      <lb ed="#B" n="67"/>haeretici omnia Scripturae dicta hoc subterfugio 
+      elu<lb ed="#B" n="68" break="no"/>dere eorundemque vim elidere possent; 2. sine ulla 
+      <lb ed="#B" n="69"/>probatione, imo sine ulla probabili conjectura illud 
+      <lb ed="#B" n="70"/>isseritur, merito igitur tanquam fictum et falsum 
+      <lb ed="#B" n="71"/>rejicitur; 3. series contextus illam baptismi formam 
+      <lb ed="#B" n="72"/>diserte exprimi requirit; 4. antiquissimi ecclesiae. 
+      <lb ed="#B" n="73"/>loctores haec verba tanquam genuina et canonica 
+      <lb ed="#B" n="74"/>allegant. Ignatius in Epist. ad Philadelph.: Domi 
+      <lb ed="#B" n="75"/>nus mittens apostolos ad docendum omnes gente 
+      <lb ed="#B" n="76"/>praecepit eis, ut baptizarent in nomine Patris et F 
+      <lb ed="#B" n="77"/>lii et Spiritus s., non in unum trinominem neque 
+      <lb ed="#B" n="78"/>in tres increatos, sed in tres ejusdem honoris. Ter 
+      <lb ed="#B" n="79"/>tull. adv. Praxeam c. 2. et omnes, qui de trinitate 
+      <lb ed="#B" n="80"/>traetarunt; 5. nullus Arianorum hac exceptione 
+      usu<lb ed="#B" n="81" break="no"/>egitur, cum tamen summis viribus Filii deitatem, 
+      <lb ed="#B" n="82"/>et consequenter trinitatis dogma impugnarent; 6. 
+      re<lb ed="#B" n="83" break="no"/>centiores Photinianos hujus audacis commenti pudet. 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e1065">
+               <lb ed="#B" n="84"/>90. 2. Apostolus testatur,6 in Moysen quoque 
+      <lb ed="#B" n="85"/>Israëlitas fuisse baptizatos (1. Cor. 10, v. 2.) neque 
+      <lb ed="#B" n="86"/>tamen ex eo colligi potest, Moysen fuisse verum 
+      <lb ed="#B" n="87"/>Deum. Ergo nec ex eo, quod in Christi et Spiritus 
+      <lb ed="#B" n="88"/>s. nomen baptizamur, xml:idem colligi poterit. Socin. 
+      <lb ed="#B" n="89"/>in animadv. ad assert. 6. Posnan. p. 44. Catech. 
+      <lb ed="#B" n="90"/>Racov. p. 44. et reliqui omnes. Resp. Baptismi no 
+      <lb ed="#B" n="91"/>men in loco allegato non accipitur proprie pro sacra 
+      <lb ed="#B" n="92"/>mento illo initiationis ad conferendam peccatorum 
+      <lb ed="#B" n="93"/>emissionem et aeternam salutem divinitus instituto. 
+      <lb ed="#B" n="94"/>quod in solius Dei nomine conferri posse ac 
+      deber<lb ed="#B" n="95" break="no"/>superius ostendimus, unde etiam apostolus tanto co 
+      <lb ed="#B" n="96"/>natu negat, Corinthios in suum nomen baptizatos 
+      <lb ed="#B" n="97"/>esse I. Cor. 1, v. 13, sed metaphorice ac typice pro 
+      <lb ed="#B" n="98"/>deductione per mare rubrum, qui transitus maris fuit 
+      <lb ed="#B" n="99"/>paptismi nostri typus. Dicuntur autem Israëlitae in 
+      <lb ed="#B" n="100"/>Moysen baptizati, vel quia Moysis ministerio per 
+      <lb ed="#B" n="101"/>mare rubrum deducti, vel quia per illud beneficium 
+      <lb ed="#B" n="102"/>livinum obligati fuerunt, ut Moysi Dei ministro 
+      <lb ed="#B" n="103"/>fidem adhiberent. Vid. disp. 10. de glor. Dei §. 4. 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e1111">
+               <lb ed="#B" n="104"/>91. 3. Baptizari in nomine Spiritus s. nihil aliue 
+      <lb ed="#B" n="105"/>est quam Spiritu s. donari, quia Aet. 2, v. 38. di 
+      <lb ed="#B" n="106"/>citur: Baptizetur unusquisque vestrum in nomine 
+      <lb ed="#B" n="107"/>Jesu Christi, et accipietis virtutem Spiritus e. Ergo 
+      <lb ed="#B" n="108"/>ex eo, quod in nomen Filii et Spiritus s. baptizamur. 
+      <lb ed="#B" n="109"/>non potest harum personarum cum Patre ὁμοουσίο 
+      <lb ed="#B" n="110"/>inferri. Franc. David. in Coll. Transylv. act. diei? 
+      <lb ed="#B" n="111"/>Resp. vera est haec explicatio, sed insufficiens, ut ex 
+      <lb ed="#B" n="112"/>dictis constat. Non negamus illos, qui in vera fid 
+      <lb ed="#B" n="113"/>baptismum suscipiunt, per Spiritum s. regenerari ac 
+      <lb ed="#B" n="114"/>renovari, Spiritu donari, sed ex eo non debet in 
+      <lb ed="#B" n="115"/>ferri, in nomen Spiritus s. baptizari nihil aliud 
+      ess<lb ed="#B" n="116" break="no"/>quam Spiritu s. donari, alias consequens foret, in 
+      <lb ed="#B" n="117"/>nomen Patris et Filii baptizari nihil aliud esse quam 
+      <lb ed="#B" n="118"/>Patre et Filio vel certe beneficiis a Patre et Filio 
+      <!--485.xml-->
+      <pb ed="#B" n="412"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>profectis donari, cum tamen haec phrasis longe plura 
+      <lb ed="#B" n="2"/>complectatur, uti visum fuit 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e1158">
+               <lb ed="#B" n="3"/>92. 4. Locum Matthaei quidem affirmare, quo 
+      <lb ed="#B" n="4"/>homines in nomen Patris, Filii et Spiritus s. bapti 
+      <lb ed="#B" n="5"/>zari debeant, sed Patrem, Filium et Spiritus s. sin 
+      <lb ed="#B" n="6"/>gulos divinas personas esse, xml:id nec verba testar, 
+      <lb ed="#B" n="7"/>neque ulla ratione vel consequentia demonstrari poss. 
+      <lb ed="#B" n="8"/>cum Filius sit persona divina, sed longe diverseo 
+      <lb ed="#B" n="9"/>ratione quam Pater, Spiritus s. vero non sit 
+      per<lb ed="#B" n="10" break="no"/>sona. Schmaltz. in refut. thes. D. Frantz. p. 5. sen. 
+      <lb ed="#B" n="11"/>sum verborum dicit esse eum, quod illi, qui Christ 
+      <lb ed="#B" n="12"/>discipuli fieri volunt, erudiendi sint in doctrina di 
+      <lb ed="#B" n="13"/>Deo Patre et Jesu Christo et Spiritu s., quae ad 
+      <lb ed="#B" n="14"/>salutem omnino necessaria est, etiamsi nec Filius 
+      <lb ed="#B" n="15"/>ille Deus unus sit, qui Pater est, nec Spiritus s. 3. 
+      <lb ed="#B" n="16"/>persona; p. 36. Resp. 1. et veram Filii deitater 
+      <lb ed="#B" n="17"/>et Spiritus s. personalitatem luculenter, uti spero, ex 
+      <lb ed="#B" n="18"/>verbis Christi ostendimus; 2. eos, qui baptizantur 
+      <lb ed="#B" n="19"/>in doctrina de Deo erudiendos esse non negamu 
+      <lb ed="#B" n="20"/>sed in hisce institutionis baptisticae verbis nihil 
+      <lb ed="#B" n="21"/>plus contineri, hoc vero est, quod probari cupimus 
+      <lb ed="#B" n="22"/>3. non de baptismo doctrinae, sed aquae Christ 
+      <lb ed="#B" n="23"/>verba accipienda esse, alibi demonstratur. Certe 
+      <lb ed="#B" n="24"/>vox baptismi grammatice non significat doctrinam 
+      <lb ed="#B" n="25"/>ac quae pro stabilienda hujus vocis pro doctrin 
+      <lb ed="#B" n="26"/>significatione afferuntur, includunt aquae baptismum 
+      <lb ed="#B" n="27"/>synecdochice igitur accipienda sunt, ipsum erg 
+      <lb ed="#B" n="28"/>baptismi nomen absoluto positum, nisi evidentia 
+      textu<lb ed="#B" n="29" break="no"/>aliud statuere cogat, semper accipitur de baptisme 
+      <lb ed="#B" n="30"/>aquae, quae est propria et nativa ejus significatio 
+      <lb ed="#B" n="31"/>Tantum vero abest, ut quicquam in verbis CHRIST 
+      <lb ed="#B" n="32"/>pccurrat, quod a proprietate literae nos discedere e 
+      <lb ed="#B" n="33"/>de doctrinae baptismo eadem accipere cogat, u 
+      <lb ed="#B" n="34"/>potius contrarium ex illis colligatur. Doctrinae enim 
+      <lb ed="#B" n="35"/>Christus jam antea fecerat mentionem, xml:ideoque non 
+      <lb ed="#B" n="36"/>nisi per insignem 1αυίολογίαν verbum baptizandi ad 
+      <lb ed="#B" n="37"/>doctrinam referri potest. Vid. loc. de bapt. §. 115. 
+      <lb ed="#B" n="38"/>4. Quo modo in Patris nomen baptizari jubemus 
+      <lb ed="#B" n="39"/>eo etiam modo in Filii nomen jubemur bapti 
+      <lb ed="#B" n="40"/>zari, ut ostendit copulativa καί. Atqui bapti 
+      <lb ed="#B" n="41"/>camur in nomen Patris ut veri Dei. Ergo etiam e 
+      <lb ed="#B" n="42"/>modo in nomen Filii baptizamur. 5. Quo modo in 
+      <lb ed="#B" n="43"/>verbis illis Filius a Patre distinguitur, eo etiam 
+      <lb ed="#B" n="44"/>modo Spiritus s. a Patre distinguitur, ut ostendit 
+      <lb ed="#B" n="45"/>textus series. Atqui Filius a Patre distinguitur 
+      u<lb ed="#B" n="46" break="no"/>persona. Ergo etiam Spiritus s. a Patre ut persons 
+      <lb ed="#B" n="47"/>distinguitur. Vid. Disp. 10. de gloria Dei. §. 5. 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e1258">
+               <lb ed="#B" n="48"/>93. 5. Non est novum, ut res cum personis in ri 
+      <lb ed="#B" n="49"/>bus baptismo similibus conjungantur et xml:idem illis 
+      <lb ed="#B" n="50"/>tribuatur, quod personis, hin quidem proprie, illi 
+      <lb ed="#B" n="51"/>vero improprie. Schmaltz. d. I. p. 36, ubi affert 
+      <lb ed="#B" n="52"/>haec exempla: Act. 20, v. 32. Eph. 6, v. 10. Phil. 
+      <lb ed="#B" n="53"/>v. 10. Saepe ipsi homines mortales in operationi 
+      <lb ed="#B" n="54"/>bus et actionibus sive nostria erga Deum sire Dee 
+      <lb ed="#B" n="55"/>erga nos cum Deo conjunguntur. Socin. in animadv 
+      <lb ed="#B" n="56"/>ad assert. 6. Posn. p. 44. Resp. patet ex praece 
+      <lb ed="#B" n="57"/>dentibus. 1. Quando res vel personae mortales cum 
+      <lb ed="#B" n="58"/>Deo conjunguntur, tunc ex antecedentibus et conse 
+      <lb ed="#B" n="59"/>quentibus elucet, illas res creatas, non aequaliter, sed 
+      <lb ed="#B" n="60"/>tanquam instrumentales causas cum Deo conjungi¬ 
+      <!--485.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>at in forma baptismi Filium et Spiritum s. aequa 
+      <lb ed="#B" n="62"/>liter cum Patre conjungi ostendimus; 2. in exemplis 
+      <lb ed="#B" n="63"/>allatis talia proferuntur, quae Deo et creaturae non 
+      <lb ed="#B" n="64"/>quidem aequaliter, tamen diversa ratione simul 
+      com<lb ed="#B" n="65" break="no"/>petere possunt, sed baptismum in alicujus nomer 
+      <lb ed="#B" n="66"/>vel nomine administrari ita comparatum est, ut 
+      null<lb ed="#B" n="67" break="no"/>omnino creaturae, sed soli Deo competere possit, 
+      <lb ed="#B" n="68"/>1. Cor. 1, v. 13. 
+</p>
+            <p xml:id="zef3dd-d1e765-d1e1310">
+               <lb ed="#B" n="69"/>94. Cumprimis vero Socinus in defens. animadveri 
+      <lb ed="#B" n="70"/>contra Eutropium ann. 618. edita in detorsione hujus 
+      <lb ed="#B" n="71"/>loci valde occupatus est, videamus ergo quid afferat 
+      <lb ed="#B" n="72"/>§. 322. sic disputare incipit: 1. ex Christi invocatione 
+      <lb ed="#B" n="73"/>una cum Patre in baptismo non potest colliqu 
+      <lb ed="#B" n="74"/>utriusque invocationem esse parem, nam Pater 
+      in<lb ed="#B" n="75" break="no"/>vocari potest, ut prima regenerationis causa, 
+      Chr<lb ed="#B" n="76" break="no"/>stus vero ut aecunda, quia ille est is, ex quo omnio 
+      <lb ed="#B" n="77"/>hic vero is, per quem omnia. Resp. 1. ut unus 
+      <lb ed="#B" n="78"/>Deus, una divina essentia, ita quoque una 
+      invocati<lb ed="#B" n="79" break="no"/>religiosa. Qui Christum divino honore colendum et 
+      <lb ed="#B" n="80"/>invocandum docent et interim verum natura Deum 
+      <lb ed="#B" n="81"/>esse negant, revera plures deos introducunt, ut alibi 
+      <lb ed="#B" n="82"/>plenius monstrabitur; 2. ubicunque religiosa Dei ado 
+      <lb ed="#B" n="83"/>ratio opponitur adorationi sculptilium et xml:idololatriae 
+      <lb ed="#B" n="84"/>ibi talis adoratio intelligitur, quae non nisi 
+      sol<lb ed="#B" n="85" break="no"/>aeterno et natura vero Deo competit. At talis 
+      ado<lb ed="#B" n="86" break="no"/>catio Christo tribuitur Psalm. 97, v. 7. Hebr. 1, v. 6: 
+      <lb ed="#B" n="87"/>3. Apostolus a Patre et Christo aequaliter gratiam 
+      <lb ed="#B" n="88"/>et pacem ecclesiis precatur; 4. baptismus in nomine 
+      <lb ed="#B" n="89"/>Patria et Filii aequaliter confertur; 5. ut Spiritus s 
+      <lb ed="#B" n="90"/>in baptismo super baptizatum invocatur, ita quoque 
+      <lb ed="#B" n="91"/>Filius. Atqui de Spiritu s. dici nequit, quod in 
+      <lb ed="#B" n="92"/>feriori quadam adoratione invocetur, est enim ex 
+      <lb ed="#B" n="93"/>Photinianorum hypothesi ipsa Dei virtus et potentia 
+      <lb ed="#B" n="94"/>6. Filius debet ab omnibus honorari, καθώς, sicut 
+      <lb ed="#B" n="95"/>Pater honoratur. Joh. 5, v. 23. Ergo non inferior. 
+      <lb ed="#B" n="96"/>aliqua adoratione. Confer. loc. de Deo Patre §. 14: 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e1373">
+               <lb ed="#B" n="97"/>95. 2. Spiritus s. invocatio, nisi is persona 
+      ess<lb ed="#B" n="98" break="no"/>ostendatur ab ipso Deo Patre distincta, par esse 
+      <lb ed="#B" n="99"/>potest ipsius Dei Patris invocationi, et tamen hoc 
+      <lb ed="#B" n="100"/>nihil juvabit adrersarium, quippe qui probandum 
+      <lb ed="#B" n="101"/>sibi sumaerit trea esae personas in una divina 
+      essen<lb ed="#B" n="102" break="no"/>tia, p. ead. Resp. 1. Si Spiritus s. invocatio 
+      pa<lb ed="#B" n="103" break="no"/>esse potest ipsius Dei Patris invocationi, utique etiam 
+      <lb ed="#B" n="104"/>invocatio Filii par est vel potius eadem invocation 
+      <lb ed="#B" n="105"/>Patris, quia per particulam καί aequaliter ut Pater 
+      <lb ed="#B" n="106"/>et Spiritus s., ita quoque Pater et Filius 
+      conjungun<lb ed="#B" n="107" break="no"/>tur. 2. Quot personae in baptismi administratione 
+      <lb ed="#B" n="108"/>invocantur, tot etiam personae sunt in divina 
+      essen<lb ed="#B" n="109" break="no"/>tia, quia adoratio nemini competit, nisi qui 
+      pe<lb ed="#B" n="110" break="no"/>naturam est verus Deus. Atqui tres personae in 
+      <lb ed="#B" n="111"/>baptismi administratione invocantur. Ergo. 3. Si 
+      <lb ed="#B" n="112"/>Spiritus s. una cum Patre et Filio adoratur, utique 
+      <lb ed="#B" n="113"/>est distincta a Patre et Filio persona. Quorsum 
+      <lb ed="#B" n="114"/>enim distineta ejus fieret mentio, nisi esset persons 
+      <lb ed="#B" n="115"/>a Patre distincta? Quis unquam in sacris literis 
+      <lb ed="#B" n="116"/>legit distincte invocari Dei sapientiam, Dei bonita 
+      <lb ed="#B" n="117"/>tem, Dei justitiam? Quod si ergo Spiritus s. non est 
+      <lb ed="#B" n="118"/>distineta persona, sed tantum Dei virtus, utique non 
+      <lb ed="#B" n="119"/>posset in invocatione distincta illius fieri mentio 
+      <lb ed="#B" n="120"/>Vidit adversarius invictum hujus argumenti robur 
+      <!--486.xml-->
+      <pb ed="#B" n="413"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>unde subjungit: Quamvis exemplum fortasse nullum 
+      <lb ed="#B" n="2"/>ejus rei inveniatur, tamen non videmus, cur quispiam 
+      <lb ed="#B" n="3"/>Deum unaque ejus virtutem ac potentiam invocar. 
+      <lb ed="#B" n="4"/>non possit, p. 322. At omnino necessarium erat 
+      <lb ed="#B" n="5"/>hujus rei exemplum afferri, quia invocatio nostra 
+      <lb ed="#B" n="6"/>normam verbi ac divinae revelationis debet sequi 
+      <lb ed="#B" n="7"/>4. agnoscit hoc adversarius, xml:ideo sollicite quaeri 
+      <lb ed="#B" n="8"/>exempla, sed quae affert, omnia sunt aliena. Psaltes 
+      <lb ed="#B" n="9"/>dicit, se in umbra alarum Dei speraturum, aliis vero 
+      <lb ed="#B" n="10"/>in locis se in Dei misericordia sperasse asseris 
+      <lb ed="#B" n="11"/>Psalm. 57, v. 2. Psalm. 36, v. 8. Psalm. 13, v. 6 
+      <lb ed="#B" n="12"/>Psalm. 52, v. 10, quid vero prohibet, quominus xml:id 
+      <lb ed="#B" n="13"/>invocetur, in quo speratur. Atqui diversitas est in 
+      <lb ed="#B" n="14"/>exemplis. Sperare in Dei misericordiam recte dici 
+      <lb ed="#B" n="15"/>mur, etiamsi misericordia non sit distincta a 
+      De<lb ed="#B" n="16" break="no"/>persona, at invocare Dei potentiam non possumus 
+      <lb ed="#B" n="17"/>nisi potentia sit distincta persona, cum invocatio 
+      <lb ed="#B" n="18"/>objecti loco habeat personam; 5. pergit Socinus 
+      <lb ed="#B" n="19"/>nomen Dei passim dicitur invocatum, atqui illuc 
+      <lb ed="#B" n="20"/>denotat divinam virtutem. Resp. nomen Dei est ipse 
+      <lb ed="#B" n="21"/>Deus, Psalm. 48, v. 11. 2. Par. 14, v. 11, unde 
+      <lb ed="#B" n="22"/>ipse Socin. p. 325. addit: Hebraei alicujus 
+      re<lb ed="#B" n="23" break="no"/>nomen pro re ipsa ueitatissime dicunt. Invocar 
+      <lb ed="#B" n="24"/>ergo Dei nomen est ipsum Deum invocare. Monstret 
+      <lb ed="#B" n="25"/>vero adversarius quenquam invocasse Dei nomen 
+      u<lb ed="#B" n="26" break="no"/>aliquid a Deo distinctum. Non est, quod quis re 
+      <lb ed="#B" n="27"/>gerat, humanam Christi naturam invocari, quae 
+      <lb ed="#B" n="28"/>tamen non sit persona. Negamus enim eam distineto 
+      <lb ed="#B" n="29"/>compellari in invocatione ac cum Patre, Filio e 
+      <lb ed="#B" n="30"/>Spiritu s. coadorari, sed una eademque invocation 
+      <lb ed="#B" n="31"/>Christum deum et hominem invocari dicimus. 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e1501">
+               <lb ed="#B" n="32"/>96. 3. Ex eo, quod Spiritus s. una cum Patro 
+      <lb ed="#B" n="33"/>in baptismo invocatur, fortassis ostenditur, Spiri 
+      <lb ed="#B" n="34"/>tum οs. aliquid a Patre distinctum esse, sed perso 
+      <lb ed="#B" n="35"/>nam aliquam nullo modo. p. 324. Resp. non ex 
+      <lb ed="#B" n="36"/>sola invocatione, sed etiam ex aliis personae attr. 
+      <lb ed="#B" n="37"/>butis argumentum petimus, sic enim concludimus 
+      <lb ed="#B" n="38"/>Quisquis ita a Patre distinguitur, ut in invocation 
+      <lb ed="#B" n="39"/>distinete compelletur, ut in ipsius nomine aeque ut 
+      <lb ed="#B" n="40"/>in Patris nomine baptismus administretur, ut in 
+      p<lb ed="#B" n="41" break="no"/>culiari symbolo externo sese manifestet, ut alius s 
+      <lb ed="#B" n="42"/>Patre et Filio dicatur; ille non quovis modo, sed 
+      u<lb ed="#B" n="43" break="no"/>persona a Patre distinguitur. Atqui Spiritui s 
+      <lb ed="#B" n="44"/>membra hactenus enumerata competunt, sed attribut 
+      <lb ed="#B" n="45"/>alicui divino, misericordiae, potentiae, sapientiae eto 
+      <lb ed="#B" n="46"/>non competunt 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e1536">
+               <lb ed="#B" n="47"/>97. 4. Sentit adversarius argumenti robur, xml:ides 
+      <lb ed="#B" n="48"/>tandem impudenter negat, Spiritum s. in baptisme 
+      <lb ed="#B" n="49"/>invocari. Falsum est, inquit, cae Christi verbis collig 
+      <lb ed="#B" n="50"/>posse, Filium et Spiritum s. in baptismo invocar. 
+      <lb ed="#B" n="51"/>p. 324. At contrarium superius ostendimus. Quo 
+      <lb ed="#B" n="52"/>modo igitur negativam suam Socinus probat et quio 
+      <lb ed="#B" n="53"/>nostro argumento ex institutione baptismi ducto re 
+      <lb ed="#B" n="54"/>spondet? Vox nomen (inquit) hoc loco non siquifsi 
+      <lb ed="#B" n="55"/>cat aliquam potestatem et virtutem Patris, sed in 
+      <lb ed="#B" n="56"/>Patris nomen est xml:idem atque in Patrem baptizari 
+      <lb ed="#B" n="57"/>quod probat 1. ex frequentissima in sacris literi 
+      <lb ed="#B" n="58"/>cugmodi locutione; 2. baptizari in nomen Filii est 
+      <lb ed="#B" n="59"/>baptizari in Christum Rom. 6, v. 3. Gal. 3, v. 27. 
+      <lb ed="#B" n="60"/>d. 8t voae nomen potestatem declararet, dictum esset in 
+      <!--486.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>nomine, qua locutione fatemur interdum virtutem 
+      <lb ed="#B" n="62"/>significari. Resp. 1. Concedimus in nomen Patris, 
+      <lb ed="#B" n="63"/>Filii et Spiritus s. baptizari esse xml:idem, quod in 
+      <lb ed="#B" n="64"/>Patrem, Filium et Spiritum s. baptizari, xml:id est, ad 
+      <lb ed="#B" n="65"/>Patrem. Filium et Spiritus s. pro vero Deo agno 
+      <lb ed="#B" n="66"/>scendum, colendum, invocandum ete. per baptismum 
+      <lb ed="#B" n="67"/>obligari, sed negamus illud tantum his verbis ex 
+      <lb ed="#B" n="68"/>primi, cum longe plura haec phrasis complectatur. 
+      <lb ed="#B" n="69"/>ut superius vidimus; 2. baptizari in alicujus nomen 
+      <lb ed="#B" n="70"/>vel in aliquem ita comparatum est, ut divinam 
+      po<lb ed="#B" n="71" break="no"/>tentiam, majestatem et auctoritatem illius exprimat 
+      <lb ed="#B" n="72"/>in cujus nomen vel in quem baptismus confertur 
+      <lb ed="#B" n="73"/>unde nulli creaturae in Scriptura xml:id tribuitur, neque 
+      <lb ed="#B" n="74"/>enim convenit baptismum administrari in ejus nomen 
+      <lb ed="#B" n="75"/>qui est causa salutis administra non primaria et 
+      <lb ed="#B" n="76"/>principalis, unde apostolus tanto conatu negat, in 
+      <lb ed="#B" n="77"/>nomen suum Corinthios esse baptizatos 1. Cor. 1. 
+      <lb ed="#B" n="78"/>v. 13; 3. utrumque asserit Scriptura, nos baptizar. 
+      <lb ed="#B" n="79"/>in nomen Christi et baptizari in nomine Christi, ut 
+      <lb ed="#B" n="80"/>apparet ex Actor. 2, v. 38. c. 10, v. 48. Quods 
+      <lb ed="#B" n="81"/>ergo in nomine Filii et Spiritus s. baptizarii, 
+      signifi<lb ed="#B" n="82" break="no"/>cat in potestate et virtute Filii baptizari, agnoscat. 
+      <lb ed="#B" n="83"/>invocationem Filii et Spiritus s. ex baptismi formula 
+      <lb ed="#B" n="84"/>recte deduc 
+</p>
+            <p xml:id="zef3dd-d1e765-d1e1626">
+               <lb ed="#B" n="85"/>98. Regerit adversarius: 1. quid hoc ad locum 
+      <lb ed="#B" n="86"/>nostrum, ubi alia est locutio et ubi de Spiritu s 
+      <lb ed="#B" n="87"/>quoque agitur, quem in baptismo invocari aliundo 
+      <lb ed="#B" n="88"/>nullo pacto apparet, p. 325. Resp. Filium illum, 
+      <lb ed="#B" n="89"/>In cujus nomine baptismus confertur, esse Christum, 
+      <lb ed="#B" n="90"/>adversarius negare nequit, utique ergo loca illa, in 
+      <lb ed="#B" n="91"/>quibus dicitur baptismus conferri in nomine Christi, 
+      <lb ed="#B" n="92"/>tanquam parallela conferri possunt cum illis, in 
+      qui<lb ed="#B" n="93" break="no"/>bus dicimur baptizari in nomen Filii. Quod negat 
+      <lb ed="#B" n="94"/>aliunde constare, Spiritum s. in baptismo invocari 
+      <lb ed="#B" n="95"/>proinde etiam ex h. l. illud concludendum non esse, 
+      <lb ed="#B" n="96"/>ad xml:id respondemus verbis ipsius Socini p. 326: Quic 
+      <lb ed="#B" n="97"/>vetat, quo minus, etiamsi alibi xml:id factum non 
+      inve<lb ed="#B" n="98" break="no"/>niatur, hic tamen factum fuerit? certe si adverearit 
+      <lb ed="#B" n="99"/>Eutropii ratio vera esset, nihil singulare usquam 
+      <lb ed="#B" n="100"/>in sacris literis inreniretur, i.e. cujus prorsus similo 
+      <lb ed="#B" n="101"/>quippiam alibi dictum non esset, et tamen multa 
+      <lb ed="#B" n="102"/>ejusmodi inveniuntur. Addimus autem non solum 
+      <lb ed="#B" n="103"/>ex formula baptismi, sed etiam aliunde Spiritus s 
+      <lb ed="#B" n="104"/>invocationem probari posse. Is enim, qui prophetae 
+      <lb ed="#B" n="105"/>dixit: Vade, obtura aures populi, coelesti δοξολογίς 
+      <lb ed="#B" n="106"/>ab angelis honoratur Esa. 6. v. 3. 5. 6. At Spiritum 
+      <lb ed="#B" n="107"/>s. ea dixisse testis est apostolus Aet. 28, v. 25. Ergo 
+      <lb ed="#B" n="108"/>Spiritus s. coelesti δοξολογίᾳ ab angelis adoratur 
+      <lb ed="#B" n="109"/>Sic 1. Cor. 6, v. 19: Corpus vestrum est templum 
+      <lb ed="#B" n="110"/>Spiritus s., qui in vobis est. V. 20: glorificate 
+      <lb ed="#B" n="111"/>ergo Deum in corpore vestro. 2. Cor. 13, v. 13: 
+      <lb ed="#B" n="112"/>Gratia Domini nostri Jesu Christi, caritas Dei e 
+      <lb ed="#B" n="113"/>communicatio Spiritus s. sit cum vobis omnibus 
+      <lb ed="#B" n="114"/>Apoc. 1, v. 4: Gratio vobis et pax ab eo, qui est eo 
+      <lb ed="#B" n="115"/>qui erat et qui venturus est, et a septem spiritibus 
+      <lb ed="#B" n="116"/>qui sunt in conspectu throni ejus, ubi per septem 
+      <lb ed="#B" n="117"/>spiritus μετωνυμικῶς intelligitur Spiritus s. 
+      septifor<lb ed="#B" n="118" break="no"/>mis munere. Huc etiam referri potest benedictio 
+      <lb ed="#B" n="119"/>pacerdotalis Num. 6, 2: Nec tamen (pergit Socinus 
+      <lb ed="#B" n="120"/>hoc xml:idcirco dicimus, quod locutionem istam in no¬ 
+      <!--487.xml-->
+      <pb ed="#B" n="414"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>mine ipsam per se in baptismo accipiendo invo 
+      <lb ed="#B" n="2"/>cationem declarare concedamus, quandoquidem hi 
+      <lb ed="#B" n="3"/>quoque vulgatisrimum illum Hebraismum agnoscer 
+      <lb ed="#B" n="4"/>possumus, ut baptizari in nomine Christi xml:idem signi 
+      <lb ed="#B" n="5"/>ficet, quod baptizari in Christo, vel si vox nomen 
+      <lb ed="#B" n="6"/>hic aliquid expressius significat, xml:id denominationem 
+      <lb ed="#B" n="7"/>a Christo eique sui ipsius subjectionem declara 
+      <lb ed="#B" n="8"/>quam is profiteatur, qui baptismum accipit. Res. 
+      <lb ed="#B" n="9"/>Christum in baptismo invocari posse adeoque etiam 
+      <lb ed="#B" n="10"/>invocandum esse adversarius non negat, eccur igitur 
+      <lb ed="#B" n="11"/>agnoscere recusat, rò in Christi nomine baptizar. 
+      <lb ed="#B" n="12"/>invocationem Christi complecti? Repetimus et urge 
+      <lb ed="#B" n="13"/>mus nostrum argumentum. Is, in cujus nomen 
+      ba<lb ed="#B" n="14" break="no"/>ptizamur, sacramentum baptismi instituit et admi 
+      <lb ed="#B" n="15"/>nistrari praecepit, xml:idem per baptismum ad salutem 
+      <lb ed="#B" n="16"/>baptizati tanquam causa primaria et principalis 
+      e<lb ed="#B" n="17" break="no"/>ficaciter agit, xml:idem etiam cum baptizato foedus 
+      <lb ed="#B" n="18"/>gratiae init, et ad eum pro vero Deo agnoscendum 
+      <lb ed="#B" n="19"/>invocandum et colendum baptizatus solenniter obli 
+      <lb ed="#B" n="20"/>gatur. Atqui in nomen non solum Patris, sed etiam 
+      <lb ed="#B" n="21"/>Filii et Spiritus s. baptizamur. Ergo. Adde quod 
+      <lb ed="#B" n="22"/>illa ipsa subjectio ac denominatio a Christo, quam 
+      <lb ed="#B" n="23"/>phrasi illa significari Socinus concedit, Christum ess 
+      <lb ed="#B" n="24"/>verum Deum et cultum invocationis ipsi deberi 
+      man<lb ed="#B" n="25" break="no"/>feste arguit, xml:id quod ex 1. Cor. 1, v. 12. 13. collig 
+      <lb ed="#B" n="26"/>potest, ibi enim a Paulo, Cepha, Apollo ete. 
+      fid<lb ed="#B" n="27" break="no"/>les denominari apostolus prohibet, sed a Christo 
+      Chr<lb ed="#B" n="28" break="no"/>stianos denominari potuisse ac denominatos fuisse 
+      <lb ed="#B" n="29"/>constat ex Actor. 11, v. 26, neque xml:id improbavi 
+      <lb ed="#B" n="30"/>apostolus, ut colligitur ex Actor. 26, v. 25; 
+      qua<lb ed="#B" n="31" break="no"/>denominatio fidei magistrum et auctorem saluti 
+      <lb ed="#B" n="32"/>principalem arguit; 3. locutio illa in nomine 
+      cum<lb ed="#B" n="33" break="no"/>DEO accommodatur saepe nihil aliud significa 
+      <lb ed="#B" n="34"/>quam ei Deus ipse simpliciter denominaretur. Atqu 
+      <lb ed="#B" n="35"/>cum Deo simpliciter nominato creaturas conjunc 
+      <lb ed="#B" n="36"/>idque in rebus maximis et alioqui Dei propris 
+      <lb ed="#B" n="37"/>constat ex Ex. 14. v. 31. 2. Par. 20, v. 20. 1. Sam 
+      <lb ed="#B" n="38"/>12, 18. Jud. 7, v. 18. Resp. patet ex dictis 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e1795">
+               <lb ed="#B" n="39"/>99. 5. Filium cum Patre in regeneratione 
+      con<lb ed="#B" n="40" break="no"/>jungi concedit, sed ex conjunctione ista paren 
+      <lb ed="#B" n="41"/>utriusque operationem in regenerando colligi poss 
+      <lb ed="#B" n="42"/>negat, cum aliae etiam personae Dei in operibi 
+      <lb ed="#B" n="43"/>divinis conjungantur, quarum non est eadem cur 
+      <lb ed="#B" n="44"/>Deo operatio, p. 328, cumque in Christo, xml:id est 
+      pe<lb ed="#B" n="45" break="no"/>Christum regenerari dicamur p. 329, xml:id quod 
+      si<lb ed="#B" n="46" break="no"/>explicat, Patrem esse regenerationis causam 
+      pr<lb ed="#B" n="47" break="no"/>mam et summam, Christum vero secundam et mi 
+      <lb ed="#B" n="48"/>diam p. 331, quin et Christum esse non solum 
+      <lb ed="#B" n="49"/>causam secundam, sed in hoc regenerationis oper 
+      <lb ed="#B" n="50"/>et in aliis omnibus ad ecclesiam spectantibus ipsius 
+      <lb ed="#B" n="51"/>Dei tanquam vicarium p. 332. Resp. quo modo e 
+      <lb ed="#B" n="52"/>quo gradu Filius in opere regenerationis atque alii 
+      <lb ed="#B" n="53"/>operibus mere ac vere divinis Patri conjungatur 
+      no<lb ed="#B" n="54" break="no"/>ex nostrae rationis praedicamentis, sed ex divina 
+      <lb ed="#B" n="55"/>veritatis tabulis definiendum est. Eae vero oster 
+      <lb ed="#B" n="56"/>dunt, Christum nequaquam ut causam secundam e 
+      <lb ed="#B" n="57"/>inferiorem cum Patre conjungi, sed ut causam prin 
+      <lb ed="#B" n="58"/>cipem et cummam aequali, imo eadem virtute 
+      divin<lb ed="#B" n="59" break="no"/>agentem, neque ut vicarium Patri subordinari, sed 
+      <lb ed="#B" n="60"/>ut ejusdem cum Patre essentiae ac potentiae part 
+      <!--487.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>pem eidem aequaliter conjungi. Probamus hocf 
+      <lb ed="#B" n="62"/>in genere. Joh. 5, v. 19: Quaecunque Pater facit 
+      <lb ed="#B" n="63"/>ταῦτα καὶ ὁμοίως Filius facit, v. 23: ut omne 
+      <lb ed="#B" n="64"/>honorent Filium, καθώς, sicut Patrem 
+      honoran<lb ed="#B" n="65" break="no"/>Judaei ex eo, quod Christus dixerat Pater meu 
+      <lb ed="#B" n="66"/>operatur usque huc, et ego operor, infereba 
+      <lb ed="#B" n="67"/>Christum se aequalem Deo profiteri, hanc 
+      col<lb ed="#B" n="68" break="no"/>lectionem Christus non refellit, sed aequalitater 
+      <lb ed="#B" n="69"/>illam probat ex operum ταυτότητι et agendi ὁμοι 
+      <lb ed="#B" n="70"/>τητι, ex qua etiam divini honoris et cultus aequali 
+      <lb ed="#B" n="71"/>tas oriatur. Nazianz. orat. 4. de theol.: Non xml:ides 
+      <lb ed="#B" n="72"/>dicit ὁμοίως, quod sit operum similitudo, sed quo 
+      <lb ed="#B" n="73"/>utriusque par sit facultas parque majestas. Joh. st 
+      <lb ed="#B" n="74"/>v. 28: Nemo rapiet oves meas de manu mea, v. 29. 
+      <lb ed="#B" n="75"/>nemo potest eas rapere de manu Patris, v. 30: eg 
+      <lb ed="#B" n="76"/>et Pater unum sumus. Eadem ergo manus, potentia 
+      <lb ed="#B" n="77"/>et virtus eadem est Patris et Filii, ac per 
+      consequen<lb ed="#B" n="78" break="no"/>etiam eadem essentia. Joh. 14, v. 19: Quodcunque 
+      <lb ed="#B" n="79"/>petieritis Patrem in nomine meo, hoc faciam, u 
+      <lb ed="#B" n="80"/>glorificetur Pater in Filio. Gloria igitur Patris in 
+      <lb ed="#B" n="81"/>Filio relucet, quae non potest esse inferior alique 
+      <lb ed="#B" n="82"/>gloria et majestas; 2. in specie. Creatio est opus 
+      <lb ed="#B" n="83"/>divinum, illud tribuitur Filio non ut causae instra 
+      <lb ed="#B" n="84"/>mentali et mediae, ut Photiniani ex particula διά 
+      <lb ed="#B" n="85"/>per ἀπαιδεύτως colligunt, sed ut causae principi 
+      <lb ed="#B" n="86"/>quia non solum per Filium omnia dicuntur condita 
+      <lb ed="#B" n="87"/>qua phrasi ordo et distinctio personarum, non au 
+      <lb ed="#B" n="88"/>tem inaequalitas in agendo significatur) sed etiam 
+      <lb ed="#B" n="89"/>in casu recto de eo dicitur, quod omnia creaveri 
+      <lb ed="#B" n="90"/>Hebr. 1, v. II. Apocal. 4. v. 11. Confer locum de 
+      <lb ed="#B" n="91"/>Patre et Filio §. 83. Idem de rerum omnium 
+      cor<lb ed="#B" n="92" break="no"/>servatione, miraculorum operatione, humani generi 
+      <lb ed="#B" n="93"/>redemtione, ecelesiae collectione, Spiritus s. missione 
+      <lb ed="#B" n="94"/>angelorum ablegatione, peccatorum remissione, eo 
+      <lb ed="#B" n="95"/>elesiae defensione, mortuorum resuscitatione, extrem 
+      <lb ed="#B" n="96"/>judicii exsecutione et salvatione dicto loco fuit 
+      demon<lb ed="#B" n="97" break="no"/>stratum, quod videlicet haec in operibus illis divinis 
+      <lb ed="#B" n="98"/>aequali potestate et virtute Pater et Filius operen 
+      <lb ed="#B" n="99"/>tur. De regeneratione hoc loco sic concludimus. Quo 
+      <lb ed="#B" n="100"/>modo Christus salvat, eo etiam modo regenerat. At 
+      <lb ed="#B" n="101"/>qui non salvat ut causa instrumentalis, media et 
+      <lb ed="#B" n="102"/>inferior, sed ut causa principalis et summa. Ergo 
+      <lb ed="#B" n="103"/>Assumtum probatur: Christus est ἀρχηγὸς τῆς ζωῆ 
+      <lb ed="#B" n="104"/>Aet. 3, v. 5, est ἀρχηγὸς καὶ τελειωτὴς τῆς πίστεως 
+      <lb ed="#B" n="105"/>εἰς σωτηρίαν Hebr. 12, v. 2, est αἰτιος σωτηρία 
+      <lb ed="#B" n="106"/>αἰωνίου τοῖς ὑπακούουσιν Hebr. 5, v. 9, ita ut det 
+      <lb ed="#B" n="107"/>credentibus in se vitam aeternam ea auctoritate ac 
+      <lb ed="#B" n="108"/>potestate, qua Pater Joh. 10, v. 28. et 30, ac sit 
+      <lb ed="#B" n="109"/>unicum salutis nostrae fundamentum 1. Cor. 3, v. 1I. 
+      <lb ed="#B" n="110"/>Atqui haec non possunt de causa salutis instrumen 
+      <lb ed="#B" n="111"/>tali tantum ac intermedia praedicari. Utor etiam 
+      <lb ed="#B" n="112"/>hoc argumento: Christus salvat ut Jehovah et veru 
+      <lb ed="#B" n="113"/>Deus Esa. 35, v. 4. Hoseae 1, v. 7. ubi nota 
+      em<lb ed="#B" n="114" break="no"/>phasin in priore dicto prophetico: Ecce Deus veste 
+      <lb ed="#B" n="115"/>veniet &amp;722 &amp;7 ipse veniet et salvos vos facies 
+      <lb ed="#B" n="116"/>Ergo non ut causa instrumentalis. Christus est tali 
+      <lb ed="#B" n="117"/>salvator, ut non sit in alio quoquam salus Act. 4. 
+      <lb ed="#B" n="118"/>v. 12, aut ergo aeternus Deus erit, aut in Deo ad 
+      <lb ed="#B" n="119"/>terno salus non erit. Christus salvat non ut minister 
+      <lb ed="#B" n="120"/>fatente Socino in lib. cont. Bellarminum et Wiekum p. 462 
+      <!--488.xml-->
+      <pb ed="#B" n="415"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>alias non differret a prophetis et apostolis, ergo u 
+      <lb ed="#B" n="2"/>causa princeps et summa 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e1990">
+               <lb ed="#B" n="3"/>100. 6. Israëlitae in Deum et Moysen credidisa 
+      <lb ed="#B" n="4"/>dicuntur Ex. 19, v. 9. c. 14, v. 31: Qui vero cor 
+      <lb ed="#B" n="5"/>jungitur cum Deo in credendo in illum, tanto 
+      <lb ed="#B" n="6"/>magis cum eodem conjungi potest in baptizando i 
+      <lb ed="#B" n="7"/>illum, quanto fides praestat baptismo et interiorem 
+      <lb ed="#B" n="8"/>cultum magis prae se fert, p. 334. Resp. 1. urge. 
+      <lb ed="#B" n="9"/>mus dictum apostolicum 1. Cor. 1, v. 13, in nulliu 
+      <lb ed="#B" n="10"/>nomen baptizari possumus, qui est ψιλὸς ἄνθρωπο 
+      <lb ed="#B" n="11"/>et causa duntaxat salutis intermedia; 2. xml:id quo 
+      <lb ed="#B" n="12"/>ostendit etiam res ipsa, quia sacramenta instituere 
+      <lb ed="#B" n="13"/>per eadem efficaciter salutem operari, foedus gratia 
+      <lb ed="#B" n="14"/>cum aliquo inire ete. non nisi vero DEO competit 
+      <lb ed="#B" n="15"/>Atqui haec omnia tribuuntur ei, in cujus nomer 
+      <lb ed="#B" n="16"/>baptismus confertur; 3. alia est fides historica, qua 
+      <lb ed="#B" n="17"/>notitiam et assensum complectitur, alia vero fides 
+      <lb ed="#B" n="18"/>salvifica, quae fiduciam cordis ineludit: Israë
+      lita<lb ed="#B" n="19" break="no"/>crediderunt Moysi fide historica, non autem fid 
+      <lb ed="#B" n="20"/>cordis salvifica, ea enim solum Deum objecti loc 
+      <lb ed="#B" n="21"/>habet, quippe a quo solo vita aeterna sperari pot 
+      <lb ed="#B" n="22"/>est. Jerem. 17, v. 5: Maledictus, qui confidit i 
+      <lb ed="#B" n="23"/>homine. August. traet. 29. in Johann: Credimu 
+      <lb ed="#B" n="24"/>Paulo, sed non credimus in Paulum; credimus Petro 
+      <lb ed="#B" n="25"/>sed non credimus in Petrum ete. Consequens es 
+      <lb ed="#B" n="26"/>ut si in Deum creditis, et in me credatis, quod 
+      san<lb ed="#B" n="27" break="no"/>consequens non esset, si Christus Deus non esse 
+      <lb ed="#B" n="28"/>Idem repetit in enarr. Ps. 77. serm. 61. de verbi. 
+      <lb ed="#B" n="29"/>Domin., serm. 181. de temp. et ex eo Lomb. 3. sent. 
+      <lb ed="#B" n="30"/>dist. 23. lit. D. 4. Quamvis vero in Hebraeo textu 
+      <lb ed="#B" n="31"/>praefixum 2 usurpetur, ex eo tamen inferri nequit 
+      <lb ed="#B" n="32"/>Israëlitas fiduciam cordi eo modo divisisse ac 
+      div<lb ed="#B" n="33" break="no"/>dere debuisse, ut partem ejus in Deum, partem in 
+      <lb ed="#B" n="34"/>Moysen collocarent, cum in solum Deum omni 
+      <lb ed="#B" n="35"/>fiducia salutis collocanda, sed 2 exponendum es 
+      <lb ed="#B" n="36"/>per 5, sicut etiam LXX reddiderunt; ἐπίστευσα 
+      <lb ed="#B" n="37"/>τῷ θεῷ καὶ Mωυσεῖ, quam versionem comproba 
+      <lb ed="#B" n="38"/>Christus Johan. 5, v. 16. Hieronymus eodem 
+      mod<lb ed="#B" n="39" break="no"/>vertit: Crediderunt Domino et Moysi servo 
+      eju<lb ed="#B" n="40" break="no"/>Habent Hebraei suos xml:idiotismos, quos interpres s 
+      <lb ed="#B" n="41"/>reddere debet, ut sensui nihil decedat. Videatur Po 
+      <lb ed="#B" n="42"/>rerius tom. 3. in Genes. p. 736, ubi ex Ribera 
+      mu<lb ed="#B" n="43" break="no"/>tis probat credere Deo et credere in Deum ex 
+      con<lb ed="#B" n="44" break="no"/>suetudine linguae Hebraeae non differre, nihilominu 
+      <lb ed="#B" n="45"/>tamen in re ipsa et usu loquendi ecclesiastico 
+      ess<lb ed="#B" n="46" break="no"/>discrimer 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e2088">
+               <lb ed="#B" n="47"/>IO1. 7. Etiamsi Spiritus s. et persona a Patri 
+      <lb ed="#B" n="48"/>distincta esset et innocaretur, non xml:idcirco conclud 
+      <lb ed="#B" n="49"/>Posset eandem numero ipsius et Patris essentiam 
+      <lb ed="#B" n="50"/>esse, propter easdem causas, ex quibus concluditur 
+      <lb ed="#B" n="51"/>Filium, licet personam a Patre distinctam et cu 
+      <lb ed="#B" n="52"/>invocacio conveniat, non tamen ejusdem cum Patr. 
+      <lb ed="#B" n="53"/>Essenticie esse, p. 370. Resp. 1. petit adversariu 
+      <lb ed="#B" n="54"/>Principium, dum asserit, religiosam invocationem 
+      <lb ed="#B" n="55"/>alicui deferri posse, qui non sit verus natura Deus 
+      <lb ed="#B" n="56"/>Contrarium suo loco demonstratum fuit. 2. Spiritum 
+      <lb ed="#B" n="57"/>8. adversarii dicunt esse virtutem et potentiam 
+      De<lb ed="#B" n="58" break="no"/>At num virtuti divinae inferiorem aliquam adora 
+      <lb ed="#B" n="59"/>tionem tribui debere dicent? 3. Si Spiritus s. est 
+      <lb ed="#B" n="60"/>distineta persona et invocatur, ex eo firmissime pro 
+      <!--488.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>batur Patris et Spiritus s. ὑμοουσία, quia cultus in 
+      <lb ed="#B" n="62"/>vocationis utrique debitus arguit ἰσοτιμίαν, illa ἰσα 
+      <lb ed="#B" n="63"/>τιμία arguit potentiae ac majestatis aequalitatem 
+      <lb ed="#B" n="64"/>aequalitas potentiae ac majestatis ὁμοουσίαν 
+      ar<lb ed="#B" n="65" break="no"/>guit. Idem de Filio esto judicium. 4. Causae illac 
+      <lb ed="#B" n="66"/>propter quas Photiniani Filium negant esse ejusdem 
+      <lb ed="#B" n="67"/>cum Patre essentiae, licet religiose cum Patre invo 
+      <lb ed="#B" n="68"/>cetur, sunt fictae et nullae, opponunt enim tanquam 
+      <lb ed="#B" n="69"/>contraria essentiae divinae unitatem et personarum 
+      <lb ed="#B" n="70"/>trinitatem, cum in fidei regula utrumque credendum 
+      <lb ed="#B" n="71"/>proponatur 
+      </p>
+            <p xml:id="zef3dd-d1e765-d1e2149">
+               <lb ed="#B" n="72"/>102. Atque haec sunt, quae Socinus in defensione 
+      <lb ed="#B" n="73"/>animadversionum (quem librum Moscorovius in 
+      prae<lb ed="#B" n="74" break="no"/>fat. ita commendat, ut in eo Socinum dicat se ipsum 
+      <lb ed="#B" n="75"/>quodammodo superasse, sicut in aliis scriptis alios: 
+      <lb ed="#B" n="76"/>contra classicum illum locum affert. Eniedinus in 
+      <lb ed="#B" n="77"/>explicat. locor. V. et N. T. in c. 28. Matth. 
+      con<lb ed="#B" n="78" break="no"/>tendit, sensum formulae baptisticae non esse alium 
+      <lb ed="#B" n="79"/>quam quod ex baptizandis olim nihil amplius 
+      fue<lb ed="#B" n="80" break="no"/>rit requisitum, nisi ut profiterentur Christum esse 
+      <lb ed="#B" n="81"/>promissum Messiam, xml:idque constare potissimum 
+      e<lb ed="#B" n="82" break="no"/>confessione scilicet seu testificatione Patris, qui 
+      d<lb ed="#B" n="83" break="no"/>coelo clamavit: Hic est filius meue dilectus, de 
+      <lb ed="#B" n="84"/>inde ex tesimonio Filii, qui se verum Messiam ad 
+      <lb ed="#B" n="85"/>Dei Filium dixit, cujus testimonum verax est. 
+      De<lb ed="#B" n="86" break="no"/>nique ex testimonio Spiritus s. super apostolos in 
+      <lb ed="#B" n="87"/>nomine Filii effusi. Quod autem docere ac bapti 
+      <lb ed="#B" n="88"/>zare in nomine Patris, Filii ac Spiritus s. 
+      ho<lb ed="#B" n="89" break="no"/>loco sit docere et baptizare ex testimonio seu 
+      pro<lb ed="#B" n="90" break="no"/>pter testimonium seu super testimonium Patris, Fili 
+      <lb ed="#B" n="91"/>ac Spiritus s., de homine Jesu et Messia exaltate 
+      <lb ed="#B" n="92"/>ad dextram Dei probare nititur ex I. Joh. 3. v. 7. 
+      <lb ed="#B" n="93"/>Tres sunt, qui testimonium. Resp. 1. Eniedinus 
+      di<lb ed="#B" n="94" break="no"/>ctum de tribus in coelo testibus habet pro 
+      suppo<lb ed="#B" n="95" break="no"/>sititio, ut suo loco ostendimus, quomodo igitur ex eo 
+      <lb ed="#B" n="96"/>explicationem formulae baptisticae petere potest! 
+      <lb ed="#B" n="97"/>2. In dicto Johannis praecipue agitur de fidei nostrae 
+      <lb ed="#B" n="98"/>confirmatione, sed in loco Matthaei de baptismi in 
+      <lb ed="#B" n="99"/>stitutione ac novi sacramenti administratione. 3. S 
+      <lb ed="#B" n="100"/>vel maxime concedamus, ex trium testium confirma 
+      <lb ed="#B" n="101"/>tione constare, quod Christus sit promissus Messias. 
+      <lb ed="#B" n="102"/>nondum tamen evictum est, formula baptistica nihil 
+      <lb ed="#B" n="103"/>aliud contineri, quam trium testium de Christo, quod 
+      <lb ed="#B" n="104"/>sit verus Messias, confirmationem. 4. Principiur 
+      <lb ed="#B" n="105"/>petit Eniedinus, dum ad baptismum doctrinae verbs 
+      <lb ed="#B" n="106"/>institutionis baptisticae accommodat et baptismum 
+      <lb ed="#B" n="107"/>pro ceremonia ἀδιαφόρῳ καὶ προσκαίρῳ 
+      habendam<lb ed="#B" n="108" break="no"/>esse praesupponit. 5. Tres ille testes Christum 
+      ess<lb ed="#B" n="109" break="no"/>promissum Messiam confirmarunt, non solum trans 
+      <lb ed="#B" n="110"/>itoriis illis actibus, quos Eniedinus enumerat, sed 
+      <lb ed="#B" n="111"/>adhuc perpetuo illud ipsum confirmant, sacramenti 
+      <lb ed="#B" n="112"/>baptistici in nomine Christi administratione perpe 
+      <lb ed="#B" n="113"/>tuo in ecclesia durante, ea vero non tantum probat 
+      <lb ed="#B" n="114"/>Christum esse verum Messiam, sed etiam verum e 
+      <lb ed="#B" n="115"/>aeternum cum Patre et Spiritu s. Deum. 6. Tres 
+      <lb ed="#B" n="116"/>illi testes dicuntur esse in coelo, h. e. sunt testes 
+      <lb ed="#B" n="117"/>natura et essentia divini, ut in disp. poster. de hoc 
+      <lb ed="#B" n="118"/>dicto ostendimus
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

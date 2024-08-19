@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 26</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 26</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="240"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e502"><!-- zef3dd-l1c26 -->
+            <head xml:id="zef3dd-d1e502-Hd1e101">Caput 26</head>
+            <head xml:id="zef3dd-d1e502-Hd1e103" type="question-title">De usu huius loci</head>
+            <p xml:id="zef3dd-d1e502-d1e106">
+               <lb ed="#B" n="64"/>CAPUT XXVI. 
+      <lb ed="#B" n="65"/>DE USU HUJUS LOCI.
+</p>
+            <p xml:id="zef3dd-d1e502-d1e113">
+               <lb ed="#B" n="66"/>538. Usus hujus loci est 1. theoreticus. 2. 
+      practi<lb ed="#B" n="67" break="no"/>rus. Theoreticus est 1. διδασκαλικός, ut Scripturae 
+      <lb ed="#B" n="68"/>auctoritatem ac majestatem vere divinam 
+      agnosca<lb ed="#B" n="69" break="no"/>mus. 2. ἐλεγκτικός, ut ejus tum auctoritatem tum 
+      <lb ed="#B" n="70"/>integritatem adversus quosvis haereticos, lucifugae 
+      <lb ed="#B" n="71"/>Scripturarum, uti etiam atheos et Epicureos asse 
+      <lb ed="#B" n="72"/>amus. Practicus usus est 1. νουθετικός, ut 
+      Scri<lb ed="#B" n="73" break="no"/>pturam sacram quotidiana lectione ac meditatione 
+      <lb ed="#B" n="74"/>familiarem nobis reddamus. Est enim epistola De 
+      <lb ed="#B" n="75"/>e coelo ad nos missa, quae de essentia et voluntate 
+      <lb ed="#B" n="76"/>psius nos instruit ac viam ad coelum nobis 
+      mon<lb ed="#B" n="77" break="no"/>strat. De utilitate ac necessitate diligenter et 
+      assi<lb ed="#B" n="78" break="no"/>due legendi Scripturam sacram, itemque de modo 
+      <lb ed="#B" n="79"/>legendi Scripturam late actum fuit in Methodo stud. 
+      <lb ed="#B" n="80"/>theol. p. 3. sect. 1. c. 1. seqq. 2. παρακλητικός, ut 
+      <lb ed="#B" n="81"/>inaestimabilem Dei bonitatem ex eo agnoscamus, 
+      <lb ed="#B" n="82"/>quod ad nostram consolationem Scripturam sacran 
+      <lb ed="#B" n="83"/>exstare voluerit, Rom. 15, v. 4. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

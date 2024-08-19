@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="56"/>
+            <cb ed="#B" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e203"><!-- zef3dd-l1c7 -->
+            <head xml:id="zef3dd-d1e203-Hd1e101">Caput 7</head>
+            <head xml:id="zef3dd-d1e203-Hd1e103" type="question-title">De canonicis Veteri Testamenti libris in specie</head>
+            <p xml:id="zef3dd-d1e203-d1e106">
+               <lb ed="#B" n="86"/>CAPUT VII 
+      <lb ed="#B" n="87"/>DE CANONICIS V. T. LIBRIS IN 
+      <lb ed="#B" n="88"/>SPECIE.
+    </p>
+            <p xml:id="zef3dd-d1e203-d1e115">
+               <lb ed="#B" n="89"/>118. Diximus superius §. 65. ecclesias nostras. 
+      Is<lb ed="#B" n="90" break="no"/>raëliticae antiquissimae ecclesiae ὁμοψνήφους hos et 
+      <lb ed="#B" n="91"/>non alios libros in V. T. canone agnoscere: 1. 
+      Quin<lb ed="#B" n="92" break="no"/>que libros Moyeis. 2. Josuam. 8. Judicum. 4. Ruth. 
+      <lb ed="#B" n="93"/>5. duos Samuelis.. 6. duos Reguma. T duos 
+      Para<lb ed="#B" n="94" break="no"/>lipomenon. 8. duos Esdrae priores 9. Estheram 
+      <lb ed="#B" n="95"/>10. Jobum. 11. Poalterium. 12. trea Salomonis. 
+      <lb ed="#B" n="96"/>Proverbia, Eccleviasten et Canticum Canticorum 
+      <lb ed="#B" n="97"/>13. quatuor prophetas majores. Esaiam, Jeremiam 
+      <lb ed="#B" n="98"/>cum Threnis, Ezechielem et Danielem. 14. duodecin 
+      <lb ed="#B" n="99"/>prophetaa minores, Oseam, Joël, Amos, Obadiam, 
+      <lb ed="#B" n="100"/>Jonam, Micheam, Nahum, Habacuc, Sophoniam 
+      <lb ed="#B" n="101"/>Haggaeum, Zachariam, Malachiam.1. De hisce in 
+      <lb ed="#B" n="102"/>specie quaedam monebimus ad solidam Scripturae 
+      <lb ed="#B" n="103"/>intelligentiam plurimum ponderis habitura 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e150">
+               <lb ed="#B" n="104"/>119. Primus liber Moysis Hebraeis dicitur UN73 
+      <lb ed="#B" n="105"/>a voco initiali, Rabbinis *17–X) 220 liber creationis 
+      <lb ed="#B" n="106"/>graecis γένεσις, quam appellationem latina ecclesis 
+      <lb ed="#B" n="107"/>retinuit. Ratio appellationis duplex est, tum quia 
+      <lb ed="#B" n="108"/>generationes coeli et terraes describit, ut loquitur 
+      <lb ed="#B" n="109"/>Moyses c. 2. v. I. tum quia patriarcharum genealo 
+      <lb ed="#B" n="110"/>giam exponit c. 5. et alibi passim. Quidam existi 
+      <lb ed="#B" n="111"/>mant, eundem vocari librum *32 recti vel 
+      recto<lb ed="#B" n="112" break="no"/>rum ac justorum εὐθέων Jοs. 10. v. 13. 2. Sam 11. 
+      <lb ed="#B" n="113"/>v. 18. quia patriarcharum Abrahami, Isaaci et 
+      Ja<lb ed="#B" n="114" break="no"/>cobi historiam describit, quos peculiari nomine 
+      <lb ed="#B" n="115"/>Cabbalistae vocant rectos. Hieronymus opinatur 
+      li<lb ed="#B" n="116" break="no"/>brum illum justorum esse librum primum Samuolis 
+      <!--130.xml-->
+      <pb ed="#B" n="57"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>vel Regum, cum in illo multorum justorum, utpote 
+      <lb ed="#B" n="2"/>Samuelis, Davidis, Nathanis, Gath et aliorum fia 
+      <lb ed="#B" n="3"/>mentio. Quidam putant significari librum vitae, de 
+      <lb ed="#B" n="4"/>quo Psal. 69. v. 29. Quidam intelligunt duodecir 
+      <lb ed="#B" n="5"/>prophetas minores, qui tamen post multa demui 
+      <lb ed="#B" n="6"/>secula vixerunt et scripserunt. Plerique statuum 
+      <lb ed="#B" n="7"/>fuisse peculiarem librum, in quo sanctorum vita e 
+      <lb ed="#B" n="8"/>res gestae fuerunt descriptae, qui tamen ad nos 
+      no<lb ed="#B" n="9" break="no"/>pervenerit, qua de re superius etiam aliquid monu 
+      <lb ed="#B" n="10"/>mus §. 16. Ceterum Genesis capitibus constat 3 
+      <lb ed="#B" n="11"/>et exponit historiam annorum 2368 a mundi se 
+      <lb ed="#B" n="12"/>creatione usque ad mortem Josephi. Potest distr. 
+      <lb ed="#B" n="13"/>bui in partes sex juxta numerum patriarcharum 
+      <lb ed="#B" n="14"/>quorum vitam et res gestas describit, videlicet Adami 
+      <lb ed="#B" n="15"/>Noachi, Abrahami, Isaaci, Jacobi et Josephi. Pot 
+      <lb ed="#B" n="16"/>
+               <!-- line coord error-->
+               <lb ed="#B" n="17"/>est etiam in historiam temporis 
+      antediluvian<lb ed="#B" n="18" break="no"/>postdiluviani distribui. Apud Hebraeos prohibitum 
+      <lb ed="#B" n="19"/>fuit, ne quis ante annum aetatis 30. caput primum. 
+      <lb ed="#B" n="20"/>Geneseos legeret, aut aliis enarraret, teste Hiero 
+      <lb ed="#B" n="21"/>nymo in Genes., qua prohibitione B. Lutherus cer 
+      <lb ed="#B" n="22"/>set minime fuisse opus, cum tota Scriptura ipsis 
+      si<lb ed="#B" n="23" break="no"/>liber obsignatus propter velamen oculis ipsorum 
+      im<lb ed="#B" n="24" break="no"/>positum. Causae propter quas Moyses Israëlitarum 
+      <lb ed="#B" n="25"/>legislator scriptionis suae initium ab historia cres 
+      <lb ed="#B" n="26"/>tionis et patriarcharum facere voluerit, hae 
+      sum<lb ed="#B" n="27" break="no"/>praecipuae I. ut ex descriptione eorum, quae 
+      no<lb ed="#B" n="28" break="no"/>nisi per divinam revelationem ipsi nota esse pot 
+      <lb ed="#B" n="29"/>rant, auctoritatem suae doctrinae conciliare 
+      <lb ed="#B" n="30"/>Au <!-- line coord error --> 
+      <lb ed="#B" n="31"/>gust. lib. 18. de civ. Dei e. 40. Cui narranti 
+      pra<lb ed="#B" n="32" break="no"/>terita melius credimus, quam qui etiam futuro 
+      <lb ed="#B" n="33"/>praedixerit, quae praesentia jam videmus? 2. 1 
+      <lb ed="#B" n="34"/>certum fidei fundamentum contra gentilium opinio 
+      <lb ed="#B" n="35"/>nes de mundi aeternitate vel origine in ecclesia ex 
+      <lb ed="#B" n="36"/>staret. 3. ut majestatem creatoris populo Israëlitio 
+      <lb ed="#B" n="37"/>inculcaret atque ad obedientiam eos permovere 
+      <lb ed="#B" n="38"/>4. ut exempla praemiorum pietati et poenarum in 
+      <lb ed="#B" n="39"/>pietati retributarum in majoribus ipsorum 
+      popul<lb ed="#B" n="40" break="no"/>Israëlitico proponeret. Eusebius libr. 7. 
+      Praepa<lb ed="#B" n="41" break="no"/>evang. e. 3. Antequam leges poneret, majorum 
+      <lb ed="#B" n="42"/>vitas animis hominum impressit. Ita bonorum prae 
+      <lb ed="#B" n="43"/>miis et impiorum suppliciis ad amplexandam vit 
+      <lb ed="#B" n="44"/>tutem et fugiendam impictatem echortatus lege 
+      <lb ed="#B" n="45"/>tandem in medium proposuit. 5. ut doceret, non ess 
+      <lb ed="#B" n="46"/>alium Deum quaerendum vel invocandum, quam 
+      <lb ed="#B" n="47"/>qui est mundi creator et certo verbo statim ab ini 
+      <lb ed="#B" n="48"/>tio mundi sese hominibus patefecit 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e296">
+               <lb ed="#B" n="49"/>120. Secundus liber Moysis vocatur D7οὶ a sε 
+      <lb ed="#B" n="50"/>cunda voce; Graecis ?ξoδος, quam nomenclaturas 
+      <lb ed="#B" n="51"/>Latini retinuerunt, propterea quod egressum filiorum 
+      <lb ed="#B" n="52"/>Israël ex Aegypto describat. Capitibus constat 40 
+      <lb ed="#B" n="53"/>et continet historiam 142 annorum a morte scilices 
+      <lb ed="#B" n="54"/>Josophi usque ad exstructionem tabernaculi. Distri 
+      <lb ed="#B" n="55"/>bui potest in τὰ προηγούμενα, antecedentia, re 
+      <lb ed="#B" n="56"/>πραχθέν, exitum ipsum, et τὰ ἐπόμενα sive conse 
+      <lb ed="#B" n="57"/>quentia. Item in ecclesiae Israëliticae nativitater 
+      <lb ed="#B" n="58"/>et educationem. Quidam totam historiam dividum 
+      <lb ed="#B" n="59"/>in exitum Israëlitarum ex Aegypto et commoratio 
+      <lb ed="#B" n="60"/>nem eorundem ad montem Sinai. Partes integrar 
+      <lb ed="#B" n="61"/>tes constitui possunt sex: 1. De vita Moysis, ejusque 
+      <lb ed="#B" n="62"/>ad Pharaonem legatione. 2. De plagis Aegypti, 
+      <!--130.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="63"/>quibus Moysis auctoritas confirmata. 3. De exita 
+      <lb ed="#B" n="64"/>Israëlitarum ex Aegypto, transitu per mare rubrum, 
+      <lb ed="#B" n="65"/>itinere per desertum. 4. De constitutione ecclesiae 
+      <lb ed="#B" n="66"/>et reipublicae promulgato decalogo et ceteris 
+      legi<lb ed="#B" n="67" break="no"/>bus forensibus ac ceremonialibus. 5. De peccate 
+      <lb ed="#B" n="68"/>populi ejusdemque cum Deo reconciliatione. 6. D. 
+      <lb ed="#B" n="69"/>exstructione tabernaculi ac rerum ad cultum divinum 
+      <lb ed="#B" n="70"/>pertinentium apparatu 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e351">
+               <lb ed="#B" n="71"/>121. Tertius liber Moysis dicitur Hebraeis &amp;7p2 
+      <lb ed="#B" n="72"/>a prima dictione; Graecis et Latinis Leviticus, quia 
+      <lb ed="#B" n="73"/>de Levitico sacerdotio et Leviticis sive ceremoniali 
+      <lb ed="#B" n="74"/>bus legibus in eo potissimum agitur. Capitibus 
+      <lb ed="#B" n="75"/>constat 27 et continet historiam unius mensis, vide 
+      <lb ed="#B" n="76"/>licet primi in secundo post exitum ex Aegypto anno. 
+      <lb ed="#B" n="77"/>Hieronymus in epist. ad Paulin. scribit, quod in eo 
+      <lb ed="#B" n="78"/>singulae pene syllabae coeleatia spirent sacramenta 
+      <lb ed="#B" n="79"/>quia ad Christum unicum N. T. summum sacer 
+      <lb ed="#B" n="80"/>dotem figurae illius nos deducunt. Ratione 
+      obje<lb ed="#B" n="81" break="no"/>ctorum distingui potest in partes tres, quarum 
+      <lb ed="#B" n="82"/>prima de rebus, altera de personis, tertia de actio 
+      <lb ed="#B" n="83"/>nibus sacris tracta 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e382">
+               <lb ed="#B" n="84"/>122. Quartus liber Moysis Hebraeis vocatur 7277 
+      <lb ed="#B" n="85"/>ab initiali dictione; Graecis ἀριθuοὶ, Latinis 
+      Numer<lb ed="#B" n="86" break="no"/>quia in eo egressae de Aegypto tribus dinumeran 
+      <lb ed="#B" n="87"/>tur et quadraginta duarum per eremum mansionum 
+      <lb ed="#B" n="88"/>numerus recensetur. Statim in principio viri mili 
+      <lb ed="#B" n="89"/>tiae apti in populo recensentur, postea enim Levitae 
+      <lb ed="#B" n="90"/>divini cultus exercitio publico destinati. Capitibus 
+      con<lb ed="#B" n="91" break="no"/>itat 36 et continet historiam 38 annorum et 9 mensium 
+      <lb ed="#B" n="92"/>et dierum 20, videlicet a primo die secundi mensis in 
+      <lb ed="#B" n="93"/>secundo post exitum anno usque ad primum diem 
+      un<lb ed="#B" n="94" break="no"/>decimi mensis in 40. post exitum anno Describit iter 
+      <lb ed="#B" n="95"/>Israëlitarum per desertum et ejus tum antecedentem 
+      <lb ed="#B" n="96"/>praeparationem tum consequentem stationem, qui 
+      <lb ed="#B" n="97"/>occasione exempla obedientiae praemiis honoratae 
+      e<lb ed="#B" n="98" break="no"/>nobedientiae poenis visitatae legislator inspergit. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e417">
+               <lb ed="#B" n="99"/>123. Quintus liber Moysis vocatur Hebraei 
+      <lb ed="#B" n="100"/>272717 2&amp; a primis dictionibus Graecis δευτερο¬ 
+      <lb ed="#B" n="101"/>νόμιον q. d. iterata lex, quia ut ait Irenaeus lib. 4. 
+      <lb ed="#B" n="102"/>c. 1. pag. 233. in eo universae legis fit recapitulatio 
+      <lb ed="#B" n="103"/>ac proinde priorum librorum epitomen complectitur. 
+      <lb ed="#B" n="104"/>Cum qua appellatione consentit, quod Rabbini eum 
+      <lb ed="#B" n="105"/>vocant 13 repetita lectio, est enim nihil aliud, 
+      <lb ed="#B" n="106"/>it iidem scribunt, quam memoria rerum priorum 
+      <lb ed="#B" n="107"/>quae in aliis scribuntur libris. Capitibus constat 3. 
+      <lb ed="#B" n="108"/>et continet historiam duorum postremorum mensium 
+      <lb ed="#B" n="109"/>anni post exitum 40. Distingui potest in doctrinalio 
+      <lb ed="#B" n="110"/>leges morales, ceremoniales et forenses complectem 
+      <lb ed="#B" n="111"/>tia, historica et prophetica. Graeca horum quinque 
+      <lb ed="#B" n="112"/>librorum nomina ab ipso Moyse eis imposita esse 
+      <lb ed="#B" n="113"/>censet Philo lib. de mundo. Sed verisimilius est 
+      <lb ed="#B" n="114"/>LXX interpp. has Graecas appellationes excogitasse 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e454">
+               <lb ed="#B" n="115"/>124. Hi quinque libri sunt Mosaici sive a Moyse 
+      <lb ed="#B" n="116"/>scripti et quinario numero includuntur, unde 
+      He<lb ed="#B" n="117" break="no"/>braeis vocantur Dz7r Graecis πενιάιευχος. 
+      Thal<lb ed="#B" n="118" break="no"/>mudistae et Cabbalistae ex eo, quod quinque vicibu 
+      <lb ed="#B" n="119"/>nominatur lux in principio c. 1. Genes. significa 
+      <lb ed="#B" n="120"/>tos fuisse autumant hos quinque libros, quod 
+      ceu<lb ed="#B" n="121" break="no"/>luminaria quaedam essent et propterea tuto illis 
+      <lb ed="#B" n="122"/>fidendum, Weidn. praefat. locorum fid. Christ. p. 
+      <!--131.xml-->
+      <pb ed="#B" n="58"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Notandum tamen, quod ultimum caput 
+      Deuterono<lb ed="#B" n="2" break="no"/>mii post mortem Moysis a Josua fuerit additum, ut 
+      <lb ed="#B" n="3"/>colligitur ex Jos. 24. v. 26. **Quidam ab Esra hoc 
+      <lb ed="#B" n="4"/>factum statuunt. Josephus asserit, quod Moyses mox 
+      <lb ed="#B" n="5"/>moriturus seipsum in sacris voluminibus mortuum 
+      <lb ed="#B" n="6"/>scripserit, veritus, ne propter excellentes virtutes 
+      <lb ed="#B" n="7"/>suas Judaei se a Deo raptum praedicarent. Hebrae: 
+      <lb ed="#B" n="8"/>totum Pentateuchum dividunt in distinctiones sive 
+      <lb ed="#B" n="9"/>titulos duos et quinquaginta, Genesin in 2, Exodum 
+      <lb ed="#B" n="10"/>in 2, Leviticum in 10, Numeros in 10, Deuterono 
+      <lb ed="#B" n="11"/>mium in 10, quas etiam distinctiones inscribunt; 
+      <lb ed="#B" n="12"/>dictionibus ipsarum initialibus, appellantes 
+      priman<lb ed="#B" n="13" break="no"/>N2 secundam 113 tertiam 75 75 et sic dein 
+      <lb ed="#B" n="14"/>ceps, usque in finem. Omnes pesukim i. e. versus 
+      <lb ed="#B" n="15"/>in quos Judaei universum partiuntur Pentateuchum 
+      <lb ed="#B" n="16"/>sunt quinque millia octingenti et triginta** Hoscc 
+      <lb ed="#B" n="17"/>quinque Moysis libros ecelesia Israëlitica et Christiana 
+      <lb ed="#B" n="18"/>semper pro canonicis habuit, nec tamen a 
+      canon<lb ed="#B" n="19" break="no"/>propterea reliquos exclusit, quod fecerunt olim Sad 
+      <lb ed="#B" n="20"/>ducaei, a Zadoco sic dicti, qui nullam Scripturan 
+      <lb ed="#B" n="21"/>recipiebant, nisi Mosaicam, unde Christus resurre 
+      <lb ed="#B" n="22"/>ctionem mortuorum, quam negabant, ex Moyse 
+      con<lb ed="#B" n="23" break="no"/>tra ipsos demonstrat Matth. 22. v. 32. Samaritani 
+      <lb ed="#B" n="24"/>sive Samaritae cum Sadducaeis in hoc errore 
+      con<lb ed="#B" n="25" break="no"/>spirabant, unde etiam Sadducaei contulerunt se ad 
+      <lb ed="#B" n="26"/>templum Samaritanorum in monte Garizim exstru 
+      <lb ed="#B" n="27"/>ctum. Contra vero Ptolemaeus (a quo Ptolemaitae 
+      <lb ed="#B" n="28"/>dicti) legem Moysis in tres partes dividebat atque 
+      <lb ed="#B" n="29"/>unius quidem mundi opificem auctorem faciebat 
+      <lb ed="#B" n="30"/>alterius Moysen, tertiae seniores synagogae. 
+      Pe<lb ed="#B" n="31" break="no"/>mundi opificem non intelligebat verum Deum, sed 
+      <lb ed="#B" n="32"/>medium aliquod Numen inter Deum et diabolum 
+      <lb ed="#B" n="33"/>iniversam igitur legem repudiabat, Epiph. haeres. 33. 
+      <lb ed="#B" n="34"/>Antitactae legem dixerunt esse secundi Dei, xml:ideo 
+      <lb ed="#B" n="35"/>pietatem putabant, legi resistere scelerate vivendo 
+      <lb ed="#B" n="36"/>Simon Magus legem esse sinistrae virtutis docebat. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e558">
+               <lb ed="#B" n="37"/>125. 6. Liber Josuue. Graecis Ἰησοῦς Ναυὴ, qui 
+      <lb ed="#B" n="38"/>continet historiam rerum a Josua, servo Moysis, ge 
+      <lb ed="#B" n="39"/>starum, quas ipse Josua Dei voluntate in literas 
+      <lb ed="#B" n="40"/>redegit. Augustinus q. 12. in lib. Judic. dubitas 
+      <lb ed="#B" n="41"/>a quo scriptus fuerit liber Josuae. Quidam eum 
+      <lb ed="#B" n="42"/>tribuunt Esdrae, alii prophetae cuidam; sed titulu 
+      <lb ed="#B" n="43"/>ostendit, eum a Josua scriptum, quod confirma 
+      <lb ed="#B" n="44"/>Munsterus in c. 1. Jos., neque enim duntaxat respe 
+      <lb ed="#B" n="45"/>ctu objecti, sed etiam causae efficientis instrumen 
+      <lb ed="#B" n="46"/>talis liber Josuae vocatur, ut colligitur ex Jos. 24 
+      <lb ed="#B" n="47"/>v. 26. **Quae a morte Josuae usque ad finem libi 
+      <lb ed="#B" n="48"/>hujus scripta sunt Esdram adjecisse fama est. Theo 
+      <lb ed="#B" n="49"/>doretus censet, etiam totum librum longe post 
+      mo<lb ed="#B" n="50" break="no"/>tem Josuae fuisse collectum ex antiquo commenta 
+      <lb ed="#B" n="51"/>rio, cui titulus fuit liber justorum, adductus verbis 
+      <lb ed="#B" n="52"/>c. 10. Nonne haec scripta sunt in libro justorum.* 
+      <lb ed="#B" n="53"/>Constat capitibus 21 et continet historiam annorum 
+      <lb ed="#B" n="54"/>18, videlicet a morte Moysis usque ad mortem Josuae. 
+      <lb ed="#B" n="55"/>Describit historiam: 1. introductionis Israëlitarum 
+      <lb ed="#B" n="56"/>in terram Canaan duce Josua. 2. debellationis 
+      Ca<lb ed="#B" n="57" break="no"/>nanaeorum. 3. distributionis terrae inter Israëliticas 
+      <lb ed="#B" n="58"/>tribus. Potest etiam dividi in historiam rerum? 
+      <lb ed="#B" n="59"/>Josua gestarum: 1. belli. 2. pacis tempore. Conti 
+      <lb ed="#B" n="60"/>net versus 645. 
+</p>
+            <p xml:id="zef3dd-d1e203-d1e614">
+      <!--131.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>126. 7. Liber Judicum, Hebr. S*1257, Graecis 
+      <lb ed="#B" n="62"/>κριταί. De auctore intermedio hujus libri nihil certi 
+      <lb ed="#B" n="63"/>constat. Hugo cardinalis in prologo super hunc 
+      <lb ed="#B" n="64"/>locum scribit, quemvis judicum suorum temporum 
+      <lb ed="#B" n="65"/>res gestas in acta retulisse. Samuelem autem ve 
+      <lb ed="#B" n="66"/>Ezram, vel Jeremiam, vel Ezechiam potius in unum 
+      <lb ed="#B" n="67"/>olumen isthaec collegisse. Conjecturam de Ezechia 
+      <lb ed="#B" n="68"/>confirmat illud, quod amanuenses ejus quaedam 
+      <lb ed="#B" n="69"/>Salomonis proverbia in unum contulisse dicuntur. 
+      <lb ed="#B" n="70"/>Proverb. 25. vers. 1. Vocatur liber Judicum, quis 
+      <lb ed="#B" n="71"/>continet res gestas sub Judicum regimine. Descri 
+      <lb ed="#B" n="72"/>bit statum politiae Israëliticae a morte Josuae usque 
+      <lb ed="#B" n="73"/>ad sacerdotium Eli, quomodo interea temporis Israë¬ 
+      <lb ed="#B" n="74"/>litae apostasia saepius iterata a Deo defecerint e 
+      <lb ed="#B" n="75"/>propter eam debitis poenis a Deo affecti fuerint, sed 
+      <lb ed="#B" n="76"/>post suam ad Deum conversionem per manum 
+      ju<lb ed="#B" n="77" break="no"/>licum ex diversis tribubus divinitus excitatorum a 
+      <lb ed="#B" n="78"/>potestate hostium fuerint iterum liberati. August 
+      <lb ed="#B" n="79"/>lib. 18. de civit. Dei e. 13. Temporibus judicum 
+      <lb ed="#B" n="80"/>alternaverunt apud populum Dei, et humilitates 
+      la<lb ed="#B" n="81" break="no"/>borum pro eorum peccatis et prosperitates consola 
+      <lb ed="#B" n="82"/>tionum propter miserationem Dei. Capitibus consta 
+      <lb ed="#B" n="83"/>21 et continet historiam 299 annorum, quia a morto 
+      <lb ed="#B" n="84"/>Josuae usque ad mortem Athnielis numerantur anni 
+      <lb ed="#B" n="85"/>10. Jud. 3. v. 11. a morte Athnielis usque ad 
+      mor<lb ed="#B" n="86" break="no"/>tem Ehud et Samgar anni 80. Jud. 3. v. 30 a morte 
+      <lb ed="#B" n="87"/>Chud et Samgar usque ad mortem Deborae anni 
+      <lb ed="#B" n="88"/>1O. Jud. 5, v. 31. a morte Deborae usque ad 
+      mor<lb ed="#B" n="89" break="no"/>em Gideonis anni 40. Jud. 8. v. 28. a morte Gi 
+      <lb ed="#B" n="90"/>deonis usque ad mortem Abimelechi anni 3. Jud 
+      <lb ed="#B" n="91"/>). v. 22. a morte Abimelechi usque ad mortem 
+      <lb ed="#B" n="92"/>Thola anni 23. Jud. 10. v. 2. a morte Thola usque 
+      <lb ed="#B" n="93"/>ad mortem Jair anni 22. Jud. 10. v. 3. a morte 
+      <lb ed="#B" n="94"/>Jair usque ad mortem Jephtah anni 6. Jud. 12. v. 7. 
+      <lb ed="#B" n="95"/>a morte Jephtah usque ad mortem Ebzan anni 7. 
+      <lb ed="#B" n="96"/>Jud. 12. v. 9. a morte Ebzan usque ad mortem 
+      <lb ed="#B" n="97"/>Elon anni 10. Jud. 12. v. 11. a morte Elon usque 
+      <lb ed="#B" n="98"/>ad mortem Abdon anni 8. Jud. 12. v. 14. a morte 
+      <lb ed="#B" n="99"/>Abdon usque ad mortem Simsonis anni 20. Jud. 16. 
+      <lb ed="#B" n="100"/>v. 31. a morte Simsonis usque ad sacerdotium 
+      Eli<lb ed="#B" n="101" break="no"/>annus unus, hi anni omnes in unam summam 
+      colle<lb ed="#B" n="102" break="no"/>ti efficiunt 299. annos. Potest hic liber juxta 
+      nu<lb ed="#B" n="103" break="no"/>merum 12 Judicum, quorum originem, vitam et rei 
+      <lb ed="#B" n="104"/>gestas describit, in totidem partes dispesci. Usun 
+      <lb ed="#B" n="105"/>jusdem Hieronymus epistol. 103. ad Paulinum hisce 
+      <lb ed="#B" n="106"/>verbis exprimit: In Judicum libro quot 
+      principe<lb ed="#B" n="107" break="no"/>populi, tot figurae sunt. Versus continet 600. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e723">
+               <lb ed="#B" n="108"/>127. 8. Ruth. Auctor hujus libri ignoratur. 
+      Capi<lb ed="#B" n="109" break="no"/>tib. constat 4, in quibus describit historiam Ruthae 
+      <lb ed="#B" n="110"/>Hoabitidis, quomodo populo Dei per matrimonium 
+      <lb ed="#B" n="111"/>tum Boaz, Davidis atavo, inserta fuerit, atque hac 
+      <lb ed="#B" n="112"/>ratione in genealogia salvatoris, propter quam haec 
+      <lb ed="#B" n="113"/>historia potissimum annotata est, locum obtinuerit 
+      <lb ed="#B" n="114"/>Sandaeus Jesuita in themate seculari de deserenda 
+      <lb ed="#B" n="115"/>Synagog. Protestant. th. 27. Protestantibus tribuit 
+      <lb ed="#B" n="116"/>quod librum Ruth e sacro canone abraserint. Sed 
+      <lb ed="#B" n="117"/>aut insigniter fallitur, aut audacter mentitur, neme 
+      <lb ed="#B" n="118"/>anim nostrum negat librum Ruth esse canonicum 
+      <lb ed="#B" n="119"/>Quo tempore historia in hoc libello descripta 
+      conti<lb ed="#B" n="120" break="no"/>gerit, de eo variant interpretum seutentiae. Chal¬ 
+      <!--132.xml-->
+      <pb ed="#B" n="59"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>daeus paraphrastes dicit, Ruth fuisse filiam Eglon 
+      <lb ed="#B" n="2"/>regis Moab, cujus mentio fit Jud. 3. v. 12. Sed 
+      <lb ed="#B" n="3"/>nulla Scripturae auctoritate xml:id probatur, nec verisi 
+      <lb ed="#B" n="4"/>mile est, quod filia regis peregrini hominis filio nu 
+      <lb ed="#B" n="5"/>bere et relicta patria et avita regione panis quae 
+      <lb ed="#B" n="6"/>rendi causa in aliam terram concedere voluerit 
+      <lb ed="#B" n="7"/>R. D. Kimchi in c. 1. Ruth et alii ex Rabbinis sta 
+      <lb ed="#B" n="8"/>tuunt, Boaz, qui Rutham in uxorem duxit, fuiss 
+      <lb ed="#B" n="9"/>judicem illum qui Judic. 12. v. 8. vocatur *xat. 
+      <lb ed="#B" n="10"/>Ebzan, qui scilicet Jephtam proxime fuit seeutus 
+      <lb ed="#B" n="11"/>Tremellius ex collatione Matth. 1, v. 5. et finis 
+      <lb ed="#B" n="12"/>hujus libri ostendere conatur, tempore Deborae 
+      ham<lb ed="#B" n="13" break="no"/>historiam contigisse. Contra vero Augustinus libr.) 
+      <lb ed="#B" n="14"/>de doctrin. Christ. c. 8. ad regum principia 
+      tempu<lb ed="#B" n="15" break="no"/>hujus historiae refert, cum quo fere coincidit, quod 
+      <lb ed="#B" n="16"/>Joseph. libr. 5. antiq. et Hugo cardinalis ad El 
+      <lb ed="#B" n="17"/>acerdotis tempus eam revocant. Sed historia Ri 
+      <lb ed="#B" n="18"/>chae videtur antiquior, scribitur enim facta in 
+      die<lb ed="#B" n="19" break="no"/>bus unius judicis, eorum scilecet qui in libro Judi 
+      <lb ed="#B" n="20"/>cum describuntur. In re dubia praestat ἐπέχειν 
+      <lb ed="#B" n="21"/>quam temere aliquid definire. Potest historia hu 
+      <lb ed="#B" n="22"/>us libri distribui in προηγούμενα, τὸ πραχθέν et 
+      <lb ed="#B" n="23"/>ἐπόμενα nuptiarum inter Boaz et Rutham viduam 
+      <lb ed="#B" n="24"/>contractarum. Versus continet 85. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e812">
+               <lb ed="#B" n="25"/>128. 9. Libri duo Samuelis. Auctor glossae 
+      ordi<lb ed="#B" n="26" break="no"/>nariae statuit, primum librum fuisse conscriptum a 
+      <lb ed="#B" n="27"/>Samuele usque ad partem eam, in qua mors ipsiu 
+      <lb ed="#B" n="28"/>commemoratur e. 25. reliqua autem, ut et secundum. 
+      <lb ed="#B" n="29"/>a Davide fuisse addita, quae sententia a quibus 
+      <lb ed="#B" n="30"/>dam confirmatur ex 1. Paralip. 29, v. 29. Dicuntur 
+      <lb ed="#B" n="31"/>ergo libri Samuelis, tum ratione causas efficientis 
+      <lb ed="#B" n="32"/>instrumentalis, quia bona eorum pars a Samuelo 
+      <lb ed="#B" n="33"/>scripta, tum ratione materiae et objecti, quia histo 
+      <lb ed="#B" n="34"/>ria Samuelis in priore parte libri primi describitur 
+      <lb ed="#B" n="35"/>In posteriore primi parte, ut et in secundo libro acta 
+      <lb ed="#B" n="36"/>primorum regum Israëliticorum Saulis et Davidi 
+      <lb ed="#B" n="37"/>describuntur, unde etiam apud Graecos et Latino 
+      <lb ed="#B" n="38"/>primus et secundus Regum dicuntur. Quidam a 
+      <lb ed="#B" n="39"/>Nathane et Gad prophetis partem posteriorem libri 
+      <lb ed="#B" n="40"/>primi et librum secundum scriptum arbitrantur 
+      <lb ed="#B" n="41"/>Primus Samuelis constat capitibus 31 et contine 
+      <lb ed="#B" n="42"/>historiam 80 annorum, videlicet sub Eli. 40. 1. Sa 
+      <lb ed="#B" n="43"/>muel. 4. v. 18. sub Samuele et Saule itidem 46 
+      <lb ed="#B" n="44"/>Actor. 13. v. 21. Pro ratione objectorum, in quibu 
+      <lb ed="#B" n="45"/>describendis occupatur, dividi potest in tres partes 
+      <lb ed="#B" n="46"/>videlicet in historiam: 1. Samuelis, ultimi judicis 
+      <lb ed="#B" n="47"/>2. Saulis, primi regis. 3. Davidis in Saulis locum 
+      <lb ed="#B" n="48"/>electi. Secundus constat capitibus 24 et continet 
+      <lb ed="#B" n="49"/>historiam 40 annorum sub regno Davidis 2. Sa 
+      <lb ed="#B" n="50"/>muel 5. v. 4. et 5. Dividi potest juxta statum regni 
+      <lb ed="#B" n="51"/>Davidici, cujus exponit. 1. initium. 2. incrementum 
+      <lb ed="#B" n="52"/>3. finem. Primus habet versus 797. Secundus 67 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e875">
+               <lb ed="#B" n="53"/>129. 10. Libri duo Regum. Hebraeis 21222, 
+      Gra<lb ed="#B" n="54" break="no"/>cis et Latinis tertius et quartus Regum, quia primur 
+      <lb ed="#B" n="55"/>et secundum Samuelis itidem libris Regum 
+      accen<lb ed="#B" n="56" break="no"/>sent. Historia regum a diversis prophetis fuit 
+      con<lb ed="#B" n="57" break="no"/>scripta, quis vero in unum volumen et compendium 
+      <lb ed="#B" n="58"/>suoddam eandem congesserit, certo sciri ac definiri 
+      <lb ed="#B" n="59"/>hequit. Plerique Esdrae illud tribuunt. ** Proco 
+      <lb ed="#B" n="60"/>plus Gazaeus, B. Kimchi et Isidorus Jeremiam hoc 
+      <!--132.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>opus in unum volumen congessisse tradunt, quit 
+      <lb ed="#B" n="62"/>postremum caput libri Regum cum ultimo capit 
+      <lb ed="#B" n="63"/>libri Jeremiae stylo, verbis ac narratione convenit 
+      <lb ed="#B" n="64"/>Apparet vero hoc volumen per compendium fuisse 
+      <lb ed="#B" n="65"/>collectum partim ex libris dierum regum Juda et 
+      <lb ed="#B" n="66"/>Israël, partim ex Nathane prophetae, Ahiae Silonitis 
+      <lb ed="#B" n="67"/>Addo Videntis et Semeiae, Hozai, Jehu et Esaiae 
+      <lb ed="#B" n="68"/>prophetarum scriptis saepissime in 3. et 4. libro 
+      Re<lb ed="#B" n="69" break="no"/>rum citatis. ** Propheticis libris utrumque annu 
+      <lb ed="#B" n="70"/>nerandum esse, docet Augustinus libr. 17. de civit 
+      <lb ed="#B" n="71"/>Dei c. 1. Primus liber Regum capitibus constat 2 
+      <lb ed="#B" n="72"/>et continet historiam 118 annorum, videlicet 40 sub 
+      <lb ed="#B" n="73"/>Salomone 1. Regum 11, v. 42. 78. sub reliquis 
+      regi<lb ed="#B" n="74" break="no"/>pus Juda, quia Rehabeam Salomonis filius regnavit. 
+      <lb ed="#B" n="75"/>7 annis 1. Regum 14, v. 21. Abiam 8 annis 1. 
+      <lb ed="#B" n="76"/>Regum 15, v. 2. Assa 41 annis. 1. Regum 15, v. 10. 
+      <lb ed="#B" n="77"/>Josaphat solus. 17 annis. 1. Reg. 22, v. 52. hi in 
+      <lb ed="#B" n="78"/>unam summam redacti conficiunt 78 annos, adde 4 
+      <lb ed="#B" n="79"/>annos Salomonis, et emergent anni 118. Nec solum 
+      <lb ed="#B" n="80"/>quinque illorum regum Juda, sed etiam octo regum 
+      <lb ed="#B" n="81"/>Israël specialiter sic dictorum historiam describit 
+      <lb ed="#B" n="82"/>idelicet Jerobeami, qui 22 annis imperavit 1. Re 
+      <lb ed="#B" n="83"/>gum 14. v. 20. Nadabi, qui 22 annis 1. Regum 13 
+      <lb ed="#B" n="84"/>v. 33. Baësae, qui 21 annis. 1. Regum 15, v. 3. 
+      <lb ed="#B" n="85"/>Ellae, qui duobus annis 1. Regum 16, v. 8. Simri 
+      <lb ed="#B" n="86"/>qui diebus septem 1. Regum 16, v. 15. Thibni qui 
+      <lb ed="#B" n="87"/>cum Amri 4 annis, Amri, qui solus 8 annis et in 
+      <lb ed="#B" n="88"/>universum 12. annis 1. Regum 16, v. 23. et Achabi. 
+      <lb ed="#B" n="89"/>qui 22 annis imperavit 1. Regum 16, v. 29. Juxta 
+      <lb ed="#B" n="90"/>historiam horum regum distributio libri institui 
+      pot<lb ed="#B" n="91" break="no"/>est. Nec incommode distribueretur in duas partes 
+      <lb ed="#B" n="92"/>quarum prior describit regnum Israëliticum in flore 
+      <lb ed="#B" n="93"/>constitutum sub Salomone, posterior ejusdem 
+      decli<lb ed="#B" n="94" break="no"/>nationem sub regibus Israël specialiter sic dictis et 
+      <lb ed="#B" n="95"/>regibus Judae. Secundus liber Regum constat capi 
+      <lb ed="#B" n="96"/>tibus 25. et continet historiam 320 annorum, 
+      descri<lb ed="#B" n="97" break="no"/>bit enim res gestas 16. regum Judae (videlicet 
+      Jo<lb ed="#B" n="98" break="no"/>rami, qui imperavit solus 8 annis, cum parente au 
+      <lb ed="#B" n="99"/>tem Josaphato 4 annis 2. Regum 8, v. 17. Ahasiae, 
+      <lb ed="#B" n="100"/>qui anno 1. 2. Regum 8, v. 26. Athaliae matri. 
+      <lb ed="#B" n="101"/>Ahasiae, quae 6 annis 2. Regum 11, v. 3. Joas qui 
+      <lb ed="#B" n="102"/>10 annis 2. Regum 12. v. 1. Amaziae, qui 29 
+      an<lb ed="#B" n="103" break="no"/>nis, ex quibus 12 exilio ejus tribuendi 2. Regum 14. 
+      <lb ed="#B" n="104"/>v. 5. Asariae sive Usiae, qui 52 annis 2. Regum 15, 
+      <lb ed="#B" n="105"/>v. 2. Jotham, qui 16 annis 2. Regum 15, v. 33. 
+      <lb ed="#B" n="106"/>Ihas, qui itidem 16 annis 2. Regum 16, v. 3. His 
+      <lb ed="#B" n="107"/>tiae, qui 29 annis 2. Regum 18, v. 2. Manassae, 
+      <lb ed="#B" n="108"/>qui 55 annis 2. Regum 21, v. 2. Amonis, qui2 
+      <lb ed="#B" n="109"/>annis 2. Regum 21, v. 9. Josiae, qui 31 annis 2. 
+      <lb ed="#B" n="110"/>Regum 22, v. 1. Joahas, qui 3. mensibus 2. Regum. 
+      <lb ed="#B" n="111"/>23, v. 31. Jojakim, qui 1l annis 2. Regum 23. 
+      <lb ed="#B" n="112"/>v. 36. Jojachin, qui 3 mensibus 2. Regum 24, v. 8. 
+      <lb ed="#B" n="113"/>et Zedekiae, qui 11 annis imperavit 2. Regum 24 
+      <lb ed="#B" n="114"/>p. 18.) ac 12. regum Israël (videl. Ahasiae, qui 1 
+      <lb ed="#B" n="115"/>anno imperavit 1. Regum 22, v. 52. Jorami, qui 13 
+      <lb ed="#B" n="116"/>annis 2. Regum 3, v. 1. Jehu, qui 28 annis 2. Re 
+      <lb ed="#B" n="117"/>gum 10, v. 36. Joahasi, qui 17 annis, quindecim 
+      <lb ed="#B" n="118"/>scilicet solus et duobus cum filio 2. Regum 13, v. s. 
+      <lb ed="#B" n="119"/>Joasi, qui 16 annis 2. Regum 13. v. 10. Jerobeami, 
+      <lb ed="#B" n="120"/>qui 41 annis 2. Regum 14. v. 23. Sachariae, qui e 
+      <!--133.xml-->
+      <pb ed="#B" n="60"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>mensibus 2. Regum 15, v. 8. Sallum, qui uno 
+      mens<lb ed="#B" n="2" break="no"/>2. Regum 15. v. 13. Menahem, qui annis 10. 2. Re 
+      <lb ed="#B" n="3"/>gum lo, v. 17. Pekaiah, qui 2. annis 2. Reg. 15. 
+      <lb ed="#B" n="4"/>v. 23. Pekah, qui 20 annis, 2. Reg. 15, v. 27 
+      <lb ed="#B" n="5"/>Hoseae, qui 9 annis liber imperavit 2. Reg. 17, v. 
+      <lb ed="#B" n="6"/>postea O annis fuit regis Assyrii tributarius, atque 
+      <lb ed="#B" n="7"/>ab eo tandem in captivitatem abductus v. 6.) Dis 
+      <lb ed="#B" n="8"/>tribui potest juxta horum regum seriem. Primu 
+      <lb ed="#B" n="9"/>regum continet versus 809, secundus 712 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e1055">
+               <lb ed="#B" n="10"/>130. 11. Libri duo Paralipomenon. Apud Hebraeos 
+      <lb ed="#B" n="11"/>est tantum unus liber qui vocatur C25 372 
+      <lb ed="#B" n="12"/>verba dierum, eo quod in illis describantur sigilla 
+      <lb ed="#B" n="13"/>tim gesta et facta regum populi Israëlitici, Munst 
+      <lb ed="#B" n="14"/>rus reddidit libros annalium. Nec male. Sunt 
+      <lb ed="#B" n="15"/>enim annales teste Gellio lib. 5. N. A. c. 18. cur 
+      <lb ed="#B" n="16"/>res gestae plurium annorum observato cujusque 
+      <lb ed="#B" n="17"/>anni ordine componuntur, ut tantummodo quid 
+      fo<lb ed="#B" n="18" break="no"/>ctum quoquo anno sit, demonstretur. Graeci et Ls 
+      <lb ed="#B" n="19"/>tini in duos eum dividunt, illis vocatur liber παρα 
+      <lb ed="#B" n="20"/>ὁ λει τδμένων, q. d. praetermissorum, quia quaedar 
+      <lb ed="#B" n="21"/>in Pentateucho, libris Josuae, Judicum, Samuelis e 
+      <lb ed="#B" n="22"/>Regum vel omissa vel non plene descripta summatii 
+      <lb ed="#B" n="23"/>explicat; his vero liber Chronicorum, q. d. Chro 
+      <lb ed="#B" n="24"/>nologicum, quam appellationem Lutherus in Germa 
+      <lb ed="#B" n="25"/>nica bibliorum versione retinuit. De auctore horum 
+      <lb ed="#B" n="26"/>librorum nihil certi constat. R. Salomo et R. L. 
+      <lb ed="#B" n="27"/>Kimchi, quorum Peruschim in hos libros exstant, in 
+      <lb ed="#B" n="28"/>illorum principio asserunt, ab Esdra legis perito eos 
+      <lb ed="#B" n="29"/>fuisse conscriptos, quod confirmaut argumento eo 
+      <lb ed="#B" n="30"/>quia eadem verba in principio libri Esdrae exstant 
+      <lb ed="#B" n="31"/>quae in fine Paralipomenon habentur. Idem R. 
+      Sa<lb ed="#B" n="32" break="no"/>lomo in comm. c. 7. scribit: Esdram inveniss, 
+      <lb ed="#B" n="33"/>trea libros genealogiarum, ex quibus hunc congess, 
+      <lb ed="#B" n="34"/>rit. Hieronym. in epist. ad Paulin. eum vocat in 
+      <lb ed="#B" n="35"/>strumenti veteris epitomen, eumque talem ac tantur 
+      <lb ed="#B" n="36"/>esse ait, ut si quis absque illo scientiam Scripturo 
+      <lb ed="#B" n="37"/>rum cibi voluerit arrogare, seipsum irrideat. Et i 
+      <lb ed="#B" n="38"/>Prolog. Galeato scribit, illum esse totius divina 
+      <lb ed="#B" n="39"/>historiae χρονικόν. Hebraei illum collocant pos 
+      <lb ed="#B" n="40"/>Esdrae libros, quia existimant, illum ab Esdra 
+      ser<lb ed="#B" n="41" break="no"/>ptum eo tempore, quo populus Judaicus post capti 
+      <lb ed="#B" n="42"/>vitatem Babylonicam redierat in Jerusalem, quod 
+      <lb ed="#B" n="43"/>ex fine secundi libri colligunt. Quidam existimant 
+      <lb ed="#B" n="44"/>hunc ipsum esse librum eum, cujus mentio 
+      fi<lb ed="#B" n="45" break="no"/>1 <!-- line coord error --> 
+      <lb ed="#B" n="46"/>Regum 15. v. 23., quidam vero rectius statuunt, 
+      no<lb ed="#B" n="47" break="no"/>illum ipsum, sed ejus duntaxat epitomen esse. Pr 
+      <lb ed="#B" n="48"/>mus liber Chronicorum capitibus constat 29 ac 
+      po<lb ed="#B" n="49" break="no"/>tissimum agit de rebus ante divisionem regni Israë 
+      <lb ed="#B" n="50"/>litici gestis, continet historiam annorum 2985. vide 
+      <lb ed="#B" n="51"/>licet a creatione mundi usque ad regnum Salomoni 
+      <lb ed="#B" n="52"/>Distribui potest in duas principales partes, quarum 
+      <lb ed="#B" n="53"/>prior agit de genealogiis, posterior de historia 
+      Sau<lb ed="#B" n="54" break="no"/>lis et Davidis. Secundus capitibus constat 36 ac 
+      <lb ed="#B" n="55"/>describit historiam ab initio regni Salomonis usque 
+      <lb ed="#B" n="56"/>ad reditum ex captivitate, qui incidit in primum 
+      <lb ed="#B" n="57"/>annum Cyri, Persarum regis. Continet historiam 
+      <lb ed="#B" n="58"/>annorum 472. videlicet ab imperio Salomonis usqu 
+      <lb ed="#B" n="59"/>ad liberationem ex captivitate Babylonica. Distribu 
+      <lb ed="#B" n="60"/>potest in duas principales partes; quarum prior 
+      agi<lb ed="#B" n="61" break="no"/>de incremento et flore regni Israëlitici sub Salomone 
+      <!--133.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>posterior de ejusdem incremento et ruina sub 
+      regi<lb ed="#B" n="63" break="no"/>bus Israël et Judae. Quod si libros Samuelis, Regum 
+      <lb ed="#B" n="64"/>et Paralipomenon conjunctim consideremus, 
+      conti<lb ed="#B" n="65" break="no"/>nent historicam narrationem, quomodo regnum In 
+      <lb ed="#B" n="66"/>raëliticum coeperit sub Samuele, profecerit sub Da 
+      <lb ed="#B" n="67"/>vide, floruerit sub Salomone ac defecerit sub Zede 
+      <lb ed="#B" n="68"/>kia, sicque durarit ferme 565 annos 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e1192">
+               <lb ed="#B" n="69"/>131. 12. Duo libri Esdrae. Apud Hebraeos 
+      <lb ed="#B" n="70"/>pro uno volumine computantur, teste Hieronyme 
+      <lb ed="#B" n="71"/>in epistol. ad Paulinum et Lactantio lib. 4. Instit. 
+      <lb ed="#B" n="72"/>e. 11. ubi ex Esdrae libro allegat, quae in secund 
+      <lb ed="#B" n="73"/>Esdrae sive Nehemiae libro c. 8. exstant. Idem 
+      <lb ed="#B" n="74"/>Laetantius diet. loc. Esdram vocat prophetam, sec 
+      <lb ed="#B" n="75"/>Augustinus libr. 18. de civit. Dei c. 36. dubitat, ar 
+      <lb ed="#B" n="76"/>propheta dici debeat. Graeci et Latini in duos 
+      <lb ed="#B" n="77"/>libros dividunt, ac priorem Esdrae, posteriorem 
+      <lb ed="#B" n="78"/>Nehemiae assignant. Esdra fuit scriba legis peri 
+      <lb ed="#B" n="79"/>tissimus Esdr. 7, v. 1. 6. et 11. quem Hieronymus 
+      <lb ed="#B" n="80"/>tradit fuisse Josedech, cujus filius fuit Jesus 
+      sacer<lb ed="#B" n="81" break="no"/>dos magnus. Confer Ludovicum Vivem in libr. 18. 
+      <lb ed="#B" n="82"/>de civit. Dei. c. 36. ** Primus liber Paralipomenon. 
+      <lb ed="#B" n="83"/>eum vocat Josedech, Hebraei Malachiam ultimum 
+      <lb ed="#B" n="84"/>prophetarum esse putant.** Nehemiam Munsterus 
+      <lb ed="#B" n="85"/>vult esse eum, qui Esdr. 2. v. 63. vocatur 
+      Hattir<lb ed="#B" n="86" break="no"/>schata, quod pincernam significat. Rabb. Aben Ezra 
+      <lb ed="#B" n="87"/>licit, in Chaldaica lingua esse nomen dignitatis 
+      <lb ed="#B" n="88"/>Tremellius interpretatur commissarium seu legatum 
+      <lb ed="#B" n="89"/>regis. Fuit autem Nehemias filius Helciae, pincerna 
+      <lb ed="#B" n="90"/>regis Artaxerxis Mnemonis Nehem. 2. v. 1. regnan. 
+      <lb ed="#B" n="91"/>tis Susis, Persiae metropoli, quam a Dario Hystaspis 
+      <lb ed="#B" n="92"/>aedificatam fuisse Plinius libr. 6. N. H. c. 27. et 
+      <lb ed="#B" n="93"/>Athenaeus libr. 12. Deipnosoph. scribunt, ubi cele 
+      <lb ed="#B" n="94"/>perrimam bibliothecam fuisse Megasthones et alii 
+      <lb ed="#B" n="95"/>historici tradunt. Primus liber Esdrae capitibus 
+      <lb ed="#B" n="96"/>constat decem et continet historiam annorum 146 
+      <lb ed="#B" n="97"/>videlicet ab edicto Cyri usque ad annum 19. Arta. 
+      <lb ed="#B" n="98"/>terxis Mnemonis. ** Secundus hic liber tribuitu 
+      <lb ed="#B" n="99"/>Esdrae (cum tamen a Nehemia scriptus sit) ob 
+      dua<lb ed="#B" n="100" break="no"/>causas. I. quod ea contineat, quae simul ab Esdra 
+      <lb ed="#B" n="101"/>et Nehemia gesta sunt. 2. quod utrique libri apud 
+      <lb ed="#B" n="102"/>Hebraeos in unum connectantur volumen, apud 
+      <lb ed="#B" n="103"/>Latinos in duo divisum. ** Describit historiam 
+      <lb ed="#B" n="104"/>reditus Judaeorum ex captivitate duce Zorobabele 
+      <lb ed="#B" n="105"/>et reaedificationis templi cum instauratione 
+      divin<lb ed="#B" n="106" break="no"/>cultus inter plurimas difficultates. Partes ejus sum 
+      <lb ed="#B" n="107"/>duae: 1. De Judaeorum ex Babylonica captivitate in 
+      <lb ed="#B" n="108"/>patriam reversione. 2. De divini cultus et politiae 
+      <lb ed="#B" n="109"/>Israëliticae instauratione. Templum restauravit 
+      Zo<lb ed="#B" n="110" break="no"/>robabel, cultum Esdras, urbem Nehemias. 
+      Secun<lb ed="#B" n="111" break="no"/>dus liber Esdrae, dictus alias liber Nehemiae, capi 
+      <lb ed="#B" n="112"/>tibus constat 13 et continet historiam annorum 55. 
+      <lb ed="#B" n="113"/>videlicet ab anno 20. Artaxerxis usque ad regnum 
+      <lb ed="#B" n="114"/>Darii ultimi. Describitur in eo historia aedificatio 
+      <lb ed="#B" n="115"/>nis murorum et portarum urbis, itemque eorum 
+      <lb ed="#B" n="116"/>quae ad emendationem Israëliticae reipublicae a 
+      <lb ed="#B" n="117"/>Nehemia salubriter instituta, in quas duas partes 
+      <lb ed="#B" n="118"/>commode dividi potest
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e1304">
+               <lb ed="#B" n="119"/>132. 13. Esther. Hebraeis vocatur 70 197377 
+      <lb ed="#B" n="120"/>volumen Estherae, Melito in epist. ad Onesimum 
+      <lb ed="#B" n="121"/>apud Eusebium lib. 4 c. 25. Athanasius in Synopai. 
+      <!--134.xml-->
+      <pb ed="#B" n="61"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>et Naxianzen. in carm. de script. ex canone hunc 
+      <lb ed="#B" n="2"/>librum excludunt, sed Hebraei et primitivae eccle 
+      <lb ed="#B" n="3"/>siae Christianae DD. reliqui unanimi suffragio agno 
+      <lb ed="#B" n="4"/>seunt, eum esse canonicum. De additamentis igitu 
+      <lb ed="#B" n="5"/>sive appendice priores illi loqui videntur. ** Six 
+      <lb ed="#B" n="6"/>Senens. libr. 1. Biblioth. pag. 5. putat, xml:ideo Esthera 
+      <lb ed="#B" n="7"/>nentionem non esse factam, quia nondum tempor 
+      <lb ed="#B" n="8"/>bus illis firma esset apud omnes ecclesias hujus 
+      <lb ed="#B" n="9"/>libri auctoritas. ** De auctore hujus libri 
+      varian<lb ed="#B" n="10" break="no"/>sententiae. Isidorus ab Esdra eum conscriptur 
+      <lb ed="#B" n="11"/>statuit, sed Eusebius in chronicis autumat, ejus au 
+      <lb ed="#B" n="12"/>ctorem fuisse Esdra posteriorem. Philo Judaeus in 
+      <lb ed="#B" n="13"/>I. chronolog. eum tribuit Joachimo Hebraeorum ponti 
+      <lb ed="#B" n="14"/>fici, Jesu sacerdotis magni filio. Patres Latini s 
+      <lb ed="#B" n="15"/>Mardochaeo eum scriptum statuunt, quibus favet 
+      <lb ed="#B" n="16"/>e. 9. v. 20. et 23. Capitibus constat 10 et contine 
+      <lb ed="#B" n="17"/>historiam 10 vel ut alii volunt 20 annorum. 
+      De<lb ed="#B" n="18" break="no"/>scribit ea, quae obtigerunt Judaeis, qui in 
+      patriam<lb ed="#B" n="19" break="no"/>non fuere reversi, sed in regno Persico substiterant 
+      <lb ed="#B" n="20"/>tempore regis Ahasveri, qui in profanis historii 
+      <lb ed="#B" n="21"/>Xerxes, Darii Hystaspis filius, appellatur. Cum 
+      <lb ed="#B" n="22"/>primis vero Estherae historiam pertractat, per quam 
+      <lb ed="#B" n="23"/>regio connubio honoratam periculum Judaeorum 
+      <lb ed="#B" n="24"/>cervicibus imminens mirabili Dei providentia e 
+      <lb ed="#B" n="25"/>dispositione fuit aversum. Cumque comoediam quas 
+      <lb ed="#B" n="26"/>quandam proponat, xml:ideo in protasin, epitasin et 
+      <lb ed="#B" n="27"/>catastrophen haec historia commode dividi potest. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e1378">
+               <lb ed="#B" n="28"/>133. 14. Jobus. De eo plurimum variant inter 
+      <lb ed="#B" n="29"/>pretes tum Judaei, tum Christiani. Rab. Mosch. 
+      <lb ed="#B" n="30"/>Ben Maimon in More Nebuchim part. 3. sect. 22 
+      <lb ed="#B" n="31"/>negat, Jobum unquam fuisse in rerum natura, xml:ideo 
+      <lb ed="#B" n="32"/>que tantum seu exemplum esse censet. Hebrae 
+      <lb ed="#B" n="33"/>in Thalmud. ordin. 4. tractat. 3. librum Jobi nos 
+      <lb ed="#B" n="34"/>habent in divinis voluminibus, nec ipsum putam 
+      <lb ed="#B" n="35"/>inter homines vixisse. Sed refellitur haec opinio to 
+      <lb ed="#B" n="36"/>stimonio Ezechielis c. 14. v. 14. cui conforme est 
+      <lb ed="#B" n="37"/>quod Jacob. 5. v. 11. habetur. Bellarminus libr. 1 
+      <lb ed="#B" n="38"/>de verbo Dei c. 6. in societatem hujus erroris per 
+      <lb ed="#B" n="39"/>trahere conatur Lutherum, propterea quod in conviv 
+      <lb ed="#B" n="40"/>sermon. tit. de patriarchis et prophetis asserat, se 
+      <lb ed="#B" n="41"/>non credere ita omnia esse gesta, ut in libro Job 
+      <lb ed="#B" n="42"/>narrantur, ac tit. de libr. V. et N. T, dieat, librum 
+      <lb ed="#B" n="43"/>Jobi esse velut fabulae argumentum ad proponendum 
+      <lb ed="#B" n="44"/>exemplum patientiae. Sed respond. 1. liber illo 
+      <lb ed="#B" n="45"/>convivalium sermonum a Luthero nec visus, nec lo 
+      <lb ed="#B" n="46"/>ctus, nec approbatus est, quin multoties privat 
+      <lb ed="#B" n="47"/>quorundam arbitrio mutatus, mutilatus, auctus, xml:id 
+      <lb ed="#B" n="48"/>quod fidem authenticam illi merito derogat. 2. Lu 
+      <lb ed="#B" n="49"/>therus ipse monet, ea quae in familiaribus illi 
+      <lb ed="#B" n="50"/>colloquiis convivalibus protulit, non esse habenda 
+      <lb ed="#B" n="51"/>pro fidei articulis, ut refert Selnec. in praefat. illo 
+      <lb ed="#B" n="52"/>rum sermonum. 3. In versione bibliorum 
+      Germanie<lb ed="#B" n="53" break="no"/>librum Jobi inter canonicos retulit et ab apocri 
+      <lb ed="#B" n="54"/>phis distinxit. 4. truncate verba Lutheri citantu 
+      <lb ed="#B" n="55"/>additur enim ibidem: Existimo librum Jobi ess 
+      <lb ed="#B" n="56"/>peram historiam. Item, interim in rei veritate e 
+      <lb ed="#B" n="57"/>in ipso facto ita contigit. 3. dubitat duntaxat Luthe 
+      <lb ed="#B" n="58"/>rus, an omnia externo sermone Job protulerit, ar 
+      <lb ed="#B" n="59"/>vero quaedam cogitarit. Nam in tentationibus et ar 
+      <lb ed="#B" n="60"/>gustiis pauca solent exterius proferri, nec in hunc 
+      <!--134.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>modum consuevit disseri. Censet igitur a viro 
+      ali<lb ed="#B" n="62" break="no"/>quo docto tempore Salomonis, vel etiam ab ips 
+      <lb ed="#B" n="63"/>Salomone omnia in hunc ordinem esse redacta 
+      <lb ed="#B" n="64"/>6. De ordine proinde ac modo tractationis verba 
+      <lb ed="#B" n="65"/>Lutheri accipienda, quale πρωθύστερον in Scripturis 
+      <lb ed="#B" n="66"/>non est infrequens. 7. Vocem fabulae non pro 
+      <lb ed="#B" n="67"/>fictitia narratione ursurpat Lutherus, ibidem enim 
+      <lb ed="#B" n="68"/>veram historiam vocat, sed pro argumento comoe 
+      <lb ed="#B" n="69"/>diae eodem sensu, quo historia Josephi in 
+      comoe<lb ed="#B" n="70" break="no"/>diae formam redacta fabula et argumenta fabula 
+      <lb ed="#B" n="71"/>appellari consuevit. 8. Recognoscat Bellarminus sus 
+      <lb ed="#B" n="72"/>verba libr. 1. de verbo Dei c. 9. S. At Hierony 
+      <lb ed="#B" n="73"/>mus: Vetereo interdum nomine fabularum non 
+      re<lb ed="#B" n="74" break="no"/>fictas, sed veras narrationes, appellant, quomodo 
+      <lb ed="#B" n="75"/>Lucae ultim. dicitur. Et factum est, dum 
+      fabula<lb ed="#B" n="76" break="no"/>rentur. Minutius Felix initio dialogi, quem 
+      Octa<lb ed="#B" n="77" break="no"/>vium inscripsit, fabulam vocat veram quandam 
+      <lb ed="#B" n="78"/>narrationem nescio cujus navigationi 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e1495">
+               <lb ed="#B" n="79"/>134. Sed redeamus ad Jobi librum. R. Isaac ex 
+      <lb ed="#B" n="80"/>stimat, Jobum hunc fuisse Jobabum, Idumaeorum 
+      <lb ed="#B" n="81"/>regem, cujus mentio fit Genes. 36, v. 34. Quamvi. 
+      <lb ed="#B" n="82"/>vero R. Aben Ezra in comment. dict. loc. hanc sen 
+      <lb ed="#B" n="83"/>tentiam irrideat, nec Hieronymo in qq. Hebraie. 
+      <lb ed="#B" n="84"/>super Genes. illa probetur, D. Zehnerus tamen 
+      <lb ed="#B" n="85"/>eandem confirmat argumentis non contemnendis 
+      <lb ed="#B" n="86"/>1. Ex circumstantiis locorum: Jobabus vixit in terra 
+      <lb ed="#B" n="87"/>Idumaeorum Genes. 36, v. 33. Jobus in region. 
+      <lb ed="#B" n="88"/>Uzitide Job. 1, v. 1. quae fuit primarius regni Edo 
+      <lb ed="#B" n="89"/>mitici tractus Thren. 4. v. 21. quod ipsum probatur 
+      <lb ed="#B" n="90"/>ex Chaldaeorum et Arabum finitimorum irruptione 
+      <lb ed="#B" n="91"/>2. Ex descriptione honorum publicorum. Jobabum 
+      <lb ed="#B" n="92"/>fuisse regia majestate illustrem testatur Moysed 
+      <lb ed="#B" n="93"/>Genes. 36. v. 33. Jobum itidem fuisse principal 
+      <lb ed="#B" n="94"/>dignitate conspicuum testimonio sunt tum opes, 
+      <lb ed="#B" n="95"/>quae tanta ipsi attribuuntur copia, quanta in homi 
+      <lb ed="#B" n="96"/>nem privatum vix cadere potest Job. 1, v. 2. et 
+      <lb ed="#B" n="97"/>seqq. tum eneomium illud, quod omnibus 
+      orien<lb ed="#B" n="98" break="no"/>talibus illustrior vocatur v. 3. tum dignitas, quod 
+      <lb ed="#B" n="99"/>principes ipsi assurrexerint, c. 29, v. 9. tum habitus, 
+      <lb ed="#B" n="100"/>quod diademate fuerit redimitus. v. 14. tum 
+      offi<lb ed="#B" n="101" break="no"/>cium, quod liberaverit pauperem vociferantem et 
+      <lb ed="#B" n="102"/>pupillum, cui non erat adjutor. v. 12. Suidas eum 
+      <lb ed="#B" n="103"/>vocat μόνον ἐυγενῇ τῶν ἀφ᾽ ἡλίου ἀνατολῶν τὸς 
+      <lb ed="#B" n="104"/>ελεινὸν καὶ τριπόθηiον. 3. Ex similitudine nominum 
+      <lb ed="#B" n="105"/>Quemadmodum Moyses inter Esavi liberos Eliphae 
+      <lb ed="#B" n="106"/>cujusdam nomen recenset, qui principem 
+      Thema<lb ed="#B" n="107" break="no"/>nem cognominis oppidi conditorem procreaverit 
+      <lb ed="#B" n="108"/>Genes. 36, v. 10. et 15. ita in historia Jobi ejusdem 
+      <lb ed="#B" n="109"/>Eliphae Themanitae nomen repetitur. Ipsum esse 
+      <lb ed="#B" n="110"/>Jobi nomen videtur contractum ex nomine Jobabi 
+      <lb ed="#B" n="111"/>1. Ex supputatione temporum. Jobum fuisse 
+      Mo<lb ed="#B" n="112" break="no"/>saicis temporibus antiquiorem colligi posse videtur 
+      <lb ed="#B" n="113"/>ex ipsius longaevitate. Aetas enim ejus longe 
+      al<lb ed="#B" n="114" break="no"/>tius assurgit quam ad terminum a Moyse praefixum 
+      <lb ed="#B" n="115"/>psalm 90, v. 10. Post plagas enim 140 annis vixit 
+      <lb ed="#B" n="116"/>et antea vixerat multos annos, cum 7 filios et tres 
+      <lb ed="#B" n="117"/>filias genuerit. Isidorus libr. de vit. et mort 
+      <lb ed="#B" n="118"/>Patriarch. c. 24. scribit, Jobum vixisse 248 annos 
+      <lb ed="#B" n="119"/>ad quam aetatem tempore Moysis nemo perveniebat 
+      <lb ed="#B" n="120"/>5. Ex suffragio variorum auctorum. Tob. 2. v. 15. 
+      <!--135.xml-->
+      <pb ed="#B" n="62"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Jobi amici et consanguinei regum appellatione honc 
+      <lb ed="#B" n="2"/>rantur. LXX interpp. sub finem Job. 42. disert. 
+      <lb ed="#B" n="3"/>verbis regem Jobabum eum vocant. Verba 
+      si<lb ed="#B" n="4" break="no"/>habent: οιτος ἐρμηνεύεται ἐκ τῆς Συριακῆς βίβλον 
+      <lb ed="#B" n="5"/>ἐυ μὲν γῇ κατοικῶν τῇ Λὐσίτιδι, ἐπὶ τοῖς ὁρίοις τῇ 
+      <lb ed="#B" n="6"/>Πδουμαίας καὶ Ἀραβίας, προῦπῆρχεν δὲ αὐνῷ ὅνον 
+      <lb ed="#B" n="7"/>Ιωβάβ· λαβὼν δὲ γυναῖκα, Λράβισσαν γεννᾶ υἱὶν, e 
+      <lb ed="#B" n="8"/>ὄνομα Ἐννῶν· ἂν δὲ αὐτὸς πατρὸς μὲν Zαρὲ τῶν Hσα 
+      <lb ed="#B" n="9"/>νὲῶν ὐἱς, μητρὸς δὲ Βοσσόρας, ὥστε εἶναι αὐιὸν πέρ 
+      <lb ed="#B" n="10"/>πτοντ ἀπὸ Ἀβραὰμ· καὶ οὗτοι οἱ βασιλεῖς, οἱ βασιλε. 
+      <lb ed="#B" n="11"/>σαντες ἐν Ἐδὼμ, ὡς καὶ, αὐτὸς ἡρέε χώρας·, πρῶτο 
+      <lb ed="#B" n="12"/>Bαλὰκ ὁ τοῦ Βεὼρ καὶ ὄνομα τῇ πόλει αὐιοῦ Δενναβο 
+      <lb ed="#B" n="13"/>μετὰ δὲ Βαλὰκ Ιωβὰβ ὁ καλούμενος [ώβ. Et postea 
+      <lb ed="#B" n="14"/>οἱ δὲ ἐλθόντες πρὸς αὐτὸν φίλοι, Ἐλρὰς τῶν Hσα 
+      <lb ed="#B" n="15"/>υἱῶν Θαιμανῶν βασιλεὺς; Βαλδὰδ ὁ Σαυχαίων τύραν 
+      <lb ed="#B" n="16"/>νος· Σωφὰρ ὁ Μηνυαίων. βασιλεύς (quae tamen ne 
+      <lb ed="#B" n="17"/>in Hebraeo exstant, nec ab Aquila et Symmach 
+      <lb ed="#B" n="18"/>fuere adjecta, sed tantum a LXX interpp.. e 
+      <lb ed="#B" n="19"/>Theodotione) quibus verbis Jobum in confinibi 
+      <lb ed="#B" n="20"/>Idumaeae atque Arabiae habitasse, Esavi 
+      pron<lb ed="#B" n="21" break="no"/>potem, quintum Abrahae ἀπόγονον, Idumaeae reger 
+      <lb ed="#B" n="22"/>atque antea Jobabum appellatum fuisse, denique 
+      <lb ed="#B" n="23"/>amicos ejus Elipham, Bildad et Sophar, suae quem 
+      <lb ed="#B" n="24"/>que ditionis regem fuisse asserunt. Aristea. 
+      <lb ed="#B" n="25"/>ethnicus scriptor, Ptolemaei Philadelphi, Aegypti 
+      <lb ed="#B" n="26"/>regis σύγχρονoς, totam pene Jobi historiam consit 
+      <lb ed="#B" n="27"/>navit, eumque non modo ex posteris Esavi orium 
+      <lb ed="#B" n="28"/>dum, verum etiam ante acceptam calamitater 
+      <lb ed="#B" n="29"/>Jobabi nomine insignitum fuisse memoriae prodidis 
+      <lb ed="#B" n="30"/>Philo commemorat, quod Dinam JJacobi filiam 
+      <lb ed="#B" n="31"/>a Sichemo prius constupratam in uxorem duxeri 
+      <lb ed="#B" n="32"/>Eusebius libr. 1. Demonstr., evang. c. 5. demor 
+      <lb ed="#B" n="33"/>strans, plurimos etiam ante legem Mosaicam just 
+      <lb ed="#B" n="34"/>ficatos fuisse, post Abrahae mentionem Jobi atne 
+      <lb ed="#B" n="35"/>potis exemplum subjicit; Quin et Jobus (
+      inqui<lb ed="#B" n="36" break="no"/>Scripturae testimoniis ante Moysis, tempora, vi 
+      <lb ed="#B" n="37"/>justus, verax, inculpatus et ab omni malitiâ alio 
+      <lb ed="#B" n="38"/>nissimus perhibetur. Moyses enim in genealogio 
+      <lb ed="#B" n="39"/>ceptimus ex Abrahamo numeratur, hic vero quintu 
+      <lb ed="#B" n="40"/>ita ut duobus ceculis Moysen antecedat. Ambrosit 
+      <lb ed="#B" n="41"/>in comment. c. 9. epistol. Rom. Jobum ex filii 
+      <lb ed="#B" n="42"/>Esau, quintum ab Abrahamo asserit, et multos ex 
+      <lb ed="#B" n="43"/>Esavi progenie ad veram fidem conversos ac serva 
+      <lb ed="#B" n="44"/>tos fuisse illius exemplo confirmat. Augutinus libri 
+      <lb ed="#B" n="45"/>18. de civit. Dei c. 47: Si negant (Judaei) quen 
+      <lb ed="#B" n="46"/>piam ad Deum pertinuisse praeterquam Igraelita 
+      <lb ed="#B" n="47"/>facillime conpincuntur de sancto et mirabili vire 
+      <lb ed="#B" n="48"/>Job, qui neo proselytus, xml:id est advena populi Ierae 
+      <lb ed="#B" n="49"/>fuit, sed ex gente Idumaea genus ducens, ibi orti 
+      <lb ed="#B" n="50"/>ibidem mortuus est, qui divino sic laudatur eloqui 
+      <lb ed="#B" n="51"/>ut quod ad justitiam pietatemque atinet, nullus et 
+      <lb ed="#B" n="52"/>homo quorum temporum coaequetur. Quae tempor 
+      <lb ed="#B" n="53"/>ejus quamvis non inveniamus in chronicis, coll 
+      <lb ed="#B" n="54"/>gimus tamen ex libro ejus, quem pro sui merito 
+      <lb ed="#B" n="55"/>Ioraëlitas in auctoritatem canonicam receperunt 
+      <lb ed="#B" n="56"/>tertia generatione posteriorem fuisse quam Israë¬ 
+      <lb ed="#B" n="57"/>Lutherus in comment. Genes. 22. ab hac sententi 
+      <lb ed="#B" n="58"/>diversum statuere videtur, sed in comment. Gene 
+      <lb ed="#B" n="59"/>36., quando genealogiam regum Idumaeorum ex 
+      <lb ed="#B" n="60"/>plicat, Ambrosii et Augustini opinionem non plane 
+      <!--135.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>rejicit, sed multas ejus conjecturas esse, eamque in 
+      <lb ed="#B" n="62"/>historia pulchre, convenire testatur. In chronici 
+      <lb ed="#B" n="63"/>Jobum seu Jobabum Serae filium, Raguelis 
+      nepo<lb ed="#B" n="64" break="no"/>tem inter Esavi posteros retulit, et in bibliis Germa 
+      <lb ed="#B" n="65"/>nicis ad c. 1. Jobi annotat, Jobum esse Jobab re 
+      <lb ed="#B" n="66"/>gem Edom Genes. 36 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e1742">
+               <lb ed="#B" n="67"/>135. Opponitur huic sententiae: I. scriptionis 
+      di<lb ed="#B" n="68" break="no"/>versitas, quia alterum nomen a fronte per alepi 
+      <lb ed="#B" n="69"/>alterum per jod scriptum legitur, quo argument, 
+      <lb ed="#B" n="70"/>Lyranus ab hac sentententia se retractum asserit 
+      <lb ed="#B" n="71"/>sed responderi potest, in uno eodemque Hobraeo 
+      <lb ed="#B" n="72"/>rum xml:idiomate frequentissimam esse illam litera 
+      <lb ed="#B" n="73"/>rum permutationem, ac, longe procliviorem illam 
+      <lb ed="#B" n="74"/>esse, in istis appellationibus, quae ex 
+      Hebraie<lb ed="#B" n="75" break="no"/>in Arabicam, Idumaeam, aut similes dialectos 
+      com<lb ed="#B" n="76" break="no"/>migrarunt. Praetera sanctis patribus usitatissimur 
+      <lb ed="#B" n="77"/>fuit mutata fortuna, sua et suorum nomina 
+      immu<lb ed="#B" n="78" break="no"/>tare, ut constat exemplo Abrahae Genes. II, 5. 
+      <lb ed="#B" n="79"/>Naëmis Ruth. I, v. 20. eFieri ergo potuit, ut qui rebu 
+      <lb ed="#B" n="80"/>adhuc florentibus Jobabus duplicata media, nom 
+      <lb ed="#B" n="81"/>natus fuerit, postea ad extremas redactus 
+      angustia<lb ed="#B" n="82" break="no"/>ob fortunam adversam voce concisa et decurtata 
+      <lb ed="#B" n="83"/>Jobus tantum diceretur. Quod si vel maxime rati 
+      <lb ed="#B" n="84"/>immutati nominis dari non posset, tamen sententia 
+      <lb ed="#B" n="85"/>huic nihil decederet, cum in Scripturis multi bino 
+      <lb ed="#B" n="86"/>mines reperiantur, 2. Hieronymi auctoritae, qui 
+      <lb ed="#B" n="87"/>in trad. Hebraic. super Genes., eandem, repudiat 
+      <lb ed="#B" n="88"/>Sed resp. potest, Hieronymum secutum fuisse Rabb. 
+      <lb ed="#B" n="89"/>nos, qui saepissime scientes ac volentes ipsi impo 
+      <lb ed="#B" n="90"/>suerunt, ut ostendit Capnio libr. 2. de rudim. Hebr. 
+      <lb ed="#B" n="91"/>Adde quod ex epistol. ad Evagrium, in qua sacer 
+      <lb ed="#B" n="92"/>dotibus ante Leviticam tribum Jobum, de 
+      stirp<lb ed="#B" n="93" break="no"/>Esau quoque annumerat et ex praefatione libro Jobi 
+      <lb ed="#B" n="94"/>praefixa, quae ex LXX interpp. coronide ad ver 
+      <lb ed="#B" n="95"/>pum pene translata est, manifeste appareat. Hie 
+      <lb ed="#B" n="96"/>ronymum, ab hac sententia non fuisse penitus, 
+      a<lb ed="#B" n="97" break="no"/>vereum 
+</p>
+            <p xml:id="zef3dd-d1e203-d1e1812">
+               <lb ed="#B" n="98"/>136. Interim non. diftitemur, Hieronymum aliis, 
+      <lb ed="#B" n="99"/>in locis, cumprimis, vero in qq. Hebr. tom. 4. fol. 
+      <lb ed="#B" n="100"/>96. et Lyranum in Job. statuere, quod Jobus fuerit 
+      <lb ed="#B" n="101"/>agnatus Bileami et utriusque origenem referre, ad 
+      <lb ed="#B" n="102"/>Nachorem, Abrahami fratrem, cum Jobus dicatur 
+      <lb ed="#B" n="103"/>habitasse in terra Uzea Job. I., v. I.. Uzus autem 
+      <lb ed="#B" n="104"/>dicatur fuisse Nachoris filius Genes. 22, v. 21 sed 
+      <lb ed="#B" n="105"/>tractus ille, non a posteriore quodam, Abraham 
+      <lb ed="#B" n="106"/>coaetaneo, verum ab Uzo, Arami filio, Semi, nepot 
+      <lb ed="#B" n="107"/>tatim, post diluvium denominationem accepiss 
+      <lb ed="#B" n="108"/>videtur Genes. JO. v. 23. R. Aben Ezra quamvis 
+      <lb ed="#B" n="109"/>neget Jobum esse Jobabum illum Idumaeorum 
+      re<lb ed="#B" n="110" break="no"/>gem, cujus Moyses mentionem facit, tamen etatuit 
+      <lb ed="#B" n="111"/>Jobum fuisse ex familia Esavi, argumento eorum 
+      <lb ed="#B" n="112"/>quae habentur Thren. 4. v. 21. Ipsum nomen Job 
+      <lb ed="#B" n="113"/>quidam, ut jam ante diximus, volunt esse 
+      contra<lb ed="#B" n="114" break="no"/>etum ex Jobab, quidam vero deducunt ab Hebraeo 
+      <lb ed="#B" n="115"/>gix quod magum et sapientem sonat, interject 
+      <lb ed="#B" n="116"/>tamen litera prima ex nomine Jehova, ne profane 
+      <lb ed="#B" n="117"/>sapiens putaretur. Quidam ab 2&amp; quod odisse 
+      <lb ed="#B" n="118"/>significat, cum Jobus fuerit oeor seu hoetia omnis 
+      <lb ed="#B" n="119"/>impietatis et injustitias 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e1862">
+               <lb ed="#B" n="120"/>131. De, auctore, hujus libri itidem plurimum 
+      <!--136.xml-->
+      <pb ed="#B" n="63"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>variant sententiae. Origenes lib. 1. in Jobum sta 
+      <lb ed="#B" n="2"/>tuit, Moysen librum Jobi apud Jethro socerur 
+      <lb ed="#B" n="3"/>cuum in Midian invenicse ac filiis Israël 
+      propo<lb ed="#B" n="4" break="no"/>quisse, ut patientiam ex eo discerent, qua de r 
+      <lb ed="#B" n="5"/>pluribus tractat Sixtus Senens. libr. 1. Biblioth. 
+      <lb ed="#B" n="6"/>pag. 9. sed monuimus superius, verisimilius esse 
+      <lb ed="#B" n="7"/>quod Moyses sit antiquissimus scriptor inter omne 
+      <lb ed="#B" n="8"/>canonicorum librorum auctores quodque Deus 
+      ips<lb ed="#B" n="9" break="no"/>augustum scriptionis canonicae initium, in 
+      promu<lb ed="#B" n="10" break="no"/>gatione legis suae fecerit. R. Salomon et alii ex 
+      He<lb ed="#B" n="11" break="no"/>braeis Moysi hujus libri scriptionem tribuunt. 5 
+      <lb ed="#B" n="12"/>enim Jobus esset hujus libri auctor, primus e 
+      <lb ed="#B" n="13"/>scriptoribus sacris non esset Moyses, sed Jobus esse 
+      <lb ed="#B" n="14"/>Hoyse antiquior, nec fuisset in canonem hic libes 
+      <lb ed="#B" n="15"/>receptus, cum Job non fuerit Israëlita, sed Idumaeus 
+      <lb ed="#B" n="16"/>nec scriptus esset hic liber lingua Hebraea, sec 
+      <lb ed="#B" n="17"/>Arabica. ** Quidam ab amicis Jobi vel ab alique 
+      <lb ed="#B" n="18"/>prophetarum eum scriptum esse arbitrantur. R. Ler 
+      <lb ed="#B" n="19"/>Ben Gerson in commentariis super Jobum scribit 
+      <lb ed="#B" n="20"/>fuisse olim, qui si posteriora hujus libri capita, xml:id es 
+      <lb ed="#B" n="21"/>a 32. usque ad ultimum rejicerent, proptera quod i 
+      <lb ed="#B" n="22"/>fine 31. in Hebr. est Finita sunt verba Job. Sed xml:ider 
+      <lb ed="#B" n="23"/>R. Levi illorum sententiam improbat dicens versiculum 
+      <lb ed="#B" n="24"/>illum referendum non ad finem simpliciter omnium 
+      ser<lb ed="#B" n="25" break="no"/>monum Job, sed ad finem duntaxat disputationum 
+      <lb ed="#B" n="26"/>quas cum tribus amicis habuerat, post quas sequuntu 
+      <lb ed="#B" n="27"/>colloquia. cum Eliu amicorum quarto. **Quidam contra 
+      <lb ed="#B" n="28"/>ipsi Jobo hunc librum tribuunt, cum arduum locutio 
+      <lb ed="#B" n="29"/>nis genius sectetur et heroica dicendi gravitate omne 
+      <lb ed="#B" n="30"/>antecellat prophetas, ac phrasis ejus cum Syriae 
+      <lb ed="#B" n="31"/>et Arabica lingua magnam cognationem obtineat 
+      <lb ed="#B" n="32"/>* Post felicem aerumnarum suarum exitum pe 
+      <lb ed="#B" n="33"/>ceipsum victorias suas scribendo implevit, quo 
+      <lb ed="#B" n="34"/>maxime in calamitate sua optaverat c. 19. Qui 
+      <lb ed="#B" n="35"/>mihi tribuat, ut ecarentur aermones mei ete. c. 3. 
+      <lb ed="#B" n="36"/>Quis mihi tribuat, ut desiderium meum audiat om 
+      <lb ed="#B" n="37"/>nipotens.* Sed utraque sententia hoc modo 
+      con<lb ed="#B" n="38" break="no"/>ciliari potest, quod Jobus rerum suarum historiam 
+      <lb ed="#B" n="39"/>annotaverit lingua Arabica, cujus indicia in quibu 
+      <lb ed="#B" n="40"/>dam hujus libri capitibus, praesertim in amicorum 
+      <lb ed="#B" n="41"/>colloquiis adhac exstant, Moyses autem in Hebraeam 
+      <lb ed="#B" n="42"/>linguam eandem transtulit ac principium et finer 
+      <lb ed="#B" n="43"/>adjecit, quo sensu etiam dictum Origenis accipi 
+      <lb ed="#B" n="44"/>potest. Ex eodem fundamento explicari potest a 
+      <lb ed="#B" n="45"/>gumentum, quod ex styli diversitate petitum hui 
+      <lb ed="#B" n="46"/>n. sententiae opponitur. In Moyse (inquiunt) nativi 
+<lb ed="#B" n="47"/>sermonis Hebraici proprietas elucet, quae orationem 
+      <lb ed="#B" n="48"/>ita perspicuam et jucundam efficit, ut Numenius 
+      <lb ed="#B" n="49"/>philos. Pythagoricus, Platonem, eloquentiae 
+      Atti<lb ed="#B" n="50" break="no"/>cae magistrum, ob suavitatis Mosaicae imitationem 
+      <lb ed="#B" n="51"/>Μωυσῆν ἀττικίζοντα cognominarit: Jobus vero 
+      ma<lb ed="#B" n="52" break="no"/>nam cum Syriaca et Arabica lingua cognationem 
+      <lb ed="#B" n="53"/>habet, arduum locutionis genus sectatur, ut heroio 
+      <lb ed="#B" n="54"/>dicendi gravitate reliquos prophetas omnes, atque ipsui 
+      <lb ed="#B" n="55"/>quoque Esaiam antecellat, undo Hieronymus ob uniu 
+      <lb ed="#B" n="56"/>Jobi lectionem praeceptorem Lyddaeum non 
+      exigu<lb ed="#B" n="57" break="no"/>pretio se conduxisse fatetur, ac Lutherus in ejusdem 
+      <lb ed="#B" n="58"/>interpretatione Germanica tam anxie sese laborasse 
+      a<lb ed="#B" n="59" break="no"/>desudasse asserit, ut quamvis Philippi atque 
+      Aurogall<lb ed="#B" n="60" break="no"/>ppera uteretur, saepe tamen intra quatriduum vix tres 
+      <!--136.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>lineolas absolvere potuerit. Ex quo colligunt, non 
+      <lb ed="#B" n="62"/>Moysen, sed ipsum Jobum post liberationem divinitur 
+      <lb ed="#B" n="63"/>impetratam res suas literis consignasse adque ad 
+      po<lb ed="#B" n="64" break="no"/>steritatem transmisisse. Verum distinctio superius 
+      tra<lb ed="#B" n="65" break="no"/>dita inter prima hujus libri rudimenta, et perfectam 
+      <lb ed="#B" n="66"/>ejusdem elaborationem huic dubio fatisfacere posse 
+      <lb ed="#B" n="67"/>videtur. ** Graeci volumen Jobi dividunt in cap. 32 
+      <lb ed="#B" n="68"/>Latini in 42. Sunt et qui apud Graecos xml:id ipsum in 
+      <lb ed="#B" n="69"/>20 colloquia distribuunt hoc ordine: Dei ad dia 
+      <lb ed="#B" n="70"/>bolum, unum. Jobi ad amicos novem. Eliphae ad 
+      <lb ed="#B" n="71"/>Jobum tria. Sophar ad Jobum duo. Baldad ad Jobum 
+      <lb ed="#B" n="72"/>tria. Eliu ad Jobum unum. Dei ad Jobum unum 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e2035">
+               <lb ed="#B" n="73"/>138. De nomine uxoris Jobaeae in Scripturis 
+      <lb ed="#B" n="74"/>acris nihil reperitur. Chaldaeus paraphrastes et 
+      <lb ed="#B" n="75"/>Philo in antiq. biblicis Dinam, Jacobi filiam, fuisse 
+      <lb ed="#B" n="76"/>autumant, quae sententia congruit hypothesi illi 
+      <lb ed="#B" n="77"/>quod Job fuerit Jobab rex Idumaeorum. Postquam 
+      <lb ed="#B" n="78"/>Dinae a Sichemo in ipso aetatis flore, anno scilicet 
+      <lb ed="#B" n="79"/>aetatis 16. stuprum illatum erat, aliquantisper in 
+      <lb ed="#B" n="80"/>nupta domi paternae desedit, ac postmodum aeve 
+      <lb ed="#B" n="81"/>grandior Jobo in matrimonium elocata est. LXX 
+      <lb ed="#B" n="82"/>interpp. ac Hieronymus Jobi conjugem ex Arabum 
+      <lb ed="#B" n="83"/>gente originem duxisse perhibent, quas sententias 
+      <lb ed="#B" n="84"/>quidam hoc modo conciliant, quod quemadmodum 
+      <lb ed="#B" n="85"/>Moyses defuncta Zippora Midianitide, uxorem 
+      <lb ed="#B" n="86"/>Aethiopicam; ita Jobus post obitum Dinae Arab. 
+      <lb ed="#B" n="87"/>cam feminam duxerit, atque ex ea filium 
+      Ennonen<lb ed="#B" n="88" break="no"/>susceperit. Augustinus in psalm. 55. de ea sic dis 
+      <lb ed="#B" n="89"/>serit, Admissus est tentator, abstulit omnia, 
+      reman<lb ed="#B" n="90" break="no"/>sit ille solus a facultatibus, solus a familia, solus 
+      <lb ed="#B" n="91"/>a filiis, plenus Deo. Uxor sane relicta erat. 
+      Mise<lb ed="#B" n="92" break="no"/>ricordem putatis diabolum, qui ei reliquit uco 
+      <lb ed="#B" n="93"/>rem? Noverat, per quem deceperat Adam, suam 
+      <lb ed="#B" n="94"/>reliquerat adjutricem, non mariti consolatricen 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e2085">
+               <lb ed="#B" n="95"/>139. Jobum vero ipsum magnis eneomiis ornam 
+      <lb ed="#B" n="96"/>pii veteres. Quamvis enim in primo tentationi 
+      <lb ed="#B" n="97"/>congressu humani aliquid fuerit passus et ex 
+      impa<lb ed="#B" n="98" break="no"/>tientia diem nativitatis exsecratus διὰ τὴν ὑπερβολὴ 
+      <lb ed="#B" n="99"/>τῆς θλίψεως, ut loquitur Justinus in resp. ad orthod 
+      <lb ed="#B" n="100"/>q. 15. p. 242, postea tantum hoc παραπτωμα suum 
+      <lb ed="#B" n="101"/>in vera poenitentia agnovit et manibus ori impositis 
+      <lb ed="#B" n="102"/>palinodiam cecinit, ac intermedio calamitatis tem 
+      <lb ed="#B" n="103"/>pore, quod Hebraei ad menses duodecim, Suidas 
+      <lb ed="#B" n="104"/>vero ad septem annos extendunt, omnes diaboli 
+      <lb ed="#B" n="105"/>uxoris et consanguineorum, ut et propriae carnis 
+      <lb ed="#B" n="106"/>insultus fide heroica fortiter devicit. Euseb. lib.. 
+      <lb ed="#B" n="107"/>ἀποδειξ. εὐαγγ. ipsum vocat τρισμακάριον. Suidas 
+      <lb ed="#B" n="108"/>fol. 412. de ipso sic disserit: solus hic est nobilis 
+      <lb ed="#B" n="109"/>εὑγενὴς ab ortu usque occasum, hic inclitus ille et 
+      <lb ed="#B" n="110"/>exoptatus τριπόθητος, qui suorum certaminum hoc 
+      <lb ed="#B" n="111"/>postremum et ultimum lucrum tulit, quod una cum 
+      <lb ed="#B" n="112"/>Christo resurrexit et hunc mundum denuo vidit 
+      <lb ed="#B" n="113"/>non cecundum fabulam Herculis et Admeti uxori 
+      <lb ed="#B" n="114"/>Alcestidis, quam inclitus ille victor atque trine 
+      <lb ed="#B" n="115"/>ctialis τριέσκερoς pro marito defunctam excitavit, 
+      <lb ed="#B" n="116"/>sed pro inexplicabili servatoris nostri potentia, qui 
+      <lb ed="#B" n="117"/>orcum spoliavit et mortuos e locis subterraneis 
+      <lb ed="#B" n="118"/>cripuit, qui cedit a dectris genitoris una cum suis 
+      <lb ed="#B" n="119"/>clientibus μετὰ τοῦ προσλήμμαιος omnibus 
+      rebu<lb ed="#B" n="120" break="no"/>conditis tam aspectabilibus, quam inaspectabilibus 
+      <!--137.xml-->
+      <pb ed="#B" n="64"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>
+               <lb ed="#B" n="2"/>dominatur. Desumsit hoc Suidas ex appendice 
+      <lb ed="#B" n="3"/>quam LXX interpp. libro Jobi addiderunt, in qua 
+      <lb ed="#B" n="4"/>sic loquuntur: γέγραπται δὲ αὐιὸν πάλιν ἀναστήσε 
+      <lb ed="#B" n="5"/>σθαι μεθʼ ὧν ὁ κύριος ἀνίσνησιν: Mortuus est Jod 
+      <lb ed="#B" n="6"/>senex et provectae aetatis, scriptum est autem, cum 
+      <lb ed="#B" n="7"/>resurrecturum cum quibus Dominus resurrecit, e 
+      <lb ed="#B" n="8"/>quo apparet, quod oraculum Jobi 19. eo sensu acce 
+      <lb ed="#B" n="9"/>perint, quod Jobus cum salvatore ante universaler 
+      <lb ed="#B" n="10"/>resurrectionem sit resurrecturus. Chrysostom. homi 
+      <lb ed="#B" n="11"/>5. ad Antiochenos memorat, suis temporibus (quibus 
+      <lb ed="#B" n="12"/>peregrinationes ad loca sancta frequentari coeperant 
+      <lb ed="#B" n="13"/>multos longas et tranamarinas peregrinationes o 
+      <lb ed="#B" n="14"/>terrae finibus in Arabiam instituisse, ut sinum illum 
+      <lb ed="#B" n="15"/>cernerent, et conspicati terram illam deoscularem 
+      <lb ed="#B" n="16"/>tur, quae Jobi victoris certamina et crucem omn 
+      <lb ed="#B" n="17"/>auro pretiosiorem suscepisset. Quinimo fama gle 
+      <lb ed="#B" n="18"/>riosi illius certaminis et eam secutae laetissimae 
+      <lb ed="#B" n="19"/>catastrophes non solum ad consanguineos Jobi, sec 
+      <lb ed="#B" n="20"/>etiam ad plurimas gentes longe lateque dimanavit 
+      <lb ed="#B" n="21"/>unde Aristeas, Alexander Polyhistor et alii ex eti 
+      <lb ed="#B" n="22"/>nicis scriptoribus eandem libris suis insertam volu 
+      <lb ed="#B" n="23"/>erunt, qua11 de re Eusebius lib. 9. Praeparas 
+      <lb ed="#B" n="24"/>evangel. fol. 251. sic disserit: Aristeas in historio 
+      <lb ed="#B" n="25"/>Judaica affirmat, Jobum ex Esavi liberis in Idu 
+      <lb ed="#B" n="26"/>naea atque Arabiae finibus habitasse, et cum 
+      ju<lb ed="#B" n="27" break="no"/>stitia tum opibus praecipuum fuisse. Ipse enim septio 
+      <lb ed="#B" n="28"/>mille oves, ter mille camelos, juga boum quingente 
+      <lb ed="#B" n="29"/>totidem asinas ac mille insuper agrorum juger 
+      <lb ed="#B" n="30"/>possedit. Atque hunc quidem Jobum antea Joabun 
+      <lb ed="#B" n="31"/>nominatum, magnisque calamitatibus tentatum fuisse 
+      <lb ed="#B" n="32"/>Primum enim armenta ejus latrocinio sublata, de 
+      <lb ed="#B" n="33"/>inde oves flammis coelitus dejectis periisse, 
+      po<lb ed="#B" n="34" break="no"/>stremo filios ejus domo illapsa exspirasse atque 
+      <lb ed="#B" n="35"/>eo die corpus ejus universum ulceribus repletur 
+      <lb ed="#B" n="36"/>fuisse. Cumque ita male affectus esset, 
+      Eliphan<lb ed="#B" n="37" break="no"/>Themanitarum regem, Baldad Sanchaeorum 
+      ty<lb ed="#B" n="38" break="no"/>rannum et Sophar Minaeorum regem, cum Elihi 
+      <lb ed="#B" n="39"/>Barachielis filio Zobite ad consolandum eum acces 
+      <lb ed="#B" n="40"/>sisse. Quibus Jobum respondisse, sponte sua se 
+      pa<lb ed="#B" n="41" break="no"/>ratum esse ita omnia sufferre, ut a pietate in 
+      <lb ed="#B" n="42"/>Deum nunquam removeatur. Ita propter hanc 
+      <lb ed="#B" n="43"/>maquanimitatem ejus liberatum a morbo et dit 
+      <lb ed="#B" n="44"/>orem quam prius factum fuisse. Atque haec qui 
+      <lb ed="#B" n="45"/>dem ὁ Πολυῖστωρ 
+</p>
+            <p xml:id="zef3dd-d1e203-d1e2248">
+               <lb ed="#B" n="46"/>140. Liber Jobi in ecclesia Christiana maxim 
+      <lb ed="#B" n="47"/>semper habitus. Hieronymus ad Paulinum tom.. 
+      <lb ed="#B" n="48"/>fol. 7. de eo sic loquitur: Omnes leges 
+      dialectica<lb ed="#B" n="49" break="no"/>propositione, assumtione, confirmatione, 
+      conclusion<lb ed="#B" n="50" break="no"/>determinat. Singula in eo verba plena sunt sens 
+      <lb ed="#B" n="51"/>bus. Suidas dict. loco ait, quod Homerica et 
+      Pla<lb ed="#B" n="52" break="no"/>conica luscinia longe cantillet argutius et φυσι
+      o<lb ed="#B" n="53" break="no"/>λογίαν ὅλης τῆς κλίσεως καὶ ζώων καὶ ὀρνέων φυσει 
+      <lb ed="#B" n="54"/>καὶ λαμπρά τινα διηγήματα complectatur. Summa 
+      <lb ed="#B" n="55"/>totius libri est, an etiam pii a Deo affligantus 
+      <lb ed="#B" n="56"/>quod Jobus affirmat, consanguinei vero ejus ne 
+      <lb ed="#B" n="57"/>gant. Capitibus constat 12 et potest distingui in 
+      <lb ed="#B" n="58"/>itar dramatos in protasin, epitasin et lactam cato 
+      <lb ed="#B" n="59"/>strophen, ut interim veritati historicae nihil dero 
+      <lb ed="#B" n="60"/>getur. Quidam dividunt in dialogum et epilo 
+      <lb ed="#B" n="61"/>gum. In dialogo personae colloquentes sunt, Deus 
+      <!--137.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>Satan, Jobus, uxor Jobi et quatuor ipsius 
+      consangui<lb ed="#B" n="63" break="no"/>nei, Eliphas, Bildad, Zophar, Eliu. Poëticis libri 
+      <lb ed="#B" n="64"/>V. T. haud immerite annumeratur, testatur enim 
+      Hie<lb ed="#B" n="65" break="no"/>ronymus in praefat. Jobi, librum hunc ab initio ter 
+      <lb ed="#B" n="66"/>tii usque ad lineam sextam postremi capitis versibus 
+      <lb ed="#B" n="67"/>hexametris e spondeo et dactylo constare, quamvi 
+      <lb ed="#B" n="68"/>ratio metri nobis hodie sit incognita. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e2305">
+               <lb ed="#B" n="69"/>141. 15. Pvalterium. Hobr. e32111) 20 liber 
+      <lb ed="#B" n="70"/>audum divinarum. Graecis ψαλτήριον ab instru 
+      <lb ed="#B" n="71"/>nento musico dictum. Hilarius in praefat. super 
+      <lb ed="#B" n="72"/>Psalm. 1. Chrysostomus homis. 1. in Psalm. 50. et Ly 
+      <lb ed="#B" n="73"/>ranus in Psalm. 1. statuunt, hujus libri non unum, e 
+      <lb ed="#B" n="74"/>quidem Davidem, sed alios plures fuisse auctores 
+      <lb ed="#B" n="75"/>quorum aliqui longe ante Davidem vixerint, et euo 
+      <lb ed="#B" n="76"/>cymnos ex antiquiseimorum patriarcharum ocholis 
+      <lb ed="#B" n="77"/>acceperint, eosque ἀτίτλους et ἀνεκιγράφους 
+      relique<lb ed="#B" n="78" break="no"/>rint, aliqui vero post Davidem vixerint, undo quidam 
+      <lb ed="#B" n="79"/>atione auctorum psalmos omnes in tres classes 
+      divi<lb ed="#B" n="80" break="no"/>dunt: Primam assignant psalmis, qui ipsum Davidem 
+      <lb ed="#B" n="81"/>auctorem agnoscunt numero 124. Alteram illis, quorum 
+      <lb ed="#B" n="82"/>uctores sunt filii Corah numero 12. Tertiam illis quo 
+      <lb ed="#B" n="83"/>rum auctor est Assaphus itidem numero 12, quibu 
+      <lb ed="#B" n="84"/>annumerandus psalmus unus Moysis, videlicet 90l et 
+      <lb ed="#B" n="85"/>inus Ethan Esraitae videlicet 89. qui omnes collecti 
+      <lb ed="#B" n="86"/>aciunt 150. Quidam decem auctores hujus libri 
+      eta<lb ed="#B" n="87" break="no"/>tuunt, Davidem, Salomonem, Moysen, Assaph, 
+      Ethan<lb ed="#B" n="88" break="no"/>Eman, Idithum et tres filios Coreh. *** Hieron. ad 
+      <lb ed="#B" n="89"/>Cyprian. statuit Moysen II pealmos scripsisse, h. e. a. 
+      <lb ed="#B" n="90"/>salmo nonagesimo, cui titulus est, oratio Moysis 
+      serv<lb ed="#B" n="91" break="no"/>Dei, usque ad psalm. 100, qui praenotatur in confessione 
+      <lb ed="#B" n="92"/>Novem et 30 psalmi sunt ἀνεπίγραφοι, ex quibus septem 
+      <lb ed="#B" n="93"/>sub nomine Davidis citantur in divinis Scripturis 
+      <lb ed="#B" n="94"/>Psalm. 2. Actor. 13.. Psalm. 117. 2. Reg. 22., Psalm. 100. 
+      <lb ed="#B" n="95"/>l. Paral. 16., Psalm. 105. 106. 117. 135 in 1. Esdrae. 
+      <lb ed="#B" n="96"/>Hieronymus in epist. ad Sophronium et Cyprianum, 
+      <lb ed="#B" n="97"/>sequens Athanasii sententiam decernit errare eos 
+      <lb ed="#B" n="98"/>qui omnes psalmos Davidis esse arbitrantur et non 
+      <lb ed="#B" n="99"/>eorum, quorum nominibus inscripti sunt.Erunt 
+      <lb ed="#B" n="100"/>ergo juxta hanc sententiam decem hujus voluminis 
+      <lb ed="#B" n="101"/>auctores, quorum nomina in titulis psalmorum 
+      po<lb ed="#B" n="102" break="no"/>iuntur. 1. David. 2. Salomon. 3. Moyses. 4. Asaph. 
+      <lb ed="#B" n="103"/>5. Ethan Ezraita. 6. Eman Ezraita. 7. Idithum 
+      <lb ed="#B" n="104"/>1. Tres filii Coreh. Sed Augustin. lib. 17. de civit. 
+      <lb ed="#B" n="105"/>Dei c. 14. Davidi omnes tribuendos censet. In peal 
+      <lb ed="#B" n="106"/>mis, inquit, nonnulli volunt, eos factos esse a Da 
+      <lb ed="#B" n="107"/>vide, qui ejus nomine inscripti sunt. Sunt etiam 
+      <lb ed="#B" n="108"/>rus putant, non ab eo factos, nisi qui praenotantur 
+      <lb ed="#B" n="109"/>psiue David, qui vero in titulis habent ipsi Davià 
+      <lb ed="#B" n="110"/>ib aliia factos personae ipsius fuissecoaptatos. 
+      <lb ed="#B" n="111"/>Quae opinio voce evangelica ipsius salvatoris 
+      refu<lb ed="#B" n="112" break="no"/>tatur, ubi ait, quod ipse David in Spiritis Christum 
+      <lb ed="#B" n="113"/>dixerit esse suum Dominum, quoniam Psal. 109. 
+      ci<lb ed="#B" n="114" break="no"/>incipit: Dixit Dominus Domino meo.. Et certe xml:idem 
+      <lb ed="#B" n="115"/>osalmus non habet in titulo ipsius David, sed ipe 
+      <lb ed="#B" n="116"/>David, sicut plurimi. Mihi autem credibilius 
+      vo<lb ed="#B" n="117" break="no"/>cantur existimare, qui omnes illos 150.) pealmor 
+      <lb ed="#B" n="118"/>ejus operi tribuunt, cumque alioc praenotasse 
+      etian<lb ed="#B" n="119" break="no"/>nominibus aliorum, aliquid quod ad rem pertinea 
+      <lb ed="#B" n="120"/>igurantibus, ceteros autem nullius hominis nomen 
+      <lb ed="#B" n="121"/>in titalia habere voluisse, gicut es varietatie hujus 
+      <!--138.xml-->
+      <pb ed="#B" n="65"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>dispositionem, quamvis latebrosam, non tamen ina 
+      <lb ed="#B" n="2"/>nem Deus inspiravit. Quidam existimant, 
+      Esdran<lb ed="#B" n="3" break="no"/>post captivitatem Babylonicam hos psalmos hinc 
+      <lb ed="#B" n="4"/>inde dispersos in unum volumen collegisse. Atha 
+      <lb ed="#B" n="5"/>nasius in Synopsi ante captivitatem Babylonicam 
+      a<lb ed="#B" n="6" break="no"/>amicis regis Ezechiae xml:id factum esse asserit. 
+      Chr<lb ed="#B" n="7" break="no"/>sost. existimat, Esdram post captivitatem 
+      Babylon<lb ed="#B" n="8" break="no"/>cam hos psalmos hinc inde dispersos in hoc volo 
+      <lb ed="#B" n="9"/>men collegisse. Athanasius vero in Synopsi xml:id ant 
+      <lb ed="#B" n="10"/>captivitatem ab amicis regis Ezechiae factum 
+      ser<lb ed="#B" n="11" break="no"/>bit, asserens eos ex psalmis Davidis, quos ipse tris 
+      <lb ed="#B" n="12"/>millia fuisse affirmat, 150 tantum collegisse 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e2455">
+               <lb ed="#B" n="13"/>142. Pealmi sunt in universum 130. Qui enim i 
+      <lb ed="#B" n="14"/>Graecis codicibus adjicitur psalmus 151. non est i 
+      <lb ed="#B" n="15"/>canone, ut suo loco demonstrabitur, quo de psa 
+      <lb ed="#B" n="16"/>morum numero exstant hi Leonini: Ter quinquageno 
+      <lb ed="#B" n="17"/>David canit ordine pealmos. Vereus his mille 
+      se<lb ed="#B" n="18" break="no"/>centos sex canit ille. Conveniunt Hebraei et Graec 
+      <lb ed="#B" n="19"/>in summa psalmorum, quos 150 utrique 
+      numeram<lb ed="#B" n="20" break="no"/>verum Graeci (quos Latini sequuntur) duos distis 
+      <lb ed="#B" n="21"/>ctos pealmos 9 et 10. conjungunt, hinc consequente 
+      <lb ed="#B" n="22"/>pealmus undecimus juxta Hebraeos est decimus 
+      <lb ed="#B" n="23"/>juxta LXX interpp. et latinam versionem; peal 
+      <lb ed="#B" n="24"/>mum 111 et 113. juxta Hebraeos, Latini iterum 
+      <lb ed="#B" n="25"/>conjungunt et vicissim 116. in duos dividunt. Ut 
+      <lb ed="#B" n="26"/>autem numerum 150 psalmorum Latini compleant 
+      <lb ed="#B" n="27"/>ideo circa finem unum psalmum, qui apud Hebraeos 
+      <lb ed="#B" n="28"/>est I. 17. in duos dividunt. Videtur hic Graecorum 
+      <lb ed="#B" n="29"/>et Latinorum error inde ortus, quod psalmus deci 
+      <lb ed="#B" n="30"/>mus sit ἀνεπίγραφος; quodque litera jod, quae es 
+      <lb ed="#B" n="31"/>literarum Hebraearum minima, tantum sit a pealmo, 
+      <lb ed="#B" n="32"/>distinctus. Quia ergo literam istam Graeci non ob 
+      <lb ed="#B" n="33"/>servarunt, xml:ideo duos psalmos in unum contraxerum 
+      <lb ed="#B" n="34"/>quos postea secuti sunt Latini. Genebrardus 
+      pi<lb ed="#B" n="35" break="no"/>adstruenda vulgatae Latinae versionis numeration 
+      <lb ed="#B" n="36"/>strenue laborat, sed nititur falsis hypothesibus, ex 
+      <lb ed="#B" n="37"/>stimat enim distinctionem in textu Hebraeo primui 
+      <lb ed="#B" n="38"/>ante trecentos annos a R. D. Kimchi esse factam 
+      <lb ed="#B" n="39"/>cum tamen eadem in Psalterio Hebraeo Hieronym 
+      <lb ed="#B" n="40"/>inveniatur, ac ipsis psalmis coaeva haud sine 
+      ration<lb ed="#B" n="41" break="no"/>statuatur, cumque diversitas argumenti in psalmo, 
+      <lb ed="#B" n="42"/>et 10. ostendat, pealmos illos esse disjungendos, si 
+      <lb ed="#B" n="43"/>quidem nonus agit de hostibus alienigenis, decimu 
+      <lb ed="#B" n="44"/>de popularibus et domestici 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e2527">
+               <lb ed="#B" n="45"/>143. Ratione materiae septem psalmorum gener 
+      <lb ed="#B" n="46"/>numerari possunt, in quorum quinque prioribus 
+      Deu<lb ed="#B" n="47" break="no"/>nobiscum agit, quod fit 1. per informationem, und 
+      <lb ed="#B" n="48"/>oriuntur paalmi διδακτικοί informatorii. 2. vel pe 
+      <lb ed="#B" n="49"/>consolationem, unde παρακλητικοt consolatorii. 3. vel 
+      <lb ed="#B" n="50"/>per exhortationem, unde νουθετικοί seu παραινειικ 
+      <lb ed="#B" n="51"/>echortatorii. 4. vel per praedicationem, unde πρ 
+      <lb ed="#B" n="52"/>φητικοί vatidici. 5. vel per praeteritarum rerum 
+      nar<lb ed="#B" n="53" break="no"/>rationem, unde ἰστορικοί historici. Quando nos cum 
+      <lb ed="#B" n="54"/>Deo agimus, fit illud t. vel per precationem, 
+      und<lb ed="#B" n="55" break="no"/>εὐκτικοὶ petitorii, 2. vel per gratiarum actionem 
+      <lb ed="#B" n="56"/>unde εὐχαριστικοί. Hebraei dividunt psalmos in 
+      <lb ed="#B" n="57"/>quinque 22r72 libros sive partes, de quibus vide 
+      <lb ed="#B" n="58"/>Hieronymum epist. 134. ad Sophronium. Primu 
+      <lb ed="#B" n="59"/>liber habet psalmos 11. priores. Secundus pea 
+      <lb ed="#B" n="60"/>mos 31 a 42. ad 73. Tertius pealmos 17 a 7. 
+      <!--138.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>ad 90. Quartus itidom 17 a 90. usque ad 107 
+      <lb ed="#B" n="62"/>Quintus psalmos 43. a 107. usque ad psalmum 156 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e2574">
+               <lb ed="#B" n="63"/>144. Psalmos Davidis olim repudiabant 
+      Nicolaita<lb ed="#B" n="64" break="no"/>et Gnostici, qui vocabant eos humana cantica, teste 
+      <lb ed="#B" n="65"/>Philastrio in catal. haeres. c. 127. De Samosatene 
+      <lb ed="#B" n="66"/>scribit Eusebius libr. 7. Histor. eccles. c. 25. quod 
+      <lb ed="#B" n="67"/>pealmos illos, qui in Christum canebantur, tanquam 
+      <lb ed="#B" n="68"/>recens excogitatos de ecclesia eustulerit. Sed 
+      pri<lb ed="#B" n="69" break="no"/>mitivae ecclesiae doctores unanimi suffragio hunc 
+      <lb ed="#B" n="70"/>librum pro canonico receperunt et insignibus enco 
+      <lb ed="#B" n="71"/>miis eundem ornarunt. Athanasius in epist. ad 
+      Mar<lb ed="#B" n="72" break="no"/>cellin. voeat totius Scripturae epitomen. Basilius i 
+      <lb ed="#B" n="73"/>Psal. 1. universae theologiae compendium et 
+      com<lb ed="#B" n="74" break="no"/>munem medicam animarum officinam, 
+      commun<lb ed="#B" n="75" break="no"/>promptuarium bonarum doctrinarum unicuique utili 
+      <lb ed="#B" n="76"/>secundum ejus affectus. Augustinus appellat tutelam 
+      <lb ed="#B" n="77"/>puerorum, ornamentum juventutio et senectae sola 
+      <lb ed="#B" n="78"/>tium, registrum et summarium totius paginae theo 
+      <lb ed="#B" n="79"/>logicae, Lutherus parva biblia et summarium V. 
+      <lb ed="#B" n="80"/>Τ. appellat. Nos de dignitate et utilitate Psalteri 
+      <lb ed="#B" n="81"/>alicubi hos scripsimus versiculos:
+  <lb ed="#B" n="82"/>
+               <quote xml:id="zef3dd-d1e203-Qd1e2619">Quod sol in coelo est, inter tot biblica scripto 
+      <lb ed="#B" n="83"/>Davidis pealmos regis xml:id esse reor 
+      <lb ed="#B" n="84"/>Sol planetarum ductor caligine pulse 
+      <lb ed="#B" n="85"/>Omnia coelesti luce, calore fover 
+      <lb ed="#B" n="86"/>Sic mentis tenebras pellunt Davidica plectro 
+      <lb ed="#B" n="87"/>Atque animas vivis alloquiis amant etc.</quote>
+               <lb ed="#B" n="88"/>Est omnino Psalterium monile aureum ex tribus 
+      cor<lb ed="#B" n="89" break="no"/>textum et concinnatum videl. t. ex auro doctrinae 
+      <lb ed="#B" n="90"/>et informationis. 2. ex margaritis consolationis. 3. e. 
+      <lb ed="#B" n="91"/>gemmis precationis. ** Psalterium est. I. totiu 
+      <lb ed="#B" n="92"/>Scripturae sacrae epitome et compendium, quod 
+      pa<lb ed="#B" n="93" break="no"/>tet. 1. ex Scripturae scopo et fine, qui est Christur 
+      <lb ed="#B" n="94"/>2. ex Scripturae distributione in legem et evange 
+      <lb ed="#B" n="95"/>lium, utrumque in Psalterio traetatur. II. locorum 
+      <lb ed="#B" n="96"/>theologicorum repertorium et summarium, quo 
+      respe<lb ed="#B" n="97" break="no"/>ctu comparatur clinodio in quo est t. aurum 
+      con<lb ed="#B" n="98" break="no"/>fortationis in veritatem doctrinae. 2. argentum pro 
+      <lb ed="#B" n="99"/>bationis contra errores haereticorum. 3. gemmas 
+      <lb ed="#B" n="100"/>commonefactionis ad virtutes, dilectionem Dei, gra 
+      <lb ed="#B" n="101"/>titudinem, dilectionem proximi. 4. margaritas 
+      con<lb ed="#B" n="102" break="no"/>solationis. Babylas ex psalm. 116. Revertere anima 
+      <lb ed="#B" n="103"/>mea in requiem. III. promptuarium exemplorum, qua 
+      <lb ed="#B" n="104"/>ratione confertur speculo politissimo, proponitur in 
+      <lb ed="#B" n="105"/>eo. 1. exemplum militantis ecclesiae, quod sit sub 
+      <lb ed="#B" n="106"/>jecta cruci. 2. exemplum verae poenitentiae. Ori 
+      <lb ed="#B" n="107"/>genes ex psal. 50. Impio dixit Deus. Mauritius e 
+      <lb ed="#B" n="108"/>Psalm. 119. Justus es Domine. Bernhardus ex 
+      <lb ed="#B" n="109"/>Psalm. 51. Perdite vixi, non habeo quid reponam De 
+      <lb ed="#B" n="110"/>mino, nisi quod cor contritum non despiciet. 3. spe 
+      <lb ed="#B" n="111"/>culum fidei et constantiae. 4. est manuale et vado 
+      <lb ed="#B" n="112"/>mecum. ** Psalterium est 1. theatrum operum 
+      Dei<lb ed="#B" n="113" break="no"/>illa enim spectanda in eo exhibentur. 2. pratur 
+      <lb ed="#B" n="114"/>suavissimum et amplissimum rosarium, ubi plurimos 
+      <lb ed="#B" n="115"/>flores pulcherrimos intuemur. 3. paradisus non so 
+      <lb ed="#B" n="116"/>lum nudam habens fragrantiam florum, sed ipso 
+      <lb ed="#B" n="117"/>etiam fructus. 4. pelagus patentissimum, in quo 
+      <lb ed="#B" n="118"/>margaritae pretiosae latent, quae non nisi ab illis, 
+      <lb ed="#B" n="119"/>qui tempestatum procellas patiuntur, inveniri queunt 
+      <lb ed="#B" n="120"/>5. coelestis schola, in qua Deum doctorem nostrum 
+      <!--139.xml-->
+      <pb ed="#B" n="66"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>alloquimur. 6. Universae Scripturae compendium 
+      <lb ed="#B" n="2"/>J. Gratiae divinae speculum, in quo facies amoenis 
+      <lb ed="#B" n="3"/>sima benignissimi Patris nostri relucet. 8. Anate 
+      <lb ed="#B" n="4"/>mia animae nostrae artificiosissima indicans omnes 
+      <lb ed="#B" n="5"/>animae affectus, motus et motuum illorum remediur 
+</p>
+            <p xml:id="zef3dd-d1e203-d1e2722">
+               <lb ed="#B" n="6"/>145. 16. Proverbia Salomonis Hebr. θιθτ 2ὰν 
+      <lb ed="#B" n="7"/>Parabolae seu Proverbia Salomonis. ** Salomon. 
+      <lb ed="#B" n="8"/>Jedidia et Koheleth dictus, juxta numerum nominur 
+      <lb ed="#B" n="9"/>suorum tres libros scripsit. Partem tamen hujus libi 
+      <lb ed="#B" n="10"/>posteriorem, a capite sc. 25. usque in finem, Sebna 
+      <lb ed="#B" n="11"/>atque cetori scribae Ezechiae regis Juda ex aliis 
+      <lb ed="#B" n="12"/>voluminibus collegerunt 4* Graecis παροιμίαι, cor 
+      <lb ed="#B" n="13"/>tinent enim adagia, parabolas, similitudines et egre 
+      <lb ed="#B" n="14"/>gias sententias ad virtutes in decalogo praescri 
+      <lb ed="#B" n="15"/>ptas quemlibet exhortantes. Capitibus constat 3. 
+      <lb ed="#B" n="16"/>ac distingui potest. 1. ratione causae efficientis in 
+      <lb ed="#B" n="17"/>proverbia Salomonis et aliorum sapientum. 2. 1. 
+      <lb ed="#B" n="18"/>tione objecti ac materiae, i. in sententias generales 
+      <lb ed="#B" n="19"/>et speciales videl. politicas, oeconomicas, ethica 
+      <lb ed="#B" n="20"/>et mixtas. 2. in regulas de fide et moribus. Aucto 
+      <lb ed="#B" n="21"/>hujus libri communiter statuitur Salomon. Quidam 
+      <lb ed="#B" n="22"/>tamen existimant, eum ab alio quodam ex sententiis 
+      <lb ed="#B" n="23"/>Salomonis esse collectum. Posset haud injuria ve 
+      <lb ed="#B" n="24"/>cari liber officiorum, item Ethica sacra, quia cor 
+      <lb ed="#B" n="25"/>tinet utilissimas vitae regulas de officiis piorum erg 
+      <lb ed="#B" n="26"/>Deum et homines. Ceterum hic liber 
+      Proverbi<lb ed="#B" n="27" break="no"/>rum, quia c. 30, v. 4. mentionem facit Filii, a 
+      Fran<lb ed="#B" n="28" break="no"/>eisco Davidis in Disp. Albana tt. ij. lit. a. Ministri. 
+      <lb ed="#B" n="29"/>Transylvanis lib. 2, c 10. et Johanne Sommero in 
+      <lb ed="#B" n="30"/>refut. Carol. p. 41. enter apocryphos libroo rejicitur 
+      <lb ed="#B" n="31"/>quibus fidem tuto confirmare non possimus. 
+      Se<lb ed="#B" n="32" break="no"/>opponimus illis haereticis unanimem Ieraëliticae et 
+      <lb ed="#B" n="33"/>Christianae ecclesiae consensum, quae de hujus libi 
+      <lb ed="#B" n="34"/>canonica auctoritate nunquam dubitavit. Contine 
+      <lb ed="#B" n="35"/>versus 91. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e2790">
+               <lb ed="#B" n="36"/>146. 17. Ecoleciastes. Hebr. 1317 Benoni: fe 
+      <lb ed="#B" n="37"/>mininum a rad. 3p congregavit. R. D. Kimeh. 
+      <lb ed="#B" n="38"/>Salomonem sic dici censet, quod ejus anima artium 
+      <lb ed="#B" n="39"/>et scientiarum copiam sibi congregasset. Femini 
+      <lb ed="#B" n="40"/>num respicit vel ad sapientiam, per quam Salomor 
+      <lb ed="#B" n="41"/>populum ad se convocavit, et de rebus necessarii. 
+      <lb ed="#B" n="42"/>et utilibus ad eum concionatus est, vel ad animar 
+      <lb ed="#B" n="43"/>nobiliorem hominis partem. Eccles. I, v. 2. 
+      construi<lb ed="#B" n="44" break="no"/>tur eum masculino. Graecis vocatur ἐκκλησιαστή¬ 
+      <lb ed="#B" n="45"/>concionator, quia loquitur ad multitudinem genera 
+      <lb ed="#B" n="46"/>liter, non ad unum tantum specialiter, ut Proverbia 
+      <lb ed="#B" n="47"/>notante Hieronymo. Auctor hujus libri omnium 
+      <lb ed="#B" n="48"/>consensu est Salomon, qui procul dubio vel in mens 
+      <lb ed="#B" n="49"/>vel in familiari colloquio aulicis suis has doctrina 
+      <lb ed="#B" n="50"/>proposuit, ut colligitur ex 1. Reg. 10, v. 8. Mulc 
+      <lb ed="#B" n="51"/>Hebraeorum hunc librum a Salomone conscriptur 
+      <lb ed="#B" n="52"/>ferunt in poenitentia vitae flagitiose actae. Alii di 
+      <lb ed="#B" n="53"/>eunt ipsum cum spiritu prophetico praevideret 
+      divi<lb ed="#B" n="54" break="no"/>sionem regni sui sub Rehabeam filio suo, adductur 
+      <lb ed="#B" n="55"/>in contemtum instabilis vanitatis. Ludovio. Vives in 
+      <lb ed="#B" n="56"/>Augustini lib. 20. de civ. Dei c. 3. Capitibus constas 
+      <lb ed="#B" n="57"/>12. Summam et scopum totius libri in capite ultimo 
+      <lb ed="#B" n="58"/>auctor exponit, videlicet omnia in mundo esse 
+      van<lb ed="#B" n="59" break="no"/>proinde nihil utilius ac magis necessarium quam 
+      <lb ed="#B" n="60"/>Deum timere et mandata ejus custodire. Partes 
+      <!--139.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>igitur principales sunt duae: Prior de rerum 
+      huma<lb ed="#B" n="62" break="no"/>narum ac studiorum in mundo vanitate. Posterior 
+      <lb ed="#B" n="63"/>de pietatis ac timoris divini stabilitate atque utilitate 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e2858">
+               <lb ed="#B" n="64"/>147. Ecclesiasten et reliquos Salomonis libros 
+      <lb ed="#B" n="65"/>quibusdam haereticis ex canone fuisse rejectos, me 
+      <lb ed="#B" n="66"/>morat Philastrius in catal. haeres. c. 132. 
+      Bellar<lb ed="#B" n="67" break="no"/>ninus lib. 1. de verbo Dei. e. 5. Lutherum 
+      accu<lb ed="#B" n="68" break="no"/>sat, quod auctoritatem canonicam hujus libri 
+      labefa<lb ed="#B" n="69" break="no"/>ctarit, eo quod in conviv. serm. tit. de lib. V. 
+      e<lb ed="#B" n="70" break="no"/>. T. dicat, auctorem libri, qui Ecelesiastes inscri 
+      <lb ed="#B" n="71"/>bitur, sibi videri ocreis et calcaribus destitutum 
+      <lb ed="#B" n="72"/>equitare tantum in soccis, quemadmodum ipse vole 
+      <lb ed="#B" n="73"/>ret, cum adhuc esset in coenobio. Resp. 1. quid de 
+      <lb ed="#B" n="74"/>libro convivalium sermonum statuendum sit, monui 
+      <lb ed="#B" n="75"/>mus superius. 2. Verba Lutheri citantur truncata 
+      <lb ed="#B" n="76"/>3. Quae de libro Ecclesiastici sive Siracide Lutheru 
+      <lb ed="#B" n="77"/>protulit, rhapsodus ad librum Ecclesiastae ἀπαιδεῖ¬ 
+      <lb ed="#B" n="78"/>τως accommodavit. Diserte enim asserit Lutherus 
+      <lb ed="#B" n="79"/>se loqui de eo libro, qui contra tyrannos agit, qui 
+      <lb ed="#B" n="80"/>tempore Maccabaeorum a Siracide fuit confictus, qui 
+      <lb ed="#B" n="81"/>doctrinas complectatur de officiis oeconomicis, qui 
+      <lb ed="#B" n="82"/>ex bibliotheca Ptolemaei Evergetae sit collectus 
+      <lb ed="#B" n="83"/>quae omnia Ecclesiastico potius quam Eeclesiastae 
+      <lb ed="#B" n="84"/>conveniunt). 4. Ecclesiasten utilissimo et 
+      eruditia<lb ed="#B" n="85" break="no"/>simo commentario Lutherus illustravit, tantum abest. 
+      <lb ed="#B" n="86"/>ut ejus auctoritatem labefactatam voluerit. 5. I. 
+      <lb ed="#B" n="87"/>bibliis Germanicis diserte hunc librum inter canoni 
+      <lb ed="#B" n="88"/>cos numerat; eumque ab apocryphis distinguit 
+      <lb ed="#B" n="89"/>Nunquam igitur Bellarm. evincere poterit, Lutherum 
+      <lb ed="#B" n="90"/>Ecclesiastae canonicam auctoritatem labefactasse; vi 
+      <lb ed="#B" n="91"/>deat vero quomodo illud excusare possit, quod 
+      do<lb ed="#B" n="92" break="no"/>ctor quidam Pontificius natione Anglus anno 1566. 
+      <lb ed="#B" n="93"/>librum, Comitia Parlamentaria, inscriptum in lucen 
+      <lb ed="#B" n="94"/>emiserit, in quo refert fabulam de quodam, qui prae 
+      <lb ed="#B" n="95"/>lecto Ecclesiastis libro eum noxium esse pronuntia 
+      <lb ed="#B" n="96"/>vit, xml:idque se auribus suis audivisse testatur. 
+      Hes<lb ed="#B" n="97" break="no"/>kinsius eum propterea minime redarguit, sed dicit 
+      <lb ed="#B" n="98"/>fuisse virum reverendum, gravem, prudentem, pium 
+      <lb ed="#B" n="99"/>non indoctum; et addit: Hinc olare liquet, quaem 
+      <lb ed="#B" n="100"/>periculosa res eit, si laici Scripteras legunt. Ipec 
+      <lb ed="#B" n="101"/>Heskinsius de Ecclesiaste sic judicat: Quid vehemen 
+      <lb ed="#B" n="102"/>tius hominem a capientia absterret, quam liber 
+      Ec<lb ed="#B" n="103" break="no"/>clesiastis? quam turpiter praeclaro illo Dei 
+      don<lb ed="#B" n="104" break="no"/>sapientia hoc in libro abuti vicdetur auctor! 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e2949">
+               <lb ed="#B" n="105"/>148. 18. Canticum canticorum. Hebr. E71771 
+      <lb ed="#B" n="106"/>quod Hebraico xml:idiomate signifieat egregium et exi 
+      <lb ed="#B" n="107"/>mium canticum, Graecis ἀσμα ἀσμάτων, annectitu 
+      <lb ed="#B" n="108"/>etiam mentio auctoris, quod scil. sit u Salomone 
+      <lb ed="#B" n="109"/>conscriptum. 1. Reg. 4. v. 32. refertur, a Salomone 
+      <lb ed="#B" n="110"/>complura cantica fuisse componita, sed ex illis 
+      nul<lb ed="#B" n="111" break="no"/>lum hodie exstat praeter hoc ipsum, quod 
+      reliqui<lb ed="#B" n="112" break="no"/>fuit praecellentius. De scopo hujus libri 
+      varian<lb ed="#B" n="113" break="no"/>interpp. illud tamen certum est, quod non agat de 
+      <lb ed="#B" n="114"/>amore conjugali, multo minus inordinato: Abeit, 
+      ab<lb ed="#B" n="115" break="no"/>sit, inquiunt Hebraei, ut canticum hoc sit de rebu 
+      <lb ed="#B" n="116"/>obscoenis, sed est metaphora, alioquin nisi magna 
+      <lb ed="#B" n="117"/>csset dignitatio, non scriberetur in catalogo cancto 
+      <lb ed="#B" n="118"/>rum Scripturarum. 1. Plerique veterum referunt 
+      a<lb ed="#B" n="119" break="no"/>spirituale conjugium inter Christum et ecclesiam 
+      <lb ed="#B" n="120"/>ac quamvis fidelem animam. <ref xml:id="zef3dd-d1e203-Rd1e2985">Augustinus lib. 17. 
+      <!--140.xml-->
+      <pb ed="#B" n="67"/>
+                  <cb ed="#B" n="a"/>
+                  <lb ed="#B" n="1"/>
+                  <lb ed="#B" n="2"/>de civit. Dei c. 20.</ref> Canticum canticorum apirituo 
+      <lb ed="#B" n="3"/>lis quaedam sanctarum est voluptas mentium i 
+      <lb ed="#B" n="4"/>conjugio illius regia et reginae civitatis, quod es 
+      <lb ed="#B" n="5"/>Christus et ecclesia, sed haec voluptas allegorici 
+      <lb ed="#B" n="6"/>tegminibus involuta est, ut desideretur 
+      ardentiu<lb ed="#B" n="7" break="no"/>videaturque jucundius. 2. Quidam arbitrantur d 
+      <lb ed="#B" n="8"/>scribi in hoc libro ardentissimum affectum regis erg 
+      <lb ed="#B" n="9"/>politiam Israëliticam et contra. 3. Lutherus refer 
+      <lb ed="#B" n="10"/>ad affectum populi Israëlitici erga Deum. Capit 
+      <lb ed="#B" n="11"/>bus absolvitur 8 et constat perpetuis dialogismis 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e3019">
+               <lb ed="#B" n="12"/>149. Quidam ex antiquis haereticis Canticum 
+      car<lb ed="#B" n="13" break="no"/>ticorum non Spiritu Dei, sed cupidinis afflatu 
+      scr<lb ed="#B" n="14" break="no"/>ptum fuisse dicebant, teste Philastrio de haere 
+      <lb ed="#B" n="15"/>c. 133. Eandem sententiam Castalioni tribuit 
+      Bea<lb ed="#B" n="16" break="no"/>Sed communi tum Israëliticae tum Christianae ec 
+      <lb ed="#B" n="17"/>elesiae euffragio in canonem hic liber est receptu 
+      <lb ed="#B" n="18"/>Quinimo apud priscos Hebraeos tanta fuit erga hum 
+      <lb ed="#B" n="19"/>librum reverentia, ut vetuerint, eum uti etiam exor 
+      <lb ed="#B" n="20"/>dium Geneseos, itemque initium et finem Ezechiel 
+      <lb ed="#B" n="21"/>ante trigesimum aetatis annum legere. Eorum v. 
+      <lb ed="#B" n="22"/>stigiis videntur insistere Christiani illi interprete 
+      <lb ed="#B" n="23"/>qui existimarunt, explanationem hujus eantici 
+      no<lb ed="#B" n="24" break="no"/>esee in juventute attingendam, sed in solatium 
+      Chi<lb ed="#B" n="25" break="no"/>stianae senectutis ac piae emigrationis viaticum 
+      re<lb ed="#B" n="26" break="no"/>cervandam, exemplo Bernhardi, Thomae Aquinatis 
+      <lb ed="#B" n="27"/>et Johannis Gersonis, qui in meditatione et expos 
+      <lb ed="#B" n="28"/>tione hujus libri extremam vitae partem consum 
+      <lb ed="#B" n="29"/>serum 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e3062">
+               <lb ed="#B" n="30"/>150. Tres isti libri proxime enumerati, Prouerbie 
+      <lb ed="#B" n="31"/>Ecclesinstes et Canticum cauticorum communi doct. 
+      <lb ed="#B" n="32"/>rum euffragio Salomoni (ut jam ante diximus) tra 
+      <lb ed="#B" n="33"/>buuntur. Quidam tamen statuunt, sententias horum 
+      <lb ed="#B" n="34"/>trium librorum ab Esaia propheta esse collectas 
+      e<lb ed="#B" n="35" break="no"/>proverbiis et canticis a Salomone compositis et in 
+      <lb ed="#B" n="36"/>ecclesia Israëlitica ad ipsius usque tempora assei 
+      <lb ed="#B" n="37"/>vatis. Proverbia scripta sunt potissimum pro aetate 
+      <lb ed="#B" n="38"/>juvenili, Ecclesiastes pro virili, Canticum pro senile 
+      <lb ed="#B" n="39"/>Origenes in prolog. homiliarum in cant. tom. 
+      <lb ed="#B" n="40"/>fol. 71. Hieronymus in c. 1. Ecclesiast. Theodore 
+      <lb ed="#B" n="41"/>tus in prooem. comment. sup. Cantie. et alii ex 
+      <lb ed="#B" n="42"/>veteribus conferunt summas horum librorum cum 
+      <lb ed="#B" n="43"/>tribus philosophiae partibus. Cum enim secundum 
+      <lb ed="#B" n="44"/>Stoicos et Platonicos universa philosophia in 
+      tre<lb ed="#B" n="45" break="no"/>partes dividatur, in physicam scilicet, ethicam e 
+      <lb ed="#B" n="46"/>dialecticam, per quam Platonici intelligunt metaphi 
+      <lb ed="#B" n="47"/>sicam, inde tradunt in Proverbiis proponi 
+      ethican<lb ed="#B" n="48" break="no"/>h. e. utilem de moribus disciplinam; in Ecclesiaste 
+      <lb ed="#B" n="49"/>physicam; eorum quae sensibus percipiuntur natu 
+      <lb ed="#B" n="50"/>ram indicantem, vitae praesentis, omniumque qua 
+      <lb ed="#B" n="51"/>hic cernuntur vanitatem docentem, ut ea fluxa e 
+      <lb ed="#B" n="52"/>fragilia cognoscentes, tanquam fugacia ac praeter 
+      <lb ed="#B" n="53"/>euntia spernamus et quae futura sunt, ut firma at 
+      <lb ed="#B" n="54"/>que in aeternum permanentia cognoscamus. In Car 
+      <lb ed="#B" n="55"/>tico canticorum metaphysicam et theologiam qua 
+      <lb ed="#B" n="56"/>mysticam sponsi et sponsae conjunctionem denote 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e3123">
+               <lb ed="#B" n="57"/>131. Libris Mosaicis sive legalibus, historicis a 
+      <lb ed="#B" n="58"/>doctrinalibus sive poeticis succedunt in canone V. T. 
+      <lb ed="#B" n="59"/>libri prophetici propterea sic dicti, quod a 
+      proph<lb ed="#B" n="60" break="no"/>tis jussu Dei sint exarati. Numerantur autem quo 
+      <lb ed="#B" n="61"/>tuor majores et duodecim minores prophetae. Inter 
+      <!--140.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>majores primo loco ponitur Esaias, qui in ordine 
+      <lb ed="#B" n="63"/>canonicorum librorum est 19. Ideo vero in primi 
+      <lb ed="#B" n="64"/>acie collocatur, non quod reliquis omnibus sit 
+      vetu<lb ed="#B" n="65" break="no"/>stior, ostendit enim chronologia, Jonam, Hoseam e 
+      <lb ed="#B" n="66"/>Amos temporis ratione fuisse ipso priores, sed pro 
+      <lb ed="#B" n="67"/>pter dignitatem oraculorum propheticorum, quae 
+      <lb ed="#B" n="68"/>exponit, et quia reliquis omnibus ipsius 
+      propheti<lb ed="#B" n="69" break="no"/>est prolixior. Quidam addunt hanc rationem, quod 
+      <lb ed="#B" n="70"/>Messiae non solum fide, sed etiam sanguinis pri 
+      <lb ed="#B" n="71"/>pinquitate fuerit conjunctus. Vocatur ειλθυ q. d 
+      <lb ed="#B" n="72"/>salus Domini, quippe cujus nuntium concionibus suis 
+      <lb ed="#B" n="73"/>inseruit. Dicitur filius Amoe Esa. 1, v. 1. de qui 
+      <lb ed="#B" n="74"/>Rabbini statuunt, quod fuerit frater Amasiae regis 
+      <lb ed="#B" n="75"/>Judae et socer Manassis. Coepit vaticinari anne 
+      <lb ed="#B" n="76"/>mundi 3160. septingentis ante Christum natum annis 
+      <lb ed="#B" n="77"/>regnante adhuc Usia rege Judae, et ad extrema 
+      tem<lb ed="#B" n="78" break="no"/>pora Ezechiae pervenit. Esa. 1, v. 1. c. 39. v. 3. 
+      <lb ed="#B" n="79"/>fuit igitur ferme σyχporos Hoseae, Amos et Micheae 
+      <lb ed="#B" n="80"/>ae vitae suae curriculum sub quatuor regibus Judae 
+      <lb ed="#B" n="81"/>videlicet Usia, Jothan, Achaz et Ezechia absolvit, 
+      <lb ed="#B" n="82"/>ut ex d. I. constat. ** Christus hunc unum ex omni 
+      <lb ed="#B" n="83"/>bus prophetis delegit, quem in synagoga patriae 
+      <lb ed="#B" n="84"/>suae publice explicaret, quia tam clara profert de 
+      <lb ed="#B" n="85"/>Messia vaticinia, ut evangelistam potius quam 
+      pro<lb ed="#B" n="86" break="no"/>phetam agere videatur.** Augustinus lib. 18. de. 
+      <lb ed="#B" n="87"/>civit. Dei c. 29. de eo scribit: Esaias inter illa, 
+      <lb ed="#B" n="88"/>quae iniqua arquit et justa praecepit et peccatori 
+      <lb ed="#B" n="89"/>populo mala futura praedixit, etiam de Christo et 
+      <lb ed="#B" n="90"/>celesia, hoc est, de rege et ea, quam condidit 
+      civi<lb ed="#B" n="91" break="no"/>tatem, multo plura quam caeteri prophetavit, ita u 
+      <lb ed="#B" n="92"/>a quibusdam evangelista potius quam propheta di 
+      <lb ed="#B" n="93"/>ctus fuerit. Intelligit autom Hieronymum, qui in 
+      <lb ed="#B" n="94"/>epist. ad Paulin. de eo sic scribit: Esaias non 
+      pro<lb ed="#B" n="95" break="no"/>phetiam videtur mihi tecere, aed evangelium. In 
+      <lb ed="#B" n="96"/>prooem. comment. super Esaiam: Sic exponam 
+      <lb ed="#B" n="97"/>Esaiam, ut illum non solum prophetam. sed evanqe 
+      <lb ed="#B" n="98"/>listam et apostolum doceam. Item: Universa 
+      Do<lb ed="#B" n="99" break="no"/>mini sacramenta praesens scriptura continet. Item 
+      <lb ed="#B" n="100"/>Quicquid est canctarum Scripturarum, quicquid 
+      po<lb ed="#B" n="101" break="no"/>test humana lingua proferre et mortalium seneus 
+      <lb ed="#B" n="102"/>accipere, isto volumine continentur. Idem 
+      Hierony<lb ed="#B" n="103" break="no"/>mus in epistola ad Paulum et Eustochium, Ecaian 
+      <lb ed="#B" n="104"/>nobilem fuisse virum scribit, disertum et urbande 
+      <lb ed="#B" n="105"/>eloquentiae, nec habentem quidquam in eloquio 
+      ru<lb ed="#B" n="106" break="no"/>sticitatis admissum. ** Idem de ipso dicit, quod in 
+      <lb ed="#B" n="107"/>hoc libro quicquid de physicis, ethicis, logicis, e 
+      <lb ed="#B" n="108"/>quicquid sanctarum Scripturarum mysteriis potes: 
+      <lb ed="#B" n="109"/>humana lingua et mortalium sensus accipere, 
+      com<lb ed="#B" n="110" break="no"/>plexus est summa prae ceteris prophetis venustat. 
+      <lb ed="#B" n="111"/>sermonis et urbanae dictionis elegantia.** Amphi 
+      <lb ed="#B" n="112"/>lochius pag. 94. operum ipsum vocat παρρηιαστὴν 
+      <lb ed="#B" n="113"/>Hebraei in Seder Olam tradunt ipsum ex regia 
+      fa<lb ed="#B" n="114" break="no"/>milia fuisse oriundum, et a Manasse rege xml:idololates 
+      <lb ed="#B" n="115"/>affini suo serra lignea dissectum, postquam 60 annis 
+      <lb ed="#B" n="116"/>in officio docuerat. Idem ex Christianis doctoribus 
+      <lb ed="#B" n="117"/>affirmant Epiphanius lib. de vitis Patriarch. e. d. 
+      <lb ed="#B" n="118"/>Esaia, Hioronymus ad Paulum et Eustochium, 
+      xml:id<lb ed="#B" n="119" break="no"/>que confirmare nituntur ex Hebr. 11, v. 37. Pro 
+      <lb ed="#B" n="120"/>phetia ipsius absolvitur c. 66, quae distribui possunt 
+      <lb ed="#B" n="121"/>in exordium, narrationem et conclusionem. Narra 
+      <!--141.xml-->
+      <pb ed="#B" n="68"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>tio continet tum legalia, tum evangelica.) Legalis 
+      <lb ed="#B" n="2"/>juxta seriem quatuor regum, sub quibus docuit, 
+      re<lb ed="#B" n="3" break="no"/>censeri possunt. Athanas. de ipso dicit, rò πλεῖσ
+      ro<lb ed="#B" n="4" break="no"/>τῆς προτητείας αὐτοῦ ἔσιεν, εὐαγγέλια κερὶ τῆς ἱ 
+      <lb ed="#B" n="5"/>σαρκὶι παρουσίας τοῦ Λὄγου καὶ ὧν ἀνεδέξατο δʼ 
+      <lb ed="#B" n="6"/>ἡμεᾶς παθῶν. Concludit prophetiam suam concion 
+      <lb ed="#B" n="7"/>de extremo judicio et poenis impiorum aeternis, undo 
+      <lb ed="#B" n="8"/>Augustinus lib. 20. de civit. Dei c. 21. de ipsc 
+      <lb ed="#B" n="9"/>scribit: Ad hoc iste propheta terminavit librum, ac 
+      <lb ed="#B" n="10"/>quod terminabitur ccculum 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e3299">
+               <lb ed="#B" n="11"/>152. 20. Joremias. Vocatur 3777) celgitudo. 
+      <lb ed="#B" n="12"/>excceleus Domini. 1. Prophetavit sub Josia, Joachim 
+      <lb ed="#B" n="13"/>et Zedekia. ** Translatus est cum reliquis Judae in 
+      <lb ed="#B" n="14"/>Aegyptum a Johanne filio Careheae: occubuitque i 
+      <lb ed="#B" n="15"/>Thaaphnes a plebo suo lapidibus obrutus atque ibi 
+      <lb ed="#B" n="16"/>dem sepultus ** Alexander Polyhistor de eo sic 
+      <lb ed="#B" n="17"/>scribit: Temporibus! Joachim Jeremiao prophetavit 
+      <lb ed="#B" n="18"/>qui missus a Deo cum Judaeos aureo simulaer 
+      <lb ed="#B" n="19"/>cui nomen erat Baal, sacrificantea reperisset, futurar 
+      <lb ed="#B" n="20"/>eis propter hoc calamitatem praedixit, uncde Joachis 
+      <lb ed="#B" n="21"/>ipsum vivum juocit cremari. Illum autem dixiss 
+      <lb ed="#B" n="22"/>foveas ipsos a rege Assyriorum captos jucta Tigro 
+      <lb ed="#B" n="23"/>dem atque Euphratem eisdem lignis facturos. Hac 
+      <lb ed="#B" n="24"/>Nebuchoelonosorum Babyloniae regem audivisse a 
+      <lb ed="#B" n="25"/>Stibare Medorum rege in auxilium adducto centur 
+      <lb ed="#B" n="26"/>et octoginta peditum, equitum centum et viginti 
+      mi<lb ed="#B" n="27" break="no"/>lia ducentem ac decem millia curruum, primo 
+      Sa<lb ed="#B" n="28" break="no"/>maritanas urbes omnes, Galilaeam, Scythopolim 
+      <lb ed="#B" n="29"/>Galatidem evertisse; deinde Hierosolymam et Jo 
+      <lb ed="#B" n="30"/>daeorum regem vivum cepisse, et aurum, argentum 
+      <lb ed="#B" n="31"/>aea ceteraque omnia; quae in templo fuerant, arce 
+      <lb ed="#B" n="32"/>excepta et tabulis, in Babylonem asportasse. Refer 
+      <lb ed="#B" n="33"/>haec ex Alexandro Ludovicus Vives in comm. lib. 18. 
+      <lb ed="#B" n="34"/>August. de civit. Dei c. 23. Ipse Augustinus libri 
+      <lb ed="#B" n="35"/>ejusdem c. 33. de tempore, quo Jeremias propheta 
+      <lb ed="#B" n="36"/>vit, sic scribit: Jeremias prophetavit regnante Josi 
+      <lb ed="#B" n="37"/>in Verucalem et apud Romanoo Anco Martio jan 
+      <lb ed="#B" n="38"/>propinquante captivitate Judaeorum, tetendit aute 
+      <lb ed="#B" n="39"/>prophetiam quam usque ad quintum mensem capti 
+      <lb ed="#B" n="40"/>vitatio, oicut in ejus literis invenitur. lib. 2. d. 
+      <lb ed="#B" n="41"/>doetr. Christ. c. 28. de Jeremia scribit, quod eur 
+      <lb ed="#B" n="42"/>in Aegypto docentem Plato audiverit, sed poste 
+      <lb ed="#B" n="43"/>cognoscens xml:id esse falsum, retractavit lib. 2. retra 
+      <lb ed="#B" n="44"/>ctat. e. 4 et lib. 8. de civit. Dei c. 11. scribit, Pla 
+      <lb ed="#B" n="45"/>tonem vannio post Jeremiam centum esse natum 
+      <lb ed="#B" n="46"/>Vera chronologiae ratio ducentos circiter annos in 
+      <lb ed="#B" n="47"/>ter Jeremiam et Platonis ortum intercessisse doce 
+      <lb ed="#B" n="48"/>Idem lib. 18. de civit. Dei e. 87. non multo pos 
+      <lb ed="#B" n="49"/>Esdram Platonem esse natum docet, et recte. Nan 
+      <lb ed="#B" n="50"/>Esdram mortuum esse anno 82. Artaxerxis testatu 
+      <lb ed="#B" n="51"/>Nauclerus volum. 1. generat. 54. Incidit is in Olyn 
+      <lb ed="#B" n="52"/>piaden 86. natus est autem Plato Apollodoro in 
+      <lb ed="#B" n="53"/>chronicis teste olympiade 88. Quicquid sit, hoc cer 
+      <lb ed="#B" n="54"/>tum est Platonem libros Moysis et prophetarur 
+      <lb ed="#B" n="55"/>legisse, exque illis multa in libros suos 
+      transtuliss<lb ed="#B" n="56" break="no"/>ut probat Eusebius lib. I1. Praeparat. Evangel. Ab 
+      <lb ed="#B" n="57"/>solvitur ipsius prophetia c. 52. quae distribui poter 
+      <lb ed="#B" n="58"/>in ecordium, quod explicat vocationem Jeremiae 
+      a<lb ed="#B" n="59" break="no"/>munus propheticum) narrationem, quae continet 
+      <lb ed="#B" n="60"/>prophetiam ipsam, partim ad Judaeos, partim ad 
+      <!--141.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>Judaeorum hostes, gentes scilic. exteras directam, 
+      <lb ed="#B" n="62"/>et conclusionem, quae complectitur epitomen histe 
+      <lb ed="#B" n="63"/>
+               <lb ed="#B" n="64"/>riae de capta urbe et everso regno per Chaldaeos. 
+</p>
+            <p xml:id="zef3dd-d1e203-d1e3423">
+               <lb ed="#B" n="65"/>153. 21. Threni Hebraeis :12 &amp; a prima voce 
+      ini<lb ed="#B" n="66" break="no"/>tiali. Rabbini in comment. suis vocant DP 
+      quere<lb ed="#B" n="67" break="no"/>las. Graecis dicitur θρῆνοι, lamentationes a 
+      sub<lb ed="#B" n="68" break="no"/>jecta materia. R. Salomo putat, hunc esse librum, 
+      <lb ed="#B" n="69"/>quem rex Juda ab initio legit, sed moxl in ignem 
+      <lb ed="#B" n="70"/>conjecit Jerem. 36, v. 23. verum hoc ex c. 45. 1. 
+      <lb ed="#B" n="71"/>felli potest. Continet tristes ac lugubres querelas 
+      <lb ed="#B" n="72"/>de miserrimo reipubl. Israëliticae statu, in quem 
+      <lb ed="#B" n="73"/>post mortem regis Josiae incidit. LXX interpi 
+      <lb ed="#B" n="74"/>prooemii loco summam hujus libri his recensent 
+      ver<lb ed="#B" n="75" break="no"/>bis: Et factum est, postquam in captivitatem reda 
+      <lb ed="#B" n="76"/>ctus est Israel et Jeruealem deberta est, cedit 
+      pro<lb ed="#B" n="77" break="no"/>phetae Jeremias flens et planxit lamentatione. 
+      ha<lb ed="#B" n="78" break="no"/>super Jerusalem et amaro animo suspirano et eju 
+      <lb ed="#B" n="79"/>lane, dixit etc In textu Hebraico lamentationes 
+      <lb ed="#B" n="80"/>hoc ordine scriptae sunt, ut primus versus incipia 
+      <lb ed="#B" n="81"/>ab &amp;, secundus al Z et sic consequenter usque ad 
+      <lb ed="#B" n="82"/>finem servata literarum alphabeti Hebraici serie 
+      <lb ed="#B" n="83"/>In tertio autem capite tres primi versus incipiunt, 
+      <lb ed="#B" n="84"/>singuli ab &amp; tres sequentes a 2 servatoternario 
+      <lb ed="#B" n="85"/>numerousque ad finem alphabeti, quod 
+      mysteri<lb ed="#B" n="86" break="no"/>non carere Hieronymus in prooem. comment. censet 
+      <lb ed="#B" n="87"/>Capitibus constat 5. quae distingui possunt in 
+      la<lb ed="#B" n="88" break="no"/>mentationem et orationem. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e3478">
+               <lb ed="#B" n="89"/>154. 22. Eaechiel. O&amp;PII); fortitudo Dei. 
+      Theo<lb ed="#B" n="90" break="no"/>doretus in comment. Esech. 1, v. 3. notat, quod 
+      <lb ed="#B" n="91"/>duobus donis gloriari potuerit et sacerdotio et pro 
+      <lb ed="#B" n="92"/>phetia. Eodem tempore prophetavit; quo Jeremias 
+      <lb ed="#B" n="93"/>ipse quidem in civitate Babel; Jeremias vero 
+      Hiero<lb ed="#B" n="94" break="no"/>solymis. Auctor praefationis in Marsilii Patavini 
+      <lb ed="#B" n="95"/>defens. de eo sic scribit: Quatuor evangelia annii 
+      <lb ed="#B" n="96"/>ante adventum Christi in carne circiter sercentio 
+      <lb ed="#B" n="97"/>Spiritu Dei revelante praevidit, prophetiam quatuo 
+      <lb ed="#B" n="98"/>evangeliorum eimilitudine quatuor animalium, quo 
+      <lb ed="#B" n="99"/>rum primum hominis, cecundum leonis, tertium 
+      vi<lb ed="#B" n="100" break="no"/>tuli, quartum aquilae abeolutiseime exprimene, in 
+      <lb ed="#B" n="101"/>quibus eingulis vingula de Christo cacramenta 
+      fiqu<lb ed="#B" n="102" break="no"/>rantur. In hominis facie nativitas ejus in carne? in 
+      <lb ed="#B" n="103"/>leonis, rugitus praedicationis evangelicae seu 
+      resur<lb ed="#B" n="104" break="no"/>rectionis cacramentum; in vituli, sacerdotium 
+      aeter<lb ed="#B" n="105" break="no"/>ium; in aquilae, divinilatio mysterium propagandae 
+      <lb ed="#B" n="106"/>toto mundo ecclesiae prodendum. Cum quo 
+      con<lb ed="#B" n="107" break="no"/>gruit illud Gregorii: Redemtor noster, homo 
+      na<lb ed="#B" n="108" break="no"/>scendo; vituluo moriendo; leo resurgendo; aquila 
+      <lb ed="#B" n="109"/>ascendendo factus est. Alii tamen aliter visionem 
+      <lb ed="#B" n="110"/>illam propheticam explicant. Confer Justin. in 
+      <lb ed="#B" n="111"/>quaest. et resp ad orthod. q. 44. pag. 325. 4* 
+      Mor<lb ed="#B" n="112" break="no"/>tuus est Ezechiel in Chaldaea a duce gentis suae 
+      <lb ed="#B" n="113"/>quem ipse de cultu xml:idolorum reprehenderat, 
+      obtrun<lb ed="#B" n="114" break="no"/>catus, sepultusque est in terra Spyriorum in 
+      agr<lb ed="#B" n="115" break="no"/>Maur in monumento Sem et Arphaxad 
+      progenito<lb ed="#B" n="116" break="no"/>rum AbrahaeApud Judaeos nemini vel 
+      prin<lb ed="#B" n="117" break="no"/>cipium Geneseos vel Canticum canticorum, vel prir 
+      <lb ed="#B" n="118"/>cipium et finem Ezechielis legere permittitur, nisi 
+      <lb ed="#B" n="119"/>aetatem sacerdotalis ministerii, hoc est trigesimum 
+      <lb ed="#B" n="120"/>annum impleverit, teste Hieronymo in epist. ad 
+      <lb ed="#B" n="121"/>Paulin. et prooem. lib. I. comment. in Ezech. Ca¬ 
+      <!--142.xml-->
+      <pb ed="#B" n="69"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>pitibus constat 48. in quibus prologum excipit ipsa 
+      <lb ed="#B" n="2"/>prophetia partim increpatoria, partim vero consola 
+      <lb ed="#B" n="3"/>toria 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e3565">
+               <lb ed="#B" n="4"/>155. 23. Daniel SN27 Dei judicium vel judicatu 
+      <lb ed="#B" n="5"/>a Domino. Si vera sunt, quae Rabbini de prophetis 
+      <lb ed="#B" n="6"/>Danielis passim recensent, post Babylonicam capti 
+      <lb ed="#B" n="7"/>vitatem non sine haesitatione recepta est in cano 
+      <lb ed="#B" n="8"/>nem; postquam vero excludi non potuit, rejecta es 
+      <lb ed="#B" n="9"/>in postremam scriptorum V. T. classem. Hebrae 
+      <lb ed="#B" n="10"/>enim Danielem referunt inter E13712 sive hagio 
+      <lb ed="#B" n="11"/>grapha, ac prolixe disputant, an vaticinium eju 
+      <lb ed="#B" n="12"/>inter immediata Spiritus sancti opera referri debea 
+      <lb ed="#B" n="13"/>an communi potius et ordinario prophetiae dono ad 
+      <lb ed="#B" n="14"/>scribi, qua de re videri potest R. Samuel Valerii in 
+      <lb ed="#B" n="15"/>prooem. comment. in Daniel, R. Joseph Albonis lib. 3 
+      <lb ed="#B" n="16"/>fundam. c. 10. Sed Galatinus lib 4. de arcan. c. I. 
+      <lb ed="#B" n="17"/>recte monet, pro propheta eum esse habendum 
+      <lb ed="#B" n="18"/>In c. 9, v. 23. et e. 10, v. 11. vocatur nsvznr ο 
+      <lb ed="#B" n="19"/>vir desiderabilium sive expetibilium, ut ei hae 
+      <lb ed="#B" n="20"/>appellatio respectu rerum, quae ipsi revelatae sunt 
+      <lb ed="#B" n="21"/>tribuatur; vel etiam vir desideratissimus, ut Deo 
+      <lb ed="#B" n="22"/>Hieronymus in <!-- line coord error -->
+      <lb ed="#B" n="23"/>peculiariter carus significetur. 
+      <lb ed="#B" n="24"/>Epist. ad Paulin. eum vocat totius mundi 
+      <lb ed="#B" n="25"/>πουῖστορα. Epiphanius haeres. 55. de eo memora 
+      <lb ed="#B" n="26"/>quod pater ejus dictus fuerit Sabaea. ** Prim. 
+      <lb ed="#B" n="27"/>pars libri, xml:id est ab initio usque ad illa verba capitis 
+      <lb ed="#B" n="28"/>secundi: Responderunt Chaldaei regi Syriace eto 
+      <lb ed="#B" n="29"/>Hebraico narratur sermone. Secunda, quae inde 
+      <lb ed="#B" n="30"/>progreditur usque ad visionem anni tertii Balthasa. 
+      <lb ed="#B" n="31"/>id est usque ad finem septimi capituli Hebraicis 
+      <lb ed="#B" n="32"/>quidem literis, sed lingua scripta est Syriaca, xml:id es 
+      <lb ed="#B" n="33"/>Chaldaica. Tertia usque ad finem 12. capitis ito 
+      <lb ed="#B" n="34"/>rum Hebraico eloquio scribitur. 4* Capitibus 
+      con<lb ed="#B" n="35" break="no"/>stat 12. quorum sex priora continent historica, 
+      se<lb ed="#B" n="36" break="no"/>posteriora vero prophetiea 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e3642">
+               <lb ed="#B" n="37"/>156. 24. Prophetae minores duodecim ex eo 
+      si<lb ed="#B" n="38" break="no"/>dicti, quod scripta eorum sint breviora prioribus 
+      <lb ed="#B" n="39"/>quatuor, majoribus propterea dictis. Augustinu 
+      <lb ed="#B" n="40"/>lib. 18. de civit. Dei c. 29. in prine. Duodecit 
+      <lb ed="#B" n="41"/>prophetae propterea dicuntur minores, quia 
+      se<lb ed="#B" n="42" break="no"/>mones eorum sunt breves in eorum comparatione 
+      <lb ed="#B" n="43"/>qui majores xml:ideo vocantur, quia prolixa volumin 
+      <lb ed="#B" n="44"/>condiderunt. Inter minores primus est Hoseas 
+      <lb ed="#B" n="45"/>cujus prophetia quamvis pluribus capitibus constet 
+      <lb ed="#B" n="46"/>quam Danielis, prolixitate tamen eidem 
+      cedi<lb ed="#B" n="47" break="no"/>g salvatorem notat, xml:ideo autem sic vocatur 
+      <lb ed="#B" n="48"/>quia salutem domui Judae annuntiavit ac 
+      typu<lb ed="#B" n="49" break="no"/>Christi salvatoris esse debuit. Dorotheus in Synope 
+      <lb ed="#B" n="50"/>notat, eum fuisse ortum ex oppido Belomoth in 
+      <lb ed="#B" n="51"/>tribu Isaschar. Drusius in Hoseam part. 3. legi. 
+      <lb ed="#B" n="52"/>Bethsemes, quae recensetur inter urbes illius tribus 
+      <lb ed="#B" n="53"/>Jos. 19, π. 22. cui euffragatur Hieronymus si 
+      <lb ed="#B" n="54"/>acribens: Hoseas de tribu Isaschar fuit ortus in 
+      <lb ed="#B" n="55"/>Bethsemes, quae verba citantur in glossa ordinaris 
+      <lb ed="#B" n="56"/>Jos. 1. v. 1. Parens ejus nominatur Beeri c. 1, v.. 
+      <lb ed="#B" n="57"/>cujus status et conditio ignoratur. Rabbini haben 
+      <lb ed="#B" n="58"/>regulam: Quancdo in principio alicujus propheta 
+      <lb ed="#B" n="59"/>patris nomen exprimitur. propheta fuisse intelligitur 
+      <lb ed="#B" n="60"/>Sed haec regula nondum est satis firmiter demon 
+      <lb ed="#B" n="61"/>strata. Prophetavit autem Hoseas ante captivi- 
+      <lb ed="#B" n="62"/>
+               <!-- line coord error -->
+               <!--142.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="63"/>tatem Babylonicam tempore regis Jeroboami sul 
+      <lb ed="#B" n="64"/>quatuor regibus Judae Usia, Jothan, Achaz et 
+      <lb ed="#B" n="65"/>Ezechiae, ac συγχρόνους habuit Jonam 2. Reg. 14. 
+      <lb ed="#B" n="66"/>v. 26. Esaiam, Esa 1, v. 1. Amos c. 1, v. 1. e. 
+      <lb ed="#B" n="67"/>Micheam c. 1, v. 1. qui omnes regno Israëlis 
+      exi<lb ed="#B" n="68" break="no"/>tium denuntiarunt. De stylo hujus prophetae sic 
+      lo<lb ed="#B" n="69" break="no"/>quitur Hieronymus in prolog. super duod. 
+      prophe<lb ed="#B" n="70" break="no"/>cas: Hoseas commaticus est et quasi per sententias 
+      <lb ed="#B" n="71"/>loquitur. Augustinus lib. 18. de civit. Dei c. 28 
+      <lb ed="#B" n="72"/>Hoseas propheta quanto profundius loquitur, tante 
+      <lb ed="#B" n="73"/>operosius penetratur. Capitibus constat 14. ac di 
+      <lb ed="#B" n="74"/>vidi potest in titulum et ipsam prophetiam, quae 
+      <lb ed="#B" n="75"/>tum invectivo tum consolatorio sermone absol 
+      <lb ed="#B" n="76"/>vitur 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e3738">
+               <lb ed="#B" n="77"/>157. 2. Joel 587) quidam vertunt incipiens; 
+      qui<lb ed="#B" n="78" break="no"/>dam Domini descensus. Natus et sepultus est 
+      <lb ed="#B" n="79"/>in agro terrae Cananaeae Bethoron, patre ctura 
+      <lb ed="#B" n="80"/>quod interpretantur latitudo vel ostium Domini vel 
+      <lb ed="#B" n="81"/>aperiens Deus, fuitque de tribu Ruben. Quia nullam 
+      <lb ed="#B" n="82"/>omnino facit mentionem Israëlis et decem tribuum 
+      <lb ed="#B" n="83"/>inde colligitur ad regnum Judae et Jerusalem 
+      per<lb ed="#B" n="84" break="no"/>tinere, quicquid propheta loquitur. Hieronymus 
+      <lb ed="#B" n="85"/>statuit, iisdem temporibus et regibus ipsum 
+      prophe<lb ed="#B" n="86" break="no"/>tasse, quibus Hoseas prophetavit. Quidam existi 
+      <lb ed="#B" n="87"/>mant ipsum secutum fuisse Esaiam et Hoseam de 
+      <lb ed="#B" n="88"/>regno Judaico per Babylonios vastando vaticinantes 
+      <lb ed="#B" n="89"/>ac post devastationem Israëlitici regni ab Hosea 
+      <lb ed="#B" n="90"/>praedietam coepisse vaticinari de regno Judaico 
+      <lb ed="#B" n="91"/>propediem per Babylonios vastando. Temporibus 
+      <lb ed="#B" n="92"/>regis Ezechiae ipsum prophetasse omnes 
+      tempori<lb ed="#B" n="93" break="no"/>circumstantiae ostendunt. Capitibus constat tribus 
+      <lb ed="#B" n="94"/>quae partim exhortationem ad poenitentiam, partim 
+      <lb ed="#B" n="95"/>consolationem poenitentibus propositam continent
+</p>
+            <p xml:id="zef3dd-d1e203-d1e3782">
+               <lb ed="#B" n="96"/>158. 3. Amos O73 onus, quia est vehemens! 
+      <lb ed="#B" n="97"/>propheta, qui populo ob impietatem durum onus 
+      <lb ed="#B" n="98"/>1. e. gravissimas poenas denuntiat. Lutherus in 
+      <lb ed="#B" n="99"/>praefat. German. reddit, onustus reprehensionibus 
+      <lb ed="#B" n="100"/>unde ipse statim in inscriptione dicit 87mz. 3722 
+      <lb ed="#B" n="101"/>quasi dicat verba gravia, quae terra non sustines 
+      <lb ed="#B" n="102"/>ut per calumniam dicebat Amazia e. 7, v. 10. Hie 
+      <lb ed="#B" n="103"/>ronymus vertit βαστάζων. Prologus Latinus in 
+      <lb ed="#B" n="104"/>hunc prophetam dicit, eum vocari onustum, quia 
+      <lb ed="#B" n="105"/>spirituali gratia plenus est. Atqui gratia 
+      incom<lb ed="#B" n="106" break="no"/>mode vocatur onus. R. Phinees nominis rationem 
+      <lb ed="#B" n="107"/>hanc reddit, quod habuerit linquam oneratam seu 
+      <lb ed="#B" n="108"/>impeditam. At hoc descendit ex incerta traditione. 
+      <lb ed="#B" n="109"/>Oriundus fuit ex oppido Thecoa in tribu Juda 
+      <lb ed="#B" n="110"/>quod sex milliaribus a Bethlehem meridiem 
+      versu<lb ed="#B" n="111" break="no"/>distat et ex pastore factus est propheta c. 1, v. 1. 
+      <lb ed="#B" n="112"/>c. 7, v. 14. Vaticinatus est eo tempore, quo in regne 
+      <lb ed="#B" n="113"/>Juda imperabat Usias, alias Asarias dictus, et in 
+      <lb ed="#B" n="114"/>regno Israël rerum potiebatur Jeroboam filius Joad 
+      <lb ed="#B" n="115"/>Fuit ergo σύγχρονoς Esaiae et Hoseae, posterior 
+      <lb ed="#B" n="116"/>autem ratione temporis Jonâ. **A Jeroboamo 
+      <lb ed="#B" n="117"/>quem de duobus vitulis aureis reprehenderat, clave 
+      <lb ed="#B" n="118"/>circa tempora confixus occubuit.** Praecipuun 
+      <lb ed="#B" n="119"/>prophetiae argumentum est, quod Israëlitici regni 
+      <lb ed="#B" n="120"/>eversionem praedicit. Specialiter enim huic regno 
+      <lb ed="#B" n="121"/>Israëlis seu decem tribubus prophetavit, ut appare 
+      <lb ed="#B" n="122"/>ex o. 1, v. 1. c. 8. v. 1. c. 4. v. 1. c. 5, v. 1. de. 
+      <!--143.xml-->
+      <pb ed="#B" n="70"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>regno Judae paucissima et ὡς ἐν παρόδῳ profert 
+      <lb ed="#B" n="2"/>c. 2. v. 4. c. 6. v. 1. Capitibus in universum 
+      con<lb ed="#B" n="3" break="no"/>stat novem, quae distribui possunt in duas parte 
+      <lb ed="#B" n="4"/>Prior est generalis inscriptio c. 1, v. 1. posterio 
+      <lb ed="#B" n="5"/>prophetia ipsa, quae continet tum comminatione 
+      <lb ed="#B" n="6"/>legales, directas partim ad hostes populi Dei c. I et 
+      <lb ed="#B" n="7"/>2. ad v. 4. partim ad Judaeos c. 2. v. 4 et 5. partin. 
+      <lb ed="#B" n="8"/>ad Israëlitas a c. 2. v. 6. usque ad e. 9, v. 11. tum 
+      con<lb ed="#B" n="9" break="no"/>solationes evangelicas a v. 11. c. S. usque ad libri finem 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e3869">
+               <lb ed="#B" n="10"/>159. 4. Obadias. 713723 servus Dei vel opu 
+      <lb ed="#B" n="11"/>Dei a radice 727 et *) quod est contractum e 
+      <lb ed="#B" n="12"/>–7. Ex qua tribu hic propheta oriundus fueri 
+      <lb ed="#B" n="13"/>aut quo tempore prophetaverit, non satis liquid 
+      <lb ed="#B" n="14"/>constat. Quidam probabiliter statuunt, quod vixeri 
+      <lb ed="#B" n="15"/>circa initium captivitatis Babylonicae et Judaei 
+      <lb ed="#B" n="16"/>non ita pridem in Babylonem adductis concionatu 
+      <lb ed="#B" n="17"/>fuerit. Alius fuit ab Obadia, cujus mentio fit i 
+      <lb ed="#B" n="18"/>Reg. 18, v. 3. quia temporis ratione eodem est po 
+      <lb ed="#B" n="19"/>sterior, ac ferme σύγχρονoς Jeremiae. ** Antequam 
+      <lb ed="#B" n="20"/>prophetare coepisset, semicenturionis seu quin 
+      <lb ed="#B" n="21"/>quagenarii dignitatem gessit apud Ahasiam regen 
+      <lb ed="#B" n="22"/>Israël, a quo cum post duos quinquagenarios 
+      ca<lb ed="#B" n="23" break="no"/>lesti igne absumtos missus esset ad comprehender 
+      <lb ed="#B" n="24"/>dum Eliam prophetam, deserto rege ipsi adhaesit e 
+      <lb ed="#B" n="25"/>discipulus ejus factus est. Quidam ex Rabbinis statu 
+      <lb ed="#B" n="26"/>unt eum fuisse proselytum ex Idumaea, eo quo 
+      <lb ed="#B" n="27"/>libellus prophetiae ipsius contra Idumaeos, xml:id est 
+      <lb ed="#B" n="28"/>Chaldaeos ac gentes, quae afflixerunt Israël, potis 
+      <lb ed="#B" n="29"/>simum sit conscriptus.** Capite absolvitur 
+      un<lb ed="#B" n="30" break="no"/>cujus duae sunt partes, prior legalis, in qua Idu 
+      <lb ed="#B" n="31"/>maeis populi Judaici cladi insultantibus finalem in 
+      <lb ed="#B" n="32"/>teritum praedicit, eorumque delicta exitii illius 
+      cau<lb ed="#B" n="33" break="no"/>sas redarguit. Posterior evangelica, in qua de 
+      spir<lb ed="#B" n="34" break="no"/>tuali liberatione verorum Israëlitarum per Christum 
+      <lb ed="#B" n="35"/>praestanda vaticinatur. Integra quaedam dicta cor 
+      <lb ed="#B" n="36"/>tra Idumaeos cum Jeremia c. 49. et Ezechiele c. 25. 
+      <lb ed="#B" n="37"/>habet communis 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e3932">
+               <lb ed="#B" n="38"/>160. 5. Jonas. *137 columba, cujus appellation 
+      <lb ed="#B" n="39"/>ratio non satis perspecta. Fuit natione Judaeu 
+      <lb ed="#B" n="40"/>oriundus ex Gath-chepher, quae est civitas in tribu 
+      <lb ed="#B" n="41"/>Sebulon Jos. 19, v. 13. ** Epiph. tradit, eum ne 
+      <lb ed="#B" n="42"/>tum in Gath seu in Chavathamaum in tribu Dar 
+      <lb ed="#B" n="43"/>haud longe ab Azoto urbe Palaestinorum mari v. 
+      <lb ed="#B" n="44"/>cina, fuisseque filium viduae Sareptanae, quem 
+      <lb ed="#B" n="45"/>Elias propheta in Sarepta Sidoniae mortuum suse 
+      <lb ed="#B" n="46"/>tavit, matre postea dicente ad eum, Nunc cognove 
+      <lb ed="#B" n="47"/>quia vir Dei es tu et veritas in ore tuo etc. et 
+      <lb ed="#B" n="48"/>ob hanc causam pueram vocatum fillum Amitha 
+      <lb ed="#B" n="49"/>id est; veritatis, eo quod verum dicente Elia pro 
+      <lb ed="#B" n="50"/>pheta iterum in hanc lucem editus sit.** Patre ni 
+      <lb ed="#B" n="51"/>tus Amithal c. 1, v. 1., prophetavit tempore Jerobo 
+      <lb ed="#B" n="52"/>ami filii oas regia Israelis in Ascyria et Babi 
+      <lb ed="#B" n="53"/>lonia Phul Belocho, ut colligitur ex 2. Reg. 14. v. 2. 
+      <lb ed="#B" n="54"/>ubi prophetia ipsius adducitur. Ablegatus fuit, 
+      <lb ed="#B" n="55"/>Deo in Niniven Aesyriaeae monarchiae metropolii 
+      <lb ed="#B" n="56"/>Genes. 10, v. II. quam vocationem cum initio recr 
+      <lb ed="#B" n="57"/>taret, praesentissimo implicitus est periculo, ex qui 
+      <lb ed="#B" n="58"/>divinitus liberatus partes sibi commissae legationis 
+      <lb ed="#B" n="59"/>fidoliter obiit, et per poenitentiae praedicationem 
+      <lb ed="#B" n="60"/>Ninivitas ab imminente exitio ipsis praedicto inco 
+      <!--143.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="61"/>lumes praestitit. Capitibus constat quatuor, cuju 
+      <lb ed="#B" n="62"/>partes sunt duaei 1. Historia Jonae tergivertantis 
+      <lb ed="#B" n="63"/>et divinam vocationem recusantis, qui ob hanc re 
+      <lb ed="#B" n="64"/>cusationem divinitus est punitus c. 1. sed postes 
+      <lb ed="#B" n="65"/>per miraculum liberatus e. 2. 2. Historia Jona 
+      <lb ed="#B" n="66"/>iteratam vocationem acceptantis, qui per exitii im 
+      <lb ed="#B" n="67"/>minentis praedictionem Ninivitas ad poenitentiam 
+      <lb ed="#B" n="68"/>perduxit c. 8. quod ipsum aegre ferens divino ora 
+      <lb ed="#B" n="69"/>culo est repressus c. 4. Hieronymus valde miratur 
+      <lb ed="#B" n="70"/>LXX interpp. Jon. 3, v. 4. ete. quadraginta 
+      ver<lb ed="#B" n="71" break="no"/>tisse tribus diebus, cum in Hebraeo nec syllabarum, 
+      <lb ed="#B" n="72"/>nec accentuum, nec verbi ulla sit communitas, in 
+      <lb ed="#B" n="73"/>quibus angustiis explicandis Augustinus lib. 18. 
+      de<lb ed="#B" n="74" break="no"/>civit. Dei e. 44. vehementer laborat, nec se satis 
+      <lb ed="#B" n="75"/>extricare valet. Sed simplicissime respondetur, Grae 
+      <lb ed="#B" n="76"/>cam versionem hic esse corruptam, cum quaedam 
+      <lb ed="#B" n="77"/>exemplaria habeant τεσσαρίκοντα 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4025">
+               <lb ed="#B" n="78"/>161. 6. Micheas.*1277 humiliatus. Fuit oriundus 
+      <lb ed="#B" n="79"/>ex civitate Maresa in tribu Juda Jos. 15, v. 44. 
+      <lb ed="#B" n="80"/>Prophetavit temporibus Joatham, Achas et Ezechia 
+      <lb ed="#B" n="81"/>regum Judae, ut constat ex inscriptione c. 1, v. 
+      <lb ed="#B" n="82"/>ac fuit fere σύγχρονoς Esaiae, eum quo in multis 
+      con<lb ed="#B" n="83" break="no"/>venit. Alius ergo fuit a Micha, qui impio regi 
+      <lb ed="#B" n="84"/>Achab interitum praedixit 1. Reg. 22. v. 8. 2. Pa 
+      <lb ed="#B" n="85"/>ralip. 18, v. 7. eo enim temporis ratione longe es 
+      <lb ed="#B" n="86"/>posterior. Capitibus constat septem, quae 
+      conti<lb ed="#B" n="87" break="no"/>nent tum legales conciones, in quibus utrique regno 
+      <lb ed="#B" n="88"/>et Judae et Israël praedicitur eversio propter xml:idolo 
+      <lb ed="#B" n="89"/>latriam ac impietatem; tum evangelicas consolo 
+      <lb ed="#B" n="90"/>tiones de adventu Messiae et spirituali liberatione 
+      <lb ed="#B" n="91"/>per ipsum praestanda, cujus typus fuit corporalis 
+      <lb ed="#B" n="92"/>liberatio ex Babylonica captivitate. Prae omnibu 
+      <lb ed="#B" n="93"/>prophetis hoc singulare obtinet, quod locum Domi 
+      <lb ed="#B" n="94"/>nicae nativitatis determinat c. 5, v. 2. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4065">
+               <lb ed="#B" n="95"/>162. 7. Nahum S)7ι2 concionator sive doctor 
+      <lb ed="#B" n="96"/>poenitentiae vel consolator. Quo tempore vixerit e 
+      <lb ed="#B" n="97"/>prophetaverit, non satis exacte constat. Ex 
+      circum<lb ed="#B" n="98" break="no"/>stantiis probabiliter colligitur, quod vixerit ant 
+      <lb ed="#B" n="99"/>Babylonieam captivitatem circa finem regni Hiskia 
+      <lb ed="#B" n="100"/>ac fuerit σύγχρoνos Micheae 50 annis Jona poste 
+      <lb ed="#B" n="101"/>rior. Patria ejus fuit Elcos urbs ignota c. 1, v. I. 
+      <lb ed="#B" n="102"/>1. Quidam statuunt, Elcos fuisse pagum in 
+      tribi<lb ed="#B" n="103" break="no"/>Simeon. Denuntiat Assyriis populum Domini afflic 
+      <lb ed="#B" n="104"/>turis, cumprimis vero urbi Ninive Assyriaci regni 
+      <lb ed="#B" n="105"/>metropoli interitum. Quamvis enim Ninivitae tem 
+      <lb ed="#B" n="106"/>poribus Jonae egerant poenitentiam, per quam 
+      effu<lb ed="#B" n="107" break="no"/>gerunt poenam divinitus ipsis denuntiatam, postes 
+      <lb ed="#B" n="108"/>camen ad pristinam impietatem redierunt, in omn 
+      <lb ed="#B" n="109"/>scelerum genere sese gnaviter exercuerunt, Deum 
+      <lb ed="#B" n="110"/>gnominia affecerunt ac populum ejus graviter 
+      affl<lb ed="#B" n="111" break="no"/>xerunt, unde in poenas dudum promeritas tandem 
+      <lb ed="#B" n="112"/>inciderunt. Capitibus constat tribus, quae continemt 
+      <lb ed="#B" n="113"/>tum interitus Assyriorum praedictionem c. 1. tum 
+      <lb ed="#B" n="114"/>causarum illius explicationem c. 2. et 3. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4111">
+               <lb ed="#B" n="115"/>163. 8. Habacuc papari amplexator seu 
+      consola<lb ed="#B" n="116" break="no"/>tor aut luctator. Quo tempore et loco vixerit, 
+      no<lb ed="#B" n="117" break="no"/>exprimitur. Ex circumstantiis probabiliter colligitur. 
+      <lb ed="#B" n="118"/>quod vixerit circa tempora Jeremiae vel paulo ante 
+      <lb ed="#B" n="119"/>quia vaticinatur de Babyloniis, quod regnum Judae 
+      <lb ed="#B" n="120"/>vastaturi erant. In additamentio Danielis apocry¬ 
+      <!--144.xml-->
+      <pb ed="#B" n="71"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>phis do ipso commemoratur, quod cibum in foves 
+      <lb ed="#B" n="2"/>leonum prophetae Danieli attulerit. Capitibus 
+      cor<lb ed="#B" n="3" break="no"/>stat tribus, quae continent I. querelam de gravis 
+      <lb ed="#B" n="4"/>simis Judaici populi peccatis. 2. praedictionem d 
+      <lb ed="#B" n="5"/>secuturis poenis per Chaldaeos irrogandis 3. 
+      conso<lb ed="#B" n="6" break="no"/>lationem de futura liberatione 4. exhortationem ad 
+      <lb ed="#B" n="7"/>patientiam et preces, quarum formulam praescribis 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4148">
+               <lb ed="#B" n="8"/>164. 9. Sophonias. *1)32X secretarius Domin. 
+      <lb ed="#B" n="9"/>vel apeculator Domini. Fuit filius Chusi, abnepos 
+      <lb ed="#B" n="10"/>Ezechiae. Prophetavit temporibus Josiae regis Jud 
+      <lb ed="#B" n="11"/>ac fuit σύγχρoνoς Jeremiae, teste Augustino lib. 18. 
+      <lb ed="#B" n="12"/>de civit. Dei e. 33. Ludovicus Vives in comm. illius 
+      <lb ed="#B" n="13"/>loci de eo scribit: Hunc Hebraei prophetam et 
+      pro<lb ed="#B" n="14" break="no"/>phetarum filium, nepotem et abnepotem fuisse 
+      tro<lb ed="#B" n="15" break="no"/>dunt. Pater enim fuit Chusi, avus Godolias, proo 
+      <lb ed="#B" n="16"/>vus Amarias, atavus Ezechias, prophetae omnes 
+      <lb ed="#B" n="17"/>nam ajunt omnes majores, quos in titulo nomina 
+      <lb ed="#B" n="18"/>aliquis, etiam prophetas fuisse. Sed haec reguli 
+      <lb ed="#B" n="19"/>Rabbinorum est incerta. Vaticinatur Sophonias prae 
+      <lb ed="#B" n="20"/>cipue de regni Judae eversione. Capitibus consta 
+      <lb ed="#B" n="21"/>tribus, quorum primum est comminatorium continent 
+      <lb ed="#B" n="22"/>praedictionem de visitatione per Chaldaeos; secui 
+      <lb ed="#B" n="23"/>dum exhortatorium ad poenitentiam; tertium mixturm 
+      <lb ed="#B" n="24"/>ex comminatione et consolatione continens praedi 
+      <lb ed="#B" n="25"/>ctionem de vocatione gentium et ecclesiae dilata 
+      <lb ed="#B" n="26"/>tione temporibus Messiae expectanda 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4192">
+               <lb ed="#B" n="27"/>165. 10. Haggaeus. 377 festivus, aut festum 
+      cel<lb ed="#B" n="28" break="no"/>brans vel diligens. Prophetare coepit post Babylo 
+      <lb ed="#B" n="29"/>nicam captivitatem anno secundo Darii Persarum 
+      <lb ed="#B" n="30"/>regis, ut constat ex Esdr. 5, v. 1. et Hagg. 1, V. . 
+      <lb ed="#B" n="31"/>quem Darium fuisse Hystaspis filium praestantissim. 
+      <lb ed="#B" n="32"/>chronologi statuunt. Per antecessorem hujus Dari 
+      <lb ed="#B" n="33"/>regem Cambysen (quem Esdras vocat Ahasveros et 
+      <lb ed="#B" n="34"/>Arthasasta) reparatio templi erat impedita, sed hi 
+      <lb ed="#B" n="35"/>Darius Judaeis denuo potestatem dedit templum 
+      <lb ed="#B" n="36"/>reaedificandi, in quo opere cum Judaei essent re 
+      <lb ed="#B" n="37"/>missi ac desides, et de privatis aedibus magis quam 
+      <lb ed="#B" n="38"/>de templo restaurando soliciti, excitavit DEUS hunc 
+      <lb ed="#B" n="39"/>prophetam Haggaeum et post duos menses ejus 
+      co<lb ed="#B" n="40" break="no"/>legam Zachariam, qui hanc populi oscitantiam rec 
+      <lb ed="#B" n="41"/>arguerent ac de praestantia secundi templi per 
+      <lb ed="#B" n="42"/>adventum Messiae ipsi concilianda vaticinarentur 
+      <lb ed="#B" n="43"/>Capitibus constat duobus, quorum prius est 
+      exhor<lb ed="#B" n="44" break="no"/>tatorium ad templi structuram pertexendam, poste 
+      <lb ed="#B" n="45"/>rius consolatorium de templi hujus usque ad 
+      Me<lb ed="#B" n="46" break="no"/>siae adventum conservatione. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4238">
+               <lb ed="#B" n="47"/>166. 11. Zacharias. *1772½ memoria Domini, me 
+      <lb ed="#B" n="48"/>mor Domini. ** Visiones ejus a Danielis visionibus 
+      <lb ed="#B" n="49"/>non multum sunt absimiles ** Fuit filius 
+      Barachia<lb ed="#B" n="50" break="no"/>nepos Iddonis. Quidam putant, hunc esse eum, 
+      d<lb ed="#B" n="51" break="no"/>quo Christus dicit Matth. 23, v. 34. quod Judaei 
+      eun<lb ed="#B" n="52" break="no"/>interfecerint inter templum et altare, cum nomina 
+      <lb ed="#B" n="53"/>congruant. Sed rectius statuitur, Christum loqui de 
+      <lb ed="#B" n="54"/>Zacharia filio Jojadae, quem Scriptura dicit a 
+      Ju<lb ed="#B" n="55" break="no"/>daeis lapidatum in atrio templi, hoc est, inter 
+      tem<lb ed="#B" n="56" break="no"/>plum et altare holocaustorum 2. Paral. 24, v. 21. 
+      <lb ed="#B" n="57"/>fuit enim hic Jojadas etiam dictus Barachias. Pro 
+      <lb ed="#B" n="58"/>phetavit hie noster Zacharias itidem post captivita 
+      <lb ed="#B" n="59"/>tem Babylonicam, ae datus est Haggaeo collega 
+      <lb ed="#B" n="60"/>postquam is per duos menses jam docuisset. Capi-
+      <lb ed="#B" n="61"/>
+               <!--144.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>tibus constat 14. in quibus continetur: 1. 
+      exhorta<lb ed="#B" n="63" break="no"/>tio ad populum ex captivitate Babylonica, ut seriam 
+      <lb ed="#B" n="64"/>igat poenitentiam c. I. usque ad v. 7. 2. 
+      Comme<lb ed="#B" n="65" break="no"/>moratio quarundam visionum, per quas tum de ac 
+      <lb ed="#B" n="66"/>ceptis tum de exspectandis adhuc beneficiis 
+      admo<lb ed="#B" n="67" break="no"/>nentur usque ad c. 7. 3. Informatio de vero 
+      jeju<lb ed="#B" n="68" break="no"/>nio et vero Dei cultu usque ad c. 8. 4. 
+      Vaticinati<lb ed="#B" n="69" break="no"/>de exstirpatione hostium populi Israëlitici, de advento 
+      <lb ed="#B" n="70"/>Christi et ipsius beneficiia erga ecclesiam, usque ad 
+      <lb ed="#B" n="71"/>finem libr. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4299">
+               <lb ed="#B" n="72"/>167. 12. Malachias. *28272 nuntius sive 
+      ange<lb ed="#B" n="73" break="no"/>lus. Rabbini putant hunc Malachiam esse Esdram 
+      <lb ed="#B" n="74"/>cujus liber canonicus exstat, quod colligunt ex eo, 
+      <lb ed="#B" n="75"/>quia eadem peccata arguit, quae ab Esdra fuere 
+      re<lb ed="#B" n="76" break="no"/>prehensa. Augustinus lib. 20. de civit. Dei c. 25. 
+      <lb ed="#B" n="77"/>Propheta Malachiel sive MALACHIAS, qui et 
+      <lb ed="#B" n="78"/>Angelus dictus est, qui etiam Esdras sacerdos, cu 
+      <lb ed="#B" n="79"/>jus alia in canonem recepta sunt, ab aliquibus 
+      cre<lb ed="#B" n="80" break="no"/>ditur, nam de illo hanc esse Hebraeorum opinionem 
+      <lb ed="#B" n="81"/>dicit Hieronymus. Sed hoc argumentum non est 
+      <lb ed="#B" n="82"/>satis firmum. Quidam putant Malachiae nomen non 
+      <lb ed="#B" n="83"/>esse proprium sed appellativum omnibus prophetis 
+      <lb ed="#B" n="84"/>commune, ac per illud hic intelligi Haggaeum, qui 
+      <lb ed="#B" n="85"/>et ipse vocatur angelus Domini Hagg. i, vers. 13 
+      <lb ed="#B" n="86"/>sed hoc est aeque incertum ac prius, quod fuerit 
+      <lb ed="#B" n="87"/>Esdras. **A quibusdam putatur fuisse Angelus 
+      <lb ed="#B" n="88"/>ui de caelo veniens assumserit corpus, ut Israëli 
+      <lb ed="#B" n="89"/>quae a DEO mandata fuerant, vaticinaretur, quam 
+      <lb ed="#B" n="90"/>opinionem Hieronymus Origeni tribuit. Epiphaniu 
+      <lb ed="#B" n="91"/>vero scribit eum natum esse in oppido Sopha, in 
+      <lb ed="#B" n="92"/>tribu Zabulon, sortitumque fuisse nomen Angeli 
+      <lb ed="#B" n="93"/>quia esset forma praestanti et moribus inculpatissi 
+      <lb ed="#B" n="94"/>mis praeditus ** Hic Malachias fuit ultimus pro 
+      <lb ed="#B" n="95"/>pheta V. T. quem in N. T. ordine excepit Johanne 
+      <lb ed="#B" n="96"/>Baptista Messiae praecursor, de quo hio noster 
+      vati<lb ed="#B" n="97" break="no"/>cinatur c. 3. v. 1. c. 4. v. 5. Augustinus lib. 17. de 
+      <lb ed="#B" n="98"/>civit. Dei c. 24. Toto illo tempore, ex quo Judaci 
+      <lb ed="#B" n="99"/>cedierunt de Babylonia post Malachiam, Haggaeum 
+      <lb ed="#B" n="100"/>et Zachariam, qui tunc prophetarunt et Esdram. 
+      <lb ed="#B" n="101"/>non habuerunt prophetas usque ad salvatoris adven 
+      <lb ed="#B" n="102"/>tum. Capitibus constat 4 quae distribui possum 
+      <lb ed="#B" n="103"/>in duas partes, quarum prior est objurgatoria, in 
+      <lb ed="#B" n="104"/>qua et sacerdotes et populus taxantur, tum ob ne 
+      <lb ed="#B" n="105"/>gligentiam et fraudes in cultu divino et avaritiam in 
+      <lb ed="#B" n="106"/>lacrificiis, tum ob violationem legum conjugalum 
+      <lb ed="#B" n="107"/>et blasphemias c. I. et 2., posterior consolatoria, in 
+      <lb ed="#B" n="108"/>qua tum Messiae, tum ejus prodromi Johannis 
+      Ba<lb ed="#B" n="109" break="no"/>ptistae adventus praedicitur c. 3 et5 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4385">
+               <lb ed="#B" n="110"/>168. Atque hi sunt duodecim minores, quos ita 
+      <lb ed="#B" n="111"/>vocant, prophetae; quorum vaticinia Hebraei uno 
+      <lb ed="#B" n="112"/>libro complectuntur, quem vocant 792 221) vel 
+      <lb ed="#B" n="113"/>am quasi dicat liber duorum ac decem. Chal 
+      <lb ed="#B" n="114"/>daeis enim *71) xml:idem valet, quod apud Hebraeos 
+      <lb ed="#B" n="115"/>2 duo et 702 respondet Hebraeo 717 decem 
+      <lb ed="#B" n="116"/>Graeci appellant βίβλον δώδεκα προφητῶν. Praetes 
+      <lb ed="#B" n="117"/>hanc distributionem, qua prophetae in minores et 
+      <lb ed="#B" n="118"/>majores distinguuntur, occurrit etiam illa, qua in 
+      <lb ed="#B" n="119"/>universum omnes distinguuntur in tres classes: Ad 
+      <lb ed="#B" n="120"/>primam pertinent illi, qui prophetarunt ante 
+      capti<lb ed="#B" n="121" break="no"/>vitatem Babylonicam, qui sunt: Esaias, Jeremias, 
+      <!--145.xml-->
+      <pb ed="#B" n="72"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Hoseas, Joel, Amos, Obadias, Jonas, Micheas, Nahun 
+      <lb ed="#B" n="2"/>Habacuc et Sophonias. Ad secundam pertinem 
+      <lb ed="#B" n="3"/>qui prophetarunt in ipsa captivitate, qui sunt: Eze 
+      <lb ed="#B" n="4"/>chiel et Daniel. Ad tertiam referendi sunt, qui 
+      <lb ed="#B" n="5"/>prophetarunt post captivitatem videlicet 
+      Haggaeu<lb ed="#B" n="6" break="no"/>Zacharias et Malachias. Andreas Osiander libi 
+      <lb ed="#B" n="7"/>
+               <!-- line coord error -->
+               <lb ed="#B" n="8"/>annotat. in Jerem. c. 11. tria prophetarum genera 
+      <lb ed="#B" n="9"/>olim fuisse asserit. Primum eorum, qui quando 
+      <lb ed="#B" n="10"/>cunque res postulabat, oracula, visiones aut 
+      fatidie<lb ed="#B" n="11" break="no"/>somnia impetrabant, qualis fuit Moyses, Samuel 
+      e<lb ed="#B" n="12" break="no"/>alii, quos prisca aetas videntes, vulgus autem 
+      Ju<lb ed="#B" n="13" break="no"/>daeorum prophetas priores vocare solent. Alterur 
+      <lb ed="#B" n="14"/>genus fuit eorum, qui cum oracula, visiones aut se 
+      <lb ed="#B" n="15"/>mnia fatidiea pro suo arbitrio nunquam dicere 
+      po<lb ed="#B" n="16" break="no"/>sent, tamen quoties Deo visum esset, per eos 
+      popu<lb ed="#B" n="17" break="no"/>lum docere, aut admonere, aut objurgare, divinitu 
+      <lb ed="#B" n="18"/>inspirati prophetabant. Atque hos Judaei vulg 
+      <lb ed="#B" n="19"/>posteriores vocant eo, quod maxima pars eorum fere 
+      <lb ed="#B" n="20"/>post Salomonem sub xml:idololatris regibus fuerit, ut 
+      <lb ed="#B" n="21"/>Esaias, Jeremias, Ezechiel, et duodecim, quos vocant 
+      <lb ed="#B" n="22"/>minores, cum melius illud genus circa Davidis 
+      tem<lb ed="#B" n="23" break="no"/>pora fere desierit. Tertium genus eorum, qui quam 
+      <lb ed="#B" n="24"/>vis oracula, visiones et somnia fatidica a Deo nun 
+      <lb ed="#B" n="25"/>quam obtineant, tamen a superioris generis propho 
+      <lb ed="#B" n="26"/>tis tanquam a praeceptoribus eruditi et sancti 
+      Spir<lb ed="#B" n="27" break="no"/>tus interna unctione edocti literas propheticas rect 
+      <lb ed="#B" n="28"/>intelligunt, aliisque eas enarrare et ex eisdem 
+      peten<lb ed="#B" n="29" break="no"/>tibus recta consilia dare et quae recta ratiocination 
+      <lb ed="#B" n="30"/>ex eorundem dictis necessario consequuntur, perspi 
+      <lb ed="#B" n="31"/>cere valent. Hos prisca aetas filios prophetarum 
+      <lb ed="#B" n="32"/>Paulus autem Corinthiis scribens simpliciter eo 
+      <lb ed="#B" n="33"/>prophetas appellat 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4494">
+               <lb ed="#B" n="34"/>169. Prophetarum specifice sic vocatorum munu 
+      <lb ed="#B" n="35"/>erat. 1. Futura longe ante quam fierent, nosse et 
+      <lb ed="#B" n="36"/>praedicere, Deut. 18, v. 22. Hinc Justinus in 
+      Tr<lb ed="#B" n="37" break="no"/>phon. p. 175. Prophetas dicit esse homines beatos 
+      <lb ed="#B" n="38"/>justos, Dei amantes, Deoque ipsi caros, divini 
+      sp<lb ed="#B" n="39" break="no"/>ritus afflatu loquentes et futura vaticinantes, quo 
+      <lb ed="#B" n="40"/>impleri oporteat. 2. Dei voluntatem hominibus 
+      <lb ed="#B" n="41"/>patefacere. Mittebantur enim prophetae, docente 
+      <lb ed="#B" n="42"/>Lactantio lib. 1. Instit. c. 4. ut essent majestat. 
+      <lb ed="#B" n="43"/>ejus praecones et pravitatis humanae correctores 
+      <lb ed="#B" n="44"/>Inde August. quaest. 17. in Exod. prophetam voca 
+      <lb ed="#B" n="45"/>enuntiatorem verborum Dei. 3. Arcana interpro 
+      <lb ed="#B" n="46"/>tari, quae alias nemo facile intelligeret. Sic prophe 
+      <lb ed="#B" n="47"/>tarum officio fungebantur Joseph apud Pharaonem 
+      <lb ed="#B" n="48"/>Genes. 41. et Daniel apud Nebucadnezarem Dan. 2. 
+      <lb ed="#B" n="49"/>4. in rebus occultis, dubiis et perplexis populo 
+      cor<lb ed="#B" n="50" break="no"/>sulere 1. Sam. 9, v. 19. c. 25, v. 6. 5. Ubique vi 
+      <lb ed="#B" n="51"/>dere, ne ecclesia et respublica aliquid detrimen 
+      <lb ed="#B" n="52"/>capiat. Ideo enim vocabantur olim videntes, non 
+      <lb ed="#B" n="53"/>solum quia videbant, quae essent eventura, ac qui 
+      <lb ed="#B" n="54"/>ea, quae prophetabant, tam certa erant, ac si coram 
+      <lb ed="#B" n="55"/>ea vidissent, quas causas hujus appellationis 
+      reddi<lb ed="#B" n="56" break="no"/>Chrysostomus tom. 1. col. 718., sed etiam quia velu 
+      <lb ed="#B" n="57"/>in specula constituti vigilare debebant ac videre 
+      <lb ed="#B" n="58"/>quid e re ecclesiae ac politiae esset futurum Ezech. 3. 
+      <lb ed="#B" n="59"/>v. 2. 6. Praecipuum ac potissimum eorum 
+      officiun<lb ed="#B" n="60" break="no"/>erat, omnia de Christo prophetare, quae et implet 
+      <lb ed="#B" n="61"/>credimus, et impleri cernimus et implenda consid 
+      <!--145.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>mus, ut loquitur Augustinus lib. 7. de civit. Dei 
+      <lb ed="#B" n="63"/>c. 32. Omnia enim, quae in illorum libris continem 
+      <lb ed="#B" n="64"/>tur, vel de Christo, vel propter Christum dicta sunt 
+      <lb ed="#B" n="65"/>ait xml:idem lib. 12. contra Faustum c. 7. quod proba 
+      <lb ed="#B" n="66"/>tur ab eo per totum librum 18. de civit. Dei, ut 
+      <lb ed="#B" n="67"/>etiam a Justino in dial. cum Tryphon., Tertulliane 
+      <lb ed="#B" n="68"/>lib. 9. contra Judaeos, Cypriano lib. contra Judaeos 
+      <lb ed="#B" n="69"/>Chrysostomo homil. 4. adv. Jud. Nicetam lib. 3. The 
+      <lb ed="#B" n="70"/>sauri c. 1., Lyrano lib. contra Judaic. perfidiam ete¬ 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4581">
+               <lb ed="#B" n="71"/>170. Quaecunque igitur in prophetarum tam 
+      ma<lb ed="#B" n="72" break="no"/>jorum quam minorum scriptis occurrunt, distingui 
+      <lb ed="#B" n="73"/>possunt in duo generalia capita, videl. quod quae 
+      <lb ed="#B" n="74"/>dam sint historica, quaedam dogmatica. Dogma 
+      <lb ed="#B" n="75"/>tica sunt vel legalia vel evangelica. Legalia 
+      con<lb ed="#B" n="76" break="no"/>tinent exhortationes cum annexis promissionibus vel 
+      <lb ed="#B" n="77"/>dehortationes cum annexis comminationibus, quarum 
+      <lb ed="#B" n="78"/>quaedam concernunt populum Dei in regno Israe 
+      <lb ed="#B" n="79"/>et Juda, quaedam vero hostes populi Dei, videlice 
+      <lb ed="#B" n="80"/>Babylonios, Assyrios, Idumaeos, Moabitas ete. Ac 
+      <lb ed="#B" n="81"/>evangelica pertinent vaticinia de Christo, cujus 
+      nati<lb ed="#B" n="82" break="no"/>vitatem, doctrinam, miracula, passionem, mortem, 
+      <lb ed="#B" n="83"/>resurrectionem, ascensionem ete. verbis claris et per 
+      <lb ed="#B" n="84"/>spicuis praenuntiantm 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4614">
+               <lb ed="#B" n="85"/>171. Quamvis vero propheticorum scriptorum cano 
+      <lb ed="#B" n="86"/>nica auctoritas a quibusdam haereticis olim in 
+      du<lb ed="#B" n="87" break="no"/>bium fuerit revocata. (Theodorus Mopsuestiae epi 
+      <lb ed="#B" n="88"/>seopus dicebat, prophetas nihil de Christo unquan 
+      <lb ed="#B" n="89"/>fuisse raticinatos, ut colligitur ex fragmentis 
+      com<lb ed="#B" n="90" break="no"/>mentariorum ejus, quae in V. Synodo collat. 4. re 
+      <lb ed="#B" n="91"/>citantur. Apelles prophetas, quia specie tenus 
+      con<lb ed="#B" n="92" break="no"/>traria proposuisse viderentur, contrario Spiritu in 
+      <lb ed="#B" n="93"/>spiratos multa praedixisse incerta dicebat, teste 
+      Eu<lb ed="#B" n="94" break="no"/>sebio lib. 5. Hist. eccles. c. 13. Ebionaei propheta 
+      <lb ed="#B" n="95"/>non admittebant excepto Moyse, in quo pro libiti 
+      <lb ed="#B" n="96"/>quaedam recipiebant, quaedam rejiciebant. Quibus 
+      <lb ed="#B" n="97"/>perquam affines sunt Photiniani propheticorum scri 
+      <lb ed="#B" n="98"/>ptorum auetoritatem oblique convellentes) tamer 
+      <lb ed="#B" n="99"/>consentienti ecclesiae tum Israëliticae tum Christi 
+      <lb ed="#B" n="100"/>anae suffragio hi libri prophetici in canonem sumt 
+      <lb ed="#B" n="101"/>recepti, ac Christus et apostoli in N. T. perspicue 
+      <lb ed="#B" n="102"/>illud ipsum confirmant. Prodest igitur diligenter 
+      <lb ed="#B" n="103"/>observare, quae dicta ab evangelistis et apostolis 
+      <lb ed="#B" n="104"/>atque ab ipso Christo ex propheticis scriptis in N 
+      <lb ed="#B" n="105"/>T citentur, quia allegationes istae de divina et ea 
+      <lb ed="#B" n="106"/>nonica horum scriptorum auctoritate evidens 
+      testi<lb ed="#B" n="107" break="no"/>monium ferun¬ 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4666">
+               <lb ed="#B" n="108"/>172. Ejusdem farinae vel potius furfuris cum illi 
+      <lb ed="#B" n="109"/>propheticorum scriptorum hostibus sunt, qui omnes 
+      <lb ed="#B" n="110"/>V. T. libros tanquam a malo quodam deo dictator 
+      <lb ed="#B" n="111"/>olim respuebant, quales fuere Simoniani, Basilidiani 
+      <lb ed="#B" n="112"/>Marcionitae apud Irenaeum lib. 1, c. 20, 22 et 29 
+      <lb ed="#B" n="113"/>Manichaei apud Epiphan. haeres. 66. Augustinum 
+      <lb ed="#B" n="114"/>lib. de utilit. credendi contra Manich. c. 2 et Euse 
+      <lb ed="#B" n="115"/>bium lib. 5. Hist. eccles. e. ult. Bogomiles apud 
+      Eu<lb ed="#B" n="116" break="no"/>thymium Panopl. part. 2, tit. 23, c. 1. Albigensibus 
+      <lb ed="#B" n="117"/>eundem errorem tribuit Antoninus part. 4, tit. 2. 
+      <lb ed="#B" n="118"/>c. 7. sed facit illis injuriam. Superiore seculo Ant 
+      <lb ed="#B" n="119"/>baptistae in colloquio Franckenthalensi V. T. libro. 
+      <lb ed="#B" n="120"/>non aliter in disputationem fidei admittendos 
+      cen<lb ed="#B" n="121" break="no"/>suerunt, quam quatenus cum N. T. concordant 
+      <!--146.xml-->
+      <pb ed="#B" n="73"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>Eorum vestigiis insistunt Photiniani, V. T. libris iti 
+      <lb ed="#B" n="2"/>dem parum tribuentes. Socinus de auctorit. 
+      scrip<lb ed="#B" n="3" break="no"/>p. 16. Certum est, non posse quonquam ulla ration 
+      <lb ed="#B" n="4"/>aut pacto recipere Chriotionam religionem, nis 
+      <lb ed="#B" n="5"/>simul confiteatur, in ejus patefactione agnitum fuisse 
+      <lb ed="#B" n="6"/>paticinationum de Christo et rebus ad ipcum atque 
+      <lb ed="#B" n="7"/>ob xml:id ad Christianam religionem pertinentibus ea 
+      <lb ed="#B" n="8"/>tem aliqua ex parte aliam eese cententiam ab ed 
+      <lb ed="#B" n="9"/>piae videatur, eamque ejusmodi, ut gina 
+      patefa<lb ed="#B" n="10" break="no"/>ctione inta de ea ne quopicari quidem quisquam 
+      <lb ed="#B" n="11"/>posset. Sommerus in refut. Carol. p. 54. talem pro 
+      <lb ed="#B" n="12"/>ponit canonem: Quicquid ex V. T. ad N. 
+      tranafe<lb ed="#B" n="13" break="no"/>tur, iisdem illud verbio quidem effertur, in rebu 
+      <lb ed="#B" n="14"/>autem non nigi bimilitudinem, eamque caepe ex 
+      <lb ed="#B" n="15"/>quam habet. pag. 55. Etiamei David aliquid di 
+      <lb ed="#B" n="16"/>Christo et rebus spiritualibus N. T. ecripoit, 
+      no<lb ed="#B" n="17" break="no"/>tamen xml:id ipcum intellexit. Theophil. Nicol. adver 
+      <lb ed="#B" n="18"/>sus Miedxibozium p. 68. Recipitur quidem 
+      ho<lb ed="#B" n="19" break="no"/>testimonium prophetae, sed plus valuisset, si apo 
+      <lb ed="#B" n="20"/>stolus dixisset. Ostorodus in instit. Germ. part. 
+      <lb ed="#B" n="21"/>c 28. p. 187. V. T. vocat imperfectum, Novum auter 
+      <lb ed="#B" n="22"/>perfectum, adeoque huie illud cedere concludit 
+      <lb ed="#B" n="23"/>Quoad umbras, ceremonias, sacrificia ac leges 
+      foren<lb ed="#B" n="24" break="no"/>nes illud est verissimum, sed lex moralis et 
+      doctrin<lb ed="#B" n="25" break="no"/>le Messia utrobique est eadem, gradus sunt 
+      clar<lb ed="#B" n="26" break="no"/>latis, non autem auctoritatis in utroque Testamento 
+      <lb ed="#B" n="27"/>Schmaltzius in refut. Smiglec. p. 79. Parum cu 
+      <lb ed="#B" n="28"/>randum est, quid dicat de cultu Dei propheta vete 
+      <lb ed="#B" n="29"/>ris foederis. Idem contra Frantzium: Quid mirum 
+      <lb ed="#B" n="30"/>ci is, qui Christianam religionem tractat, potissi 
+      <lb ed="#B" n="31"/>mum urgeat locos novi foederis, cum certum sit, e 
+      <lb ed="#B" n="32"/>his potissimum et principaliter istam demonstran 
+      <lb ed="#B" n="33"/>dam esse, et quicquid ex V. T. ad eandem affertur 
+      <lb ed="#B" n="34"/>id non tam ad confirmandam eam vel fidem ei 
+      fa<lb ed="#B" n="35" break="no"/>ciendam quam illustrandam et commendandas 
+      <lb ed="#B" n="36"/>faciat. 
+      </p>
+            <p xml:id="zef3dd-d1e203-d1e4783">
+               <lb ed="#B" n="37"/>173. Opponimus autem huic errori ejusmodi a 
+      <lb ed="#B" n="38"/>gumentum. Quaecunque Scriptura 1. est θεόκνευστο 
+      <lb ed="#B" n="39"/>2. quam Christus serutari jubet. 3. ad quam 
+      Chr<lb ed="#B" n="40" break="no"/>stus et apostoli provocant et suam doctrinam ex e 
+      <lb ed="#B" n="41"/>confirmant. <!-- line coord error --> 
+      <lb ed="#B" n="42"/>4. quaeque fundamentum ecclesiae 
+      <lb ed="#B" n="43"/>continet, ea est canonica et parem cum libris N. 7. 
+      <lb ed="#B" n="44"/>auctoritatem obtinet. Atqui Scriptura sacra V. 
+      <lb ed="#B" n="45"/>est 1. θεόπνευσιος. 2. Tim. 3. v. 16. ubi de libris. 
+      <lb ed="#B" n="46"/>etiam V. T. sermonem esse colligitur, tum ex not 
+      <lb ed="#B" n="47"/>universali πᾶσα γραφή scilicet sacra ex v. 15. 
+      tun<lb ed="#B" n="48" break="no"/>ex eircumstantia temporis, quia tempore infantiae 
+      <lb ed="#B" n="49"/>Timothei de N. T. parum vel nihil literis fui 
+      <lb ed="#B" n="50"/>commendatum. 2. Christus eam nos scutari jube 
+      <lb ed="#B" n="51"/>Joh. 5. v. 39. addito hoc insigni elogio, quod testi. 
+      <lb ed="#B" n="52"/>monium de se perhibeat, et quod vitam aeternam 
+      <lb ed="#B" n="53"/>in ea possimus invenire Luc. 16, v. 29. Moysen e 
+      <lb ed="#B" n="54"/>prophetas audire jubet ac cruciatus gehennae evi 
+      <lb ed="#B" n="55"/>tare posse asseritur, si ipsos diligenter audiamus e 
+      <lb ed="#B" n="56"/>doctrinam ipsorum amplectamur. 3. ad eandem Chri 
+      <lb ed="#B" n="57"/>stus et apostoli provocant, suaque omnia ex illi 
+      <lb ed="#B" n="58"/>probant Luc. 24. v. 27. Rom. 3, v. 21. Actor. 11. 
+      <lb ed="#B" n="59"/>v. 48. e. 26, v. 20. etc. 4. eadem continet fundi 
+      <lb ed="#B" n="60"/>mentum ecclesiae Ephes. 2. v. 20. Exstructi 
+      esti<lb ed="#B" n="61" break="no"/>super fundamentum prophetarum et apostolorum 
+      <!--146.xml-->
+      <cb ed="#B" n="b"/>
+               <lb ed="#B" n="62"/>
+               <name xml:id="zef3dd-d1e203-Nd1e4847">Socinus</name> quidem in tract. de loco Matth. 16. p. 66 
+      <lb ed="#B" n="63"/>per prophetas in hoc dicto apostolico intelligendos 
+      <lb ed="#B" n="64"/>esse dicit illos N. T. prophetas, quorum 
+      mentio<lb ed="#B" n="65" break="no"/>fit Ephes. 4. v. 11. 1. Cor. 12, v. 28. Qui ocqul 
+      <lb ed="#B" n="66"/>tiora quaedam ad Christianam religionem 
+      pertinen<lb ed="#B" n="67" break="no"/>tia aperiebant, unde fides audientium confirmari et 
+      <lb ed="#B" n="68"/>augeri poterat, quibus nomen fundamenti non aliter 
+      <lb ed="#B" n="69"/>accommodetur, quam quod fuerint ex primis, qui 
+      <lb ed="#B" n="70"/>Christianam religionem annuntiarunt et confirma 
+      <lb ed="#B" n="71"/>runt. At loquitur hic apostolus de universalis 
+      <lb ed="#B" n="72"/>ecclesiae fundamento tam in V. quam in N. T, cui 
+      <lb ed="#B" n="73"/>et Judaeorum et gentilium fides innitatur, ut 
+      colli<lb ed="#B" n="74" break="no"/>gitur ex antecedentibus et consequentibus. 
+      Funda<lb ed="#B" n="75" break="no"/>nentum illud statuit prophetas et apostolos 
+      respectu<lb ed="#B" n="76" break="no"/>scilicet doctrinae, sicut etiam Apocal. 21, v. 14. 
+      <lb ed="#B" n="77"/>murus civitatis sanctae dicitur habere fundamento 
+      <lb ed="#B" n="78"/>quodecim et in illis nomina duodecim apostolorum 
+      <lb ed="#B" n="79"/>agni. Quare cum doctrina prophetica cum 
+      aposto<lb ed="#B" n="80" break="no"/>lica exacte congruat Act. 26, v. 22. Rom. 3, v. 21. 
+      <lb ed="#B" n="81"/>ideo in hoc ecclesiae fundamento describendo 
+      pro<lb ed="#B" n="82" break="no"/>phetae apostolis conjunguntur. Quid? quod Socinus 
+      <lb ed="#B" n="83"/>lib. de auctor. Script. p. 5. Vetus Testamentum ? 
+      <lb ed="#B" n="84"/>Jovo aperte confirmari scribit, quomodo ergo non 
+      <lb ed="#B" n="85"/>erit ejusdem eum eo auctoritatis! 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

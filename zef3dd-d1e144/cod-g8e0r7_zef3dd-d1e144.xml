@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#JohannGerhard">Johann Gerhard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2024-08-19">August 19, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-g8e0r7">Berlin 1863, Tomus 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-08-19" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="33"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="zef3dd-d1e144"><!-- zef3dd-l1c4 -->
+            <head xml:id="zef3dd-d1e144-Hd1e101">Caput 4</head>
+            <head xml:id="zef3dd-d1e144-Hd1e103" type="question-title">De materia Scripturae sacrae</head>
+            <p xml:id="zef3dd-d1e144-d1e106">
+      <!--106.xml-->
+               <cb ed="#B" n="b"/>
+               <lb ed="#B" n="60"/>CAPUT IV. 
+      <lb ed="#B" n="61"/>DE MATERIA SCRIPTURAE SACRAE 
+      </p>
+            <p xml:id="zef3dd-d1e144-d1e117">
+               <lb ed="#B" n="62"/>52. Materiam scripturae docendi causa vocar 
+      <lb ed="#B" n="63"/>possumus res sacras in literas Dei voluntate reda 
+      <lb ed="#B" n="64"/>etas, quae generali appellatione divinae revelationi 
+      <lb ed="#B" n="65"/>continentur, ac variis modis dispesei possunt: i. in 
+      <lb ed="#B" n="66"/>historias et dogmata, 2 in legem et evangelium 
+      <lb ed="#B" n="67"/>quae sunt duo praecipua et primaria divinae reve 
+      <lb ed="#B" n="68"/>lationis capita, ad quae omnia, quae in scripturis 
+      <lb ed="#B" n="69"/>traduntur, revocari possunt. Esa. 8, v. 20. Joh. . 
+      <lb ed="#B" n="70"/>v. 17. Rom. 3, v. 27. c. 10, v. 5. Gal. 3, v. 2. 
+      <lb ed="#B" n="71"/>Lex est doctrina operum, ad quam pertinent exempla 
+      <lb ed="#B" n="72"/>obedientiae et inobedientiae, praemiorum et poena 
+      <lb ed="#B" n="73"/>rum, promissiones obedientibus datae et commina 
+      <lb ed="#B" n="74"/>tiones adversus inobedientes directae. Evangelium 
+      <lb ed="#B" n="75"/>est doctrina fidei, ad quam pertinent vaticinia V. T. 
+      <lb ed="#B" n="76"/>de Messiae persona, officio et beneficiis. Item, 
+      typ<lb ed="#B" n="77" break="no"/>sacrificiorum et alii praefigurantes Christum; 
+      histori<lb ed="#B" n="78" break="no"/>evangelistarum de Christi conceptione, nativitate, cir 
+      <lb ed="#B" n="79"/>cumcisione, baptismo, concionibus, miraculis, passione 
+      <lb ed="#B" n="80"/>morte, resurrectione, ascensione ad coelos et ad dex 
+      <lb ed="#B" n="81"/>tram Dei sessione; item, promissiones de gratia Dei 
+      <lb ed="#B" n="82"/>remissione peecatorum, justitia et vita aeterna 
+      pro<lb ed="#B" n="83" break="no"/>pter hunc Mediatorem credentibus in eum factae 
+      <lb ed="#B" n="84"/>quarum longe plurimae in scriptis apostolorum oc 
+      <lb ed="#B" n="85"/>currunt. 3. in credenda, facienda et speranda. 4. in 
+      <lb ed="#B" n="86"/>fidei mysteria et vitae praecepta eto 
+      </p>
+            <p xml:id="zef3dd-d1e144-d1e174">
+               <lb ed="#B" n="87"/>53. Cumque finis legis et nueleus evangelii sit 
+      <lb ed="#B" n="88"/>Christus Rom. 10, v. 4., xml:ideo τέλος σκοπιμώτατο 
+      <lb ed="#B" n="89"/>ultimus scopus, adeoque centrum scripturae, ad quod 
+      <lb ed="#B" n="90"/>omnia referuntur, est Christus Jesus. Psal. 40, v. 8. 
+      <lb ed="#B" n="91"/>In capite libri scriptum est de me (quod Hebr 10. 
+      <lb ed="#B" n="92"/>v. 7. redditur ἐν κεφαλίδι βιβλίου. Quidam monent 
+      <lb ed="#B" n="93"/>κεφαλίδα volumen dictum esse metaphorice a specie 
+      <lb ed="#B" n="94"/>eo quod convolutum et complicatum libri corpus, u 
+      <lb ed="#B" n="95"/>fuerunt libri veterum, quasi opus capitatum sit.) Lue 
+      <lb ed="#B" n="96"/>24, v. 27: Incipiens a Mose et omnibus prophetis 
+      <lb ed="#B" n="97"/>interpretabatur illis in omnibus Scripturis, quae de, 
+      <lb ed="#B" n="98"/>ipso erant. Joh. 5, v. 39: Scrutamini Scripturas 
+      <lb ed="#B" n="99"/>quia illae de me testificantur. v. 46. Si credereti 
+      <lb ed="#B" n="100"/>Mosi, crederetis etiam mili, de me enim ille scripsit 
+      <lb ed="#B" n="101"/>e. 20, v. 31. Haec scripta sunt, ut credatis, quod 
+      <lb ed="#B" n="102"/>Jesus sit Christus Dei filias, et ut credentes vitam 
+      <lb ed="#B" n="103"/>habeatis in nomine ejus. Actor. 3, v. 18. Deus eo 
+      <lb ed="#B" n="104"/>quae praenuntiavit per os omnium prophetarum (pae 
+      <lb ed="#B" n="105"/>surum scil. Christum) sic implevit. v. 23. 
+      Omne<lb ed="#B" n="106" break="no"/>prophetae a Samuel et deinceps quotquot locut 
+      <lb ed="#B" n="107"/>sunt, annuntiaverunt dies illos, c. 10, v. 43. Hui 
+      <lb ed="#B" n="108"/>omnes prophetae testimonium perhibent etc. 
+      Sicu<lb ed="#B" n="109" break="no"/>homo est epitome totius universi ac naturae creatae 
+      <lb ed="#B" n="110"/>centrum: sic Christus est totius scripturae epitom 
+      <lb ed="#B" n="111"/>ac centrum, α et ω, a quo omnia in scripturis 
+      in<lb ed="#B" n="112" break="no"/>cipiunt, et in quo omnia desinunt, unde Johannes ini 
+      <lb ed="#B" n="113"/>tium scriptionis suae facit a Christo. Joh. 1, v. 1. 
+      <lb ed="#B" n="114"/>In principio erat verbum etc. ac terminat suam 
+      <lb ed="#B" n="115"/>scriptionem in Christo. Apoc. 22, v. 22. Gratio 
+      <lb ed="#B" n="116"/>Domini nostri Jesu Christi ait vobiscum 
+      </p>
+            <p xml:id="zef3dd-d1e144-d1e243">
+               <lb ed="#B" n="117"/>54. Res sacrae in Scriptura propositae libris divius 
+      <!--107.xml-->
+      <pb ed="#B" n="34"/>
+               <cb ed="#B" n="a"/>
+               <lb ed="#B" n="1"/>inspiratione editis continentur, unde materia ex quo 
+      <lb ed="#B" n="2"/>Scripturae formaliter consideratae haud incommodi 
+      <lb ed="#B" n="3"/>statui potest ipsa compages et series librorum bibli 
+      <lb ed="#B" n="4"/>corum. Est enim Scriptura ex numero eorum, quae 
+      <lb ed="#B" n="5"/>sunt unum κατὰ συναθροισμόν per aggregationem 
+      <lb ed="#B" n="6"/>partium. Disserendum igitur h. I. erit de variis libro 
+      <lb ed="#B" n="7"/>rum biblicorum divisionibus, quae pleraeque omne 
+      <lb ed="#B" n="8"/>ex causa efficiente et materia sunt petitae 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>
