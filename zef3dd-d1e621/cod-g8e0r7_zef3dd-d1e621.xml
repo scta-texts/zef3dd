@@ -94,7 +94,7 @@
       <lb ed="#B" n="24"/>exusta teste Laërtio in ipsius vita. Quidam vero 
       <lb ed="#B" n="25"/>mediate et indirecte Deum negant, utpote qui ipsiu 
       <lb ed="#B" n="26"/>providentiam negant, Psalm. 14, v. 1. Psalm. 5. 
-      <lb ed="#B" n="27"/>v. 1: <quote source="http://scta.info/resource/ps52_1@7-15">Dixit insipiens in corde suo: Non est Deus</quote> 
+      <lb ed="#B" n="27"/>v. 1: <quote xml:id="zef3dd-d1e621-Qd1e191" source="http://scta.info/resource/ps52_1@7-15">Dixit insipiens in corde suo: Non est Deus</quote> 
       <lb ed="#B" n="28"/>ubi Augustinus in commentario notat propterea in 
       <lb ed="#B" n="29"/>corde sive in mente id ab aliquibus dici, quia ver 
       <lb ed="#B" n="30"/>non audent tales quoque suam impiam sententiam 
@@ -117,7 +117,7 @@
       <lb ed="#B" n="47"/>Thomas p. 1. q. 2. art. 2. resp. ad I. scribit non ess 
       <lb ed="#B" n="48"/>fidei articulum, quod sit Deus, sed praeambulum ad 
       <lb ed="#B" n="49"/>articulos. Contrarium docet apostolus Heb. 11, v. 6. 
-      <lb ed="#B" n="50"/><quote source="http://scta.info/resource/hebr11_6@6-11">Credere oportet accedentem ad Deum</quote> ὅτι ἔστι, quod 
+      <lb ed="#B" n="50"/><quote xml:id="zef3dd-d1e621-Qd1e243" source="http://scta.info/resource/hebr11_6@6-11">Credere oportet accedentem ad Deum</quote> ὅτι ἔστι, quod 
       <lb ed="#B" n="51"/>sit et quod inquirentibus se remunerator sit, in quem 
       <lb ed="#B" n="52"/>locum Theophyl. scribit Deum esse, per fidem tene 
       <lb ed="#B" n="53"/>mus. At haec fides ex verbo Dei haurienda et ejus 
@@ -143,7 +143,7 @@
       tempori<lb ed="#B" n="71" break="no"/>bus tacitum Rom. 16, v. 25, dieo quodammodo velle 
       <lb ed="#B" n="72"/>legale agnosci, quia distinguenda est obedientia legis 
       <lb ed="#B" n="73"/>exterior ab interiore, illam naturalis notitia monstrat 
-      <lb ed="#B" n="74"/>hanc vero nequaquam. Rom. 7, v. 7: <quote source="http://scta.info/resource/rom7_7@9-14">peccatum 
+      <lb ed="#B" n="74"/>hanc vero nequaquam. Rom. 7, v. 7: <quote xml:id="zef3dd-d1e621-Qd1e303" source="http://scta.info/resource/rom7_7@9-14">peccatum 
       no<lb ed="#B" n="75" break="no"/>coqnovi nisi per legem</quote>. Posse Dei per notitiam 
       na<lb ed="#B" n="76" break="no"/>turalem quodammado cognosci patet ex Rom. 1, v. 20 
       <lb ed="#B" n="77"/>non autem plene et perfecte cognosci colligitur et 
@@ -640,7 +640,7 @@
       <lb ed="#B" n="53"/>rum contemplatione non possit adscendi ad cognitio 
       <lb ed="#B" n="54"/>nem creationis specialiter et proprie sic dictae, quod 
       <lb ed="#B" n="55"/>Deus certo tempore sex diebus ex nihilo omnis 
-      <lb ed="#B" n="56"/>creaverit, Hebr. 11, v. 3: <quote source="http://scta.info/resource/hebr11_3@1-12">Fide intelligimus aptat 
+      <lb ed="#B" n="56"/>creaverit, Hebr. 11, v. 3: <quote xml:id="zef3dd-d1e621-Qd1e1374" source="http://scta.info/resource/hebr11_3@1-12">Fide intelligimus aptat 
       <lb ed="#B" n="57"/>esse aecula verbo Dei, ut ex invisibilibus fierem</quote> 
       <lb ed="#B" n="58"/>vicibilia, tamen ad creatoris cognitionem ex 
       inspe<lb ed="#B" n="59" break="no"/>ctione creaturarum perveniri potest, quod scilicet 
@@ -667,7 +667,7 @@
       <lb ed="#B" n="78"/>ignorantiam eto 
       </p>
             <p xml:id="zef3dd-d1e621-d1e1420">
-               <lb ed="#B" n="79"/>67. 2. Psal. 19, v. 1: <quote source="http://scta.info/resource/ps18_2@1-10">Coeli enarrant gloriam Dei 
+               <lb ed="#B" n="79"/>67. 2. Psal. 19, v. 1: <quote xml:id="zef3dd-d1e621-Qd1e1436" source="http://scta.info/resource/ps18_2@1-10">Coeli enarrant gloriam Dei 
       <lb ed="#B" n="80"/>et opus manuum ejus annuntiat firmamentum</quote>, ub 
       <lb ed="#B" n="81"/>Psaltes regius conjungit utrumque medium divinae 
       <lb ed="#B" n="82"/>cognitionis naturam et Scripturam, patefactionem in 
@@ -682,20 +682,20 @@
       cor<lb ed="#B" n="91" break="no"/>templatione imaginis memoria pictoris concurris 
       <lb ed="#B" n="92"/>multo magis mundi fabricatio quae videlicct ad 
       opif<lb ed="#B" n="93" break="no"/>cem nos videntes deducit. (Thom. de Aquin. et 
-      <lb ed="#B" n="94"/>Scholastici adducunt ex Ps. 4. v. 6: <quote source="http://scta.info/resource/ps4_7@1-7">Signatum est 
+      <lb ed="#B" n="94"/>Scholastici adducunt ex Ps. 4. v. 6: <quote xml:id="zef3dd-d1e621-Qd1e1471" source="http://scta.info/resource/ps4_7@1-7">Signatum est 
       <lb ed="#B" n="95"/>super nos lumen vultus tui</quote>, per quod intelligunt 
       <lb ed="#B" n="96"/>lumen naturalis rationis. Atqui per lumen vultu 
       <lb ed="#B" n="97"/>intelligitur Dei favor, qui expetitur per precationem, 
       <lb ed="#B" n="98"/>Addimus huic loco frequentem illam in Psalmis ex 
       <lb ed="#B" n="99"/>hortationem, qua omnes creaturae non solum 
       ratio<lb ed="#B" n="100" break="no"/>nales, sed etiam irrationales Deum laudare 
-      juben<lb ed="#B" n="101" break="no"/>tur: Ps. 69, v. 35: <quote source="http://scta.info/resource/ps68_35@1-12">Laudent Deum coeli et 
-      terro<lb ed="#B" n="102" break="no"/>maria et omna repens in eis</quote>. Ps. 103, v. 22: <quote source="http://scta.info/resource/ps102_22@1-11">Bene 
+      juben<lb ed="#B" n="101" break="no"/>tur: Ps. 69, v. 35: <quote xml:id="zef3dd-d1e621-Qd1e1490" source="http://scta.info/resource/ps68_35@1-12">Laudent Deum coeli et 
+      terro<lb ed="#B" n="102" break="no"/>maria et omna repens in eis</quote>. Ps. 103, v. 22: <quote xml:id="zef3dd-d1e621-Qd1e1495" source="http://scta.info/resource/ps102_22@1-11">Bene 
       <lb ed="#B" n="103"/>dicite Domino omnia opera ejus in omnibus locis 
-      <lb ed="#B" n="104"/>dominationis ejus</quote>. Ps. 148, v. 3: <quote source="http://scta.info/resource/ps148_3@1-10">Laudate Deum 
+      <lb ed="#B" n="104"/>dominationis ejus</quote>. Ps. 148, v. 3: <quote xml:id="zef3dd-d1e621-Qd1e1502" source="http://scta.info/resource/ps148_3@1-10">Laudate Deum 
       <lb ed="#B" n="105"/>sol et luna, laudate eum omnes stellae</quote>. v. 4: 
-      <quote source="http://scta.info/resource/ps148_4@1-12">Lau<lb ed="#B" n="106" break="no"/>date eum coeli coelorum et aquae, quae cupra 
-      coe<lb ed="#B" n="107" break="no"/>los sunt</quote>. Ps. 150, v. 6: <quote source="http://scta.info/resource/ps150_6@1-4">Omnis spiritus laudet 
+      <quote xml:id="zef3dd-d1e621-Qd1e1507" source="http://scta.info/resource/ps148_4@1-12">Lau<lb ed="#B" n="106" break="no"/>date eum coeli coelorum et aquae, quae cupra 
+      coe<lb ed="#B" n="107" break="no"/>los sunt</quote>. Ps. 150, v. 6: <quote xml:id="zef3dd-d1e621-Qd1e1514" source="http://scta.info/resource/ps150_6@1-4">Omnis spiritus laudet 
       Do<lb ed="#B" n="108" break="no"/>minum</quote>. Quamvis enim irrationales creaturae non 
       <lb ed="#B" n="109"/>laudent Deum effective, cum Deum creatorem suum 
       <lb ed="#B" n="110"/>eo modo non agnoscant, quo creaturae rationale 
@@ -747,7 +747,7 @@
       <lb ed="#B" n="30"/>tione notum erat, Psaltes loquitur, sed in genere de 
       <lb ed="#B" n="31"/>omnibus hominibus, additur enim. v. 41. Non es 
       <lb ed="#B" n="32"/>cermo, non verba, ubi non auditun vox eorum; v. 5. 
-      <lb ed="#B" n="33"/><quote source="http://scta.info/resource/ps18_5@1-10">in omnem terram exivit linea eorum et in extremus 
+      <lb ed="#B" n="33"/><quote xml:id="zef3dd-d1e621-Qd1e1627" source="http://scta.info/resource/ps18_5@1-10">in omnem terram exivit linea eorum et in extremus 
       <lb ed="#B" n="34"/>orbia</quote> eloquia eorum. 2. Quamvis creatio proprie si 
       <lb ed="#B" n="35"/>dicta et in Scripturis patefacta non fuerit nota 
       gen<lb ed="#B" n="36" break="no"/>. tilibus ex lumine naturae, tamen potuerunt per sca 
@@ -757,7 +757,7 @@
       <lb ed="#B" n="40"/>tuitu gloriam Dei agnoscere. 3. Conjungendus 
       hi<lb ed="#B" n="41" break="no"/>locus apostolicus longe clarissimus. Rom. 1, v. 20. 
       <lb ed="#B" n="42"/>Invisibilia Dei a creatura mundi τοῖσποιήμαα 
-      <lb ed="#B" n="43"/>νοούμενα <quote source="http://scta.info/resource/rom1_20@13-19">conspiciuntur, sempiterna quoque ejus vir 
+      <lb ed="#B" n="43"/>νοούμενα <quote xml:id="zef3dd-d1e621-Qd1e1652" source="http://scta.info/resource/rom1_20@13-19">conspiciuntur, sempiterna quoque ejus vir 
       <lb ed="#B" n="44"/>tue et divinitas</quote>, ubi ex creaturarum inspectione 
       no<lb ed="#B" n="45" break="no"/>titiam divinitatis hauriri posse disertis verbis adstrui 
       <lb ed="#B" n="46"/>tur. 14. Quin imo Psaltes hoc ipso in loco illud 
@@ -845,7 +845,7 @@
       <lb ed="#B" n="3"/>clariorem emittit, per oculos, non per aures nos do 
       <lb ed="#B" n="4"/>cent. In hunc pariter librum et idiota et sapien 
       <lb ed="#B" n="5"/>intueri poterunt, quod idem propheta intuens dixi 
-      <lb ed="#B" n="6"/><quote source="http://scta.info/resource/ps18_4@1-10">Non sunt loquelae neque sermones, quorum non 
+      <lb ed="#B" n="6"/><quote xml:id="zef3dd-d1e621-Qd1e1844" source="http://scta.info/resource/ps18_4@1-10">Non sunt loquelae neque sermones, quorum non 
       <lb ed="#B" n="7"/>audiantur voces eorum</quote>, id est, non est gens nequ 
       <lb ed="#B" n="8"/>lingua, quae hanc vocem intelligere non possi 
       <lb ed="#B" n="9"/>Pealm. 2. v. 8. non agitur de Davide, illi enim non 
@@ -873,8 +873,8 @@
             <p xml:id="zef3dd-d1e621-d1e1858">
                <lb ed="#B" n="30"/>69. 3. Ex Paulo apostolo: 1. Act. 14, v. 
 <lb ed="#B" n="31"/>163 <!-- line coord error -->
-      <lb ed="#B" n="32"/>Deus <quote source="http://scta.info/resource/act14_15@2-11">in praeteritis generationibus dimisit omnes 
-      gen<lb ed="#B" n="33" break="no"/>tes ingredi vias suas</quote>. v. 17. <quote source="http://scta.info/resource/act14_16@1-21">et quidem καὶ rolye non 
+      <lb ed="#B" n="32"/>Deus <quote xml:id="zef3dd-d1e621-Qd1e1908" source="http://scta.info/resource/act14_15@2-11">in praeteritis generationibus dimisit omnes 
+      gen<lb ed="#B" n="33" break="no"/>tes ingredi vias suas</quote>. v. 17. <quote xml:id="zef3dd-d1e621-Qd1e1914" source="http://scta.info/resource/act14_16@1-21">et quidem καὶ rolye non 
       <lb ed="#B" n="34"/>sine testimonio semet ipsum reliquit, benefaciens, de 
       <lb ed="#B" n="35"/>coelo dans pluvias et tempora fructifera, implens 
       <lb ed="#B" n="36"/>cibo et laetitia corda</quote> nostra. Subjectum, de quo 
@@ -883,7 +883,7 @@
       <lb ed="#B" n="39"/>Loquitur enim apostolus non ad conversos ex 
       Ju<lb ed="#B" n="40" break="no"/>daeis et gentibus sive Christianos, sed ad gentile 
       <lb ed="#B" n="41"/>Lycaonenses, Lystrenses ete. 2. Ex subjecti 
-      dete<lb ed="#B" n="42" break="no"/>minatione v. 16: <quote source="http://scta.info/resource/act14_15@6-11">Deus omnes gentes dimisit ingredi 
+      dete<lb ed="#B" n="42" break="no"/>minatione v. 16: <quote xml:id="zef3dd-d1e621-Qd1e1936" source="http://scta.info/resource/act14_15@6-11">Deus omnes gentes dimisit ingredi 
       <lb ed="#B" n="43"/>vias quas</quote>, jam vero gentibus in universum omnibus 
       <lb ed="#B" n="44"/>n v. T. non est facta talis verbi revelatio, qualis 
       <lb ed="#B" n="45"/>Israëlitis. 3. Ex subjecti descriptione. Loquitur ape 
@@ -927,7 +927,7 @@
       </p>
             <p xml:id="zef3dd-d1e621-d1e1978">
                <lb ed="#B" n="81"/>70. 2. Act. 17, v. 23. apud Athenienses videt 
-      apo<lb ed="#B" n="82" break="no"/>stolus <quote source="http://scta.info/resource/act17_23@9-15">aram, in qua scriptum erat: Ignoto deo</quote> 
+      apo<lb ed="#B" n="82" break="no"/>stolus <quote xml:id="zef3dd-d1e621-Qd1e2032" source="http://scta.info/resource/act17_23@9-15">aram, in qua scriptum erat: Ignoto deo</quote> 
       <lb ed="#B" n="83"/>Apud Pausaniam in Attie. θεῶν ἀγνώτων βωμε 
       <lb ed="#B" n="84"/>memorantur, quae invento Epimenidis Cretensis 
       sun<lb ed="#B" n="85" break="no"/>erectae. Cum enim regio illa pestilentia laboraret, 
@@ -970,7 +970,7 @@
       <!--347.xml-->
       <pb ed="#B" n="274"/>
                <cb ed="#B" n="a"/>
-               <lb ed="#B" n="1"/>quine <quote source="http://scta.info/resource/act17_26@4-18">omne genus hominum habitare super 
+               <lb ed="#B" n="1"/>quine <quote xml:id="zef3dd-d1e621-Qd1e2128" source="http://scta.info/resource/act17_26@4-18">omne genus hominum habitare super 
       univer<lb ed="#B" n="2" break="no"/>sam faciem terrae, definiens statuta tempora et ter 
       <lb ed="#B" n="3"/>minos habitationia eorum</quote> ζητεῖν τὸν κύριον subin 
       <lb ed="#B" n="4"/>tellige ἔνεκα, ut quaererent Deum, si forte eum col 
@@ -1038,10 +1038,10 @@
       <lb ed="#B" n="62"/>potuerunt gentiles ex consideratione divinorum 
       be<lb ed="#B" n="63" break="no"/>neficiorum generalium discere. Ergo. Majoris veri 
       <lb ed="#B" n="64"/>tas elucet ex connexione textus apostolici. Minoren 
-      <lb ed="#B" n="65"/>confirmant dicta apostolica Rom. 14, v. 23: <quote source="http://scta.info/resource/rom14_23@14-19">Quic 
+      <lb ed="#B" n="65"/>confirmant dicta apostolica Rom. 14, v. 23: <quote xml:id="zef3dd-d1e621-Qd1e2280" source="http://scta.info/resource/rom14_23@14-19">Quic 
       <lb ed="#B" n="66"/>quid non est ex fide, peccatum est</quote>. Hebr. 11, v. 6. 
-      <lb ed="#B" n="67"/><quote source="http://scta.info/resource/hebr11_6@1-5">Sine fide impossibile est placere</quote> Deo. Itemque ex 
-      <lb ed="#B" n="68"/>clusiva Christi Joh. 14, v. 6: <quote source="http://scta.info/resource/io14_6@11-17">Nemo venit ad Pa 
+      <lb ed="#B" n="67"/><quote xml:id="zef3dd-d1e621-Qd1e2287" source="http://scta.info/resource/hebr11_6@1-5">Sine fide impossibile est placere</quote> Deo. Itemque ex 
+      <lb ed="#B" n="68"/>clusiva Christi Joh. 14, v. 6: <quote xml:id="zef3dd-d1e621-Qd1e2292" source="http://scta.info/resource/io14_6@11-17">Nemo venit ad Pa 
       <lb ed="#B" n="69"/>trem, nisi per me</quote>. Jam vero fides in Christum 
       di<lb ed="#B" n="70" break="no"/>scenda est ex evangelio, quod non est natura no 
       <lb ed="#B" n="71"/>tum, sed est mysterium aeternis temporibus tacitur 
@@ -1150,7 +1150,7 @@
       <lb ed="#B" n="51"/>git. 5. Glossa illa Sociniana verborum apostolicorum 
       <lb ed="#B" n="52"/>Non est dubitandum, quin Deus sancte viventibu 
       <lb ed="#B" n="53"/>praesto sit, cum in omnes bengficia conferat; 
-      ho<lb ed="#B" n="54" break="no"/>ipsum <quote source="http://scta.info/resource/act17_28@3-8">enim, quod vivimus et movemur et eumus</quote>, al 
+      ho<lb ed="#B" n="54" break="no"/>ipsum <quote xml:id="zef3dd-d1e621-Qd1e2531" source="http://scta.info/resource/act17_28@3-8">enim, quod vivimus et movemur et eumus</quote>, al 
       <lb ed="#B" n="55"/>peo habemus, haec inquam glossa et fidei analo 
       <lb ed="#B" n="56"/>giae, quae immensitatem et infinitatem divinae 
       <lb ed="#B" n="57"/>essentiae docet et contextui apostolico, in quo de 
@@ -1167,11 +1167,11 @@
                <lb ed="#B" n="64"/>72. 3. Accedimus ad locum classicum Rom. I, 
       <lb ed="#B" n="65"/>v. 19. Revelatur ira Dei super impietatem 
       homi<lb ed="#B" n="66" break="no"/>num τῶν τὴν ἀλήθειαν ἐν ἀδικίᾳ κατεχόντων, qui 
-      <lb ed="#B" n="67"/>ὁ γνωστὸν τοῦ Θεοῦ φανερὸν ἐν αὐτοῖς, <quote source="http://scta.info/resource/rom1_19@2-11">quod 
+      <lb ed="#B" n="67"/>ὁ γνωστὸν τοῦ Θεοῦ φανερὸν ἐν αὐτοῖς, <quote xml:id="zef3dd-d1e621-Qd1e2570" source="http://scta.info/resource/rom1_19@2-11">quod 
       no<lb ed="#B" n="68" break="no"/>tum est Dei, manifestum est in illis (ethnicis, 
       <lb ed="#B" n="69"/>Deus enim</quote> ipsis revelavit; v. 20: Quia invisibilia 
       <lb ed="#B" n="70"/>psίὺς ἀπὸ κτίσεως κόσμου τοῖς ποιήμασι νοούμενα κα 
-      <lb ed="#B" n="71"/>θορὰται, <quote source="http://scta.info/resource/rom1_20@14-22">sempiterna quoque ejus virtus et divinitas 
+      <lb ed="#B" n="71"/>θορὰται, <quote xml:id="zef3dd-d1e621-Qd1e2582" source="http://scta.info/resource/rom1_20@14-22">sempiterna quoque ejus virtus et divinitas 
       <lb ed="#B" n="72"/>it eint inexcusabiles</quote>. Quidam, ut August. Hiei 
       <lb ed="#B" n="73"/>Ambros. Chrysostom. Theoph. de sola aequisita 
       <lb ed="#B" n="74"/>notitia locum accipiunt propter particulam 
@@ -1310,7 +1310,7 @@
       <lb ed="#B" n="78"/>evangelii et miracula Christi et apostolorum. Socin 
       <lb ed="#B" n="79"/>prael. p. 5: Sciendum est verba a creatione mundi 
       <lb ed="#B" n="80"/>debere conjungi cum verbo, invisibilia eundemque ese 
-      <lb ed="#B" n="81"/>sensum, qui est Matth. 13, v. 35: <quote source="http://scta.info/resource/mt13_35@15-18">abscondita a 
+      <lb ed="#B" n="81"/>sensum, qui est Matth. 13, v. 35: <quote xml:id="zef3dd-d1e621-Qd1e2883" source="http://scta.info/resource/mt13_35@15-18">abscondita a 
       con<lb ed="#B" n="82" break="no"/>titutione mundi</quote>. Plerique interpretes ex 
       praepori<lb ed="#B" n="83" break="no"/>tione a fecerunt ex contra Graecorum codd fidem, 
       <lb ed="#B" n="84"/>qui non ἐκ κτίσεως, sed ἀπὸ κτίσεως habent. Idem 
@@ -1415,11 +1415,11 @@
       <lb ed="#B" n="58"/>hac sua contorta et violentia interpretatione 
       </p>
             <p xml:id="zef3dd-d1e621-d1e3030">
-               <lb ed="#B" n="59"/>76. 4. Rom. 2. v. 14: <quote source="http://scta.info/resource/rom2_14@1-12">Cum gentes, quae legem non 
+               <lb ed="#B" n="59"/>76. 4. Rom. 2. v. 14: <quote xml:id="zef3dd-d1e621-Qd1e3110" source="http://scta.info/resource/rom2_14@1-12">Cum gentes, quae legem non 
       <lb ed="#B" n="60"/>habent, natura quae legis eunt faciunt</quote>, isti quam 
       <!--350.xml-->
       <cb ed="#B" n="b"/>
-               <lb ed="#B" n="61"/>vis legem non habent, ipsi sibi lex sunt. v. 15: <quote source="http://scta.info/resource/rom2_15@1-16">ut 
+               <lb ed="#B" n="61"/>vis legem non habent, ipsi sibi lex sunt. v. 15: <quote xml:id="zef3dd-d1e621-Qd1e3122" source="http://scta.info/resource/rom2_15@1-16">ut 
       <lb ed="#B" n="62"/>qui ostendant opus legis scriptum in cordibus suis, 
       <lb ed="#B" n="63"/>una testimonium reddente ipsorum conscientia et 
       <lb ed="#B" n="64"/>cogitationibus inter se</quote> accusantibus. Hic locus 
@@ -1693,7 +1693,7 @@
       <lb ed="#B" n="74"/>in visibili ecclesiae coetu, quibus ignotum esse 
       ne<lb ed="#B" n="75" break="no"/>quit esse Deum eumque religiose colendum. Catech 
       <lb ed="#B" n="76"/>Racov. p. 22. adducit dictum apostoli 1. Cor. 2. v. 14. 
-      <lb ed="#B" n="77"/><quote source="http://scta.info/resource/Icor2_14@1-10">Animalis homo non percipit ea, quae sunt Spiritus 
+      <lb ed="#B" n="77"/><quote xml:id="zef3dd-d1e621-Qd1e3712" source="http://scta.info/resource/Icor2_14@1-10">Animalis homo non percipit ea, quae sunt Spiritus 
       <lb ed="#B" n="78"/>Dei</quote>. Sed totus contextus manifeste ostendit, sermo 
       <lb ed="#B" n="79"/>nem ibi esse de illis, quae in verbo evangelii 
       reve<lb ed="#B" n="80" break="no"/>lata sunt, et de salutari ac salvifica Dei notitia. 
@@ -1935,10 +1935,10 @@
       <lb ed="#B" n="62"/>contumelia afficit, etiam Patrem blasphemare, 
       se<lb ed="#B" n="63" break="no"/>affirmat adeo unum et indivisum esse Patris et 
       Filis<lb ed="#B" n="64" break="no"/>honorem, ut, qui non honorat Filium, nec Patrer 
-      <lb ed="#B" n="65"/>possit honorare. 1. Joh. 2. v. 23: <quote source="http://scta.info/resource/Iio2_23@2-7">Qui negat Filium, 
-      <lb ed="#B" n="66"/>nec Patrem habet</quote>. 1. Joh. 5, v. 11: <quote source="http://scta.info/resource/Iio5_11@6-16">Vitam aeternam 
+      <lb ed="#B" n="65"/>possit honorare. 1. Joh. 2. v. 23: <quote xml:id="zef3dd-d1e621-Qd1e4236" source="http://scta.info/resource/Iio2_23@2-7">Qui negat Filium, 
+      <lb ed="#B" n="66"/>nec Patrem habet</quote>. 1. Joh. 5, v. 11: <quote xml:id="zef3dd-d1e621-Qd1e4241" source="http://scta.info/resource/Iio5_11@6-16">Vitam aeternam 
       <lb ed="#B" n="67"/>dedit nobis Deus, et haec vita est in Filio ejus</quote> 
-      <lb ed="#B" n="68"/>v. 12: <quote source="http://scta.info/resource/Iio5_12@1-13">Qui habet Filium, habet vitam, qui non habet 
+      <lb ed="#B" n="68"/>v. 12: <quote xml:id="zef3dd-d1e621-Qd1e4248" source="http://scta.info/resource/Iio5_12@1-13">Qui habet Filium, habet vitam, qui non habet 
       <lb ed="#B" n="69"/>Filium Dei, vitam non habet</quote>. Subsumo. Qui non 
       <lb ed="#B" n="70"/>agnoscit Filium, is eum non habet, ergo nec Patrem 
       <lb ed="#B" n="71"/>habet, ergo nec verum Deum, unde etiam ethnic 
@@ -1948,9 +1948,9 @@
       <lb ed="#B" n="75"/>temporibus ignorantiae. Act. 17, v. 30. de Deo non 
       <lb ed="#B" n="76"/>audivisse. Rom. 10, v. 14. 2. Absque notitia Christi 
       <lb ed="#B" n="77"/>mediatoris salutem non posse obtineri docet Salvato 
-      <lb ed="#B" n="78"/>Joh. 17, v. 3: <quote source="http://scta.info/resource/io17_3@1-16">Haec est vita aeterna, ut agnoscan 
+      <lb ed="#B" n="78"/>Joh. 17, v. 3: <quote xml:id="zef3dd-d1e621-Qd1e4273" source="http://scta.info/resource/io17_3@1-16">Haec est vita aeterna, ut agnoscan 
       <lb ed="#B" n="79"/>te solum verum Deum et quem misisti Jesum 
-      Chri<lb ed="#B" n="80" break="no"/>stum</quote>. Act. 4. v. 12: <quote source="http://scta.info/resource/act4_12@2-10">Non est in alio quoque salus 
+      Chri<lb ed="#B" n="80" break="no"/>stum</quote>. Act. 4. v. 12: <quote xml:id="zef3dd-d1e621-Qd1e4280" source="http://scta.info/resource/act4_12@2-10">Non est in alio quoque salus 
       <lb ed="#B" n="81"/>nec aliud nomen</quote> datum hominibus. 3. Salus non 
       <lb ed="#B" n="82"/>obtingit absque Christo et extra Christum. Christ 
       <lb ed="#B" n="83"/>beneficia ad homines non redeunt, nisi per medis 
@@ -1962,9 +1962,9 @@
       <lb ed="#B" n="89"/>omni credenti. 4. Sine fide in Christum nemini 
       <lb ed="#B" n="90"/>obtingere salutem expresse testantur divina 
       oracul<lb ed="#B" n="91" break="no"/>solis radiis scripta, Marc. 16, v. 16: Qui non credi 
-      <lb ed="#B" n="92"/>derit, condemnabitur. Joh. 3, v. 18: <quote source="http://scta.info/resource/io3_18@7-12">Qui non 
-      cre<lb ed="#B" n="93" break="no"/>dit, jam judicatur</quote> ete. v. 36: <quote source="http://scta.info/resource/io3_36@8-15">Qui incredulus est Filio 
-      <lb ed="#B" n="94"/>non videbit vitam</quote>. Joh. 14, v. 6: <quote source="http://scta.info/resource/io14_6@11-17">Nemo venit ac 
+      <lb ed="#B" n="92"/>derit, condemnabitur. Joh. 3, v. 18: <quote xml:id="zef3dd-d1e621-Qd1e4309" source="http://scta.info/resource/io3_18@7-12">Qui non 
+      cre<lb ed="#B" n="93" break="no"/>dit, jam judicatur</quote> ete. v. 36: <quote xml:id="zef3dd-d1e621-Qd1e4314" source="http://scta.info/resource/io3_36@8-15">Qui incredulus est Filio 
+      <lb ed="#B" n="94"/>non videbit vitam</quote>. Joh. 14, v. 6: <quote xml:id="zef3dd-d1e621-Qd1e4319" source="http://scta.info/resource/io14_6@11-17">Nemo venit ac 
       <lb ed="#B" n="95"/>Patrem, nisi per me</quote>, ex verbo scilicet evangelii agni. 
       <lb ed="#B" n="96"/>tum et vera fide apprehensum. Hebr. 11, v. 6: Sine 
       <lb ed="#B" n="97"/>fide impossibile est Deo placere. 5. Vera fides 
@@ -2090,13 +2090,13 @@
       <lb ed="#B" n="88"/>illorum, qui sunt in ecclesia. Resp. 1. Scripturae 
       <lb ed="#B" n="89"/>dicta sunt generalia, proprio igitur arbitrio non sunt 
       <lb ed="#B" n="90"/>limitanda. 2. Apostoli eo fine cum praedicatione 
-      <lb ed="#B" n="91"/>evangelii ad gentiles sunt ablegati, <quote source="http://scta.info/resource/act26_18@4-28">ut 
+      <lb ed="#B" n="91"/>evangelii ad gentiles sunt ablegati, <quote xml:id="zef3dd-d1e621-Qd1e4595" source="http://scta.info/resource/act26_18@4-28">ut 
       converteren<lb ed="#B" n="92" break="no"/>tur ex tenebris ad lucem et de potestate Satanae 
       <lb ed="#B" n="93"/>ad Deum, ut acciperent remissionem peccatorum et 
       <lb ed="#B" n="94"/>sortem inter sanctos per fidem, quae est in</quote> Christum 
       <lb ed="#B" n="95"/>Act. 26, v. 18. 3. Consideretur fundamentum hujus 
-      <lb ed="#B" n="96"/>necessitatis, quod exponitur Joh. 3, v. 36: <quote source="http://scta.info/resource/io3_36@1-4">Qui non 
-      <lb ed="#B" n="97"/>credit in Filium</quote>, <quote source="http://scta.info/resource/io3_36@13-20">non videbit vitam, sed ira Dei manet 
+      <lb ed="#B" n="96"/>necessitatis, quod exponitur Joh. 3, v. 36: <quote xml:id="zef3dd-d1e621-Qd1e4608" source="http://scta.info/resource/io3_36@1-4">Qui non 
+      <lb ed="#B" n="97"/>credit in Filium</quote>, <quote xml:id="zef3dd-d1e621-Qd1e4614" source="http://scta.info/resource/io3_36@13-20">non videbit vitam, sed ira Dei manet 
       <lb ed="#B" n="98"/>super</quote> illum. Omnes homines propter peccatum 
       na<lb ed="#B" n="99" break="no"/>tura sunt filii irae Ephes. 2. v. 3. mortui in pecca 
       <lb ed="#B" n="100"/>tis v. 5. ac proinde irae divinae et aeternae damna 
@@ -2169,7 +2169,7 @@
       <lb ed="#B" n="39"/>dat, non debere nec posse colligi, quod per se 
       si<lb ed="#B" n="40" break="no"/>sufficiens ad salutem, sed quod gentiles ea 
       no<lb ed="#B" n="41" break="no"/>fuerint recte usi, sicut ipse apostolus v. seq. decla 
-      <lb ed="#B" n="42"/>rat, <quote source="http://scta.info/resource/rom1_21@1-22">quia cum cognovissent Deum, non sicut Deun 
+      <lb ed="#B" n="42"/>rat, <quote xml:id="zef3dd-d1e621-Qd1e4771" source="http://scta.info/resource/rom1_21@1-22">quia cum cognovissent Deum, non sicut Deun 
       <lb ed="#B" n="43"/>glorificaverunt, aut gratias egerunt, sed evanuerum 
       <lb ed="#B" n="44"/>in cogitationibus suis et obscuratum est insipien 
       <lb ed="#B" n="45"/>cor eorum</quote>. Deus hoc fine naturalem sui notitiam 
@@ -2194,7 +2194,7 @@
       <lb ed="#B" n="62"/>locutionem apostolus ipse declaravit, quando ad sem 
       <lb ed="#B" n="63"/>piternae virtutis et divinitatis γνῶσιν ibidem eandem 
       <lb ed="#B" n="64"/>restringit. 3. Joh. 4. v. 38. de apostolis Christur 
-      <lb ed="#B" n="65"/>dicit: <quote source="http://scta.info/resource/io4_38@1-8">Ego misi vos metere, quod non laborastis</quote> 
+      <lb ed="#B" n="65"/>dicit: <quote xml:id="zef3dd-d1e621-Qd1e4828" source="http://scta.info/resource/io4_38@1-8">Ego misi vos metere, quod non laborastis</quote> 
       <lb ed="#B" n="66"/>ergo per ratiocinationes philosophorum gentes fuere 
       <lb ed="#B" n="67"/>praeparatae ad ministerium apostolorum. Cingl. 
       <lb ed="#B" n="68"/>Peucerus. Resp. non philosophi, sed prophetae ibi 

@@ -103,7 +103,7 @@
       ejus<lb ed="#B" n="79" break="no"/>sem summus interpres et principalis controversiarum 
       <lb ed="#B" n="80"/>judex. Deus est principalis Scripturae auctor. Ergo 
       <lb ed="#B" n="81"/>Scriptura non est ἰδίας ἐπιλύσεως, inquit Petrus 
-      <lb ed="#B" n="82"/>2. epist. 1. v. 21. <quote source="http://scta.info/resource/IIpetr1_21@1-17">quia non voluntate humana allata 
+      <lb ed="#B" n="82"/>2. epist. 1. v. 21. <quote xml:id="zef3dd-d1e436-Qd1e209" source="http://scta.info/resource/IIpetr1_21@1-17">quia non voluntate humana allata 
       <lb ed="#B" n="83"/>est prophetia, sed Spiritu sancto inspirati locuti 
       <lb ed="#B" n="84"/>cunt sancti Dei homines</quote>, hoc est, quia per Spiritum 
       <lb ed="#B" n="85"/>sanctum Scripturae sunt editae, ideo etiam per 
@@ -190,8 +190,8 @@
       <lb ed="#B" n="46"/>phetas a falsis ac proinde etiam veritatem doctrinae 
       <lb ed="#B" n="47"/>a corruptelis haereticis discernere, quod absqu 
       <lb ed="#B" n="48"/>aliquo de controversiis fidei judicio fieri 
-      nequi<lb ed="#B" n="49" break="no"/>Joh. 10, v. 27: <quote source="http://scta.info/resource/io10_27@1-5">Oves meae vocem meam audiun</quote> 
-      <lb ed="#B" n="50"/>v. 5: <quote source="http://scta.info/resource/io10_5@1-4">Alienum autem non sequuntur</quote>. Si ovium 
+      nequi<lb ed="#B" n="49" break="no"/>Joh. 10, v. 27: <quote xml:id="zef3dd-d1e436-Qd1e426" source="http://scta.info/resource/io10_27@1-5">Oves meae vocem meam audiun</quote> 
+      <lb ed="#B" n="50"/>v. 5: <quote xml:id="zef3dd-d1e436-Qd1e431" source="http://scta.info/resource/io10_5@1-4">Alienum autem non sequuntur</quote>. Si ovium 
       <lb ed="#B" n="51"/>Christi proprium est vocem pastoris sui audire et 
       <lb ed="#B" n="52"/>ab aliorum vocibus eam discernere, utique judiciur 
       <lb ed="#B" n="53"/>aliquod de doctrina ipsis competit, quia talis discre 
@@ -199,17 +199,17 @@
       <lb ed="#B" n="55"/>v. II. Beroënses hoc nomine laudantur, quod de 
       <lb ed="#B" n="56"/>doctrina apostolorum judicaverint ex Scripturis 
       <lb ed="#B" n="57"/>Rom. 16, v. 17 praecipit apostolus Romanis, 
-      obse<lb ed="#B" n="58" break="no"/>vare <quote source="http://scta.info/resource/rom16_17@7-11">eos, qui dissensiones et offendicula</quote> 
-      excitan<lb ed="#B" n="59" break="no"/>I. Cor. 10, v. 15: <quote source="http://scta.info/resource/Icor10_15@1-7">Ut prudentibus loquor, vos ips 
+      obse<lb ed="#B" n="58" break="no"/>vare <quote xml:id="zef3dd-d1e436-Qd1e451" source="http://scta.info/resource/rom16_17@7-11">eos, qui dissensiones et offendicula</quote> 
+      excitan<lb ed="#B" n="59" break="no"/>I. Cor. 10, v. 15: <quote xml:id="zef3dd-d1e436-Qd1e457" source="http://scta.info/resource/Icor10_15@1-7">Ut prudentibus loquor, vos ips 
       <lb ed="#B" n="60"/>judicate quod dico</quote>. c. 11, v. 13: Vos ipsi judicate, 
       <!--275.xml-->
       <cb ed="#B" n="b"/>
-               <lb ed="#B" n="61"/>an <quote source="http://scta.info/resource/Icor11_13@4-8">deceat mulierem non velatam orare</quote> in publicis 
-      <lb ed="#B" n="62"/>congressibus. <ref xml:id="zef3dd-d1e436-Rd1e446">Gal. 1. v. 8</ref>: <quote source="http://scta.info/resource/gal1_8@2-15">Licet nos aut angelus 
+               <lb ed="#B" n="61"/>an <quote xml:id="zef3dd-d1e436-Qd1e468" source="http://scta.info/resource/Icor11_13@4-8">deceat mulierem non velatam orare</quote> in publicis 
+      <lb ed="#B" n="62"/>congressibus. <ref xml:id="zef3dd-d1e436-Rd1e446">Gal. 1. v. 8</ref>: <quote xml:id="zef3dd-d1e436-Qd1e477" source="http://scta.info/resource/gal1_8@2-15">Licet nos aut angelus 
       <lb ed="#B" n="63"/>e coelo evangelizet vobis praeterquam quod 
       evange<lb ed="#B" n="64" break="no"/>lizavimus vobis, anathema sit</quote>. <ref xml:id="zef3dd-d1e436-Rd1e453">1. Thess. 5, v. 21</ref>. 
-      <lb ed="#B" n="65"/><quote source="http://scta.info/resource/Ith5_21@1-7">Omnia probate, quod bonum est, tenete</quote>. <ref xml:id="zef3dd-d1e436-Rd1e457">1. Joh. 4. 
-      <lb ed="#B" n="66"/>v. 1</ref>: <quote source="http://scta.info/resource/Iio4_1@2-11">Nolite omni spiritui credere, sed probate 
+      <lb ed="#B" n="65"/><quote xml:id="zef3dd-d1e436-Qd1e488" source="http://scta.info/resource/Ith5_21@1-7">Omnia probate, quod bonum est, tenete</quote>. <ref xml:id="zef3dd-d1e436-Rd1e457">1. Joh. 4. 
+      <lb ed="#B" n="66"/>v. 1</ref>: <quote xml:id="zef3dd-d1e436-Qd1e497" source="http://scta.info/resource/Iio4_1@2-11">Nolite omni spiritui credere, sed probate 
       <lb ed="#B" n="67"/>spiritus, an eint ex Deo</quote>. Si auditores debent 
       pro<lb ed="#B" n="68" break="no"/>bare spiritus, id est, doctores revelationem spiritur 
       <lb ed="#B" n="69"/>jactitantes, utique ipsa necessitas requirit, ut et 
@@ -270,7 +270,7 @@
       <!--276.xml-->
       <pb ed="#B" n="203"/>
                <cb ed="#B" n="a"/>
-               <lb ed="#B" n="1"/>mino per prophetam. v. 43: <quote source="http://scta.info/resource/mt22_43@5-10">David in Spiritu 
+               <lb ed="#B" n="1"/>mino per prophetam. v. 43: <quote xml:id="zef3dd-d1e436-Qd1e630" source="http://scta.info/resource/mt22_43@5-10">David in Spiritu 
       Mes<lb ed="#B" n="2" break="no"/>ciam vocat Dominum</quote>. Luc. 16, v. 27: Audian 
       <lb ed="#B" n="3"/>Moysen et prophetas. Rom. 3, v. 19: Lex loquitur 
       <lb ed="#B" n="4"/>Galat. 4, v. 30: Quid dicit Scriptura? etc. Jam 
@@ -297,22 +297,22 @@
       <lb ed="#B" n="25"/>instrumentalis agit in virtute causae principalis 
       <lb ed="#B" n="26"/>Antecedens probatur hoc modo. Rom. 11, v. 32. 
       <lb ed="#B" n="27"/>Concludit Deus omnes sub incredulitate, et Galat. 3 
-      <lb ed="#B" n="28"/>v. 22: <quote source="http://scta.info/resource/gal3_22@2-6">Concludit Scriptura omnia sub peccate</quote> 
+      <lb ed="#B" n="28"/>v. 22: <quote xml:id="zef3dd-d1e436-Qd1e691" source="http://scta.info/resource/gal3_22@2-6">Concludit Scriptura omnia sub peccate</quote> 
       <lb ed="#B" n="29"/>Ex quo emergunt haec axiomata: Deus voce 
       le<lb ed="#B" n="30" break="no"/>gis accusantis omnes concludit sub incredulitate. 
       <lb ed="#B" n="31"/>Scriptura sive scripta Dei lex omnes concludi 
       <lb ed="#B" n="32"/>sub incredulitatis peccato. Sic Johan. 5, v. 22. 
       <lb ed="#B" n="33"/>Act. 17, v. 31. Christus est judex a Deo 
       con<lb ed="#B" n="34" break="no"/>stitutus. Atqui idem remittit nos ad Scripturas 
-      <lb ed="#B" n="35"/>Joh. 5, v. 39. et notanter dicit Joh. 12, v. 48: <quote source="http://scta.info/resource/io12_48@5-12">Qu 
+      <lb ed="#B" n="35"/>Joh. 5, v. 39. et notanter dicit Joh. 12, v. 48: <quote xml:id="zef3dd-d1e436-Qd1e709" source="http://scta.info/resource/io12_48@5-12">Qu 
       <lb ed="#B" n="36"/>non recipit verba mea, habet qui judicet eum</quote>. Ver 
       <lb ed="#B" n="37"/>bum, quod locutus sum, judicabit eum in die no 
       <lb ed="#B" n="38"/>vissimo, ubi in praesenti et in futuro sermo Christ 
       <lb ed="#B" n="39"/>dicitur judicare. Ex quo profluunt haec axiomata; 
       <lb ed="#B" n="40"/>Christus judicat per verbum. Et verbum Christi 
       <lb ed="#B" n="41"/>judicat tanquam vox judicis. Sic Joh. 16, v. 8. 
-      <lb ed="#B" n="42"/>Spiritus sanctus <quote source="http://scta.info/resource/io16_8@5-9">arquet mundum de peccato et</quote> Rom 
-      <lb ed="#B" n="43"/>3, v. 19: <quote source="http://scta.info/resource/rom3_19@4-22">Quaecunque lex loquitur, iis, qui in 
+      <lb ed="#B" n="42"/>Spiritus sanctus <quote xml:id="zef3dd-d1e436-Qd1e728" source="http://scta.info/resource/io16_8@5-9">arquet mundum de peccato et</quote> Rom 
+      <lb ed="#B" n="43"/>3, v. 19: <quote xml:id="zef3dd-d1e436-Qd1e733" source="http://scta.info/resource/rom3_19@4-22">Quaecunque lex loquitur, iis, qui in 
       leg<lb ed="#B" n="44" break="no"/>sunt, loquitur, ut omne os obstruatur et fiat totus 
       <lb ed="#B" n="45"/>mundus obnoxius DEO</quote>. Ex quo promanant haec 
       <lb ed="#B" n="46"/>axiomata: Spiritus sanctus arguit mundum ministe 
@@ -333,7 +333,7 @@
       <!--276.xml-->
       <cb ed="#B" n="b"/>
                <lb ed="#B" n="61"/>Psal. 119, v. 3. Verbum Domini judicabit gentes 
-      <lb ed="#B" n="62"/>Cs. 2, v. 4. <quote source="http://scta.info/resource/rom2_12@12-17">qui in lege peccaverunt, per legem ju 
+      <lb ed="#B" n="62"/>Cs. 2, v. 4. <quote xml:id="zef3dd-d1e436-Qd1e781" source="http://scta.info/resource/rom2_12@12-17">qui in lege peccaverunt, per legem ju 
       <lb ed="#B" n="63"/>dicabuntur</quote> Rom. 2, v. II.** 2. Dan. 7. v. 10. 
       <lb ed="#B" n="64"/>Apoe. 20, v. 12. aperiuntur libri, juxta quos mortu 
       <lb ed="#B" n="65"/>udicabuntur. 3 Joh. 12, v. 48: Sermo quem locu 
@@ -344,7 +344,7 @@
       <lb ed="#B" n="70"/>controversiis in hac vita ferendo recte tribuitur ser 
       <lb ed="#B" n="71"/>noni Christi et verbo Dei scripto. I. Rom. 2. v. 16. 
       <lb ed="#B" n="72"/>judicabit Deus mundum jucta evangelium, quod 
-      <lb ed="#B" n="73"/>apostoli praedicarunt. 5. Hebr. 4. v. 12: <quote source="http://scta.info/resource/hebr4_12@5-12">Vivus Der 
+      <lb ed="#B" n="73"/>apostoli praedicarunt. 5. Hebr. 4. v. 12: <quote xml:id="zef3dd-d1e436-Qd1e808" source="http://scta.info/resource/hebr4_12@5-12">Vivus Der 
       <lb ed="#B" n="74"/>sermo est efficax, penctrabilior gladio ancipiti</quote> 
       <lb ed="#B" n="75"/>εριτικὸς ἐνθυμήσεων. Quidam ex veteribus, ut 
       Atha<lb ed="#B" n="76" break="no"/>nasius orat. 3. contra Arian. tom. 1. p. 212. Hiero 
@@ -428,7 +428,7 @@
       <lb ed="#B" n="29"/>sanguis meus, qui pro multis effundetur in remis 
       <lb ed="#B" n="30"/>sionem peccatorum. Judicet cum illo et apostolus 
       <lb ed="#B" n="31"/>quia et in apostolo ipse loquitur Christus. Clamo 
-      <lb ed="#B" n="32"/>et dicit de Deo Patre, <quote source="http://scta.info/resource/rom8_32@1-11">quia proprio Filio non pe 
+      <lb ed="#B" n="32"/>et dicit de Deo Patre, <quote xml:id="zef3dd-d1e436-Qd1e991" source="http://scta.info/resource/rom8_32@1-11">quia proprio Filio non pe 
       <lb ed="#B" n="33"/>percit, sed pro nobis omnibus tradidit</quote> eum. lib. 2. 
       <lb ed="#B" n="34"/>contra Crescon. e. 21: Ecclesia non debet se 
       pra<lb ed="#B" n="35" break="no"/>ponere Christo, quia ille semper veraciter judica 
@@ -977,10 +977,10 @@
       <lb ed="#B" n="52"/>3. De supremo et authentico controversiarum fide 
       <lb ed="#B" n="53"/>judice negamus hanc conditionem, quod necessari 
       <lb ed="#B" n="54"/>debeat videri αὐτοπροσώκως et audiri αὐτομ ώνως 
-      <lb ed="#B" n="55"/><quote source="http://scta.info/resource/io3_18@7-13">Qui non credit, jam judicatus est</quote>, ait Christu 
+      <lb ed="#B" n="55"/><quote xml:id="zef3dd-d1e436-Qd1e2165" source="http://scta.info/resource/io3_18@7-13">Qui non credit, jam judicatus est</quote>, ait Christu 
       <lb ed="#B" n="56"/>Johan. 3, v. 18, quamvis illud non videat. Sufficit 
       <lb ed="#B" n="57"/>ejus vocem audiri ab omnibus in scriptis prophet 
-      <lb ed="#B" n="58"/>cis et apostolicis. Johan. 12, v. 48: <quote source="http://scta.info/resource/io12_48@13-22">Sermo, quem 
+      <lb ed="#B" n="58"/>cis et apostolicis. Johan. 12, v. 48: <quote xml:id="zef3dd-d1e436-Qd1e2174" source="http://scta.info/resource/io12_48@13-22">Sermo, quem 
       <lb ed="#B" n="59"/>locutus sum, judicabit in die</quote> novissimo. 4. Spiritur 
       <lb ed="#B" n="60"/>sanctus in Scripturis loquens, non quidem vi ex 
       <!--281.xml-->
@@ -1205,7 +1205,7 @@
       s<lb ed="#B" n="22" break="no"/>ductricem fuisse pessimam. Primi parentes seducti 
       <lb ed="#B" n="23"/>judicio rationis ab expresso Dei verbo defecerum 
       <lb ed="#B" n="24"/>inde apostolus Corinthios suos praemonet 2. Cor. 11. 
-      <lb ed="#B" n="25"/>v. 3: <quote source="http://scta.info/resource/IIcor11_3@1-21">Timeo, ne, sicut serpens Evam seduxit quo 
+      <lb ed="#B" n="25"/>v. 3: <quote xml:id="zef3dd-d1e436-Qd1e2665" source="http://scta.info/resource/IIcor11_3@1-21">Timeo, ne, sicut serpens Evam seduxit quo 
       <lb ed="#B" n="26"/>astutia, sic et corrumpantur sensus vestri et 
       exc<lb ed="#B" n="27" break="no"/>dant a simplicitate, quae est in Christo</quote>. Naama 
       <lb ed="#B" n="28"/>Syrus, Nicodemus, Thomas etc. sensuum et rationis 
@@ -1215,7 +1215,7 @@
       <lb ed="#B" n="32"/>quaves sermones rationis judicio apprime 
       confor<lb ed="#B" n="33" break="no"/>mes seducant corda innocentium. Contra vero 
       <lb ed="#B" n="34"/>Abrahamus in spem contra spem credidit Rom. 4. 
-      <lb ed="#B" n="35"/>v. 18. <quote source="http://scta.info/resource/rom4_19@5-8">nec consideravit corpus suum emortuum</quote> 
+      <lb ed="#B" n="35"/>v. 18. <quote xml:id="zef3dd-d1e436-Qd1e2690" source="http://scta.info/resource/rom4_19@5-8">nec consideravit corpus suum emortuum</quote> 
       <lb ed="#B" n="36"/>hoc est, non secutus est judicium suae rationis de 
       <lb ed="#B" n="37"/>proprietatibus corporis effoeti et senilis, sed in pro 
       <lb ed="#B" n="38"/>missione Dei fide recubuit non haesitans diffidentis 
@@ -1223,13 +1223,13 @@
       <lb ed="#B" n="40"/>ubique in rebus divinis a judicio sensuum et ratio 
       <lb ed="#B" n="41"/>nis ad verbum nos revocant. Esa. 55, v. 6: Cogita 
       <lb ed="#B" n="42"/>tiones meae non sunt sicut vestrae. Zach. 8, v. 6. 
-      <lb ed="#B" n="43"/><quote source="http://scta.info/resource/zac8_6@5-12">Si videtur hoc difficile in oculis populi hujus</quote>, num 
+      <lb ed="#B" n="43"/><quote xml:id="zef3dd-d1e436-Qd1e2709" source="http://scta.info/resource/zac8_6@5-12">Si videtur hoc difficile in oculis populi hujus</quote>, num 
       <lb ed="#B" n="44"/>quid erit difficile in oculis ejus? Matth. 19, v. 20 
-      <lb ed="#B" n="45"/><quote source="http://scta.info/resource/mt19_26@6-15">Apud homines hoc est impossibile, apud Deum 
-      <lb ed="#B" n="46"/>autem omnia possibilia</quote>. Eph. 3, v. 20: <quote source="http://scta.info/resource/eph3_20@4-10">Deu 
+      <lb ed="#B" n="45"/><quote xml:id="zef3dd-d1e436-Qd1e2716" source="http://scta.info/resource/mt19_26@6-15">Apud homines hoc est impossibile, apud Deum 
+      <lb ed="#B" n="46"/>autem omnia possibilia</quote>. Eph. 3, v. 20: <quote xml:id="zef3dd-d1e436-Qd1e2721" source="http://scta.info/resource/eph3_20@4-10">Deu 
       <lb ed="#B" n="47"/>potens est super omnia facere ἱπερεκκερισσοῦ, 
       plu<lb ed="#B" n="48" break="no"/>quam abundanter, supra quam petimus</quote> vel intello 
-      <lb ed="#B" n="49"/>gimus. Coloss. 2, v. 8: <quote source="http://scta.info/resource/col2_8@1-7">Videte, ne quis vos 
+      <lb ed="#B" n="49"/>gimus. Coloss. 2, v. 8: <quote xml:id="zef3dd-d1e436-Qd1e2730" source="http://scta.info/resource/col2_8@1-7">Videte, ne quis vos 
       depra<lb ed="#B" n="50" break="no"/>detur per philosophiam</quote>. 4. sibi ipsis, quidom qua 
       <lb ed="#B" n="51"/>Irupliciter. Nam I. ipsimet rationis judicium in 
       <lb ed="#B" n="52"/>fidei quaestionibus repudiant. Socin. in solut. 
@@ -1474,12 +1474,12 @@
       <lb ed="#B" n="35"/>unice ad praescriptum verbi sit respiciendum 
       Nur<lb ed="#B" n="36" break="no"/>15, v. 39. Ezech. 20, v. 19. Jer. 7, v. 31. Zacha 
       <lb ed="#B" n="37"/>7, v. 5. Eph. 2, v. 10; ac d. apostolus im eode 
-      <lb ed="#B" n="38"/>loco notanter addit: <quote source="http://scta.info/resource/rom12_2@13-22">ut-probetis, quae sit volunta 
+      <lb ed="#B" n="38"/>loco notanter addit: <quote xml:id="zef3dd-d1e436-Qd1e3259" source="http://scta.info/resource/rom12_2@13-22">ut-probetis, quae sit volunta 
       <lb ed="#B" n="39"/>Dei bona, beneplacens ac perfecta</quote> v. 2, ac sequent 
       <lb ed="#B" n="40"/>capite monstraturus, quomodo bona illa Dei volum 
       <lb ed="#B" n="41"/>tas sit probanda, recitat decalogum. 3. Sed per 
       <lb ed="#B" n="42"/>cultum λογικόν intelligitur primo is, qui sacrifici 
-      <lb ed="#B" n="43"/>Leviticis est oppositus. Obsecro vos, inquit, <quote source="http://scta.info/resource/rom12_1@8-16">ut prae 
+      <lb ed="#B" n="43"/>Leviticis est oppositus. Obsecro vos, inquit, <quote xml:id="zef3dd-d1e436-Qd1e3273" source="http://scta.info/resource/rom12_1@8-16">ut prae 
       <lb ed="#B" n="44"/>beatis corpora vestra hostiam viventem, canctam 
       <lb ed="#B" n="45"/>Deo placentem</quote> λογικὴν λατρείαν ὑμῶν. Est ergo in 
       <lb ed="#B" n="46"/>verbis apostoli pulcherrima antithesis inter sacrificis 
@@ -1535,7 +1535,7 @@
                <lb ed="#B" n="90"/>479. 4. Weigeliani itidem judiciarias partes 
       Scri<lb ed="#B" n="91" break="no"/>pturae in fidei controversiis derogant. In praefat. 
       <lb ed="#B" n="92"/>post. Weigel. Judicium non debetio petere ex litero 
-      <lb ed="#B" n="93"/>Scripturae, aed ex <quote source="http://scta.info/resource/IIcor3_6@12-18">Spiritu, quia litera occidit, 
+      <lb ed="#B" n="93"/>Scripturae, aed ex <quote xml:id="zef3dd-d1e436-Qd1e3394" source="http://scta.info/resource/IIcor3_6@12-18">Spiritu, quia litera occidit, 
       Spi<lb ed="#B" n="94" break="no"/>ritus autem vivificat</quote>. In libro, cui titulus Gülden 
       <lb ed="#B" n="95"/>griff p. 55: Alii nolunt eo modo hominibus ad 
       <lb ed="#B" n="96"/>haerere, sed constituunt judicium petere ex Scriptura 
